@@ -85,6 +85,9 @@
 
   // --- Data fetch ---------------------------------------------------------
   async function loadData(initial) {
+    const btn = document.getElementById("refresh");
+    const origLabel = btn ? btn.textContent : null;
+    if (btn && !initial) { btn.disabled = true; btn.textContent = "↻ Fetching…"; }
     setStatus("Fetching latest…");
     try {
       const res = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
@@ -118,6 +121,11 @@
         setStatus("Could not load data/news.json — the ingestion script may not have run yet. Run scripts/update_news.py or trigger the GitHub Action.", "err");
       } else {
         setStatus("Refresh failed: " + err.message, "warn");
+      }
+    } finally {
+      if (btn && !initial) {
+        btn.disabled = false;
+        if (origLabel) btn.textContent = origLabel;
       }
     }
   }

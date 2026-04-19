@@ -11,9 +11,11 @@ on:
       - "scripts/update_news.py"
       - ".github/workflows/refresh-news.yml"
 
-# The workflow needs write permission to commit data/news.json back to the repo.
+# Write permission to commit data/news.json; Pages permissions to deploy.
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: refresh-news
@@ -80,3 +82,23 @@ jobs:
           done
           echo "Giving up after 5 push attempts." >&2
           exit 1
+
+      # Re-checkout so the Pages artifact reflects the commit we just pushed
+      # (important when the commit was made by a prior retry loop iteration).
+      - name: Checkout final main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
