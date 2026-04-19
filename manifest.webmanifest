@@ -1,0 +1,20 @@
+{
+  "name": "Live Tech News Board",
+  "short_name": "Tech News",
+  "description": "Rotating live tech news — Gadgets, Innovation, AI, Science — with a 90-day searchable archive.",
+  "id": "/live-tech-news/",
+  "scope": "./",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "categories": ["news", "technology", "productivity"],
+  "icons": [
+    { "src": "assets/icons/icon.svg",          "type": "image/svg+xml", "sizes": "any", "purpose": "any" },
+    { "src": "assets/icons/icon-192.png",      "type": "image/png",     "sizes": "192x192", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png",      "type": "image/png",     "sizes": "512x512", "purpose": "any" },
+    { "src": "assets/icons/icon-maskable-192.png", "type": "image/png", "sizes": "192x192", "purpose": "maskable" },
+    { "src": "assets/icons/icon-maskable-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+  ]
+}

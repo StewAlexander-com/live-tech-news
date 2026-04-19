@@ -1,0 +1,58 @@
+name: Refresh news
+
+on:
+  schedule:
+    # Every 15 minutes (best-effort; GitHub cron typically lags 5-15 min).
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}    # allow manual runs from the Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - "scripts/update_news.py"
+      - ".github/workflows/refresh-news.yml"
+
+# The workflow needs write permission to commit data/news.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install deps
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run ingestion
+        env:
+          # Optional — only used if you add this secret in repo settings.
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          LTN_REPO_URL: "https://github.com/${{ github.repository }}"
+        run: python scripts/update_news.py
+
+      - name: Commit updated snapshot
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore(data): refresh news snapshot [skip ci]"
+            git push
+          fi

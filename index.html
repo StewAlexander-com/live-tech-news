@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Live Tech News Board</title>
+  <meta name="description" content="Rotating live-ish tech news board: Gadgets, Innovation, AI, and Science (tech-bent). Auto-refreshes, fuzzy searchable, 90-day archive." />
+  <meta name="theme-color" content="#0b1220" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Tech News" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="./assets/icons/icon-180.png" />
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+<body data-theme="dark">
+  <header class="top">
+    <div class="brand">
+      <span class="pulse" aria-hidden="true"></span>
+      <h1>Live Tech News Board</h1>
+      <span class="tag">3–5 per lane · rotating · 90-day archive</span>
+    </div>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Fuzzy search headlines, sources, tags…" aria-label="Search headlines" autocomplete="off" />
+      <button id="refresh" title="Refresh now" aria-label="Refresh now">↻ Refresh</button>
+      <button id="theme" title="Toggle theme" aria-label="Toggle theme">☾</button>
+    </div>
+  </header>
+
+  <section id="status" class="status" aria-live="polite"></section>
+
+  <main id="board" class="board">
+    <!-- Lanes injected by JS -->
+  </main>
+
+  <section id="searchResults" class="search-results" hidden>
+    <h2>Search results <span id="searchCount" class="muted"></span></h2>
+    <ol id="searchList"></ol>
+  </section>
+
+  <footer class="foot">
+    <span id="lastUpdated">Loading…</span>
+    <span class="sep">·</span>
+    <span>Lanes rotate every 5 min (staggered) · data every <span id="pollMin">5</span> min</span>
+    <span class="sep">·</span>
+    <a href="https://github.com/stewalexander-com/live-tech-news" id="repoLink" rel="noopener">View repo</a>
+    <span class="sep">·</span>
+    <button id="installBtn" hidden title="Install as app">Install app</button>
+  </footer>
+
+  <!-- Fuse.js via CDN (pinned) -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
+  <script src="./assets/js/app.js" defer></script>
+</body>
+</html>

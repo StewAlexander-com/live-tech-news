@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Live Tech News">
+  <!-- Deep indigo rounded square, ~22.6% corner radius (Apple-style 'squircle' approximation). -->
+  <rect width="512" height="512" rx="116" ry="116" fill="#0b1220"/>
+
+  <!-- Masthead: thin neutral bar (reads as the top of a newspaper fold). -->
+  <rect x="112" y="132" width="288" height="8" rx="4" fill="#9aa7bd"/>
+
+  <!-- One tiny cyan live-dot tucked into the masthead's right edge.
+       Communicates "live feed" without a literal broadcast icon. -->
+  <circle cx="400" cy="136" r="12" fill="#7cf"/>
+
+  <!-- Four columns of decreasing height from left → right, like a descending
+       stack of news cards. Column width 56, gap 24, baseline at y=388. -->
+  <g fill="#e7ecf5">
+    <rect x="112" y="160" width="56" height="228" rx="10"/>
+    <rect x="192" y="184" width="56" height="204" rx="10"/>
+    <rect x="272" y="208" width="56" height="180" rx="10"/>
+    <rect x="352" y="232" width="56" height="156" rx="10"/>
+  </g>
+</svg>
