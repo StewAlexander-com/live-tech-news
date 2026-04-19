@@ -49,20 +49,33 @@ jobs:
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          if git diff --cached --quiet; then
-            echo "No data changes."
-            exit 0
-          fi
-          git commit -m "chore(data): refresh news snapshot [skip ci]"
-          # Retry with rebase on non-fast-forward (another run may have pushed).
+
+          # Stash the freshly generated snapshot so we can replay it on top of
+          # remote HEAD no matter what the rebase would otherwise do to it.
+          cp data/news.json /tmp/news.fresh.json
+
           for attempt in 1 2 3 4 5; do
-            if git push; then
+            # Reset to remote HEAD, then replay our fresh snapshot on top.
+            # Local snapshot is always authoritative (newest reading).
+            git fetch origin main --quiet
+            git reset --hard origin/main --quiet
+
+            cp /tmp/news.fresh.json data/news.json
+            git add data/news.json
+
+            if git diff --cached --quiet; then
+              echo "Remote already has identical snapshot. Done."
+              exit 0
+            fi
+
+            git commit -m "chore(data): refresh news snapshot [skip ci]" --quiet
+
+            if git push origin HEAD:main; then
               echo "Pushed on attempt $attempt."
               exit 0
             fi
-            echo "Push attempt $attempt rejected; rebasing and retrying."
-            git pull --rebase --autostash origin main || true
+
+            echo "Push attempt $attempt rejected; will reset and retry."
             sleep $((attempt * 3))
           done
           echo "Giving up after 5 push attempts." >&2
