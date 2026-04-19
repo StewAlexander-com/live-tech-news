@@ -1,9 +1,12 @@
 # live-tech-news
 
+Live site: **https://stewalexander-com.github.io/live-tech-news/**
+
 A rotating, live-ish tech news board deployable to GitHub Pages. Four lanes
 (**Gadgets · Innovation · AI · Science with a tech bent**) each show 3–5
 headlines at a time, newest on top, fuzzy-searchable, auto-refreshing, with a
-90-day rolling archive and a FILO per-lane queue.
+90-day rolling archive and a FILO per-lane queue. Installable as a PWA on
+iOS/Android home screens.
 
 No backend. Everything runs as a static site plus one scheduled GitHub Action.
 
@@ -13,14 +16,19 @@ No backend. Everything runs as a static site plus one scheduled GitHub Action.
 
 - **UI:** `index.html` + vanilla JS + Fuse.js CDN. No build step.
 - **Data:** `data/news.json` — a single JSON snapshot the browser polls.
-- **Ingestor:** `scripts/update_news.py` pulls RSS from ~19 sources plus the
-  Hacker News Algolia API (optionally NewsAPI), classifies items into the 4
-  lanes, dedupes by canonical URL and title hash, ranks with an
-  impact/less-circulated bias, penalizes paywalls, enforces a 60-item-per-lane
-  FILO queue, prunes anything older than 90 days, and rewrites `data/news.json`.
+- **Ingestor:** `scripts/update_news.py` pulls RSS from ~31 sources (seed list
+  inspired by [techurls.com](https://techurls.com/)) plus the Hacker News
+  Algolia API (optionally NewsAPI), classifies items into the 4 lanes, dedupes
+  by canonical URL and title hash, ranks with an impact/less-circulated bias,
+  penalizes paywalls, enforces a 60-item-per-lane FILO queue, prunes anything
+  older than 90 days, and rewrites `data/news.json`.
 - **Refresh:** `.github/workflows/refresh-news.yml` runs the ingestor on a
-  30-minute cron and commits the updated snapshot back to `main`. GitHub Pages
+  15-minute cron and commits the updated snapshot back to `main`. GitHub Pages
   redeploys automatically via `.github/workflows/pages.yml`.
+- **Display:** each lane rotates one slot every 5 minutes, staggered by
+  75 seconds per lane so the board doesn't move in lockstep.
+- **PWA:** `manifest.webmanifest` + `sw.js` provide offline cache, home-screen
+  install, and a flat newspaper-fold icon.
 
 ## Screens
 
@@ -78,11 +86,19 @@ full 90 days remains fuzzy-searchable.
 
 ### Sources (default)
 
-Gadgets: Ars Technica, The Verge, Engadget, Tom's Hardware, Liliputing.
-Innovation: MIT Tech Review, Hackaday, IEEE Spectrum, TechCrunch, The Register.
-AI: Ars Technica AI, MIT Tech Review AI, arXiv cs.AI, arXiv cs.LG.
-Science (tech-bent): Ars Technica Science, Quanta Magazine, Phys.org,
-ScienceDaily Engineering, Nature. Plus Hacker News front page across all lanes.
+Source roster is inspired by [techurls.com](https://techurls.com/) plus extra
+research/niche outlets:
+
+- **Gadgets:** Ars Technica, The Verge, Engadget, Tom's Hardware, Liliputing,
+  CNET, TechRadar, Mac Rumors, Android Police.
+- **Innovation:** MIT Tech Review, Hackaday, IEEE Spectrum, TechCrunch, The
+  Register, The Next Web, ReadWrite, MakeUseOf, Techmeme, Daring Fireball,
+  Slashdot, Reddit r/technology.
+- **AI:** Ars Technica AI, MIT Tech Review AI, arXiv cs.AI, arXiv cs.LG.
+- **Science (tech-bent):** Ars Technica Science, Quanta Magazine, Phys.org,
+  ScienceDaily Engineering, Nature.
+- **Cross-lane signal:** Hacker News front page via the Algolia API, classified
+  into the appropriate lane per item.
 
 Set `NEWSAPI_KEY` (repo secret) to add NewsAPI as an extra source.
 
@@ -154,8 +170,18 @@ run (or your manual `workflow_dispatch`) will commit a fresh `data/news.json`.
 In `assets/js/app.js`:
 
 - `VISIBLE_PER_LANE` — how many items on screen per lane (default 5).
-- `ROTATION_MS` — per-lane rotation cadence (default 9000 ms).
+- `ROTATION_MS` — per-lane rotation cadence (default 5 min).
+- `LANE_STAGGER_MS` — offset between lanes (default 75 sec × lane index).
 - `POLL_MS` — how often the UI re-fetches `news.json` (default 5 min).
+
+## PWA / installation
+
+On the live site, tap the browser's **Share → Add to Home Screen** (iOS) or
+use the **Install** button that appears in the footer (Android/desktop Chrome).
+The app icon is a flat four-column newspaper-fold mark on deep indigo.
+
+The service worker (`sw.js`) caches the app shell and Fuse.js for offline use,
+and falls back to the last-known `data/news.json` when the network is down.
 
 ## License
 

@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: refresh-news
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
@@ -52,7 +52,18 @@ jobs:
           git add data/news.json
           if git diff --cached --quiet; then
             echo "No data changes."
-          else
-            git commit -m "chore(data): refresh news snapshot [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore(data): refresh news snapshot [skip ci]"
+          # Retry with rebase on non-fast-forward (another run may have pushed).
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt rejected; rebasing and retrying."
+            git pull --rebase --autostash origin main || true
+            sleep $((attempt * 3))
+          done
+          echo "Giving up after 5 push attempts." >&2
+          exit 1
