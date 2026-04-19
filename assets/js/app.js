@@ -93,12 +93,25 @@
       state.snapshot = normalizeSnapshot(json);
       rebuildFuse();
       renderAllLanes();
-      const ts = state.snapshot.generated_at
-        ? new Date(state.snapshot.generated_at).toLocaleString()
-        : "unknown";
-      document.getElementById("lastUpdated").textContent = "Last updated: " + ts;
+      const genMs = state.snapshot.generated_at ? Date.parse(state.snapshot.generated_at) : NaN;
+      const ageMin = Number.isFinite(genMs) ? Math.round((Date.now() - genMs) / 60000) : null;
+      const tsStr = Number.isFinite(genMs) ? new Date(genMs).toLocaleString() : "unknown";
+      document.getElementById("lastUpdated").textContent =
+        ageMin == null ? "Last updated: unknown"
+        : `Snapshot ${ageMin === 0 ? "just now" : ageMin + " min ago"} · ${tsStr}`;
+      // newest headline age across all lanes
+      let newestMs = 0;
+      for (const l of LANES) {
+        for (const it of (state.snapshot.lanes[l.key] || [])) {
+          const t = it.published_ts || (it.published ? Date.parse(it.published) : 0);
+          if (t > newestMs) newestMs = t;
+        }
+      }
+      const newestAge = newestMs ? Math.round((Date.now() - newestMs) / 60000) : null;
+      const newestStr = newestAge == null ? ""
+        : ` · newest headline ${newestAge < 1 ? "just now" : newestAge + " min ago"}`;
       const totals = LANES.map(l => `${l.title}:${(state.snapshot.lanes[l.key] || []).length}`).join("  ");
-      setStatus(`Loaded ${totalItems()} items across 4 lanes · ${totals}`);
+      setStatus(`${totalItems()} items · ${totals}${newestStr}`);
     } catch (err) {
       console.error(err);
       if (initial) {
