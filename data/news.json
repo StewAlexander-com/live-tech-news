@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-20T21:44:57.214618+00:00",
+  "generated_at": "2026-04-20T21:58:57.670153+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "33c21597ce800d47",
+        "title": "WhatsApp's paid subscription starts rolling out to some",
+        "url": "https://www.androidpolice.com/whatsapps-paid-subscription-seemingly-started-rolling-out/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1776721585000,
+        "summary": "But your free experience isn't at risk",
+        "tags": [
+          "whatsapp",
+          "utilities"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.996
+      },
       {
         "id": "6bfd9ad869f32a36",
         "title": "Read Tim Cook’s letter to the Apple world as he departs as CEO",
@@ -1007,23 +1023,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8493
-      },
-      {
-        "id": "bb846204175048fe",
-        "title": "'Solving a problem that doesn't really exist': RAM crisis has reportedly delayed Apple's touchscreen MacBook — but some fans don't seem to care",
-        "url": "https://www.techradar.com/computing/macbooks/solving-a-problem-that-doesnt-really-exist-ram-crisis-has-reportedly-delayed-apples-touchscreen-macbook-but-some-fans-dont-seem-to-care",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776697189000,
-        "summary": "Not everyone is keen on the idea of a touchscreen MacBook — in fact, there's some distinct hostility towards the idea in places.",
-        "tags": [
-          "macbooks",
-          "computing",
-          "laptops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8492
       }
     ],
     "innovation": [
@@ -1054,6 +1053,21 @@
         "score": 1.0467
       },
       {
+        "id": "9cb60e5913f42fc1",
+        "title": "New study confirms lobsters feel pain, driving scientists to call for a ban on boiling them alive",
+        "url": "https://www.reddit.com/r/technology/comments/1sr3ir0/new_study_confirms_lobsters_feel_pain_driving/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1776720232000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9394
+      },
+      {
         "id": "cf5f8e6532f41d78",
         "title": "DF Paraphernalia: T-Shirts and Hoodies Are Back",
         "url": "https://store.daringfireball.net/",
@@ -1065,6 +1079,23 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0784
+      },
+      {
+        "id": "16400cdac34875ad",
+        "title": "WhatsApp is testing a paid subscription at EUR 2.49 per month as Meta rolls out premium tiers across its apps",
+        "url": "https://thenextweb.com/news/whatsapp-plus-instagram-premium-subscription-meta",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1776719059000,
+        "summary": "Summary: WhatsApp has begun testing a paid consumer subscription called WhatsApp Plus at approximately EUR 2.49 per month, offering cosmetic upgrades including 18 chat themes, custom icons, exclusive ringtones, and expanded pinned chats, following Instagram Plus which launched in three markets on 30 March. The subscriptions represent Meta’s first simultaneous consumer-facing paid tiers across its ",
+        "tags": [
+          "insights",
+          "next featured",
+          "meta"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8844
       },
       {
         "id": "760ff30fdeb502c2",
@@ -1948,42 +1979,57 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9897
-      },
-      {
-        "id": "f85ab8d3b9601d2e",
-        "title": "Rivian's factory hit by tornado ahead of R2 launch",
-        "url": "https://www.reddit.com/r/technology/comments/1sqqg5a/rivians_factory_hit_by_tornado_ahead_of_r2_launch/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1776694147000,
-        "summary": "submitted by /u/invincibilegoldfish [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9683
-      },
-      {
-        "id": "ce9174613bab54d5",
-        "title": "MSI launches new OLED monitors that significantly improve contrast and brightness — and it's a sign that the sky is the limit for OLED",
-        "url": "https://www.techradar.com/computing/monitors/msi-launches-new-oled-monitors-that-significantly-improve-contrast-and-brightness-and-its-a-sign-that-the-sky-is-the-limit-for-oled",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1776693600000,
-        "summary": "After their reveals at CES 2026, MSI has launched the 322UR and 321UP OLED monitors, both promising to address some of the display type's biggest issues.",
-        "tags": [
-          "monitors",
-          "computing",
-          "peripherals &amp; accessories"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8472
       }
     ],
     "ai": [
+      {
+        "id": "3f58fab425b76908",
+        "title": "OpenAI’s Codex for Mac now watches your screen to build context, but sends the screenshots to its servers first",
+        "url": "https://thenextweb.com/news/openai-codex-chronicle-screen-context-mac",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1776722007000,
+        "summary": "Summary: OpenAI’s Codex for Mac has added Chronicle, a research preview feature that periodically captures screenshots, sends them to OpenAI’s servers for processing, and stores text summaries as local unencrypted Markdown files to give the AI assistant passive context about user activity. The feature is unavailable in the EU, UK, and Switzerland, requires a $100+/month […] This story continues at",
+        "tags": [
+          "artificial intelligence",
+          "launch"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9703
+      },
+      {
+        "id": "95835ce335c51d4d",
+        "title": "New AI method captures long-range atomic interactions in complex molecules",
+        "url": "https://phys.org/news/2026-04-ai-method-captures-range-atomic.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1776721802000,
+        "summary": "Researchers from Google DeepMind in Berlin, BIFOLD, and the Technical University of Berlin have introduced a new machine learning method—Euclidean Fast Attention (EFA)—that enables global atomic interactions in chemical systems to be represented more efficiently. This could allow chemical and materials science processes to be simulated more accurately in the future, potentially accelerating the de",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0984
+      },
+      {
+        "id": "7f13ac186ad3fe7a",
+        "title": "Semrush launches a framework for measuring brand visibility in AI search as the old SEO playbook breaks down",
+        "url": "https://thenextweb.com/news/semrush-brand-visibility-framework-ai-search",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1776720587000,
+        "summary": "Summary: Semrush launched a Brand Visibility Framework at Adobe Summit introducing “Agentic Search Optimisation” as a new discipline for measuring brand presence across AI-generated answers, traditional search, and autonomous AI agents, drawing on 213 million LLM prompts. The framework arrives as organic click-through rates have dropped 61% on queries with AI Overviews, 62% of brands […] This stor",
+        "tags": [
+          "artificial intelligence",
+          "marketing and seo",
+          "launch"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9629
+      },
       {
         "id": "c6b34cb348b5a1a3",
         "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
@@ -2197,6 +2243,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1007
+      },
+      {
+        "id": "3344731d64637808",
+        "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+        "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776716353000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:227"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3728
       },
       {
         "id": "cea7ef7a7e7dc15b",
@@ -2870,71 +2932,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9645
-      },
-      {
-        "id": "a1c367d0aa480dcd",
-        "title": "Sources: UK-based CuspAI, which aims to use AI for discovering new materials, is in discussions to raise at least $200M, taking its valuation to over $1B (Yazhou Sun/Bloomberg)",
-        "url": "http://www.techmeme.com/260420/p14#a260420p14",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776697501000,
-        "summary": "Yazhou Sun / Bloomberg: Sources: UK-based CuspAI, which aims to use AI for discovering new materials, is in discussions to raise at least $200M, taking its valuation to over $1B — CuspAI, a British startup that aims to use artificial intelligence for discovering new materials, is in discussions to raise …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0793
-      },
-      {
-        "id": "f77c916cc1f92cdf",
-        "title": "AI did what? Gemini, Val Kilmer, Claude Mythos and more of the week’s most surprising developments",
-        "url": "https://www.techradar.com/ai-platforms-assistants/ai-did-what-gemini-val-kilmer-claude-mythos-and-more-of-the-weeks-most-surprising-developments",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776697462000,
-        "summary": "Have you been paying attention to the latest AI news? Take our quiz, then catch up on AI bringing Val Kilmer back, Gemini mastering human writing and more.",
-        "tags": [
-          "ai platforms &amp; assistants",
-          "chatgpt",
-          "openai",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9077
-      },
-      {
-        "id": "3e09496d7c8b2248",
-        "title": "Deezer says nearly half of all new music uploaded to its site is AI generated — and it's calling on Spotify and other streaming giants to do more about it",
-        "url": "https://www.techradar.com/audio/audio-streaming/deezer-says-nearly-half-of-all-new-music-uploaded-to-its-site-is-ai-generated-and-its-calling-on-spotify-and-other-streaming-giants-to-do-more-about-it",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776697401000,
-        "summary": "Deezer will no longer store hi-res versions of AI-generated songs in its continued fight against AI slop.",
-        "tags": [
-          "audio streaming",
-          "audio"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9169
-      },
-      {
-        "id": "cebf74c094fa1026",
-        "title": "Meet Bruce, the \"beak-jousting\" parrot",
-        "url": "https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776697222000,
-        "summary": "Kea parrot missing his upper beak \"has rewritten what disability means for behaviorally complex species.\"",
-        "tags": [
-          "science",
-          "animal behavior",
-          "biology",
-          "parrots"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9778
       }
     ],
     "science": [
