@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T03:51:56.659679+00:00",
+  "generated_at": "2026-04-20T04:42:04.254473+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1019,6 +1019,135 @@
     ],
     "innovation": [
       {
+        "id": "e65730d4499fb4d5",
+        "title": "Brave Browser Introduces 'Origin', a Pay-Once 'Minimalist' Browser",
+        "url": "https://slashdot.org/story/26/04/20/0423212/brave-browser-introduces-origin-a-pay-once-minimalist-browser?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1776659640000,
+        "summary": "The Brave browser \"has introduced Brave Origin, a stripped-down version of its browser that removes built-in monetization features like Rewards and other extras tied to its business model,\" writes Slashdot reader BrianFagioli\" The stripped-down browser is available either as a separate browser download or as an upgrade to the existing Brave install, unlocked through a one-time purchase that can be",
+        "tags": [
+          "chromium"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0473
+      },
+      {
+        "id": "178763f36b6ef850",
+        "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2604.15314",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15314v1 Announce Type: cross Abstract: This research aimed to develop an intelligent system to evaluate performance and extract behavioral models for children with ASD and neurotypical (TD) children by interacting with a virtual social robot in a music education program using deep neural networks. The system has two main features: 1) it distinguishes between neurotypical children and th",
+        "tags": [
+          "cs.hc",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "299256cd16ef2389",
+        "title": "Uncertainty, Vagueness, and Ambiguity in Human-Robot Interaction: Why Conceptualization Matters",
+        "url": "https://arxiv.org/abs/2604.15339",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15339v1 Announce Type: cross Abstract: Uncertainty, vagueness, and ambiguity are closely related and often confused concepts in human-robot interaction (HRI). In earlier studies, these concepts have been defined in contradictory ways and described using inconsistent terminology. This conceptual confusion and lack of terminological consistency undermine empirical comparability, thereby s",
+        "tags": [
+          "cs.hc",
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "0606af3cf4ef918f",
+        "title": "Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons",
+        "url": "https://arxiv.org/abs/2604.15360",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15360v1 Announce Type: new Abstract: This study presents a triadic analysis of energy storage operation under multi-stage model predictive control, investigating the interplay between data characteristics, forecast uncertainty, planning horizon, and battery c-rate. Synthetic datasets are generated to systematically explore variations in data profiles and uncertainty, enabling parametriz",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "b291e7508bde51ba",
+        "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
+        "url": "https://arxiv.org/abs/2604.15839",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15839v1 Announce Type: new Abstract: Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to optimistic estimates of model capability. We call the stricter, more realistic setting \"Hard Mode\": the system must independently discover the answer be",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
+      {
+        "id": "a3ab243079f274cd",
+        "title": "${\\pi}_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+        "url": "https://arxiv.org/abs/2604.15483",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15483v1 Announce Type: new Abstract: We present a new robotic foundation model, called ${\\pi}_{0.7}$, that can enable strong out-of-the-box performance in a wide range of scenarios. ${\\pi}_{0.7}$ can follow diverse language instructions in unseen environments, including multi-stage tasks with various kitchen appliances, provide zero-shot cross-embodiment generalization, for example enab",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
+      {
+        "id": "69c57a3189686677",
+        "title": "ProtoTTA: Prototype-Guided Test-Time Adaptation",
+        "url": "https://arxiv.org/abs/2604.15494",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15494v1 Announce Type: new Abstract: Deep networks that rely on prototypes-interpretable representations that can be related to the model input-have gained significant attention for balancing high accuracy with inherent interpretability, which makes them suitable for critical domains such as healthcare. However, these models are limited by their reliance on training data, which hampers ",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
+      {
+        "id": "cbea87836e7a76a0",
+        "title": "Towards Robust Endogenous Reasoning: Unifying Drift Adaptation in Non-Stationary Tuning",
+        "url": "https://arxiv.org/abs/2604.15705",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15705v1 Announce Type: new Abstract: Reinforcement Fine-Tuning (RFT) has established itself as a critical paradigm for the alignment of Multi-modal Large Language Models (MLLMs) with complex human values and domain-specific requirements. Nevertheless, current research primarily focuses on mitigating exogenous distribution shifts arising from data-centric factors, the non-stationarity in",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
+      {
         "id": "3cc2110b25396736",
         "title": "Sources: Polymarket is in talks to raise $400M at a ~$15B post-money valuation, up from $9B in October 2025, but below Kalshi's $22B valuation from March 2026 (The Information)",
         "url": "http://www.techmeme.com/260419/p18#a260419p18",
@@ -1830,137 +1959,215 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8191
-      },
-      {
-        "id": "06e1527d1ec58dc4",
-        "title": "Building a Rim-Driven Jet Engine",
-        "url": "https://hackaday.com/2026/04/19/building-a-rim-driven-jet-engine/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1776607236000,
-        "summary": "Rim-driven thrusters turn the normal propeller-motor arrangement inside out; rather than mounting the motor at the center of the propeller, they use a large hollow motor, with the blades attached …read more",
-        "tags": [
-          "engine hacks",
-          "3d printed",
-          "air bearing",
-          "jet engine",
-          "rim-driven"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9794
-      },
-      {
-        "id": "fa9e49ef60d7849e",
-        "title": "40 years ago we entered the megabit memory era with IBM’s DRAM breakthrough — a major leap beyond the 64 kilobit chips common at the time",
-        "url": "https://www.tomshardware.com/pc-components/dram/40-years-ago-we-entered-the-megabit-memory-era-with-ibms-dram-breakthrough-a-major-leap-beyond-the-64-kilobit-chips-common-at-the-time",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1776600273000,
-        "summary": "40 years ago today IBM was in the news for becoming the first computer company with 1-megabit memory chips.",
-        "tags": [
-          "dram",
-          "pc components",
-          "ram"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8301
-      },
-      {
-        "id": "1388ecae7b0f1944",
-        "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
-        "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1776600000000,
-        "summary": "Keychron's expansive keyboard catalog covers everything from basic full-size mechanical boards to niche layouts like southpaw Alice or a one-handed half-keyboard for gaming. Its Q and V series are among our go-to recommendations for off-the-shelf keyboards, and the latest iterations - the Q and V Ultra models - are a straightforward upgrade to the lineup, […]",
-        "tags": [
-          "keyboards",
-          "reviews",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7463
-      },
-      {
-        "id": "64342114f0267884",
-        "title": "Can the 'Attention Liberation Movement' Foment a Rebellion Against Screens?",
-        "url": "https://mobile.slashdot.org/story/26/04/18/1712214/can-the-attention-liberation-movement-foment-a-rebellion-against-screens?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1776598440000,
-        "summary": "The Associated Press looks at the small-but-growing \"rebellion\" against attention-hogging devices, citing \"a growing body of literature calling for people to move away from screens and pay attention to life.\" D. Graham Burnett is a historian of science at Princeton University and one of the authors of \" Attensity! A Manifesto of the Attention Liberation Movement,\" making him a pillar of the growin",
-        "tags": [
-          "cellphones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9085
-      },
-      {
-        "id": "6c83b4fb4be39e0f",
-        "title": "DIY UPS Keeps Home Assistant Running",
-        "url": "https://hackaday.com/2026/04/19/diy-ups-keeps-home-assistant-running/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1776596422000,
-        "summary": "If you put a bunch of computers in charge of your house, it’s generally desirable to ensure their up-time is as close to 100% as possible. An uninterruptible power supply …read more",
-        "tags": [
-          "home hacks",
-          "home-assistant",
-          "ups"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9244
-      },
-      {
-        "id": "7d56f0537ea8c524",
-        "title": "A profile of Quince, an online luxury DTC brand valued at $10B+, which has found success by using data analysis and close manufacturer ties to keep prices low (Amanda Mull/Bloomberg)",
-        "url": "http://www.techmeme.com/260419/p8#a260419p8",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776596401000,
-        "summary": "Amanda Mull / Bloomberg: A profile of Quince, an online luxury DTC brand valued at $10B+, which has found success by using data analysis and close manufacturer ties to keep prices low — The online apparel retailer has become a $10 billion-plus e-commerce giant by mastering the art of the supply chain.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8558
-      },
-      {
-        "id": "82d4b976b8458e9a",
-        "title": "The Reolink Solar Floodlight Cam floods your property with dazzling light to deter would-be burglars",
-        "url": "https://www.techradar.com/home/home-security/reolink-solar-floodlight-camera-review",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1776589200000,
-        "summary": "With a solar panel for extra power and a MicroSD card slot for local storage, it's a supremely practical way to protect your home.",
-        "tags": [
-          "home security",
-          "smart home",
-          "home"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7
-      },
-      {
-        "id": "f43eb5d56cfd9bbc",
-        "title": "Ruby Central in 'real financial jeopardy' following RubyGems maintainer ruckus",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/19/rubygems_nonprofit_in_real_financial/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776585610000,
-        "summary": "Non profit loses several staffers including its executive director Ruby Central, a nonprofit that supports the Ruby programming language ecosystem, in is \"real financial jeopardy,\" according to a missive from its board members.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
       }
     ],
     "ai": [
+      {
+        "id": "2f6b2ae105a077ca",
+        "title": "I let ChatGPT and Gemini build my PC — here are the components each AI picked",
+        "url": "https://www.techradar.com/computing/i-let-chatgpt-and-gemini-build-my-pc-here-are-the-components-each-ai-picked",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1776659400000,
+        "summary": "Building a PC has never exactly been easy, but right now it's pretty tough going. Here's what AI recommended I use to build my new gaming rig.",
+        "tags": [
+          "computing",
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9145
+      },
+      {
+        "id": "a513bd693f2f822f",
+        "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+        "url": "https://arxiv.org/abs/2604.15456",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "9376b9be59329a53",
+        "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+        "url": "https://arxiv.org/abs/2604.15495",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While ",
+        "tags": [
+          "cs.ai",
+          "cs.cv",
+          "cs.hc",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "4e74f40d78fa4438",
+        "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+        "url": "https://arxiv.org/abs/2604.15514",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's compl",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "4746f160be5f98f6",
+        "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+        "url": "https://arxiv.org/abs/2604.15559",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first e",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "1bcf5bb9ed340ce7",
+        "title": "Towards Rigorous Explainability by Feature Attribution",
+        "url": "https://arxiv.org/abs/2604.15898",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15898v1 Announce Type: new Abstract: For around a decade, non-symbolic methods have been the option of choice when explaining complex machine learning (ML) models. Unfortunately, such methods lack rigor and can mislead human decision-makers. In high-stakes uses of ML, the lack of rigor is especially problematic. One prime example of provable lack of rigor is the adoption of Shapley valu",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "406ed114101c7c41",
+        "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
+        "url": "https://arxiv.org/abs/2604.15951",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15951v1 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of graph-LLM integrations are most appropriate across applications. This survey provide",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "fedca279f7fe9fb6",
+        "title": "StoSignSGD: Unbiased Structural Stochasticity Fixes SignSGD for Training Large Language Models",
+        "url": "https://arxiv.org/abs/2604.15416",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15416v1 Announce Type: new Abstract: Sign-based optimization algorithms, such as SignSGD, have garnered significant attention for their remarkable performance in distributed learning and training large foundation models. Despite their empirical superiority, SignSGD is known to diverge on non-smooth objectives, which are ubiquitous in modern machine learning due to ReLUs, max-pools, and ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "a5b7d5df66865563",
+        "title": "Learning Affine-Equivariant Proximal Operators",
+        "url": "https://arxiv.org/abs/2604.15556",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15556v1 Announce Type: new Abstract: Proximal operators are fundamental across many applications in signal processing and machine learning, including solving ill-posed inverse problems. Recent work has introduced Learned Proximal Networks (LPNs), providing parametric functions that compute exact proximals for data-driven and potentially non-convex regularizers. However, in many settings",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "f1ae42b6df7e56e2",
+        "title": "PAWN: Piece Value Analysis with Neural Networks",
+        "url": "https://arxiv.org/abs/2604.15585",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15585v1 Announce Type: new Abstract: Predicting the relative value of any given chess piece in a position remains an open challenge, as a piece's contribution depends on its spatial relationships with every other piece on the board. We demonstrate that incorporating the state of the full chess board via latent position representations derived using a CNN-based autoencoder significantly ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "f92284f7d0e1292c",
+        "title": "VoodooNet: Achieving Analytic Ground States via High-Dimensional Random Projections",
+        "url": "https://arxiv.org/abs/2604.15613",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15613v1 Announce Type: new Abstract: We present VoodooNet, a non-iterative neural architecture that replaces the stochastic gradient descent (SGD) paradigm with a closed-form analytic solution via Galactic Expansion. By projecting input manifolds into a high-dimensional, high-entropy \"Galactic\" space ($d \\gg 784$), we demonstrate that complex features can be untangled without the thermo",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "41e3247b446b4108",
+        "title": "Stargazer: A Scalable Model-Fitting Benchmark Environment for AI Agents under Astrophysical Constraints",
+        "url": "https://arxiv.org/abs/2604.15664",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15664v1 Announce Type: new Abstract: The rise of autonomous AI agents suggests that dynamic benchmark environments with built-in feedback on scientifically grounded tasks are needed to evaluate the capabilities of these agents in research work. We introduce Stargazer, a scalable environment for evaluating AI agents on dynamic, iterative physics-grounded model-fitting tasks using inferen",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "4e325ebb97266b55",
+        "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
+        "url": "https://arxiv.org/abs/2604.15350",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
       {
         "id": "f5c8e5143891aff0",
         "title": "Anthropic installed a spyware bridge on my machine?",
@@ -2702,202 +2909,127 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8169
-      },
-      {
-        "id": "d657549fe9bb0602",
-        "title": "Appfigures: app releases across the App Store and Google Play grew 60% YoY in Q1, with App Store releases alone up 80%, possibly driven by AI coding tools (Sarah Perez/TechCrunch)",
-        "url": "http://www.techmeme.com/260419/p1#a260419p1",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776572101000,
-        "summary": "Sarah Perez / TechCrunch: Appfigures: app releases across the App Store and Google Play grew 60% YoY in Q1, with App Store releases alone up 80%, possibly driven by AI coding tools — Everyone said AI would kill apps. Instead, new app launches are soaring. — According to a new analysis from market intelligence …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8117
-      },
-      {
-        "id": "9ab45ebb02530641",
-        "title": "Duolingo CEO Says They've Stopped Tracking Employees' AI Use for Performance Reviews",
-        "url": "https://slashdot.org/story/26/04/19/0136252/duolingo-ceo-says-theyve-stopped-tracking-employees-ai-use-for-performance-reviews?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776569640000,
-        "summary": "Last May Duolingo's stock peaked at $529.05. But while the learning app passed $1 billion in revenue in 2025 and 50 million daily active users, today its stock price has dropped more than 81%, to $100.51. And there's been other changes, reports Entrepreneur: In April 2025, Duolingo CEO Luis von Ahn made headlines after writing a memo calling the company \"AI-first.\" In the memo, von Ahn announced t",
-        "tags": [
-          "business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8411
-      },
-      {
-        "id": "7038ada4ef71f7d3",
-        "title": "Mistral, which once aimed for top open models, now leans on being an alternative to Chinese and US labs, says it's on track for $80M in monthly revenue by Dec. (Iain Martin/Forbes)",
-        "url": "http://www.techmeme.com/260418/p12#a260418p12",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776567000000,
-        "summary": "Iain Martin / Forbes: Mistral, which once aimed for top open models, now leans on being an alternative to Chinese and US labs, says it's on track for $80M in monthly revenue by Dec. — Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn't work out.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7898
-      },
-      {
-        "id": "7d951b6f89578f24",
-        "title": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own",
-        "url": "https://www.reddit.com/r/technology/comments/1spgooz/sam_altmans_side_hustles_blur_the_line_between/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776566056000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6912
-      },
-      {
-        "id": "cec6d6b9c292d7fd",
-        "title": "HydroGraphNet boosts watershed predictions of daily flow and nitrogen in sparse data regions",
-        "url": "https://phys.org/news/2026-04-hydrographnet-boosts-watershed-daily-nitrogen.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1776562801000,
-        "summary": "Spatially distributed prediction of streamflow and nitrogen (N) export dynamics is essential for precision management of agricultural watersheds. While temporal deep learning models have shown strong basin-scale performance, their ability to generalize spatially is limited, particularly under data-scarce conditions. To address this gap, a team of researchers led by the Center for Advanced Bioenerg",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7294
-      },
-      {
-        "id": "b617499a6b80139a",
-        "title": "Iran’s AI memes are reaching people who don’t follow the news – and winning the propaganda war",
-        "url": "https://www.reddit.com/r/technology/comments/1spbyv4/irans_ai_memes_are_reaching_people_who_dont/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776552757000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6953
-      },
-      {
-        "id": "9bca7dcb32abf144",
-        "title": "New Movie Trailer Shows First AI-Generated Performance By a Major Star: the Late Val Kilmer",
-        "url": "https://entertainment.slashdot.org/story/26/04/18/2010257/new-movie-trailer-shows-first-ai-generated-performance-by-a-major-star-the-late-val-kilmer?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776551640000,
-        "summary": "\"A trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor,\" writes The Guardian: Val Kilmer was cast in western As Deep As the Grave before his death in April 2025. Production delays meant he never shot any scenes, but the creative team worked with UK-based company Sonantic to create an AI speaking voice based on his old recordings. His ",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7639
-      },
-      {
-        "id": "95ef3aba3358a92f",
-        "title": "Fewer US College Students Major in CS. More Choose Data Science, Engineering",
-        "url": "https://developers.slashdot.org/story/26/04/18/0332245/fewer-us-college-students-major-in-cs-more-choose-data-science-engineering?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776544440000,
-        "summary": "\"From 2008 to 2024, the number of four-year computer science degrees granted rose about fivefold...\" reports the Washington Post. Then in 2025 CS suddenly dropped from the fourth-largest undergraduate major to sixth, they report (citing data from the nonprofit National Student Clearinghouse, which compiles numbers from 97% of U.S. universities. The 54,000-student drop was \"the biggest one-year dro",
-        "tags": [
-          "programming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6806
-      },
-      {
-        "id": "11eed78d8ccd9f27",
-        "title": "'Birds avoid turbines far more than prediction models assume': Spoor’s AI monitoring is changing how wind farms measure wildlife risk",
-        "url": "https://www.techradar.com/pro/birds-avoid-turbines-far-more-than-prediction-models-assume-spoors-ai-monitoring-is-changing-how-wind-farms-measure-wildlife-risk",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776542700000,
-        "summary": "Spoor outlines its vision for AI-based biodiversity monitoring, using computer vision to scale wildlife tracking across wind energy sites.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5895
-      },
-      {
-        "id": "51785e45e609aa5c",
-        "title": "AI chip startup Cerebras files for IPO",
-        "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1776539951000,
-        "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-        "tags": [
-          "ai",
-          "startups",
-          "cerebras systems",
-          "andrew feldman"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5112
-      },
-      {
-        "id": "29b5d9081a3f97da",
-        "title": "College instructor turns to typewriters to curb AI-written work",
-        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776538800000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:419"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8915
-      },
-      {
-        "id": "77b8a9b6473f5eb7",
-        "title": "Tech CEO accused of running $420M AI business scam",
-        "url": "https://www.reddit.com/r/technology/comments/1sp578a/tech_ceo_accused_of_running_420m_ai_business_scam/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776536475000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6373
-      },
-      {
-        "id": "6636351c72f9f3dc",
-        "title": "Mac Mini and Mac Studio Supply Shortages",
-        "url": "https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1776530917000,
-        "summary": "Nicole Nguyen, writing for The Wall Street Journal (gift link): Mac Minis with larger-capacity RAM chips — a base M4 model with 32GB of RAM, starting at $999, and the M4 Pro models with 64GB of RAM, starting at $1,999 — are “currently unavailable” on Apple.com. And estimated shipping wait times for any other Mini model start at about a month, and in some cases is up to 12 weeks. (This Mini scarcit",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6512
       }
     ],
     "science": [
+      {
+        "id": "485eb947cf4f31d7",
+        "title": "Lightweight Geometric Adaptation for Training Physics-Informed Neural Networks",
+        "url": "https://arxiv.org/abs/2604.15392",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15392v1 Announce Type: new Abstract: Physics-Informed Neural Networks (PINNs) often suffer from slow convergence, training instability, and reduced accuracy on challenging partial differential equations due to the anisotropic and rapidly varying geometry of their loss landscapes. We propose a lightweight curvature-aware optimization framework that augments existing first-order optimizer",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "c37eced8d74ae4e4",
+        "title": "Python library supporting Discrete Variational Formulations and training solutions with Collocation-based Robust Variational Physics Informed Neural Networks (DVF-CRVPINN)",
+        "url": "https://arxiv.org/abs/2604.15398",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15398v1 Announce Type: new Abstract: We explore the possibility of solving Partial Differential Equations (PDEs) using discrete weak formulations. We propose a programming environment for defining a discrete computational domain, introducing discrete functions defined over a set of points, constructing discrete inner products, and introducing discrete weak formulations employing Kroneck",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "62c475d7e110daca",
+        "title": "PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research",
+        "url": "https://arxiv.org/abs/2604.15411",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15411v1 Announce Type: new Abstract: The paradigm of agentic science requires AI systems to conduct robust reasoning and engage in long-horizon, autonomous exploration. However, current scientific benchmarks remain confined to domain knowledge comprehension and complex reasoning, failing to evaluate the exploratory nature and procedural complexity of real-world research. In this work, w",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "physics.data-an"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "be6347008d316434",
+        "title": "Natural gradient descent with momentum",
+        "url": "https://arxiv.org/abs/2604.15554",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15554v1 Announce Type: new Abstract: We consider the problem of approximating a function by an element of a nonlinear manifold which admits a differentiable parametrization, typical examples being neural networks with differentiable activation functions or tensor networks. Natural gradient descent (NGD) for the optimization of a loss function can be seen as a preconditioned gradient des",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.na",
+          "math.na",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "d1f8d7ecc92cff51",
+        "title": "PINNACLE: An Open-Source Computational Framework for Classical and Quantum PINNs",
+        "url": "https://arxiv.org/abs/2604.15645",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15645v1 Announce Type: new Abstract: We present PINNACLE, an open-source computational framework for physics-informed neural networks (PINNs) that integrates modern training strategies, multi-GPU acceleration, and hybrid quantum-classical architectures within a unified modular workflow. The framework enables systematic evaluation of PINN performance across benchmark problems including 1",
+        "tags": [
+          "cs.lg",
+          "physics.comp-ph",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "84d46477e1605fde",
+        "title": "Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction",
+        "url": "https://arxiv.org/abs/2604.15694",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15694v1 Announce Type: new Abstract: Discrete diffusion models based on continuous-time Markov chains (CTMCs) have shown strong performance on language and discrete data generation, yet existing approaches typically parameterize the reverse rate matrix as a single object -- via concrete scores, clean-data predictions ($x_0$-parameterization), or denoising distributions -- rather than al",
+        "tags": [
+          "cs.lg",
+          "math.pr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1188
+      },
+      {
+        "id": "f9cf62fdfd900f20",
+        "title": "Stein Variational Black-Box Combinatorial Optimization",
+        "url": "https://arxiv.org/abs/2604.15837",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15837v1 Announce Type: new Abstract: Combinatorial black-box optimization in high-dimensional settings demands a careful trade-off between exploiting promising regions of the search space and preserving sufficient exploration to identify multiple optima. Although Estimation-of-Distribution Algorithms (EDAs) provide a powerful model-based framework, they often concentrate on a single reg",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
       {
         "id": "d9b80bd9b90746df",
         "title": "Blue Origin Rocket Launches, Successfully Reuses Booster - But Loses Satellite",
@@ -3731,120 +3863,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.3987
-      },
-      {
-        "id": "d3b8459190512dd2",
-        "title": "NASA restarts work to support Europe's uncrewed trip to Mars after years of setbacks",
-        "url": "https://www.engadget.com/science/space/nasa-restarts-work-to-support-europes-uncrewed-trip-to-mars-after-years-of-setbacks-161524488.html?src=rss",
-        "source": "Engadget",
-        "lane": "science",
-        "published_ts": 1776442525000,
-        "summary": "NASA has confirmed the pending launch of the European Space Agency's (ESA) Rosalind Franklin rover, which is being sent to Mars. The current plan is to launch via a SpaceX Falcon Heavy rocket from Kennedy Space Center. The timing is still being worked out, but the space agency says this won't happen until at least 2028. This is a partnership between NASA and the ESA, with the European agency provi",
-        "tags": [
-          "science",
-          "budget, tax & economy",
-          "politics & government",
-          "space & astronomy",
-          "site|engadget",
-          "provider_name|engadget"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.2857
-      },
-      {
-        "id": "8659f5c95db4992b",
-        "title": "Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature",
-        "url": "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundamental-principles-of-nature-20260417/",
-        "source": "Quanta Magazine",
-        "lane": "science",
-        "published_ts": 1776435921000,
-        "summary": "Some quantum cryptographers want to find ways to keep messages secret even if the rules of quantum mechanics don’t hold. The recently rediscovered idea of quantum jamming complicates things. The post Quantum ‘Jamming’ Explores the Truly Fundamental Principles of Nature first appeared on Quanta Magazine",
-        "tags": [
-          "physics"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.4506
-      },
-      {
-        "id": "e82c2336ebe89f57",
-        "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
-        "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1776431184000,
-        "summary": "Blue Origin will soon launch the third flight of its New Glenn rocket, this time with a reused booster.",
-        "tags": [
-          "science",
-          "space",
-          "rocket report"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.382
-      },
-      {
-        "id": "4eb6f8926252d57c",
-        "title": "NASA gets the ball rolling on its part in Europe's jinxed Mars rover mission",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/nasa_rosalind_franklin/",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1776425953000,
-        "summary": "Rosalind Franklin moving again, though another budget cut looms NASA is moving ahead with its contribution to the European Space Agency's (ESA) long-delayed Rosalind Franklin Mars rover despite another attempt by the Trump administration to cut funding for the effort.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.3611
-      },
-      {
-        "id": "22b89b4260847d6e",
-        "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-        "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1776423650000,
-        "summary": "Here's which players are winning the race to transition to post-quantum crypto.",
-        "tags": [
-          "biz & it",
-          "features",
-          "security",
-          "cryptography",
-          "post quantum cryptography",
-          "quantum computing"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.3669
-      },
-      {
-        "id": "127a7d64a3c66ec2",
-        "title": "Cisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisco_wifi_ap_useless_data/",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1776400546000,
-        "summary": "Fix for critical flaw is an OS update you may not be able to make because the junk data uses all memory More than 230 different models of Cisco Wi-Fi access points may be writing 5MB a day of nonessential data, filling their onboard flash memory to the point at which they lack space for future software updates.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.3405
-      },
-      {
-        "id": "381518ea75f44ffd",
-        "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
-        "url": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1776395754000,
-        "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy",
-        "tags": [
-          "science",
-          "space"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.3161
       }
     ]
   },
