@@ -10,8 +10,8 @@
 
   // Build marker — bump when deploying. Visible in the diagnostic panel
   // so you can tell at a glance whether a device is on the latest client.
-  const APP_BUILD = "2026-04-19f";
-  const APP_BUILD_TS = "2026-04-20T02:05Z";
+  const APP_BUILD = "2026-04-19g";
+  const APP_BUILD_TS = "2026-04-20T02:15Z";
 
   const LANES = [
     { key: "gadgets",    title: "Gadgets" },
@@ -495,14 +495,54 @@
 
     copyBtn.addEventListener("click", async () => {
       const report = await buildReport();
+      let copied = false;
+      // Try modern clipboard API (requires user gesture, often fails in
+      // standalone PWAs on iOS).
       try {
-        await navigator.clipboard.writeText(report);
-        copyBtn.textContent = "Copied";
-        setTimeout(() => { copyBtn.textContent = "Copy report"; }, 1500);
-      } catch (_) {
-        // Fallback: show in a prompt so user can copy manually
-        window.prompt("Copy report:", report);
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(report);
+          copied = true;
+        }
+      } catch (_) { /* fall through */ }
+      // Try legacy execCommand (works in more PWA contexts).
+      if (!copied) {
+        try {
+          const ta = document.createElement("textarea");
+          ta.value = report;
+          ta.setAttribute("readonly", "");
+          ta.style.cssText = "position:fixed;top:0;left:0;opacity:0;pointer-events:none";
+          document.body.appendChild(ta);
+          ta.select();
+          ta.setSelectionRange(0, report.length);
+          copied = document.execCommand && document.execCommand("copy");
+          document.body.removeChild(ta);
+        } catch (_) { /* fall through */ }
       }
+      if (copied) {
+        copyBtn.textContent = "Copied✓";
+        setTimeout(() => { copyBtn.textContent = "Copy report"; }, 1500);
+        return;
+      }
+      // Final fallback: show a selectable textarea inside the panel so the
+      // user can long-press → Select All → Copy manually. This always works.
+      let ta2 = document.getElementById("diagCopyFallback");
+      if (!ta2) {
+        ta2 = document.createElement("textarea");
+        ta2.id = "diagCopyFallback";
+        ta2.setAttribute("readonly", "");
+        ta2.style.cssText =
+          "width:100%;margin-top:10px;padding:8px;" +
+          "background:#0b1220;color:#e7ecf5;border:1px solid #7cf;" +
+          "border-radius:8px;font-family:ui-monospace,Menlo,monospace;" +
+          "font-size:11px;min-height:160px;";
+        panel.appendChild(ta2);
+      }
+      ta2.value = report;
+      ta2.focus();
+      ta2.select();
+      ta2.setSelectionRange(0, report.length);
+      copyBtn.textContent = "Long-press text below → Copy";
+      setTimeout(() => { copyBtn.textContent = "Copy report"; }, 4000);
     });
 
     async function openDiag() {
