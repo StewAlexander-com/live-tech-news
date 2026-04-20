@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T19:56:34.196196+00:00",
+  "generated_at": "2026-04-20T20:01:41.251298+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1023,6 +1023,55 @@
     ],
     "innovation": [
       {
+        "id": "c60b0de09cd8a994",
+        "title": "RaveDAO's RAVE has lost $6.6B+ in market cap and its price has sunk ~98% since Saturday, after ZachXBT called on exchanges to probe if it was being manipulated (André Beganski/Decrypt)",
+        "url": "http://www.techmeme.com/260420/p21#a260420p21",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776715255000,
+        "summary": "André Beganski / Decrypt: RaveDAO's RAVE has lost $6.6B+ in market cap and its price has sunk ~98% since Saturday, after ZachXBT called on exchanges to probe if it was being manipulated — RaveDAO's token cratered this weekend after blockchain sleuth ZachXBT called on exchanges to investigate trading tied to its surging token.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9998
+      },
+      {
+        "id": "65212de458f85846",
+        "title": "This hidden Excel Automation feature is way more useful than it gets credit for",
+        "url": "https://www.makeuseof.com/built-in-excel-automation-feature/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1776715218000,
+        "summary": "Excel automation isn’t just macros anymore.",
+        "tags": [
+          "productivity",
+          "microsoft excel",
+          "task automation"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8496
+      },
+      {
+        "id": "568354f9f14431cf",
+        "title": "Vintage Chyron TV Hardware? Of course It Runs NetBSD",
+        "url": "https://hackaday.com/2026/04/20/vintage-chyron-tv-hardware-of-course-it-runs-netbsd/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1776715206000,
+        "summary": "Perhaps at this point, getting NetBSD running on an obscure piece of hardware is a dog-bites-man story, and not worth reporting– their motto, after all, is “Of course it runs …read more",
+        "tags": [
+          "retrocomputing",
+          "chyron",
+          "motorola 68000",
+          "retrocomputer",
+          "vme"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0795
+      },
+      {
         "id": "5cbb54f9f0c09620",
         "title": "I found 5 hidden Android permissions that were destroying my battery life",
         "url": "https://www.makeuseof.com/i-had-no-idea-these-android-permissions-were-draining-my-battery/",
@@ -1932,57 +1981,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9155
-      },
-      {
-        "id": "b5dfc20667241dc5",
-        "title": "I built my own Steam Machine, and I love it",
-        "url": "https://www.makeuseof.com/i-built-my-own-steam-machine-and-i-love-it/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1776684888000,
-        "summary": "Why wait when you can make you own?",
-        "tags": [
-          "technology explained",
-          "linux",
-          "steamos",
-          "steam deck"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
-      },
-      {
-        "id": "2413507e182ac758",
-        "title": "Lumbee Council advances gaming amendment in North Carolina, sending measure to tribal voters soon",
-        "url": "https://readwrite.com/lumbee-council-gaming-amendment-tribal-voters/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1776684815000,
-        "summary": "The Lumbee Tribal Council voted Thursday night (April 16) to move a constitutional amendment forward that would allow gaming on… Continue reading Lumbee Council advances gaming amendment in North Carolina, sending measure to tribal voters soon The post Lumbee Council advances gaming amendment in North Carolina, sending measure to tribal voters soon appeared first on ReadWrite.",
-        "tags": [
-          "casino",
-          "north carolina state",
-          "tribes"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8987
-      },
-      {
-        "id": "d929f0212c157949",
-        "title": "HP's remote desktop push retreats as Anyware heads for end of life",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/hp_anyware_eol/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776684332000,
-        "summary": "Workstations that made distant desktops feel local is headed for a slow shutdown HP is quietly pulling the plug on its Teradici-derived remote desktop business, shelving HP Anyware and its zero client hardware barely a few years after betting big on the tech as the backbone of its hybrid work push.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0458
       }
     ],
     "ai": [
+      {
+        "id": "14072cb874ae6136",
+        "title": "Claude Desktop changes app access settings for browsers you don't even have installed yet",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1776715015000,
+        "summary": "Installation and pre-approval without consent looks dubious under EU law One app should not modify another app without asking for and receiving your explicit consent. Yet Anthropic's Claude Desktop for macOS installs files that affect other vendors' applications without disclosure, even before those applications have been installed, and authorizes browser extensions without consent.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0484
+      },
       {
         "id": "bf2efd34c0541dc5",
         "title": "It’s not just one thing — it’s another thing",
@@ -2931,26 +2945,55 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8752
-      },
-      {
-        "id": "8cdf9d3e0d656298",
-        "title": "I thought NotebookLM was good, until I found its cooler cousin",
-        "url": "https://www.androidpolice.com/i-thought-notebooklm-was-good-until-i-found-its-cooler-cousin/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1776682810000,
-        "summary": "It gives more real-world exposure to AI than anything else",
-        "tags": [
-          "notebooklm",
-          "google",
-          "productivity"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0796
       }
     ],
     "science": [
+      {
+        "id": "1c5e3255364d2566",
+        "title": "Apple TV Series 'The Savant' Set for July Premiere After Delay",
+        "url": "https://www.macrumors.com/2026/04/20/the-savant-apple-tv-july/",
+        "source": "Mac Rumors",
+        "lane": "science",
+        "published_ts": 1776715230000,
+        "summary": "Apple is finally planning to release The Savant, an Apple TV series that it delayed following the assassination of Charlie Kirk. The Savant is set to air in July 2026, according to Variety. The ‌Apple TV‌ show was supposed to come out on Friday, September 26, 2025, but Apple decided not to release it due to the topic and the political climate. When the series was pulled, star Jessica Chastain said",
+        "tags": [
+          "apple tv",
+          "apple tv service"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9996
+      },
+      {
+        "id": "20b11f163218dd68",
+        "title": "We designed the turf for the World Cup. Here's how we created the same playing experience across three countries",
+        "url": "https://phys.org/news/2026-04-turf-world-cup-playing-countries.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776715210000,
+        "summary": "With 104 matches in 16 stadiums across Canada, the United States and Mexico, the 2026 FIFA World Cup will be soccer's biggest event ever.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "d7dd531fd833ff6f",
+        "title": "Chemists stabilize rare three‑atom metal ring, revealing new form of aromaticity",
+        "url": "https://phys.org/news/2026-04-chemists-stabilize-rare-threeatom-metal.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776715208000,
+        "summary": "In a world first, the team, led by Professor Stephen Liddle, discovered a new type of aromatic molecule made entirely of metal atoms, the heaviest of its kind ever confirmed. The team stabilized an extremely rare three‑atom ring of bismuth, held between two large metal atoms (uranium or thorium) in a structure known as an \"inverse‑sandwich\" complex.",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
       {
         "id": "35fd52d082aba054",
         "title": "Blue Origin's New Glenn rocket is grounded after launching satellite into the wrong orbit",
@@ -3821,48 +3864,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9155
-      },
-      {
-        "id": "20188d9019488168",
-        "title": "A Blue Origin rocket failed to correctly place a BlueBird satellite from satellite networking company AST into its intended orbit; ASTS falls 7%+ (Jake Rudnitsky/Bloomberg)",
-        "url": "http://www.techmeme.com/260420/p7#a260420p7",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1776685803000,
-        "summary": "Jake Rudnitsky / Bloomberg: A Blue Origin rocket failed to correctly place a BlueBird satellite from satellite networking company AST into its intended orbit; ASTS falls 7%+ — AST SpaceMobile Inc. shares plunged in early trading on Monday after Blue Origin's flagship New Glenn rocket failed to correctly place a payload …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0165
-      },
-      {
-        "id": "8b1bf30c8a7aa55d",
-        "title": "A Blue Origin rocket failed to correctly place a BlueBird satellite from satellite networking company AST into its intended orbit; ASTS falls 14% pre-market (Jake Rudnitsky/Bloomberg)",
-        "url": "http://www.techmeme.com/260420/p7#a260420p7",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1776685803000,
-        "summary": "Jake Rudnitsky / Bloomberg: A Blue Origin rocket failed to correctly place a BlueBird satellite from satellite networking company AST into its intended orbit; ASTS falls 14% pre-market — AST SpaceMobile Inc. shares plunged in early trading on Monday after Blue Origin's flagship New Glenn rocket failed to correctly place …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0754
-      },
-      {
-        "id": "fe84022185925912",
-        "title": "The best iPhone ad Apple never made — watch NASA’s mind-blowing video of the Earth setting behind the moon, shot on an iPhone 17 Pro Max",
-        "url": "https://www.techradar.com/phones/iphone/the-best-iphone-ad-apple-never-made-watch-nasas-mind-blowing-video-of-the-earth-setting-behind-the-moon-shot-on-an-iphone-17-pro-max",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1776680987000,
-        "summary": "For the first time in history we’ve seen footage of an Earthset — and it was shot on an iPhone 17 Pro Max.",
-        "tags": [
-          "iphone",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8476
       }
     ]
   },
