@@ -10,8 +10,8 @@
 
   // Build marker — bump when deploying. Visible in the diagnostic panel
   // so you can tell at a glance whether a device is on the latest client.
-  const APP_BUILD = "2026-04-19e";
-  const APP_BUILD_TS = "2026-04-20T01:55Z";
+  const APP_BUILD = "2026-04-19f";
+  const APP_BUILD_TS = "2026-04-20T02:05Z";
 
   const LANES = [
     { key: "gadgets",    title: "Gadgets" },
@@ -65,7 +65,33 @@
     if (!("serviceWorker" in navigator)) return;
     // Skip in sandboxed preview frames where SW registration often fails silently.
     try {
-      navigator.serviceWorker.register("./sw.js").catch(() => { /* non-fatal */ });
+      navigator.serviceWorker.register("./sw.js")
+        .then(reg => {
+          // If a new SW is waiting, make it take over immediately so
+          // stuck devices don't stay on the old shell for days.
+          if (reg.waiting) reg.waiting.postMessage({ type: "SKIP_WAITING" });
+          reg.addEventListener("updatefound", () => {
+            const nw = reg.installing;
+            if (!nw) return;
+            nw.addEventListener("statechange", () => {
+              if (nw.state === "installed" && navigator.serviceWorker.controller) {
+                // New SW installed while an old one controlled this page.
+                // Tell it to activate now; next poll will pick up fresh data.
+                reg.waiting && reg.waiting.postMessage({ type: "SKIP_WAITING" });
+              }
+            });
+          });
+        })
+        .catch(() => { /* non-fatal */ });
+
+      // If the active SW changes (new version took over), reload once
+      // so the page is served by the new SW end-to-end.
+      let didReload = false;
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (didReload) return;
+        didReload = true;
+        location.reload();
+      });
     } catch (_) { /* non-fatal */ }
   }
 
@@ -128,6 +154,7 @@
       } else {
         setStatus("Refresh failed: " + err.message, "warn");
       }
+      showRecoveryBanner(err);
     } finally {
       if (btn && !initial) {
         btn.disabled = false;
@@ -373,6 +400,50 @@
     const s = _store();
     if (s) { try { const v = s.getItem(k); if (v != null) return v; } catch (_) {} }
     return _mem[k] || null;
+  }
+
+  // --- Recovery banner for stuck clients -------------------------------
+  function showRecoveryBanner(err) {
+    if (document.getElementById("recoveryBanner")) return;
+    const b = document.createElement("div");
+    b.id = "recoveryBanner";
+    b.style.cssText = [
+      "margin:10px 14px",
+      "padding:14px 16px",
+      "background:#4a1520",
+      "border:1px solid #ff6b8a",
+      "border-radius:12px",
+      "color:#ffd9e0",
+      "font-size:14px",
+      "line-height:1.4"
+    ].join(";");
+    b.innerHTML = `
+      <strong>Couldn't load latest data.</strong><br>
+      Your installed app may have a stuck cache. Tap the button below to clear it and reload.<br>
+      <button id="recoveryFix" style="margin-top:10px;padding:10px 14px;border-radius:8px;border:1px solid #ff6b8a;background:transparent;color:#ffd9e0;font-size:14px;cursor:pointer">Clear cache & reload</button>
+      <div style="margin-top:8px;opacity:0.7;font-size:12px">Error: ${escapeHTMLLocal(err && err.message || String(err))}</div>
+    `;
+    const status = document.getElementById("status");
+    status.parentNode.insertBefore(b, status.nextSibling);
+    document.getElementById("recoveryFix").addEventListener("click", async () => {
+      try {
+        if ("serviceWorker" in navigator) {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(regs.map(r => r.unregister()));
+        }
+        if ("caches" in window) {
+          const keys = await caches.keys();
+          await Promise.all(keys.map(k => caches.delete(k)));
+        }
+      } catch (_) {}
+      location.reload();
+    });
+  }
+
+  function escapeHTMLLocal(s) {
+    return String(s).replace(/[&<>"']/g, c => (
+      { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]
+    ));
   }
 
   // --- Hidden diagnostics panel (triple-tap on brand title to open) -----

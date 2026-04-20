@@ -5,7 +5,7 @@
  *   - Data snapshot (data/news.json): network-first, falling back to cache
  *     when offline so you still see the last known headlines.
  */
-const VERSION = "ltn-v2-2026-04-19e";
+const VERSION = "ltn-v2-2026-04-19f";
 const SHELL_CACHE = "ltn-shell-" + VERSION;
 const DATA_CACHE  = "ltn-data-" + VERSION;
 
@@ -20,6 +20,12 @@ const SHELL_ASSETS = [
   "./manifest.webmanifest",
   "https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"
 ];
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
 
 self.addEventListener("install", (event) => {
   self.skipWaiting();
@@ -55,13 +61,28 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Same-origin shell assets: cache-first with revalidation.
+  // HTML + JS + CSS: network-first so code fixes propagate immediately;
+  // fall back to cache when offline. This prevents "stuck PWA on old code"
+  // bugs that are extremely painful to diagnose on iOS.
+  const isShellCode =
+    url.origin === self.location.origin &&
+    (req.mode === "navigate" ||
+     url.pathname.endsWith(".html") ||
+     url.pathname.endsWith(".js") ||
+     url.pathname.endsWith(".css") ||
+     url.pathname.endsWith(".webmanifest"));
+  if (isShellCode) {
+    event.respondWith(networkFirst(req, SHELL_CACHE));
+    return;
+  }
+
+  // Other same-origin (icons, fonts): cache-first with background revalidate.
   if (url.origin === self.location.origin) {
     event.respondWith(cacheFirst(req, SHELL_CACHE));
     return;
   }
 
-  // Cross-origin (Fuse.js CDN): stale-while-revalidate via shell cache.
+  // Cross-origin (Fuse.js CDN): cache-first.
   event.respondWith(cacheFirst(req, SHELL_CACHE));
 });
 
