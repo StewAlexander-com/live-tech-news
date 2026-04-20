@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T21:58:57.670153+00:00",
+  "generated_at": "2026-04-20T22:04:24.793057+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1027,6 +1027,24 @@
     ],
     "innovation": [
       {
+        "id": "007718e1e1d4342a",
+        "title": "I ran one open-source tool and deleted 150GB of hidden Windows junk in minutes",
+        "url": "https://www.makeuseof.com/delete-hidden-windows-junk-with-bleachbit/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1776722477000,
+        "summary": "This simple tool cleaned what the built-in tools completely overlooked.",
+        "tags": [
+          "windows",
+          "windows 11",
+          "windows apps",
+          "computer maintenance"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8491
+      },
+      {
         "id": "c084e8975a8a136f",
         "title": "‘Community Letter From Tim’",
         "url": "https://www.apple.com/community-letter-from-tim/",
@@ -1964,24 +1982,48 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9293
-      },
-      {
-        "id": "a10c5885cc79d33f",
-        "title": "Microsoft pulls service update causing Teams launch failures",
-        "url": "https://www.reddit.com/r/technology/comments/1sqqli7/microsoft_pulls_service_update_causing_teams/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1776694467000,
-        "summary": "submitted by /u/lurker_bee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9897
       }
     ],
     "ai": [
+      {
+        "id": "82c653f3d4c063e3",
+        "title": "Google rolls out Gemini in Chrome in seven new countries",
+        "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776722400000,
+        "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam.",
+        "tags": [
+          "ai",
+          "apps",
+          "chrome",
+          "google",
+          "gemini"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7469
+      },
+      {
+        "id": "9e769d0a46722cd7",
+        "title": "Google brings Gemini in Chrome to users in Australia, Japan, Singapore and South Korea",
+        "url": "https://www.engadget.com/ai/google-brings-gemini-in-chrome-to-users-in-australia-japan-singapore-and-south-korea-220000474.html?src=rss",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1776722400000,
+        "summary": "After debuting in the US, Gemini in Chrome is making its way to more markets. Starting today, Google is rolling out Chrome's built-in chatbot to users in countries in East Asia and the Pacific, including Australia, Indonesia, Japan, the Philippines, Singapore, South Korea and Vietnam. The expansion comes after Google earlier this year made Gemini in Chrome available to people in Canada, India and ",
+        "tags": [
+          "technology & electronics",
+          "site|engadget",
+          "provider_name|engadget",
+          "region|us",
+          "language|en-us",
+          "author_name|igor bonifacic"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.703
+      },
       {
         "id": "3f58fab425b76908",
         "title": "OpenAI’s Codex for Mac now watches your screen to build context, but sends the screenshots to its servers first",
@@ -2901,40 +2943,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1287
-      },
-      {
-        "id": "09a3a472d35899c5",
-        "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
-        "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776698521000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0441
-      },
-      {
-        "id": "29bf5718f8a11f8a",
-        "title": "Alex Bores rolls out \"AI dividend\" plan to share AI wealth",
-        "url": "https://www.reddit.com/r/technology/comments/1sqse5i/alex_bores_rolls_out_ai_dividend_plan_to_share_ai/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776698407000,
-        "summary": "submitted by /u/Abdullah1701 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9645
       }
     ],
     "science": [
+      {
+        "id": "21b2f05581de527b",
+        "title": "Interior designers help students see that meaningful design begins with understanding people",
+        "url": "https://phys.org/news/2026-04-interior-students-meaningful-people.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776722408000,
+        "summary": "At the School of Design, interior design faculty Elif and Alp Tural teach students how empathy, accessibility, and well-being can shape the spaces designers create. After earning their degrees at Arizona State University, the Turals moved to Blacksburg, where they now help prepare the next generation of interior designers in the College of Architecture, Arts, and Design. Their approach asks studen",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0186
+      },
       {
         "id": "61882353b7ddafd4",
         "title": "Ant supergene reveals surprising twist in evolution of social behavior",
@@ -3832,21 +3858,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0179
-      },
-      {
-        "id": "e469a0815bdbd734",
-        "title": "A hidden property of light could power future nanomachines",
-        "url": "https://phys.org/news/2026-04-hidden-property-power-future-nanomachines.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776694802000,
-        "summary": "Light does more than illuminate the world—it can also push and twist matter. It was back in the 1870s that James Clerk Maxwell first predicted that light carries momentum and can exert pressure on objects. Nearly a century later, in the 1970s, Arthur Ashkin asked why not use this property of light to hold and push around tiny particles. He developed optical tweezers that use focused laser beams to",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0993
       }
     ]
   },
