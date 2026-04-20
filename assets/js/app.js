@@ -8,6 +8,11 @@
 (function () {
   "use strict";
 
+  // Build marker — bump when deploying. Visible in the diagnostic panel
+  // so you can tell at a glance whether a device is on the latest client.
+  const APP_BUILD = "2026-04-19e";
+  const APP_BUILD_TS = "2026-04-20T01:55Z";
+
   const LANES = [
     { key: "gadgets",    title: "Gadgets" },
     { key: "innovation", title: "Innovation" },
@@ -38,6 +43,7 @@
       state.pollTimer = setInterval(() => loadData(false), POLL_MS);
     });
     registerServiceWorker();
+    wireDiagnostics();
   });
 
   // --- Per-lane staggered rotation ---------------------------------------
@@ -367,5 +373,165 @@
     const s = _store();
     if (s) { try { const v = s.getItem(k); if (v != null) return v; } catch (_) {} }
     return _mem[k] || null;
+  }
+
+  // --- Hidden diagnostics panel (triple-tap on brand title to open) -----
+  function wireDiagnostics() {
+    const brand = document.getElementById("brand");
+    const panel = document.getElementById("diagPanel");
+    const body  = document.getElementById("diagBody");
+    const closeBtn = document.getElementById("diagClose");
+    const hardBtn  = document.getElementById("diagHardReload");
+    const copyBtn  = document.getElementById("diagCopy");
+    if (!brand || !panel) return;
+
+    let taps = 0, tapTimer = null;
+    const TAP_WINDOW_MS = 700;
+
+    function onTap(e) {
+      // Don't open when user taps the pulse dot accidentally during text selection
+      if (e && e.type === "keydown" && e.key !== "Enter" && e.key !== " ") return;
+      taps += 1;
+      if (tapTimer) clearTimeout(tapTimer);
+      tapTimer = setTimeout(() => { taps = 0; }, TAP_WINDOW_MS);
+      if (taps >= 3) {
+        taps = 0;
+        clearTimeout(tapTimer);
+        openDiag();
+      }
+    }
+
+    brand.addEventListener("click", onTap);
+    brand.addEventListener("keydown", onTap);
+
+    closeBtn.addEventListener("click", () => { panel.hidden = true; });
+
+    hardBtn.addEventListener("click", async () => {
+      hardBtn.disabled = true;
+      hardBtn.textContent = "Clearing…";
+      try {
+        if ("serviceWorker" in navigator) {
+          const regs = await navigator.serviceWorker.getRegistrations();
+          await Promise.all(regs.map(r => r.unregister()));
+        }
+        if ("caches" in window) {
+          const keys = await caches.keys();
+          await Promise.all(keys.map(k => caches.delete(k)));
+        }
+      } catch (_) { /* ignore */ }
+      location.reload();
+    });
+
+    copyBtn.addEventListener("click", async () => {
+      const report = await buildReport();
+      try {
+        await navigator.clipboard.writeText(report);
+        copyBtn.textContent = "Copied";
+        setTimeout(() => { copyBtn.textContent = "Copy report"; }, 1500);
+      } catch (_) {
+        // Fallback: show in a prompt so user can copy manually
+        window.prompt("Copy report:", report);
+      }
+    });
+
+    async function openDiag() {
+      body.innerHTML = "<dt>Loading…</dt>";
+      panel.hidden = false;
+      panel.scrollIntoView({ behavior: "smooth", block: "start" });
+      body.innerHTML = await buildDiagRows();
+    }
+
+    async function swInfo() {
+      if (!("serviceWorker" in navigator)) return { supported: false };
+      const reg = await navigator.serviceWorker.getRegistration().catch(() => null);
+      if (!reg) return { supported: true, registered: false };
+      const active = reg.active;
+      return {
+        supported: true,
+        registered: true,
+        scope: reg.scope,
+        state: active ? active.state : "none",
+        scriptURL: active ? active.scriptURL : "-",
+        controller: navigator.serviceWorker.controller ? navigator.serviceWorker.controller.scriptURL : "(no controller)",
+        waiting: !!reg.waiting,
+        installing: !!reg.installing,
+      };
+    }
+
+    async function cacheInfo() {
+      if (!("caches" in window)) return { supported: false };
+      const keys = await caches.keys();
+      return { supported: true, names: keys };
+    }
+
+    async function dataFreshness() {
+      // Probe the network directly (bypass SW) to compare against what's rendered
+      try {
+        const res = await fetch(DATA_URL + "?diag=" + Date.now(), { cache: "no-store" });
+        const json = await res.json();
+        const genMs = json.generated_at ? Date.parse(json.generated_at) : NaN;
+        return {
+          network_generated_at: json.generated_at || "?",
+          network_age_min: Number.isFinite(genMs) ? Math.round((Date.now() - genMs) / 60000) : "?",
+          network_total_items: Object.values(json.lanes || {}).reduce((n, a) => n + a.length, 0),
+        };
+      } catch (e) {
+        return { network_error: String(e) };
+      }
+    }
+
+    async function buildReport() {
+      const rows = await collectDiag();
+      return Object.entries(rows).map(([k, v]) => `${k}: ${typeof v === "object" ? JSON.stringify(v) : v}`).join("\n");
+    }
+
+    async function buildDiagRows() {
+      const rows = await collectDiag();
+      return Object.entries(rows).map(([k, v]) => {
+        const val = typeof v === "object" ? JSON.stringify(v) : String(v);
+        return `<dt>${escapeHTML(k)}</dt><dd>${escapeHTML(val)}</dd>`;
+      }).join("");
+    }
+
+    async function collectDiag() {
+      const snap = state.snapshot || {};
+      const genMs = snap.generated_at ? Date.parse(snap.generated_at) : NaN;
+      const rendered_age_min = Number.isFinite(genMs) ? Math.round((Date.now() - genMs) / 60000) : null;
+      const rendered_total = snap.lanes ? Object.values(snap.lanes).reduce((n, a) => n + a.length, 0) : 0;
+      const display_mode = window.matchMedia && window.matchMedia("(display-mode: standalone)").matches ? "standalone (installed PWA)" : "browser tab";
+      const sw = await swInfo();
+      const cache = await cacheInfo();
+      const net = await dataFreshness();
+      return {
+        "app build": APP_BUILD,
+        "app build ts": APP_BUILD_TS,
+        "now (device)": new Date().toISOString(),
+        "display mode": display_mode,
+        "rendered snapshot": snap.generated_at || "(none)",
+        "rendered age (min)": rendered_age_min == null ? "?" : rendered_age_min,
+        "rendered total items": rendered_total,
+        "network snapshot": net.network_generated_at || net.network_error || "?",
+        "network age (min)": net.network_age_min == null ? "?" : (net.network_age_min ?? net.network_error ?? "?"),
+        "network total items": net.network_total_items == null ? "?" : net.network_total_items,
+        "stale delta (min)": (rendered_age_min != null && typeof net.network_age_min === "number")
+            ? (rendered_age_min - net.network_age_min) : "?",
+        "SW supported": sw.supported,
+        "SW registered": sw.registered || false,
+        "SW script": sw.scriptURL || "-",
+        "SW state": sw.state || "-",
+        "SW controller": sw.controller || "-",
+        "SW waiting update": sw.waiting || false,
+        "cache keys": cache.names ? cache.names.join(", ") : "(none)",
+        "user agent": navigator.userAgent,
+        "online": navigator.onLine,
+        "lang": navigator.language,
+      };
+    }
+
+    function escapeHTML(s) {
+      return String(s).replace(/[&<>"']/g, c => (
+        { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]
+      ));
+    }
   }
 })();

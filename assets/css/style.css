@@ -239,3 +239,53 @@ a:hover { color: var(--accent); }
   .item .title { font-size: 15.5px; }
   .lane { min-height: 280px; }
 }
+
+/* Hidden diagnostic panel (revealed via triple-tap on brand title) */
+.brand { cursor: default; -webkit-user-select: none; user-select: none; }
+.diag {
+  margin: 10px 14px 0;
+  padding: 12px 14px;
+  background: var(--bg-elev-1, #111a2e);
+  border: 1px solid var(--accent, #7cf);
+  border-radius: 12px;
+  font-size: 13px;
+  color: var(--fg, #e7ecf5);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.35);
+}
+.diag .diag-head {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+.diag .diag-head button {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.2);
+  color: inherit;
+  border-radius: 6px;
+  width: 28px; height: 28px;
+  cursor: pointer;
+}
+.diag dl {
+  margin: 0; padding: 0;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 4px 12px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 12px;
+}
+.diag dt { opacity: 0.7; white-space: nowrap; }
+.diag dd { margin: 0; word-break: break-all; }
+.diag .diag-actions {
+  display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap;
+}
+.diag .diag-actions button {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--accent, #7cf);
+  background: transparent;
+  color: var(--accent, #7cf);
+  cursor: pointer;
+  font-size: 13px;
+}
+.diag .diag-actions button:hover { background: rgba(124, 207, 255, 0.12); }
+.diag .diag-actions button:disabled { opacity: 0.6; cursor: wait; }

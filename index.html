@@ -16,7 +16,7 @@
 </head>
 <body data-theme="dark">
   <header class="top">
-    <div class="brand">
+    <div class="brand" id="brand" role="button" tabindex="0" aria-label="Live Tech News Board (triple-tap for diagnostics)">
       <span class="pulse" aria-hidden="true"></span>
       <h1>Live Tech News Board</h1>
       <span class="tag">3–5 per lane · rotating · 90-day archive</span>
@@ -29,6 +29,19 @@
   </header>
 
   <section id="status" class="status" aria-live="polite"></section>
+
+  <!-- Hidden diagnostics (triple-tap the title to reveal) -->
+  <section id="diagPanel" class="diag" hidden aria-label="Diagnostics">
+    <div class="diag-head">
+      <strong>Diagnostics</strong>
+      <button id="diagClose" aria-label="Close diagnostics">✕</button>
+    </div>
+    <dl id="diagBody"></dl>
+    <div class="diag-actions">
+      <button id="diagHardReload">Hard reload (bust SW cache)</button>
+      <button id="diagCopy">Copy report</button>
+    </div>
+  </section>
 
   <main id="board" class="board">
     <!-- Lanes injected by JS -->
