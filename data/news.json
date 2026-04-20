@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T20:18:44.219476+00:00",
+  "generated_at": "2026-04-20T20:22:42.929396+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1025,6 +1025,24 @@
     ],
     "innovation": [
       {
+        "id": "050496a3adb818a3",
+        "title": "Google Photos adds new touch-up tools for ‘quick’ fixes",
+        "url": "https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1776716429000,
+        "summary": "You can use the new tools to remove blemishes, refine skin texture, brighten eyes, or whiten teeth in photos.",
+        "tags": [
+          "apps",
+          "google",
+          "google photos",
+          "photo editing"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7475
+      },
+      {
         "id": "c60b0de09cd8a994",
         "title": "RaveDAO's RAVE has lost $6.6B+ in market cap and its price has sunk ~98% since Saturday, after ZachXBT called on exchanges to probe if it was being manipulated (André Beganski/Decrypt)",
         "url": "http://www.techmeme.com/260420/p21#a260420p21",
@@ -1967,25 +1985,52 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9922
-      },
-      {
-        "id": "93eca679ce77c80d",
-        "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
-        "url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1776687139000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:108"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2884
       }
     ],
     "ai": [
+      {
+        "id": "9615a840cdfa9174",
+        "title": "Most people do not realize when a personal message they receive was written by AI, study finds",
+        "url": "https://phys.org/news/2026-04-people-personal-message-written-ai.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1776716405000,
+        "summary": "Two new experiments show that most people do not even consider that a personal message could be AI-generated, even when they themselves use artificial intelligence to write.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1007
+      },
+      {
+        "id": "620b2908d5b062b0",
+        "title": "AI model accurately predicts the spread of wildfires in real time",
+        "url": "https://phys.org/news/2026-04-ai-accurately-wildfires-real.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1776716404000,
+        "summary": "USC researchers are developing a computational model that combines satellite data and physics-based simulations to forecast a wildfire's path, intensity, and growth rate. If you've ever been evacuated from your home during a wildfire, you'll be aware of the terrifying unpredictability of the situation. From your location on the ground—rapidly gathering a few vital belongings and attempting to iden",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1007
+      },
+      {
+        "id": "91bb4f71638306d2",
+        "title": "Docs: Microsoft plans to eventually move GitHub Copilot from request- to token-based billing, as the week-over-week cost to run it has nearly doubled since Jan. (Edward Zitron/Ed Zitron's Where's ...)",
+        "url": "http://www.techmeme.com/260420/p22#a260420p22",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776716107000,
+        "summary": "Edward Zitron / Ed Zitron's Where's Your Ed At: Docs: Microsoft plans to eventually move GitHub Copilot from request- to token-based billing, as the week-over-week cost to run it has nearly doubled since Jan. — Executive Summary: — Internal documents reveal that Microsoft plans to temporarily suspend individual account signups …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9976
+      },
       {
         "id": "b4252f6b85fb5dc9",
         "title": "Docs: Microsoft intends to pause student and paid individual tier signups for GitHub Copilot, tighten limits, and then move from request to token-based billing (Edward Zitron/Ed Zitron's Where's ...)",
@@ -2905,50 +2950,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.3297
-      },
-      {
-        "id": "16e54f552e6419cf",
-        "title": "UK.gov kicks off half-a-billion quid sovereign AI venture with £80M invite",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/ukgov_kicks_off_500m_ai/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1776687183000,
-        "summary": "Companies get to keep IP developed for government projects The UK government is opening £80 million in AI procurement talks with tech firms, drawing on its £500 million sovereign capability fund.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1238
-      },
-      {
-        "id": "c949bd3390f5016b",
-        "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-        "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1776687000000,
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
-        "tags": [
-          "the download"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1227
-      },
-      {
-        "id": "979f09a3d068e088",
-        "title": "Coral raises $12.5M to automate healthcare’s administrative back office",
-        "url": "https://thenextweb.com/news/coral-healthcare-ai-12-5m-series-a",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776686400000,
-        "summary": "The New York startup has built AI that reads handwritten fax forms, processes prior authorisations, and completes patient intakes in under five minutes, all without asking providers to change how they work. It has reached multiple millions in revenue in under a year and is targeting 4x growth by end of 2026. Coral, the New […] This story continues at The Next Web",
-        "tags": [
-          "startups and technology",
-          "health tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9504
       }
     ],
     "science": [
