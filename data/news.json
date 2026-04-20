@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T16:10:25.681054+00:00",
+  "generated_at": "2026-04-20T16:12:02.936379+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1892,53 +1892,54 @@
         "score": 1.0473
       },
       {
-        "id": "b291e7508bde51ba",
-        "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
-        "url": "https://arxiv.org/abs/2604.15839",
+        "id": "178763f36b6ef850",
+        "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2604.15314",
         "source": "arXiv cs.AI",
         "lane": "innovation",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15839v1 Announce Type: new Abstract: Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to optimistic estimates of model capability. We call the stricter, more realistic setting \"Hard Mode\": the system must independently discover the answer be",
+        "summary": "arXiv:2604.15314v1 Announce Type: cross Abstract: This research aimed to develop an intelligent system to evaluate performance and extract behavioral models for children with ASD and neurotypical (TD) children by interacting with a virtual social robot in a music education program using deep neural networks. The system has two main features: 1) it distinguishes between neurotypical children and th",
         "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lo"
+          "cs.hc",
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8306
+        "score": 0.8966
       },
       {
-        "id": "a3ab243079f274cd",
-        "title": "${\\pi}_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
-        "url": "https://arxiv.org/abs/2604.15483",
-        "source": "arXiv cs.LG",
+        "id": "299256cd16ef2389",
+        "title": "Uncertainty, Vagueness, and Ambiguity in Human-Robot Interaction: Why Conceptualization Matters",
+        "url": "https://arxiv.org/abs/2604.15339",
+        "source": "arXiv cs.AI",
         "lane": "innovation",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15483v1 Announce Type: new Abstract: We present a new robotic foundation model, called ${\\pi}_{0.7}$, that can enable strong out-of-the-box performance in a wide range of scenarios. ${\\pi}_{0.7}$ can follow diverse language instructions in unseen environments, including multi-stage tasks with various kitchen appliances, provide zero-shot cross-embodiment generalization, for example enab",
+        "summary": "arXiv:2604.15339v1 Announce Type: cross Abstract: Uncertainty, vagueness, and ambiguity are closely related and often confused concepts in human-robot interaction (HRI). In earlier studies, these concepts have been defined in contradictory ways and described using inconsistent terminology. This conceptual confusion and lack of terminological consistency undermine empirical comparability, thereby s",
         "tags": [
-          "cs.lg",
+          "cs.hc",
+          "cs.ai",
           "cs.ro"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.8306
+        "impact": "high",
+        "score": 0.8966
       },
       {
-        "id": "69c57a3189686677",
-        "title": "ProtoTTA: Prototype-Guided Test-Time Adaptation",
-        "url": "https://arxiv.org/abs/2604.15494",
+        "id": "0606af3cf4ef918f",
+        "title": "Mapping High-Performance Regions in Battery Scheduling across Data Uncertainty, Battery Design, and Planning Horizons",
+        "url": "https://arxiv.org/abs/2604.15360",
         "source": "arXiv cs.LG",
         "lane": "innovation",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15494v1 Announce Type: new Abstract: Deep networks that rely on prototypes-interpretable representations that can be related to the model input-have gained significant attention for balancing high accuracy with inherent interpretability, which makes them suitable for critical domains such as healthcare. However, these models are limited by their reliance on training data, which hampers ",
+        "summary": "arXiv:2604.15360v1 Announce Type: new Abstract: This study presents a triadic analysis of energy storage operation under multi-stage model predictive control, investigating the interplay between data characteristics, forecast uncertainty, planning horizon, and battery c-rate. Synthetic datasets are generated to systematically explore variations in data profiles and uncertainty, enabling parametriz",
         "tags": [
           "cs.lg",
-          "cs.cv"
+          "cs.sy",
+          "eess.sy"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.8306
+        "impact": "high",
+        "score": 0.8966
       }
     ],
     "ai": [
@@ -2818,69 +2819,89 @@
         "score": 0.9145
       },
       {
-        "id": "f1ae42b6df7e56e2",
-        "title": "PAWN: Piece Value Analysis with Neural Networks",
-        "url": "https://arxiv.org/abs/2604.15585",
-        "source": "arXiv cs.LG",
+        "id": "a513bd693f2f822f",
+        "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+        "url": "https://arxiv.org/abs/2604.15456",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15585v1 Announce Type: new Abstract: Predicting the relative value of any given chess piece in a position remains an open challenge, as a piece's contribution depends on its spatial relationships with every other piece on the board. We demonstrate that incorporating the state of the full chess board via latent position representations derived using a CNN-based autoencoder significantly ",
+        "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la",
         "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8971
+        "score": 0.8966
       },
       {
-        "id": "f92284f7d0e1292c",
-        "title": "VoodooNet: Achieving Analytic Ground States via High-Dimensional Random Projections",
-        "url": "https://arxiv.org/abs/2604.15613",
-        "source": "arXiv cs.LG",
+        "id": "9376b9be59329a53",
+        "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+        "url": "https://arxiv.org/abs/2604.15495",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15613v1 Announce Type: new Abstract: We present VoodooNet, a non-iterative neural architecture that replaces the stochastic gradient descent (SGD) paradigm with a closed-form analytic solution via Galactic Expansion. By projecting input manifolds into a high-dimensional, high-entropy \"Galactic\" space ($d \\gg 784$), we demonstrate that complex features can be untangled without the thermo",
+        "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While ",
         "tags": [
-          "cs.lg",
+          "cs.ai",
+          "cs.cv",
+          "cs.hc",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8966
+      },
+      {
+        "id": "4e74f40d78fa4438",
+        "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+        "url": "https://arxiv.org/abs/2604.15514",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's compl",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8966
+      },
+      {
+        "id": "4746f160be5f98f6",
+        "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+        "url": "https://arxiv.org/abs/2604.15559",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776657600000,
+        "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first e",
+        "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8971
-      },
-      {
-        "id": "41e3247b446b4108",
-        "title": "Stargazer: A Scalable Model-Fitting Benchmark Environment for AI Agents under Astrophysical Constraints",
-        "url": "https://arxiv.org/abs/2604.15664",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15664v1 Announce Type: new Abstract: The rise of autonomous AI agents suggests that dynamic benchmark environments with built-in feedback on scientifically grounded tasks are needed to evaluate the capabilities of these agents in research work. We introduce Stargazer, a scalable environment for evaluating AI agents on dynamic, iterative physics-grounded model-fitting tasks using inferen",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.897
-      },
-      {
-        "id": "4e325ebb97266b55",
-        "title": "The Spectral Geometry of Thought: Phase Transitions, Instruction Reversal, Token-Level Dynamics, and Perfect Correctness Prediction in How Transformers Reason",
-        "url": "https://arxiv.org/abs/2604.15350",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15350v1 Announce Type: new Abstract: We discover that large language models exhibit \\emph{spectral phase transitions} in their hidden activation spaces when engaging in reasoning versus factual recall. Through systematic spectral analysis across \\textbf{11 models} spanning \\textbf{5 architecture families} (Qwen, Pythia, Phi, Llama, DeepSeek-R1), we identify \\textbf{seven} core phenomena",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8306
+        "score": 0.8966
       }
     ],
     "science": [
+      {
+        "id": "67f14b15c5d8865e",
+        "title": "FAA orders investigation into Blue Origin’s New Glenn mishap",
+        "url": "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1776701501000,
+        "summary": "The New Glenn rocket will have to stay grounded while the company investigates what caused the apparent failure of its upper stage.",
+        "tags": [
+          "space",
+          "blue origin",
+          "new glenn"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8077
+      },
       {
         "id": "c0c0e9946abd8de0",
         "title": "Chinese chipmakers made record profit in 2025, despite slipping margins — U.S shipments fall 34% as Beijing shores up local chipmaking efforts",
@@ -3783,21 +3804,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.017
-      },
-      {
-        "id": "e17b5c2ec33bd588",
-        "title": "'Protected' seagrass meadows aren't necessarily healthy, because pollution doesn't stop at the shoreline",
-        "url": "https://phys.org/news/2026-04-seagrass-meadows-necessarily-healthy-pollution.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776627001000,
-        "summary": "I spent last summer wading through seagrass meadows across Northern Ireland, from the sheltered waters of Strangford Lough to the exposed coast at Waterfoot Bay. I was collecting seagrass leaves and testing them for nitrogen pollution. Every meadow I visited sits inside a marine protected area—a stretch of sea that's been given legal protection to safeguard the wildlife living there. And every sin",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.014
       }
     ]
   },
