@@ -172,30 +172,52 @@
     for (const lane of LANES) renderLane(lane.key);
   }
 
+  const DISPLAY_MAX_AGE_MS = 48 * 3600 * 1000;
+
+  function freshItems(allItems) {
+    // Prefer items published within the last 48h for the lane rotation.
+    // If there aren't enough fresh ones, fall back to most-recent overall
+    // so the lane is never empty.
+    const now = Date.now();
+    const fresh = allItems.filter(it => {
+      const t = it.published_ts || 0;
+      return t && (now - t) <= DISPLAY_MAX_AGE_MS;
+    });
+    if (fresh.length >= VISIBLE_PER_LANE) return fresh;
+    // Fall back: take newest N items regardless of age so we never show an empty lane.
+    const byTime = [...allItems].sort((a, b) => (b.published_ts || 0) - (a.published_ts || 0));
+    return byTime.slice(0, Math.max(VISIBLE_PER_LANE * 2, fresh.length));
+  }
+
   function renderLane(key) {
     const laneEl = document.querySelector(`.lane[data-lane="${key}"]`);
     if (!laneEl) return;
     const listEl = laneEl.querySelector('[data-role="list"]');
     const metaEl = laneEl.querySelector('[data-role="meta"]');
-    const items = state.snapshot.lanes[key] || [];
-    metaEl.textContent = items.length ? `${items.length} in 90-day archive` : "no items";
+    const allItems = state.snapshot.lanes[key] || [];
+    const rotatable = freshItems(allItems);
+    const freshCount = allItems.filter(it => it.published_ts && (Date.now() - it.published_ts) <= DISPLAY_MAX_AGE_MS).length;
+    metaEl.textContent = allItems.length
+      ? `${freshCount} fresh · ${allItems.length} in 90d archive`
+      : "no items";
 
-    if (!items.length) {
+    if (!rotatable.length) {
       listEl.innerHTML = `<li class="muted" style="padding:12px 10px;">No items yet. The GitHub Action will populate this lane on its next run.</li>`;
       return;
     }
 
-    const offset = state.visibleOffset[key] % items.length;
+    const offset = state.visibleOffset[key] % rotatable.length;
     const visible = [];
-    for (let i = 0; i < Math.min(VISIBLE_PER_LANE, items.length); i++) {
-      visible.push(items[(offset + i) % items.length]);
+    for (let i = 0; i < Math.min(VISIBLE_PER_LANE, rotatable.length); i++) {
+      visible.push(rotatable[(offset + i) % rotatable.length]);
     }
 
     listEl.innerHTML = visible.map((it, idx) => itemHTML(it, idx + 1)).join("");
   }
 
   function rotateLane(key) {
-    const items = state.snapshot?.lanes?.[key] || [];
+    const allItems = state.snapshot?.lanes?.[key] || [];
+    const items = freshItems(allItems);
     if (items.length <= VISIBLE_PER_LANE) return; // nothing to rotate
     state.visibleOffset[key] = (state.visibleOffset[key] + 1) % items.length;
     const listEl = document.querySelector(`.lane[data-lane="${key}"] [data-role="list"]`);

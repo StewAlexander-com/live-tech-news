@@ -2,8 +2,9 @@ name: Refresh news
 
 on:
   schedule:
-    # Every 15 minutes (best-effort; GitHub cron typically lags 5-15 min).
-    - cron: "*/15 * * * *"
+    # Every 5 minutes (GitHub min granularity; actual cadence lags 5-15 min
+    # on free runners due to queue pressure).
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}    # allow manual runs from the Actions tab
   push:
     branches: [ main ]

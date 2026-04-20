@@ -194,6 +194,79 @@ SCIENCE_TECH_CUES = [
     "crispr", "neural",
 ]
 
+# ---- Editorial filters ----------------------------------------------------
+#
+# A news aggregator is only as good as what it refuses to show. These
+# rules drop puzzle filler, SEO listicle bait, and daily "deals" dumps
+# that bury the actual news.
+
+# If any of these regexes match the TITLE, the item is rejected outright.
+# Each entry is a case-insensitive substring or regex fragment.
+TITLE_BLOCKLIST = [
+    # NYT game hints (TechRadar/CNET spam these daily)
+    r"\bnyt\b.*\b(connections|strands|wordle|spelling bee|mini crossword|crossword)\b",
+    r"\b(connections|strands|wordle|spelling bee)\b.*\b(hints?|answers?|clue|today|game #)",
+    r"\bgame\s*#\s*\d+",
+    r"\b(today'?s?|monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b.*\b(wordle|connections|strands)\b",
+    # Deal / coupon / shopping filler
+    r"\b(best|top) deals?\b",
+    r"\bdeals? (of the (day|week)|roundup|under \$)",
+    r"^deals:?\s",
+    r"\b(%\s*off|percent off)\b",
+    r"\b(prime day|black friday|cyber monday|memorial day sale|labor day sale|presidents.? day sale)\b",
+    r"\b(amazon|walmart|best buy|target|home depot|lowe'?s).*(sale|deal|discount|off)\b",
+    r"\bcoupon(s)?\b",
+    r"\bgift (guide|ideas?)\b",
+    # Shopping / "how to style" lifestyle filler
+    r"\b(how to style|style it in your home|here'?s how to style)\b",
+    r"\bikea('?s)?\b.*\b(makeover|style|home)\b",
+    # "Best X of 2025/2026" SEO lists
+    r"^(the )?best\s.+\b(of\s+20\d{2}|right now|this (year|month))\b",
+    # Horoscope / lifestyle
+    r"\bhoroscope\b", r"\bzodiac\b",
+    # Sponsored / partner content markers
+    r"\bsponsored\b", r"\bpartner content\b", r"\b#ad\b",
+    # Streaming show / episode schedule filler (not tech)
+    r"\b(episode \d+ (hits|airs|drops|releases?|premieres?))\b",
+    r"\b(release schedule|when .* (hits|airs|drops) (paramount|netflix|hulu|disney|max|apple tv|peacock|amazon prime))\b",
+    # "Apple TV+" show recaps leak through CNET/TechRadar
+    r"\b(recap|ending explained|season \d+ (finale|premiere|episode))\b",
+    # First-person reviewer-lifestyle bait
+    r"^i (test|tested|tried|replaced|ditched|swapped|bought|use|used)\b",
+    r"\bi'?ve (tested|tried|used|replaced|switched)\b",
+    r"\b(for a living|i'?d recommend|here'?s why|here'?s what|you should (buy|know|try|never))\b",
+    # Shopping list / product roundup filler
+    r"\b(\d+ best|top \d+|\d+ (must|can|should)-have)\b",
+    r"\b(amazon|walmart|best buy|target) (essentials|finds|must-haves?|picks)\b",
+    r"\bvacuum|robovac|air fryer|instant pot|blender|toaster oven|coffee maker\b",
+    # Home organization / decor
+    r"\b(home office upgrade|home decor|organi[sz]ation hack|kitchen hack)\b",
+    r"\b(declutter|kondo)\b",
+    # Sports schedules / "how to watch"
+    r"^how to watch\b",
+    r"\b(live stream|livestream) (.+ vs|today|tonight)\b",
+    # Generic listicle headlines
+    r"^\d+ (signs|reasons|ways|things|tips|tricks|mistakes|myths)\b",
+    r"\b(\d+ (signs|reasons|ways|things|tips|tricks|mistakes|myths)) (that )?you (should|need|must)\b",
+]
+
+_BLOCK_PATTERNS = [re.compile(p, re.IGNORECASE) for p in TITLE_BLOCKLIST]
+
+
+def is_filler(title: str) -> bool:
+    if not title:
+        return True
+    return any(p.search(title) for p in _BLOCK_PATTERNS)
+
+
+# Per-lane cap on how many headlines a single source can take. Prevents
+# one chatty feed (e.g. TechRadar) from monopolising a lane.
+PER_SOURCE_PER_LANE_CAP = 6
+
+# Items older than this are allowed in the 90-day archive but never
+# surface in the displayed lane list (front of queue).
+DISPLAY_MAX_AGE_HOURS = 48
+
 
 # ------------------------------------------------------------------ Model
 
@@ -344,6 +417,8 @@ def entry_to_article(entry, source: str, default_lane: str) -> Article | None:
     link = getattr(entry, "link", "") or ""
     if not title or not link:
         return None
+    if is_filler(title):
+        return None
 
     summary_raw = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
     summary = clean_text(strip_html(summary_raw))
@@ -479,6 +554,29 @@ def make_id(url: str, title: str) -> str:
     return hashlib.sha1(norm.encode("utf-8")).hexdigest()[:16]
 
 
+_STOPWORDS = {
+    "the", "a", "an", "of", "to", "in", "on", "for", "and", "or", "but", "is",
+    "are", "was", "were", "be", "been", "being", "it", "its", "this", "that",
+    "these", "those", "with", "at", "by", "from", "as", "into", "about",
+    "after", "before", "over", "under", "again", "new", "now", "how",
+    "what", "why", "who", "when", "will", "can", "could", "should", "would",
+    "has", "have", "had", "do", "does", "did", "s", "t", "just",
+}
+
+def _title_fingerprint(title: str) -> frozenset[str]:
+    """Bag-of-content-words for near-duplicate title detection."""
+    t = re.sub(r"[^a-z0-9\s]", " ", title.lower())
+    toks = [w for w in t.split() if len(w) > 2 and w not in _STOPWORDS]
+    return frozenset(toks)
+
+
+def _jaccard(a: frozenset, b: frozenset) -> float:
+    if not a or not b:
+        return 0.0
+    u = len(a | b)
+    return 0.0 if u == 0 else len(a & b) / u
+
+
 def _canonical_url(url: str) -> str:
     try:
         p = urllib.parse.urlparse(url)
@@ -604,6 +702,42 @@ def main() -> int:
     for a in deduped:
         a.score = rank(a)
 
+    # Fuzzy story dedup: collapse near-duplicate titles across outlets.
+    # Keep the highest-scoring one, carry a tag noting how many outlets covered it.
+    fingerprints: list[tuple[frozenset[str], Article]] = []
+    collapsed: list[Article] = []
+    # Sort by score desc so the best article per cluster wins.
+    for a in sorted(deduped, key=lambda x: x.score, reverse=True):
+        fp = _title_fingerprint(a.title)
+        if len(fp) < 3:
+            collapsed.append(a)
+            fingerprints.append((fp, a))
+            continue
+        dup_parent = None
+        for existing_fp, existing_a in fingerprints:
+            if existing_a.lane != a.lane:
+                continue
+            if _jaccard(fp, existing_fp) >= 0.55:
+                dup_parent = existing_a
+                break
+        if dup_parent is not None:
+            # Mark the survivor as covered by multiple outlets (signal of impact)
+            count = 1
+            for t in dup_parent.tags:
+                m = re.match(r"outlets:(\d+)", t)
+                if m:
+                    count = int(m.group(1))
+            count += 1
+            dup_parent.tags = [t for t in dup_parent.tags if not t.startswith("outlets:")]
+            dup_parent.tags.append(f"outlets:{count}")
+            if count >= 3 and dup_parent.impact != "high":
+                dup_parent.impact = "high"  # 3+ outlets = clearly impactful
+            continue
+        collapsed.append(a)
+        fingerprints.append((fp, a))
+    print(f"[info] fuzzy-dedup collapsed {len(deduped) - len(collapsed)} near-duplicate titles")
+    deduped = collapsed
+
     # Bucket by lane for impact thresholding
     by_lane: dict[str, list[Article]] = {"gadgets": [], "innovation": [], "ai": [], "science": []}
     for a in deduped:
@@ -617,10 +751,36 @@ def main() -> int:
                 if a.score >= cutoff_score and a.impact != "high":
                     a.impact = "high"
 
+    # Apply per-source diversity cap per lane (prevents one feed dominating)
+    for lane, items in by_lane.items():
+        # items already ranked by score desc since we iterated deduped in sort order;
+        # still, re-sort for safety
+        items.sort(key=lambda x: x.score, reverse=True)
+        src_counts: dict[str, int] = {}
+        kept: list[Article] = []
+        for a in items:
+            c = src_counts.get(a.source, 0)
+            if c >= PER_SOURCE_PER_LANE_CAP:
+                continue  # one outlet already has enough airtime in this lane
+            src_counts[a.source] = c + 1
+            kept.append(a)
+        by_lane[lane] = kept
+
     # Merge into persistent snapshot
     snapshot = load_snapshot()
+
+    # Retroactive filler purge — evict existing items whose title now matches
+    # the blocklist (so edits to TITLE_BLOCKLIST clean up historical snapshots).
+    purged_total = 0
     for lane in ["gadgets", "innovation", "ai", "science"]:
-        snapshot.setdefault("lanes", {}).setdefault(lane, [])
+        existing = snapshot.setdefault("lanes", {}).setdefault(lane, [])
+        before = len(existing)
+        snapshot["lanes"][lane] = [it for it in existing if not is_filler(it.get("title", ""))]
+        purged_total += before - len(snapshot["lanes"][lane])
+    if purged_total:
+        print(f"[info] retroactive filler purge removed {purged_total} items")
+
+    for lane in ["gadgets", "innovation", "ai", "science"]:
         snapshot["lanes"][lane] = merge_into_lane(snapshot["lanes"][lane], by_lane.get(lane, []))
 
     snapshot["generated_at"] = datetime.now(timezone.utc).isoformat()
