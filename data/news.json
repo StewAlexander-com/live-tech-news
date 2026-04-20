@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T21:24:45.195492+00:00",
+  "generated_at": "2026-04-20T21:34:55.264144+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -83,6 +83,23 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7014
+      },
+      {
+        "id": "483cf92ba69c96fc",
+        "title": "Apple CEO Tim Cook steps down, company names Ternus as incoming CEO",
+        "url": "https://www.tomshardware.com/software/macos/apple-ceo-time-cook-steps-down-company-names-ternus-as-incoming-ceo",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1776717883000,
+        "summary": "Apple CEO Tim Cook is stepping down on September 1. He will be replaced by hardware engineering lead John Ternus.",
+        "tags": [
+          "macos",
+          "software",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9348
       },
       {
         "id": "f68e94dbb05409bb",
@@ -1006,27 +1023,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8483
-      },
-      {
-        "id": "4ad1fecd296eba4e",
-        "title": "iOS 27 Rumored to Drop Support for These iPhone Models",
-        "url": "https://www.macrumors.com/2026/04/20/ios-27-compatible-iphone-models-rumor/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1776696818000,
-        "summary": "iOS 27 will be compatible with the iPhone 12 series and newer, according to Instant Digital, a known Apple leaker on the Chinese social media platform Weibo. If this rumor is accurate, iOS 27 will drop support for the following iPhone models:iPhone 11 iPhone 11 Pro iPhone 11 Pro Max iPhone SE (2nd generation)However, these devices will continue to receive iOS 26 security updates for at least a few",
-        "tags": [
-          "featured",
-          "ios 27",
-          "instant digital",
-          "weibo"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9983
       }
     ],
     "innovation": [
+      {
+        "id": "12d3954ae39eb742",
+        "title": "Chase got a spiff of $77 million to create one job with New York datacenter",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/chase_77m_tax_subsidy_datacenter_job/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1776720311000,
+        "summary": "Official involved in deal tells El Reg number doesn't paint entire picture of datacenter's economic benefit When Rockland County, New York, approved nearly $77 million in tax breaks for JPMorgan Chase's datacenter expansion in 2024, no one showed up to object. Two years and a whole lot of bit barns in the news cycle later, government watchdogs are calling foul over the project's lone permanent job",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0467
+      },
       {
         "id": "cf5f8e6532f41d78",
         "title": "DF Paraphernalia: T-Shirts and Hoodies Are Back",
@@ -1974,24 +1986,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8069
-      },
-      {
-        "id": "003fe0c0d15b4a5c",
-        "title": "Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support | How does HEVC implementation really work these days?",
-        "url": "https://www.reddit.com/r/technology/comments/1sqpu41/clarifying_hevc_licensing_fees_royalties_and_why/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1776692813000,
-        "summary": "submitted by /u/Hrmbee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9163
       }
     ],
     "ai": [
+      {
+        "id": "c6b34cb348b5a1a3",
+        "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
+        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776720052000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:8"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0453
+      },
       {
         "id": "f3b835d829f4b265",
         "title": "OpenAI rolls out Chronicle, which builds memories from screen captures to make Codex more aware of context, as a research preview for Pro subscribers on macOS (Zac Hall/9to5Mac)",
@@ -2930,22 +2943,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8074
-      },
-      {
-        "id": "584bab6ce235bcca",
-        "title": "Op-Ed: SaaS is not dead. You are just being sold the funeral",
-        "url": "https://thenextweb.com/news/saas-not-dead-ai-hype-enterprise-software",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776696457000,
-        "summary": "The “AI has killed software” narrative has a handful of very loud beneficiaries and a lot of quiet evidence against it. The companies that will survive the next five years are the ones that refuse to treat the hyperscalers as the new gods. Whenever I make an affirmation, I like to do my research first, […] This story continues at The Next Web",
-        "tags": [
-          "opinion",
-          "insider"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9685
       }
     ],
     "science": [
