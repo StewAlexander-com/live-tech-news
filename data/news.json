@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-20T16:37:23.079793+00:00",
+  "generated_at": "2026-04-20T16:41:21.945626+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "30eb05d3740f153d",
+        "title": "Samsung devices get yet another One UI 8.5 beta update",
+        "url": "https://www.androidpolice.com/one-ui-85-beta-rollout-roundup/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1776703230000,
+        "summary": "Potentially the last one before stable",
+        "tags": [
+          "one ui",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9997
+      },
       {
         "id": "58d18e9ca2bd15c5",
         "title": "Apple Sports App Receives Two New Features Across iPhone and CarPlay",
@@ -964,19 +980,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9107
-      },
-      {
-        "id": "ae89a421707d5c5b",
-        "title": "Quit Doomscrolling With These 5 Effective Tech Gadgets and Apps",
-        "url": "https://www.cnet.com/health/best-apps-to-help-manage-screen-time/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1776682800000,
-        "summary": "Too much screen time can lead you to doomscroll. Try these expert-vetted tools to control time on your phone.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.81
       }
     ],
     "innovation": [
@@ -1921,24 +1924,58 @@
         "score": 1.0473
       },
       {
-        "id": "b291e7508bde51ba",
-        "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
-        "url": "https://arxiv.org/abs/2604.15839",
+        "id": "178763f36b6ef850",
+        "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2604.15314",
         "source": "arXiv cs.AI",
         "lane": "innovation",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15839v1 Announce Type: new Abstract: Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to optimistic estimates of model capability. We call the stricter, more realistic setting \"Hard Mode\": the system must independently discover the answer be",
+        "summary": "arXiv:2604.15314v1 Announce Type: cross Abstract: This research aimed to develop an intelligent system to evaluate performance and extract behavioral models for children with ASD and neurotypical (TD) children by interacting with a virtual social robot in a music education program using deep neural networks. The system has two main features: 1) it distinguishes between neurotypical children and th",
         "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lo"
+          "cs.hc",
+          "cs.ai"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.8234
+        "impact": "high",
+        "score": 0.8882
       }
     ],
     "ai": [
+      {
+        "id": "5cb61808ae5dc6c0",
+        "title": "World's largest collection of Olympiad-level math problems now available to everyone",
+        "url": "https://phys.org/news/2026-04-world-largest-olympiad-math-problems.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1776703203000,
+        "summary": "Every year, the countries competing in the International Mathematical Olympiad arrive with a booklet of their best, most original problems. Those booklets get shared among delegations, then quietly disappear. No one had ever collected them systematically, cleaned them, and made them available—not for AI researchers testing the limits of mathematical reasoning, and not for the students around the w",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1011
+      },
+      {
+        "id": "9d10cd81561150be",
+        "title": "Deezer says AI-made songs make up 44 percent of daily uploads",
+        "url": "https://www.engadget.com/entertainment/music/deezer-says-ai-made-songs-make-up-44-percent-of-daily-uploads-163642921.html?src=rss",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1776703002000,
+        "summary": "AI-generated music is spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published a report revealing that 44 percent of its daily uploads are AI-generated songs, accumulating to around 2 million flagged songs a month. If that figure doesn't alarm you, Deezer said",
+        "tags": [
+          "music",
+          "media",
+          "arts & entertainment",
+          "site|engadget",
+          "provider_name|engadget",
+          "region|us"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7592
+      },
       {
         "id": "63bcf31a3756d05c",
         "title": "Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License (Kimi AI)",
@@ -2828,51 +2865,19 @@
         "score": 0.9145
       },
       {
-        "id": "1bcf5bb9ed340ce7",
-        "title": "Towards Rigorous Explainability by Feature Attribution",
-        "url": "https://arxiv.org/abs/2604.15898",
+        "id": "a513bd693f2f822f",
+        "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+        "url": "https://arxiv.org/abs/2604.15456",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15898v1 Announce Type: new Abstract: For around a decade, non-symbolic methods have been the option of choice when explaining complex machine learning (ML) models. Unfortunately, such methods lack rigor and can mislead human decision-makers. In high-stakes uses of ML, the lack of rigor is especially problematic. One prime example of provable lack of rigor is the adoption of Shapley valu",
+        "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8893
-      },
-      {
-        "id": "406ed114101c7c41",
-        "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
-        "url": "https://arxiv.org/abs/2604.15951",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15951v1 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of graph-LLM integrations are most appropriate across applications. This survey provide",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8893
-      },
-      {
-        "id": "fedca279f7fe9fb6",
-        "title": "StoSignSGD: Unbiased Structural Stochasticity Fixes SignSGD for Training Large Language Models",
-        "url": "https://arxiv.org/abs/2604.15416",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776657600000,
-        "summary": "arXiv:2604.15416v1 Announce Type: new Abstract: Sign-based optimization algorithms, such as SignSGD, have garnered significant attention for their remarkable performance in distributed learning and training large foundation models. Despite their empirical superiority, SignSGD is known to diverge on non-smooth objectives, which are ubiquitous in modern machine learning due to ReLUs, max-pools, and ",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "math.oc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8893
+        "score": 0.8882
       }
     ],
     "science": [
