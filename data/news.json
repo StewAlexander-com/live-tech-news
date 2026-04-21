@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:49:05.730816+00:00",
+  "generated_at": "2026-04-21T23:01:38.304262+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1007,6 +1007,36 @@
     ],
     "innovation": [
       {
+        "id": "e51d70de0fba2719",
+        "title": "AcuityMD, which provides AI tools that automate sales call recaps, CRM data entry, and more for medtech companies, raised an $80M Series C at a $955M valuation (Brock E.W. Turner/Axios)",
+        "url": "http://www.techmeme.com/260421/p49#a260421p49",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776812437000,
+        "summary": "Brock E.W. Turner / Axios: AcuityMD, which provides AI tools that automate sales call recaps, CRM data entry, and more for medtech companies, raised an $80M Series C at a $955M valuation — Medtech software platform AcuityMD raised $80 million in Series C funding at a $955 million valuation, CEO Michael Monovoukas tells Axios Pro exclusively.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0796
+      },
+      {
+        "id": "ade24f1ce05feb5e",
+        "title": "The Electromechanical Computer of the B-52’s Star Tracker",
+        "url": "https://hackaday.com/2026/04/21/the-electromechanical-computer-of-the-b-52s-star-tracker/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1776812433000,
+        "summary": "In the ages before convenient global positioning satellites to query for one’s current location military aircraft required dedicated navigators in order to not get lost. This changed with increasing automation, …read more",
+        "tags": [
+          "reverse engineering",
+          "electromechanical computer",
+          "star tracker"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0796
+      },
+      {
         "id": "efb33b1c965fd949",
         "title": "Trump Media & Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile (Todd Spangler/Variety)",
         "url": "http://www.techmeme.com/260421/p47#a260421p47",
@@ -1919,47 +1949,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.995
-      },
-      {
-        "id": "c59f8ad91e51bb74",
-        "title": "CAN Bus Analyzer Runs In Your Browser",
-        "url": "https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1776785452000,
-        "summary": "If you’ve got a modern car, truck, or tractor, it’s probably got a CAN bus or three that is bouncing data all around the vehicle. Listening in on these transmissions …read more",
-        "tags": [
-          "car hacks",
-          "automotive",
-          "can",
-          "can-bus"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0771
-      },
-      {
-        "id": "d6b4f57bda5f47a4",
-        "title": "7 underrated HBO shows you still have time to catch up on before they end",
-        "url": "https://www.makeuseof.com/7-underrated-hbo-shows-watch-before-they-end/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1776785418000,
-        "summary": "Big shows like The Pitt and A Knight of the Seven Kingdoms may take all the headlines, but HBO has hidden treasures worth digging up.",
-        "tags": [
-          "streaming",
-          "hbo",
-          "hbo go",
-          "dune: prophecy",
-          "the gilded age",
-          "task"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8475
       }
     ],
     "ai": [
+      {
+        "id": "a3d42b575e0e27d7",
+        "title": "Florida Launches Criminal Investigation Into ChatGPT Over School Shooting",
+        "url": "https://yro.slashdot.org/story/26/04/21/2039235/florida-launches-criminal-investigation-into-chatgpt-over-school-shooting?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1776812400000,
+        "summary": "Florida's attorney general has launched a criminal investigation into OpenAI over allegations that the accused gunman in a shooting at Florida State University last year used ChatGPT to help plan the attack. OpenAI says the chatbot is \"not responsible for this terrible crime\" and only provided factual information available from public sources. NPR reports: The Republican attorney general, James Ut",
+        "tags": [
+          "court"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0494
+      },
       {
         "id": "b9be3ee2482f0998",
         "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
@@ -2516,6 +2523,22 @@
         "score": 1.0756
       },
       {
+        "id": "78a764fe427ddff8",
+        "title": "Apple is betting John Ternus will bring back Jobs-era decisiveness at the worst possible time to be behind on AI",
+        "url": "https://thenextweb.com/news/apple-is-betting-john-ternus-will-bring-back-jobs-era-decisiveness-at-the-worst-possible-time-to-be-behind-on-ai",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1776800958000,
+        "summary": "Summary: Bloomberg frames Apple’s CEO transition as a bet on “Jobs-era decisiveness,” with John Ternus expected to centralise decision-making and move faster on AI, where Apple’s models trail year-old competitors and the Siri overhaul has been delayed three times since 2024. He inherits a product roadmap spanning a foldable iPhone, smart glasses, and a HomePad, […] This story continues at The Next",
+        "tags": [
+          "apple",
+          "insights"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9138
+      },
+      {
         "id": "6ef65d033eaebd4a",
         "title": "Continued Conversation finally hits Gemini for Home",
         "url": "https://www.androidpolice.com/continued-conversation-in-gemini-for-home/",
@@ -2916,44 +2939,84 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0053
-      },
-      {
-        "id": "14ff3a2f09af02ff",
-        "title": "'5% utilization is a math fail': Millions of GPUs worth billions are mostly sitting idle, report finds",
-        "url": "https://www.techradar.com/pro/5-utilization-is-a-math-fail-millions-of-gpus-worth-billions-are-mostly-sitting-idle-report-finds",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776795300000,
-        "summary": "Most companies massively overprovision AI infrastructure, leaving GPUs and CPUs underutilized, while rising costs expose inefficiencies driven by fear and poor automation.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9156
-      },
-      {
-        "id": "e565d4c6905b005d",
-        "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-        "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776794766000,
-        "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
-        "tags": [
-          "policy",
-          "amazon",
-          "chewy",
-          "e-commerce",
-          "online retailer",
-          "price fixing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9867
       }
     ],
     "science": [
+      {
+        "id": "6bf988935f01b7f8",
+        "title": "Breathing new life into an ancient mystery: Unlocking the trilobite's respiratory secrets",
+        "url": "https://phys.org/news/2026-04-life-ancient-mystery-trilobite-respiratory.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776812412000,
+        "summary": "For more than 270 million years, trilobites were among the most successful and diverse creatures on Earth, with over 22,000 known species spanning the Paleozoic Era. Yet, despite their abundance in the fossil record and their presence on every continent, one of the most fundamental questions about their survival has remained a subject of intense scientific debate: how did they breathe?",
+        "tags": [
+          "evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "29c7b1dc89724af1",
+        "title": "Hurricanes devastated Florida's East Coast. Then seagrass made an unexpected comeback",
+        "url": "https://phys.org/news/2026-04-hurricanes-devastated-florida-east-coast.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776812406000,
+        "summary": "Florida's Indian River Lagoon has been an ecosystem in decline going back to 2011, when harmful algal blooms led to a severe decline in seagrass, the foundational component of shallow coastal ecosystems.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "bcee1b8d37c3d0f3",
+        "title": "Before the melt begins, sea stars show hidden immune collapse and tissue failure driving a coastal die-off",
+        "url": "https://phys.org/news/2026-04-sea-stars-hidden-immune-collapse.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776812401000,
+        "summary": "Scientists are homing in on a mysterious wasting disease that has killed billions of sea stars along the Pacific coast of North America since 2013. Sea star wasting disease can rapidly wipe out entire populations, leaving gooey puddles of tissue in its wake. A new study by University of Vermont researchers may unlock the pathways for infection by identifying early biomarkers of illness in wild sea",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "b751f4ce306a6f47",
+        "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+        "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1776812302000,
+        "summary": "Only Elon would do this before an IPO.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7472
+      },
+      {
+        "id": "c75de41b2e52d31b",
+        "title": "Penguin muscle map reveals how waddles and underwater 'flight' both work",
+        "url": "https://phys.org/news/2026-04-penguin-muscle-reveals-waddles-underwater.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776811801000,
+        "summary": "Penguins may look charmingly awkward on land, but new research shows their bodies are finely tuned for powerful, efficient movement both on land and underwater. A team of anatomists from Midwestern University, in collaboration with SeaWorld San Diego and Scarlet Imaging, has published a detailed study of the limb musculature of the macaroni penguin (Eudyptes chrysolophus), uncovering previously un",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0162
+      },
       {
         "id": "e2c92c6dd5c61030",
         "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
@@ -3808,84 +3871,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.101
-      },
-      {
-        "id": "50db374a8ade0fdf",
-        "title": "Draft of SpaceX's confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees (The Information)",
-        "url": "http://www.techmeme.com/260421/p15#a260421p15",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1776780603000,
-        "summary": "The Information: Draft of SpaceX's confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees — Elon Musk increased his stake in SpaceX last year by purchasing $1.4 billion of stock from current and former employees …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9963
-      },
-      {
-        "id": "099b2edeb7703f36",
-        "title": "Severe COVID lockdowns cost home sellers and landlords millions",
-        "url": "https://phys.org/news/2026-04-severe-covid-lockdowns-home-sellers.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776780001000,
-        "summary": "Melbourne home sellers and landlords lost up to $55 million a week as sales prices and rents declined after the second severely restrictive COVID-19 lockdown (July 2020) to attract buyers and renters who were relocating to less restrictive lockdowns outside the city, a QUT-led study has found. The findings are published in the journal Real Estate Economics.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
-      },
-      {
-        "id": "2215bc3f7f553ae0",
-        "title": "Simple ocean-based model forecasts a powerful El Niño, over 2 °C warmer than normal",
-        "url": "https://phys.org/news/2026-04-simple-ocean-based-powerful-el.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776776404000,
-        "summary": "For decades, scientists have worked to improve predictions of El Niño-Southern Oscillation (ENSO), a climate powerhouse that can cause droughts, flooding, marine heat waves, and more around the world. Researchers from the University of Hawai'i at Mānoa have published a study in Geophysical Research Letters showing that they can skillfully predict El Niño and La Niña 15 months ahead of time using o",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0182
-      },
-      {
-        "id": "5caafd3ec88acf47",
-        "title": "The Forgotten History of Hershey’s Electric Railway in Cuba",
-        "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
-        "source": "IEEE Spectrum",
-        "lane": "science",
-        "published_ts": 1776776401000,
-        "summary": "Why does a chocolatier build a railroad? For Milton S. Hershey, it was a logical response to a sugar shortage brought on by World War I. The Hershey Chocolate Co. was by then a chocolate-making powerhouse, having refined the automation and mass production of its products, including the eponymous Hershey’s Milk Chocolate Bar and the bite-size Hershey’s Kiss. To satisfy its many customers, the compa",
-        "tags": [
-          "past-forward",
-          "cuba",
-          "electric-railroad",
-          "trains",
-          "sugarcane",
-          "food-production"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.098
-      },
-      {
-        "id": "4f3c2069ac22fc22",
-        "title": "Floating biodegradable beads remove oil in 60 minutes and stay easy to recover",
-        "url": "https://phys.org/news/2026-04-biodegradable-beads-oil-minutes-stay.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776776401000,
-        "summary": "Floatable beads made from chitosan and cellulose acetate and enhanced with bentonite have been engineered to effectively clean oil from water. The beads showed good oil adsorption capacity while remaining easy to collect from the water surface.",
-        "tags": [
-          "polymers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0181
       }
     ]
   },
