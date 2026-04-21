@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-04-21T03:55:34.577003+00:00",
+  "generated_at": "2026-04-21T04:18:06.221093+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "846c44ebd7a69583",
+        "title": "(Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models",
+        "url": "https://arxiv.org/abs/2604.16429",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16429v1 Announce Type: new Abstract: We introduce Mosaic, a probabilistic weather forecasting model that addresses two principal sources of spectral degradation in ML-based weather prediction: (1) deterministic training against ensemble means and (2) compressive encoding creating an information bottleneck. Mosaic generates ensemble members through learned functional perturbations and op",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv",
+          "physics.ao-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
+      {
+        "id": "a3e236e0fe8c0463",
+        "title": "Dyson’s back with a travel-size Supersonic hairdryer",
+        "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1776744000000,
+        "summary": "Ten years ago, Dyson kicked off the hair gadget arms race with its $400 Supersonic hairdryer. Today, it's back with a slightly smaller and cheaper travel-size version. As the name suggests, the $299.99 Supersonic Travel is meant for people on the go - whether that's a business trip or a jaunt to the gym before […]",
+        "tags": [
+          "gadgets",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7874
+      },
       {
         "id": "1713942e0f1c8af8",
         "title": "The Breville Barista Touch Impress is the perfect coffee machine for my needs — and it’s now exceptional value thanks to our exclusive discount",
@@ -986,38 +1021,85 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9982
-      },
-      {
-        "id": "43ded0237a3bd0d0",
-        "title": "Puff, Puff, Pass… the Menu: These Are the Best 4/20 Food Deals",
-        "url": "https://www.cnet.com/deals-live/420-food-deals-live/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1776702693000,
-        "summary": "If you're feeling a little snackier than usual today, we're here to help.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8104
-      },
-      {
-        "id": "4c3bf000fd017692",
-        "title": "Proton VPN usage spikes in Turkey following new regulatory proposals",
-        "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-usage-spikes-in-turkey-following-new-regulatory-proposals",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776701716000,
-        "summary": "Turkey is preparing new online controls, including VPN licensing, following recent school attacks. In response, Proton VPN has seen sign-ups double, vowing never to log or share user data with authorities.",
-        "tags": [
-          "vpn services",
-          "vpn"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.844
       }
     ],
     "innovation": [
+      {
+        "id": "28c887bb560281d2",
+        "title": "A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia's ruling class (Wall Street Journal)",
+        "url": "http://www.techmeme.com/260421/p1#a260421p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776744601000,
+        "summary": "Wall Street Journal: A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia's ruling class — Crime syndicates in Cambodia corrupt officials, enslave workers and fleece victims worldwide — PHNOM PENH, Cambodia …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9974
+      },
+      {
+        "id": "178763f36b6ef850",
+        "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2604.15314",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15314v1 Announce Type: cross Abstract: This research aimed to develop an intelligent system to evaluate performance and extract behavioral models for children with ASD and neurotypical (TD) children by interacting with a virtual social robot in a music education program using deep neural networks. The system has two main features: 1) it distinguishes between neurotypical children and th",
+        "tags": [
+          "cs.hc",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "299256cd16ef2389",
+        "title": "Uncertainty, Vagueness, and Ambiguity in Human-Robot Interaction: Why Conceptualization Matters",
+        "url": "https://arxiv.org/abs/2604.15339",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15339v1 Announce Type: cross Abstract: Uncertainty, vagueness, and ambiguity are closely related and often confused concepts in human-robot interaction (HRI). In earlier studies, these concepts have been defined in contradictory ways and described using inconsistent terminology. This conceptual confusion and lack of terminological consistency undermine empirical comparability, thereby s",
+        "tags": [
+          "cs.hc",
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "b291e7508bde51ba",
+        "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
+        "url": "https://arxiv.org/abs/2604.15839",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15839v1 Announce Type: new Abstract: Most ATP benchmarks embed the final answer within the formal statement -- a convention we call \"Easy Mode\" -- a design that simplifies the task relative to what human competitors face and may lead to optimistic estimates of model capability. We call the stricter, more realistic setting \"Hard Mode\": the system must independently discover the answer be",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
+      {
+        "id": "469864be51ee83e2",
+        "title": "★ Another Day Has Come",
+        "url": "https://daringfireball.net/2026/04/another_day_has_come",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1776743981000,
+        "summary": "If you agree that Apple itself was Jobs’s greatest product, Cook really is a product person after all.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0736
+      },
       {
         "id": "c49bf1047d022d4c",
         "title": "PlayStation To Require Age Verification For Messages and Voice Chat",
@@ -1859,97 +1941,202 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9454
-      },
-      {
-        "id": "0b904110b66ac435",
-        "title": "A new media company called MTS launches for \"monitoring the situation\" across tech, business, politics, and culture, with backing from a16z and others (a16z)",
-        "url": "http://www.techmeme.com/260420/p18#a260420p18",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776704702000,
-        "summary": "a16z: A new media company called MTS launches for “monitoring the situation” across tech, business, politics, and culture, with backing from a16z and others — Thrilled to announce our investment in a new media company called MTS (short for Monitoring the Situation).",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9986
-      },
-      {
-        "id": "6f6fca18e806d293",
-        "title": "North Korean hackers blamed for $290M crypto theft",
-        "url": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1776704645000,
-        "summary": "The hack against Kelp DAO is the largest crypto heist of the year so far.",
-        "tags": [
-          "crypto",
-          "security",
-          "cryptocurrency",
-          "cybersecurity",
-          "dprk",
-          "hackers"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6935
-      },
-      {
-        "id": "a400197cfd5e2a68",
-        "title": "North Korea hackers blamed for $290M crypto theft",
-        "url": "https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1776704645000,
-        "summary": "The hack against Kelp DAO is the largest crypto heist of the year so far.",
-        "tags": [
-          "security",
-          "crypto",
-          "cryptocurrency",
-          "cybersecurity",
-          "dprk",
-          "hackers"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7467
-      },
-      {
-        "id": "194781bc2bba1a86",
-        "title": "Mastodon says its flagship server was hit by a DDoS attack",
-        "url": "https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1776704313000,
-        "summary": "The DDoS attack against Mastodon's flagship server comes less than a week after Bluesky was targeted with junk web traffic.",
-        "tags": [
-          "security",
-          "bluesky",
-          "cyberattack",
-          "ddos",
-          "mastodon",
-          "social media"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7468
-      },
-      {
-        "id": "bffaf83d7860ed0a",
-        "title": "New NPR article about the Data Center boom and… woah. The scale of this is unprecedented",
-        "url": "https://www.reddit.com/r/technology/comments/1squnep/new_npr_article_about_the_data_center_boom_and/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1776703091000,
-        "summary": "submitted by /u/cyndaquilled [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9268
       }
     ],
     "ai": [
+      {
+        "id": "a513bd693f2f822f",
+        "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+        "url": "https://arxiv.org/abs/2604.15456",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "9376b9be59329a53",
+        "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+        "url": "https://arxiv.org/abs/2604.15495",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While ",
+        "tags": [
+          "cs.ai",
+          "cs.cv",
+          "cs.hc",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "4e74f40d78fa4438",
+        "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+        "url": "https://arxiv.org/abs/2604.15514",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's compl",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "4746f160be5f98f6",
+        "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+        "url": "https://arxiv.org/abs/2604.15559",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first e",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "1bcf5bb9ed340ce7",
+        "title": "Towards Rigorous Explainability by Feature Attribution",
+        "url": "https://arxiv.org/abs/2604.15898",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15898v1 Announce Type: new Abstract: For around a decade, non-symbolic methods have been the option of choice when explaining complex machine learning (ML) models. Unfortunately, such methods lack rigor and can mislead human decision-makers. In high-stakes uses of ML, the lack of rigor is especially problematic. One prime example of provable lack of rigor is the adoption of Shapley valu",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "406ed114101c7c41",
+        "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
+        "url": "https://arxiv.org/abs/2604.15951",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15951v2 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of graph-LLM integrations are most appropriate across applications. This survey provide",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "34942d04fe80b384",
+        "title": "BASIS: Balanced Activation Sketching with Invariant Scalars for \"Ghost Backpropagation\"",
+        "url": "https://arxiv.org/abs/2604.16324",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16324v1 Announce Type: new Abstract: The activation memory required for exact backpropagation scales linearly with network depth, context length, and feature dimensionality, forming an O(L * BN ) spatial bottleneck (where B is the sequence-batch cardinality and N is the feature dimension). This constraint historically throttles the scaling of deep neural networks. While randomized autom",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "c7fc01c98b925e93",
+        "title": "Preventing overfitting in deep learning using differential privacy",
+        "url": "https://arxiv.org/abs/2604.16334",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16334v1 Announce Type: new Abstract: The use of Deep Neural Network based systems in the real world is growing. They have achieved state-of-the-art performance on many image, speech and text datasets. They have been shown to be powerful systems that are capable of learning detailed relationships and abstractions from the data. This is a double-edged sword which makes such systems vulner",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "b607f7547138ea2c",
+        "title": "Beyond Verifiable Rewards: Rubric-Based GRM for Reinforced Fine-Tuning SWE Agents",
+        "url": "https://arxiv.org/abs/2604.16335",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16335v1 Announce Type: new Abstract: Despite recent progress in Large Language Model (LLM) Agents for Software Engineering (SWE) tasks, end-to-end fine-tuning typically relies on verifiable terminal rewards such as whether all unit tests pass. While these binary signals reflect whether the final solution is correct, they provide little guidance for shaping intermediate behaviors during ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "b632adabc972610e",
+        "title": "SetFlow: Generating Structured Sets of Representations for Multiple Instance Learning",
+        "url": "https://arxiv.org/abs/2604.16362",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16362v1 Announce Type: new Abstract: Data scarcity and weak supervision continue to limit the performance of machine learning models in many real-world applications, such as mammography, where Multiple Instance Learning (MIL) often offers the best formulation. While recent foundation models provide strong semantic representations out of the box, effective augmentation of such representa",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "8e7c353e9fabd080",
+        "title": "Functional Similarity Metric for Neural Networks: Overcoming Parametric Ambiguity via Activation Region Analysis",
+        "url": "https://arxiv.org/abs/2604.16426",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16426v1 Announce Type: new Abstract: As modern deep learning architectures grow in complexity, representational ambiguity emerges as a critical barrier to their interpretability and reliable merging. For ReLU networks, identical functional mappings can be achieved through entirely different weight configurations due to algebraic symmetries: neuron permutation and positive diagonal scali",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "a1fa3c834447145b",
+        "title": "Dimensional Criticality at Grokking Across MLPs and Transformers",
+        "url": "https://arxiv.org/abs/2604.16431",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16431v1 Announce Type: new Abstract: Abrupt transitions between distinct dynamical regimes are a hallmark of complex systems. Grokking in deep neural networks provides a striking example -- an abrupt transition from memorization to generalization long after training accuracy saturates -- yet robust macroscopic signatures of this transition remain elusive. Here we introduce \\textbf{TDU--",
+        "tags": [
+          "cs.lg",
+          "cond-mat.dis-nn",
+          "cs.ai",
+          "nlin.ao"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
       {
         "id": "102db063e9bee233",
         "title": "Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year (Eunice Xu/South China Morning Post)",
@@ -2712,207 +2899,119 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1315
-      },
-      {
-        "id": "00cced2ef835dac4",
-        "title": "Intelligent Investing founder Arnout Ter Schure on integrating AI capabilities with human market insight and structure",
-        "url": "https://thenextweb.com/news/ai-human-judgment-financial-markets",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776707966000,
-        "summary": "Intelligent Investing, a research-driven market analysis platform, works from the premise that artificial intelligence can expand financial forecasting by processing large datasets, accelerating strategy development, and enabling systematic execution. Alongside these capabilities, human interpretation remains essential, providing the context needed to translate data into meaningful market perspect",
-        "tags": [
-          "finance"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9539
-      },
-      {
-        "id": "07ddb9e0762cfac5",
-        "title": "Deezer says AI song uploads have nearly overtaken human music",
-        "url": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1776707786000,
-        "summary": "Deezer says it receives nearly 75,000 AI-generated song submissions to its music streaming platform each day, accounting for about 44 percent of all daily uploads, as reported earlier by TechCrunch. Despite the increase in \"fraudulent\" uploads, Deezer says the consumption of AI songs makes up around 1 to 3 percent of total streams, as the […]",
-        "tags": [
-          "entertainment",
-          "music",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8525
-      },
-      {
-        "id": "09d95faebd00b702",
-        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-        "url": "https://www.reddit.com/r/technology/comments/1sqvuvk/deezer_says_44_of_songs_uploaded_to_its_platform/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776705576000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9834
-      },
-      {
-        "id": "4d7014f5d3150cba",
-        "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
-        "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776705351000,
-        "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
-        "tags": [
-          "ai",
-          "tech",
-          "ai music",
-          "artificial intelligence",
-          "deezer",
-          "generative ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0745
-      },
-      {
-        "id": "10b6ed7f8e24ed73",
-        "title": "AI chatbots could be making you stupider - As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.",
-        "url": "https://www.reddit.com/r/technology/comments/1sqvk3e/ai_chatbots_could_be_making_you_stupider_as_large/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776704962000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
-      },
-      {
-        "id": "539a2d59755f0dd1",
-        "title": "Allbirds' Move To AI Has Echoes of the Dot-Com Frenzy",
-        "url": "https://slashdot.org/story/26/04/20/1647258/allbirds-move-to-ai-has-echoes-of-the-dot-com-frenzy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776704400000,
-        "summary": "An anonymous reader quotes a report from Bloomberg, written by writer Austin Carr: Allbirds is pivoting to artificial intelligence. The San Francisco brand, whose wool running shoes were once the sneaker du jour among the tech crowd, announced last week that it was expanding into AI computing infrastructure. The bizarre strategic shift was immediately greeted with a surprising frenzy on Wall Stree",
-        "tags": [
-          "business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "5385960c76d84afd",
-        "title": "Fortnite developers can make AI characters now — just don’t try to date them",
-        "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1776704319000,
-        "summary": "Following last year's AI-powered Darth Vader in Fortnite that swore in a recreation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool to create AI-powered characters that players can talk and interact with. \"Instead of authoring dialogue trees for characters in your islands, conversations transforms an […]",
-        "tags": [
-          "ai",
-          "entertainment",
-          "fortnite",
-          "gaming",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.854
-      },
-      {
-        "id": "e947b75caef909e0",
-        "title": "Rogue Trooper brings the Genetic Infantry to the silver screen",
-        "url": "https://arstechnica.com/culture/2026/04/rogue-trooper-brings-the-genetic-infantry-to-the-silver-screen/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776704308000,
-        "summary": "The future war film, from the director of Moon, is adapted from 2000 AD's comic series.",
-        "tags": [
-          "culture",
-          "2000 ad",
-          "duncan jones",
-          "rogue trooper"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9893
-      },
-      {
-        "id": "fbcacae8709c243a",
-        "title": "You won't believe AI's take on the 'history' of Stonehenge — and I am so over AI slop",
-        "url": "https://www.techradar.com/ai-platforms-assistants/you-wont-believe-ais-take-on-the-history-of-stonehenge-and-i-am-so-over-ai-slop",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776704227000,
-        "summary": "Heaven help us — YouTube is now overflowing with historical AI slop, and it's making it hard to find the real thing.",
-        "tags": [
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9161
-      },
-      {
-        "id": "5cb61808ae5dc6c0",
-        "title": "World's largest collection of Olympiad-level math problems now available to everyone",
-        "url": "https://phys.org/news/2026-04-world-largest-olympiad-math-problems.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1776703203000,
-        "summary": "Every year, the countries competing in the International Mathematical Olympiad arrive with a booklet of their best, most original problems. Those booklets get shared among delegations, then quietly disappear. No one had ever collected them systematically, cleaned them, and made them available—not for AI researchers testing the limits of mathematical reasoning, and not for the students around the w",
-        "tags": [
-          "mathematics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1009
-      },
-      {
-        "id": "9d10cd81561150be",
-        "title": "Deezer says AI-made songs make up 44 percent of daily uploads",
-        "url": "https://www.engadget.com/entertainment/music/deezer-says-ai-made-songs-make-up-44-percent-of-daily-uploads-163642921.html?src=rss",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1776703002000,
-        "summary": "AI-generated music is spreading like wildfire, according to Deezer, who reported receiving nearly 75,000 uploads of AI-made tracks a day on its platform. The alternative music streaming service based in Paris published a report revealing that 44 percent of its daily uploads are AI-generated songs, accumulating to around 2 million flagged songs a month. If that figure doesn't alarm you, Deezer said",
-        "tags": [
-          "music",
-          "media",
-          "arts & entertainment",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.759
-      },
-      {
-        "id": "63bcf31a3756d05c",
-        "title": "Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License (Kimi AI)",
-        "url": "http://www.techmeme.com/260420/p16#a260420p16",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776701702000,
-        "summary": "Kimi AI: Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License — We are open sourcing our latest model, Kimi K2.6, featuring state-of-the-art coding, long-horizon execution, and agent swarm capabilities.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0723
       }
     ],
     "science": [
+      {
+        "id": "49251234b7514eef",
+        "title": "CGCMA: Conditionally-Gated Cross-Modal Attention for Event-Conditioned Asynchronous Fusion",
+        "url": "https://arxiv.org/abs/2604.16411",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16411v1 Announce Type: new Abstract: We study asynchronous alignment, a first-class multimodal learning setting in which a dense primary stream must be fused with sporadic external context whose value depends on when it arrives. Unlike standard multimodal benchmarks that assume structural synchrony, this setting requires models to reason explicitly about freshness and trust. We focus on",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "57ac14a4a30249a7",
+        "title": "Continuous ageing trajectory representations for knee-aware lifetime prediction of lithium-ion batteries across heterogeneous dataset",
+        "url": "https://arxiv.org/abs/2604.16580",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16580v1 Announce Type: new Abstract: Accurate assessment of lithium-ion battery ageing is challenged by cell-to-cell variability, heterogeneous cycling protocols, and limited transferability of data-driven models across datasets. In particular, robust identification of degradation transitions, such as the knee point, and reliable early-life prediction of remaining useful life (RUL) rema",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1274
+      },
+      {
+        "id": "f9cf62fdfd900f20",
+        "title": "Stein Variational Black-Box Combinatorial Optimization",
+        "url": "https://arxiv.org/abs/2604.15837",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.15837v1 Announce Type: new Abstract: Combinatorial black-box optimization in high-dimensional settings demands a careful trade-off between exploiting promising regions of the search space and preserving sufficient exploration to identify multiple optima. Although Estimation-of-Distribution Algorithms (EDAs) provide a powerful model-based framework, they often concentrate on a single reg",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
+      {
+        "id": "f3c7092ec25df2d0",
+        "title": "UniMamba: A Unified Spatial-Temporal Modeling Framework with State-Space and Attention Integration",
+        "url": "https://arxiv.org/abs/2604.16325",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16325v1 Announce Type: new Abstract: Multivariate time series forecasting is fundamental to numerous domains such as energy, finance, and environmental monitoring, where complex temporal dependencies and cross-variable interactions pose enduring challenges. Existing Transformer-based methods capture temporal correlations through attention mechanisms but suffer from quadratic computation",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
+      {
+        "id": "5dc55b18acfaed55",
+        "title": "Multi-Label Phase Diagram Prediction in Complex Alloys via Physics-Informed Graph Attention Networks",
+        "url": "https://arxiv.org/abs/2604.16468",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16468v1 Announce Type: new Abstract: Accurate phase equilibria are foundational to alloy design because they encode the underlying thermodynamics governing stability, transformations, and processing windows. However, while the CALculation of Phase Diagrams (CALPHAD) provides a rigorous thermodynamic framework, exploring multicomponent composition-temperature space remains computationall",
+        "tags": [
+          "cs.lg",
+          "cond-mat.mtrl-sci"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
+      {
+        "id": "39c4bc054a8160f5",
+        "title": "Evaluating Temporal and Structural Anomaly Detection Paradigms for DDoS Traffic",
+        "url": "https://arxiv.org/abs/2604.16575",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16575v1 Announce Type: new Abstract: Unsupervised anomaly detection is widely used to detect Distributed Denial-of-Service (DDoS) attacks in cloud-native 5G networks, yet most studies assume a fixed traffic representation, either temporal or structural, without validating which feature space best matches the data. We propose a lightweight decision framework that prioritizes temporal or ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
+      {
+        "id": "ebda5a5c39b8b15e",
+        "title": "Towards Trustworthy Depression Estimation via Disentangled Evidential Learning",
+        "url": "https://arxiv.org/abs/2604.16579",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16579v1 Announce Type: new Abstract: Automated depression estimation is highly vulnerable to signal corruption and ambient noise in real-world deployment. Prevailing deterministic methods produce uncalibrated point estimates, exposing safety-critical clinical systems to the severe risk of overconfident misdiagnoses. To establish a highly resilient and trustworthy assessment paradigm, we",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0439
+      },
       {
         "id": "1514a20a9e8fabec",
         "title": "NASA Inspector fears new spacesuits won’t be ready for Moon landing",
@@ -3713,114 +3812,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0183
-      },
-      {
-        "id": "1f231ae3f1a569bb",
-        "title": "Ancient teeth reveal clues to the environment humans' early ancestors evolved in millions of years ago",
-        "url": "https://phys.org/news/2026-04-ancient-teeth-reveal-clues-environment.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776706804000,
-        "summary": "Teeth are like tiny biological time capsules. They tell stories about ancient diets and environments long after their owners have died and landscapes have changed.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0151
-      },
-      {
-        "id": "f94241a044b2b4d5",
-        "title": "Finding a hidden highland culture in the mountains of southern Georgia",
-        "url": "https://phys.org/news/2026-04-hidden-highland-culture-mountains-southern.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776706802000,
-        "summary": "Archaeologists are unearthing evidence of long-term human occupation in the mountains of the Republic of Georgia. A new paper published in the journal Antiquity reports on eight years of digging on the Javakheti Plateau, one of the least-explored regions in the South Caucasus.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0151
-      },
-      {
-        "id": "4af2faf11536c69d",
-        "title": "The FAA grounds Blue Origin New Glenn rocket after failure to put payload in orbit",
-        "url": "https://www.engadget.com/science/space/the-faa-grounds-blue-origin-new-glenn-rocket-after-failure-to-put-payload-in-orbit-173016117.html?src=rss",
-        "source": "Engadget",
-        "lane": "science",
-        "published_ts": 1776706216000,
-        "summary": "The Federal Aviation Administration (FAA) has grounded Blue Origin's New Glenn rocket following an incident during Sunday's launch from Cape Canaveral, according to reporting by Orlando Sentinel and others. The rocket looked good on the way up but was ultimately unable to put its payload into the correct orbit. The FAA is calling the incident a \"mishap\" and is beginning an investigation to \"enhanc",
-        "tags": [
-          "science",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us",
-          "language|en-us",
-          "author_name|lawrence bonk"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7588
-      },
-      {
-        "id": "e32704180d0bc62c",
-        "title": "New research finds few improvements for British Columbia's endangered wildlife",
-        "url": "https://phys.org/news/2026-04-british-columbia-endangered-wildlife.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776705605000,
-        "summary": "British Columbia's wildlife is in trouble, and governments aren't working hard enough to keep wild animals and plants alive. How do we know?",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "a9682bdcfa8b92c7",
-        "title": "Self-assembling luminophores reveal new design principle for efficient light-energy transport",
-        "url": "https://phys.org/news/2026-04-luminophores-reveal-principle-efficient-energy.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776705602000,
-        "summary": "In biological systems, especially for protein molecules, the formation of nanotubular structures is often guided by molecular folding. The folding process organizes interaction sites and enables the formation of complex architectures with high structural precision. However, translating that principle to synthetic small-molecule systems has remained challenging.",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0161
-      },
-      {
-        "id": "620c315823497161",
-        "title": "Apple’s Annual Environmental Progress Report",
-        "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
-        "source": "Daring Fireball",
-        "lane": "science",
-        "published_ts": 1776704970000,
-        "summary": "Apple Newsroom: In its annual Environmental Progress Report released today, Apple marked progress toward Apple 2030, the company’s ambitious goal to be carbon neutral across its entire footprint by the end of this decade. Apple’s greenhouse gas emissions in 2025 remain down over 60 percent compared to 2015 levels, holding constant from 2024 even in a year of significant business growth. The report",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.079
-      },
-      {
-        "id": "af1145f5809ee17c",
-        "title": "How do astronauts adapt their grip and move objects when transitioning between Earth and space?",
-        "url": "https://phys.org/news/2026-04-astronauts-transitioning-earth-space.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776704407000,
-        "summary": "On Earth, people grip objects to ensure they don't fall. In space, this process changes: When astronauts hold an object without moving it and then let go, the object doesn't fall because there is no gravity. But when astronauts move the object any which way, inertia takes the object up, down, left, or right if the hand grip is not steady.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ]
   },
