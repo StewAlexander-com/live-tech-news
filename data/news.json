@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T19:19:22.343583+00:00",
+  "generated_at": "2026-04-21T19:37:08.819962+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1004,6 +1004,37 @@
     ],
     "innovation": [
       {
+        "id": "bbf541fe6c200d48",
+        "title": "I created a custom Windows 11 install that's faster than Microsoft's version",
+        "url": "https://www.makeuseof.com/created-custom-windows-11-install-faster-than-microsofts-version/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1776799817000,
+        "summary": "I rebuilt Windows 11 with speed in mind and it shows.",
+        "tags": [
+          "windows",
+          "windows 11",
+          "windows customization",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8481
+      },
+      {
+        "id": "356bb7f01adc8c8e",
+        "title": "ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 (Reece Rogers/Wired)",
+        "url": "http://www.techmeme.com/260421/p35#a260421p35",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776799500000,
+        "summary": "Reece Rogers / Wired: ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 — The ChatGPT Images 2.0 model is here. Our testing shows it's better at creating more detailed images and rendering text …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9961
+      },
+      {
         "id": "78831f9ae91f6001",
         "title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
         "url": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
@@ -1946,42 +1977,55 @@
         "paywall": false,
         "impact": "high",
         "score": 0.897
-      },
-      {
-        "id": "2dd1c1fa283668ca",
-        "title": "Fresno Arts Council ex manager admits $1.8M theft spent on gambling",
-        "url": "https://readwrite.com/fresno-arts-council-ex-manager-guilty-1-8m-theft-gambling/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1776774941000,
-        "summary": "A former finance manager for the Fresno Arts Council has pleaded guilty after federal prosecutors accused her of siphoning more… Continue reading Fresno Arts Council ex manager admits $1.8M theft spent on gambling The post Fresno Arts Council ex manager admits $1.8M theft spent on gambling appeared first on ReadWrite.",
-        "tags": [
-          "gambling",
-          "california",
-          "crime",
-          "illegal gambling"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8992
-      },
-      {
-        "id": "a60c624eac6f45ad",
-        "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-        "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-        "source": "MIT Technology Review",
-        "lane": "innovation",
-        "published_ts": 1776773400000,
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For many birds, the noise…",
-        "tags": [
-          "the download"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0405
       }
     ],
     "ai": [
+      {
+        "id": "0a0557ad91b9f526",
+        "title": "Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview (Lily Hay Newman/Wired)",
+        "url": "http://www.techmeme.com/260421/p37#a260421p37",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776800101000,
+        "summary": "Lily Hay Newman / Wired: Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview — The Firefox team doesn't think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0793
+      },
+      {
+        "id": "14fe760f81d0ebad",
+        "title": "NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst (Marina Temkin/TechCrunch)",
+        "url": "http://www.techmeme.com/260421/p36#a260421p36",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776799801000,
+        "summary": "Marina Temkin / TechCrunch: NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst — Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0775
+      },
+      {
+        "id": "b99b073bc12d96b3",
+        "title": "New York Attorney General sues two prediction markets on illegal gambling allegations",
+        "url": "https://www.engadget.com/big-tech/new-york-attorney-general-sues-two-prediction-markets-on-illegal-gambling-allegations-192012225.html?src=rss",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1776799212000,
+        "summary": "New York is the latest state to take a stand against prediction markets. Attorney General Letitia James has sued Coinbase Financial Markets and Gemini Titan on charges that both are illegally running unlicensed gambling operations. The suit also claims that these prediction markets violate state laws that prevent betting on games involving New York college sports teams. \"Gambling by another name i",
+        "tags": [
+          "gaming & lottery",
+          "site|engadget",
+          "provider_name|engadget",
+          "region|us",
+          "language|en-us",
+          "author_name|anna washenko"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7002
+      },
       {
         "id": "4c437d0a793f26ce",
         "title": "OpenAI says that ChatGPT Images 2.0 has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali (Amanda Silberling/TechCrunch)",
@@ -2907,56 +2951,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9817
-      },
-      {
-        "id": "6099ad9badddf8c7",
-        "title": "Show HN: GoModel – an open-source AI gateway in Go",
-        "url": "https://github.com/ENTERPILOT/GOModel/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776780713000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:79"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0668
-      },
-      {
-        "id": "de0e8a51c5657ec7",
-        "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
-        "url": "https://github.com/ENTERPILOT/GOModel/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776780713000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1211
-      },
-      {
-        "id": "6c2a8464a327b76d",
-        "title": "Top Leaders React to Apple Announcing Tim Cook Will Step Down as CEO",
-        "url": "https://www.macrumors.com/2026/04/21/tim-cook-stepping-down-as-ceo-reaction/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1776778921000,
-        "summary": "Apple on Monday announced that Tim Cook will be stepping down as CEO, and some top leaders around the world have publicly commented on the news. Effective September 1, Apple's hardware engineering chief John Ternus will become the company's next CEO, while Cook will become executive chairman of Apple's board of directors. In his new role, Apple said Cook will assist with \"certain aspects\" of the c",
-        "tags": [
-          "tim cook"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.999
       }
     ],
     "science": [
+      {
+        "id": "206b996603d14fb0",
+        "title": "Mosses and thale cress share the same leaf growth principles, despite 400 million years of separate evolution",
+        "url": "https://phys.org/news/2026-04-mosses-thale-cress-leaf-growth.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776799206000,
+        "summary": "A study published in Science Advances shows that, in moss and the model plant Arabidopsis thaliana, commonly known as thale cress, leaf formation relies on very similar cellular dynamics, with growth concentrated at their base. Led by scientists at Université de Montréal, the study also reveals that auxin, a key hormone in plant development, controls cell division and elongation in both cases, but",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0144
+      },
+      {
+        "id": "dfe0998bc00b190f",
+        "title": "NASA on track for future missions with initial Artemis II assessments",
+        "url": "https://phys.org/news/2026-04-nasa-track-future-missions-artemis.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776799201000,
+        "summary": "Following NASA's Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency's Kennedy Space Center in Florida performed. The Artemis II test flight successfully began a new era of exploration, laying th",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0956
+      },
       {
         "id": "410ad34286a16a79",
         "title": "Goose poop could fuel a circular agriculture strategy, research shows",
@@ -3848,34 +3875,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9168
-      },
-      {
-        "id": "dc432c177e50446d",
-        "title": "Personalized CRISPR therapies could soon reach thousands — here’s how",
-        "url": "https://www.nature.com/articles/d41586-026-01243-y",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1776729600000,
-        "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01243-yA fresh approach to trialling treatments for rare genetic diseases could make their production an economically viable prospect at last.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0306
-      },
-      {
-        "id": "bdce0ebe213178df",
-        "title": "Each protein in the epigenome produces a different pattern of gene expression, study finds",
-        "url": "https://phys.org/news/2026-04-protein-epigenome-pattern-gene.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776728406000,
-        "summary": "A new study finds the proteins responsible for controlling which genes are expressed in a genome do more than simply turn a gene on or off. Essentially, each type of protein that interacts with a gene produces different behaviors—a finding with ramifications for everything from biomedical therapeutics to biological computing. A paper on the study, \"Epigenome Regulators Imbue a Single Eukaryotic Pr",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1003
       }
     ]
   },
