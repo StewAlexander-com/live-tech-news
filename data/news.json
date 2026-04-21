@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T23:39:36.213512+00:00",
+  "generated_at": "2026-04-21T23:48:24.960641+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1004,6 +1004,19 @@
     ],
     "innovation": [
       {
+        "id": "31ca272a7c049a2e",
+        "title": "The Los Angeles Unified School District's board votes to require screen time limits, making it the first major American school system to do so (Tyler Kingkade/NBC News)",
+        "url": "http://www.techmeme.com/260421/p52#a260421p52",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776814801000,
+        "summary": "Tyler Kingkade / NBC News: The Los Angeles Unified School District's board votes to require screen time limits, making it the first major American school system to do so — The resolution followed pressure from parents who said their children developed unhealthy habits after schools required them to use iPads and laptops every day.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9973
+      },
+      {
         "id": "971833459f3c0630",
         "title": "Maryland becomes first state to pass bill banning ‘surveillance pricing’",
         "url": "https://www.reddit.com/r/technology/comments/1ss40wl/maryland_becomes_first_state_to_pass_bill_banning/",
@@ -1936,22 +1949,41 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7476
-      },
-      {
-        "id": "e53300ef91ec7395",
-        "title": "macOS ClickFix attacks deliver AppleScript stealers to snarf credentials, wallets",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/macos_clickfix_attacks_deliver_applescript/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776786606000,
-        "summary": "Data from browsers, cryptocurrency wallets, 200+ extensions hoovered up A ClickFix campaign targeting macOS users delivers an AppleScript-based infostealer that collects credentials and live session cookies from 14 browsers, 16 cryptocurrency wallets, and more than 200 extensions.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0482
       }
     ],
     "ai": [
+      {
+        "id": "e9ba3594673b1ef4",
+        "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+        "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776815121000,
+        "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+        "tags": [
+          "ai",
+          "meta",
+          "slack"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.807
+      },
+      {
+        "id": "ed44a701eaa67286",
+        "title": "Malaria rebound spurs AI-driven hunt for parasite genes linked to deadly cases",
+        "url": "https://phys.org/news/2026-04-malaria-rebound-spurs-ai-driven.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1776814801000,
+        "summary": "Despite decades of efforts to combat it, malaria remains a major global health threat. According to the World Health Organization's (WHO) 2025 World Malaria Report, about 282 million cases and approximately 610,000 deaths were recorded worldwide in 2024. Recently, there has been a slight rise in the number of cases again. Children under the age of 5 in sub-Saharan Africa are particularly affected.",
+        "tags": [
+          "molecular & computational biology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0986
+      },
       {
         "id": "f6cfb1950e20b116",
         "title": "Anthropic appears to have removed access to Claude Code from its $20/month Pro plan; Anthropic says it is \"running a small test on ~2% of new prosumer signups\" (Ed Zitron/Ed Zitron's Where's Your Ed At)",
@@ -2900,44 +2932,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8541
-      },
-      {
-        "id": "349ca15449327d4e",
-        "title": "OpenAI’s updated image generator can now pull information from the web",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1776798000000,
-        "summary": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tuesday, OpenAI announced that ChatGPT Images 2.0 can now create more \"sophisticated\" images, with improvements to its ability to follow instructions, preserve […]",
-        "tags": [
-          "ai",
-          "news",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.782
-      },
-      {
-        "id": "470305e67715b172",
-        "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-        "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1776798000000,
-        "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-        "tags": [
-          "ai",
-          "chatgpt",
-          "image generation",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7385
       }
     ],
     "science": [
+      {
+        "id": "03b554faea8aa486",
+        "title": "The way primates parent their young shows how strict labels like parenting styles miss the mark",
+        "url": "https://phys.org/news/2026-04-primates-parent-young-strict-parenting.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776814804000,
+        "summary": "Whether you've sought them out or not, you've probably encountered parenting content creators on social media at some point in the last two decades.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
       {
         "id": "bdef239bb1a87ff2",
         "title": "Toxins from Great Salt Lake dust are absorbed by plants, soils and human bodies",
@@ -3848,26 +3860,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1265
-      },
-      {
-        "id": "e4cb929266e31a2c",
-        "title": "What's the deal with spacesuits for the Moon? Will they be ready in time?",
-        "url": "https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1776781449000,
-        "summary": "NASA is down to a single provider for a critical link in its lunar architecture.",
-        "tags": [
-          "space",
-          "artemis",
-          "axiom",
-          "inspector general",
-          "nasa",
-          "spacesuit"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9819
       }
     ]
   },
