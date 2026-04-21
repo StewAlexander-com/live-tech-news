@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-21T11:21:01.144554+00:00",
+  "generated_at": "2026-04-21T11:22:11.031902+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "5e1212d5900e0c2f",
+        "title": "The Morning After: The next CEO of Apple will be hardware exec John Ternus",
+        "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111546149.html?src=rss",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1776770146000,
+        "summary": "Apple’s current SVP of hardware engineering John Ternus will take over as the new CEO when Tim Cook steps down this September. Cook said in a statement: “It has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company.” Following the death of co-founder Steve Jobs, Cook led the charge for Apple’s post-iPhone and iPad era, launchin",
+        "tags": [
+          "robots",
+          "technology & electronics",
+          "site|engadget",
+          "provider_name|engadget",
+          "region|us",
+          "language|en-us"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7026
+      },
       {
         "id": "b8f2909b33b8e3de",
         "title": "2025 was the worst year on record for internet shutdowns as censors move to more targeted blocks",
@@ -962,23 +982,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9348
-      },
-      {
-        "id": "f68e94dbb05409bb",
-        "title": "Apple CEO Time Cook steps down, company names Ternus as incoming CEO",
-        "url": "https://www.tomshardware.com/software/macos/apple-ceo-time-cook-steps-down-company-names-ternus-as-incoming-ceo",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1776717883000,
-        "summary": "Apple CEO Tim Cook is stepping down on September 1. He will be replaced by hardware engineering lead John Ternus.",
-        "tags": [
-          "macos",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9478
       }
     ],
     "innovation": [
@@ -1432,6 +1435,22 @@
         "score": 0.9974
       },
       {
+        "id": "0f052762ed3fc7e4",
+        "title": "GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2604.16871",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16871v1 Announce Type: new Abstract: Neuro-symbolic Reinforcement Learning (NeSy-RL) combines symbolic reasoning with gradient-based optimization to achieve interpretable and generalizable policies. Relational concepts, such as \"left of\" or \"close by\", serve as foundational building blocks that structure how agents perceive and act. However, conventional approaches require human experts",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9111
+      },
+      {
         "id": "178763f36b6ef850",
         "title": "Modeling of ASD/TD Children's Behaviors in Interaction with a Virtual Social Robot During a Music Education Program Using Deep Neural Networks",
         "url": "https://arxiv.org/abs/2604.15314",
@@ -1878,19 +1897,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8817
-      },
-      {
-        "id": "cf5f8e6532f41d78",
-        "title": "DF Paraphernalia: T-Shirts and Hoodies Are Back",
-        "url": "https://store.daringfireball.net/",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1776719326000,
-        "summary": "Daring Fireball t-shirts and hoodies are back. Order now, and we’ll start printing shirts at the end of this week and shipping them out next week. ★",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0784
       }
     ],
     "ai": [
@@ -2302,6 +2308,104 @@
         "paywall": false,
         "impact": "high",
         "score": 1.2748
+      },
+      {
+        "id": "f72535bd1bd47fee",
+        "title": "Governing the Agentic Enterprise: A Governance Maturity Model for Managing AI Agent Sprawl in Business Operations",
+        "url": "https://arxiv.org/abs/2604.16338",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16338v1 Announce Type: new Abstract: The rapid adoption of agentic AI in enterprise business operations--autonomous systems capable of planning, reasoning, and executing multi-step workflows--has created an urgent governance crisis. Organizations face uncontrolled agent sprawl: the proliferation of redundant, ungoverned, and conflicting AI agents across business functions. Industry surv",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
+      {
+        "id": "5891a10e9760edd7",
+        "title": "Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2604.16339",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16339v1 Announce Type: new Abstract: Multi-agent large language model (LLM) systems are rapidly emerging as the dominant architecture for enterprise AI automation, yet production deployments exhibit failure rates between 41% and 86.7%, with nearly 79% of failures originating from specification and coordination issues rather than model capability limitations. This paper identifies Semant",
+        "tags": [
+          "cs.ai",
+          "cs.ma",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
+      {
+        "id": "eeca65abd252ba2c",
+        "title": "Computational Hermeneutics: Evaluating generative AI as a cultural technology",
+        "url": "https://arxiv.org/abs/2604.16403",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16403v1 Announce Type: new Abstract: Generative AI systems are increasingly recognized as cultural technologies, yet current evaluation frameworks often treat culture as a variable to be measured rather than fundamental to the system's operation. Drawing on hermeneutic theory from the humanities, we argue that GenAI systems function as \"context machines\" that must inherently address thr",
+        "tags": [
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
+      {
+        "id": "d2cf10dc57ad71f4",
+        "title": "Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework",
+        "url": "https://arxiv.org/abs/2604.16465",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16465v1 Announce Type: new Abstract: Healthcare productivity is shaped not only by clinical complexity but by the costs of coordinating work under uncertainty. Transaction-cost economics offers a theory of these coordination frictions, yet has rarely been operationalised at task level across health occupations. Using task statements and frequency weights from the O*NET occupational data",
+        "tags": [
+          "cs.ai",
+          "econ.gn",
+          "q-fin.ec"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
+      {
+        "id": "2bba65d5f67dd9ee",
+        "title": "Agentic Frameworks for Reasoning Tasks: An Empirical Study",
+        "url": "https://arxiv.org/abs/2604.16646",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16646v1 Announce Type: new Abstract: Recent advances in agentic frameworks have enabled AI agents to perform complex reasoning and decision-making. However, evidence comparing their reasoning performance, efficiency, and practical suitability remains limited. To address this gap, we empirically evaluate 22 widely used agentic frameworks across three reasoning benchmarks: BBH, GSM8K, and",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
+      {
+        "id": "6084c2ffbe1a932a",
+        "title": "CT Open: An Open-Access, Uncontaminated, Live Platform for the Open Challenge of Clinical Trial Outcome Prediction",
+        "url": "https://arxiv.org/abs/2604.16742",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16742v1 Announce Type: new Abstract: Scientists have long sought to accurately predict outcomes of real-world events before they happen. Can AI systems do so more reliably? We study this question through clinical trial outcome prediction, a high-stakes open challenge even for domain experts. We introduce CT Open, an open-access, live platform that will run four challenge every year. Any",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
       },
       {
         "id": "a513bd693f2f822f",
@@ -2771,104 +2875,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9629
-      },
-      {
-        "id": "b62305815a62a389",
-        "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776720052000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:92"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2204
-      },
-      {
-        "id": "c6b34cb348b5a1a3",
-        "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
-        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776720052000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0453
-      },
-      {
-        "id": "f3b835d829f4b265",
-        "title": "OpenAI rolls out Chronicle, which builds memories from screen captures to make Codex more aware of context, as a research preview for Pro subscribers on macOS (Zac Hall/9to5Mac)",
-        "url": "http://www.techmeme.com/260420/p28#a260420p28",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776720002000,
-        "summary": "Zac Hall / 9to5Mac: OpenAI rolls out Chronicle, which builds memories from screen captures to make Codex more aware of context, as a research preview for Pro subscribers on macOS — Last week, OpenAI released an all-new version of Codex for Mac that includes the best example of AI-driven computer use yet.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0784
-      },
-      {
-        "id": "a523fbe0af234dfd",
-        "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
-        "url": "https://www.reddit.com/r/technology/comments/1sr3c55/deezer_says_44_of_new_music_uploads_are/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776719823000,
-        "summary": "submitted by /u/deraser [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9847
-      },
-      {
-        "id": "3f5c189043d0d425",
-        "title": "John Ternus will replace Tim Cook as Apple CEO",
-        "url": "https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776719135000,
-        "summary": "Cook will be executive chairman, but will no longer run the company day to day.",
-        "tags": [
-          "apple",
-          "apple",
-          "john ternus",
-          "tim cook"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9877
-      },
-      {
-        "id": "10190a4bd96be6c8",
-        "title": "AI cloud company Vercel breached after employee grants AI tool unrestricted access to Google Workspace — hacker seeking $2 million for stolen data",
-        "url": "https://www.reddit.com/r/technology/comments/1sr2wwt/ai_cloud_company_vercel_breached_after_employee/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776718930000,
-        "summary": "submitted by /u/DJMagicHandz [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0123
       }
     ],
     "science": [
+      {
+        "id": "df9020c29b619195",
+        "title": "Scientists solve decades-old 2D physics puzzle — Chaotic growth in a 2D quantum system obeys statistical laws",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/scientists-solve-decades-old-2d-physics-puzzle-chaotic-growth-in-a-2d-quantum-system-obeys-statistical-laws",
+        "source": "Tom's Hardware",
+        "lane": "science",
+        "published_ts": 1776770400000,
+        "summary": "Physicists have confirmed for the first time that chaotic growth in a 2D quantum system follows precise statistical rules, validating a 40-year-old mathematical model that describes how random, uneven surfaces evolve over time.",
+        "tags": [
+          "big tech",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0253
+      },
       {
         "id": "190d65222dd0470b",
         "title": "The fast-track tree breeding method that is restoring European ash to the landscape",
@@ -2945,6 +2970,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0487
+      },
+      {
+        "id": "113379e9c99f8cfa",
+        "title": "GAMMA-Net: Adaptive Long-Horizon Traffic Spatio-Temporal Forecasting Model based on Interleaved Graph Attention and Multi-Axis Mamba",
+        "url": "https://arxiv.org/abs/2604.16859",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1776744000000,
+        "summary": "arXiv:2604.16859v1 Announce Type: new Abstract: Accurate traffic forecasting is crucial for intelligent transportation systems, supporting effective traffic management, congestion reduction, and informed urban planning. However, traditional models often fail to adequately capture the intricate spatio-temporal dependencies present in traffic data. To overcome these limitations, we introduce GAMMA-N",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9111
       },
       {
         "id": "49251234b7514eef",
@@ -3749,36 +3789,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0174
-      },
-      {
-        "id": "fb7478413a587d59",
-        "title": "Australia's truffle industry may owe part of its success to a surprising underground secret",
-        "url": "https://phys.org/news/2026-04-australia-truffle-industry-owe-success.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776710405000,
-        "summary": "Imagine ordering a truffle dish in a fancy restaurant, and you might picture pricey gourmet mushrooms from France or Italy. But recent decades have seen an upstart on the truffle scene. Today, one of the world's largest producers of some of the most prized truffles, known as French black or Périgord truffles (Tuber melanosporum), isn't in the Northern Hemisphere at all—it's Australia.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0141
-      },
-      {
-        "id": "4a9b681313ebeddf",
-        "title": "Hot spring microbiomes could transform industrial carbon dioxide waste into valuable products",
-        "url": "https://phys.org/news/2026-04-hot-microbiomes-industrial-carbon-dioxide.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776710404000,
-        "summary": "Researchers at The University of Manchester have shown that microbial communities from terrestrial hot springs could be harnessed to convert industrial CO2 emissions into useful products, offering new routes toward a circular, low-carbon economy.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0141
       }
     ]
   },
