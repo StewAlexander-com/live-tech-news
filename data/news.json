@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T15:55:30.878521+00:00",
+  "generated_at": "2026-04-21T15:58:42.330009+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -973,6 +973,26 @@
     ],
     "innovation": [
       {
+        "id": "71dc6050dd906d7a",
+        "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
+        "url": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1776787013000,
+        "summary": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
+        "tags": [
+          "security",
+          "alphv",
+          "blackcat",
+          "cybercrime",
+          "cybersecurity",
+          "hackers"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7476
+      },
+      {
         "id": "e53300ef91ec7395",
         "title": "macOS ClickFix attacks deliver AppleScript stealers to snarf credentials, wallets",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/macos_clickfix_attacks_deliver_applescript/",
@@ -1919,25 +1939,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.883
-      },
-      {
-        "id": "3fb07b4b9839110f",
-        "title": "Why Some S3 Videocards Have a Brightness Issue",
-        "url": "https://hackaday.com/2026/04/21/why-some-s3-videocards-have-a-brightness-issue/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1776758403000,
-        "summary": "Once a pioneer in videocards, S3’s legacy is today mostly found in details like texture compression as well as the strong presence of S3-branded videocards in the retro-computing world. There’s …read more",
-        "tags": [
-          "computer hacks",
-          "retrocomputing",
-          "agp",
-          "bios",
-          "videocard"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0738
       }
     ],
     "ai": [
@@ -2807,102 +2808,99 @@
         "score": 1.2748
       },
       {
-        "id": "f72535bd1bd47fee",
-        "title": "Governing the Agentic Enterprise: A Governance Maturity Model for Managing AI Agent Sprawl in Business Operations",
-        "url": "https://arxiv.org/abs/2604.16338",
+        "id": "a513bd693f2f822f",
+        "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+        "url": "https://arxiv.org/abs/2604.15456",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16338v1 Announce Type: new Abstract: The rapid adoption of agentic AI in enterprise business operations--autonomous systems capable of planning, reasoning, and executing multi-step workflows--has created an urgent governance crisis. Organizations face uncontrolled agent sprawl: the proliferation of redundant, ungoverned, and conflicting AI agents across business functions. Industry surv",
+        "summary": "arXiv:2604.15456v1 Announce Type: new Abstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems la",
         "tags": [
-          "cs.ai",
-          "cs.ma"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9014
+        "score": 0.9004
       },
       {
-        "id": "5891a10e9760edd7",
-        "title": "Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems",
-        "url": "https://arxiv.org/abs/2604.16339",
+        "id": "9376b9be59329a53",
+        "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+        "url": "https://arxiv.org/abs/2604.15495",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16339v1 Announce Type: new Abstract: Multi-agent large language model (LLM) systems are rapidly emerging as the dominant architecture for enterprise AI automation, yet production deployments exhibit failure rates between 41% and 86.7%, with nearly 79% of failures originating from specification and coordination issues rather than model capability limitations. This paper identifies Semant",
+        "summary": "arXiv:2604.15495v1 Announce Type: new Abstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While ",
         "tags": [
           "cs.ai",
-          "cs.ma",
-          "cs.se"
+          "cs.cv",
+          "cs.hc",
+          "cs.ro"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9014
+        "score": 0.9004
       },
       {
-        "id": "eeca65abd252ba2c",
-        "title": "Computational Hermeneutics: Evaluating generative AI as a cultural technology",
-        "url": "https://arxiv.org/abs/2604.16403",
+        "id": "4e74f40d78fa4438",
+        "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+        "url": "https://arxiv.org/abs/2604.15514",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16403v1 Announce Type: new Abstract: Generative AI systems are increasingly recognized as cultural technologies, yet current evaluation frameworks often treat culture as a variable to be measured rather than fundamental to the system's operation. Drawing on hermeneutic theory from the humanities, we argue that GenAI systems function as \"context machines\" that must inherently address thr",
+        "summary": "arXiv:2604.15514v1 Announce Type: new Abstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's compl",
         "tags": [
           "cs.ai",
-          "cs.cy"
+          "cs.cy",
+          "cs.hc"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9014
+        "score": 0.9004
       },
       {
-        "id": "d2cf10dc57ad71f4",
-        "title": "Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework",
-        "url": "https://arxiv.org/abs/2604.16465",
+        "id": "4746f160be5f98f6",
+        "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+        "url": "https://arxiv.org/abs/2604.15559",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16465v1 Announce Type: new Abstract: Healthcare productivity is shaped not only by clinical complexity but by the costs of coordinating work under uncertainty. Transaction-cost economics offers a theory of these coordination frictions, yet has rarely been operationalised at task level across health occupations. Using task statements and frequency weights from the O*NET occupational data",
+        "summary": "arXiv:2604.15559v1 Announce Type: new Abstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantically unrelated to those traits. However, it remains unclear whether behavioral traits can transfer in agentic systems, where policies are learned from trajectories rather than static text. In this work, we provide the first e",
         "tags": [
-          "cs.ai",
-          "econ.gn",
-          "q-fin.ec"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9014
+        "score": 0.9004
       },
       {
-        "id": "2bba65d5f67dd9ee",
-        "title": "Agentic Frameworks for Reasoning Tasks: An Empirical Study",
-        "url": "https://arxiv.org/abs/2604.16646",
+        "id": "1bcf5bb9ed340ce7",
+        "title": "Towards Rigorous Explainability by Feature Attribution",
+        "url": "https://arxiv.org/abs/2604.15898",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16646v1 Announce Type: new Abstract: Recent advances in agentic frameworks have enabled AI agents to perform complex reasoning and decision-making. However, evidence comparing their reasoning performance, efficiency, and practical suitability remains limited. To address this gap, we empirically evaluate 22 widely used agentic frameworks across three reasoning benchmarks: BBH, GSM8K, and",
+        "summary": "arXiv:2604.15898v1 Announce Type: new Abstract: For around a decade, non-symbolic methods have been the option of choice when explaining complex machine learning (ML) models. Unfortunately, such methods lack rigor and can mislead human decision-makers. In high-stakes uses of ML, the lack of rigor is especially problematic. One prime example of provable lack of rigor is the adoption of Shapley valu",
         "tags": [
-          "cs.ai",
-          "cs.se"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9014
+        "score": 0.9004
       },
       {
-        "id": "6084c2ffbe1a932a",
-        "title": "CT Open: An Open-Access, Uncontaminated, Live Platform for the Open Challenge of Clinical Trial Outcome Prediction",
-        "url": "https://arxiv.org/abs/2604.16742",
+        "id": "406ed114101c7c41",
+        "title": "Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",
+        "url": "https://arxiv.org/abs/2604.15951",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16742v1 Announce Type: new Abstract: Scientists have long sought to accurately predict outcomes of real-world events before they happen. Can AI systems do so more reliably? We study this question through clinical trial outcome prediction, a high-stakes open challenge even for domain experts. We introduce CT Open, an open-access, live platform that will run four challenge every year. Any",
+        "summary": "arXiv:2604.15951v2 Announce Type: new Abstract: Generative AI, particularly Large Language Models, increasingly integrates graph-based representations to enhance reasoning, retrieval, and structured decision-making. Despite rapid advances, there remains limited clarity regarding when, why, where, and what types of graph-LLM integrations are most appropriate across applications. This survey provide",
         "tags": [
-          "cs.ai",
-          "cs.cl"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9014
+        "score": 0.9004
       }
     ],
     "science": [
