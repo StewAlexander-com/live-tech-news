@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T14:47:28.188722+00:00",
+  "generated_at": "2026-04-21T14:56:25.016946+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -972,6 +972,19 @@
     ],
     "innovation": [
       {
+        "id": "535b698f39459a44",
+        "title": "The spaghettified DBMS chart that shows Oracle's crown is slowly slipping",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/gartner_bamboozling_dbms_chart_shows/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1776782743000,
+        "summary": "Change is glacial, but the direction is clear Opinion It might look like a map of the London Underground designed by a madman, but Gartner's newly-completed DBMS Market Share Ranks: 2011-2025 has an important message. The change may be glacial, but (most of the) dominant database vendors are slowly losing their grip on the market.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0464
+      },
+      {
         "id": "976e719bf217056e",
         "title": "Humble unveils a fully electric cabless autonomous truck called the Humble Hauler and comes out of stealth with a $24M seed led by Eclipse (Lily Mae Lazarus/Fortune)",
         "url": "http://www.techmeme.com/260421/p16#a260421p16",
@@ -1897,22 +1910,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0439
-      },
-      {
-        "id": "469864be51ee83e2",
-        "title": "★ Another Day Has Come",
-        "url": "https://daringfireball.net/2026/04/another_day_has_come",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1776743981000,
-        "summary": "If you agree that Apple itself was Jobs’s greatest product, Cook really is a product person after all.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0736
       }
     ],
     "ai": [
+      {
+        "id": "874e7f653c6d3731",
+        "title": "Yelp's AI Assistant Can Now Book Restaurants, Doctors, and More",
+        "url": "https://www.macrumors.com/2026/04/21/yelp-ai-assistant/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1776783064000,
+        "summary": "Yelp is introducing an expanded version of its Yelp Assistant, an agentic chatbot that is able to answer questions, suggest places to visit, and complete tasks like booking a restaurant reservation. Answers rely on hundreds of millions of Yelp reviews sourced from real people, which Yelp says allows the assistant to address \"complex and highly specific requests.\" Yelp Assistant was previously avai",
+        "tags": [
+          "yelp"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0781
+      },
       {
         "id": "167704009a7f50d0",
         "title": "The extinction or the adaptation: how AI will impact SaaS market",
@@ -2098,6 +2113,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9111
+      },
+      {
+        "id": "adb6494e949e9188",
+        "title": "National Security Agency is using Anthropic's Mythos despite blacklist, Axios reports",
+        "url": "https://www.reddit.com/r/technology/comments/1srloj0/national_security_agency_is_using_anthropics/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1776773136000,
+        "summary": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8993
       },
       {
         "id": "782100d94b7ea6b7",
@@ -2845,34 +2875,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.2017
-      },
-      {
-        "id": "102db063e9bee233",
-        "title": "Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year (Eunice Xu/South China Morning Post)",
-        "url": "http://www.techmeme.com/260420/p35#a260420p35",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776737402000,
-        "summary": "Eunice Xu / South China Morning Post: Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year — Nvidia supplier raises US$2.6 billion in its IPO as investors rush to cash in on the AI infrastructure boom",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0692
-      },
-      {
-        "id": "d5e0ac98e8ca12f8",
-        "title": "Q&A: Expert discusses AI, automation drive autonomous science origin in scientific research",
-        "url": "https://phys.org/news/2026-04-qa-expert-discusses-ai-automation.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1776733205000,
-        "summary": "Rob Moore is a recognized leader in the development of autonomous science and self-driving laboratories at the Department of Energy's (DOE) Oak Ridge National Laboratory (ORNL). A Tennessee native who spent five years as a U.S. Navy submarine officer, Moore joined ORNL in 2019 to perform research in the syntheses and characterization of quantum materials.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.101
       }
     ],
     "science": [
@@ -3514,6 +3516,45 @@
         "score": 1.0195
       },
       {
+        "id": "67ec2977f60a5946",
+        "title": "Forty years after Chornobyl, more nuclear disasters are inevitable — plan for them",
+        "url": "https://www.nature.com/articles/d41586-026-01255-8",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1776729600000,
+        "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01255-8Civil nuclear technology comes with unlikely but dangerous risks that shouldn’t be overlooked.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8625
+      },
+      {
+        "id": "e662ee7338d80908",
+        "title": "Vaccines mean malaria deaths should be falling — not rising",
+        "url": "https://www.nature.com/articles/d41586-026-01253-w",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1776729600000,
+        "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01253-wThe tools exist to end this killer disease. It is the money and the will that are lacking.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8625
+      },
+      {
+        "id": "5e258daf3c150e2e",
+        "title": "How big is Big <i>G</i>? Mystery deepens after ten-year effort to measure gravity’s strength",
+        "url": "https://www.nature.com/articles/d41586-026-01284-3",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1776729600000,
+        "summary": "Nature, Published online: 21 April 2026; doi:10.1038/d41586-026-01284-3Physicists have spent the past decade trying to pin down the elusive fundamental constant, to no avail.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8625
+      },
+      {
         "id": "06fc7c9ab328a3a0",
         "title": "Yellow glass shows insect wings at their best",
         "url": "https://www.nature.com/articles/d41586-026-00915-z",
@@ -3742,51 +3783,6 @@
         "summary": "Scientists have uncovered the earliest fossil evidence of annelids (ringed worms) in Cambrian microfossils dating back approximately 535 million years ago. This discovery offers fresh insights into the origin and early evolution of the annelids, a group of animals that includes bristle worms, earthworms, leeches, and peanut worms.",
         "tags": [
           "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "5dff6be5ac20027e",
-        "title": "Why ultrashort laser pulses could make low-power electron sources far more practical",
-        "url": "https://phys.org/news/2026-04-ultrashort-laser-pulses-power-electron.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776718803000,
-        "summary": "A new theoretical study finds shorter laser pulses achieve higher quantum efficiency for photoemission from a solid surface without increasing power or intensity. Using light to knock electrons loose from a surface—known as photoemission—may soon be achievable more easily in smaller labs with smaller lasers. Shortening the length of a laser pulse can increase the emitted electrons by several order",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.101
-      },
-      {
-        "id": "88a323ebf1c953a8",
-        "title": "Quantum gas resists heating under periodic kicks, revealing many-body localization mechanism",
-        "url": "https://phys.org/news/2026-04-quantum-gas-resists-periodic-revealing.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776718203000,
-        "summary": "A joint theoretical study by the University of Innsbruck and Zhejiang University has uncovered the microscopic origin of a striking quantum phenomenon: a periodically driven gas of ultracold atoms that simply refuses to heat up, defying classical expectations.",
-        "tags": [
-          "quantum physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1009
-      },
-      {
-        "id": "bb22aee09b6590d2",
-        "title": "It's a myth that baby boys are less social than girls: A new look at decades of research",
-        "url": "https://phys.org/news/2026-04-myth-baby-boys-social-girls.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776717601000,
-        "summary": "Girls and boys are equally social at birth.",
-        "tags": [
-          "education"
         ],
         "paywall": false,
         "impact": "high",
