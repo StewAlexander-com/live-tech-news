@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T21:28:23.489424+00:00",
+  "generated_at": "2026-04-21T21:42:32.089109+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1010,6 +1010,19 @@
     ],
     "innovation": [
       {
+        "id": "124e2af529b2b609",
+        "title": "Nation-states want to cause harm, not just steal cash - stop handing your cyber defenses to the cheapest contractor",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/ncsc_chinas_cyberattacks_uk/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1776807009000,
+        "summary": "NCSC boss says China's whole-of-state cyber machine has become Britain's peer competitor in cyberspace State-sponsored cyberattacks from Chinese intelligence and military agencies display \"an eye-watering level of sophistication,\" UK National Cyber Security Centre CEO Richard Horne is expected to say in a less-than-cheery opening speech to kick off its annual conference.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0458
+      },
+      {
         "id": "226d1545ed8cb53f",
         "title": "Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B (Cailley LaPara/Bloomberg)",
         "url": "http://www.techmeme.com/260421/p44#a260421p44",
@@ -1149,6 +1162,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0405
+      },
+      {
+        "id": "b370d734dfa2792c",
+        "title": "Iran claims US used backdoors in networking equipment",
+        "url": "https://www.reddit.com/r/technology/comments/1ss0gi4/iran_claims_us_used_backdoors_in_networking/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1776804862000,
+        "summary": "submitted by /u/rkhunter_ [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9354
       },
       {
         "id": "d40e549af04715db",
@@ -1926,39 +1955,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.996
-      },
-      {
-        "id": "f9a7b3a92e6cdd20",
-        "title": "Humble emerges from stealth with $24M and a cableless autonomous electric truck built to go dock-to-dock",
-        "url": "https://thenextweb.com/news/humble-24m-seed-cabless-autonomous-electric-truck",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1776781546000,
-        "summary": "The San Francisco startup, founded by an ex-Uber ATG and Waabi engineer, is taking a different approach to autonomous freight than Aurora or Kodiak: no driver’s cab, no hub handoffs, and an autonomy stack built on vision-language-action models rather than rule-based systems. Humble, a San Francisco-based autonomous freight startup, has emerged from stealth with a […] This story continues at The Ne",
-        "tags": [
-          "startups and technology",
-          "next featured",
-          "electric vehicle"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8899
-      },
-      {
-        "id": "17afad29d3b589f3",
-        "title": "Yet another ex-ransomware negotiator admits turning rogue after payoff from crimelords",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/yet_another_ex_ransomware_negotiator_pleads/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776780927000,
-        "summary": "Plus: Court papers reveal nonprofit paid a ransom worth nearly $26.8 million The third of three former ransomware negotiators accused of assisting the ALPHV/BlackCat ransomware gang in extorting US businesses has pleaded guilty, months after his two co-workers did the same.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0479
       }
     ],
     "ai": [
+      {
+        "id": "638ca2ea3d66cc08",
+        "title": "'Pushpaganda is, at the highest level, a case of social engineering': Experts warn scammers are flooding Google Discover with AI-generated content spreading malicious notifications",
+        "url": "https://www.techradar.com/pro/pushpaganda-is-at-the-highest-level-a-case-of-social-engineering-experts-warn-scammers-are-flooding-google-discover-with-ai-generated-content-spreading-malicious-notifications",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1776807000000,
+        "summary": "Pushpaganda uses AI-generated content and deceptive tactics to trick users into enabling notifications that deliver scams and evade traditional security defenses.",
+        "tags": [
+          "security",
+          "ai platforms &amp; assistants",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9143
+      },
       {
         "id": "0d1934d1b53e31da",
         "title": "MacRumors Readers React to Tim Cook Stepping Down as CEO",
@@ -1975,6 +1991,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9982
+      },
+      {
+        "id": "eb618d94aed0c47b",
+        "title": "Claude Code removed from Anthropic's Pro plan",
+        "url": "https://claude.com/pricing",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776805384000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:68"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0368
       },
       {
         "id": "e0f87bb245bb19e1",
@@ -2914,42 +2946,54 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1263
-      },
-      {
-        "id": "f61b35cb4b0cf0a4",
-        "title": "Google's Chief AI Architect Koray Kavukcuoglu is working to unite its internal AI coding tools under the Antigravity platform, to counter Claude Code and Codex (Julia Love/Bloomberg)",
-        "url": "http://www.techmeme.com/260421/p24#a260421p24",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776790850000,
-        "summary": "Julia Love / Bloomberg: Google's Chief AI Architect Koray Kavukcuoglu is working to unite its internal AI coding tools under the Antigravity platform, to counter Claude Code and Codex — At Google, leaders are anxious about falling behind in the race to offer AI coding tools, especially as rivals like Anthropic PBC offer …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
-      },
-      {
-        "id": "d16a7195339cc88e",
-        "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-        "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776790804000,
-        "summary": "Anthropic secures 5 gigawatts of Amazon’s custom silicon as Claude demand soars.",
-        "tags": [
-          "ai",
-          "amazon",
-          "amazon web services",
-          "anthropic",
-          "anthropic claude",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9856
       }
     ],
     "science": [
+      {
+        "id": "c94157a4b98aede3",
+        "title": "Photonic chip generates milliwatt-level UV light, 100 times brighter than before",
+        "url": "https://phys.org/news/2026-04-photonic-chip-generates-milliwatt-uv.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776807606000,
+        "summary": "Researchers from the University of Twente and Harvard University have developed a new way to generate ultraviolet (UV) light on a photonic chip at power levels high enough for real-world use. For the first time, the technique produces milliwatt-level UV light on a chip. It is an important step for quantum technology, optical atomic clocks and advanced measurement equipment. The research is publish",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1007
+      },
+      {
+        "id": "0490ba50f649e6ed",
+        "title": "Mapping the hidden structure of the universe",
+        "url": "https://phys.org/news/2026-04-hidden-universe.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776807605000,
+        "summary": "The universe has a hidden structure, and a University of Virginia professor is mapping it in 3D, using 46 million galaxies and quasars and 19 million stars. Satya Gontcho A Gontcho, an assistant professor in the Department of Astronomy, is part of a team using the Lawrence Berkeley National Laboratory-led, Arizona-based Dark Energy Spectroscopic Instrument to conduct one of the most extensive surv",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0192
+      },
+      {
+        "id": "6688a5d33fc9edc1",
+        "title": "Astronomers precisely date rare brown dwarf companion, offering new test for how these objects cool",
+        "url": "https://phys.org/news/2026-04-astronomers-precisely-date-rare-brown.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776807001000,
+        "summary": "Astronomers at the University of Hawaiʻi have precisely measured the age of a nearby sun-like star and its unusual companion, known as a brown dwarf, an object that falls between a planet and a star. The discovery offers new clues into how brown dwarfs grow and change over time.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0159
+      },
       {
         "id": "ae4f1a062484e10e",
         "title": "Half of America sits in democratic limbo—and that silent middle may decide what breaks next",
@@ -3831,67 +3875,19 @@
         "score": 1.0487
       },
       {
-        "id": "5dc55b18acfaed55",
-        "title": "Multi-Label Phase Diagram Prediction in Complex Alloys via Physics-Informed Graph Attention Networks",
-        "url": "https://arxiv.org/abs/2604.16468",
+        "id": "49251234b7514eef",
+        "title": "CGCMA: Conditionally-Gated Cross-Modal Attention for Event-Conditioned Asynchronous Fusion",
+        "url": "https://arxiv.org/abs/2604.16411",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16468v1 Announce Type: new Abstract: Accurate phase equilibria are foundational to alloy design because they encode the underlying thermodynamics governing stability, transformations, and processing windows. However, while the CALculation of Phase Diagrams (CALPHAD) provides a rigorous thermodynamic framework, exploring multicomponent composition-temperature space remains computationall",
+        "summary": "arXiv:2604.16411v1 Announce Type: new Abstract: We study asynchronous alignment, a first-class multimodal learning setting in which a dense primary stream must be fused with sporadic external context whose value depends on when it arrives. Unlike standard multimodal benchmarks that assume structural synchrony, this setting requires models to reason explicitly about freshness and trust. We focus on",
         "tags": [
-          "cs.lg",
-          "cond-mat.mtrl-sci"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.75
-      },
-      {
-        "id": "39c4bc054a8160f5",
-        "title": "Evaluating Temporal and Structural Anomaly Detection Paradigms for DDoS Traffic",
-        "url": "https://arxiv.org/abs/2604.16575",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16575v1 Announce Type: new Abstract: Unsupervised anomaly detection is widely used to detect Distributed Denial-of-Service (DDoS) attacks in cloud-native 5G networks, yet most studies assume a fixed traffic representation, either temporal or structural, without validating which feature space best matches the data. We propose a lightweight decision framework that prioritizes temporal or ",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.75
-      },
-      {
-        "id": "ebda5a5c39b8b15e",
-        "title": "Towards Trustworthy Depression Estimation via Disentangled Evidential Learning",
-        "url": "https://arxiv.org/abs/2604.16579",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16579v1 Announce Type: new Abstract: Automated depression estimation is highly vulnerable to signal corruption and ambient noise in real-world deployment. Prevailing deterministic methods produce uncalibrated point estimates, exposing safety-critical clinical systems to the severe risk of overconfident misdiagnoses. To establish a highly resilient and trustworthy assessment paradigm, we",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.75
-      },
-      {
-        "id": "113379e9c99f8cfa",
-        "title": "GAMMA-Net: Adaptive Long-Horizon Traffic Spatio-Temporal Forecasting Model based on Interleaved Graph Attention and Multi-Axis Mamba",
-        "url": "https://arxiv.org/abs/2604.16859",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1776744000000,
-        "summary": "arXiv:2604.16859v1 Announce Type: new Abstract: Accurate traffic forecasting is crucial for intelligent transportation systems, supporting effective traffic management, congestion reduction, and informed urban planning. However, traditional models often fail to adequately capture the intricate spatio-temporal dependencies present in traffic data. To overcome these limitations, we introduce GAMMA-N",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9111
+        "score": 0.8064
       }
     ]
   },
