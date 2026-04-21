@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:43:24.451224+00:00",
+  "generated_at": "2026-04-21T22:49:05.730816+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1961,6 +1961,26 @@
     ],
     "ai": [
       {
+        "id": "b9be3ee2482f0998",
+        "title": "Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos",
+        "url": "https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1776811410000,
+        "summary": "Anthropic's buzzy announcement about using AI to improve cybersecurity earlier this month was met with plenty of skepticism. However, Mozilla shared some details that support use of the company's special Claude Mythos Preview model as a way to protect critical services. Using Mythos helped Mozilla's team find and patch 271 vulnerabilities in the latest release of the Firefox browser. \"So far we’ve",
+        "tags": [
+          "internet & networking technology",
+          "site|engadget",
+          "provider_name|engadget",
+          "region|us",
+          "language|en-us",
+          "author_name|anna washenko"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.759
+      },
+      {
         "id": "9493f23e862a0ddb",
         "title": "Sources: SpaceX has agreed to buy Cursor for $50B+; SpaceX says it is working with Cursor to \"create the world's best coding and knowledge work AI\" (New York Times)",
         "url": "http://www.techmeme.com/260421/p48#a260421p48",
@@ -2159,6 +2179,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9982
+      },
+      {
+        "id": "89d846166e02e9c8",
+        "title": "Meta will start tracking employees’ screens and keystrokes to train AI tools",
+        "url": "https://www.reddit.com/r/technology/comments/1ss0u01/meta_will_start_tracking_employees_screens_and/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1776805631000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.993
       },
       {
         "id": "eb618d94aed0c47b",
@@ -2916,44 +2951,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9867
-      },
-      {
-        "id": "2a7a7faec5970787",
-        "title": "Monterey Park, California has banned any data centers within its city limits",
-        "url": "https://www.engadget.com/ai/monterey-park-california-has-banned-any-data-centers-within-its-city-limits-180426656.html?src=rss",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1776794666000,
-        "summary": "Monterey Park's city council has moved to ban construction of any data centers within its borders. The California city's leaders placed a permanent ban on these buildings, labelling them a public nuisance. A proposed plan to construct a 250,000 square foot data center was stopped after residents and advocates pushed back against the project. Tech journalist Brian Merchant reported on the public co",
-        "tags": [
-          "politics & government",
-          "government",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us",
-          "language|en-us"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7026
-      },
-      {
-        "id": "d7131f200f87f0f8",
-        "title": "Google's Internal Politics Leave It Playing Catch-Up On AI Coding",
-        "url": "https://developers.slashdot.org/story/26/04/21/1655253/googles-internal-politics-leave-it-playing-catch-up-on-ai-coding?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776794400000,
-        "summary": "An anonymous reader quotes a report from Bloomberg: At Google, leaders are anxious about falling behind in the race to offer AI coding tools, especially as rivals like Anthropic PBC offer more effective and popular tools to businesses, according to people familiar with the matter. The search giant is now working to unite some of its coding initiatives under one banner to speed progress and take ad",
-        "tags": [
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1302
       }
     ],
     "science": [
+      {
+        "id": "e2c92c6dd5c61030",
+        "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+        "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1776811537000,
+        "summary": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or pay a fee of $10 billion. The New York Times first reported a possible deal, and SpaceX confirmed it in a […]",
+        "tags": [
+          "ai",
+          "elon musk",
+          "news",
+          "science",
+          "space",
+          "spacex"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7911
+      },
       {
         "id": "f057351e481b4829",
         "title": "Lack of robust regulation and information about contaminated industrial sites in India poses public health risk",
@@ -2998,6 +3018,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.016
+      },
+      {
+        "id": "8bfa519c9d333944",
+        "title": "SpaceX Strikes Deal With Cursor for $60 Billion",
+        "url": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1776810437000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:46"
+        ],
+        "paywall": true,
+        "impact": "normal",
+        "score": 0.782
       },
       {
         "id": "0220403ee95e7840",
@@ -3850,40 +3886,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0181
-      },
-      {
-        "id": "50e43dd57b10665a",
-        "title": "Breaking a shared defense restores antibiotics against two cystic fibrosis lung bacteria",
-        "url": "https://phys.org/news/2026-04-defense-antibiotics-cystic-fibrosis-lung.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776775201000,
-        "summary": "A newly discovered mechanism renders antibiotic-resistant bacteria vulnerable by disabling both their individual resistance and a process known as cross-protection, the ability of resistant bacteria to shield nearby, otherwise sensitive strains. This occurs because resistant bacteria can degrade antibiotics in their surroundings, reducing drug levels and allowing other microbes to survive.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.019
-      },
-      {
-        "id": "a5b6a73033278b07",
-        "title": "The SpaceX IPO is a trillion-dollar gamble on the future of space",
-        "url": "https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch",
-        "source": "The Verge",
-        "lane": "science",
-        "published_ts": 1776775100000,
-        "summary": "The great SpaceX IPO is looming, allowing outside investors - including regular Joe Schmoes, or retail investors - to buy a stake in one of the buzziest and most controversial companies on the planet for the first time. Depending on who you ask, it's either the best investment opportunity you'll see this decade or a […]",
-        "tags": [
-          "business",
-          "report",
-          "science",
-          "space",
-          "spacex"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7916
       }
     ]
   },
