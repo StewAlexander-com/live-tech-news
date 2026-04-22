@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-04-22T22:29:19.124383+00:00",
+  "generated_at": "2026-04-22T22:42:15.628696+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "fcbc55acf645f4e1",
+        "title": "Elon Musk admits that millions of Tesla vehicles won’t get unsupervised FSD",
+        "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1776897511000,
+        "summary": "Tesla vehicles with the company's Hardware 3 (HW3) computer actually won't receive unsupervised Full Self-Driving (FSD), CEO Elon Musk said on Wednesday's Q1 2026 earnings call. Approximately 4 million Tesla vehicles operate on the HW3 platform, meaning that a significant chunk of Tesla owners - including customers that paid for the feature when they bought […]",
+        "tags": [
+          "electric cars",
+          "elon musk",
+          "news",
+          "tech",
+          "tesla",
+          "transportation"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.791
+      },
+      {
+        "id": "be6b8e7944b1917d",
+        "title": "Google could make it more difficult to access safety features on the Pixel Watch",
+        "url": "https://www.androidpolice.com/google-could-require-account-for-fall-detection-on-pixel-watch/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1776897128000,
+        "summary": "We get it, but the change isn't necessary",
+        "tags": [
+          "google pixel watch",
+          "emergency sos",
+          "utilities"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9968
+      },
       {
         "id": "edfa8958155e246e",
         "title": "Kalshi suspended three political candidates from its platform for insider trading",
@@ -951,46 +988,55 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9933
-      },
-      {
-        "id": "0f77522f9a63f6ee",
-        "title": "Control: Ultimate Edition is out for the iPhone and iPad",
-        "url": "https://www.engadget.com/gaming/control-ultimate-edition-is-out-for-the-iphone-and-ipad-150532940.html?src=rss",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1776870332000,
-        "summary": "Control is one of my favorite adventure games of the last decade or so, a mind-bending trip through an ever-changing building where you get to use telekinesis to battle some pretty freaky enemies. It was a graphically-demanding game when it was released in 2019, but a lot can change in less than six years: Control: Ultimate Edition is now available on the iPhone and iPad for a mere $5, following i",
-        "tags": [
-          "technology & electronics",
-          "handheld & connected devices",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us",
-          "language|en-us"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7026
-      },
-      {
-        "id": "cdbb7e6c5bac1abc",
-        "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways",
-        "url": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1776870174000,
-        "summary": "Following the emergence of a rumor that Apple is planning to downgrade the iPhone 18 to cut costs, further detail has emerged suggesting that display and chip specifications will see downgrades. Earlier this week, the leaker known as \"Fixed Focus Digital\" said that the ‌iPhone 18‌ features \"certain manufacturing downgrades\" that bring it more into line with the low-cost iPhone 18e model. The decis",
-        "tags": [
-          "featured",
-          "iphone 18",
-          "fixed focus digital"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0769
       }
     ],
     "innovation": [
+      {
+        "id": "40193266dd503f8f",
+        "title": "Alibaba launches Qwen3.6-27B, an open-weight dense model with 27B parameters, saying it surpasses Qwen3.5-397B-A17B on major coding benchmarks (Qwen)",
+        "url": "http://www.techmeme.com/260422/p48#a260422p48",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776897601000,
+        "summary": "Qwen: Alibaba launches Qwen3.6-27B, an open-weight dense model with 27B parameters, saying it surpasses Qwen3.5-397B-A17B on major coding benchmarks — · 4226 words · QwenTeam丨Translations:.体中文 — HUGGING FACE — MODELSCOPE — DISCORD",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9993
+      },
+      {
+        "id": "82520cbddabac0b4",
+        "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+        "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1776897598000,
+        "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+        "tags": [
+          "transportation",
+          "advanced driver assistance systems",
+          "elon musk",
+          "full self driving",
+          "hardware 3",
+          "tesla"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8072
+      },
+      {
+        "id": "b4071aae01cf7dd5",
+        "title": "Another npm supply chain worm is tearing through dev environments",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/another_npm_supply_chain_attack/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1776897299000,
+        "summary": "Plus, the payload references 'TeamPCP/LiteLLM method' Yet another npm supply-chain attack is worming its way through compromised packages, stealing secrets and sensitive data as it moves through developers' environments, and it shares significant overlap with the open source infections attributed to TeamPCP last month.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0476
+      },
       {
         "id": "d58980f5ffcde1e7",
         "title": "Dune Analytics: Polymarket's global trading volumes have fallen behind Kalshi in recent months; sources: product delays are contributing to Polymarket's decline (Bloomberg)",
@@ -1875,53 +1921,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7444
-      },
-      {
-        "id": "7e5bd9dcb5d0988d",
-        "title": "'EVs have to be fun': Kia lifts the lid on its wild Vision Meta Turismo concept that uses a joystick as a gear shifter",
-        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/evs-have-to-be-fun-kia-lifts-the-lid-on-its-wild-vision-meta-turismo-concept-that-uses-a-joystick-as-a-gear-shifter",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1776872831000,
-        "summary": "Kia unveils a Vision Met Turismo concept that hints at future sporty electric saloon for the brand.",
-        "tags": [
-          "hybrid &amp; electric vehicles",
-          "vehicle tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8457
-      },
-      {
-        "id": "d2b27d19f20390a0",
-        "title": "Sony AI says its autonomous ping pong robot is the first robot to attain expert-level performance in a physical sport after beating some top-level human players (Will Dunham/Reuters)",
-        "url": "http://www.techmeme.com/260422/p30#a260422p30",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776872701000,
-        "summary": "Will Dunham / Reuters: Sony AI says its autonomous ping pong robot is the first robot to attain expert-level performance in a physical sport after beating some top-level human players — An autonomous robot ping-pong player dubbed Ace has achieved a milestone for AI and robotics in Tokyo by competing …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
-      },
-      {
-        "id": "bb0e5d0d6fd7454b",
-        "title": "Cosmetics giant Rituals confirms data breach of customer membership records",
-        "url": "https://techcrunch.com/2026/04/22/cosmetics-giant-rituals-confirms-data-breach-of-customer-membership-records/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1776872317000,
-        "summary": "The cosmetics retailer, which counts 41 million customers in its membership data, declined to provide an accurate total number of customers affected.",
-        "tags": [
-          "security",
-          "cyberattack",
-          "data breach",
-          "retail"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7461
       }
     ],
     "ai": [
