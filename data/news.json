@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T01:02:14.007693+00:00",
+  "generated_at": "2026-04-22T01:42:05.581992+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2023,6 +2023,19 @@
         "score": 1.0986
       },
       {
+        "id": "cfea17bac42ef068",
+        "title": "After users reported Claude Code appeared to be removed from Anthropic's Pro plan, Anthropic says it's \"running a small test on ~2% of new prosumer signups\" (Ed Zitron/Ed Zitron's Where's Your Ed At)",
+        "url": "http://www.techmeme.com/260421/p51#a260421p51",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776814502000,
+        "summary": "Ed Zitron / Ed Zitron's Where's Your Ed At: After users reported Claude Code appeared to be removed from Anthropic's Pro plan, Anthropic says it's “running a small test on ~2% of new prosumer signups” — Executive Summary: — Anthropic appears to have removed access to Claude Code for its $20-a-month “Pro” Plans.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.96
+      },
+      {
         "id": "14107ae7c3c22636",
         "title": "An Anthropic support doc no longer lists Claude Code as part of its $20/month Pro plan; Anthropic says it is running a small test on ~2% of new prosumer signups (Ed Zitron/Ed Zitron's Where's Your Ed At)",
         "url": "http://www.techmeme.com/260421/p51#a260421p51",
@@ -2415,6 +2428,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.993
+      },
+      {
+        "id": "fdf80ee6ee9cad98",
+        "title": "Claude Code to be removed from Anthropic's Pro plan?",
+        "url": "https://claude.com/pricing",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776805384000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:346"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2001
       },
       {
         "id": "eb618d94aed0c47b",
@@ -2858,42 +2887,52 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0775
-      },
-      {
-        "id": "b99b073bc12d96b3",
-        "title": "New York Attorney General sues two prediction markets on illegal gambling allegations",
-        "url": "https://www.engadget.com/big-tech/new-york-attorney-general-sues-two-prediction-markets-on-illegal-gambling-allegations-192012225.html?src=rss",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1776799212000,
-        "summary": "New York is the latest state to take a stand against prediction markets. Attorney General Letitia James has sued Coinbase Financial Markets and Gemini Titan on charges that both are illegally running unlicensed gambling operations. The suit also claims that these prediction markets violate state laws that prevent betting on games involving New York college sports teams. \"Gambling by another name i",
-        "tags": [
-          "gaming & lottery",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us",
-          "language|en-us",
-          "author_name|anna washenko"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7002
-      },
-      {
-        "id": "4c437d0a793f26ce",
-        "title": "OpenAI says that ChatGPT Images 2.0 has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali (Amanda Silberling/TechCrunch)",
-        "url": "http://www.techmeme.com/260421/p33#a260421p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776798902000,
-        "summary": "Amanda Silberling / TechCrunch: OpenAI says that ChatGPT Images 2.0 has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali — It used to be easy enough to distinguish between human-made and AI-generated imagery — just two years ago, you couldn't use image models …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0785
       }
     ],
     "science": [
+      {
+        "id": "d17cd401aaef0ad7",
+        "title": "As the world faces yet another crisis, why are leaders still resisting remote work?",
+        "url": "https://phys.org/news/2026-04-world-crisis-leaders-resisting-remote.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776822001000,
+        "summary": "At 9 p.m., shops, restaurants and cafes go dark across the city of Cairo, where a stringent curfew has been imposed to mitigate the energy shock triggered by the conflict in the Gulf. The measure may prove difficult to enforce among people accustomed to long, convivial evenings, but the outlook is far from reassuring. Reports from inland areas indicate that petrol stations are running dry, raising",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0193
+      },
+      {
+        "id": "b4afc3a49dc8218f",
+        "title": "Filing: SpaceX tells investors that orbital AI data centers use \"unproven technologies\" and may not achieve \"commercial viability\" due to space-related risks (Echo Wang/Reuters)",
+        "url": "http://www.techmeme.com/260421/p55#a260421p55",
+        "source": "Techmeme",
+        "lane": "science",
+        "published_ts": 1776821102000,
+        "summary": "Echo Wang / Reuters: Filing: SpaceX tells investors that orbital AI data centers use “unproven technologies” and may not achieve “commercial viability” due to space-related risks — SpaceX warned investors that its ambitions to build space-based artificial intelligence data centers …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0741
+      },
+      {
+        "id": "7cd094470dff8a18",
+        "title": "Rethinking energy transition participation: Why citizens are more than a box to tick",
+        "url": "https://phys.org/news/2026-04-rethinking-energy-transition-citizens.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776820804000,
+        "summary": "Citizen participation is widely seen as key to a successful energy transition. In practice, however, it often remains more of an ideal than a reality. In her Ph.D. research at TU/e, Nikki Kluskens shows just how wide the gap is between that ideal and everyday practice—and why we need to rethink how we approach public engagement.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0128
+      },
       {
         "id": "7d52fa5cb3eeebbb",
         "title": "Q&A: IceCube Observatory upgrades improve search for elusive cosmic messenger",
@@ -3779,51 +3818,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7017
-      },
-      {
-        "id": "91efcd10c2fdc457",
-        "title": "Perovskite quantum dots crack two big barriers, staying stable in polar solvents and growing with atomic precision",
-        "url": "https://phys.org/news/2026-04-perovskite-quantum-dots-big-barriers.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776788403000,
-        "summary": "Perovskite quantum dots are considered promising materials for LEDs, photocatalysis, and future quantum light sources. Researchers at LMU Munich have managed to master two major hurdles in working with these quantum dots: their stability in solution and precise control of their growth. The results could open new avenues for the processing and application of the materials.",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0979
-      },
-      {
-        "id": "407ae87bfdc2d4f6",
-        "title": "Put a nanodiamond under intense pressure and it becomes flexible",
-        "url": "https://phys.org/news/2026-04-nanodiamond-intense-pressure-flexible.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776788401000,
-        "summary": "Diamond is among the hardest naturally occurring substances on Earth, but if you shrink it down to the nanoscale, it is surprisingly elastic. And that could be useful for a host of applications such as quantum computing. In a paper published in the journal Physical Review X, Chongxin Shan at Zhengzhou University in China and colleagues studied diamonds as small as four nanometers across to see how",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0978
-      },
-      {
-        "id": "b71e6a4837c14af1",
-        "title": "NASA rolls out Artemis III moon rocket core stage",
-        "url": "https://phys.org/news/2026-04-nasa-artemis-iii-moon-rocket.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776787204000,
-        "summary": "Following the recent successful test flight of NASA's Artemis II mission around the moon, NASA rolled out the core stage, or the largest section, of the agency's SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency's Michoud Assembly Facility in New Orleans on Monday for shipment to NASA's Kennedy Space Center in Florida, mark",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0988
       }
     ]
   },
