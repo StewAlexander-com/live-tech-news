@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T20:07:42.112684+00:00",
+  "generated_at": "2026-04-22T20:13:35.688726+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -69,6 +69,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8465
+      },
+      {
+        "id": "f99309186d38dfd6",
+        "title": "Apple Releases iOS 26.4.2 to Address iPhone Bugs and Security",
+        "url": "https://www.cnet.com/tech/mobile/apple-releases-ios-26-4-2-to-address-iphone-bugs-and-security/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1776886860000,
+        "summary": "Better safe than sorry -- download this update to protect your iPhone.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8115
       },
       {
         "id": "838b78ac1d836c5a",
@@ -146,7 +159,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.802
+        "score": 0.8104
       },
       {
         "id": "12f1d4a8666c5ddb",
@@ -960,19 +973,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8462
-      },
-      {
-        "id": "243d902e8ac5f9b0",
-        "title": "I Played the Expanse: Osiris Reborn's Beta. It Trims the Fat Off Mass Effect",
-        "url": "https://www.cnet.com/tech/gaming/i-played-the-expanse-osiris-reborns-beta-it-trims-the-fat-off-mass-effect/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1776866442000,
-        "summary": "Players who preorder at least the $80 edition of the game can try out a short beta demo of the upcoming action RPG, due out next year.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8152
       }
     ],
     "innovation": [
@@ -1932,6 +1932,23 @@
     ],
     "ai": [
       {
+        "id": "b0b4c4e8fde0c80d",
+        "title": "OpenAI now lets teams make custom bots that can do work on their own",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1776888542000,
+        "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can […]",
+        "tags": [
+          "ai",
+          "news",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7908
+      },
+      {
         "id": "46eed14b7247eeaa",
         "title": "OpenAI now lets you screenshot your privacy in the foot",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/openai_chronicle_no_privacy_screenshot/",
@@ -1994,6 +2011,19 @@
         "score": 0.9964
       },
       {
+        "id": "5e0922d70beb4950",
+        "title": "Meta Will Track Employees' Keystrokes, Clicks and Mousing to Train AI",
+        "url": "https://www.cnet.com/tech/services-and-software/meta-will-track-its-employees-keystrokes-and-mousing-to-train-ai-report-says/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1776886200000,
+        "summary": "When workers complained, they were reportedly told there's no way to opt out.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8733
+      },
+      {
         "id": "ebcd9d51b7ca9b86",
         "title": "Google wants Chrome to be your AI colleague, and it is betting 3.8 billion users agree",
         "url": "https://thenextweb.com/news/google-chrome-enterprise-ai-coworker-agentic-browser",
@@ -2009,6 +2039,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9582
+      },
+      {
+        "id": "5da9653d88ce5b3d",
+        "title": "TikTok Says It's Testing an AI Remix Setting for Making Memes. Creators Are Concerned",
+        "url": "https://www.cnet.com/tech/services-and-software/tiktoks-ai-remix-setting-is-for-an-experimental-meme-maker-inspired-by-your-videos/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1776885200000,
+        "summary": "Worried about that AI remix setting on TikTok? Here's how you can opt out.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8686
       },
       {
         "id": "aab7eed480cf0876",
@@ -2900,61 +2943,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0787
-      },
-      {
-        "id": "c14079103c5acd9d",
-        "title": "Linux may be ending support for older network drivers due to influx of false AI-generated bug reports — maintenance has become too burdensome for old largely-unused systems",
-        "url": "https://www.tomshardware.com/software/linux/linux-may-be-ending-support-for-older-network-drivers-due-to-influx-of-false-ai-generated-bug-reports-maintenance-has-become-too-burdensome-for-old-largely-unused-systems",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1776868332000,
-        "summary": "Linux kernel developers are reviewing a proposal to remove obsolete ISA and PCMCIA-era Ethernet drivers from the mainline kernel, citing rising maintenance burden from AI-driven bug reports and fuzzing. The change would cut around 27,000 lines of legacy code",
-        "tags": [
-          "linux",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0234
-      },
-      {
-        "id": "fd5bc899ec879145",
-        "title": "Google just launched its agentic enterprise play, and it runs from chip to inbox",
-        "url": "https://thenextweb.com/news/google-cloud-next-ai-agents-agentic-era",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776867999000,
-        "summary": "Summary: Google rebranded and consolidated its AI platform at Cloud Next 2026, renaming Vertex AI to the Gemini Enterprise Agent Platform and absorbing Agentspace into a unified Gemini Enterprise product. The announcements include Workspace Studio (no-code agent builder), 200+ models in the Model Garden including Anthropic Claude, partner agents from Box, Workday, Salesforce, and ServiceNow, […] T",
-        "tags": [
-          "corporates and innovation",
-          "google",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.958
-      },
-      {
-        "id": "34cfd368d4cdd36d",
-        "title": "Now Meta will track what employees do on their computers to train its AI agents",
-        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1776867755000,
-        "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. The data from this tool will […]",
-        "tags": [
-          "ai",
-          "meta",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8546
       }
     ],
     "science": [
+      {
+        "id": "00f23ee7e60daa96",
+        "title": "NASA’s Artemis II Moon mission shows space-to-Earth laser comms can scale",
+        "url": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1776888585000,
+        "summary": "Observable Space and Quantum Wave teamed up to capture data beamed back from space.",
+        "tags": [
+          "space",
+          "exclusive",
+          "observable space"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8068
+      },
       {
         "id": "ae1269f118ae8a0f",
         "title": "Canada's parks may be protecting the wrong places as climate extremes reshape biodiversity",
@@ -3848,21 +3856,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0194
-      },
-      {
-        "id": "35d550ed754e9fe9",
-        "title": "Do decoherence, gravity, dark matter and dark energy all originate from quantum corrections?",
-        "url": "https://phys.org/news/2026-04-decoherence-gravity-dark-energy-quantum.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776857401000,
-        "summary": "Only about 5% of the universe is composed of normal matter that we can directly observe, while the remaining 95% is widely believed to consist of dark matter and dark energy. Paradoxically, however, the nature of these dark components remains unknown. Is this due to limitations in our observational capabilities, or does it reflect a more fundamental incompleteness in the classical laws of physics ",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.099
       }
     ]
   },
