@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T14:18:51.756895+00:00",
+  "generated_at": "2026-04-22T14:25:12.882258+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -17,6 +17,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9999
+      },
+      {
+        "id": "1003e7e72bffbd20",
+        "title": "Where to buy AMD's Ryzen 9 9950X3D2 — more L3 cache and dual 3D V-cache-stacked CCDs",
+        "url": "https://www.tomshardware.com/pc-components/cpus/where-to-buy-amds-ryzen-9-9950x3d2-more-l3-cache-and-dual-3d-v-cache-stacked-ccds",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1776867427000,
+        "summary": "The Ryzen 9 9950X3D2 processor is AMD's latest CPU release. Here's where you can pick one up.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0233
       },
       {
         "id": "03166f124de7b663",
@@ -932,21 +948,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.849
-      },
-      {
-        "id": "28ed0cfd758436e5",
-        "title": "Motorola Razr (2026) leak reveals one much-needed upgrade",
-        "url": "https://www.androidpolice.com/motorola-razr-2026-leak-reveals-one-much-needed-upgrade/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1776845784000,
-        "summary": "With a $100 higher price tag",
-        "tags": [
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.999
       }
     ],
     "innovation": [
@@ -1871,6 +1872,57 @@
     ],
     "ai": [
       {
+        "id": "34cfd368d4cdd36d",
+        "title": "Now Meta will track what employees do on their computers to train its AI agents",
+        "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1776867755000,
+        "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystrokes, and occasional screenshots. The data from this tool will […]",
+        "tags": [
+          "ai",
+          "meta",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8546
+      },
+      {
+        "id": "75219a8e07d2ff1b",
+        "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+        "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776867730000,
+        "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+        "tags": [
+          "ai",
+          "enterprise",
+          "infosys",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8071
+      },
+      {
+        "id": "729c33f6cf5f94a1",
+        "title": "In age of AI, art's real power no longer lives in image alone but in who chooses what survives",
+        "url": "https://phys.org/news/2026-04-age-ai-art-real-power.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1776867601000,
+        "summary": "Every year on 21 April, World Creativity and Innovation Day invites us to celebrate human ingenuity. Traditionally, that meant celebrating creativity through art, science, and new ideas. Today, it also means asking a more uncomfortable question.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
         "id": "417dd802cc98becc",
         "title": "Google Cloud Pushes Hard on AI Agents and Hardcore Computing",
         "url": "https://www.cnet.com/tech/services-and-software/google-cloud-next-2026-ai-agents-computing-chips-news/",
@@ -2781,53 +2833,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1276
-      },
-      {
-        "id": "f68ea109aa6ee3ae",
-        "title": "SpaceX partners with AI startup Cursor, may buy it for $60 bn",
-        "url": "https://phys.org/news/2026-04-spacex-partners-ai-startup-cursor.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1776846002000,
-        "summary": "SpaceX on Tuesday announced a partnership with AI coding company Cursor and said the alliance comes with an option to buy the startup for $60 billion later this year.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1012
-      },
-      {
-        "id": "50935cf71de58c53",
-        "title": "Unauthorized users gained access to Anthropic’s restricted Mythos AI model on launch day via a third-party contractor’s environment",
-        "url": "https://thenextweb.com/news/anthropic-mythos-unauthorized-access-vendor-breach",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776842870000,
-        "summary": "A small group communicating via a private Discord channel accessed Claude Mythos Preview by guessing the model’s URL on the same day Anthropic announced Project Glasswing. Anthropic says it is investigating and has found no evidence of impact to its core systems. The breach highlights the risks of restricting access to frontier AI capabilities through […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9442
-      },
-      {
-        "id": "aa6f0e22615ab809",
-        "title": "Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days (T. K. Lin/KrASIA)",
-        "url": "http://www.techmeme.com/260422/p9#a260422p9",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776840302000,
-        "summary": "T. K. Lin / KrASIA: Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days — OpenClaw's founder publicly endorsed the product's rollout. — Tencent has launched an international beta for QClaw …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0742
       }
     ],
     "science": [
+      {
+        "id": "9a143bbb14498cb1",
+        "title": "New technology helps flat-faced dogs breathe easy",
+        "url": "https://phys.org/news/2026-04-technology-flat-dogs-easy.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776867605000,
+        "summary": "Australian scientists have developed an injectable therapy that helps clear blocked airways in flat-faced dogs. Melbourne-based biotechnology company Snoretox and RMIT University have shown early success using the first therapy from a new technology, known as Snoretox-1.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
       {
         "id": "49a4661c3d812a02",
         "title": "NASA reckons the Artemis II heat shield performed like a champ",
@@ -3719,21 +3742,6 @@
         "paywall": true,
         "impact": "normal",
         "score": 0.7775
-      },
-      {
-        "id": "f057351e481b4829",
-        "title": "Lack of robust regulation and information about contaminated industrial sites in India poses public health risk",
-        "url": "https://phys.org/news/2026-04-lack-robust-contaminated-industrial-sites.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776811207000,
-        "summary": "New research has highlighted how inadequate environmental regulations and assessments of contaminated industrial land in India are endangering human populations and wildlife ecosystems.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
       }
     ]
   },
