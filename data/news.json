@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-22T18:18:15.679007+00:00",
+  "generated_at": "2026-04-22T18:39:34.158677+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "12f1d4a8666c5ddb",
+        "title": "I stopped using my laptop's OEM GPU drivers and games started working properly again",
+        "url": "https://www.makeuseof.com/stopped-using-laptops-oem-gpu-drivers-games-started-working-properly/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1776882616000,
+        "summary": "Updating on Windows is a mess.",
+        "tags": [
+          "windows",
+          "graphics card"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8475
+      },
       {
         "id": "dc10e24613ad6524",
         "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
@@ -968,24 +984,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9433
-      },
-      {
-        "id": "974a1fee446e94ba",
-        "title": "Even my technophobic mum found this Epson printer ridiculously easy to use — now the EcoTank gets a big price cut at Amazon",
-        "url": "https://www.techradar.com/pro/even-my-technophobic-mum-found-this-epson-printer-ridiculously-easy-to-use-now-the-ecotank-gets-a-big-price-cut-at-amazon",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776862969000,
-        "summary": "If you're scouring the Amazon Tech Week sales, this is my top choice for simple home printing on a budget.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.849
       }
     ],
     "innovation": [
+      {
+        "id": "f41fb5c87fc06498",
+        "title": "GitHub opts all CLI users into telemetry collection whether they want it or not",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/github_opts_all_cli_users/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1776882789000,
+        "summary": "Opt-out instructions included if you're not keen on GitHub watching you in the name of product improvement Users of GitHub's command-line interface (CLI) who value privacy, beware. The Microsoft-owned code-hosting platform has quietly begun collecting pseudonymous client-side telemetry from CLI users and enabled it by default.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0478
+      },
+      {
+        "id": "f129e133a86237aa",
+        "title": "FLOSS Weekly Episode 868: Remove the Noodles",
+        "url": "https://hackaday.com/2026/04/22/floss-weekly-episode-868-remove-the-noodles/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1776882650000,
+        "summary": "This week Jonathan chats with Johannes Millan about Super Productivity and Parallel Code! Those are two very different projects, but both aiming for helping us get our work done. Super …read more",
+        "tags": [
+          "hackaday columns",
+          "podcasts",
+          "coding agents",
+          "floss weekly",
+          "time tracking"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.077
+      },
       {
         "id": "5a019c9382311418",
         "title": "There Are Corrections, and There Are Corrections",
@@ -1905,35 +1938,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.944
-      },
-      {
-        "id": "675bf6b8475e99cb",
-        "title": "Scotland Yard can keep using live facial recognition on people in London, say judges",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/high_court_gives_thumbs_up/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776856473000,
-        "summary": "Judges say cops face-slurping not a problem under current human rights laws London's Metropolitan Police Service (MPS) has survived a legal challenge that attempted to curb its rollout of live facial recognition (LFR) technology across the capital.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0015
-      },
-      {
-        "id": "0b2cf8bd3fb361ef",
-        "title": "Scotland Yard can keep using live facial recognition on Londoners, say judges",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/high_court_gives_thumbs_up/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776856473000,
-        "summary": "Judges say cops face-slurping not a problem under current human rights laws London's Metropolitan Police Service (MPS) has survived a legal challenge that attempted to curb its rollout of live facial recognition (LFR) technology across the capital.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0424
       }
     ],
     "ai": [
+      {
+        "id": "1a61390f3f2243b2",
+        "title": "Google's new agentic AI can do your chores for you, but there's a catch",
+        "url": "https://www.makeuseof.com/googles-agentic-ai-do-your-chores-but-theres-a-catch/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1776881860000,
+        "summary": "This groundbreaking technology can automate your digital chores, but at what cost?",
+        "tags": [
+          "productivity",
+          "artificial intelligence"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9116
+      },
       {
         "id": "aa2a7e8ba343a38d",
         "title": "Google Confirms Gemini-Powered Siri Coming Later This Year",
@@ -1965,6 +1988,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9986
+      },
+      {
+        "id": "898280231d40a005",
+        "title": "OpenAI: Workspace Agents for Business",
+        "url": "https://openai.com/business/workspace-agents/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776881047000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:12"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0381
       },
       {
         "id": "72d923cca9681406",
@@ -2186,6 +2225,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0796
+      },
+      {
+        "id": "2748670b25158964",
+        "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+        "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776877107000,
+        "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+        "tags": [
+          "ai",
+          "enterprise",
+          "tc",
+          "ai agents",
+          "google",
+          "google cloud next"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7241
       },
       {
         "id": "2b5823a5b7a85d92",
@@ -2877,55 +2936,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0787
-      },
-      {
-        "id": "0423a9a2f706ffe4",
-        "title": "Adobe will continue to learn your brand even after you've established brand guidelines – AI \"brand brain\" will help cut out 'inefficient processes and broken workflows'",
-        "url": "https://www.techradar.com/pro/adobe-will-continue-to-learn-your-brand-even-after-youve-established-brand-guidelines-ai-brand-brain-will-help-cut-out-inefficient-processes-and-broken-workflows",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776862800000,
-        "summary": "Adobe Brand Intelligence will continue to learn about your precise branding preferences even after you set those initial guardrails.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9171
-      },
-      {
-        "id": "cc343d25e1b444fe",
-        "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
-        "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1776862800000,
-        "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
-        "tags": [
-          "biotech & health",
-          "ai",
-          "exclusive",
-          "10x science"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8071
-      },
-      {
-        "id": "7f952fe94cf17ffc",
-        "title": "Grafana offers AI assistant for free, warns users not to go mad",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/grafana_goes_free_with_ai/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1776862622000,
-        "summary": "Observability biz bets on business analytics wedge as Loki put on long-overdue diet Grafana is offering its AI assistant for free to open source and on-prem users — though on stage at its Barcelona user conference this week, CEO Raj Dutt joked they shouldn't use it too much.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1318
       }
     ],
     "science": [
+      {
+        "id": "30e5f816a0790316",
+        "title": "Light-powered propulsion expands space exploration possibilities",
+        "url": "https://phys.org/news/2026-04-powered-propulsion-space-exploration-possibilities.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776882009000,
+        "summary": "Reaching the nearest star system, Alpha Centauri, would take hundreds of thousands of years using current rocket propulsion technology. Researchers in the J. Mike Walker '66 Department of Mechanical Engineering at Texas A&M University have demonstrated a new approach to light-driven motion, showing that lasers can be used to lift and steer objects in multiple directions without physical contact. T",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0948
+      },
+      {
+        "id": "0d5f07b980f52ace",
+        "title": "Microbes contribute a surprisingly large array of proteins in fermented foods",
+        "url": "https://phys.org/news/2026-04-microbes-contribute-large-array-proteins.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776882008000,
+        "summary": "A new North Carolina State University study examining the proteins found in fermented foods like yogurt, cheese and bread found that a surprisingly large number, and percentage, of microbial proteins contribute to their overall protein content. These microbes have long been used in traditional fermentation processes and are widely associated with the beneficial or probiotic nature of these ferment",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0137
+      },
       {
         "id": "6b9c9345e20a7f93",
         "title": "Beneath Arctic ice, a vast fossil fuel footprint is colliding with Indigenous lands and wildlife",
@@ -3806,37 +3849,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0332
-      },
-      {
-        "id": "cf041406d94e58c0",
-        "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
-        "url": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1776826180000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:31"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1432
-      },
-      {
-        "id": "2909d28f36ad7d80",
-        "title": "Which 'money type' are you? New research maps financial habits of young Australians",
-        "url": "https://phys.org/news/2026-04-money-financial-habits-young-australians.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776825601000,
-        "summary": "Under 35, navigating the cost-of-living and trying to get ahead? New research from Southern Cross University, QUT and Griffith University challenges the idea that financial literacy alone addresses this problem. Instead, three distinct \"money behavior types\" among young Australians are linked to different financial outcomes.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0183
       }
     ]
   },
