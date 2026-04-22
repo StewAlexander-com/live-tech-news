@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-04-22T12:02:23.856692+00:00",
+  "generated_at": "2026-04-22T12:07:22.839076+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "209c0dff4dd2ff86",
+        "title": "ChatGPT can threaten to ‘key your car’ and become increasingly abusive if you prompt it just right, new study finds",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt-can-threaten-to-key-your-car-and-become-increasingly-abusive-if-you-prompt-it-just-right-new-study-finds",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1776859350000,
+        "summary": "ChatGPT can get increasingly abusive and argumentative with the right set of prompts, researchers have found.",
+        "tags": [
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8487
+      },
       {
         "id": "95f9ec75341bb735",
         "title": "I've been using the Samsung Galaxy S26 Ultra's stylus daily — don't overlook it on Moto's new phone",
@@ -941,22 +956,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0794
-      },
-      {
-        "id": "76eb1f315732ffe0",
-        "title": "Tim Cook was an innovator — just not the Jobs kind",
-        "url": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1776798900000,
-        "summary": "Under Steve Jobs, Apple released the groundbreaking products that defined the company. But the company wouldn't be what it is today without Tim Cook's reign of ruthless efficiency. Jobs' legacy has long been written at this point. He was stubborn, unpleasant, and a generational visionary. He pushed the limits of industrial design and brought technologies […]",
-        "tags": [
-          "apple",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7909
       }
     ],
     "innovation": [
@@ -1873,6 +1872,65 @@
     ],
     "ai": [
       {
+        "id": "0b47518091df534a",
+        "title": "Google claims to have all the answers for enterprise AI agent sprawl",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_enterprise/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1776859412000,
+        "summary": "As biz agentic bot-wrangling intensifies, company says AI orchestration, security and infrastructure tools on the way Google Cloud Next Google has overhauled its enterprise AI strategy in the wake of the agentic push across the biz landscape, rebranding and expanding its Vertex AI developer platform into what it now calls the Gemini Enterprise Agent Platform.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1326
+      },
+      {
+        "id": "390977504c85a858",
+        "title": "Google unleashes even more AI security agents to fight the baddies",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_unleashes_even_more_ai/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1776859303000,
+        "summary": "Along with a bunch of new services to make sure those same agents don't cause chaos Google Cloud chief operating officer Francis deSouza has summed up his company's security strategy du jour as follows: \"You need to use AI to fight AI.\"…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1319
+      },
+      {
+        "id": "cc26c0464fc5b23d",
+        "title": "Forget one chip to rule them all: With TPU 8, Google has an AI arms race to win",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_tpu8_dual_track_training_inference/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1776859207000,
+        "summary": "x86 gets the boot as Google pairs up its TPUs with some Arm-based Axion cores Google unveiled two new in-house AI accelerators at its annual Cloud Next conference in Las Vegas on Wednesday: one designed to speed up training and another aimed at driving down model serving costs.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1314
+      },
+      {
+        "id": "3b9927367895551c",
+        "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+        "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776859200000,
+        "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+        "tags": [
+          "ai",
+          "enterprise",
+          "exclusive",
+          "google",
+          "google cloud",
+          "google next"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8059
+      },
+      {
         "id": "97dc4816d8036885",
         "title": "The most interesting startups showcased at Google Cloud Next 2026",
         "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
@@ -2755,66 +2813,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1158
-      },
-      {
-        "id": "dbbaea675746c3aa",
-        "title": "Gradient-Based Program Synthesis with Neurally Interpreted Languages",
-        "url": "https://arxiv.org/abs/2604.18907",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18907v1 Announce Type: new Abstract: A central challenge in program induction has long been the trade-off between symbolic and neural approaches. Symbolic methods offer compositional generalisation and data efficiency, yet their scalability is constrained by formalisms such as domain-specific languages (DSLs), which are labour-intensive to create and may not transfer to new domains. In ",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1158
-      },
-      {
-        "id": "b511f96bdd0a87de",
-        "title": "SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion",
-        "url": "https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776828600000,
-        "summary": "An anonymous reader quotes a report from the New York Times: SpaceX, Elon Musk's rocket and satellite company, said on Tuesday that it had struck a deal with the artificial intelligence start-up Cursor that could result in its acquiring the young company for $60 billion. SpaceX is making the deal just as it prepares to go public in what is likely to be one of the largest initial public offerings e",
-        "tags": [
-          "business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1268
-      },
-      {
-        "id": "869c2444a0c41c0b",
-        "title": "Magnificent irony as Meta staff unhappy about running surveillance software on work PCs",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1776826442000,
-        "summary": "Zuck reportedly needs to capture workers’ keystrokes to build AI Meta, the company built on watching everything its billions of users do online so it can keep them clicking on ragebait and targeted ads, is reportedly now installing surveillance software on employees’ work computers.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1139
-      },
-      {
-        "id": "9880bb95d88b7014",
-        "title": "Kuri – Zig based agent-browser alternative",
-        "url": "https://github.com/justrach/kuri",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776824138000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.984
       }
     ],
     "science": [
