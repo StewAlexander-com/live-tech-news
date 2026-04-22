@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T18:39:34.158677+00:00",
+  "generated_at": "2026-04-22T18:40:57.647765+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1942,6 +1942,26 @@
     ],
     "ai": [
       {
+        "id": "0520df882f425cd2",
+        "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+        "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776883167000,
+        "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+        "tags": [
+          "ai",
+          "enterprise",
+          "ai chips",
+          "google",
+          "google cloud",
+          "google cloud next"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8074
+      },
+      {
         "id": "1a61390f3f2243b2",
         "title": "Google's new agentic AI can do your chores for you, but there's a catch",
         "url": "https://www.makeuseof.com/googles-agentic-ai-do-your-chores-but-theres-a-catch/",
@@ -2923,22 +2943,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9899
-      },
-      {
-        "id": "1fe272024c794f93",
-        "title": "Source: Mira Murati's TML signed a deal with Google Cloud, valued in single-digit billions, to access Google's latest AI systems built on Nvidia's GB300 chips (Rebecca Bellan/TechCrunch)",
-        "url": "http://www.techmeme.com/260422/p22#a260422p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776863156000,
-        "summary": "Rebecca Bellan / TechCrunch: Source: Mira Murati's TML signed a deal with Google Cloud, valued in single-digit billions, to access Google's latest AI systems built on Nvidia's GB300 chips — Former OpenAI executive Mira Murati's startup, Thinking Machines Lab, has signed a new multi-billion-dollar agreement to expand …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0787
       }
     ],
     "science": [
+      {
+        "id": "c38e8b71e34c1e37",
+        "title": "Classical physics can explain quantum weirdness, study shows",
+        "url": "https://phys.org/news/2026-04-classical-physics-quantum-weirdness.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776883206000,
+        "summary": "When you throw a ball in the air, the equations of classical physics will tell you exactly what path the ball will take as it falls, and when and where it will land. But if you were to squeeze that same ball down to the size of an atom or smaller, it would behave in ways beyond anything that classical physics can predict.",
+        "tags": [
+          "general physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1013
+      },
+      {
+        "id": "5b18ec82f7ab57fa",
+        "title": "Understanding incel culture, and how schools can address it",
+        "url": "https://phys.org/news/2026-04-incel-culture-schools.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776883201000,
+        "summary": "Incels—involuntary celibates—believe they have been unconditionally excluded from the dating market and are doomed to remain virgins. This has negative implications for their mood and self-esteem, as well as the women and girls they grow to resent.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
       {
         "id": "30e5f816a0790316",
         "title": "Light-powered propulsion expands space exploration possibilities",
@@ -3818,37 +3855,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1158
-      },
-      {
-        "id": "263aa2538d8c3bc3",
-        "title": "FedProxy: Federated Fine-Tuning of LLMs via Proxy SLMs and Heterogeneity-Aware Fusion",
-        "url": "https://arxiv.org/abs/2604.19015",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.19015v1 Announce Type: new Abstract: Federated fine-tuning of Large Language Models (LLMs) is obstructed by a trilemma of challenges: protecting LLMs intellectual property (IP), ensuring client privacy, and mitigating performance loss on heterogeneous data. Existing methods like Offsite-Tuning (OT) secure the LLMs IP by having clients train only lightweight adapters, yet our analysis re",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1158
-      },
-      {
-        "id": "f5304eca362e9f88",
-        "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-        "url": "https://arxiv.org/abs/2604.18645",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18645v1 Announce Type: new Abstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS problem involving flexible gap constraints between consecutive solutions' characters. The problem arises in molecular sequence comparison, where structural distance constraints between residues must be respected, and in time-seri",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0332
       }
     ]
   },
