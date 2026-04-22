@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T09:22:48.485038+00:00",
+  "generated_at": "2026-04-22T09:39:44.128521+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -985,6 +985,23 @@
     ],
     "innovation": [
       {
+        "id": "131c44990082c569",
+        "title": "Kalshi seeks Montana court injunction over federal prediction market authority fight",
+        "url": "https://readwrite.com/kalshi-seeks-montana-court-injunction/",
+        "source": "ReadWrite",
+        "lane": "innovation",
+        "published_ts": 1776850299000,
+        "summary": "Kalshi went to federal court in Montana on Tuesday (April 21), asking a judge to stop state officials from using… Continue reading Kalshi seeks Montana court injunction over federal prediction market authority fight The post Kalshi seeks Montana court injunction over federal prediction market authority fight appeared first on ReadWrite.",
+        "tags": [
+          "prediction markets",
+          "kalshi",
+          "montana"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8977
+      },
+      {
         "id": "993982afc5763b49",
         "title": "Sun simulations reveal how cool prominences survive in million-degree corona",
         "url": "https://phys.org/news/2026-04-sun-simulations-reveal-cool-prominences.html",
@@ -1880,26 +1897,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9968
-      },
-      {
-        "id": "a8ba77da64a16ba2",
-        "title": "I thought I fixed my RAM spikes until I found these tasks hiding in Windows Scheduler",
-        "url": "https://www.makeuseof.com/fixed-ram-spikes-found-tasks-hiding-windows-scheduler/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1776794417000,
-        "summary": "Windows scheduled this… and I paid for it.",
-        "tags": [
-          "windows",
-          "windows tips",
-          "computer maintenance"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8472
       }
     ],
     "ai": [
+      {
+        "id": "1efc518cf2d9e4c4",
+        "title": "Anker THUS chip breaks computing rules to put big AI models on wearable devices",
+        "url": "https://www.techradar.com/ai-platforms-assistants/anker-thus-chip-breaks-computing-rules-to-put-big-ai-models-on-wearable-devices",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1776850200000,
+        "summary": "Anker thinks it's solved the riddle of how to get large models on tiny wearable devices, without eating all the battery power.",
+        "tags": [
+          "ai platforms &amp; assistants",
+          "audio"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9151
+      },
+      {
+        "id": "e18eb224c6829a5a",
+        "title": "Anker made its own chip to bring AI to all its products",
+        "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1776850200000,
+        "summary": "Anker has announced its own custom silicon that the company says will bring local AI to audio devices, mobile accessories, and IoT devices. The Thus processor is the world's first neural-net compute-in-memory AI audio chip, which is smaller than traditional chips, and requires less power to run complex computations. That makes it an attractive solution […]",
+        "tags": [
+          "chips",
+          "gadgets",
+          "headphones",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8527
+      },
       {
         "id": "d1f6db82b78a25ac",
         "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
@@ -1951,6 +1986,38 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7012
+      },
+      {
+        "id": "2ff5c23a67ef24c5",
+        "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+        "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776848566000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:6",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1206
+      },
+      {
+        "id": "e2c777657e38be3f",
+        "title": "Claude Desktop changes software permissions without consent",
+        "url": "https://www.reddit.com/r/technology/comments/1ssfwmb/claude_desktop_changes_software_permissions/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1776848231000,
+        "summary": "submitted by /u/rkhunter_ [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0121
       },
       {
         "id": "6069740edb702d69",
@@ -2762,65 +2829,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0653
-      },
-      {
-        "id": "1f86734a50688072",
-        "title": "Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers (The Keyword)",
-        "url": "http://www.techmeme.com/260421/p45#a260421p45",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776807600000,
-        "summary": "The Keyword: Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers — Built with Gemini 3.1 Pro, the new Deep Research agents bring MCP support, native visualizations and unprecedented analytical quality …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9802
-      },
-      {
-        "id": "783551c88e40cf3a",
-        "title": "From AI to iPhone Innovation: The Challenges Facing Apple's New CEO",
-        "url": "https://www.cnet.com/tech/mobile/challenges-facing-apples-new-ceo-john-ternus/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1776807000000,
-        "summary": "When John Ternus takes Apple's top spot on Sept. 1, he'll be tasked with tackling some key hurdles. His decades of experience will come in handy.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8698
-      },
-      {
-        "id": "638ca2ea3d66cc08",
-        "title": "'Pushpaganda is, at the highest level, a case of social engineering': Experts warn scammers are flooding Google Discover with AI-generated content spreading malicious notifications",
-        "url": "https://www.techradar.com/pro/pushpaganda-is-at-the-highest-level-a-case-of-social-engineering-experts-warn-scammers-are-flooding-google-discover-with-ai-generated-content-spreading-malicious-notifications",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776807000000,
-        "summary": "Pushpaganda uses AI-generated content and deceptive tactics to trick users into enabling notifications that deliver scams and evade traditional security defenses.",
-        "tags": [
-          "security",
-          "ai platforms &amp; assistants",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9143
-      },
-      {
-        "id": "271c3759ca85a8b5",
-        "title": "Supreme Court arguments make it clear that FCC fines are \"nonbinding\"",
-        "url": "https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776806907000,
-        "summary": "FCC tells Supreme Court its fines are nonbinding unless a jury upholds penalty.",
-        "tags": [
-          "policy",
-          "fcc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9826
       }
     ],
     "science": [
