@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:01:02.853514+00:00",
+  "generated_at": "2026-04-22T21:05:28.380757+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1925,6 +1925,21 @@
     ],
     "ai": [
       {
+        "id": "81e1d3f2234ca0b7",
+        "title": "Anthropic's Mythos Model Is Being Accessed by Unauthorized Users",
+        "url": "https://it.slashdot.org/story/26/04/22/2038241/anthropics-mythos-model-is-being-accessed-by-unauthorized-users?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1776891600000,
+        "summary": "Bloomberg reports that a small group of unauthorized users gained access to Anthropic's restricted Mythos model through a mix of contractor-linked access and online sleuthing. Anthropic says it is investigating and has no evidence the access extended beyond a third-party vendor environment or affected its own systems. From the report: The users relied on a mix of tactics to get into Mythos. These ",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0482
+      },
+      {
         "id": "02e338009a8272b5",
         "title": "X is going to let Grok curate your timeline",
         "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
@@ -2077,6 +2092,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9827
+      },
+      {
+        "id": "4bc2321fe0bf12e8",
+        "title": "VAST Data’s $30 billion valuation is a bet that the data layer is the real bottleneck in AI",
+        "url": "https://thenextweb.com/news/vast-data-1b-raise-30b-valuation-nvidia-ai-storage",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1776888223000,
+        "summary": "Summary: VAST Data raised $1 billion in a Series F at a $30 billion valuation, more than tripling from $9.1 billion, with Drive Capital and Access Industries co-leading and Nvidia, Fidelity, and NEA participating. More than $500 million is secondary capital. The company reports $4 billion in cumulative bookings, $500 million-plus in committed ARR, and […] This story continues at The Next Web",
+        "tags": [
+          "investors and funding",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9529
       },
       {
         "id": "46eed14b7247eeaa",
@@ -2901,40 +2932,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0162
-      },
-      {
-        "id": "485f4617aacdd31b",
-        "title": "Engineers develop a new system to track material design processes",
-        "url": "https://phys.org/news/2026-04-track-material.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1776872403000,
-        "summary": "Discovering and characterizing new materials is important for unlocking advances in fields like clean energy, advanced manufacturing, and improved infrastructure. Researchers use machine learning and other computational tools to help them, but the trial-and-error nature of the process creates specific challenges.",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0993
-      },
-      {
-        "id": "25ba167b4a552122",
-        "title": "Physicists think they've solved the muon mystery",
-        "url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776872402000,
-        "summary": "Results dash hopes for a fifth force but provide very precise proof of Standard Model and QFT.",
-        "tags": [
-          "science",
-          "muon",
-          "particle physics",
-          "physics",
-          "the standard model"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9879
       }
     ],
     "science": [
@@ -3002,6 +2999,23 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0964
+      },
+      {
+        "id": "abaccb9b4f686333",
+        "title": "SpaceX’s IPO filing says its orbital data centres may never work. Three months ago, Musk called them a no-brainer.",
+        "url": "https://thenextweb.com/news/spacex-orbital-data-centres-ipo-risk-disclosure",
+        "source": "The Next Web",
+        "lane": "science",
+        "published_ts": 1776889275000,
+        "summary": "Summary: SpaceX’s confidential S-1 pre-IPO filing warns that its orbital AI data centre plans “involve significant technical complexity and unproven technologies, and may not achieve commercial viability,” contradicting Elon Musk’s January claim at Davos that space-based AI was a “no-brainer” achievable within two to three years. The filing comes as SpaceX targets a $1.75 trillion […] This story c",
+        "tags": [
+          "insights",
+          "space",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9583
       },
       {
         "id": "36ddab64dc3ba903",
@@ -3842,21 +3856,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0191
-      },
-      {
-        "id": "9e6bbc1b3f386a1a",
-        "title": "Cold fronts in nearby galaxy group may redistribute metals, Chandra and GMRT data reveal",
-        "url": "https://phys.org/news/2026-04-cold-fronts-nearby-galaxy-group.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776862803000,
-        "summary": "Astronomers from South Africa and India have analyzed archival data from the Chandra X-ray Observatory and Giant Metrewave Radio Telescope (GMRT) regarding a nearby small galaxy group known as IC 1262. Results of the new study, presented April 14 on the preprint server arXiv, provide more insights into metal enrichment of IC 1262, which could help us better understand the nature of this group.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.019
       }
     ]
   },
