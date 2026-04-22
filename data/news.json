@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-04-22T08:47:49.369967+00:00",
+  "generated_at": "2026-04-22T08:58:12.421726+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "482891aeddb196a8",
+        "title": "Default BitLocker configuration isn’t enough: Defending endpoints against physical attacks",
+        "url": "https://www.techradar.com/pro/default-bitlocker-configuration-isnt-enough-defending-endpoints-against-physical-attacks",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1776848063000,
+        "summary": "Physical access attacks are no longer edge cases, they are a risk that organizations must actively plan for.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.849
+      },
       {
         "id": "28ed0cfd758436e5",
         "title": "Motorola Razr (2026) leak reveals one much-needed upgrade",
@@ -966,27 +981,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7881
-      },
-      {
-        "id": "41f840b2a69a779d",
-        "title": "Govee’s new rechargeable table lamp is less than half the price of Hue’s",
-        "url": "https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1776792387000,
-        "summary": "Nearly four years after Philips Hue launched its Go portable table lamp, Govee has announced its own version for less than half the price. While the Hue Go is currently listed for $175.99, the new Govee Table Lamp Classic has launched at $79.99. Assuming you're okay with never using it outside, Govee's alternative may be […]",
-        "tags": [
-          "gadgets",
-          "news",
-          "smart home",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7911
       }
     ],
     "innovation": [
+      {
+        "id": "5cb8a3f0e5aaaac1",
+        "title": "Apple Launches Tap to Pay on iPhone in Malaysia",
+        "url": "https://www.macrumors.com/2026/04/22/apple-tap-to-pay-on-iphone-in-malaysia/",
+        "source": "Mac Rumors",
+        "lane": "innovation",
+        "published_ts": 1776847891000,
+        "summary": "Apple has announced the availability of Tap to Pay on iPhone in Malaysia, allowing independent sellers, small merchants, and large retailers in the region to use ‌iPhones‌ as a payment terminal. Tap to Pay allows iPhones to accept payments via Apple Pay, contactless credit and debit cards, and other digital wallets‌‌‌. All transactions are encrypted, and Apple has no information about what is purc",
+        "tags": [
+          "malaysia",
+          "tap to pay on iphone"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9979
+      },
       {
         "id": "6588e94352983382",
         "title": "DIY Smart Button Gets Surprisingly Complicated",
@@ -1885,19 +1898,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1103
-      },
-      {
-        "id": "bc5a02e457ceda71",
-        "title": "All-hands: Tim Cook said he's stepping down now to ensure the \"best-ever transition,\" citing strong financials, an \"incredible\" pipeline, and Ternus' readiness (Mark Gurman/Bloomberg)",
-        "url": "http://www.techmeme.com/260421/p29#a260421p29",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776794101000,
-        "summary": "Mark Gurman / Bloomberg: All-hands: Tim Cook said he's stepping down now to ensure the “best-ever transition,” citing strong financials, an “incredible” pipeline, and Ternus' readiness — Apple Inc.'s Tim Cook, who's stepping down as chief executive officer later this year …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9994
       }
     ],
     "ai": [
@@ -1915,6 +1915,23 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9166
+      },
+      {
+        "id": "633ab10bfb39f9be",
+        "title": "NeoCognition raises $40M seed to build AI agents that specialise through experience rather than pre-training",
+        "url": "https://thenextweb.com/news/neocognition-40m-seed-self-learning-ai-agents",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1776847288000,
+        "summary": "The Palo Alto startup, spun out of Ohio State University by Yu Su, argues that current agents complete tasks as intended only half the time, a reliability gap it plans to close by giving agents a mechanism to build world models of the domains they operate in, learning on the job as a specialist rather […] This story continues at The Next Web",
+        "tags": [
+          "startups and technology",
+          "artificial intelligence",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9668
       },
       {
         "id": "5e033edc455f1aef",
@@ -1943,6 +1960,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1012
+      },
+      {
+        "id": "50935cf71de58c53",
+        "title": "Unauthorized users gained access to Anthropic’s restricted Mythos AI model on launch day via a third-party contractor’s environment",
+        "url": "https://thenextweb.com/news/anthropic-mythos-unauthorized-access-vendor-breach",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1776842870000,
+        "summary": "A small group communicating via a private Discord channel accessed Claude Mythos Preview by guessing the model’s URL on the same day Anthropic announced Project Glasswing. Anthropic says it is investigating and has found no evidence of impact to its core systems. The breach highlights the risks of restricting access to frontier AI capabilities through […] This story continues at The Next Web",
+        "tags": [
+          "anthropic",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9442
       },
       {
         "id": "aa6f0e22615ab809",
@@ -2785,41 +2818,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1519
-      },
-      {
-        "id": "fdf80ee6ee9cad98",
-        "title": "Claude Code to be removed from Anthropic's Pro plan?",
-        "url": "https://claude.com/pricing",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776805384000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:346"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2001
-      },
-      {
-        "id": "eb618d94aed0c47b",
-        "title": "Claude Code removed from Anthropic's Pro plan",
-        "url": "https://claude.com/pricing",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776805384000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:68"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2861
       }
     ],
     "science": [
+      {
+        "id": "13178731c8249a2d",
+        "title": "ATMOS Space Cargo raises €25.7M to build Europe’s first routine orbital return service",
+        "url": "https://thenextweb.com/news/atmos-space-cargo-25m-series-a-orbital-return-europe",
+        "source": "The Next Web",
+        "lane": "science",
+        "published_ts": 1776845581000,
+        "summary": "A year after flying and recovering the continent’s first private re-entry capsule, the German-French startup is moving from demonstration to operations. Three PHOENIX 2 vehicles, a new defence entity, and a next-generation 1-tonne capsule are all funded by the round. ATMOS Space Cargo, the European company developing orbital transport and re-entry vehicles, has closed a […] This story continues at",
+        "tags": [
+          "space",
+          "europe",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.887
+      },
       {
         "id": "0210e2e5c73a52a7",
         "title": "FBI Looks Into Dead or Missing Scientists Tied To Sensitive US Research",
@@ -3728,21 +3746,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8489
-      },
-      {
-        "id": "a859737a938e7b92",
-        "title": "High school journalism leading the way in financial literacy, even if business isn't part of curriculum",
-        "url": "https://phys.org/news/2026-04-high-school-journalism-financial-literacy.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776802804000,
-        "summary": "Journalism classes are usually not paired with business lessons. While there have been calls for increasing business knowledge in journalism, research from the University of Kansas has found that high school journalists are learning business skills even though they are not a core part of the curriculum.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
       }
     ]
   },
