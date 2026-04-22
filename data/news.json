@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T13:06:28.584746+00:00",
+  "generated_at": "2026-04-22T13:09:49.832861+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1856,6 +1856,19 @@
     ],
     "ai": [
       {
+        "id": "1fe272024c794f93",
+        "title": "Source: Mira Murati's TML signed a deal with Google Cloud, valued in single-digit billions, to access Google's latest AI systems built on Nvidia's GB300 chips (Rebecca Bellan/TechCrunch)",
+        "url": "http://www.techmeme.com/260422/p22#a260422p22",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776863156000,
+        "summary": "Rebecca Bellan / TechCrunch: Source: Mira Murati's TML signed a deal with Google Cloud, valued in single-digit billions, to access Google's latest AI systems built on Nvidia's GB300 chips — Former OpenAI executive Mira Murati's startup, Thinking Machines Lab, has signed a new multi-billion-dollar agreement to expand …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
         "id": "0423a9a2f706ffe4",
         "title": "Adobe will continue to learn your brand even after you've established brand guidelines – AI \"brand brain\" will help cut out 'inefficient processes and broken workflows'",
         "url": "https://www.techradar.com/pro/adobe-will-continue-to-learn-your-brand-even-after-youve-established-brand-guidelines-ai-brand-brain-will-help-cut-out-inefficient-processes-and-broken-workflows",
@@ -2747,53 +2760,34 @@
         "score": 1.1274
       },
       {
-        "id": "7301f17bbf6068bd",
-        "title": "AI scientists produce results without reasoning scientifically",
-        "url": "https://arxiv.org/abs/2604.18805",
+        "id": "8471920d4887e9b6",
+        "title": "Error-free Training for MedMNIST Datasets",
+        "url": "https://arxiv.org/abs/2604.18916",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scientific agents across eight domains, spanning workflow execution to hypothesis-driv",
-        "tags": [
-          "cs.ai",
-          "cond-mat.mtrl-sci",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9516
-      },
-      {
-        "id": "46abb5933f1e825f",
-        "title": "How Adversarial Environments Mislead Agentic AI?",
-        "url": "https://arxiv.org/abs/2604.18874",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18874v1 Announce Type: new Abstract: Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance creates a critical attack surface. Current evaluations benchmark capability in benign settings, asking \"can the agent use tools correctly\" but never \"what if the tools lie\". We identify this Trust Gap: agents are evaluated fo",
+        "summary": "arXiv:2604.18916v1 Announce Type: new Abstract: In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classification problem can be trained error-free, thus acquiring the capability of not making repeated mistakes. The method is applied to 18 MedMNIST biomedical datasets. Except for three datasets, which suffer from the double-lab",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9516
+        "score": 0.9506
       },
       {
-        "id": "60a3392c9b0e2600",
-        "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
-        "url": "https://arxiv.org/abs/2604.18882",
+        "id": "f81f384d8ed782ee",
+        "title": "AutomationBench",
+        "url": "https://arxiv.org/abs/2604.18934",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18882v1 Announce Type: new Abstract: We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm 1b) is fully machine-verified once bounded match scores are fixed. Freedom-to-operate, claim-construction sensitivity, cross-claim consistency, and doctrine-of-equivalents analyses are formalized at the specification level w",
+        "summary": "arXiv:2604.18934v1 Announce Type: new Abstract: Existing AI benchmarks for software automation rarely combine cross-application coordination, autonomous API discovery, and policy adherence. Real business workflows demand all three: a single task may span a CRM, inbox, calendar, and messaging platform - requiring the agent to find the right endpoints, follow a policy document, and write correct dat",
         "tags": [
-          "cs.ai",
-          "cs.lo",
-          "cs.pl"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9516
+        "score": 0.9506
       }
     ],
     "science": [
