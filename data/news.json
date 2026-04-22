@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-22T12:36:15.114615+00:00",
+  "generated_at": "2026-04-22T12:37:46.799343+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "74bc305359def446",
+        "title": "Microsoft facing $2.8 billion UK lawsuit for overcharging 60,000 businesses using Microsoft Server on other clouds — Azure users allegedly recieved lower wholesale pricing",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/microsoft-facing-usd2-8-billion-uk-lawsuit-for-overcharging-60-000-businesses-using-microsoft-server-on-other-clouds-azure-users-allegedly-recieved-lower-wholesale-pricing",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1776861390000,
+        "summary": "A lawsuit alleging the company is overcharging Windows Server for non-Azure users has been certified to proceed to trial, although Microsoft is still appealing the decision. The lawyer handling the case alleges that the claim affects almost 60,000 businesses and is worth about $2.8 billion.",
+        "tags": [
+          "big tech",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9496
+      },
       {
         "id": "ab7e9c301d41beab",
         "title": "Right to repair champ Framework punts modular 13in laptop with Core Ultra Series 3",
@@ -927,24 +943,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0472
-      },
-      {
-        "id": "a528fa74b6ebdc73",
-        "title": "This 8-in-1 power strip is the perfect travel companion at just $15",
-        "url": "https://www.androidpolice.com/this-8-in-1-power-strip-is-the-perfect-travel-companion-at-just-15/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1776804810000,
-        "summary": "You can't go wrong at 48% off",
-        "tags": [
-          "orico power brick",
-          "under $100",
-          "gadgets",
-          "best deals under $100"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9983
       }
     ],
     "innovation": [
@@ -1858,6 +1856,21 @@
     ],
     "ai": [
       {
+        "id": "7c321929d33a090e",
+        "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+        "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+        "source": "MIT Technology Review",
+        "lane": "ai",
+        "published_ts": 1776859800000,
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+        "tags": [
+          "the download"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1239
+      },
+      {
         "id": "0b47518091df534a",
         "title": "Google claims to have all the answers for enterprise AI agent sprawl",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_enterprise/",
@@ -2628,6 +2641,21 @@
         "score": 1.1274
       },
       {
+        "id": "55d89743a7c2f1f7",
+        "title": "Subgraph Concept Networks: Concept Levels in Graph Classification",
+        "url": "https://arxiv.org/abs/2604.18868",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776830400000,
+        "summary": "arXiv:2604.18868v1 Announce Type: new Abstract: The reasoning process of Graph Neural Networks is complex and considered opaque, limiting trust in their predictions. To alleviate this issue, prior work has proposed concept-based explanations, extracted from clusters in the model's node embeddings. However, a limitation of concept-based explanations is that they only explain the node embedding spac",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9604
+      },
+      {
         "id": "dbbaea675746c3aa",
         "title": "Gradient-Based Program Synthesis with Neurally Interpreted Languages",
         "url": "https://arxiv.org/abs/2604.18907",
@@ -2765,37 +2793,6 @@
         "tags": [
           "cs.lg",
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1158
-      },
-      {
-        "id": "6ef38d697be97017",
-        "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
-        "url": "https://arxiv.org/abs/2604.18788",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18788v1 Announce Type: new Abstract: Apple Neural Engine (ANE) is a dedicated neural processing unit (NPU) present in every Apple Silicon chip. Mixture-of-Experts (MoE) LLMs improve inference efficiency via sparse activation but are challenging for NPUs in three ways: expert routing is unpredictable and introduces dynamic tensor shapes that conflict with the shape-specific constraints o",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1158
-      },
-      {
-        "id": "dd5e2855e6506f9f",
-        "title": "The High Explosives and Affected Targets (HEAT) Dataset",
-        "url": "https://arxiv.org/abs/2604.18828",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18828v1 Announce Type: new Abstract: Artificial Intelligence (AI) surrogate models provide a computationally efficient alternative to full-physics simulations, but no public datasets currently exist for training and validating models of high-explosive-driven, multi-material shock dynamics. Simulating shock propagation is challenging due to the need for material-specific equations of sta",
-        "tags": [
-          "cs.lg",
-          "physics.comp-ph"
         ],
         "paywall": false,
         "impact": "high",
