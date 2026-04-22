@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T19:11:00.231284+00:00",
+  "generated_at": "2026-04-22T19:14:56.190796+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -989,6 +989,39 @@
     ],
     "innovation": [
       {
+        "id": "1e3cd7769450fc9b",
+        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+        "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1776885182000,
+        "summary": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+        "tags": [
+          "security",
+          "apple",
+          "ipad",
+          "iphone",
+          "privacy",
+          "signal"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7475
+      },
+      {
+        "id": "7625fb7bccef1b57",
+        "title": "Meta unveils Live Chats on Threads for real-time conversations during cultural events, launching first within the NBA Threads community during the playoffs (Aisha Malik/TechCrunch)",
+        "url": "http://www.techmeme.com/260422/p39#a260422p39",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776885013000,
+        "summary": "Aisha Malik / TechCrunch: Meta unveils Live Chats on Threads for real-time conversations during cultural events, launching first within the NBA Threads community during the playoffs — Threads is launching “Live Chats” to allow for real-time conversations during cultural events, the Meta-owned platform announced on Wednesday.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9985
+      },
+      {
         "id": "08c9144a64d2c7e7",
         "title": "Gates Foundation To Cut 20% of Staff, Review Epstein Ties",
         "url": "https://slashdot.org/story/26/04/22/195209/gates-foundation-to-cut-20-of-staff-review-epstein-ties?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1905,39 +1938,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9385
-      },
-      {
-        "id": "98d9a086a5343460",
-        "title": "3.4M Solar Panels",
-        "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1776859470000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:27"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2263
-      },
-      {
-        "id": "c45fc34c126a027d",
-        "title": "Appeals court revives Comanche challenge to Oklahoma tribal casino lawsuit",
-        "url": "https://readwrite.com/appeals-court-revives-comanche-oklahoma-warm-springs-tribal-casino-lawsuit/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1776859207000,
-        "summary": "A federal appeals court has given the Comanche Nation a mixed but meaningful win in its fight over the Warm… Continue reading Appeals court revives Comanche challenge to Oklahoma tribal casino lawsuit The post Appeals court revives Comanche challenge to Oklahoma tribal casino lawsuit appeared first on ReadWrite.",
-        "tags": [
-          "casino",
-          "oklahoma",
-          "tribes"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8993
       }
     ],
     "ai": [
@@ -2983,6 +2983,22 @@
         "score": 1.0171
       },
       {
+        "id": "022b15035483e4e9",
+        "title": "Scores decline again for 13-year-old students in reading and mathematics",
+        "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1776884240000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0441
+      },
+      {
         "id": "519e3d29eaf74e99",
         "title": "'A tabletop window into extreme physics': How graphene is breaking a fundamental law to unlock quantum computing",
         "url": "https://www.techradar.com/pro/a-tabletop-window-into-extreme-physics-how-graphene-is-breaking-a-fundamental-law-to-unlock-quantum-computing",
@@ -3810,52 +3826,38 @@
         "score": 1.0494
       },
       {
-        "id": "9b652afa0c940a50",
-        "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
-        "url": "https://arxiv.org/abs/2604.18838",
-        "source": "arXiv cs.AI",
+        "id": "8143247858869b51",
+        "title": "Fine-Tuning Small Reasoning Models for Quantum Field Theory",
+        "url": "https://arxiv.org/abs/2604.18936",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18838v1 Announce Type: new Abstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outlining methodologies, architectures, and training procedures, the study highlights significant differe",
+        "summary": "arXiv:2604.18936v1 Announce Type: new Abstract: Despite the growing application of Large Language Models (LLMs) to theoretical physics, there is little academic exploration into how domain-specific physics reasoning ability develops while training these models. To investigate this, we perform the first academic fine-tuning study of small (7B-parameter) reasoning models dedicated specifically to th",
         "tags": [
+          "cs.lg",
           "cs.ai",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8465
-      },
-      {
-        "id": "6a335320a99a94aa",
-        "title": "The Cost of Relaxation: Evaluating the Error in Convex Neural Network Verification",
-        "url": "https://arxiv.org/abs/2604.18728",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18728v1 Announce Type: new Abstract: Many neural network (NN) verification systems represent the network's input-output relation as a constraint program. Sound and complete, representations involve integer constraints, for simulating the activations. Recent works convexly relax the integer constraints, improving performance, at the cost of soundness. Convex relaxations consider outputs ",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8465
-      },
-      {
-        "id": "f3da9c2ce73a0523",
-        "title": "Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis",
-        "url": "https://arxiv.org/abs/2604.18765",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18765v1 Announce Type: new Abstract: Fault detection and diagnosis are critical for the optimal and safe operation of industrial processes. The correlations among sensors often display non-Euclidean structures where graph neural networks (GNNs) are widely used therein. However, for large-scale systems, local, global, and dynamic relations extensively exist among sensors, and traditional",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
+          "hep-ph",
+          "hep-th"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8465
+        "score": 0.8455
+      },
+      {
+        "id": "9e97f8964160a6f9",
+        "title": "Mechanistic Anomaly Detection via Functional Attribution",
+        "url": "https://arxiv.org/abs/2604.18970",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776830400000,
+        "summary": "arXiv:2604.18970v1 Announce Type: new Abstract: We can often verify the correctness of neural network outputs using ground truth labels, but we cannot reliably determine whether the output was produced by normal or anomalous internal mechanisms. Mechanistic anomaly detection (MAD) aims to flag these cases, but existing methods either depend on latent space analysis, which is vulnerable to obfuscat",
+        "tags": [
+          "cs.lg",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8455
       }
     ]
   },
