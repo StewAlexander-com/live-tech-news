@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T19:08:56.450291+00:00",
+  "generated_at": "2026-04-22T19:11:00.231284+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3810,52 +3810,52 @@
         "score": 1.0494
       },
       {
-        "id": "9e97f8964160a6f9",
-        "title": "Mechanistic Anomaly Detection via Functional Attribution",
-        "url": "https://arxiv.org/abs/2604.18970",
-        "source": "arXiv cs.LG",
+        "id": "9b652afa0c940a50",
+        "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+        "url": "https://arxiv.org/abs/2604.18838",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18970v1 Announce Type: new Abstract: We can often verify the correctness of neural network outputs using ground truth labels, but we cannot reliably determine whether the output was produced by normal or anomalous internal mechanisms. Mechanistic anomaly detection (MAD) aims to flag these cases, but existing methods either depend on latent space analysis, which is vulnerable to obfuscat",
+        "summary": "arXiv:2604.18838v1 Announce Type: new Abstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outlining methodologies, architectures, and training procedures, the study highlights significant differe",
         "tags": [
-          "cs.lg",
-          "cs.cr"
+          "cs.ai",
+          "quant-ph"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.8471
+        "impact": "high",
+        "score": 0.8465
       },
       {
-        "id": "f9177acb67940a22",
-        "title": "Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2604.19009",
+        "id": "6a335320a99a94aa",
+        "title": "The Cost of Relaxation: Evaluating the Error in Convex Neural Network Verification",
+        "url": "https://arxiv.org/abs/2604.18728",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.19009v1 Announce Type: new Abstract: Diffusion distillation, exemplified by Distribution Matching Distillation (DMD), has shown great promise in few-step generation but often sacrifices quality for sampling speed. While integrating Reinforcement Learning (RL) into distillation offers potential, a naive fusion of these two objectives relies on suboptimal raw sample evaluation. This sampl",
+        "summary": "arXiv:2604.18728v1 Announce Type: new Abstract: Many neural network (NN) verification systems represent the network's input-output relation as a constraint program. Sound and complete, representations involve integer constraints, for simulating the activations. Recent works convexly relax the integer constraints, improving performance, at the cost of soundness. Convex relaxations consider outputs ",
         "tags": [
           "cs.lg",
-          "cs.cv"
+          "cs.ai"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.8471
+        "impact": "high",
+        "score": 0.8465
       },
       {
-        "id": "263aa2538d8c3bc3",
-        "title": "FedProxy: Federated Fine-Tuning of LLMs via Proxy SLMs and Heterogeneity-Aware Fusion",
-        "url": "https://arxiv.org/abs/2604.19015",
+        "id": "f3da9c2ce73a0523",
+        "title": "Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis",
+        "url": "https://arxiv.org/abs/2604.18765",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.19015v1 Announce Type: new Abstract: Federated fine-tuning of Large Language Models (LLMs) is obstructed by a trilemma of challenges: protecting LLMs intellectual property (IP), ensuring client privacy, and mitigating performance loss on heterogeneous data. Existing methods like Offsite-Tuning (OT) secure the LLMs IP by having clients train only lightweight adapters, yet our analysis re",
+        "summary": "arXiv:2604.18765v1 Announce Type: new Abstract: Fault detection and diagnosis are critical for the optimal and safe operation of industrial processes. The correlations among sensors often display non-Euclidean structures where graph neural networks (GNNs) are widely used therein. However, for large-scale systems, local, global, and dynamic relations extensively exist among sensors, and traditional",
         "tags": [
           "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8538
+        "score": 0.8465
       }
     ]
   },
