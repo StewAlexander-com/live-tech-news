@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-04-22T13:02:57.672576+00:00",
+  "generated_at": "2026-04-22T13:06:28.584746+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "974a1fee446e94ba",
+        "title": "Even my technophobic mum found this Epson printer ridiculously easy to use — now the EcoTank gets a big price cut at Amazon",
+        "url": "https://www.techradar.com/pro/even-my-technophobic-mum-found-this-epson-printer-ridiculously-easy-to-use-now-the-ecotank-gets-a-big-price-cut-at-amazon",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1776862969000,
+        "summary": "If you're scouring the Amazon Tech Week sales, this is my top choice for simple home printing on a budget.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.849
+      },
+      {
+        "id": "8f988979f54d8379",
+        "title": "Yoshi and the Mysterious Book preview: A choose-your-own-adventure even adults can love",
+        "url": "https://www.engadget.com/gaming/nintendo/yoshi-and-the-mysterious-book-preview-a-choose-your-own-adventure-even-adults-can-love-130000507.html?src=rss",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1776862800000,
+        "summary": "Yoshi's solo titles have always been a product of contrasts: lovingly crafted art styles belying somewhat thin gameplay meant to appeal to a younger audience. But after getting the chance to preview Yoshi and the Mysterious Book, it feels like Nintendo has created a cozy side-scroller that retains the accessibility of earlier titles while adding extra depth and replayability for gamers of all ages",
+        "tags": [
+          "media",
+          "books & publishing",
+          "arts & entertainment",
+          "site|engadget",
+          "provider_name|engadget",
+          "region|us"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7025
+      },
       {
         "id": "f3c1c546ed3cab45",
         "title": "After months of waiting, I've finally played Yoshi's new game on Nintendo Switch 2 — and its whimsy-filled world and engaging exploration have me feeling hopeful",
@@ -910,37 +945,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8695
-      },
-      {
-        "id": "caa6ed7891d5c64d",
-        "title": "Home theater fans will be happy the LG G6 OLED TV fixes this overlooked picture issue its predecessors had — but there's a catch",
-        "url": "https://www.techradar.com/televisions/home-theater-fans-will-be-happy-the-lg-g6-oled-tv-fixes-this-overlooked-picture-issue-its-predecessors-had-but-theres-a-catch",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776808800000,
-        "summary": "The LG G6 fixes a long-running issue most prominent on LG's G-series OLEDs… for the most part.",
-        "tags": [
-          "televisions"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8494
-      },
-      {
-        "id": "2a7e46eb3c2d4c68",
-        "title": "Xbox Game Pass Ultimate drops to $22.99",
-        "url": "https://www.androidpolice.com/xbox-game-pass-ultimate-price-update/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1776808697000,
-        "summary": "That's a $7 haircut",
-        "tags": [
-          "xbox game pass",
-          "entertainment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9987
       }
     ],
     "innovation": [
@@ -2743,51 +2747,53 @@
         "score": 1.1274
       },
       {
-        "id": "e112b9375ab1e8f6",
-        "title": "Handling and Interpreting Missing Modalities in Patient Clinical Trajectories via Autoregressive Sequence Modeling",
-        "url": "https://arxiv.org/abs/2604.18753",
-        "source": "arXiv cs.LG",
+        "id": "7301f17bbf6068bd",
+        "title": "AI scientists produce results without reasoning scientifically",
+        "url": "https://arxiv.org/abs/2604.18805",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18753v1 Announce Type: new Abstract: An active challenge in developing multimodal machine learning (ML) models for healthcare is handling missing modalities during training and deployment. As clinical datasets are inherently temporal and sparse in terms of modality presence, capturing the underlying predictive signal via diagnostic multimodal ML models while retaining model explainabili",
+        "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evaluate LLM-based scientific agents across eight domains, spanning workflow execution to hypothesis-driv",
         "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9527
-      },
-      {
-        "id": "6ef38d697be97017",
-        "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
-        "url": "https://arxiv.org/abs/2604.18788",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18788v1 Announce Type: new Abstract: Apple Neural Engine (ANE) is a dedicated neural processing unit (NPU) present in every Apple Silicon chip. Mixture-of-Experts (MoE) LLMs improve inference efficiency via sparse activation but are challenging for NPUs in three ways: expert routing is unpredictable and introduces dynamic tensor shapes that conflict with the shape-specific constraints o",
-        "tags": [
+          "cs.ai",
+          "cond-mat.mtrl-sci",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9527
+        "score": 0.9516
       },
       {
-        "id": "dd5e2855e6506f9f",
-        "title": "The High Explosives and Affected Targets (HEAT) Dataset",
-        "url": "https://arxiv.org/abs/2604.18828",
-        "source": "arXiv cs.LG",
+        "id": "46abb5933f1e825f",
+        "title": "How Adversarial Environments Mislead Agentic AI?",
+        "url": "https://arxiv.org/abs/2604.18874",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776830400000,
-        "summary": "arXiv:2604.18828v1 Announce Type: new Abstract: Artificial Intelligence (AI) surrogate models provide a computationally efficient alternative to full-physics simulations, but no public datasets currently exist for training and validating models of high-explosive-driven, multi-material shock dynamics. Simulating shock propagation is challenging due to the need for material-specific equations of sta",
+        "summary": "arXiv:2604.18874v1 Announce Type: new Abstract: Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance creates a critical attack surface. Current evaluations benchmark capability in benign settings, asking \"can the agent use tools correctly\" but never \"what if the tools lie\". We identify this Trust Gap: agents are evaluated fo",
         "tags": [
-          "cs.lg",
-          "physics.comp-ph"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9527
+        "score": 0.9516
+      },
+      {
+        "id": "60a3392c9b0e2600",
+        "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
+        "url": "https://arxiv.org/abs/2604.18882",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776830400000,
+        "summary": "arXiv:2604.18882v1 Announce Type: new Abstract: We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm 1b) is fully machine-verified once bounded match scores are fixed. Freedom-to-operate, claim-construction sensitivity, cross-claim consistency, and doctrine-of-equivalents analyses are formalized at the specification level w",
+        "tags": [
+          "cs.ai",
+          "cs.lo",
+          "cs.pl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9516
       }
     ],
     "science": [
