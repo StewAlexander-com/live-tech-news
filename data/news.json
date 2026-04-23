@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-23T19:39:40.399849+00:00",
+  "generated_at": "2026-04-23T19:47:00.852240+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ec89e3e06209e8a4",
+        "title": "Meta is laying off 10 percent of its staff",
+        "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1776973267000,
+        "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments […]",
+        "tags": [
+          "ai",
+          "meta",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7905
+      },
       {
         "id": "25b701e0e1e770ed",
         "title": "Nothing’s new 'Essential Voice' wants to kill your mobile keyboard for good",
@@ -982,21 +1000,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9995
-      },
-      {
-        "id": "5894e8fbc1602a49",
-        "title": "'I was printing labels within ten minutes of opening the box': This can't-miss deal on the best shipping label printer our printing expert has ever tested is a dream for small businesses and retailers",
-        "url": "https://www.techradar.com/pro/i-was-printing-labels-within-ten-minutes-of-opening-the-box-this-cant-miss-deal-on-the-best-shipping-label-printer-our-printing-expert-has-ever-tested-is-a-dream-for-small-businesses-and-retailers",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776954787000,
-        "summary": "This one's quick, quiet, reliable, and actually fun to use.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8486
       }
     ],
     "innovation": [
@@ -2918,6 +2921,36 @@
     ],
     "science": [
       {
+        "id": "13523741281a0751",
+        "title": "Apple byproducts could power vehicles and feed livestock",
+        "url": "https://phys.org/news/2026-04-apple-byproducts-power-vehicles-livestock.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776973206000,
+        "summary": "A new study published in Biofuels, Bioproducts and Biorefining highlights an innovative approach to transforming apple pomace—an often-discarded by-product of apple processing—into valuable bioethanol and animal feed ingredients. Apple pomace, which represents 25%–30% of processed apples, is typically treated as waste despite its rich carbohydrate content and strong potential for bioconversion.",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
+        "id": "8e108a54ce2494e7",
+        "title": "From the Pampas to Patagonia, DNA reveals South America's human history",
+        "url": "https://phys.org/news/2026-04-pampas-patagonia-dna-reveals-south.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776973203000,
+        "summary": "A new genetic study shows that cultural diversity in the so-called Southern Cone—the roughly triangular southernmost part of South America—was strongly influenced by extensive human migration. An international research team led by the Senckenberg Center for Human Evolution and Paleoenvironment at the University of Tübingen and involving several institutions in South America analyzed the genetic ma",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
         "id": "f575ea2d155f8635",
         "title": "Legal categories for animals still divide—and limit—animal rights",
         "url": "https://phys.org/news/2026-04-legal-categories-animals-limit-animal.html",
@@ -3777,65 +3810,37 @@
         "score": 1.0198
       },
       {
-        "id": "de099ee8000c7065",
-        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
-        "url": "https://arxiv.org/abs/2604.19930",
+        "id": "7112570f628e3bd2",
+        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
+        "url": "https://arxiv.org/abs/2604.20109",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
+        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
         "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1306
-      },
-      {
-        "id": "1026993190eb6e7d",
-        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
-        "url": "https://arxiv.org/abs/2604.20082",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1306
-      },
-      {
-        "id": "083794843712d41c",
-        "title": "Skyline-First Traversal as a Control Mechanism for Multi-Criteria Graph Search",
-        "url": "https://arxiv.org/abs/2604.19807",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19807v1 Announce Type: new Abstract: In multi-criteria graph traversal, paths are compared via Pareto dominance, an ordering that identifies which paths are non-dominated, but says nothing about which path to expand next or when the search may stop. As a result, existing approaches rely on external mechanisms-heuristics, scalarization, or population-based exploration while Pareto domina",
-        "tags": [
+          "cs.lg",
           "cs.ai",
-          "cs.ds"
+          "math.oc"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.0468
+        "impact": "normal",
+        "score": 0.7748
       },
       {
-        "id": "f0fc05a4347b3d5b",
-        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
-        "url": "https://arxiv.org/abs/2604.20077",
+        "id": "d451b5ef4d96c696",
+        "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
+        "url": "https://arxiv.org/abs/2604.20188",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
+        "summary": "arXiv:2604.20188v1 Announce Type: new Abstract: Learning the underlying potential energy of stochastic gradient systems from partial and noisy observations is a fundamental problem arising in physics, chemistry, and data-driven modeling. Classical approaches often rely on direct regression of governing equations or velocity fields, which can be sensitive to noise and external perturbations and may",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "math.ds"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.0468
+        "impact": "normal",
+        "score": 0.7748
       }
     ]
   },
