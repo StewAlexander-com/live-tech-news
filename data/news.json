@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-04-23T02:59:00.389191+00:00",
+  "generated_at": "2026-04-23T03:54:14.269990+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "04ae5764b0f2ab51",
+        "title": "Android 17 QPR1 Beta 1 hits Pixel devices",
+        "url": "https://www.androidpolice.com/android-17-qpr1-beta-1-hits-pixel-devices/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1776916320000,
+        "summary": "Moving on to the next round",
+        "tags": [
+          "android 17",
+          "beta 1",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9993
+      },
       {
         "id": "2847c332d670f143",
         "title": "What John Ternus told me a decade ago and why I'm convinced he's the CEO Apple needs now",
@@ -946,22 +963,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8111
-      },
-      {
-        "id": "9e64bd19f57b0194",
-        "title": "Android's hidden memory monitor shows which apps are secretly draining your RAM",
-        "url": "https://www.makeuseof.com/your-android-phone-has-a-built-in-ram-monitor-most-people-never-open/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1776873618000,
-        "summary": "Time to open the Dev options on your phone",
-        "tags": [
-          "android",
-          "google pixel"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8493
       }
     ],
     "innovation": [
@@ -982,6 +983,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0659
+      },
+      {
+        "id": "180ccb9861e36394",
+        "title": "Kubernetes explains the release that kills Ingress NGINX with Japanese poetry and art",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/kubernetes_1_36_haru/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1776908681000,
+        "summary": "Release team sets new standard for release notes by linking between Version 1.36 and classic print The Great Wave off Kanagawa Kubernetes issued a new release called “Haru” on Wednesday, and the release notes and logo might be more interesting than the software.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0878
       },
       {
         "id": "c4350e6877770e46",
@@ -1008,6 +1022,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1305
+      },
+      {
+        "id": "1b00dc2ed684d878",
+        "title": "A woman spent months in Maryland jails because of unchecked facial recognition technology",
+        "url": "https://www.reddit.com/r/technology/comments/1st3wzi/a_woman_spent_months_in_maryland_jails_because_of/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1776905867000,
+        "summary": "submitted by /u/Abject-Pick-6472 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8977
       },
       {
         "id": "c880f7102ee3ff66",
@@ -1860,39 +1889,53 @@
         "paywall": false,
         "impact": "high",
         "score": 1.077
-      },
-      {
-        "id": "5a019c9382311418",
-        "title": "There Are Corrections, and There Are Corrections",
-        "url": "https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1776881790000,
-        "summary": "The New York Times (gift link): A correction was made on April 21, 2026: Because of an editing error, an earlier version of this article misstated which day the New York Mets suffered their 11th straight loss. It was on Sunday, not Monday. Even the Mets cannot lose on an off day. This is to New York Times corrections what “Headless Body in Topless Bar” was to New York Post headlines — perfection. ",
-        "tags": [],
-        "paywall": true,
-        "impact": "normal",
-        "score": 0.8095
-      },
-      {
-        "id": "c71d263a402c7166",
-        "title": "Windows keeps a complete history of every USB device ever connected to your PC",
-        "url": "https://www.makeuseof.com/windows-keeps-complete-history-every-usb-device-ever-connected-to-pc/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1776880818000,
-        "summary": "It survives reboots, updates, and years of inactivity — Windows never cleans it up.",
-        "tags": [
-          "windows",
-          "windows registry",
-          "usb drive"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8475
       }
     ],
     "ai": [
+      {
+        "id": "7536484f3ba138ec",
+        "title": "OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US (OpenAI)",
+        "url": "http://www.techmeme.com/260422/p54#a260422p54",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776914102000,
+        "summary": "OpenAI: OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US — Built for clinical work, ChatGPT for Clinicians is now available for free to verified individual clinicians in the U.S.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9875
+      },
+      {
+        "id": "ccaab513b675c316",
+        "title": "‘Simply by doing their daily work’: Meta tracks staff activity to teach AI how to replace them",
+        "url": "https://www.techradar.com/pro/simply-by-doing-their-daily-work-meta-tracks-staff-activity-to-teach-ai-how-to-replace-them",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1776913200000,
+        "summary": "Meta is using detailed tracking of employee activity to train AI systems that could eventually take over routine workplace tasks",
+        "tags": [
+          "pro",
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9022
+      },
+      {
+        "id": "d80135a3c00c1388",
+        "title": "Anthropic has surged to a trillion-dollar valuation on secondary markets, overtaking OpenAI.",
+        "url": "https://www.reddit.com/r/technology/comments/1st6fxr/anthropic_has_surged_to_a_trilliondollar/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1776912705000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9311
+      },
       {
         "id": "e51bed14095be449",
         "title": "Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin (Bloomberg)",
@@ -1931,6 +1974,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0659
+      },
+      {
+        "id": "4f9a440f430fca7b",
+        "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative",
+        "url": "https://www.reddit.com/r/technology/comments/1st58bt/meta_is_tracking_employee_keystrokes_on_google/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1776909445000,
+        "summary": "submitted by /u/WouldbeWanderer [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9882
       },
       {
         "id": "a98ae3eae496aa34",
@@ -2801,74 +2859,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8051
-      },
-      {
-        "id": "e18eb224c6829a5a",
-        "title": "Anker made its own chip to bring AI to all its products",
-        "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776877846000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9884
-      },
-      {
-        "id": "f1de7eed961f3a97",
-        "title": "Google unveils two new TPUs designed for the \"agentic era\"",
-        "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776877832000,
-        "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
-        "tags": [
-          "ai",
-          "google",
-          "artificial intelligence",
-          "generative ai",
-          "google",
-          "tpus"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9988
-      },
-      {
-        "id": "ebcfc418381acfb5",
-        "title": "MythosWatch: Tracking who has access to Anthropic's Mythos AI",
-        "url": "https://www.mythoswatch.org/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776877546000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.118
-      },
-      {
-        "id": "a4c9125dddd219bd",
-        "title": "Core Automation, co-founded by ex-OpenAI VP Jerry Tworek, launches to build \"the world's most automated AI lab\" with talent from OpenAI, Anthropic, and DeepMind (Business Insider)",
-        "url": "http://www.techmeme.com/260422/p35#a260422p35",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776877254000,
-        "summary": "Business Insider: Core Automation, co-founded by ex-OpenAI VP Jerry Tworek, launches to build “the world's most automated AI lab” with talent from OpenAI, Anthropic, and DeepMind — - A new AI startup, Core Automation, has entered the chat. — Started by an ex-OpenAI researcher, it has …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0756
       }
     ],
     "science": [
+      {
+        "id": "bfa8ce744f52a9d9",
+        "title": "Nearly Half of US Children Are Breathing Dangerous Levels of Air Pollution",
+        "url": "https://news.slashdot.org/story/26/04/22/2345209/nearly-half-of-us-children-are-breathing-dangerous-levels-of-air-pollution?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1776915000000,
+        "summary": "An anonymous reader quotes a report from the Guardian: Nearly half of children in the United States are breathing dangerous levels of air pollution, according to a new report, as experts warned Donald Trump's expansive rollback of protections will make the situation worse. The 27th annual air quality report from the American Lung Association (ALA) released on Wednesday evaluates pollution across t",
+        "tags": [
+          "usa"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0419
+      },
       {
         "id": "991fc48b353ad237",
         "title": "Accelerating drug discovery with fragment screening",
@@ -3782,21 +3790,6 @@
         "summary": "Students with special needs are often missing out on critical areas of math instruction—especially data processing, statistics and probability—raising concerns about their readiness for real-world problem-solving. A new study of Finland's lower secondary schools takes a closer look at what special education teachers are actually teaching, how prepared they feel, and how consistently they use prove",
         "tags": [
           "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
-      },
-      {
-        "id": "b00bbad5e013d9cf",
-        "title": "A new route for plasma-based particle accelerators",
-        "url": "https://phys.org/news/2026-04-route-plasma-based-particle.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776868805000,
-        "summary": "Plasma, the fourth state of matter, consists of a gas in which electrons are no longer bound to atoms, which allows electricity to flow freely. When beams of particles moving close to the speed of light travel through plasma, they disturb electrons and drive so-called plasma waves.",
-        "tags": [
-          "optics & photonics"
         ],
         "paywall": false,
         "impact": "high",
