@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T22:28:46.579170+00:00",
+  "generated_at": "2026-04-23T22:34:03.454300+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1934,6 +1934,24 @@
     ],
     "ai": [
       {
+        "id": "dcef53991bee43fd",
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1776983231000,
+        "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such […]",
+        "tags": [
+          "ai",
+          "anthropic",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8535
+      },
+      {
         "id": "611b09985984a4e1",
         "title": "'We love you, and we want you to win' — OpenAI releases GPT-5.5 for ChatGPT",
         "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/we-love-you-and-we-want-you-to-win-openai-releases-gpt-5-5-for-chatgpt",
@@ -2865,22 +2883,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9166
-      },
-      {
-        "id": "dcac17533654e602",
-        "title": "Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1776965303000,
-        "summary": "Rachel Metz, reporting for Bloomberg: A small group of unauthorized users have accessed Anthropic PBC’s new Mythos AI model, a technology that the company says is so powerful it can enable dangerous cyberattacks, according to a person familiar with the matter and documentation viewed by Bloomberg News. A handful of users in a private online forum gained access to Mythos on the same day that Anthro",
-        "tags": [],
-        "paywall": true,
-        "impact": "normal",
-        "score": 0.8716
       }
     ],
     "science": [
+      {
+        "id": "5efe3373f7c8094c",
+        "title": "Giant octopuses may have ruled the oceans 100 million years ago",
+        "url": "https://phys.org/news/2026-04-giant-octopuses-oceans-million-years.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776983402000,
+        "summary": "Today's octopuses are intelligent, remarkably flexible animals that lurk in reefs, hide in crevices, or drift through the deep sea. But new research suggests that their earliest relatives may have played a far more predatory role in ocean ecosystems. A study led by researchers at Hokkaido University has found that the earliest known octopuses were giant predators that hunted at the very top of the",
+        "tags": [
+          "evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0187
+      },
       {
         "id": "f2083e312ff5d897",
         "title": "Life's earliest proteins may have folded into complex shapes with far fewer amino acids",
@@ -3798,21 +3818,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0995
-      },
-      {
-        "id": "1874d3c6360cd6d0",
-        "title": "New study highlights private–public partnership advancing coastal resilience in Woods Hole",
-        "url": "https://phys.org/news/2026-04-highlights-privatepublic-partnership-advancing-coastal.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776956401000,
-        "summary": "A new paper published in Frontiers in Marine Science presents lessons learned from and practical strategies for how small coastal communities can respond to increasing risks from sea-level rise and coastal flooding through coordinated actions, as outlined by the ResilientWoodsHole (RWH) initiative.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.018
       }
     ]
   },
