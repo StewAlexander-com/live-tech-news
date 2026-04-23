@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-04-23T10:53:50.777489+00:00",
+  "generated_at": "2026-04-23T11:15:38.740764+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "8569866acc3e162f",
+        "title": "Samsung is finally building the wide Galaxy Fold we asked for, but I'm already disappointed",
+        "url": "https://www.androidpolice.com/samsung-wide-fold-problem/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1776942190000,
+        "summary": "Samsung's wide Galaxy Fold sounds great, but there's a catch",
+        "tags": [
+          "foldable phones",
+          "samsung",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.996
+      },
+      {
+        "id": "156499cb38214e86",
+        "title": "A new 4K projector with the ‘world’s first 3-in-1 optical system’ is now available — and it can remember your walls",
+        "url": "https://www.techradar.com/televisions/projectors/a-new-4k-projector-with-the-worlds-first-3-in-1-optical-system-is-now-available-and-it-can-remember-your-walls",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1776941911000,
+        "summary": "The new N3 Ultimate projector from JMGO combines lens shift, gimbal and optical zoom in a single system",
+        "tags": [
+          "projectors",
+          "televisions",
+          "home theater"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8453
+      },
       {
         "id": "22e2f4d89981453e",
         "title": "If malware via monitor cables is a matter of national security, this might be the gadget for you",
@@ -925,40 +959,68 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8475
-      },
-      {
-        "id": "dc10e24613ad6524",
-        "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
-        "url": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1776880703000,
-        "summary": "Coffee is what gets many of us through the workday, and a proper smart mug can keep it hot for hours so you can maintain your focus without constantly getting up to reheat your cup. Thankfully, if you don’t own one, the 14-ounce Ember Mug 2 is now available for $97.49 ($52 off) from Amazon, […]",
-        "tags": [
-          "deals",
-          "gadgets",
-          "tech",
-          "verge shopping"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7892
-      },
-      {
-        "id": "141fa640cb207eb7",
-        "title": "Linux may get a hall pass from one state age-check bill, but Congress plays hall monitor",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/linux_us_state_age_verificaiton_laws/",
-        "source": "The Register",
-        "lane": "gadgets",
-        "published_ts": 1776880525000,
-        "summary": "Colorado amendments could exempt open source OSes, code repos, and containers The prospect of OS-level age checks applying to open source systems is a serious concern for FOSS advocates. Campaigners appear to have secured proposed exemptions for open source operating systems, code repositories, and containers in one US state, but stricter federal legislation has already been introduced in Congress",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0453
       }
     ],
     "innovation": [
+      {
+        "id": "f72031d5a6f4bcea",
+        "title": "France-based Univity, which seeks to build 3,400 VLEO satellites to reduce Europe's reliance on Starlink, raised €27M, bringing its total funding to €68M (Gianluca Lo Nostro/Reuters)",
+        "url": "http://www.techmeme.com/260423/p23#a260423p23",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776942303000,
+        "summary": "Gianluca Lo Nostro / Reuters: France-based Univity, which seeks to build 3,400 VLEO satellites to reduce Europe's reliance on Starlink, raised €27M, bringing its total funding to €68M — Univity, a satellite internet startup backed by the French state, said on Thursday it had closed a 27 million euro ($32 million) …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0763
+      },
+      {
+        "id": "5185aee5c6b94632",
+        "title": "KernelUNO, An OS For The Arduino Uno",
+        "url": "https://hackaday.com/2026/04/23/kerneluno-an-os-for-the-arduino-uno/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1776942035000,
+        "summary": "If you were to point to a single device responsible for much of Hackaday’s early success, it might be the Arduino Uno. The little board from an Italian university with …read more",
+        "tags": [
+          "arduino hacks",
+          "arduino uno",
+          "operating system",
+          "os"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0748
+      },
+      {
+        "id": "9a9397d63dec5785",
+        "title": "Apple fixes a bug that stored notifications for deleted messages on iPhone and iPad, following a report that police used it to extract deleted Signal messages (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+        "url": "http://www.techmeme.com/260423/p22#a260423p22",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776942032000,
+        "summary": "Lorenzo Franceschi-Bicchierai / TechCrunch: Apple fixes a bug that stored notifications for deleted messages on iPhone and iPad, following a report that police used it to extract deleted Signal messages — Apple released a software update on Wednesday for iPhones and iPads fixing a bug that allowed law enforcement to extract messages …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0748
+      },
+      {
+        "id": "3e915bf830c46c8f",
+        "title": "53 Nations Gather To Plan a Fossil Fuel Phaseout",
+        "url": "https://news.slashdot.org/story/26/04/23/0432254/53-nations-gather-to-plan-a-fossil-fuel-phaseout?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1776942000000,
+        "summary": "Ancient Slashdot reader hwstar shares a report from The Conversation: For the first time ever, more than 50 nations will gather next week in Colombia to hash out how to wind down and end their dependence on coal, oil and gas. The history-making conference was planned before the Iran war. But this year's energy crisis has greatly raised the stakes. [...] Around 80% of the trapped oil was destined f",
+        "tags": [
+          "earth"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0447
+      },
       {
         "id": "8dfdfb08693379f3",
         "title": "Sportradar denies short seller claims of links to illegal betting",
@@ -1802,69 +1864,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8491
-      },
-      {
-        "id": "dd92402905076028",
-        "title": "IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops 7%+ after hours (Jordan Novet/CNBC)",
-        "url": "http://www.techmeme.com/260422/p45#a260422p45",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776891905000,
-        "summary": "Jordan Novet / CNBC: IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops 7%+ after hours — IBM shares slipped 6% in extended trading on Wednesday after the hardware, software and consulting provider reported stronger …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0222
-      },
-      {
-        "id": "10de3dca8c31419b",
-        "title": "IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops ~6% after hours (Jordan Novet/CNBC)",
-        "url": "http://www.techmeme.com/260422/p45#a260422p45",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776891905000,
-        "summary": "Jordan Novet / CNBC: IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops ~6% after hours — IBM shares slipped 6% in extended trading on Wednesday after the hardware, software and consulting provider reported stronger …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0769
-      },
-      {
-        "id": "7cf62f9443721e07",
-        "title": "ServiceNow stock sinks 14% as subscription revenue takes hit from Iran war",
-        "url": "https://www.reddit.com/r/technology/comments/1ssy37n/servicenow_stock_sinks_14_as_subscription_revenue/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1776891538000,
-        "summary": "submitted by /u/joe4942 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9327
-      },
-      {
-        "id": "3ff6ad6083476178",
-        "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
-        "url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1776891441000,
-        "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
-        "tags": [
-          "transportation",
-          "earnings",
-          "elon musk",
-          "evs",
-          "tesla"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8069
       }
     ],
     "ai": [
+      {
+        "id": "9a00df0b69382281",
+        "title": "The next AI arms race: governance as trust",
+        "url": "https://www.techradar.com/pro/the-next-ai-arms-race-governance-as-trust",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1776942074000,
+        "summary": "How frameworks like ISO 42001 turn governance into a measurable competitive advantage.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9138
+      },
+      {
+        "id": "c5ab023218627c07",
+        "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
+        "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1776942000000,
+        "summary": "Topics can range from \"School,\" \"Entertainment,\" and \"Lifestyle\" to \"Travel,\" \"Writing,\" and \"Health and Wellbeing,\" among others, Meta says.",
+        "tags": [
+          "apps",
+          "social",
+          "meta",
+          "meta ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8038
+      },
       {
         "id": "9da1ad011a2d5d87",
         "title": "U.S. Commerce Secretary says Nvidia still hasn't sold any H200 AI GPUs to China — Chinese government is blocking imports in an attempt to push domestic semiconductor industry",
@@ -1982,6 +2017,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0231
+      },
+      {
+        "id": "da6af7e9e9515ef3",
+        "title": "Do you want the US to \"win\" AI?",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1776937280000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:12"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1002
       },
       {
         "id": "31848d747cd9a12d",
@@ -2743,54 +2794,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9821
-      },
-      {
-        "id": "6cbc00433635301f",
-        "title": "Base Mac Mini Sold Out From Apple Online Store",
-        "url": "https://www.macrumors.com/2026/04/22/base-mac-mini-sold-out-from-apple-online-store/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1776895184000,
-        "summary": "Apple appears to be sold out of the base Mac mini, and the machine is listed as “Currently Unavailable” from the Apple Online Store. The base ‌Mac mini‌ is the model with an M4 chip, 256GB of storage, and 16GB RAM. M4 Mac mini models with upgraded storage are still in stock, as are ‌Mac mini‌ models that are equipped with the M4 Pro chip. Configurations with 24GB RAM are also still available, but ",
-        "tags": [
-          "featured",
-          "mac mini"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0772
-      },
-      {
-        "id": "ac492f015c055c23",
-        "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1776893984000,
-        "summary": "And that unauthorized access? 'A nothing burger,' hacking startup CEO tells El Reg Anthropic's Mythos model is purportedly so good at finding vulnerabilities that the Claude-maker is afraid to make it available to the general public for fear that criminals will take advantage. But early analysis shows that Mythos may not be as dangerous as some would have you believe.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0474
-      },
-      {
-        "id": "a135e154a3fddbec",
-        "title": "AI Overviews bring conversational email-finding to Gmail",
-        "url": "https://www.androidpolice.com/gmail-gets-ai-overviews/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1776893640000,
-        "summary": "Want to find that one specific email? Talk to your inbox",
-        "tags": [
-          "gmail",
-          "utilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0793
       }
     ],
     "science": [
+      {
+        "id": "12c2ce9e6dfb9791",
+        "title": "Could glass be dethroned as wine's top packaging? Researchers unbox consumer perceptions of wine packaging",
+        "url": "https://phys.org/news/2026-04-glass-dethroned-wine-packaging-unbox.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776942003000,
+        "summary": "With nearly 400 years under its cork, glass is still the top choice for consumers when it comes to packaging preferences for wine, but sustainability concerns may open the way to other container types, a study by food science and economics researchers has found.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0149
+      },
+      {
+        "id": "bdc7dc1ae84980e8",
+        "title": "Study finds consumers pay extra for cars just under multiples of 10,000 miles",
+        "url": "https://phys.org/news/2026-04-consumers-pay-extra-cars-multiples.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776942001000,
+        "summary": "Think you're shopping intelligently for a used car? New research from the McCombs School of Business at The University of Texas at Austin suggests you might be overly influenced by the first digit on the odometer, when you're determining the car's worth. The study is published in the Journal of Marketing Research.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0149
+      },
       {
         "id": "a7a9318c6e96648d",
         "title": "S-1 excerpts: SpaceX says its total addressable market could be as much as $28.5T, with $26.5T from the AI sector, most of it from AI for businesses (Reuters)",
@@ -3694,36 +3730,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
-      },
-      {
-        "id": "98d1e2104a00b783",
-        "title": "Discovery of new polymer class provides compostable alternative to conventional thermoplastics",
-        "url": "https://phys.org/news/2026-04-discovery-polymer-class-compostable-alternative.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776876004000,
-        "summary": "Researchers at the University of Bayreuth have discovered a new class of polymers as part of the work carried out within the Collaborative Research Center (CRC) 1357 Microplastics. These polymers are characterized by biodegradable and recyclable properties and can also be processed in a more sustainable way. The researchers report their findings in the journal Small.",
-        "tags": [
-          "polymers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0187
-      },
-      {
-        "id": "4d5b6220c1b54e72",
-        "title": "Ames's contributions to Artemis II",
-        "url": "https://phys.org/news/2026-04-ames-contributions-artemis-ii.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776874808000,
-        "summary": "NASA successfully sent four astronauts around the moon for the first time in more than 50 years, setting the stage for future lunar landing missions. As the agency continues to push the bounds of space exploration, NASA's Ames Research Center in California's Silicon Valley provided essential support in preparing for the mission.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0154
       }
     ]
   },
