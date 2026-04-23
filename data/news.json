@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T15:50:33.515599+00:00",
+  "generated_at": "2026-04-23T15:53:36.576045+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1244,7 +1244,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.028
+        "score": 1.2725
       },
       {
         "id": "48eeb1515495c4d5",
@@ -2750,105 +2750,102 @@
         "score": 1.0658
       },
       {
-        "id": "cc46d25636bf8fe7",
-        "title": "Using Learning Theories to Evolve Human-Centered XAI: Future Perspectives and Challenges",
-        "url": "https://arxiv.org/abs/2604.19788",
+        "id": "6905f4c1fa5d627e",
+        "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+        "url": "https://arxiv.org/abs/2604.19751",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19788v1 Announce Type: new Abstract: As Artificial Intelligence (AI) systems continue to grow in size and complexity, so does the difficulty of the quest for AI transparency. In a world of large models and complex AI systems, why do we explain AI and what should we explain? While explanations serve multiple functions, in the face of complexity humans have used and continue to use explan",
+        "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, o",
         "tags": [
-          "cs.ai",
-          "cs.hc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9028
-      },
-      {
-        "id": "9f7bfbeba64e12e3",
-        "title": "OpenCLAW-P2P v6.0: Resilient Multi-Layer Persistence, Live Reference Verification, and Production-Scale Evaluation of Decentralized AI Peer Review",
-        "url": "https://arxiv.org/abs/2604.19792",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19792v1 Announce Type: new Abstract: This paper presents OpenCLAW-P2P v6.0, a comprehensive evolution of the decentralized collective-intelligence platform in which autonomous AI agents publish, peer-review, score, and iteratively improve scientific research papers without any human gatekeeper. Building on v5.0 foundations -- tribunal-gated publishing, multi-LLM granular scoring, calibr",
-        "tags": [
-          "cs.ai",
-          "cs.dc",
-          "cs.ma",
-          "cs.ne"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9028
-      },
-      {
-        "id": "8c9c161c3a149d59",
-        "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
-        "url": "https://arxiv.org/abs/2604.19800",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. ",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.sy",
-          "eess.sy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9028
-      },
-      {
-        "id": "34665fe21fe88add",
-        "title": "A Multi-Plant Machine Learning Framework for Emission Prediction, Forecasting, and Control in Cement Manufacturing",
-        "url": "https://arxiv.org/abs/2604.19903",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19903v1 Announce Type: new Abstract: Cement production is among the largest contributors to industrial air pollution, emitting ~3 Mt NOx/year. The industry-standard mitigation approach, selective non-catalytic reduction (SNCR), exhibits low NH3 utilization efficiency, resulting in operational inefficiencies and increased reagent costs. Here, we develop a data-driven framework for emissi",
-        "tags": [
-          "cs.lg",
           "cs.ai",
           "cs.cy"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9028
+        "score": 0.9019
       },
       {
-        "id": "8cd692fb76a6222e",
-        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
-        "url": "https://arxiv.org/abs/2604.19979",
-        "source": "arXiv cs.LG",
+        "id": "8ebc7bb10920c3a5",
+        "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+        "url": "https://arxiv.org/abs/2604.19753",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
+        "summary": "arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our app",
         "tags": [
-          "cs.lg",
-          "cs.ce",
-          "cs.cv"
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9108
+        "score": 0.9019
       },
       {
-        "id": "a4d4f15a26645b2e",
-        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
-        "url": "https://arxiv.org/abs/2604.20019",
+        "id": "3d47945c05881033",
+        "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+        "url": "https://arxiv.org/abs/2604.19754",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9019
+      },
+      {
+        "id": "8298f12c4a66679c",
+        "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+        "url": "https://arxiv.org/abs/2604.19761",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19761v1 Announce Type: new Abstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many structured prediction problems, where the main bottleneck is not parameter fitting but discovering what should be computed from the data. Success ofte",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9019
+      },
+      {
+        "id": "577934516d943b25",
+        "title": "Replicable Bandits with UCB based Exploration",
+        "url": "https://arxiv.org/abs/2604.20024",
         "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
+        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9108
+        "score": 0.9019
+      },
+      {
+        "id": "302ed61405f99ec9",
+        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
+        "url": "https://arxiv.org/abs/2604.20062",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
+        "tags": [
+          "cs.lg",
+          "cs.cr",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9019
       }
     ],
     "science": [
