@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-23T03:58:09.223528+00:00",
+  "generated_at": "2026-04-23T04:09:24.587583+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "869e279a044fdff8",
+        "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
+        "url": "https://arxiv.org/abs/2604.19835",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19835v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) has become the dominant architecture for scaling large language models: frontier models routinely decouple total parameters from per-token computation through sparse expert routing. Scaling laws show that under fixed active computation, model quality scales predictably with total parameters, and MoEs realize this by increasin",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0468
+      },
       {
         "id": "04ae5764b0f2ab51",
         "title": "Android 17 QPR1 Beta 1 hits Pixel devices",
@@ -950,22 +966,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8493
-      },
-      {
-        "id": "a708ed72139159ef",
-        "title": "Premier League Soccer 2026: Watch Burnley vs. Man City Live",
-        "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-2026-watch-burnley-vs-man-city-live/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1776873674000,
-        "summary": "Pep Guardiola's men have the chance to go top with a win against their near-neighbors.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8111
       }
     ],
     "innovation": [
+      {
+        "id": "f484b6bfd4951f27",
+        "title": "Hidden Reliability Risks in Large Language Models: Systematic Identification of Precision-Induced Output Disagreements",
+        "url": "https://arxiv.org/abs/2604.19790",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19790v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed under diverse numerical precision configurations, including standard floating-point formats (e.g., bfloat16 and float16) and quantized integer formats (e.g., int16 and int8), to meet efficiency and resource constraints. However, minor inconsistencies between LLMs of different precisions are diffi",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0468
+      },
       {
         "id": "4f351c80dc3e7281",
         "title": "Courier Health, which develops an AI-powered biopharma platform for managing the end-to-end patient experience, raised a $50M Series B led by Oak HC/FT (Heather Landi/Fierce Healthcare)",
@@ -1870,22 +1889,208 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9985
-      },
-      {
-        "id": "f41fb5c87fc06498",
-        "title": "GitHub opts all CLI users into telemetry collection whether they want it or not",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/github_opts_all_cli_users/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1776882789000,
-        "summary": "Opt-out instructions included if you're not keen on GitHub watching you in the name of product improvement Users of GitHub's command-line interface (CLI) who value privacy, beware. The Microsoft-owned code-hosting platform has quietly begun collecting pseudonymous client-side telemetry from CLI users and enabled it by default.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0478
       }
     ],
     "ai": [
+      {
+        "id": "6905f4c1fa5d627e",
+        "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+        "url": "https://arxiv.org/abs/2604.19751",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19751v1 Announce Type: new Abstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, o",
+        "tags": [
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "8ebc7bb10920c3a5",
+        "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+        "url": "https://arxiv.org/abs/2604.19753",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19753v1 Announce Type: new Abstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our app",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "3d47945c05881033",
+        "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+        "url": "https://arxiv.org/abs/2604.19754",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "8298f12c4a66679c",
+        "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+        "url": "https://arxiv.org/abs/2604.19761",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19761v1 Announce Type: new Abstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many structured prediction problems, where the main bottleneck is not parameter fitting but discovering what should be computed from the data. Success ofte",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "cc46d25636bf8fe7",
+        "title": "Using Learning Theories to Evolve Human-Centered XAI: Future Perspectives and Challenges",
+        "url": "https://arxiv.org/abs/2604.19788",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19788v1 Announce Type: new Abstract: As Artificial Intelligence (AI) systems continue to grow in size and complexity, so does the difficulty of the quest for AI transparency. In a world of large models and complex AI systems, why do we explain AI and what should we explain? While explanations serve multiple functions, in the face of complexity humans have used and continue to use explan",
+        "tags": [
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "9f7bfbeba64e12e3",
+        "title": "OpenCLAW-P2P v6.0: Resilient Multi-Layer Persistence, Live Reference Verification, and Production-Scale Evaluation of Decentralized AI Peer Review",
+        "url": "https://arxiv.org/abs/2604.19792",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19792v1 Announce Type: new Abstract: This paper presents OpenCLAW-P2P v6.0, a comprehensive evolution of the decentralized collective-intelligence platform in which autonomous AI agents publish, peer-review, score, and iteratively improve scientific research papers without any human gatekeeper. Building on v5.0 foundations -- tribunal-gated publishing, multi-LLM granular scoring, calibr",
+        "tags": [
+          "cs.ai",
+          "cs.dc",
+          "cs.ma",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "8c9c161c3a149d59",
+        "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
+        "url": "https://arxiv.org/abs/2604.19800",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "34665fe21fe88add",
+        "title": "A Multi-Plant Machine Learning Framework for Emission Prediction, Forecasting, and Control in Cement Manufacturing",
+        "url": "https://arxiv.org/abs/2604.19903",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19903v1 Announce Type: new Abstract: Cement production is among the largest contributors to industrial air pollution, emitting ~3 Mt NOx/year. The industry-standard mitigation approach, selective non-catalytic reduction (SNCR), exhibits low NH3 utilization efficiency, resulting in operational inefficiencies and increased reagent costs. Here, we develop a data-driven framework for emissi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "8cd692fb76a6222e",
+        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
+        "url": "https://arxiv.org/abs/2604.19979",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
+        "tags": [
+          "cs.lg",
+          "cs.ce",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "a4d4f15a26645b2e",
+        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
+        "url": "https://arxiv.org/abs/2604.20019",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "577934516d943b25",
+        "title": "Replicable Bandits with UCB based Exploration",
+        "url": "https://arxiv.org/abs/2604.20024",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "302ed61405f99ec9",
+        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
+        "url": "https://arxiv.org/abs/2604.20062",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
+        "tags": [
+          "cs.lg",
+          "cs.cr",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
       {
         "id": "7536484f3ba138ec",
         "title": "OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US (OpenAI)",
@@ -2656,206 +2861,103 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9986
-      },
-      {
-        "id": "898280231d40a005",
-        "title": "OpenAI: Workspace Agents for Business",
-        "url": "https://openai.com/business/workspace-agents/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776881047000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:12"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0381
-      },
-      {
-        "id": "72d923cca9681406",
-        "title": "Google's Gemini for Home Is Bringing Back Continued Conversations",
-        "url": "https://www.cnet.com/home/smart-home/google-gemini-for-home-continued-conversations-return/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1776880891000,
-        "summary": "The feature lets you keep talking to the speaker without having to say, \"Hey, Google,\" at the beginning of every request.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8156
-      },
-      {
-        "id": "445ec5958d1f1119",
-        "title": "Google Unveils Two New AI Chips For the 'Agentic Era'",
-        "url": "https://tech.slashdot.org/story/26/04/22/1746252/google-unveils-two-new-ai-chips-for-the-agentic-era?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1776880800000,
-        "summary": "Google announced two new tensor processing units (TPUs) for the \"agentic era,\" with separate processors dedicated to training and inference. \"With the rise of AI agents, we determined the community would benefit from chips individually specialized to the needs of training and serving,\" Amin Vahdat, a Google senior vice president and chief technologist for AI and infrastructure, said in a blog post",
-        "tags": [
-          "google",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1305
-      },
-      {
-        "id": "90ac39013d25b2ff",
-        "title": "Geekom's 'tiny powerhouse' A7 Max AI Mini PC for creators, home offices and power users gets a massive price cut",
-        "url": "https://www.techradar.com/pro/geekoms-tiny-powerhouse-a7-max-ai-mini-pc-for-creators-home-offices-and-power-users-gets-a-massive-price-cut",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1776880626000,
-        "summary": "Geekom's \"tiny powerhouse\" A7 Max AI Mini PC is powered by an AMD Ryzen 9 7940HS processor and 16GB DDR5 RAM, and it's yours for $150 off.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9143
-      },
-      {
-        "id": "4eafb43db4f8005b",
-        "title": "Coyote vs. Acme is finally getting released—with a killer trailer",
-        "url": "https://arstechnica.com/culture/2026/04/coyote-vs-acme-is-finally-getting-released-with-a-killer-trailer/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776880509000,
-        "summary": "What was Warner Bros. even thinking, shelving this film for so many years?",
-        "tags": [
-          "culture",
-          "coyote vs acme",
-          "entertainment",
-          "film trailers",
-          "ketchup entertainment",
-          "trailers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9584
-      },
-      {
-        "id": "c489f0e34c39bc70",
-        "title": "Workspace Agents in ChatGPT",
-        "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776880027000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:7"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0396
-      },
-      {
-        "id": "80c67fbd04d9115b",
-        "title": "Pichai opens Cloud Next 2026 with $240B backlog, 750M Gemini users, and a plan to turn Search into an agent manager",
-        "url": "https://thenextweb.com/news/google-cloud-next-pichai-agentic-era-scale",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776879987000,
-        "summary": "Summary: Sundar Pichai opened Cloud Next 2026 with Google Cloud at $70 billion in annual revenue, 48% growth, a $240 billion backlog that doubled in a year, and $175-185 billion in planned capital expenditure. The Gemini app has 750 million monthly users, AI Overviews reach two billion, and the Gemini API processed 85 billion requests […] This story continues at The Next Web",
-        "tags": [
-          "google",
-          "insights",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9648
-      },
-      {
-        "id": "d71679ae2e5c6674",
-        "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-        "url": "https://www.reddit.com/r/technology/comments/1ssspo5/openai_faces_criminal_probe_over_role_of_chatgpt/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776879933000,
-        "summary": "submitted by /u/Direct_Dare_9699 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9076
-      },
-      {
-        "id": "e0fa3617d1d103a4",
-        "title": "Google says 75% of new code created inside the company is now generated by AI and reviewed by human engineers, up from 50% last fall (Hugh Langley/Business Insider)",
-        "url": "http://www.techmeme.com/260422/p36#a260422p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776879902000,
-        "summary": "Hugh Langley / Business Insider: Google says 75% of new code created inside the company is now generated by AI and reviewed by human engineers, up from 50% last fall — - Three-quarters of new code at Google is being generated by AI, the company said. — The number has been steadily increasing as the company pushes staff to adopt AI tools.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0782
-      },
-      {
-        "id": "43481df6195c0dfc",
-        "title": "Parallel Agents in Zed",
-        "url": "https://zed.dev/blog/parallel-agents",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776879537000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:16"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1234
-      },
-      {
-        "id": "2d79b29b8403e8cd",
-        "title": "Google turns Chrome into an AI co-worker for the workplace",
-        "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1776879000000,
-        "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-        "tags": [
-          "ai",
-          "enterprise",
-          "chrome",
-          "google",
-          "gemini",
-          "google cloud next"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7826
-      },
-      {
-        "id": "72783e321a40452f",
-        "title": "Google turns Chrome into an AI coworker for the workplace",
-        "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1776879000000,
-        "summary": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-        "tags": [
-          "enterprise",
-          "ai",
-          "chrome",
-          "google",
-          "gemini",
-          "google cloud next"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8051
       }
     ],
     "science": [
+      {
+        "id": "de099ee8000c7065",
+        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
+        "url": "https://arxiv.org/abs/2604.19930",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "1026993190eb6e7d",
+        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
+        "url": "https://arxiv.org/abs/2604.20082",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1306
+      },
+      {
+        "id": "083794843712d41c",
+        "title": "Skyline-First Traversal as a Control Mechanism for Multi-Criteria Graph Search",
+        "url": "https://arxiv.org/abs/2604.19807",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.19807v1 Announce Type: new Abstract: In multi-criteria graph traversal, paths are compared via Pareto dominance, an ordering that identifies which paths are non-dominated, but says nothing about which path to expand next or when the search may stop. As a result, existing approaches rely on external mechanisms-heuristics, scalarization, or population-based exploration while Pareto domina",
+        "tags": [
+          "cs.ai",
+          "cs.ds"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0468
+      },
+      {
+        "id": "f0fc05a4347b3d5b",
+        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
+        "url": "https://arxiv.org/abs/2604.20077",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0468
+      },
+      {
+        "id": "7112570f628e3bd2",
+        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
+        "url": "https://arxiv.org/abs/2604.20109",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0468
+      },
+      {
+        "id": "d451b5ef4d96c696",
+        "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
+        "url": "https://arxiv.org/abs/2604.20188",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20188v1 Announce Type: new Abstract: Learning the underlying potential energy of stochastic gradient systems from partial and noisy observations is a fundamental problem arising in physics, chemistry, and data-driven modeling. Classical approaches often rely on direct regression of governing equations or velocity fields, which can be sensitive to noise and external perturbations and may",
+        "tags": [
+          "cs.lg",
+          "math.ds"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0468
+      },
       {
         "id": "bfa8ce744f52a9d9",
         "title": "Nearly Half of US Children Are Breathing Dangerous Levels of Air Pollution",
@@ -3698,96 +3800,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0959
-      },
-      {
-        "id": "d4bdf3813b248650",
-        "title": "How cells turn mechanical forces into biochemical signals",
-        "url": "https://phys.org/news/2026-04-cells-mechanical-biochemical.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776870026000,
-        "summary": "Cells constantly probe their environments, searching for physical cues that guide their behavior. And yet a cell's response to its environment is always biochemical, mediated by the chemistry of its internal protein machinery. So how does a cell convert mechanical information into a molecular process? It's a long-standing mystery of cell biology, with various implications for cancer and other dise",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "1d4eaa6dcf4699b0",
-        "title": "A vast Indigenous American genome map exposes lost migrations, ancient ancestry and more than a million new variants",
-        "url": "https://phys.org/news/2026-04-vast-indigenous-american-genome-exposes.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776870018000,
-        "summary": "Research into human genomic diversity has a number of applications in biomedicine, evolution, and history. However, many populations have historically been underrepresented on the human genomic map. This is the case of Native American populations, whose history of adaptation and genetic diversity remains largely unknown.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0975
-      },
-      {
-        "id": "ac3ebfeef6a7d3eb",
-        "title": "Laser-plasma 'mirror' unlocks a new path to extreme light intensities",
-        "url": "https://phys.org/news/2026-04-laser-plasma-mirror-path-extreme.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776870014000,
-        "summary": "An international team of physicists has achieved a significant advance in laser science, demonstrating for the first time a practical route to dramatically boosting the intensity of high-power laser light.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0975
-      },
-      {
-        "id": "bc4bd65d524c9530",
-        "title": "Particle thought to break physics followed rules all along, research reveals",
-        "url": "https://phys.org/news/2026-04-particle-thought-physics-reveals.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776870006000,
-        "summary": "A tiny discrepancy in particle physics has loomed for decades as an exciting possible crack in one of science's most successful theories, hinting at unknown forces or quantum objects. Now, an international team led by a Penn State physicist has published the most precise study yet to reveal the discrepancy was a fluke in calculation, not nature.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0974
-      },
-      {
-        "id": "9d5c3cbdd2d1754f",
-        "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots",
-        "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
-        "source": "Quanta Magazine",
-        "lane": "science",
-        "published_ts": 1776869387000,
-        "summary": "With a newly discovered mathematical tool, researchers are hoping to gain unprecedented insight into the structure of complex knots. The post A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots first appeared on Quanta Magazine",
-        "tags": [
-          "mathematics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1462
-      },
-      {
-        "id": "6b5cece576b86326",
-        "title": "Lessons from Finland: Researcher reveals gaps in special education math instruction",
-        "url": "https://phys.org/news/2026-04-lessons-finland-reveals-gaps-special.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776868806000,
-        "summary": "Students with special needs are often missing out on critical areas of math instruction—especially data processing, statistics and probability—raising concerns about their readiness for real-world problem-solving. A new study of Finland's lower secondary schools takes a closer look at what special education teachers are actually teaching, how prepared they feel, and how consistently they use prove",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
       }
     ]
   },
