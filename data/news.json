@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T19:47:00.852240+00:00",
+  "generated_at": "2026-04-23T19:50:14.387204+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2007,6 +2007,21 @@
         "score": 0.7011
       },
       {
+        "id": "4f0337460d79a658",
+        "title": "Tinder is making users scan their eyes using Sam Altman's identity verification project as “proof of humanity” and to combat AI bot profiles",
+        "url": "https://www.reddit.com/r/technology/comments/1stsoii/tinder_is_making_users_scan_their_eyes_using_sam/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1776972231000,
+        "summary": "submitted by /u/IndicaOatmeal [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
+      {
         "id": "965b693044914851",
         "title": "What we lose when AI does our shopping",
         "url": "https://phys.org/news/2026-04-ai-1.html",
@@ -2899,24 +2914,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.999
-      },
-      {
-        "id": "b749d72eeeee0916",
-        "title": "OpenAI’s new image model reasons before it draws",
-        "url": "https://thenextweb.com/news/openai-chatgpt-images-2-0-reasoning-image-generation",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776950699000,
-        "summary": "The new model reasons about composition, searches the web for context, generates up to eight coherent images from one prompt, and renders text in non-Latin scripts with near-flawless accuracy. It also took the number one spot on the Image Arena leaderboard within 12 hours of launch, by the largest margin ever recorded. Two years ago, […] This story continues at The Next Web",
-        "tags": [
-          "launch",
-          "artificial intelligence",
-          "next featured",
-          "design"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9567
       }
     ],
     "science": [
@@ -3810,37 +3807,34 @@
         "score": 1.0198
       },
       {
-        "id": "7112570f628e3bd2",
-        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
-        "url": "https://arxiv.org/abs/2604.20109",
+        "id": "de099ee8000c7065",
+        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
+        "url": "https://arxiv.org/abs/2604.19930",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
+        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
         "tags": [
-          "cs.lg",
-          "cs.ai",
-          "math.oc"
+          "cs.lg"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7748
+        "impact": "high",
+        "score": 0.836
       },
       {
-        "id": "d451b5ef4d96c696",
-        "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
-        "url": "https://arxiv.org/abs/2604.20188",
+        "id": "1026993190eb6e7d",
+        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
+        "url": "https://arxiv.org/abs/2604.20082",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1776916800000,
-        "summary": "arXiv:2604.20188v1 Announce Type: new Abstract: Learning the underlying potential energy of stochastic gradient systems from partial and noisy observations is a fundamental problem arising in physics, chemistry, and data-driven modeling. Classical approaches often rely on direct regression of governing equations or velocity fields, which can be sensitive to noise and external perturbations and may",
+        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
         "tags": [
-          "cs.lg",
-          "math.ds"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7748
+        "score": 0.836
       }
     ]
   },
