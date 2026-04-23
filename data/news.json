@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-04-23T15:06:01.195965+00:00",
+  "generated_at": "2026-04-23T15:10:58.578402+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "edbc8fa8060803b0",
+        "title": "Don't Wait for the iPhone 18. Just Get Apple's iPhone 17",
+        "url": "https://www.cnet.com/tech/mobile/dont-wait-for-the-iphone-18-its-fine-to-buy-the-iphone-17/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1776956893000,
+        "summary": "Commentary: If you want a new iPhone, get Apple's iPhone 17. The iPhone 18 is still too far away, and we don't know enough about it to justify the wait.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8193
+      },
+      {
+        "id": "81b7f20fae4cadfc",
+        "title": "Apple Lowers Savings Account Rate for Apple Card Users",
+        "url": "https://www.macrumors.com/2026/04/23/apple-lowers-savings-account-rate-apple-card/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1776956859000,
+        "summary": "The interest rate on Apple Card's savings account was today lowered from 3.65% to 3.50%. Push notifications regarding the cut were sent to ‌Apple Card‌ users on Thursday. Savings account interest rates often fluctuate with changes made by the Federal Reserve, and when rates are lowered, banks cut their annual percentage yield (APY). That said, today's cut doesn't appear tied to a specific Federal ",
+        "tags": [
+          "apple card"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9989
+      },
       {
         "id": "28133135510ce69f",
         "title": "Crimson Desert's biggest update yet has arrived, adding three new difficulty modes and storage content, as Pearl Abyss teases a new way to 'face off against the bosses of your choice' soon",
@@ -953,41 +981,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8062
-      },
-      {
-        "id": "3d92610f88a1ebdc",
-        "title": "I finally replaced Android Auto voice commands with one-tap shortcuts, and they just work better",
-        "url": "https://www.androidpolice.com/replaced-android-auto-voice-commands-with-shortcuts/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1776938410000,
-        "summary": "This is how I use Android Auto without relying on voice",
-        "tags": [
-          "android auto app",
-          "google",
-          "best reads",
-          "operating systems",
-          "android police's best reads"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9598
-      },
-      {
-        "id": "40be32706b9e0a05",
-        "title": "Clayface trailer reveals first 'super freaky' look at the Tom Rhys Harries-led DC comic book movie — and fans are 'honestly happy' with what little it tells us about its plot",
-        "url": "https://www.techradar.com/streaming/entertainment/clayface-trailer-reveals-first-super-freaky-look-at-the-tom-rhys-harries-led-dc-comic-book-movie-and-fans-are-honestly-happy-with-what-little-it-tells-us-about-its-plot",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776938400000,
-        "summary": "DC Studios has released the 'genuinely terrifying' first teaser for its new body horror film.",
-        "tags": [
-          "entertainment",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8476
       }
     ],
     "innovation": [
@@ -2694,6 +2687,38 @@
         "score": 1.0658
       },
       {
+        "id": "577934516d943b25",
+        "title": "Replicable Bandits with UCB based Exploration",
+        "url": "https://arxiv.org/abs/2604.20024",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9143
+      },
+      {
+        "id": "302ed61405f99ec9",
+        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
+        "url": "https://arxiv.org/abs/2604.20062",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1776916800000,
+        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
+        "tags": [
+          "cs.lg",
+          "cs.cr",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9143
+      },
+      {
         "id": "6905f4c1fa5d627e",
         "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
         "url": "https://arxiv.org/abs/2604.19751",
@@ -2823,38 +2848,6 @@
           "cs.lg",
           "cs.ai",
           "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1306
-      },
-      {
-        "id": "8cd692fb76a6222e",
-        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
-        "url": "https://arxiv.org/abs/2604.19979",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
-        "tags": [
-          "cs.lg",
-          "cs.ce",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1306
-      },
-      {
-        "id": "a4d4f15a26645b2e",
-        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
-        "url": "https://arxiv.org/abs/2604.20019",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1776916800000,
-        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
