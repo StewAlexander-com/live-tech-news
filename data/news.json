@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T22:03:57.949430+00:00",
+  "generated_at": "2026-04-23T22:11:03.106155+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1001,6 +1001,19 @@
     ],
     "innovation": [
       {
+        "id": "92b8316ab6b806ea",
+        "title": "Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office (ABC News)",
+        "url": "http://www.techmeme.com/260423/p60#a260423p60",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1776982203000,
+        "summary": "ABC News: Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office — The bet was allegedly placed by a commando involved in Nicolas Maduro's capture. — Katherine Faulders, Aaron Katersky, Peter Charalambous, and Alexander Mallin",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9997
+      },
+      {
         "id": "a0924d3b576c617d",
         "title": "Warner Bros Shareholders Approve Paramount's $81 Billion Takeover",
         "url": "https://entertainment.slashdot.org/story/26/04/23/1940241/warner-bros-shareholders-approve-paramounts-81-billion-takeover?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1914,19 +1927,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9398
-      },
-      {
-        "id": "18f628bef5c04133",
-        "title": "Vercel says some customer accounts were compromised prior to its early-April breach, potentially through social engineering, malware, or other methods (Zack Whittaker/TechCrunch)",
-        "url": "http://www.techmeme.com/260423/p38#a260423p38",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776957301000,
-        "summary": "Zack Whittaker / TechCrunch: Vercel says some customer accounts were compromised prior to its early-April breach, potentially through social engineering, malware, or other methods — App and website hosting giant Vercel on Thursdays said hackers had accessed some of its customers' data before the company discovered …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9974
       }
     ],
     "ai": [
@@ -2718,6 +2718,19 @@
         "score": 1.2895
       },
       {
+        "id": "1c311bef38e0c154",
+        "title": "Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency (Kurt Wagner/Bloomberg)",
+        "url": "http://www.techmeme.com/260423/p46#a260423p46",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1776966436000,
+        "summary": "Kurt Wagner / Bloomberg: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency — Meta Platforms Inc. plans to cut 10% of workers, or roughly 8,000 employees, in an effort to boost efficiency and offset its heavy spending on artificial intelligence.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9923
+      },
+      {
         "id": "4b6b75b49cbf5813",
         "title": "Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency (Kurt Wagner/Bloomberg)",
         "url": "http://www.techmeme.com/260423/p46#a260423p46",
@@ -2854,22 +2867,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0108
-      },
-      {
-        "id": "3a475f80c94741c7",
-        "title": "From Tea Leaves to AI: Why Today's High-Tech Predictions Are So Dangerous",
-        "url": "https://www.cnet.com/tech/services-and-software/ai-prediction-machine-learning-algorithms-prophecy-power-commentary/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1776963651000,
-        "summary": "Guest column: For centuries, humans looked to seers and astrologers to determine fate. Today, we look to algorithms, and the loss of agency is the same.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8673
       }
     ],
     "science": [
+      {
+        "id": "a36f878f779d5afa",
+        "title": "We think norms spread by imitation, but one deceptively simple rule tells a more human story",
+        "url": "https://phys.org/news/2026-04-norms-imitation-deceptively-simple-human.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1776982202000,
+        "summary": "A paper appearing in Proceedings of the National Academy of Sciences offers a strikingly simple answer to a longstanding question: How do people learn and settle on shared social conventions, from everyday habits to workplace norms? Researchers from the CUNY Graduate Center, the University of Pennsylvania, and Stanford University have found that people do not primarily learn by copying others or b",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
       {
         "id": "3c6aa73ee35f1348",
         "title": "AI accelerators deliver accurate models for challenging quantum chemistry calculations",
@@ -2914,6 +2929,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
+      },
+      {
+        "id": "cea4e8c00d2fcc34",
+        "title": "Carbon nanotube wiring gets closer to competing with copper",
+        "url": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
+        "source": "Ars Technica Science",
+        "lane": "science",
+        "published_ts": 1776979329000,
+        "summary": "While this material degrades over time, it could point to better ones.",
+        "tags": [
+          "science",
+          "carbon nanotubes",
+          "chemistry",
+          "conductivity",
+          "doping",
+          "materials science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0632
       },
       {
         "id": "a2857038f77ee4fd",
@@ -2974,6 +3009,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0197
+      },
+      {
+        "id": "5888387ed068b06f",
+        "title": "We still don't have a more precise value for \"Big G\"",
+        "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+        "source": "Ars Technica Science",
+        "lane": "science",
+        "published_ts": 1776977855000,
+        "summary": "Such experiments bring \"order to the universe, whether or not the number agrees with the expected value.”",
+        "tags": [
+          "science",
+          "big g",
+          "fundamental constants",
+          "gravitational constant",
+          "physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9767
       },
       {
         "id": "0d255994b1f25218",
@@ -3743,52 +3797,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0193
-      },
-      {
-        "id": "33138f2671bc57e9",
-        "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
-        "url": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776953401000,
-        "summary": "Researchers in the US and Germany have unveiled a theoretical blueprint for an atomic clock driven by a highly synchronized laser, where atoms work in concert rather than independently. Publishing their results in Physical Review Letters, Jarrod Reilly at the University of Colorado, Simon Jäger at the University of Bonn, and their colleagues in the US and Germany revived an idea first proposed in ",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1
-      },
-      {
-        "id": "21aa3b54ddc49fd6",
-        "title": "For All Mankind creators drop first 'pulse-pounding' trailer for Star City — and I think the new Apple TV sci-fi space race drama could be even darker",
-        "url": "https://www.techradar.com/streaming/apple-tv-plus/star-city-for-all-mankind-trailer",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1776952860000,
-        "summary": "Star City, a new space race drama from the creators of For All Mankind, has just launched its first trailer — and sci-fi on Apple TV has never been darker.",
-        "tags": [
-          "apple tv",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8463
-      },
-      {
-        "id": "2eb89d8a57939f3f",
-        "title": "Scientists discover how the Twelve Apostles were formed—and their real age",
-        "url": "https://phys.org/news/2026-04-scientists-twelve-apostles-real-age.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776952805000,
-        "summary": "Scientists at the University of Melbourne have uncovered for the first time how Australia's iconic Twelve Apostles were formed, finding tectonic plate movements over millions of years lifted and tilted the giant structures out of the sea.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0153
       }
     ]
   },
