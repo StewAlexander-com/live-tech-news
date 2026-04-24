@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T18:11:07.438890+00:00",
+  "generated_at": "2026-04-24T18:23:11.995722+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -306,6 +306,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8469
+      },
+      {
+        "id": "a00fa1817ba9c098",
+        "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+        "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1777047409000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:8"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0083
       },
       {
         "id": "457f66a5ff08db4e",
@@ -987,19 +1003,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7915
-      },
-      {
-        "id": "ee5aa719264face8",
-        "title": "Apple's Next CEO Has a Different Battle Ahead",
-        "url": "https://www.cnet.com/tech/apples-next-ceo-has-a-different-battle-ahead/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1777034940000,
-        "summary": "There's plenty of exciting hardware on the horizon for Apple, but everything is riding on a better Siri experience.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8066
       }
     ],
     "innovation": [
@@ -2002,6 +2005,19 @@
         "score": 0.9906
       },
       {
+        "id": "c1a0ba4fdf4ee0d8",
+        "title": "Sources: JPMorgan and other banks struggled to spread the risk of billions in loans they made to build data centers leased to Oracle in Texas and Wisconsin (Wall Street Journal)",
+        "url": "http://www.techmeme.com/260424/p27#a260424p27",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777052402000,
+        "summary": "Wall Street Journal: Sources: JPMorgan and other banks struggled to spread the risk of billions in loans they made to build data centers leased to Oracle in Texas and Wisconsin — The AI boom has hit a funding snag, compounding power constraints and a growing public backlash against data centers",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0651
+      },
+      {
         "id": "b8706661413af539",
         "title": "Sources: JPMorgan Chase and other banks struggled to spread the risk of billions in loans they made for data centers leased to Oracle in Texas and Wisconsin (Wall Street Journal)",
         "url": "http://www.techmeme.com/260424/p27#a260424p27",
@@ -2216,6 +2232,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8667
+      },
+      {
+        "id": "3749527c194654c4",
+        "title": "Google plans to invest up to $40 billion in Anthropic",
+        "url": "https://www.reddit.com/r/technology/comments/1sukegf/google_plans_to_invest_up_to_40_billion_in/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777047555000,
+        "summary": "submitted by /u/pdfu [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.913
       },
       {
         "id": "46f39cfb1e7108e9",
@@ -2879,38 +2910,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9167
-      },
-      {
-        "id": "e6d69137f4ffc74e",
-        "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1777030914000,
-        "summary": "OpenAI's first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs Black Hat Asia Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI's first security hire.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "4e1bebafa0265f48",
-        "title": "Intel beats expectations for the sixth straight quarter as AI demand for CPUs surges",
-        "url": "https://thenextweb.com/news/intel-q1-2026-earnings-ai-cpu",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777029326000,
-        "summary": "Q1 revenue of $13.6 billion beat the $12.4 billion consensus by 9.4%. Data Centre and AI revenue rose 22% to $5.1 billion. Non-GAAP EPS of $0.29 beat the 1-cent consensus by a factor of 29. The stock is up more than 80% this year. Intel is working with Elon Musk on his planned Terafab chip […] This story continues at The Next Web",
-        "tags": [
-          "business",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9556
       }
     ],
     "science": [
+      {
+        "id": "298242633b62f23a",
+        "title": "Genomic tool untangles how microbes spread—even when they look almost identical",
+        "url": "https://phys.org/news/2026-04-genomic-tool-untangles-microbes-identical.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777054801000,
+        "summary": "Researchers have developed a powerful new tool that can track how microbes spread between people with unprecedented precision, offering new ways to prevent infections and improve treatments in the future. The research, published April 24 in Nature Microbiology, describes how the new tool, called TRAnsmision Clustering of Strains (TRACS), uses genomics to distinguish between closely related strains",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.019
+      },
       {
         "id": "4aff18c26a0b4055",
         "title": "Extra sets of chromosomes may help aggressive tumor cells spread, study finds",
@@ -3783,24 +3800,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0983
-      },
-      {
-        "id": "69cb23194bcb3708",
-        "title": "Redwood Materials loses COO amid layoffs, restructuring",
-        "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
-        "source": "TechCrunch",
-        "lane": "science",
-        "published_ts": 1776984252000,
-        "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
-        "tags": [
-          "startups",
-          "exclusive",
-          "jb straubel",
-          "redwood materials"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7477
       }
     ]
   },
