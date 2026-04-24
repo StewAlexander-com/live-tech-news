@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T07:17:07.149388+00:00",
+  "generated_at": "2026-04-24T07:31:37.535294+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1052,6 +1052,25 @@
         "score": 0.9948
       },
       {
+        "id": "0356ec7db5152c1d",
+        "title": "WSL9x: Add a Linux Subsystem to Your Windows 9x",
+        "url": "https://hackaday.com/2026/04/23/wsl9x-add-an-entire-windows-9x-subsystem-to-your-linux/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1777006811000,
+        "summary": "Considering that Windows NT has the concept of so-called ‘subsystems’ whereby you can run different systems side-by-side, starting with the POSIX subsystem and later the Windows Subsystem for Linux (WSL), …read more",
+        "tags": [
+          "linux hacks",
+          "windows 95",
+          "windows 98",
+          "windows subsystem for linux",
+          "wsl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0288
+      },
+      {
         "id": "369694eaa8ec8c50",
         "title": "WSL9x: Add an Entire Windows 9x Subsystem to Your Linux",
         "url": "https://hackaday.com/2026/04/23/wsl9x-add-an-entire-windows-9x-subsystem-to-your-linux/",
@@ -1902,22 +1921,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9965
-      },
-      {
-        "id": "75e336b0a3fb606f",
-        "title": "Microsoft Offers Voluntary Retirement to Long-Serving Employees",
-        "url": "https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlNUEVJcXN0QlMiLCJwIjoiL25ld3MvOTE3NDUxL21pY3Jvc29mdC12b2x1bnRhcnktcmV0aXJlbWVudC1vZmZlci1yZXdhcmRzLWJvbnVzLXN0b2NrLWNoYW5nZXMiLCJleHAiOjE3NzczOTYzOTEsImlhdCI6MTc3Njk2NDM5MX0.IeenHzWQnmLtvfvkdz2bewFS8qLD-czBrxe7WKGTtsw&utm_medium=gift-link",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1776966838000,
-        "summary": "Tom Warren, The Verge (gift link): “Many of these employees have spent years, and in some cases, decades, shaping Microsoft into what it is today,” says Microsoft’s HR chief Amy Coleman in a memo seen by The Verge. “For those who may be considering their next chapter, we’re offering a one‑time Voluntary Retirement Program.” Microsoft says it applies to only a “small percentage of our US employees.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8971
       }
     ],
     "ai": [
+      {
+        "id": "ff5445e871be6b14",
+        "title": "Canada's Cohere and Germany's Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal (Financial Times)",
+        "url": "http://www.techmeme.com/260424/p14#a260424p14",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777015203000,
+        "summary": "Financial Times: Canada's Cohere and Germany's Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal — Canadian and German start-ups to focus on ‘sovereign’ AI systems independent of US and China — Canadian AI start-up Cohere …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.076
+      },
+      {
+        "id": "802570ac4f93df2f",
+        "title": "Study Reveals 75% of Enterprises Report Double-Digit AI Failure Rates",
+        "url": "https://www.businesswire.com/news/home/20260309160253/en/New-Study-Reveals-75-of-Enterprises-Report-Double-Digit-AI-Failure-Rates-as-Fragmented-Observability-Hits-Its-Breaking-Point",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777014076000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
       {
         "id": "00209e92b86a09a4",
         "title": "EY survey of 18,000 people across 23 countries: ~49% of consumers have used AI over the past six months to support their savings and investment decisions (Emma Dunkley/Financial Times)",
@@ -2810,36 +2845,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7011
-      },
-      {
-        "id": "4f0337460d79a658",
-        "title": "Tinder is making users scan their eyes using Sam Altman's identity verification project as “proof of humanity” and to combat AI bot profiles",
-        "url": "https://www.reddit.com/r/technology/comments/1stsoii/tinder_is_making_users_scan_their_eyes_using_sam/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1776972231000,
-        "summary": "submitted by /u/IndicaOatmeal [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0173
-      },
-      {
-        "id": "63d907dcbf43c15a",
-        "title": "Rilian raises $17.5 million to bring agentic AI to sovereign defence",
-        "url": "https://thenextweb.com/news/rilian-raises-17-5-million-to-bring-agentic-ai-to-sovereign-defence",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776972022000,
-        "summary": "The McLean, Virginia startup’s Caspian platform sits as a command layer above existing security stacks, deploying pre-trained AI agents into air-gapped and compliance-restricted environments. One of its co-founders is Nick Pompeo, son of former US Secretary of State Mike Pompeo. Rilian, a McLean, Virginia-based startup building agentic AI systems integration for defence and national security […] T",
-        "tags": [
-          "startups and technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9578
       }
     ],
     "science": [
