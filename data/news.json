@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T05:18:55.319788+00:00",
+  "generated_at": "2026-04-24T05:55:39.431030+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1326,7 +1326,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.046
+        "score": 1.1274
       },
       {
         "id": "ef9ded6e06a04292",
@@ -1919,6 +1919,32 @@
       }
     ],
     "ai": [
+      {
+        "id": "a3e8540335718ace",
+        "title": "DeepSeek V4 Pro has 1.6T total parameters, its largest model by the metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens (Vincent Chow/South China Morning Post)",
+        "url": "http://www.techmeme.com/260424/p5#a260424p5",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777009801000,
+        "summary": "Vincent Chow / South China Morning Post: DeepSeek V4 Pro has 1.6T total parameters, its largest model by the metric, and V4 Flash has 284B parameters; both models have a context window of 1M tokens — The company claims its much-anticipated V4 model is competitive with top closed-source models from OpenAI and Google DeepMind",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9982
+      },
+      {
+        "id": "99d6830fc5d5c467",
+        "title": "Huawei says its Ascend supernode based on the Ascend 950 AI chips will fully support DeepSeek V4, as DeepSeek launches a preview of its V4 model (Reuters)",
+        "url": "http://www.techmeme.com/260424/p4#a260424p4",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777008000000,
+        "summary": "Reuters: Huawei says its Ascend supernode based on the Ascend 950 AI chips will fully support DeepSeek V4, as DeepSeek launches a preview of its V4 model — Huawei Technologies said on Friday its Ascend supernode based on Ascend 950 AI chips would fully support Deepseek's V4 versions …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0677
+      },
       {
         "id": "69c4a26d2c77069d",
         "title": "DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months (Bloomberg)",
@@ -2825,43 +2851,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9949
-      },
-      {
-        "id": "4a703f3f99565366",
-        "title": "Titanium Court mashes together genres and cultural references to tell a strange, funny tale",
-        "url": "https://www.engadget.com/gaming/titanium-court-mashes-together-genres-and-cultural-references-to-tell-a-strange-funny-tale-184750797.html?src=rss",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1776970070000,
-        "summary": "I would love to tell you everything about my favorite game of the year so far. But that would be doing a great disservice to Titanium Court. I'm not even sure I could explain it all, anyway.Titanium Court is a run-based game with elements of permanent progression, so it's technically a roguelite. However, you cannot really break Titanium Court like you can with Balatro. There are multiple ways to ",
-        "tags": [
-          "video games",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us",
-          "language|en-us",
-          "author_name|kris holt"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6999
-      },
-      {
-        "id": "2d39ce0dff3f693a",
-        "title": "Microsoft offers voluntary retirement to 7% of US workers in first-ever buyout programme amid $80B AI spending push",
-        "url": "https://thenextweb.com/news/microsoft-voluntary-retirement-us-workers-ai",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776969708000,
-        "summary": "Summary: Microsoft is offering voluntary retirement to approximately 7% of its US workforce (~8,750 of 125,000 employees) in the first such programme in its 51-year history, using a “Rule of 70” formula (age + years of service). The offer, disclosed by CPO Amy Coleman, targets senior director level and below, with details arriving 7 May […] This story continues at The Next Web",
-        "tags": [
-          "future of work",
-          "microsoft",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9645
       }
     ],
     "science": [
