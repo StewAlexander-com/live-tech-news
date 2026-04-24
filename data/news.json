@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T12:35:33.600935+00:00",
+  "generated_at": "2026-04-24T12:38:16.465945+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -185,6 +185,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9479
+      },
+      {
+        "id": "75a01ee38a2de912",
+        "title": "Do Walking Pads Improve Your Fitness? I Tested 2 While I Worked",
+        "url": "https://www.cnet.com/health/fitness/testing-walking-pads-step-count/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1777030200000,
+        "summary": "This is what happened when I tried to up my step count at home.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8022
       },
       {
         "id": "ddd84447b3c24579",
@@ -957,22 +970,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0768
-      },
-      {
-        "id": "02e01764a2a5267c",
-        "title": "Exclusive: BDX Droid figures, a talking Mandalorian, and more Star Wars toys are landing at Disney Store for May the 4th",
-        "url": "https://www.techradar.com/streaming/entertainment/exclusive-bdx-droid-figures-a-talking-mandalorian-and-more-star-wars-toys-are-landing-at-disney-store-for-may-the-4th",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1776978000000,
-        "summary": "Disney Store’s May the 4th drop includes exclusive BDX Droid figures, a talking Mandalorian action figure, light-up gauntlets, collectible pins, and more inspired by The Mandalorian and Grogu.",
-        "tags": [
-          "entertainment",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8497
       }
     ],
     "innovation": [
@@ -1905,7 +1902,7 @@
         "source": "Slashdot",
         "lane": "ai",
         "published_ts": 1777034129584,
-        "summary": "",
+        "summary": "OpenAI released its new GPT-5.5 model today, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" The Verge reports: OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and debugging code, doing research online, making spreadsheets and documents, and doing",
         "tags": [],
         "paywall": false,
         "impact": "high",
@@ -2663,6 +2660,38 @@
         "score": 1.0761
       },
       {
+        "id": "577934516d943b25",
+        "title": "Replicable Bandits with UCB based Exploration",
+        "url": "https://arxiv.org/abs/2604.20024",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9602
+      },
+      {
+        "id": "302ed61405f99ec9",
+        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
+        "url": "https://arxiv.org/abs/2604.20062",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
+        "tags": [
+          "cs.lg",
+          "cs.cr",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9602
+      },
+      {
         "id": "ab0d00c1d610dc27",
         "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
         "url": "https://arxiv.org/abs/2604.20862",
@@ -2785,38 +2814,6 @@
           "cs.lg",
           "cs.ai",
           "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1336
-      },
-      {
-        "id": "8cd692fb76a6222e",
-        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
-        "url": "https://arxiv.org/abs/2604.19979",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
-        "tags": [
-          "cs.lg",
-          "cs.ce",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1336
-      },
-      {
-        "id": "a4d4f15a26645b2e",
-        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
-        "url": "https://arxiv.org/abs/2604.20019",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
