@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:40:30.850281+00:00",
+  "generated_at": "2026-04-24T13:47:17.663460+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -969,6 +969,21 @@
     ],
     "innovation": [
       {
+        "id": "488d8272752d0033",
+        "title": "How the Tech World Turned Evil | Once upon a time, they were counterculture idealists bringing power to the people. Today they’re greedy monopolists who’d sooner destroy our democracy than be reined in by government in any way—and they have to be stopped",
+        "url": "https://www.reddit.com/r/technology/comments/1sug1a1/how_the_tech_world_turned_evil_once_upon_a_time/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777037886000,
+        "summary": "submitted by /u/Hrmbee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9472
+      },
+      {
         "id": "814f3a9f70fd5438",
         "title": "XOXO Explore",
         "url": "https://xoxofest.com/blog/2026-launching-xoxo-explore/",
@@ -1861,27 +1876,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9948
-      },
-      {
-        "id": "0bc23255b15e436d",
-        "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
-        "url": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1776974633000,
-        "summary": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.",
-        "tags": [
-          "apps",
-          "social",
-          "instagram",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7474
       }
     ],
     "ai": [
+      {
+        "id": "3b2dbbd02fac7299",
+        "title": "Open Telemetry founder tools up for project graduation party",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777038187000,
+        "summary": "We gotta get boring to get graduated Grafanacon The founder of the Open Telemetry project says its maintainers may need to turn to AI tools to get some elements robust enough for the project as a whole to graduate.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "509b0b60876d82e8",
+        "title": "Nothing introduces an AI-powered dictation tool",
+        "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777038102000,
+        "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+        "tags": [
+          "ai",
+          "apps",
+          "ai dictation",
+          "nothing",
+          "superwhisper",
+          "wispr flow"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8064
+      },
       {
         "id": "579b2a0927dd4efb",
         "title": "I built a private AI server at home and now every device connects to it",
@@ -2724,84 +2754,51 @@
         "score": 1.0761
       },
       {
-        "id": "8cd692fb76a6222e",
-        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
-        "url": "https://arxiv.org/abs/2604.19979",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
-        "tags": [
-          "cs.lg",
-          "cs.ce",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9413
-      },
-      {
-        "id": "a4d4f15a26645b2e",
-        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
-        "url": "https://arxiv.org/abs/2604.20019",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9413
-      },
-      {
-        "id": "577934516d943b25",
-        "title": "Replicable Bandits with UCB based Exploration",
-        "url": "https://arxiv.org/abs/2604.20024",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9413
-      },
-      {
-        "id": "302ed61405f99ec9",
-        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
-        "url": "https://arxiv.org/abs/2604.20062",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
-        "tags": [
-          "cs.lg",
-          "cs.cr",
-          "cs.dc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9413
-      },
-      {
-        "id": "ab0d00c1d610dc27",
-        "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-        "url": "https://arxiv.org/abs/2604.20862",
+        "id": "bd1fb9c54cb0c37e",
+        "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+        "url": "https://arxiv.org/abs/2604.20972",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning s",
+        "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Tra",
         "tags": [
           "cs.ai",
-          "cs.ma"
+          "cs.cy"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9507
+        "score": 0.9392
+      },
+      {
+        "id": "b7323b9dfae4d9ff",
+        "title": "The Last Harness You'll Ever Build",
+        "url": "https://arxiv.org/abs/2604.21003",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9392
+      },
+      {
+        "id": "4bf4a112df06f16c",
+        "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+        "url": "https://arxiv.org/abs/2604.21006",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define correspo",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9392
       }
     ],
     "science": [
