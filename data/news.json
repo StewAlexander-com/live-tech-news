@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:06:41.662214+00:00",
+  "generated_at": "2026-04-24T13:09:17.522022+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -977,6 +977,21 @@
     ],
     "innovation": [
       {
+        "id": "c82ad96909735e59",
+        "title": "Maine said no to new data centers. Other states are racing to follow.",
+        "url": "https://www.reddit.com/r/technology/comments/1suf05r/maine_said_no_to_new_data_centers_other_states/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777035451000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9464
+      },
+      {
         "id": "36d648139a5398d5",
         "title": "Huawei plans to spend up to $11.7B over five years to boost compute for training and testing autonomous cars, with ~$2.64B for autonomous driving R&D in 2026 (Daniel Ren/South China Morning Post)",
         "url": "http://www.techmeme.com/260424/p19#a260424p19",
@@ -1882,19 +1897,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0788
-      },
-      {
-        "id": "ddfebdf68509a3b0",
-        "title": "Music publishers including UMG, Warner Music, and Sony drop a copyright suit against Verizon following a SCOTUS decision limiting ISP liability in Cox's suit (Kyle Jahner/Bloomberg Law)",
-        "url": "http://www.techmeme.com/260423/p56#a260423p56",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1776972900000,
-        "summary": "Kyle Jahner / Bloomberg Law: Music publishers including UMG, Warner Music, and Sony drop a copyright suit against Verizon following a SCOTUS decision limiting ISP liability in Cox's suit — Publishers representing the bulk of the music industry dropped a copyright lawsuit against Verizon Communications Inc. over music piracy …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9985
       }
     ],
     "ai": [
@@ -2689,6 +2691,69 @@
         "score": 1.0761
       },
       {
+        "id": "ab0d00c1d610dc27",
+        "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+        "url": "https://arxiv.org/abs/2604.20862",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning s",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9507
+      },
+      {
+        "id": "bd1fb9c54cb0c37e",
+        "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+        "url": "https://arxiv.org/abs/2604.20972",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Tra",
+        "tags": [
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9507
+      },
+      {
+        "id": "b7323b9dfae4d9ff",
+        "title": "The Last Harness You'll Ever Build",
+        "url": "https://arxiv.org/abs/2604.21003",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9507
+      },
+      {
+        "id": "4bf4a112df06f16c",
+        "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+        "url": "https://arxiv.org/abs/2604.21006",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define correspo",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9507
+      },
+      {
         "id": "b124bbe8a062f2aa",
         "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
         "url": "https://arxiv.org/abs/2604.21036",
@@ -2752,70 +2817,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9515
-      },
-      {
-        "id": "8cd692fb76a6222e",
-        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
-        "url": "https://arxiv.org/abs/2604.19979",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
-        "tags": [
-          "cs.lg",
-          "cs.ce",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.953
-      },
-      {
-        "id": "a4d4f15a26645b2e",
-        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
-        "url": "https://arxiv.org/abs/2604.20019",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.953
-      },
-      {
-        "id": "577934516d943b25",
-        "title": "Replicable Bandits with UCB based Exploration",
-        "url": "https://arxiv.org/abs/2604.20024",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9602
-      },
-      {
-        "id": "302ed61405f99ec9",
-        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
-        "url": "https://arxiv.org/abs/2604.20062",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
-        "tags": [
-          "cs.lg",
-          "cs.cr",
-          "cs.dc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9602
       }
     ],
     "science": [
