@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-24T03:57:01.692555+00:00",
+  "generated_at": "2026-04-24T04:01:12.589405+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "869e279a044fdff8",
+        "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
+        "url": "https://arxiv.org/abs/2604.19835",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19835v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) has become the dominant architecture for scaling large language models: frontier models routinely decouple total parameters from per-token computation through sparse expert routing. Scaling laws show that under fixed active computation, model quality scales predictably with total parameters, and MoEs realize this by increasin",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0496
+      },
       {
         "id": "8207d1fe8567cab7",
         "title": "US soldier arrested for allegedly making over $400,000 on Polymarket with classified Maduro information",
@@ -979,27 +995,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8473
-      },
-      {
-        "id": "514ca314daabeb5d",
-        "title": "Google Keep is a major downgrade to OneNote in one key area, and that's why I didn't make the switch",
-        "url": "https://www.androidpolice.com/google-keep-is-downgrade-to-onenote-in-one-key-area/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1776960911000,
-        "summary": "OneNote's secret weapon",
-        "tags": [
-          "google keep",
-          "onenote",
-          "productivity",
-          "onenote"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9959
       }
     ],
     "innovation": [
+      {
+        "id": "34052db4e07a5ef8",
+        "title": "Robustness Analysis of POMDP Policies to Observation Perturbations",
+        "url": "https://arxiv.org/abs/2604.21256",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21256v1 Announce Type: new Abstract: Policies for Partially Observable Markov Decision Processes (POMDPs) are often designed using a nominal system model. In practice, this model can deviate from the true system during deployment due to factors such as calibration drift or sensor degradation, leading to unexpected performance degradation. This work studies policy robustness against devi",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
       {
         "id": "7aa290c8fa2b110e",
         "title": "Trump threatens to \"put a big tariff on the UK\" if it does not drop its digital services tax, which he views as unfairly targeting US tech companies (Connor Stringer/Telegraph)",
@@ -1903,24 +1916,201 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0155
-      },
-      {
-        "id": "25e6aa685fd2593e",
-        "title": "Private health records of half a million Britons offered for sale on Chinese website",
-        "url": "https://www.reddit.com/r/technology/comments/1stov07/private_health_records_of_half_a_million_britons/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1776964129000,
-        "summary": "submitted by /u/Shot_Net3794 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9229
       }
     ],
     "ai": [
+      {
+        "id": "ab0d00c1d610dc27",
+        "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+        "url": "https://arxiv.org/abs/2604.20862",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning s",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "bd1fb9c54cb0c37e",
+        "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+        "url": "https://arxiv.org/abs/2604.20972",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Tra",
+        "tags": [
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "b7323b9dfae4d9ff",
+        "title": "The Last Harness You'll Ever Build",
+        "url": "https://arxiv.org/abs/2604.21003",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "4bf4a112df06f16c",
+        "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+        "url": "https://arxiv.org/abs/2604.21006",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define correspo",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "b124bbe8a062f2aa",
+        "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
+        "url": "https://arxiv.org/abs/2604.21036",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21036v1 Announce Type: new Abstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how they depict demographic groups across professions. Prompts such as 'doctor' or 'CEO' frequently yield lighter-skinned outputs, while lower-status roles ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "f395725b13a5a675",
+        "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
+        "url": "https://arxiv.org/abs/2604.21061",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21061v1 Announce Type: new Abstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the multimodal nature of IVF data. We investigated whether foundational vision-language models can be fine-tuned to predict natural language descriptions of emb",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "8c9c161c3a149d59",
+        "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
+        "url": "https://arxiv.org/abs/2604.19800",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "34665fe21fe88add",
+        "title": "A Multi-Plant Machine Learning Framework for Emission Prediction, Forecasting, and Control in Cement Manufacturing",
+        "url": "https://arxiv.org/abs/2604.19903",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19903v1 Announce Type: new Abstract: Cement production is among the largest contributors to industrial air pollution, emitting ~3 Mt NOx/year. The industry-standard mitigation approach, selective non-catalytic reduction (SNCR), exhibits low NH3 utilization efficiency, resulting in operational inefficiencies and increased reagent costs. Here, we develop a data-driven framework for emissi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "8cd692fb76a6222e",
+        "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
+        "url": "https://arxiv.org/abs/2604.19979",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In this study, we extend INR models to handle spatiotemporal and multivariate signals and show how INR ",
+        "tags": [
+          "cs.lg",
+          "cs.ce",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "a4d4f15a26645b2e",
+        "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
+        "url": "https://arxiv.org/abs/2604.20019",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. Here we present a machine learning pipeline for generating covalent inhibitor candidates using multi-",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "577934516d943b25",
+        "title": "Replicable Bandits with UCB based Exploration",
+        "url": "https://arxiv.org/abs/2604.20024",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20024v1 Announce Type: new Abstract: We study replicable algorithms for stochastic multi-armed bandits (MAB) and linear bandits with UCB (Upper Confidence Bound) based exploration. A bandit algorithm is $\\rho$-replicable if two executions using shared internal randomness but independent reward realizations, produce the same action sequence with probability at least $1-\\rho$. Prior work ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "302ed61405f99ec9",
+        "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
+        "url": "https://arxiv.org/abs/2604.20062",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20062v1 Announce Type: new Abstract: The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. Traditional centralized machine learning models that require a large volume of data to be stored in a single location have therefore become more susceptible to data breaches, privacy violations, and regulatory non-compliance. This report pre",
+        "tags": [
+          "cs.lg",
+          "cs.cr",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
       {
         "id": "137644d48e886acc",
         "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
@@ -2687,186 +2877,118 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9599
-      },
-      {
-        "id": "b46335a051232784",
-        "title": "Claim Clarity on the role of specialized AI in advancing workers’ compensation decision precision",
-        "url": "https://thenextweb.com/news/ai-workers-compensation-claims-healthcare",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1776968806000,
-        "summary": "Claim Clarity suggests that workers’ compensation represents a significant yet often less visible segment of the broader healthcare ecosystem. Founder and CEO Jamie LaPaglia says, “Its scale and impact continue to expand, but it’s sometimes approached as an extension of general healthcare, even though its regulatory and operational dynamics are different.” Within this context, the […] This story c",
-        "tags": [
-          "health tech",
-          "opinion"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9599
-      },
-      {
-        "id": "ed118075c572a904",
-        "title": "Anthropic’s Mythos breach was humiliating",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1776968696000,
-        "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of unauthorized users\" has had access to […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "report",
-          "security",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8515
-      },
-      {
-        "id": "b15e901200fad637",
-        "title": "Machine learning helps detect roars from lion collars without recording actual audio",
-        "url": "https://phys.org/news/2026-04-machine-roars-lion-collars-actual.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1776968402000,
-        "summary": "Roaring over long distances is a key behavior of lions. They communicate within prides as well as with other animals using distinct sequences of moans and grunts. Scientists from the GAIA Initiative have now published a machine learning approach in the journal Ecological Informatics that improves how roaring behavior can be studied.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0949
-      },
-      {
-        "id": "c23d41e17e3d71b1",
-        "title": "GPT-5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT-5.5 Pro to Pro, Business, and Enterprise users in ChatGPT (The Verge)",
-        "url": "http://www.techmeme.com/260423/p50#a260423p50",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776968402000,
-        "summary": "The Verge: GPT-5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT-5.5 Pro to Pro, Business, and Enterprise users in ChatGPT — The new model ‘excels’ at tasks like writing and debugging code and doing work across different tools.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9939
-      },
-      {
-        "id": "0efe0b6c78da8f81",
-        "title": "GPT-5.5: Mythos-Like Hacking, Open to All",
-        "url": "https://xbow.com/blog/mythos-like-hacking-open-to-all",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1776968215000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:12"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9824
-      },
-      {
-        "id": "577627e351058e66",
-        "title": "OpenAI says GPT-5.5's improvements are strongest in agentic coding, computer use, and early scientific research, which require reasoning across longer contexts (Madison Mills/Axios)",
-        "url": "http://www.techmeme.com/260423/p49#a260423p49",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776968101000,
-        "summary": "Madison Mills / Axios: OpenAI says GPT-5.5's improvements are strongest in agentic coding, computer use, and early scientific research, which require reasoning across longer contexts — OpenAI on Thursday released its most capable model, GPT-5.5, codenamed “Spud,” just one week after competitor Anthropic launched its latest model.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9992
-      },
-      {
-        "id": "1db7d4996e2ece49",
-        "title": "Elon Musk's SpaceX Teams Up With Cursor for AI Coding: How Rockets and AI Fit Together",
-        "url": "https://www.cnet.com/tech/services-and-software/elon-musks-spacex-cursor-ai-partnership-news-april-2026/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1776967901000,
-        "summary": "The deal comes with the right to acquire Cursor for $60 billion.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8679
-      },
-      {
-        "id": "d0365d0c45f2255d",
-        "title": "OpenAI launches GPT-5.5, designed to handle complex tasks with minimal guidance; the model will be used to power the company's upcoming \"super app\" (Rachel Metz/Bloomberg)",
-        "url": "http://www.techmeme.com/260423/p48#a260423p48",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776967691000,
-        "summary": "Rachel Metz / Bloomberg: OpenAI launches GPT-5.5, designed to handle complex tasks with minimal guidance; the model will be used to power the company's upcoming “super app” — OpenAI is introducing an artificial intelligence model that's intended to be better at completing work without much direction …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9901
-      },
-      {
-        "id": "b3d8d2fdc552fb53",
-        "title": "OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model \"figures it out, deals with ambiguity\" (Rachel Metz/Bloomberg)",
-        "url": "http://www.techmeme.com/260423/p48#a260423p48",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776967691000,
-        "summary": "Rachel Metz / Bloomberg: OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model “figures it out, deals with ambiguity” — OpenAI is introducing an artificial intelligence model that's intended to be better at completing work without much direction …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.997
-      },
-      {
-        "id": "3dfc33f1e32e8662",
-        "title": "OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model \"kind of figures it out, deals with ambiguity\" (Rachel Metz/Bloomberg)",
-        "url": "http://www.techmeme.com/260423/p48#a260423p48",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1776967691000,
-        "summary": "Rachel Metz / Bloomberg: OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model “kind of figures it out, deals with ambiguity” — OpenAI is introducing an artificial intelligence model that's intended to be better at completing work without much direction …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9985
-      },
-      {
-        "id": "8f26d51c67af5c29",
-        "title": "Claude Can Connect to More Apps You Use Every Day",
-        "url": "https://www.cnet.com/tech/services-and-software/claude-connectors-expansion-everyday-tasks/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1776967596000,
-        "summary": "Audible, Uber Eats, and more can now connect to Anthropic's AI chatbot",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8839
-      },
-      {
-        "id": "d78ec980c916e7b9",
-        "title": "RFK Jr.’s rejection of germ theory debunked in Senate hearing",
-        "url": "https://arstechnica.com/health/2026/04/rfk-jr-s-rejection-of-germ-theory-debunked-in-senate-hearing/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1776967553000,
-        "summary": "Kennedy falsely argues that vaccines did little to lower childhood deaths.",
-        "tags": [
-          "health",
-          "anti-vaccine",
-          "bernie sanders",
-          "bill cassidy",
-          "childhood mortality",
-          "germ theory"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9704
       }
     ],
     "science": [
+      {
+        "id": "6ce8dc2fa03d2fdf",
+        "title": "This 2,200-year-old Roman wreck hid a repair story that rewrites how ancient ships survived long voyages",
+        "url": "https://phys.org/news/2026-04-year-roman-hid-story-rewrites.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777003203000,
+        "summary": "Ever since humans have embarked on sea voyages, they needed to ensure vessels were waterproof, resistant to salty seawater, and could withstand microorganisms or sea-dwellers like worms. Until the mid-20th century, however, the study of non-wood materials used to build ships was overlooked. Even today, little work has been done on materials used for waterproofing.",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0196
+      },
+      {
+        "id": "de099ee8000c7065",
+        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
+        "url": "https://arxiv.org/abs/2604.19930",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "1026993190eb6e7d",
+        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
+        "url": "https://arxiv.org/abs/2604.20082",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "eed310e326ea8919",
+        "title": "BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature",
+        "url": "https://arxiv.org/abs/2604.21508",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21508v1 Announce Type: new Abstract: Protein-ligand bioactivity data published in the literature are essential for drug discovery, yet manual curation struggles to keep pace with rapidly growing literature. Automated bioactivity extraction remains challenging because it requires not only interpreting biochemical semantics distributed across text, tables, and figures, but also reconstruc",
+        "tags": [
+          "cs.ai",
+          "q-bio.bm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0496
+      },
+      {
+        "id": "f0fc05a4347b3d5b",
+        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
+        "url": "https://arxiv.org/abs/2604.20077",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0496
+      },
+      {
+        "id": "7112570f628e3bd2",
+        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
+        "url": "https://arxiv.org/abs/2604.20109",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0496
+      },
+      {
+        "id": "d451b5ef4d96c696",
+        "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
+        "url": "https://arxiv.org/abs/2604.20188",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20188v1 Announce Type: new Abstract: Learning the underlying potential energy of stochastic gradient systems from partial and noisy observations is a fundamental problem arising in physics, chemistry, and data-driven modeling. Classical approaches often rely on direct regression of governing equations or velocity fields, which can be sensitive to noise and external perturbations and may",
+        "tags": [
+          "cs.lg",
+          "math.ds"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0496
+      },
       {
         "id": "db48be4ed61b8748",
         "title": "Examining threats to monetary sovereignty in the digital era",
@@ -3688,123 +3810,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0136
-      },
-      {
-        "id": "a7062eb7238427ca",
-        "title": "Amazon River plume: Where microalgae go carnivorous to win",
-        "url": "https://phys.org/news/2026-04-amazon-river-plume-microalgae-carnivorous.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776963605000,
-        "summary": "In the vast plume of the Amazon River, microscopic algae adopt a surprisingly flexible survival strategy: They combine photosynthesis with the uptake of organic matter. An international research team led by the Leibniz Institute for Baltic Sea Research Warnemünde (IOW) has now shown that this so-called mixotrophy becomes the dominant and most successful lifestyle in mature plume waters.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "911a7578e328a066",
-        "title": "Is your cat or dog overweight? Why simply feeding less doesn't always help",
-        "url": "https://phys.org/news/2026-04-cat-dog-overweight-simply-doesnt.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776963601000,
-        "summary": "Overweight and obesity are among the most common conditions veterinarians see in both dogs and cats.",
-        "tags": [
-          "veterinary medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "90f0e87ea5b8930e",
-        "title": "US Space Command: Russia is now operationalizing co-orbital ASAT weapons",
-        "url": "https://arstechnica.com/space/2026/04/us-space-command-russia-is-now-operationalizing-co-orbital-asat-weapons/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1776963129000,
-        "summary": "\"They’re putting operational systems up within orbit reach of our high-value satellites.\"",
-        "tags": [
-          "science",
-          "space",
-          "anti-satellite tests",
-          "asat",
-          "military space",
-          "russia"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9849
-      },
-      {
-        "id": "0200b66f2521caa8",
-        "title": "Chernobyl at 40: The lies, the loss and why we can't let go",
-        "url": "https://phys.org/news/2026-04-chernobyl-loss.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776962410000,
-        "summary": "Some historical events are so catastrophic they resist comprehension. And yet they compel us to try to understand them, again and again.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
-      },
-      {
-        "id": "9a5114a3837150cc",
-        "title": "Quantum chips could scale faster with new spin-qubit readout that reduces sensors and wiring",
-        "url": "https://phys.org/news/2026-04-quantum-chips-scale-faster-qubit.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776962406000,
-        "summary": "Quantum computers, devices that process information leveraging quantum mechanical effects, could tackle some tasks that are difficult or impossible to solve using classical computers. These systems represent data as qubits, units of information that can exist in multiple states at once, unlike the bits used by classical computers that represent data using binary values (\"0\" or \"1\").",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0992
-      },
-      {
-        "id": "b7703339fc8eb3a3",
-        "title": "UK Biobank’s 500,000 genomes were listed for sale on Alibaba. The breach came from inside the system.",
-        "url": "https://thenextweb.com/news/uk-biobank-health-data-alibaba-breach",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1776962363000,
-        "summary": "Summary: Genetic, medical, and lifestyle data from all 500,000 UK Biobank volunteers was listed for sale on Alibaba after three Chinese research institutions with legitimate access violated their data-sharing agreements. The data was de-identified but includes genome sequences, hospital diagnoses, and biological measures that experts say can be re-identified. Alibaba removed the listings before an",
-        "tags": [
-          "data and security",
-          "security",
-          "next featured",
-          "uk"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9597
-      },
-      {
-        "id": "135c3e2d2e749d3c",
-        "title": "Eight months early and under budget, the Roman Telescope is ready to launch",
-        "url": "https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1776961627000,
-        "summary": "Spy satellite hardware has been repurposed to scan the Universe in the infrared.",
-        "tags": [
-          "science",
-          "space",
-          "astronomy",
-          "nasa",
-          "roman space telescope"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0551
       }
     ]
   },
