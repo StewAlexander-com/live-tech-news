@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:06:55.162119+00:00",
+  "generated_at": "2026-04-24T17:27:10.934520+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -994,6 +994,21 @@
     ],
     "innovation": [
       {
+        "id": "fb9f36f590198261",
+        "title": "Scientists map hidden magnetism on the sun's far side",
+        "url": "https://phys.org/news/2026-04-scientists-hidden-magnetism-sun-side.html",
+        "source": "Phys.org",
+        "lane": "innovation",
+        "published_ts": 1777051203000,
+        "summary": "For observers on Earth, the sun appears as a bright, familiar disk—but what we see is only half the story. Like the moon, one half of the sun is permanently hidden from our direct view: the far side beyond the visible solar limb. Yet, activity brewing there can eventually turn toward Earth, sometimes unleashing solar flares and eruptions capable of disrupting human technology.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
         "id": "4b14a1198e7e4903",
         "title": "This is the self-hosted DNS server I wish someone had told me about sooner",
         "url": "https://www.makeuseof.com/self-hosted-dns-server-wish-someone-told-me-sooner/",
@@ -1897,22 +1912,72 @@
         "paywall": true,
         "impact": "normal",
         "score": 0.6227
-      },
-      {
-        "id": "f4826de091dce911",
-        "title": "United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults",
-        "url": "https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1776993973000,
-        "summary": "Ephrat Livni, reporting for The New York Times (gift link): Britain aims to raise a “smoke-free generation” by permanently banning the sale or supply of tobacco to anyone born in 2009 or after, with a bill that was approved by Parliament on Tuesday. The bill applies to people currently 17 years old or younger and aims to keep them from ever picking up the habit in their lifetime. The proposal is e",
-        "tags": [],
-        "paywall": true,
-        "impact": "normal",
-        "score": 0.8052
       }
     ],
     "ai": [
+      {
+        "id": "d2ea7299e3d48b7f",
+        "title": "Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777051361000,
+        "summary": "New LTS is here, with more tooling for GPGPU and AI workloads Ubuntu 26.04 \"Resolute Raccoon,\" the latest LTS release from Canonical, arrives with GNOME 50, Linux kernel 7.0, and drops the Xorg option from Ubuntu Desktop while still running X11 applications through Xwayland.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "0de378fa438e1c65",
+        "title": "The DOJ joins xAI in its legal challenge to a new Colorado law that seeks to prevent discrimination by AI tools in employment and other areas (Madlin Mekelburg/Bloomberg)",
+        "url": "http://www.techmeme.com/260424/p26#a260424p26",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777051201000,
+        "summary": "Madlin Mekelburg / Bloomberg: The DOJ joins xAI in its legal challenge to a new Colorado law that seeks to prevent discrimination by AI tools in employment and other areas — The Trump administration is joining Elon Musk's artificial intelligence company xAI in its legal challenge to Colorado's new state law that seeks …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0775
+      },
+      {
+        "id": "14167e1468cc0f9e",
+        "title": "System76 Pangolin Pro is a 3.6 pound Linux laptop with a 16 inch screen and Ryzen AI 7 350",
+        "url": "https://liliputing.com/system76-pangolin-pro-is-a-3-6-pound-linux-laptop-with-a-16-inch-screen-and-ryzen-ai-7-350/",
+        "source": "Liliputing",
+        "lane": "ai",
+        "published_ts": 1777051058000,
+        "summary": "The new System76 Pangolin Pro is a Linux laptop with a 16 inch, 2560 x 1600 pixel, 165 Hz matte LTPS display, an AMD Ryzen AI 7 350 “Krackan Point” processor. Compared with the previous-gen Pangolin laptop, that processor upgrade along might be enough reason to call this a “pro” model. But it also has a […] The post System76 Pangolin Pro is a 3.6 pound Linux laptop with a 16 inch screen and Ryzen ",
+        "tags": [
+          "news",
+          "linux laptop",
+          "pangolin pro",
+          "system76",
+          "system76 pangolin pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1844
+      },
+      {
+        "id": "28282cbf2254335f",
+        "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
+        "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777050693000,
+        "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages that are more competitive with rival chip manufacturer SK Hynix, including removing Samsung's cap on bonus pay, […]",
+        "tags": [
+          "labor",
+          "news",
+          "samsung",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8511
+      },
       {
         "id": "ff72388e0858cade",
         "title": "How Project Maven taught the military to love AI",
@@ -2820,63 +2885,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9151
-      },
-      {
-        "id": "6fa61d6b5dd4c1c5",
-        "title": "Sources: in recent weeks, China told tech companies, like ByteDance and Moonshot AI, to reject US capital without state approval, after Meta's Manus acquisition (Bloomberg)",
-        "url": "http://www.techmeme.com/260424/p18#a260424p18",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777027201000,
-        "summary": "Bloomberg: Sources: in recent weeks, China told tech companies, like ByteDance and Moonshot AI, to reject US capital without state approval, after Meta's Manus acquisition — Chinese regulators plan to restrict technology firms including some of the country's highest-profile AI pioneers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9808
-      },
-      {
-        "id": "3375a227e52bf9c0",
-        "title": "Sources: China recently told tech companies, including ByteDance and Moonshot AI, to reject US capital without state approval, after Meta's Manus acquisition (Bloomberg)",
-        "url": "http://www.techmeme.com/260424/p18#a260424p18",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777027201000,
-        "summary": "Bloomberg: Sources: China recently told tech companies, including ByteDance and Moonshot AI, to reject US capital without state approval, after Meta's Manus acquisition — Chinese regulators plan to restrict technology firms including some of the country's highest-profile AI pioneers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0796
-      },
-      {
-        "id": "347726985e1effa5",
-        "title": "At SpaceX, AI is burning the cash that Starlink earns",
-        "url": "https://www.reddit.com/r/technology/comments/1subz96/at_spacex_ai_is_burning_the_cash_that_starlink/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777026976000,
-        "summary": "submitted by /u/talkingatoms [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.006
-      },
-      {
-        "id": "c277114d8caecdeb",
-        "title": "Alibaba says its Qwen AI model will be integrated into select car models from BYD, Volkswagen, and others, letting users buy food and tickets via voice commands (Evelyn Cheng/CNBC)",
-        "url": "http://www.techmeme.com/260424/p17#a260424p17",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777026001000,
-        "summary": "Evelyn Cheng / CNBC: Alibaba says its Qwen AI model will be integrated into select car models from BYD, Volkswagen, and others, letting users buy food and tickets via voice commands — BEIJING — Chinese tech giant Alibaba said Friday that its Qwen artificial intelligence model will be integrated into vehicles …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9949
       }
     ],
     "science": [
+      {
+        "id": "6eb09af87c37ee6b",
+        "title": "Carbon nanotubes are closing the gap on copper conductivity",
+        "url": "https://phys.org/news/2026-04-carbon-nanotubes-gap-copper.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777051207000,
+        "summary": "Carbon nanotubes are one technology that many observers believe hasn't quite lived up to the extreme hype that surrounded them when they first appeared on the scene in the late 1990s. At that time, much was made of their extraordinary electrical, thermal, and mechanical properties, with predictions that they would revolutionize materials science, electronics, and daily life. But could we be closer",
+        "tags": [
+          "nanomaterials"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
+        "id": "534b142b73caf1d6",
+        "title": "Waste biomass helps unlock hydrogen and formate in lower-energy electrolysis",
+        "url": "https://phys.org/news/2026-04-biomass-hydrogen-formate-energy-electrolysis.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777051204000,
+        "summary": "A research team has developed a high-efficiency electrochemical system that simultaneously produces hydrogen and value-added chemicals using glycerol, a low-cost, abundant byproduct of biodiesel production. The findings are published in Joule.",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
       {
         "id": "dc832a6b18e298bd",
         "title": "Why delaying climate action now means higher seas by 2100",
@@ -3737,41 +3778,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0184
-      },
-      {
-        "id": "1515cb5c3e4ce37e",
-        "title": "Efficient degradation of short-chain PFAS achieved with new method",
-        "url": "https://phys.org/news/2026-04-efficient-degradation-short-chain-pfas.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776982801000,
-        "summary": "Short-chain perfluorinated and polyfluorinated alkyl compounds (PFAS) such as perfluorobutanoic acid (PFBA) are increasingly entering the environment via various pathways and contaminating groundwater and drinking water. Because PFAS are highly mobile, removing them has so far required a great deal of effort. But a research team at the Helmholtz Centre for Environmental Research (UFZ) has develope",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
-      },
-      {
-        "id": "9082bc00a723164e",
-        "title": "Visitors to this private space station won't be wearing shorts and T-shirts",
-        "url": "https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1776982456000,
-        "summary": "Can you wear white after Labor Day if your destination is Earth orbit?",
-        "tags": [
-          "space",
-          "astronaut flight suit",
-          "commercial space station",
-          "flight badge",
-          "haven",
-          "haven-1"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9702
       }
     ]
   },
