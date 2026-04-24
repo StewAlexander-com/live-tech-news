@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:01:54.317555+00:00",
+  "generated_at": "2026-04-24T13:06:41.662214+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2689,6 +2689,71 @@
         "score": 1.0761
       },
       {
+        "id": "b124bbe8a062f2aa",
+        "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
+        "url": "https://arxiv.org/abs/2604.21036",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21036v1 Announce Type: new Abstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how they depict demographic groups across professions. Prompts such as 'doctor' or 'CEO' frequently yield lighter-skinned outputs, while lower-status roles ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9515
+      },
+      {
+        "id": "f395725b13a5a675",
+        "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
+        "url": "https://arxiv.org/abs/2604.21061",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21061v1 Announce Type: new Abstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the multimodal nature of IVF data. We investigated whether foundational vision-language models can be fine-tuned to predict natural language descriptions of emb",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9515
+      },
+      {
+        "id": "8c9c161c3a149d59",
+        "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
+        "url": "https://arxiv.org/abs/2604.19800",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ONNX Runtime. The hardware and software specifications of the smart meter are also briefly described. ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9515
+      },
+      {
+        "id": "34665fe21fe88add",
+        "title": "A Multi-Plant Machine Learning Framework for Emission Prediction, Forecasting, and Control in Cement Manufacturing",
+        "url": "https://arxiv.org/abs/2604.19903",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.19903v1 Announce Type: new Abstract: Cement production is among the largest contributors to industrial air pollution, emitting ~3 Mt NOx/year. The industry-standard mitigation approach, selective non-catalytic reduction (SNCR), exhibits low NH3 utilization efficiency, resulting in operational inefficiencies and increased reagent costs. Here, we develop a data-driven framework for emissi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9515
+      },
+      {
         "id": "8cd692fb76a6222e",
         "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
         "url": "https://arxiv.org/abs/2604.19979",
@@ -2751,69 +2816,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9602
-      },
-      {
-        "id": "ab0d00c1d610dc27",
-        "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-        "url": "https://arxiv.org/abs/2604.20862",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning s",
-        "tags": [
-          "cs.ai",
-          "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1336
-      },
-      {
-        "id": "bd1fb9c54cb0c37e",
-        "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-        "url": "https://arxiv.org/abs/2604.20972",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Tra",
-        "tags": [
-          "cs.ai",
-          "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1336
-      },
-      {
-        "id": "b7323b9dfae4d9ff",
-        "title": "The Last Harness You'll Ever Build",
-        "url": "https://arxiv.org/abs/2604.21003",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand ",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1336
-      },
-      {
-        "id": "4bf4a112df06f16c",
-        "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-        "url": "https://arxiv.org/abs/2604.21006",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasting and valuation accuracy, and claim credibility and verifiability. Particularly, we define correspo",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1336
       }
     ],
     "science": [
@@ -3209,6 +3211,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
+      },
+      {
+        "id": "7243d8abd8961172",
+        "title": "Brain tissue near tumours is loaded with plastic",
+        "url": "https://www.nature.com/articles/d41586-026-01281-6",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1776988800000,
+        "summary": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01281-6Relatively high levels of micro- and nanoplastics around brain tumours might indicate breakdown of the blood–brain barrier.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8934
       },
       {
         "id": "cda166275928c6eb",
@@ -3712,21 +3727,6 @@
         "summary": "Trichoderma species—a common fungus found in soils—have varying abilities to promote tomato plant growth and differentially affect the abundance of certain soil bacteria, according to a study led by researchers at Penn State.",
         "tags": [
           "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0179
-      },
-      {
-        "id": "630b0cdea36be2b3",
-        "title": "Political views may influence trust in smart technologies, research finds",
-        "url": "https://phys.org/news/2026-04-political-views-smart-technologies.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1776974401000,
-        "summary": "Consumer trust in smart technologies—like Amazon's Alexa or Ring's video doorbells—may rely on more than just the technology. It may also depend on a person's political beliefs. New research from the University of New Hampshire found that where you are on the political spectrum may sway your decision to use smart technology, with conservatives being more open to sharing their data with these devic",
-        "tags": [
-          "economics & business"
         ],
         "paywall": false,
         "impact": "high",
