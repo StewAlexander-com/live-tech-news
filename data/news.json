@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T17:32:23.154768+00:00",
+  "generated_at": "2026-04-25T17:41:37.715876+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1943,6 +1943,21 @@
     ],
     "ai": [
       {
+        "id": "b963b1f3b84fb322",
+        "title": "Linux Drops ISDN Subsystem and Other Old Network Drivers",
+        "url": "https://linux.slashdot.org/story/26/04/25/0757219/linux-drops-isdn-subsystem-and-other-old-network-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777138440000,
+        "summary": "\"Old code like amateur radio and NFC have long been a burden to core networking developers,\" reads the pull request. And so Thursday Linus Torvald merged the pull request \"to rid the Linux kernel of the old Integrated Services Digital Network (ISDN) subsystem,\" reports Phoronix, \"and various other old network drivers largely for PCMCIA era network adapters.\" This was the code suggested for removal",
+        "tags": [
+          "linux"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
+      {
         "id": "68c044b8e2480273",
         "title": "OpenAI CEO apologizes to Tumbler Ridge community",
         "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
@@ -2839,21 +2854,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.018
-      },
-      {
-        "id": "50fd1447dc23199c",
-        "title": "Machine learning identifies catalyst 'sweet spot' for greener urea from waste gases",
-        "url": "https://phys.org/news/2026-04-machine-catalyst-sweet-greener-urea.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1777063201000,
-        "summary": "Urea is an extremely important chemical, especially for fertilizers. But, making urea is energy intensive and relies heavily on fossil fuels. However, new findings from Griffith University and the Queensland University of Technology have highlighted new ways to produce urea electrochemically, using electricity and waste gases such as carbon monoxide (CO) and nitrogen oxides (NO) instead.",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0995
       }
     ],
     "science": [
