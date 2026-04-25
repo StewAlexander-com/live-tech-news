@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-25T03:37:39.492463+00:00",
+  "generated_at": "2026-04-25T03:44:06.383357+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d815fdc165c37e36",
+        "title": "This duster changed the way I clean my gear, and now you can grab one for cheap",
+        "url": "https://www.androidpolice.com/wolfbox-mf70-42-deal/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1777088557000,
+        "summary": "Cleaning my tech is now easier and more efficient",
+        "tags": [
+          "wolfbox mf70",
+          "under $100",
+          "gadgets",
+          "best deals under $100"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9995
+      },
       {
         "id": "ca8fd21bfd18a315",
         "title": "Storage prices aren't what they used to be, but this 16TB external is priced to move",
@@ -942,19 +960,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8441
-      },
-      {
-        "id": "1a36a6a650ecc9c4",
-        "title": "Pentagon wants to water down drone program with autonomous subs",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/",
-        "source": "The Register",
-        "lane": "gadgets",
-        "published_ts": 1777048453000,
-        "summary": "What, you didn't expect autonomous military craft to stay in the sky forever? Drones: they're not just for the sky anymore. DARPA is seeking compact deep-ocean autonomous craft developed faster, smaller, and cheaper than today's full-ocean-depth AUV systems.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0492
       }
     ],
     "innovation": [
@@ -1898,22 +1903,24 @@
         "score": 0.8476
       },
       {
-        "id": "8e358acb63c212b4",
-        "title": "Spool Roller Gets Touch Screen",
-        "url": "https://hackaday.com/2026/04/24/spool-roller-gets-touch-screen/",
-        "source": "Hackaday",
+        "id": "2b025e6e5d22c076",
+        "title": "360-degree cameras have a new superpower",
+        "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
+        "source": "The Verge",
         "lane": "innovation",
         "published_ts": 1777044600000,
-        "summary": "If you have a desktop 3D printer, you probably want something to hang filament spools on. [LVTRC] has a spool roller that fits the bill. It also incorporates a scale …read more",
+        "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators do just that. Last January, […]",
         "tags": [
-          "3d printer hacks",
-          "filament scale",
-          "gc9a01",
-          "spool holder"
+          "cameras",
+          "drones",
+          "gadgets",
+          "hands-on",
+          "news",
+          "report"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.0765
+        "impact": "normal",
+        "score": 0.6258
       }
     ],
     "ai": [
@@ -2922,11 +2929,11 @@
         "summary": "",
         "tags": [
           "hn",
-          "points:7"
+          "points:8"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0008
+        "score": 0.9988
       },
       {
         "id": "05421e03149f40f4",
@@ -3762,19 +3769,19 @@
         "score": 1.0196
       },
       {
-        "id": "de099ee8000c7065",
-        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
-        "url": "https://arxiv.org/abs/2604.19930",
+        "id": "1026993190eb6e7d",
+        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
+        "url": "https://arxiv.org/abs/2604.20082",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777003200000,
-        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
+        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7195
+        "score": 0.718
       }
     ]
   },
