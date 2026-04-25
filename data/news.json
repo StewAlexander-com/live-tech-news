@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T01:40:10.189369+00:00",
+  "generated_at": "2026-04-25T01:43:35.684729+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3726,6 +3726,23 @@
         "score": 1.0196
       },
       {
+        "id": "7112570f628e3bd2",
+        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
+        "url": "https://arxiv.org/abs/2604.20109",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6911
+      },
+      {
         "id": "d451b5ef4d96c696",
         "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
         "url": "https://arxiv.org/abs/2604.20188",
@@ -3782,21 +3799,6 @@
         "tags": [
           "cs.ai",
           "q-bio.bm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0496
-      },
-      {
-        "id": "f0fc05a4347b3d5b",
-        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
-        "url": "https://arxiv.org/abs/2604.20077",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
