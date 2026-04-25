@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T02:37:52.631206+00:00",
+  "generated_at": "2026-04-25T02:45:39.064847+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1060,6 +1060,19 @@
         "score": 1.0786
       },
       {
+        "id": "8771ed3ae09ce3a9",
+        "title": "Diplomatic cable: US State Department has ordered a global push to bring attention to alleged distillation of US models by Chinese labs, including DeepSeek (Raphael Satter/Reuters)",
+        "url": "http://www.techmeme.com/260424/p42#a260424p42",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777071301000,
+        "summary": "Raphael Satter / Reuters: Diplomatic cable: US State Department has ordered a global push to bring attention to alleged distillation of US models by Chinese labs, including DeepSeek — The U.S. State Department has ordered a global push to bring attention to what it says are widespread efforts by Chinese companies …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9287
+      },
+      {
         "id": "0a4e3137c8daf8b1",
         "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
         "url": "https://www.reddit.com/r/technology/comments/1suutog/why_are_top_university_websites_serving_porn_it/",
@@ -1902,26 +1915,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9968
-      },
-      {
-        "id": "f37e03cc7b5a0831",
-        "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
-        "url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777043160000,
-        "summary": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
-        "tags": [
-          "climate",
-          "fundraising",
-          "amazon",
-          "ipo",
-          "nuclear fission",
-          "nuclear power"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7447
       }
     ],
     "ai": [
@@ -2883,6 +2876,21 @@
     ],
     "science": [
       {
+        "id": "cb67638e8dff4dde",
+        "title": "Can jarrah forests be recovered after bauxite mining?",
+        "url": "https://phys.org/news/2026-04-jarrah-forests-recovered-bauxite.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777084802000,
+        "summary": "In February, mining company Alcoa was hit with a $55 million penalty for illegally clearing about 2,000 hectares of WA's Northern Jarrah Forest. About $40 million was earmarked for so-called \"permanent ecological offsets,\" for Alcoa to repair the damage in terms of ecology lost.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0182
+      },
+      {
         "id": "38b21a2db35a1e4e",
         "title": "The most energetic neutrino ever detected could be primordial",
         "url": "https://phys.org/news/2026-04-energetic-neutrino-primordial.html",
@@ -3746,50 +3754,36 @@
         "score": 1.0196
       },
       {
-        "id": "de099ee8000c7065",
-        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
-        "url": "https://arxiv.org/abs/2604.19930",
+        "id": "f0fc05a4347b3d5b",
+        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
+        "url": "https://arxiv.org/abs/2604.20077",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777003200000,
-        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
+        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
         "tags": [
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7335
-      },
-      {
-        "id": "1026993190eb6e7d",
-        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
-        "url": "https://arxiv.org/abs/2604.20082",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7335
-      },
-      {
-        "id": "eed310e326ea8919",
-        "title": "BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature",
-        "url": "https://arxiv.org/abs/2604.21508",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.21508v1 Announce Type: new Abstract: Protein-ligand bioactivity data published in the literature are essential for drug discovery, yet manual curation struggles to keep pace with rapidly growing literature. Automated bioactivity extraction remains challenging because it requires not only interpreting biochemical semantics distributed across text, tables, and figures, but also reconstruc",
-        "tags": [
-          "cs.ai",
-          "q-bio.bm"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6791
+        "score": 0.6774
+      },
+      {
+        "id": "7112570f628e3bd2",
+        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
+        "url": "https://arxiv.org/abs/2604.20109",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6774
       }
     ]
   },
