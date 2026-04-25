@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T01:35:31.685609+00:00",
+  "generated_at": "2026-04-25T01:40:10.189369+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1923,6 +1923,19 @@
     ],
     "ai": [
       {
+        "id": "25fb31ad83e04359",
+        "title": "Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding (Hema Parmar/Bloomberg)",
+        "url": "http://www.techmeme.com/260424/p46#a260424p46",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777080901000,
+        "summary": "Hema Parmar / Bloomberg: Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding — Instacart co-founder Apoorva Mehta launched a hedge fund that relies on an army of artificial intelligence agents, one of the few using …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0782
+      },
+      {
         "id": "9ad122fdd44a9315",
         "title": "BMW Is One Step Closer To Selling You a Color-Changing Car",
         "url": "https://tech.slashdot.org/story/26/04/24/2055244/bmw-is-one-step-closer-to-selling-you-a-color-changing-car?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -2877,19 +2890,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.803
-      },
-      {
-        "id": "7f79a44facb9ec8c",
-        "title": "TikTok Pulls the AI Remix Setting That Worried Creators",
-        "url": "https://www.cnet.com/tech/services-and-software/tiktoks-ai-remix-setting-is-for-an-experimental-meme-maker-inspired-by-your-videos/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1777047880000,
-        "summary": "The AI setting sparked backlash from creators over privacy and content concerns.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8667
       }
     ],
     "science": [
@@ -3726,6 +3726,22 @@
         "score": 1.0196
       },
       {
+        "id": "d451b5ef4d96c696",
+        "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
+        "url": "https://arxiv.org/abs/2604.20188",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.20188v1 Announce Type: new Abstract: Learning the underlying potential energy of stochastic gradient systems from partial and noisy observations is a fundamental problem arising in physics, chemistry, and data-driven modeling. Classical approaches often rely on direct regression of governing equations or velocity fields, which can be sensitive to noise and external perturbations and may",
+        "tags": [
+          "cs.lg",
+          "math.ds"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6918
+      },
+      {
         "id": "de099ee8000c7065",
         "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
         "url": "https://arxiv.org/abs/2604.19930",
@@ -3781,23 +3797,6 @@
         "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
         "tags": [
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0496
-      },
-      {
-        "id": "7112570f628e3bd2",
-        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
-        "url": "https://arxiv.org/abs/2604.20109",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "math.oc"
         ],
         "paywall": false,
         "impact": "high",
