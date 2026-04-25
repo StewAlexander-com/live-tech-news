@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T02:29:51.203552+00:00",
+  "generated_at": "2026-04-25T02:37:52.631206+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -979,6 +979,21 @@
         "score": 1.07
       },
       {
+        "id": "a876c0c389dd363f",
+        "title": "Palantir inks $300 million deal with USDA to safeguard food supply",
+        "url": "https://www.reddit.com/r/technology/comments/1suy940/palantir_inks_300_million_deal_with_usda_to/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777080183000,
+        "summary": "submitted by /u/Shogouki [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9275
+      },
+      {
         "id": "35aa14234daca17c",
         "title": "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
         "url": "https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition",
@@ -1907,24 +1922,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7447
-      },
-      {
-        "id": "89499659afc03d0e",
-        "title": "This ancient $20 piece of gaming tech is still the best desktop streamer",
-        "url": "https://www.makeuseof.com/using-steam-link-as-desktop-streamer/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777042817000,
-        "summary": "I bought it out of curiosity, and ended up falling in love with it quickly",
-        "tags": [
-          "entertainment",
-          "windows",
-          "steam",
-          "game streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8485
       }
     ],
     "ai": [
@@ -3749,52 +3746,50 @@
         "score": 1.0196
       },
       {
-        "id": "f0fc05a4347b3d5b",
-        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
-        "url": "https://arxiv.org/abs/2604.20077",
+        "id": "de099ee8000c7065",
+        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
+        "url": "https://arxiv.org/abs/2604.19930",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
+        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.6809
+        "impact": "high",
+        "score": 0.7335
       },
       {
-        "id": "7112570f628e3bd2",
-        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
-        "url": "https://arxiv.org/abs/2604.20109",
+        "id": "1026993190eb6e7d",
+        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
+        "url": "https://arxiv.org/abs/2604.20082",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
+        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
         "tags": [
-          "cs.lg",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7335
+      },
+      {
+        "id": "eed310e326ea8919",
+        "title": "BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature",
+        "url": "https://arxiv.org/abs/2604.21508",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777003200000,
+        "summary": "arXiv:2604.21508v1 Announce Type: new Abstract: Protein-ligand bioactivity data published in the literature are essential for drug discovery, yet manual curation struggles to keep pace with rapidly growing literature. Automated bioactivity extraction remains challenging because it requires not only interpreting biochemical semantics distributed across text, tables, and figures, but also reconstruc",
+        "tags": [
           "cs.ai",
-          "math.oc"
+          "q-bio.bm"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6911
-      },
-      {
-        "id": "d451b5ef4d96c696",
-        "title": "Structure-Aware Variational Learning of a Class of Generalized Diffusions",
-        "url": "https://arxiv.org/abs/2604.20188",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20188v1 Announce Type: new Abstract: Learning the underlying potential energy of stochastic gradient systems from partial and noisy observations is a fundamental problem arising in physics, chemistry, and data-driven modeling. Classical approaches often rely on direct regression of governing equations or velocity fields, which can be sensitive to noise and external perturbations and may",
-        "tags": [
-          "cs.lg",
-          "math.ds"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6918
+        "score": 0.6791
       }
     ]
   },
