@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T15:58:05.173417+00:00",
+  "generated_at": "2026-04-25T16:06:06.858619+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -976,6 +976,23 @@
     ],
     "innovation": [
       {
+        "id": "3b4706f15fe5d5d4",
+        "title": "This app fixed my Linux audio in ways I didn't think a free app could",
+        "url": "https://www.makeuseof.com/this-app-fixed-linux-audio-ways-i-didnt-think-free-app-could/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777132818000,
+        "summary": "Low volume no more.",
+        "tags": [
+          "linux",
+          "linux apps",
+          "linux tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8484
+      },
+      {
         "id": "88236919ccff513c",
         "title": "China car giant BYD says it can thrive without US",
         "url": "https://www.reddit.com/r/technology/comments/1svfj27/china_car_giant_byd_says_it_can_thrive_without_us/",
@@ -1910,29 +1927,27 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0182
-      },
-      {
-        "id": "bfd2a96fd312ea2b",
-        "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
-        "url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777061454000,
-        "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
-        "tags": [
-          "climate",
-          "fundraising",
-          "ipo",
-          "nuclear power",
-          "x-energy",
-          "nuclear fission"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7467
       }
     ],
     "ai": [
+      {
+        "id": "596cc7a475f5e8a9",
+        "title": "Why Cohere is merging with Aleph Alpha",
+        "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777132800000,
+        "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+        "tags": [
+          "ai",
+          "cohere",
+          "digital sovereignty",
+          "aleph alpha"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8063
+      },
       {
         "id": "3c8428a318ed5e8b",
         "title": "Free Software Foundation Says 'Responsible AI' Licenses Which Restrict Harmful Uses are Unethical and Nonfree",
@@ -2820,29 +2835,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9826
+      }
+    ],
+    "science": [
+      {
+        "id": "aa5a28471883a180",
+        "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back",
+        "url": "https://phys.org/news/2026-04-lifethreatening-bacterium-hidden-motor-gave.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777132804000,
+        "summary": "Scientists have mapped in unprecedented detail the structure of Vibrio bacteria, which can cause life-threatening infections linked to antibiotic resistance. The King's College London team behind the study, published in Nature Communications, say the finding could provide new targets for life-saving treatment.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.018
       },
       {
-        "id": "21a5980fa31e448e",
-        "title": "The DOJ is backing xAI in its lawsuit against Colorado",
-        "url": "https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html?src=rss",
+        "id": "1043bbc723da4f33",
+        "title": "NASA's initial takeaways from the Artemis II mission, and more science stories",
+        "url": "https://www.engadget.com/science/nasas-initial-takeaways-from-the-artemis-ii-mission-and-more-science-stories-160000808.html?src=rss",
         "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1777061100000,
-        "summary": "The Department of Justice has announced that it's intervening on the behalf of xAI in the company's recent lawsuit against the state of Colorado. xAI first filed the suit in early April in response to a recent Colorado law that requires developers of \"high-risk\" AI systems (for example, ones used in healthcare, employment or housing) to both disclose and mitigate the risk of algorithmic discrimina",
+        "lane": "science",
+        "published_ts": 1777132800000,
+        "summary": "Now that Artemis II is all wrapped up, NASA has begun its post-game performance analyses of all the systems that worked together to get four astronauts safely to the moon and back earlier this month. In addition to taking humans farther than ever before, Artemis II served as a crucial test flight for upcoming crewed missions that are planned for as soon as 2027 and 2028, the latter being NASA's am",
         "tags": [
-          "politics & government",
-          "civil rights",
+          "science",
+          "space & astronomy",
           "site|engadget",
           "provider_name|engadget",
           "region|us",
           "language|en-us"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7576
-      }
-    ],
-    "science": [
+        "impact": "high",
+        "score": 0.7026
+      },
       {
         "id": "153845bc33652392",
         "title": "Don't just plant trees, plant forests to restore biodiversity for the future",
@@ -3727,38 +3757,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0175
-      },
-      {
-        "id": "378bf7771584926d",
-        "title": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
-        "url": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1777028436000,
-        "summary": "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
-        "tags": [
-          "space",
-          "rocket report",
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0672
-      },
-      {
-        "id": "8cf3dd0f743731f1",
-        "title": "How electron structure affects light responses in moiré materials",
-        "url": "https://phys.org/news/2026-04-electron-affects-responses-moir-materials.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777023002000,
-        "summary": "In materials science, if you can understand the \"texture\" of a material—how its internal patterns form and shift—you can begin to design how it behaves. That's the focus of the work of Zhenglu Li, assistant professor in the Mork Family Department of Chemical Engineering and Materials Science at USC Viterbi School of Engineering. Li's recently published paper in PNAS, titled \"Moiré excitons in gene",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0953
       }
     ]
   },
