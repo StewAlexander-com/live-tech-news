@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T03:44:06.383357+00:00",
+  "generated_at": "2026-04-25T03:50:21.668656+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1903,24 +1903,22 @@
         "score": 0.8476
       },
       {
-        "id": "2b025e6e5d22c076",
-        "title": "360-degree cameras have a new superpower",
-        "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-        "source": "The Verge",
+        "id": "8e358acb63c212b4",
+        "title": "Spool Roller Gets Touch Screen",
+        "url": "https://hackaday.com/2026/04/24/spool-roller-gets-touch-screen/",
+        "source": "Hackaday",
         "lane": "innovation",
         "published_ts": 1777044600000,
-        "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators do just that. Last January, […]",
+        "summary": "If you have a desktop 3D printer, you probably want something to hang filament spools on. [LVTRC] has a spool roller that fits the bill. It also incorporates a scale …read more",
         "tags": [
-          "cameras",
-          "drones",
-          "gadgets",
-          "hands-on",
-          "news",
-          "report"
+          "3d printer hacks",
+          "filament scale",
+          "gc9a01",
+          "spool holder"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.6258
+        "impact": "high",
+        "score": 0.8516
       }
     ],
     "ai": [
@@ -2875,6 +2873,26 @@
     ],
     "science": [
       {
+        "id": "26827c20b7fd7495",
+        "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
+        "url": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+        "source": "Ars Technica Science",
+        "lane": "science",
+        "published_ts": 1777085557000,
+        "summary": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
+        "tags": [
+          "science",
+          "space",
+          "golden dome",
+          "military space",
+          "missile defense",
+          "space force"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9816
+      },
+      {
         "id": "cb67638e8dff4dde",
         "title": "Can jarrah forests be recovered after bauxite mining?",
         "url": "https://phys.org/news/2026-04-jarrah-forests-recovered-bauxite.html",
@@ -2929,11 +2947,11 @@
         "summary": "",
         "tags": [
           "hn",
-          "points:8"
+          "points:9"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9988
+        "score": 0.9968
       },
       {
         "id": "05421e03149f40f4",
@@ -3767,21 +3785,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0196
-      },
-      {
-        "id": "1026993190eb6e7d",
-        "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
-        "url": "https://arxiv.org/abs/2604.20082",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20082v1 Announce Type: new Abstract: The trust in the predictions of Graph Neural Networks is limited by their opaque reasoning process. Prior methods have tried to explain graph networks via concept-based explanations extracted from the latent representations obtained after message passing. However, these explanations fall short of explaining the message passing process itself. To this",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.718
       }
     ]
   },
