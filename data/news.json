@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T15:28:12.643812+00:00",
+  "generated_at": "2026-04-25T15:40:40.603881+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -973,6 +973,24 @@
     ],
     "innovation": [
       {
+        "id": "310a7d63249592cf",
+        "title": "Your smart TV doesn't need the internet to be useful — here are 5 apps that prove it",
+        "url": "https://www.makeuseof.com/these-smart-tv-apps-work-offline/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777131017000,
+        "summary": "Your smart TV doesn’t have to become dumb when the internet goes out.",
+        "tags": [
+          "entertainment",
+          "smart tv",
+          "app",
+          "android tv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8472
+      },
+      {
         "id": "dbdd7f99636443a3",
         "title": "Why Tokyo is the most important tech destination of 2026",
         "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
@@ -1907,27 +1925,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.998
-      },
-      {
-        "id": "124a745c3b457c49",
-        "title": "US government’s Intel stake jumps 300% to $36B after CHIPS Act grants were converted to equity under Trump",
-        "url": "https://thenextweb.com/news/us-government-intel-stake-36-billion-chips-act",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1777060952000,
-        "summary": "In short: The US government’s 9.9% stake in Intel, acquired for $8.9 billion last August by converting CHIPS Act grants and Secure Enclave funds into equity at $20.47/share, is now worth approximately $36 billion after Intel’s stock surged 20%+ on a massive Q1 earnings beat. The $26.5 billion unrealised gain is one of the most […] This story continues at The Next Web",
-        "tags": [
-          "insights",
-          "politics",
-          "united states",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.896
       }
     ],
     "ai": [
+      {
+        "id": "3c8428a318ed5e8b",
+        "title": "Free Software Foundation Says 'Responsible AI' Licenses Which Restrict Harmful Uses are Unethical and Nonfree",
+        "url": "https://news.slashdot.org/story/26/04/25/079207/free-software-foundation-says-responsible-ai-licenses-which-restrict-harmful-uses-are-unethical-and-nonfree?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777131240000,
+        "summary": "The Free Software Foundation's Licensing and Compliance Manager published a blog post this week to explicitly state that\"Responsible AI\" Licenses (RAIL) are nonfree and unethical. The licenses restrict AI and ML software \"from being used in a specific list of harmful applications,\" according to the license's web site, \"e.g. in surveillance and crime prediction.\" (The license's steering committee i",
+        "tags": [
+          "gnu"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1316
+      },
       {
         "id": "eb36164154cf6398",
         "title": "How the Vatican is moving faster than most legacy institutions to shape AI rules and guardrails, with an AI framework, banning use of AI to write homilies, more (Russell Contreras/Axios)",
@@ -1955,6 +1970,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0468
+      },
+      {
+        "id": "a85cd9d049ce97f1",
+        "title": "GPT 5.5 biosafety bounty",
+        "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777126651000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:11"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0224
       },
       {
         "id": "deafd93f15bd1de3",
@@ -2804,40 +2835,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7576
-      },
-      {
-        "id": "83163d03cf85234e",
-        "title": "Natural-language AI helps chemists design molecules step by step",
-        "url": "https://phys.org/news/2026-04-natural-language-ai-chemists-molecules.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1777060801000,
-        "summary": "Designing molecules is one of chemistry's most complex challenges. From life-saving drugs to advanced materials, each compound requires a precise sequence of reactions. Planning these steps demands both technical knowledge and strategic insight, making it a task that often relies on years of experience.",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1009
-      },
-      {
-        "id": "bfdd9f7f6c688558",
-        "title": "Google To Invest Up To $40 Billion In Anthropic",
-        "url": "https://tech.slashdot.org/story/26/04/24/1933253/google-to-invest-up-to-40-billion-in-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1777060800000,
-        "summary": "Google plans to invest up to $40 billion more in Anthropic, starting with $10 billion now and another $30 billion tied to performance milestones. CNBC reports: Anthropic said the agreement expands on a longstanding partnership between the two companies. Earlier this month, Anthropic secured 5 gigawatts worth of computing capacity as part of an announcement with Google and Broadcom that will start ",
-        "tags": [
-          "google",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0445
       }
     ],
     "science": [
+      {
+        "id": "153845bc33652392",
+        "title": "Don't just plant trees, plant forests to restore biodiversity for the future",
+        "url": "https://phys.org/news/2026-04-dont-trees-forests-biodiversity-future.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777131001000,
+        "summary": "Around the world, people plan to plant more than 1 trillion trees this decade in an ambitious effort to slow climate change and reduce biodiversity loss. But if the past is prolonged, many of those planted trees won't survive. And if they do, they could end up as biological deserts that lack the richness and resilience of healthy forests.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0165
+      },
       {
         "id": "2fad04049941dfdc",
         "title": "Studying the emergence of leaders in moving crowds of pedestrians",
@@ -3739,21 +3754,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0953
-      },
-      {
-        "id": "576f3592b70dd2db",
-        "title": "Wild Balkan berries keep gin taste steady as climate shifts",
-        "url": "https://phys.org/news/2026-04-wild-balkan-berries-gin-steady.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777022401000,
-        "summary": "As he threaded his way through the scrub in Serbia's southern hills, Slobodan Velickovic stopped to inspect the small indigo berries that have made the Balkans a key part of the global gin industry.",
-        "tags": [
-          "agriculture"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
       }
     ]
   },
