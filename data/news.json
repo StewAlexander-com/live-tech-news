@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T02:45:39.064847+00:00",
+  "generated_at": "2026-04-25T03:37:39.492463+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -959,6 +959,38 @@
     ],
     "innovation": [
       {
+        "id": "81eadad1853de259",
+        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+        "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1777087800000,
+        "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+        "tags": [
+          "startups",
+          "pronto",
+          "lachy groom"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7462
+      },
+      {
+        "id": "43403ddc938eac8b",
+        "title": "Maine Governor Vetoes Data Center Moratorium Bill",
+        "url": "https://yro.slashdot.org/story/26/04/24/2357254/maine-governor-vetoes-data-center-moratorium-bill?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1777086000000,
+        "summary": "Maine Gov. Janet Mills vetoed a bill that would have imposed the nation's first statewide moratorium on new data centers, saying she supported the idea in principle but would not block a major redevelopment project tied to jobs and local investment. Instead, she said she will create a council to study data centers' effects while also signing a separate measure to deny them certain state tax incent",
+        "tags": [
+          "government"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0374
+      },
+      {
         "id": "5da7d21c5d5b2ad6",
         "title": "Muon Magnetic Moment Matches Model, Making Major Malaise",
         "url": "https://hackaday.com/2026/04/24/muon-magnetic-moment-matches-model-making-major-malaise/",
@@ -1882,42 +1914,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0765
-      },
-      {
-        "id": "2b025e6e5d22c076",
-        "title": "360-degree cameras have a new superpower",
-        "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1777044600000,
-        "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators do just that. Last January, […]",
-        "tags": [
-          "cameras",
-          "drones",
-          "gadgets",
-          "hands-on",
-          "news",
-          "report"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7894
-      },
-      {
-        "id": "4a01b92c0f116343",
-        "title": "India's central bank cancels Paytm Payments Bank's banking license, after imposing business curbs over non-compliance with rules in January 2024 (Gopika Gopakumar/Reuters)",
-        "url": "http://www.techmeme.com/260424/p23#a260424p23",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777043401000,
-        "summary": "Gopika Gopakumar / Reuters: India's central bank cancels Paytm Payments Bank's banking license, after imposing business curbs over non-compliance with rules in January 2024 — India's central bank said on Friday it has cancelled the banking licence issued to Paytm Payments Bank Limited, more than two years …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9968
       }
     ],
     "ai": [
+      {
+        "id": "b067a8f5fcb1ce50",
+        "title": "Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees (Anthropic)",
+        "url": "http://www.techmeme.com/260424/p48#a260424p48",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777085701000,
+        "summary": "Anthropic: Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees — At Anthropic, we're interested in how AI models could begin to affect commercial exchange. (You might recall Project Vend …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0653
+      },
       {
         "id": "639afc055ec014cc",
         "title": "Lawmakers and lobbyists say the Trump administration has lobbied against legislation that would regulate AI in at least six Republican-led states (Amrith Ramkumar/Wall Street Journal)",
@@ -2852,26 +2864,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1295
-      },
-      {
-        "id": "ee3e6198f04d79c2",
-        "title": "Banana Pi introduces a tiny RISC-V computer with up to 60 TOPS of AI performance",
-        "url": "https://liliputing.com/banana-pi-and-radxa-introduce-tiny-risc-v-computers-with-up-to-60-tops-of-ai-performance/",
-        "source": "Liliputing",
-        "lane": "ai",
-        "published_ts": 1777049271000,
-        "summary": "The Banana Pi BPI-SM10 is a tiny computer with SpacemiT K3 RISC-V processors, support for up to 32GB of LPDDR5-RAM, and an emphasis on AI thanks to the chip’s support for up to 60 TOPS of AI performance. Banana Pi hasn’t announced how much its model will cost yet, but the compute module that powers […] The post Banana Pi introduces a tiny RISC-V computer with up to 60 TOPS of AI performance appear",
-        "tags": [
-          "news",
-          "ai",
-          "banana pi",
-          "banana pi bpi-sm10",
-          "dev board",
-          "k3 pico-itx"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0772
       }
     ],
     "science": [
@@ -2919,6 +2911,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0149
+      },
+      {
+        "id": "766a01cfdd07362e",
+        "title": "(Blender) Cosmology with Geometry Nodes",
+        "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1777079294000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:7"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0008
       },
       {
         "id": "05421e03149f40f4",
@@ -3754,36 +3762,19 @@
         "score": 1.0196
       },
       {
-        "id": "f0fc05a4347b3d5b",
-        "title": "Analysis of Nystrom method with sequential ridge leverage scores",
-        "url": "https://arxiv.org/abs/2604.20077",
+        "id": "de099ee8000c7065",
+        "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
+        "url": "https://arxiv.org/abs/2604.19930",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20077v1 Announce Type: new Abstract: Large-scale kernel ridge regression (KRR) is limited by the need to store a large kernel matrix K_t. To avoid storing the entire matrix K_t, Nystrom methods subsample a subset of columns of the kernel matrix, and efficiently find an approximate KRR solution on the reconstructed matrix. The chosen subsampling distribution in turn affects the statistic",
+        "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from computationally expensive stiff integrators. We introduce an extended Newton implicit layer that enforces ",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.6774
-      },
-      {
-        "id": "7112570f628e3bd2",
-        "title": "Learning to Solve the Quadratic Assignment Problem with Warm-Started MCMC Finetuning",
-        "url": "https://arxiv.org/abs/2604.20109",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777003200000,
-        "summary": "arXiv:2604.20109v1 Announce Type: new Abstract: The quadratic assignment problem (QAP) is a fundamental NP-hard task that poses significant challenges for both traditional heuristics and modern learning-based solvers. Existing QAP solvers still struggle to achieve consistently competitive performance across structurally diverse real-world instances. To bridge this performance gap, we propose PLMA,",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "math.oc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6774
+        "impact": "high",
+        "score": 0.7195
       }
     ]
   },
