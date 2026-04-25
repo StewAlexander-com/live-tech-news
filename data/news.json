@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T19:20:25.872500+00:00",
+  "generated_at": "2026-04-25T19:32:11.410740+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -988,6 +988,41 @@
     ],
     "innovation": [
       {
+        "id": "7e65cab15afb5e8d",
+        "title": "I got all the benefits of a tiling WM without ever leaving GNOME",
+        "url": "https://www.makeuseof.com/i-got-all-the-benefits-of-a-tiling-wm-without-ever-leaving-gnome/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777145417000,
+        "summary": "No configuration file required",
+        "tags": [
+          "linux",
+          "gnome shell",
+          "gnome"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8495
+      },
+      {
+        "id": "c5513e60f4525c31",
+        "title": "Trump fires the entire National Science Board",
+        "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+        "source": "The Verge",
+        "lane": "innovation",
+        "published_ts": 1777144815000,
+        "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in […]",
+        "tags": [
+          "news",
+          "policy",
+          "politics",
+          "science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.789
+      },
+      {
         "id": "488c0ae920730bd4",
         "title": "Your PC might have 16GB of RAM but run like it has 8 — this one setting is why",
         "url": "https://www.makeuseof.com/pc-have-16gb-ram-but-run-like-8-this-one-setting-is-why/",
@@ -1919,39 +1954,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8471
-      },
-      {
-        "id": "03fb2e83b5b48d60",
-        "title": "X is shutting down its Communities feature",
-        "url": "https://www.reddit.com/r/technology/comments/1sutldt/x_is_shutting_down_its_communities_feature/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777067976000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9365
-      },
-      {
-        "id": "d311c357310deff2",
-        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-        "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777067624000,
-        "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
-        "tags": [
-          "government & policy",
-          "irs",
-          "palantir",
-          "trump administration"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8072
       }
     ],
     "ai": [
@@ -2874,6 +2876,21 @@
     ],
     "science": [
       {
+        "id": "2d1d91eb854be0de",
+        "title": "Venice is sinking. We analyzed every plan to save it, and none would preserve the city as we know it",
+        "url": "https://phys.org/news/2026-04-venice-city.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777145403000,
+        "summary": "Venice has coexisted with the sea throughout its 1,500-year history, perhaps better than any other city on Earth. Yet over the past century it has flooded increasingly often, as the sea rises and the city itself sinks under its own weight.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0193
+      },
+      {
         "id": "773f6dc99d9f183e",
         "title": "When the rain comes, some NYC subway riders stay home. Scientists are now mapping exactly who, and where",
         "url": "https://phys.org/news/2026-04-nyc-subway-riders-stay-home.html",
@@ -3775,24 +3792,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0198
-      },
-      {
-        "id": "99ed81e7e2320ac5",
-        "title": "SpaceX is reportedly set to make its own GPUs — but don't think it'll be competing with Nvidia's GeForce cards",
-        "url": "https://www.techradar.com/computing/gpu/spacex-is-reportedly-set-to-make-its-own-gpus-but-dont-think-itll-be-competing-with-nvidias-geforce-cards",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1777037153000,
-        "summary": "Don't think you'll be putting a SpaceX Falcon GPU in your gaming PC rather than an Nvidia, AMD or Intel graphics card.",
-        "tags": [
-          "gpu",
-          "ai platforms &amp; assistants",
-          "computing",
-          "computing components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.846
       }
     ]
   },
