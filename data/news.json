@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T14:07:29.296277+00:00",
+  "generated_at": "2026-04-27T14:12:18.588296+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2029,6 +2029,25 @@
         "score": 1.1013
       },
       {
+        "id": "5fd849cec8d8b187",
+        "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+        "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777295815000,
+        "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+        "tags": [
+          "ai",
+          "tc",
+          "china",
+          "manus",
+          "meta"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7936
+      },
+      {
         "id": "52eafb2a234ae88f",
         "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
         "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
@@ -2751,86 +2770,66 @@
         "score": 1.1168
       },
       {
-        "id": "8ebf067e5ce28f05",
-        "title": "Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems",
-        "url": "https://arxiv.org/abs/2604.22154",
-        "source": "arXiv cs.LG",
+        "id": "6529851f2fd7fd07",
+        "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+        "url": "https://arxiv.org/abs/2604.22119",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777262400000,
-        "summary": "arXiv:2604.22154v1 Announce Type: new Abstract: Emerging AI systems in behavioral health and psychiatry use multi-step or multi-agent LLM pipelines for tasks like assessing self-harm risk and screening for depression. However, common evaluation approaches, like LLM-as-a-judge, do not indicate when a decision is reliable or how errors may accumulate across multiple LLM judgements, limiting their su",
+        "summary": "arXiv:2604.22119v1 Announce Type: new Abstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, deception (intentionally misleading users or evaluators), evaluation gaming (strat",
         "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9331
+        "score": 0.9317
       },
       {
-        "id": "43b708e5477c4d5a",
-        "title": "Fast Neural-Network Approximation of Active Target Search Under Uncertainty",
-        "url": "https://arxiv.org/abs/2604.22254",
-        "source": "arXiv cs.LG",
+        "id": "ceb5f031b1a31902",
+        "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+        "url": "https://arxiv.org/abs/2604.22436",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777262400000,
-        "summary": "arXiv:2604.22254v1 Announce Type: new Abstract: We address the problem of searching for an unknown number of stationary targets at unknown positions with a mobile agent. A probability hypothesis density filter is used to estimate the expected number of targets under measurement uncertainty. Existing planners, such as Active Search (AS) and its Intermittent variant (ASI), achieve accurate detection",
+        "summary": "arXiv:2604.22436v1 Announce Type: new Abstract: The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools, agent capabilities are often compositional and execution-dependent, making them difficult to assess from textual descriptions alone. However, existing",
         "tags": [
-          "cs.lg",
+          "cs.ai",
+          "cs.ir",
           "cs.ma"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9331
+        "score": 0.9317
       },
       {
-        "id": "2c7e95163f589719",
-        "title": "FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting",
-        "url": "https://arxiv.org/abs/2604.22328",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777262400000,
-        "summary": "arXiv:2604.22328v1 Announce Type: new Abstract: Driven by the transition towards a climate-neutral energy system, accurate energy time series forecasting is critical for planning and operation. Yet, it remains largely a dataset-specific task, requiring comprehensive training data, limiting scalability, and resulting in high model development and maintenance effort. Recently, foundation models that",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.ce"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9331
-      },
-      {
-        "id": "5909ae2d723c43ba",
-        "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-        "url": "https://arxiv.org/abs/2604.21937",
+        "id": "70b6ad4dedcb941a",
+        "title": "On the Hybrid Nature of ABPMS Process Frames and its Implications on Automated Process Discovery",
+        "url": "https://arxiv.org/abs/2604.22455",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777262400000,
-        "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous",
+        "summary": "arXiv:2604.22455v1 Announce Type: new Abstract: A core component of any AI-Augmented Business Process Management System (ABPMS) is the process frame, which gives the system process-awareness and defines the boundaries in which the system must operate. Compared to traditional process models, the process frame should, in principle, provide a somewhat more permissive representation of the managed pro",
         "tags": [
-          "cs.ai",
-          "cs.ma"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1318
+        "score": 0.9317
       },
       {
-        "id": "671bfe434153963c",
-        "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
-        "url": "https://arxiv.org/abs/2604.22026",
+        "id": "c96fac31dab0fac4",
+        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+        "url": "https://arxiv.org/abs/2604.22748",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777262400000,
-        "summary": "arXiv:2604.22026v1 Announce Type: new Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper propo",
+        "summary": "arXiv:2604.22748v1 Announce Type: new Abstract: As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, navigate software, coordinate with others, or design experiments require predictive environment models, yet the term world model carries different meaning",
         "tags": [
-          "cs.ai",
-          "cs.cy",
-          "cs.dl"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1318
+        "score": 0.9317
       }
     ],
     "science": [
