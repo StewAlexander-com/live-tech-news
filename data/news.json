@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T22:50:33.709004+00:00",
+  "generated_at": "2026-04-27T23:06:01.926358+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -979,6 +979,42 @@
     ],
     "innovation": [
       {
+        "id": "342787ee0692bf18",
+        "title": "Plex has a brutally realistic crime drama you can binge for free, and it's not in English",
+        "url": "https://www.makeuseof.com/plex-brutally-realistic-crime-drama-free-not-english-spiral/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777330818000,
+        "summary": "Not only is Spiral a fantastic series, but all eight seasons are available to watch free of charge.",
+        "tags": [
+          "streaming",
+          "television",
+          "crime"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8484
+      },
+      {
+        "id": "9825d9126ff4cc8e",
+        "title": "A Different Kind of Ultrasonic Levitation",
+        "url": "https://hackaday.com/2026/04/27/a-different-kind-of-ultrasonic-levitation/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1777330808000,
+        "summary": "Ultrasonic levitation is by now a familiar trick: one or more ultrasonic transducers create a standing wave, and small objects can be held in the nodes of this standing wave. …read more",
+        "tags": [
+          "misc hacks",
+          "air hockey",
+          "ultrasonic",
+          "ultrasonic levitation",
+          "ultrasonic transducer"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.078
+      },
+      {
         "id": "679f6bcb8af373c1",
         "title": "Apple will let developers offer monthly subscriptions with a 12-month commitment starting in May, except in the US and Singapore (Eric Slivka/MacRumors)",
         "url": "http://www.techmeme.com/260427/p40#a260427p40",
@@ -1897,45 +1933,53 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8493
-      },
-      {
-        "id": "ed32eed546c2954a",
-        "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
-        "url": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777299479000,
-        "summary": "Governments across Europe are looking to rely less on American tech providers.",
-        "tags": [
-          "government & policy",
-          "cloud act",
-          "digital sovereignty",
-          "eurostack"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.799
-      },
-      {
-        "id": "3254926dbbb27ba8",
-        "title": "What’s behind Europe’s efforts to ditch U.S. software in favor of sovereign tech",
-        "url": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777299479000,
-        "summary": "Governments across Europe are looking to rely less on American tech providers.",
-        "tags": [
-          "government & policy",
-          "cloud act",
-          "digital sovereignty",
-          "eurostack"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.804
       }
     ],
     "ai": [
+      {
+        "id": "af6b534b952ba1a2",
+        "title": "Study Finds a Third of New Websites Are AI-Generated",
+        "url": "https://tech.slashdot.org/story/26/04/27/2123224/study-finds-a-third-of-new-websites-are-ai-generated?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777330800000,
+        "summary": "alternative_right shares a report from 404 Media: Researchers working with data from the Internet Archive have discovered that a third of websites created since 2022 are AI-generated. The team of researchers -- which includes people from Stanford, the Imperial College London, and the Internet Archive -- published their findings online in a paper titled \"The Impact of AI-Generated Text on the Inter",
+        "tags": [
+          "internet"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "631786a602c5aadd",
+        "title": "Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius (Giada Zampano/Associated Press)",
+        "url": "http://www.techmeme.com/260427/p41#a260427p41",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777330800000,
+        "summary": "Giada Zampano / Associated Press: Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius — Archaeologists and researchers at the ancient Roman site of Pompeii have used artificial intelligence for the first time to digitally reconstruct …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0779
+      },
+      {
+        "id": "9d73234d4a1527a4",
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "source": "MIT Tech Review AI",
+        "lane": "ai",
+        "published_ts": 1777330377000,
+        "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterprise and might even oust…",
+        "tags": [
+          "artificial intelligence",
+          "app"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9958
+      },
       {
         "id": "5bfb4cd6fa9e7e3a",
         "title": "How principles of self‑compassion help fight loneliness in the age of AI",
@@ -2866,56 +2910,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0184
-      },
-      {
-        "id": "b6406bf36e4d13b5",
-        "title": "Sequoia and Nvidia back AlphaGo creator David Silver’s Ineffable Intelligence at $5.1 billion",
-        "url": "https://thenextweb.com/news/ineffable-intelligence-david-silver-sequoia-nvidia-5-billion",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777301622000,
-        "summary": "Silver left Google DeepMind in late 2025 after more than a decade building AlphaGo, AlphaZero, AlphaStar, and contributing to Gemini. Ineffable Intelligence was incorporated in November 2025 and has no product, no revenue, and no public roadmap. What it has is a thesis, and a founder whose track record is worth a billion dollars to […] This story continues at The Next Web",
-        "tags": [
-          "startups and technology",
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.892
-      },
-      {
-        "id": "9870f70b08bb2c68",
-        "title": "The Samsung Galaxy Glasses have leaked — and they look a lot like their Ray-Ban Meta rivals, but with one key advantage",
-        "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-samsung-galaxy-glasses-have-leaked-and-they-look-a-lot-like-their-ray-ban-meta-rivals-but-with-one-key-advantage",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777301053000,
-        "summary": "The Samsung Galaxy Glasses are looking good in leaked renders, and they're likely to be powered by better AI than their main rival.",
-        "tags": [
-          "virtual reality &amp; augmented reality",
-          "computing",
-          "software"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9156
-      },
-      {
-        "id": "d8180d11c71126b4",
-        "title": "Canva says it \"moved quickly to investigate and fix\" an issue with its Magic Layers feature that replaced the word \"Palestine\" in designs, after a viral X post (Jess Weatherbed/The Verge)",
-        "url": "http://www.techmeme.com/260427/p28#a260427p28",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777300807000,
-        "summary": "Jess Weatherbed / The Verge: Canva says it “moved quickly to investigate and fix” an issue with its Magic Layers feature that replaced the word “Palestine” in designs, after a viral X post — ﻿The Magic Layers feature is off to a good start. … One of Canva's new AI features …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0757
       }
     ],
     "science": [
+      {
+        "id": "65e8fe4b08dc1536",
+        "title": "This ultracold quantum device turns electricity into something far stranger that could unlock sound-based lasers",
+        "url": "https://phys.org/news/2026-04-ultracold-quantum-device-electricity-stranger.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777330804000,
+        "summary": "Researchers at McGill University have developed a novel device that generates sound-like particles known as phonons at extremely cold temperatures. The technology could be used to create phonon lasers, with possible applications in communications and medical diagnostics.",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0995
+      },
       {
         "id": "a88b85bff476b751",
         "title": "Sewers have been hiding a climate problem in plain sight, and this new tool finally exposes its true scale",
@@ -3811,21 +3823,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1302
-      },
-      {
-        "id": "f925b27d467c62f3",
-        "title": "New method to raise investment funds for projects that restore coastal wetlands for climate adaptation",
-        "url": "https://phys.org/news/2026-04-method-investment-funds-coastal-wetlands.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777297203000,
-        "summary": "The Center for Coastal Climate Resilience (CCCR) at the University of California, Santa Cruz, has partnered with The Nature Conservancy to develop a new tool for funding wetland conservation and restoration projects through verifiable \"Coastal Resilience Assets.\" The value of these assets is based on the storm and flood protection benefits that the wetlands provide.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ]
   },
