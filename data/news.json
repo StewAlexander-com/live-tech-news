@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T03:00:49.563517+00:00",
+  "generated_at": "2026-04-27T04:06:03.616912+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -967,6 +967,21 @@
     ],
     "innovation": [
       {
+        "id": "e35e2d3cfab6d001",
+        "title": "Right-to-Repair Laws Gain Political Momentum Across America",
+        "url": "https://news.slashdot.org/story/26/04/27/0210243/right-to-repair-laws-gain-political-momentum-across-america?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1777260840000,
+        "summary": "\"California, Colorado, Minnesota, New York, Connecticut, Oregon and Washington have all passed comprehensive right-to-repair regulations,\" reports CNBC, \"covering everything from consumer electronics and farm equipment to wheelchairs and automobiles.\" And the consumer movement \"continues to gain political momentum\" across America... As of this year, advocates are tracking 57 right-to-repair bills ",
+        "tags": [
+          "usa"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0393
+      },
+      {
         "id": "ee4bc8b7a759aa79",
         "title": "Truecaller faces mounting pressures as its growth matures",
         "url": "https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/",
@@ -1923,22 +1938,215 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9266
-      },
-      {
-        "id": "b2d7f1401aec697a",
-        "title": "33% of S&P 500 companies provided security perks for execs in 2025: Jensen Huang's security cost rose from $690K in 2023 to $3.5M in 2025, Zuckerberg spent $22M (Eli Rosenberg/The Information)",
-        "url": "http://www.techmeme.com/260425/p15#a260425p15",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777164934000,
-        "summary": "Eli Rosenberg / The Information: 33% of S&P 500 companies provided security perks for execs in 2025: Jensen Huang's security cost rose from $690K in 2023 to $3.5M in 2025, Zuckerberg spent $22M — Nvidia CEO Jensen Huang cuts a distinctive image, habitually clad in one of his many leather jackets.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.997
       }
     ],
     "ai": [
+      {
+        "id": "5909ae2d723c43ba",
+        "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+        "url": "https://arxiv.org/abs/2604.21937",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.21937v1 Announce Type: new Abstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and consistently underperform in these high-complexity scenarios. Here we present MolClaw, an autonomous",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "671bfe434153963c",
+        "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+        "url": "https://arxiv.org/abs/2604.22026",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22026v1 Announce Type: new Abstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper propo",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.dl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "6529851f2fd7fd07",
+        "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+        "url": "https://arxiv.org/abs/2604.22119",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22119v1 Announce Type: new Abstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but are not limited to, deception (intentionally misleading users or evaluators), evaluation gaming (strat",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "ceb5f031b1a31902",
+        "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+        "url": "https://arxiv.org/abs/2604.22436",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22436v1 Announce Type: new Abstract: The rapid growth of AI agent ecosystems is transforming how complex tasks are delegated and executed, creating a new challenge of identifying suitable agents for a given task. Unlike traditional tools, agent capabilities are often compositional and execution-dependent, making them difficult to assess from textual descriptions alone. However, existing",
+        "tags": [
+          "cs.ai",
+          "cs.ir",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "70b6ad4dedcb941a",
+        "title": "On the Hybrid Nature of ABPMS Process Frames and its Implications on Automated Process Discovery",
+        "url": "https://arxiv.org/abs/2604.22455",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22455v1 Announce Type: new Abstract: A core component of any AI-Augmented Business Process Management System (ABPMS) is the process frame, which gives the system process-awareness and defines the boundaries in which the system must operate. Compared to traditional process models, the process frame should, in principle, provide a somewhat more permissive representation of the managed pro",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "c96fac31dab0fac4",
+        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+        "url": "https://arxiv.org/abs/2604.22748",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22748v1 Announce Type: new Abstract: As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, navigate software, coordinate with others, or design experiments require predictive environment models, yet the term world model carries different meaning",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "52ac7b6c566417b3",
+        "title": "LTBs-KAN: Linear-Time B-splines Kolmogorov-Arnold Networks",
+        "url": "https://arxiv.org/abs/2604.22034",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22034v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) are a recent neural network architecture offering an alternative to Multilayer Perceptrons (MLPs) with improved explainability and expressibility. However, KANs are significantly slower than MLPs due to the recursive nature of B-spline function computations, limiting their application. This work addresses these issue",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "f12dfb5892c179c0",
+        "title": "Learning Coverage- and Power-Optimal Transmitter Placement from Building Maps: A Comparative Study of Direct and Indirect Neural Approaches",
+        "url": "https://arxiv.org/abs/2604.22056",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22056v1 Announce Type: new Abstract: Optimal wireless transmitter placement is a central task in radio-network planning, yet exhaustive search becomes prohibitively expensive at scale. This paper studies the single-transmitter setting under a fixed learned propagation surrogate, where exhaustive per-pixel evaluation remains tractable and provides surrogate-exact ground truth. We introdu",
+        "tags": [
+          "cs.lg",
+          "cs.ni",
+          "eess.sp"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "0a64c2ddb5bb9142",
+        "title": "Generating Synthetic Malware Samples Using Generative AI",
+        "url": "https://arxiv.org/abs/2604.22084",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22084v1 Announce Type: new Abstract: Malware attacks have a significant negative impact on organizations of varied scales in the field of cybersecurity. Recently, malware researchers have increasingly turned to machine learning techniques to combat sophisticated obfuscation methods used in malware. However, collecting a diverse set of malware samples with various obfuscation techniques ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "8ebf067e5ce28f05",
+        "title": "Reliable Self-Harm Risk Screening via Adaptive Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2604.22154",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22154v1 Announce Type: new Abstract: Emerging AI systems in behavioral health and psychiatry use multi-step or multi-agent LLM pipelines for tasks like assessing self-harm risk and screening for depression. However, common evaluation approaches, like LLM-as-a-judge, do not indicate when a decision is reliable or how errors may accumulate across multiple LLM judgements, limiting their su",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "43b708e5477c4d5a",
+        "title": "Fast Neural-Network Approximation of Active Target Search Under Uncertainty",
+        "url": "https://arxiv.org/abs/2604.22254",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22254v1 Announce Type: new Abstract: We address the problem of searching for an unknown number of stationary targets at unknown positions with a mobile agent. A probability hypothesis density filter is used to estimate the expected number of targets under measurement uncertainty. Existing planners, such as Active Search (AS) and its Intermittent variant (ASI), achieve accurate detection",
+        "tags": [
+          "cs.lg",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "2c7e95163f589719",
+        "title": "FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting",
+        "url": "https://arxiv.org/abs/2604.22328",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22328v1 Announce Type: new Abstract: Driven by the transition towards a climate-neutral energy system, accurate energy time series forecasting is critical for planning and operation. Yet, it remains largely a dataset-specific task, requiring comprehensive training data, limiting scalability, and resulting in high model development and maintenance effort. Recently, foundation models that",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ce"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "8a50e2b86ec3cc6c",
+        "title": "OpenAI publishes a five-principle framework for AGI development, pledging to resist concentrating AI power and to collaborate with companies and governments (Marcus Schuler/Implicator.ai)",
+        "url": "http://www.techmeme.com/260426/p12#a260426p12",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777261506000,
+        "summary": "Marcus Schuler / Implicator.ai: OpenAI publishes a five-principle framework for AGI development, pledging to resist concentrating AI power and to collaborate with companies and governments — OpenAI published a five-principle framework on Sunday for the development of artificial general intelligence.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0728
+      },
       {
         "id": "b7d49a7aa91fde87",
         "title": "An interview with Bill Nguyen, a tech entrepreneur who is completely outsourcing parts of his life to an AI assistant in his bid to create a virtual body double (Reed Albergotti/Semafor)",
@@ -1982,6 +2190,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0033
+      },
+      {
+        "id": "b6256cae4ad9ddf0",
+        "title": "An amateur solved a 60-year-old Erdős problem using a single GPT-5.4 Pro prompt; Terence Tao says it's a \"nice achievement\" with unclear long-term significance (Joseph Howlett/Scientific American)",
+        "url": "http://www.techmeme.com/260426/p10#a260426p10",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777252242000,
+        "summary": "Joseph Howlett / Scientific American: An amateur solved a 60-year-old Erd&odblacs problem using a single GPT-5.4 Pro prompt; Terence Tao says it's a “nice achievement” with unclear long-term significance — A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0209
       },
       {
         "id": "864e05d1b6c0acd0",
@@ -2646,220 +2867,138 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0986
-      },
-      {
-        "id": "aa9d192170c2d7c6",
-        "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions | AI (artificial intelligence)",
-        "url": "https://www.reddit.com/r/technology/comments/1sw0r7q/officials_hugely_underestimated_impact_of_ai/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777188160000,
-        "summary": "submitted by /u/Shogouki [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9764
-      },
-      {
-        "id": "3291605e27ea7170",
-        "title": "Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence)",
-        "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777186810000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:0"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8615
-      },
-      {
-        "id": "69784a31d8685fa0",
-        "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
-        "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777186810000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:0"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1316
-      },
-      {
-        "id": "d24ec6e2e4e2519c",
-        "title": "I learned how to play Marathon, but ONI the Irish AI taught me how to feel about it",
-        "url": "https://www.techradar.com/gaming/i-learned-how-to-play-marathon-but-oni-the-irish-ai-taught-me-how-to-feel-about-it",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777186800000,
-        "summary": "Marathon has a brutal onboarding experience. But thankfully, your onboard AI knows just the right things to say.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9176
-      },
-      {
-        "id": "20caab6e6888e12a",
-        "title": "Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend (Stephen Morris/Financial Times)",
-        "url": "http://www.techmeme.com/260426/p1#a260426p1",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777181144000,
-        "summary": "Stephen Morris / Financial Times: Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend — Thomas Kurian, Google Cloud's CEO, says its AI chips and models can help the data centre business gain ground",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.079
-      },
-      {
-        "id": "f0ba7b1cfe714dcd",
-        "title": "Is AI Cannibalizing Human Intelligence? A Neuroscientist's Way to Stop It",
-        "url": "https://news.slashdot.org/story/26/04/26/0356234/is-ai-cannibalizing-human-intelligence-a-neuroscientists-way-to-stop-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1777178040000,
-        "summary": "The AI industry is largely failing to ask a key design question, argues theoretical neuroscientist/cognitive scientist Vivienne Ming. Are their AI products building human capacity or consuming it? In the Wall Street Journal Ming shares her experiment about which group performed best at predicting real-world events (compared to forecasters on prediction market Polymarket) — AI, human, or human-AI h",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1289
-      },
-      {
-        "id": "e6019c9f356fdedd",
-        "title": "What are your chances of being audited now that the IRS is using AI? Jury is still out",
-        "url": "https://www.reddit.com/r/technology/comments/1svuq4z/what_are_your_chances_of_being_audited_now_that/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777169294000,
-        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9945
-      },
-      {
-        "id": "2d1a7c59a3f474ea",
-        "title": "Manitoba to ban social media, AI chatbots for youth — a first in Canada",
-        "url": "https://www.reddit.com/r/technology/comments/1svupkc/manitoba_to_ban_social_media_ai_chatbots_for/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777169247000,
-        "summary": "submitted by /u/Puginator [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0029
-      },
-      {
-        "id": "f6a30b38204fb224",
-        "title": "A look at growing and increasingly public personal security measures for tech executives as public sentiment turns darkly negative on AI (Eli Rosenberg/The Information)",
-        "url": "http://www.techmeme.com/260425/p15#a260425p15",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777164934000,
-        "summary": "Eli Rosenberg / The Information: A look at growing and increasingly public personal security measures for tech executives as public sentiment turns darkly negative on AI — Nvidia CEO Jensen Huang cuts a distinctive image, habitually clad in one of his many leather jackets. But it wasn't Huang's outfit that caught …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7671
-      },
-      {
-        "id": "0ce6645cb9c53a47",
-        "title": "Agents Aren't Coworkers, Embed Them in Your Software",
-        "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777161220000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1116
-      },
-      {
-        "id": "fa1c754a8044b29d",
-        "title": "DeepSeek-V4 on Day 0: From Fast Inference to Verified RL with SGLang and Miles",
-        "url": "https://www.lmsys.org/blog/2026-04-25-deepseek-v4/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777160645000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9718
-      },
-      {
-        "id": "c51d4d1f21598f72",
-        "title": "A look at Strider, an intelligence firm that claims to use agentic AI and public records to let the US Air Force, NATO, and others identify foreign state actors (Jamie Tarabay/Bloomberg)",
-        "url": "http://www.techmeme.com/260425/p14#a260425p14",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777157402000,
-        "summary": "Jamie Tarabay / Bloomberg: A look at Strider, an intelligence firm that claims to use agentic AI and public records to let the US Air Force, NATO, and others identify foreign state actors — Trump's economic crackdown on China's US interests is creating opportunities for a Utah-based intelligence firm",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7471
-      },
-      {
-        "id": "dcf7605e11fc2796",
-        "title": "A profile of Strider, an intelligence firm that leverages agentic AI and public records to help the US Air Force, NATO, and others identify foreign state actors (Jamie Tarabay/Bloomberg)",
-        "url": "http://www.techmeme.com/260425/p14#a260425p14",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777157402000,
-        "summary": "Jamie Tarabay / Bloomberg: A profile of Strider, an intelligence firm that leverages agentic AI and public records to help the US Air Force, NATO, and others identify foreign state actors — Trump's economic crackdown on China's US interests is creating opportunities for a Utah-based intelligence firm",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0786
-      },
-      {
-        "id": "c95df18132b0891c",
-        "title": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police",
-        "url": "https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1777155240000,
-        "summary": "Two months following the deadly shooting in Tumbler Ridge, British Columbia, OpenAI's Sam Altman has formally apologized for not informing police of the alarming ChatGPT conversations seen with the suspect's account. Before the incident, OpenAI banned the account belonging to the alleged shooter, Jesse Van Rootselaar, for violating its usage policy due to potential for real-world violence. \"I am d",
-        "tags": [
-          "education",
-          "site|engadget",
-          "provider_name|engadget",
-          "region|us",
-          "language|en-us",
-          "author_name|jackson chen"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7032
       }
     ],
     "science": [
+      {
+        "id": "9e18dda4aef6dfcc",
+        "title": "Novel study maps changes in US immigration policy landscape since 9/11",
+        "url": "https://phys.org/news/2026-04-immigration-policy-landscape.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777262403000,
+        "summary": "In a comprehensive analysis of state and local sanctuary and anti-sanctuary policies, researchers have mapped the rapidly evolving legal immigration landscape in the US from 2000 to 2021. The dataset sheds light on trends in immigration legislation including \"punitive\" preemption, state government tendencies to enact laws that are ideologically opposed to the current federal administration, and co",
+        "tags": [
+          "political science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.018
+      },
+      {
+        "id": "bed873e64def5b78",
+        "title": "H-Sets: Hessian-Guided Discovery of Set-Level Feature Interactions in Image Classifiers",
+        "url": "https://arxiv.org/abs/2604.22045",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22045v1 Announce Type: cross Abstract: Feature attribution methods explain the predictions of deep neural networks by assigning importance scores to individual input features. However, most existing methods focus solely on marginal effects, overlooking feature interactions, where groups of features jointly influence model output. Such interactions are especially important in image class",
+        "tags": [
+          "cs.cv",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "f11cf17c3356bbba",
+        "title": "Protect the Brain When Treating the Heart: A Convolutional Neural Network for Detecting Emboli",
+        "url": "https://arxiv.org/abs/2604.22258",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22258v1 Announce Type: new Abstract: Gaseous microemboli (GME) represent a common complication of cardiac structural interventions across both surgical and transcatheter approaches. Transthoracic cardiac ultrasound imaging represents a convenient methodology to visualize the presence of circulating GME. However, their detection and quantification are far from trivial due to operator-dep",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "d77d391c5312f98e",
+        "title": "SOC-ICNN: From Polyhedral to Conic Geometry for Learning Convex Surrogate Functions",
+        "url": "https://arxiv.org/abs/2604.22355",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22355v1 Announce Type: new Abstract: Classical ReLU-based Input Convex Neural Networks (ICNNs) are equivalent to the optimal value functions of Linear Programming (LP). This intrinsic structural equivalence restricts their representational capacity to piecewise-linear polyhedral functions. To overcome this representational bottleneck, we propose the SOC-ICNN, an architecture that genera",
+        "tags": [
+          "cs.lg",
+          "math.oc",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
+      {
+        "id": "093f25f6837c92ad",
+        "title": "Multi-Task Optimization over Networks of Tasks",
+        "url": "https://arxiv.org/abs/2604.21991",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.21991v1 Announce Type: cross Abstract: Multi-task optimization is a powerful approach for solving a large number of tasks in parallel. However, existing algorithms face distinct limitations: Population-based methods scale poorly and remain underexplored for large task sets. Approaches that do scale beyond a thousand tasks are mostly MAP-Elites variants and rely on a fixed, discretized a",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.048
+      },
+      {
+        "id": "2ec95e61de44c74b",
+        "title": "Optimal sequential decision-making for error propagation mitigation in digital twins",
+        "url": "https://arxiv.org/abs/2604.22168",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22168v1 Announce Type: new Abstract: Here, we explore the problem of error propagation mitigation in modular digital twins as a sequential decision process. Building on a companion study that used a Hidden Markov Model (HMM) to infer latent error regimes from surrogate-physics residuals, we develop a Markov Decision Process (MDP) in which the inferred regimes serve as states, corrective",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.048
+      },
+      {
+        "id": "23b722dd9ccd8174",
+        "title": "Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems",
+        "url": "https://arxiv.org/abs/2604.22170",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22170v1 Announce Type: new Abstract: Recommender Systems~(RS) have been shown to be vulnerable to injective attacks, where attackers inject limited fake user profiles to promote the exposure of target items to real users for unethical gains (e.g., economic or political advantages). Since attackers typically lack knowledge of the victim model deployed in the target RS, existing methods r",
+        "tags": [
+          "cs.lg",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.048
+      },
+      {
+        "id": "95ea1127c30851f9",
+        "title": "How LLMs Detect and Correct Their Own Errors: The Role of Internal Confidence Signals",
+        "url": "https://arxiv.org/abs/2604.22271",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777262400000,
+        "summary": "arXiv:2604.22271v1 Announce Type: new Abstract: Large language models can detect their own errors and sometimes correct them without external feedback, but the underlying mechanisms remain unknown. We investigate this through the lens of second-order models of confidence from decision neuroscience. In a first-order system, confidence derives from the generation signal itself and is therefore maxim",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.048
+      },
       {
         "id": "b41bedb8be1beb7b",
         "title": "Fairer disaster aid arrives just as fast with a new routing algorithm",
@@ -3659,129 +3798,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0168
-      },
-      {
-        "id": "922c244f433f7eb7",
-        "title": "Low wages, poor training put security guards—and the public—at risk, study finds",
-        "url": "https://phys.org/news/2026-04-wages-poor.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777080001000,
-        "summary": "Tens of thousands of private security guards in California play a critical role in public safety, but poverty-level wages and poor training put both the guards and the public at risk, according to a new study by the UC Berkeley Labor Center.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
-      },
-      {
-        "id": "ca7e462d959a1754",
-        "title": "Cosmology with Geometry Nodes",
-        "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1777079294000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:55"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8974
-      },
-      {
-        "id": "05421e03149f40f4",
-        "title": "Replace IBM Quantum back end with /dev/urandom",
-        "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1777078718000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2078
-      },
-      {
-        "id": "62f91231b294b722",
-        "title": "Education saves lives: New study reveals global link between learning and longevity",
-        "url": "https://phys.org/news/2026-04-reveals-global-link-longevity.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777076401000,
-        "summary": "A major international study involving researchers from The University of Manchester has found that education is one of the strongest predictors of how long people live. Using a new statistical approach to overcome gaps in global data, the research shows that people with more education live significantly longer—even in countries where official records are incomplete. The research is published in th",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.008
-      },
-      {
-        "id": "f960f2cc8f987383",
-        "title": "New study reveals how video games support children's well-being",
-        "url": "https://phys.org/news/2026-04-reveals-video-games-children.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777072801000,
-        "summary": "A study published this month in Reading Research Quarterly is challenging the long-held stereotype of the sedentary gamer. In their new paper, Dr. Fiona Scott, Dr. Liz Chesworth, Dr. Cath Bannister, Daniel Kuria, Shabana Roscoe and Yao Wang argue that instead of viewing digital play as a passive or inherently unhealthy activity, educators and parents should recognize it as a complex, embodied form",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0181
-      },
-      {
-        "id": "a1e7767e9c396498",
-        "title": "Chernobyl's exclusion zone is a beacon of biodiversity—but it faces new threats from Russia's invasion",
-        "url": "https://phys.org/news/2026-04-chernobyl-exclusion-zone-beacon-biodiversity.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777070401000,
-        "summary": "April 26 marks the 40th anniversary of the explosion at Reactor 4 of the Chernobyl nuclear power plant in Ukraine. The accident caused the largest ever release of radioactive material into the environment, and at the time people predicted that the affected area would be rendered uninhabitable, devoid of life for thousands of years. But the reality is quite different.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1001
-      },
-      {
-        "id": "2a7210ff53dccec9",
-        "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-        "url": "https://github.com/manankharwar/fusioncore",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1777070198000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1312
-      },
-      {
-        "id": "12f2b643ba45dd01",
-        "title": "El Niño season predicted to start as early as next month",
-        "url": "https://phys.org/news/2026-04-el-nio-season-early-month.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777068003000,
-        "summary": "An El Niño event is expected to develop from mid-2026, impacting global temperature and rainfall patterns, according to the World Meteorological Organization (WMO). The latest monthly Global Seasonal Climate Update from WMO signals a clear shift in the Equatorial Pacific: sea-surface temperatures are rising rapidly, pointing to a likely return of El Niño conditions as early as May-July 2026. Forec",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0164
       }
     ]
   },
