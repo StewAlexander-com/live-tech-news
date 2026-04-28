@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T02:13:10.562095+00:00",
+  "generated_at": "2026-04-28T02:54:09.372749+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -157,6 +157,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8438
+      },
+      {
+        "id": "879edcfabf99be03",
+        "title": "Using Rust to Build a $1 Handheld Gaming Console",
+        "url": "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1777326490000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:15"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9518
       },
       {
         "id": "37fddc8bdc521921",
@@ -944,26 +960,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8054
-      },
-      {
-        "id": "325eb8f960642454",
-        "title": "GPD’s new MCIO 8i graphics dock and mini PC support PCIe 5.0 x8 speeds",
-        "url": "https://liliputing.com/gpds-new-mcio-8i-graphics-dock-and-mini-pc-support-pcie-5-0-x8-speeds/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1777304270000,
-        "summary": "Handheld gaming PC maker GPD has two new devices on the way, and neither are handhelds. One is a mini PC and the other is a GPU dock. What they have in common is that they’re some of the first consumer-focused devices with an MCIO 8i connector with support for PCIe 5.0 x8 connections using […] The post GPD’s new MCIO 8i graphics dock and mini PC support PCIe 5.0 x8 speeds appeared first on Liliput",
-        "tags": [
-          "news",
-          "egpu",
-          "gpd",
-          "gpd box",
-          "gpd g2",
-          "graphics dock"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0983
       }
     ],
     "innovation": [
@@ -1900,6 +1896,32 @@
     ],
     "ai": [
       {
+        "id": "eb96753d851e9edb",
+        "title": "Shanghai-based Lightelligence, which makes photonics chips, surges by nearly 400% in its trading debut in Hong Kong after raising ~$310M in its IPO (Ann Cao/South China Morning Post)",
+        "url": "http://www.techmeme.com/260427/p51#a260427p51",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777343101000,
+        "summary": "Ann Cao / South China Morning Post: Shanghai-based Lightelligence, which makes photonics chips, surges by nearly 400% in its trading debut in Hong Kong after raising ~$310M in its IPO — Lightelligence jumps by 400% in Hong Kong debut amid AI-driven demand for photonics chips — Shanghai-based firm's IPO reflects mainland China's push …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0699
+      },
+      {
+        "id": "7963857586d1f023",
+        "title": "OpenAI releases Symphony, an open-source spec for agent orchestration that turns a project-management board like Linear into a control plane for coding agents (OpenAI)",
+        "url": "http://www.techmeme.com/260427/p50#a260427p50",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777342501000,
+        "summary": "OpenAI: OpenAI releases Symphony, an open-source spec for agent orchestration that turns a project-management board like Linear into a control plane for coding agents — Six months ago, while working on an internal productivity tool, our team made a controversial (at the time) decision: we'd build our repo with no human-written code.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9875
+      },
+      {
         "id": "8d1886532da45f83",
         "title": "China blocks Zuck’s acquisition of AI outfit Manus",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/china_blocks_meta_manus_acquisition/",
@@ -2829,45 +2851,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1234
-      },
-      {
-        "id": "1e7e93b1029e57ba",
-        "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-        "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777306382000,
-        "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-        "tags": [
-          "ai",
-          "apps",
-          "startups",
-          "ai apps",
-          "signull labs",
-          "skye"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8072
-      },
-      {
-        "id": "24ed0f79b7fa4e33",
-        "title": "GitHub Copilot is moving to usage-based billing",
-        "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777305788000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:20"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2763
       }
     ],
     "science": [
+      {
+        "id": "976c52c2f4fe5a06",
+        "title": "Proportional voting method could enhance electoral representation and group decision-making",
+        "url": "https://phys.org/news/2026-04-proportional-voting-method-electoral-representation.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777344002000,
+        "summary": "Researchers from Universidad Carlos III de Madrid (UC3M), in collaboration with international experts, have published a scientific study on how to ensure that the selection of committees and expert groups is mathematically fair and proportional, preventing significant minorities from being excluded. These findings could find applications in the political sphere, the commercial sector, or group act",
+        "tags": [
+          "political science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0154
+      },
       {
         "id": "d932a58d5ef07fe6",
         "title": "What is black garlic? How heat and humidity turn a pungent ingredient mild and slightly sweet",
@@ -2932,6 +2933,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0618
+      },
+      {
+        "id": "a7d28c7e3574e1ec",
+        "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
+        "url": "https://www.nature.com/articles/d41586-026-01202-7",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1777334400000,
+        "summary": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01202-7The nation’s top-down approach contrasts with that of countries such as the United States, where market forces drive innovation.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0875
       },
       {
         "id": "8e87d3987fcec3ba",
@@ -3749,38 +3763,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.013
-      },
-      {
-        "id": "befaf46bae8a11d4",
-        "title": "Think you've got a marathon in you? I can't help you break a two-hour record, but I can help kit you out with everything you need to run your first race — here are 10 essential bits of running kit recommended by me, a fitness editor",
-        "url": "https://www.techradar.com/seasonal-sales/think-youve-got-a-marathon-in-you-i-cant-help-you-break-a-two-hour-record-but-i-can-help-kit-you-out-with-everything-you-need-to-run-your-first-race-here-are-10-essential-bits-of-running-kit-recommended-by-me-a-fitness-editor",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1777302000000,
-        "summary": "Here are 12 road running essentials to get started, including affordable 'pocket rocket' running watches.",
-        "tags": [
-          "seasonal sales",
-          "health &amp; fitness",
-          "exercise equipment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9117
-      },
-      {
-        "id": "bf9885af5cc5f74e",
-        "title": "Beer and cannabis could share 'sex switch,' study finds",
-        "url": "https://phys.org/news/2026-04-beer-cannabis-sex.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777300811000,
-        "summary": "Researchers at University College Dublin have identified a genetic \"switch\" that determines the sex of cannabis plants, and found the same system may exist in hops. The study, published in New Phytologist, pinpoints a specific section of the X chromosome that influences whether cannabis plants develop as male, female, or both.",
-        "tags": [
-          "molecular & computational biology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.016
       }
     ]
   },
