@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T20:42:30.385298+00:00",
+  "generated_at": "2026-04-28T20:50:49.990931+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1991,6 +1991,35 @@
     ],
     "ai": [
       {
+        "id": "fe6cfaeee5c19d1d",
+        "title": "Cloudera had US candidates send resumes to a fake email address, DoJ charges",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/cloudera_doj_employment_discrimination_lawsuit/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777409217000,
+        "summary": "PERM filings require employers to show American workers had a fair shot at the role The US Department of Justice has accused data and AI platform provider Cloudera of abusing a program designed to give permanent residency to foreign workers who take tough-to-fill positions by creating a parallel hiring process that dumped the applications of Americans to a non-functional email address. …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1326
+      },
+      {
+        "id": "34a22b8ba929b22e",
+        "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777409214000,
+        "summary": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He went as far back as being raised in South Africa and arriving in Canada for college with \"2,500 in Canadian travelers' […]",
+        "tags": [
+          "ai",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.791
+      },
+      {
         "id": "cc552a40f56beb56",
         "title": "Taylor Swift is stepping up the legal war on AI copycats",
         "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
@@ -2538,6 +2567,22 @@
         "score": 1.0219
       },
       {
+        "id": "aa4cb780d69a7d83",
+        "title": "OpenAI Models on Amazon Bedrock",
+        "url": "https://aws.amazon.com/bedrock/openai/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777397887000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:8"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.987
+      },
+      {
         "id": "520d3e91ebe44bc6",
         "title": "Q&A with Sam Altman and AWS CEO Matt Garman about OpenAI's new partnership with AWS, Bedrock Managed Agents, Trainium chips, and more (Ben Thompson/Stratechery)",
         "url": "http://www.techmeme.com/260428/p34#a260428p34",
@@ -2920,52 +2965,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6949
-      },
-      {
-        "id": "e704bc30b20d20d9",
-        "title": "‘It is about choice — if you want to hear AI music or if you don't.’ One Spotify user got so frustrated with AI slop that they created an ‘AI blocker’, but it 'may violate Spotify's terms of service'",
-        "url": "https://www.techradar.com/audio/spotify/it-is-about-choice-if-you-want-to-hear-ai-music-or-if-you-dont-one-spotify-user-got-so-frustrated-with-ai-slop-that-they-created-an-ai-blocker-but-it-may-violate-spotifys-terms-of-service",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777389914000,
-        "summary": "A Spotify user has built their own software that filters out AI-generated music from their listening experiences.",
-        "tags": [
-          "spotify",
-          "audio",
-          "audio streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9151
-      },
-      {
-        "id": "303f9f5e13f62c67",
-        "title": "OpenAI describes a report that it has missed internal goals as \"prime clickbait\" and says its consumer and enterprise businesses are \"firing on all cylinders\" (Seth Fiegerman/Bloomberg)",
-        "url": "http://www.techmeme.com/260428/p24#a260428p24",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777389901000,
-        "summary": "Seth Fiegerman / Bloomberg: OpenAI describes a report that it has missed internal goals as “prime clickbait” and says its consumer and enterprise businesses are “firing on all cylinders” — OpenAI pushed back against concerns over its sales growth on Tuesday, saying its consumer and enterprise businesses are …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9968
-      },
-      {
-        "id": "35658d4a45f14bde",
-        "title": "Ubuntu's AI roadmap revealed, universal AI 'kill switch' and forced AI integration are not part of the plan — cloud tracking, local inference, and agentic system tools take center stage",
-        "url": "https://www.tomshardware.com/software/operating-systems/ubuntus-ai-roadmap-revealed-universal-ai-kill-switch-and-forced-ai-integration-are-not-part-of-the-plan-cloud-tracking-local-inference-and-agentic-system-tools-take-center-stage",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1777387983000,
-        "summary": "Canonical has confirmed AI is coming to Ubuntu, with plans for local AI inference, agentic system tools, and AI-powered accessibility features — says everything will remain opt-in and privacy-focused.",
-        "tags": [
-          "operating systems",
-          "software"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.02
       }
     ],
     "science": [
