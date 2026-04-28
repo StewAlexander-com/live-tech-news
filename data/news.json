@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T13:04:33.361399+00:00",
+  "generated_at": "2026-04-28T13:27:20.684886+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -955,6 +955,24 @@
     ],
     "innovation": [
       {
+        "id": "bf3abd796e96cd61",
+        "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+        "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1777382374000,
+        "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+        "tags": [
+          "ai",
+          "bci",
+          "neurable",
+          "neuralink"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8058
+      },
+      {
         "id": "0d2b6136fd1457cb",
         "title": "UK.gov's DCMS to new CDIO: migrate from Google to Microsoft, overhaul ERP, build a team",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ukgov_seeks_cdio_to_lead/",
@@ -1045,6 +1063,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9372
+      },
+      {
+        "id": "bf24ad7d1b47d192",
+        "title": "Scientists discover how to freeze transplant organs without cracking them",
+        "url": "https://www.reddit.com/r/technology/comments/1sxyvia/scientists_discover_how_to_freeze_transplant/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777376399000,
+        "summary": "submitted by /u/_Dark_Wing [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9178
       },
       {
         "id": "9b377ec843cf001b",
@@ -1805,39 +1838,89 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8082
-      },
-      {
-        "id": "7e1e2d160bfc6a0b",
-        "title": "Notepad++ Finally Lands On macOS as a Native App",
-        "url": "https://apple.slashdot.org/story/26/04/27/2055217/notepad-finally-lands-on-macos-as-a-native-app?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1777324800000,
-        "summary": "BrianFagioli writes: Notepad++ has finally made its way to macOS, and this time it is not through a compatibility layer. A new community-driven port brings the long-standing Windows text editor over as a fully native Mac application, built with Cocoa and compiled for both Apple Silicon and Intel systems. Instead of relying on Wine or similar tools, the project replaces the Windows-specific interfa",
-        "tags": [
-          "macosx"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0455
-      },
-      {
-        "id": "29273480e30aedb2",
-        "title": "Open source package with 1 million monthly downloads stole user credentials",
-        "url": "https://www.reddit.com/r/technology/comments/1sxgvwh/open_source_package_with_1_million_monthly/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777324230000,
-        "summary": "submitted by /u/deraser [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9282
       }
     ],
     "ai": [
+      {
+        "id": "ccf565fac73e5d99",
+        "title": "Freepik rebrands as Magnific: a bootstrapped, profitable $230M ARR AI creative platform",
+        "url": "https://thenextweb.com/news/freepik-rebrands-as-magnific",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1777382219000,
+        "summary": "The new name unifies what was previously fragmented across Freepik (stock assets), Magnific (AI upscaling), and several other products. One million paying subscribers. 250 enterprise customers, including BBC, Puma, and Amazon Prime Video. CEO Joaquín Cuenca has never taken outside investment. The company is profitable. Freepik, the Málaga-founded AI creative platform, announced on Tuesday that […]",
+        "tags": [
+          "business",
+          "next featured",
+          "design",
+          "apps"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9688
+      },
+      {
+        "id": "e83691a9fb5d9786",
+        "title": "Six AI data centers proposed for a small town of 7,000, equal to 51 Walmart Supercenters in 17 square mile area — four out of the seven town council members have resigned from their positions as town fights back",
+        "url": "https://www.tomshardware.com/desktops/servers/six-ai-data-centers-proposed-for-a-small-town-of-7-000-equal-to-51-walmart-supercenters-in-17-square-mile-area-four-out-of-the-seven-town-council-members-have-resigned-from-their-positions-as-town-fights-back",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1777382129000,
+        "summary": "The residents of Archbald, Pennsylvania have started pushing back against the six planned data centers in the town, which will take up about 14% of its land area.",
+        "tags": [
+          "servers",
+          "desktops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0221
+      },
+      {
+        "id": "485ec4761781b641",
+        "title": "Sources and memos: Tencent employees used Claude Code to assist them with evaluating and fine-tuning the company's new Hy3 model to improve its performance (Juro Osawa/The Information)",
+        "url": "http://www.techmeme.com/260428/p19#a260428p19",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777382103000,
+        "summary": "Juro Osawa / The Information: Sources and memos: Tencent employees used Claude Code to assist them with evaluating and fine-tuning the company's new Hy3 model to improve its performance — Chinese tech giant Tencent's latest AI model has generated positive reviews from developers. But the company probably owes some of that success to Anthropic.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0757
+      },
+      {
+        "id": "4cd51e633e560019",
+        "title": "Microsoft's GitHub shifts to metered AI billing amid cost crisis -- The all-you-can-eat AI buffet is coming to an end",
+        "url": "https://www.reddit.com/r/technology/comments/1sy0xjd/microsofts_github_shifts_to_metered_ai_billing/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777381636000,
+        "summary": "submitted by /u/waozen [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0194
+      },
+      {
+        "id": "8d8db8e1d24f938d",
+        "title": "‘Human lives are already being lost’: Open letter signed by hundreds of Google employees requests CEO reject ‘unethical and dangerous’ US military AI use",
+        "url": "https://www.techradar.com/pro/security/human-lives-are-already-being-lost-open-letter-signed-by-hundreds-of-google-employees-requests-ceo-reject-unethical-and-dangerous-us-military-ai-use",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1777381500000,
+        "summary": "An open letter signed by over 600 employees calls on Google's CEO to not offer its technology to the Department of Defense.",
+        "tags": [
+          "security",
+          "ai platforms &amp; assistants",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9114
+      },
       {
         "id": "48dc0dfdc67fee0c",
         "title": "Tenstorrent’s Galaxy Blackhole AI servers escape the event horizon",
@@ -1868,6 +1951,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8067
+      },
+      {
+        "id": "cf1d27bad861921a",
+        "title": "4TB of voice samples stolen from 40,000 AI contractors -- how to verify if yours is being weaponized",
+        "url": "https://www.reddit.com/r/technology/comments/1sy0454/4tb_of_voice_samples_stolen_from_40000_ai/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777379671000,
+        "summary": "submitted by /u/waozen [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0088
       },
       {
         "id": "55aa99f5049c4f44",
@@ -2380,6 +2478,22 @@
         "score": 1.1282
       },
       {
+        "id": "21520d502d0f6cc6",
+        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777366865000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:15"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.964
+      },
+      {
         "id": "0ca12a429cbc0f6f",
         "title": "Why some of the world’s biggest enterprises are pivoting to Sovereign AI",
         "url": "https://www.techradar.com/pro/why-some-of-the-worlds-biggest-enterprises-are-pivoting-to-sovereign-ai",
@@ -2666,122 +2780,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9995
-      },
-      {
-        "id": "d6334346ccc405d0",
-        "title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
-        "url": "https://arxiv.org/abs/2604.22781",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22781v1 Announce Type: new Abstract: Proactive alert prediction in computer networks is critical for mitigating evolving cyber threats and enabling timely defensive actions. Temporal Graph Neural Networks (TGNs) provide a principled framework for modeling time-evolving interactions; however, existing TGN-based methods predominantly rely on unidirectional or single-mechanism temporal agg",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9522
-      },
-      {
-        "id": "354b86c2fcd69787",
-        "title": "Towards Understanding the Expressive Power of GNNs with Global Readout",
-        "url": "https://arxiv.org/abs/2604.22870",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22870v1 Announce Type: new Abstract: We study the expressive power of message-passing aggregate-combine-readout graph neural networks (ACR-GNNs). Particularly, we focus on the first-order (FO) properties expressible by this formalism. While a tight logical characterisation remains a difficult open question, we make two contributions towards answering it. First, we show that sum aggregat",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.lo"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9522
-      },
-      {
-        "id": "7c48b7e14abd8774",
-        "title": "On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller",
-        "url": "https://arxiv.org/abs/2604.23012",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23012v1 Announce Type: new Abstract: This paper presents a complete, end-to-end on-device vision machine learning pipeline, comprising data acquisition, two-layer CNN training with Adam optimization, and real-time inference, executing entirely on a microcontroller-class device costing $15-40 USD. Unlike cloud-based workflows that require external infrastructure and conceal the computati",
-        "tags": [
-          "cs.lg",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9522
-      },
-      {
-        "id": "b268687aa3e41c8a",
-        "title": "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation",
-        "url": "https://arxiv.org/abs/2604.23099",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23099v1 Announce Type: new Abstract: Evaluating generative AI models is increasingly resource-intensive due to slow inference, expensive raters, and a rapidly growing landscape of models and benchmarks. We propose ProEval, a proactive evaluation framework that leverages transfer learning to efficiently estimate performance and identify failure cases. ProEval employs pre-trained Gaussian",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9559
-      },
-      {
-        "id": "62849bdfeeb540d5",
-        "title": "Conditional Imputation for Within-Modality Missingness in Multi-Modal Federated Learning",
-        "url": "https://arxiv.org/abs/2604.23112",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23112v1 Announce Type: new Abstract: Multimodal Federated Learning (MMFL) enables privacy-preserving collaborative training, but real-world clinical applications often suffer from within-modality missingness caused by sensor intermittency or irregular sampling. Existing methods implicitly represent unobserved data via architectural alignment or missing embeddings, often failing to recov",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9559
-      },
-      {
-        "id": "a978d8946b402017",
-        "title": "The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry",
-        "url": "https://arxiv.org/abs/2604.22778",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22778v1 Announce Type: new Abstract: We present the first systematic study of weight matrix singular value spectra \\emph{during} transformer pretraining, tracking full SVD decompositions of every weight matrix at 25-step intervals across three model scales (30M--285M parameters). We discover three phenomena: \\textbf{(1)~Transient Compression Waves:} stable rank compression propagates as",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8851
-      },
-      {
-        "id": "da0a22c5d7578502",
-        "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-        "url": "https://arxiv.org/abs/2604.22934",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in par",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1293
       }
     ],
     "science": [
+      {
+        "id": "b5034e14673f2b05",
+        "title": "Physics can be hard: Mindfulness may help, research suggests",
+        "url": "https://phys.org/news/2026-04-physics-hard-mindfulness.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777382410000,
+        "summary": "The high stakes and intimidating reputation of physics classes can lead to plenty of stress for students new to the discipline. In fact, many students say it feels psychologically threatening, leading to worry and self-doubt.",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
+        "id": "b9400659683de4fe",
+        "title": "Bowhead whale recovery reflects century-old whaling patterns",
+        "url": "https://phys.org/news/2026-04-bowhead-whale-recovery-century-whaling.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777382407000,
+        "summary": "An international study led by Adelaide University has found bowhead whale populations are recovering only in stocks where large areas of hazardous sea ice conditions limited devastating hunting centuries ago. The research team analyzed historical logbooks from more than 700 whaling voyages, reconstructing their daily positions and hunting successes.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0176
+      },
       {
         "id": "897414daf6b2deca",
         "title": "Astronomers release massive set of 'virtual universes' for global research",
@@ -3660,36 +3691,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0194
-      },
-      {
-        "id": "e007fe0bb9512f01",
-        "title": "Small differences in cell structures called microtubules determine how well cancer drug performs",
-        "url": "https://phys.org/news/2026-04-small-differences-cell-microtubules-cancer.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777318804000,
-        "summary": "A research team from the School of Biomedical Sciences at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), has uncovered the mechanism underlying how cancer patients respond to a widely used cancer drug, known as paclitaxel, offering insights that may help overcome cancer drug resistance. The study found that small differences in microtubules, the structures inside cells that hel",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
-      },
-      {
-        "id": "a764a1ae61c2997f",
-        "title": "Self-powered fibers can spot oil contamination and heat buildup within milliseconds",
-        "url": "https://phys.org/news/2026-04-powered-fibers-oil-contamination-buildup.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777318202000,
-        "summary": "Oil spills and fires are two very different hazards, but both can cause major damage before people have time to react. Oil contamination can spread quickly across water and harm marine ecosystems, while undetected heat buildup can lead to destructive fires in high-risk environments. Many current warning systems depend on batteries, large instruments, or delayed responses, making early action diffi",
-        "tags": [
-          "nanomaterials"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0161
       }
     ]
   },
