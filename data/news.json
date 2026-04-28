@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T07:17:17.868033+00:00",
+  "generated_at": "2026-04-28T07:38:15.151864+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -979,6 +979,19 @@
     ],
     "innovation": [
       {
+        "id": "7c7823aa2948e31b",
+        "title": "Australia threatens tech companies with 2.25 percent tax if they don’t pay publishers",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/australia_news_bargaining_incentive/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1777360824000,
+        "summary": "Last time an idea like this came up, Meta packed up its toys and went home Australia has come up with a new way to ensure social media and search companies pay to support journalism: a 2.25 percent tax on revenue that’s avoidable if companies instead do deals with local media.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
+      {
         "id": "1b5c13dacfd453c3",
         "title": "Trump Administration Will Pay More Energy Firms to Cancel Wind Farms",
         "url": "https://hardware.slashdot.org/story/26/04/28/041256/trump-administration-will-pay-more-energy-firms-to-cancel-wind-farms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1870,25 +1883,61 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0487
-      },
-      {
-        "id": "738690c9dd8cde52",
-        "title": "Easyduino: Open Source PCB Devboards for KiCad",
-        "url": "https://github.com/Hanqaqa/Easyduino",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1777311902000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:98"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1669
       }
     ],
     "ai": [
+      {
+        "id": "670a71528453015d",
+        "title": "Google signs classified AI deal with the Pentagon for ‘any lawful government purpose’",
+        "url": "https://thenextweb.com/news/google-pentagon-classified-ai-deal",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1777360452000,
+        "summary": "The Information reported the deal on Tuesday. The agreement allows the DoD to use Google’s AI models without the restrictions that led Anthropic to be blacklisted in February. Google becomes the latest in a line of AI companies, alongside OpenAI and xAI, to supply classified AI capability to the US military. Google has signed a […] This story continues at The Next Web",
+        "tags": [
+          "google",
+          "next featured",
+          "government and policy"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9645
+      },
+      {
+        "id": "82a2fec130e6857a",
+        "title": "Meta prepares to unwind its $2 billion Manus acquisition after China’s block",
+        "url": "https://thenextweb.com/news/meta-manus-acquisition-unwind-china-deadline-weeks",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1777359452000,
+        "summary": "Meta is preparing to unwind its approximately $2 billion acquisition of the agentic AI startup Manus after China’s National Development and Reform Commission formally ordered the deal’s cancellation on Monday, the Wall Street Journal reported, citing people familiar with the matter. Beijing has given Meta and Manus a preliminary deadline of several weeks to reverse […] This story continues at The ",
+        "tags": [
+          "meta",
+          "next featured",
+          "business",
+          "china"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9594
+      },
+      {
+        "id": "f9e0978c31290a79",
+        "title": "Redpine raises €6.8M led by NordicNinja to build a licensed data API for AI agents",
+        "url": "https://thenextweb.com/news/redpine-raises-e6-8m-api-for-ai-agents",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1777358894000,
+        "summary": "The round brings total raised to €9 million. Investors from OpenAI, Perplexity, and Spotify backed the seed. The platform operates as a headless API that lets AI agents query and pay for premium licensed datasets in real time, on a token-based model. Competitors include Scale AI, Appen, and Defined.ai, all annotation-first; Redpine is API-native. Redpine, […] This story continues at The Next Web",
+        "tags": [
+          "startups and technology",
+          "artificial intelligence",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9565
+      },
       {
         "id": "15432d898d85c4f0",
         "title": "The antidote to Zombie Projects that drain productivity is AI oversight",
@@ -2761,55 +2810,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1013
-      },
-      {
-        "id": "858a33652e9f6655",
-        "title": "Calgary Public Library announces residency for an artist who uses AI. Not everyone is on boa",
-        "url": "https://www.reddit.com/r/technology/comments/1sxcn00/calgary_public_library_announces_residency_for_an/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777315334000,
-        "summary": "submitted by /u/ubcstaffer123 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
-      },
-      {
-        "id": "58df104737179052",
-        "title": "Google employees ask Sundar Pichai to say no to classified military AI use / After a report that Google is in talks with the Pentagon, hundreds of employees signed a letter against the idea.﻿",
-        "url": "https://www.reddit.com/r/technology/comments/1sxbz24/google_employees_ask_sundar_pichai_to_say_no_to/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777313935000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0172
-      },
-      {
-        "id": "be40c8ebe84ef337",
-        "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777313832000,
-        "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, directors, and vice presidents. According to the […]",
-        "tags": [
-          "ai",
-          "google",
-          "news",
-          "policy",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8547
       }
     ],
     "science": [
