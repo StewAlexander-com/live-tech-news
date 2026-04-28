@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T19:27:17.978361+00:00",
+  "generated_at": "2026-04-28T19:32:59.532462+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1006,6 +1006,24 @@
     ],
     "innovation": [
       {
+        "id": "cd994de313ed7c3b",
+        "title": "Someone figured out how to run Windows 9x inside Linux and it's surprisingly useful",
+        "url": "https://www.makeuseof.com/someone-figured-out-run-windows-9x-inside-linux-surprisingly-useful/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777404619000,
+        "summary": "Impressive work.",
+        "tags": [
+          "windows",
+          "linux",
+          "linux apps",
+          "windows 98"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8493
+      },
+      {
         "id": "8ffde990e546815f",
         "title": "Your Wi-Fi deadzone fix costs $5 and takes 15 minutes to set up",
         "url": "https://www.makeuseof.com/wi-fi-deadzone-fix-costs-5-15-minutes-set-up/",
@@ -1960,22 +1978,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9054
-      },
-      {
-        "id": "48d904d85438c9c9",
-        "title": "Gartner: US states issued $3.45B in privacy-related fines to companies in 2025, a total larger than the last five years combined, driven by new privacy laws (Djohnson/CyberScoop)",
-        "url": "http://www.techmeme.com/260428/p12#a260428p12",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777371913000,
-        "summary": "Djohnson / CyberScoop: Gartner: US states issued $3.45B in privacy-related fines to companies in 2025, a total larger than the last five years combined, driven by new privacy laws — U.S. states issued $3.45 billion in privacy-related fines to companies in 2025, a total larger than the last five years combined …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9123
       }
     ],
     "ai": [
+      {
+        "id": "fa93abc1d78b5ac7",
+        "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777404283000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0472
+      },
       {
         "id": "f50a44020bfb0400",
         "title": "OpenAI jumps out of Microsoft's bed, into Amazon's Bedrock",
@@ -2488,7 +2509,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2312
+        "score": 1.2289
       },
       {
         "id": "b3e85499a0d54b5b",
@@ -2929,26 +2950,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0188
-      },
-      {
-        "id": "050691d4b951bfd2",
-        "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-        "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777384446000,
-        "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
-        "tags": [
-          "ai",
-          "apps",
-          "media & entertainment",
-          "google",
-          "search",
-          "video"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8018
       }
     ],
     "science": [
@@ -3763,6 +3764,41 @@
         "score": 1.1006
       },
       {
+        "id": "1c07387166d29434",
+        "title": "Avionic Main Fuel Pump Simulation and Fault-Diagnosis Benchmark",
+        "url": "https://arxiv.org/abs/2604.22869",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777348800000,
+        "summary": "arXiv:2604.22869v1 Announce Type: new Abstract: In many cyber-physical systems, especially in critical applications such as aeroplanes, data to train anomaly detection and diagnosis algorithms is lacking due to data protection issues and partial observability. To combat this inherent lack of data, we introduce a high-fidelity, physics-informed co-simulation of a common aircraft main-fuel-pump syst",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7783
+      },
+      {
+        "id": "e1f88da10fe43b59",
+        "title": "Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling",
+        "url": "https://arxiv.org/abs/2604.22882",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777348800000,
+        "summary": "arXiv:2604.22882v1 Announce Type: new Abstract: Modern container ships face higher wind loads due to increased windage areas, making accurate predictions of wind loads essential for mooring design. Existing empirical models, largely developed for container ships with smaller windage areas and simpler geometrical configurations than those of modern large-scale vessels, often lack accuracy and do no",
+        "tags": [
+          "cs.lg",
+          "physics.comp-ph",
+          "physics.data-an"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7783
+      },
+      {
         "id": "f3428a343821db3b",
         "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
         "url": "https://arxiv.org/abs/2604.22979",
@@ -3841,37 +3877,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1293
-      },
-      {
-        "id": "706a9803e39c11b2",
-        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-        "url": "https://arxiv.org/abs/2604.23002",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid a",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0457
-      },
-      {
-        "id": "5798437fd90fdc6c",
-        "title": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
-        "url": "https://arxiv.org/abs/2604.23239",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23239v1 Announce Type: new Abstract: Accurate long-term time series forecasting (LTSF) requires the capture of complex long-range dependencies and dynamic periodic patterns. Recent advances in frequency-domain analysis offer a global perspective for uncovering temporal characteristics. However, real-world time series often exhibit pronounced cross-domain heterogeneity where variables th",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0457
       }
     ]
   },
