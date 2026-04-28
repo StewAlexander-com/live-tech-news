@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T01:22:31.720341+00:00",
+  "generated_at": "2026-04-28T01:51:48.094563+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -17,6 +17,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.848
+      },
+      {
+        "id": "b0f3c014e3c46f55",
+        "title": "Social Media Scams Cost Americans $2.1 Billion in 2025",
+        "url": "https://www.cnet.com/news/social-media-scams-cost-americans-2-1-billion-in-2025/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1777336800000,
+        "summary": "Facebook was the most popular platform for social media scammers, the FTC reports.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8013
       },
       {
         "id": "ad90ef04571f34b0",
@@ -951,27 +964,37 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0983
-      },
-      {
-        "id": "1861706fc126c0a7",
-        "title": "Register Renaming",
-        "url": "https://hackaday.com/2026/04/27/register-renaming/",
-        "source": "Hackaday",
-        "lane": "gadgets",
-        "published_ts": 1777303810000,
-        "summary": "[Shreeyash] asks an interesting question: how many registers does your CPU have? The answer is probably more than you think. The reason? Modern CPUs — at least many of them …read more",
-        "tags": [
-          "microcontrollers",
-          "out of order execution",
-          "register renaming",
-          "superscalar"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0757
       }
     ],
     "innovation": [
+      {
+        "id": "8fb600c9b3720452",
+        "title": "Paris-based SquareMind, whose Swan robot uses AI for full-body dermoscopic skin imaging, raised $18M, including a previously undisclosed pre-Series A (Jim Hammerand/MassDevice)",
+        "url": "http://www.techmeme.com/260427/p48#a260427p48",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777340401000,
+        "summary": "Jim Hammerand / MassDevice: Paris-based SquareMind, whose Swan robot uses AI for full-body dermoscopic skin imaging, raised $18M, including a previously undisclosed pre-Series A — SquareMind has raised $18 million for its Swan robotic skin imaging platform, including an investment from Fred Moll's Sonder Capital.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0759
+      },
+      {
+        "id": "7ead44274128965c",
+        "title": "Mark Zuckerberg has a dystopian vision for a surveillance society. Here’s how we can fight back. - ACLU of Massachusetts",
+        "url": "https://www.reddit.com/r/technology/comments/1sxmwuz/mark_zuckerberg_has_a_dystopian_vision_for_a/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777339135000,
+        "summary": "submitted by /u/Willing-Share-5617 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.94
+      },
       {
         "id": "f6ad3bdbf18da5a1",
         "title": "Senate Democrats seek an ethics provision in a landmark crypto bill to crack down on the Trump family's crypto businesses, setting up a clash with Republicans (Politico)",
@@ -1871,40 +1894,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.849
-      },
-      {
-        "id": "3b80c08352f73bca",
-        "title": "Kashable, which lets companies offer \"socially responsible\" credit and financial wellness programs for employees as a voluntary benefit, raised a $60M Series C (Mary Ann Azevedo/Crunchbase News)",
-        "url": "http://www.techmeme.com/260427/p30#a260427p30",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777306201000,
-        "summary": "Mary Ann Azevedo / Crunchbase News: Kashable, which lets companies offer “socially responsible” credit and financial wellness programs for employees as a voluntary benefit, raised a $60M Series C — Kashable, a fintech that provides access to “socially responsible” credit and financial wellness programs for employees …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9982
-      },
-      {
-        "id": "1c22662613a5258f",
-        "title": "I disabled these Windows services Microsoft recommends – and everything works better",
-        "url": "https://www.makeuseof.com/disable-these-windows-services-recommended-by-microsoft/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777305676000,
-        "summary": "Not everything enabled by default is essential.",
-        "tags": [
-          "windows",
-          "windows tips",
-          "performance tweaks",
-          "windows 11"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8489
       }
     ],
     "ai": [
+      {
+        "id": "3b28ca2cdbddb21d",
+        "title": "Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside (Wired)",
+        "url": "http://www.techmeme.com/260427/p47#a260427p47",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777339501000,
+        "summary": "Wired: Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside — OpenAI CEO Sam Altman and president Greg Brockman were spotted in the security line inside the courthouse this morning, but Elon Musk was nowhere to be found.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0708
+      },
+      {
+        "id": "31af6ef4264c77d6",
+        "title": "Accenture to roll out Copilot to all 743,000 employees in boost for Microsoft",
+        "url": "https://www.reddit.com/r/technology/comments/1sxmtws/accenture_to_roll_out_copilot_to_all_743000/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777338918000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9389
+      },
       {
         "id": "58499d8ba5c0e4cc",
         "title": "Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025's end and missed multiple monthly revenue targets earlier in 2026 (Berber Jin/Wall Street Journal)",
@@ -1917,6 +1937,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9976
+      },
+      {
+        "id": "45902e7de806bfa6",
+        "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+        "url": "https://github.com/hpennington/agentswift",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777338871000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0375
+      },
+      {
+        "id": "25dc0807bcd50b60",
+        "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
+        "url": "https://github.com/49Agents/49Agents",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777336584000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:13"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1069
       },
       {
         "id": "38026c23f476e3aa",
@@ -2816,69 +2868,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9019
-      },
-      {
-        "id": "128df59832af578c",
-        "title": "Still frustrated with the Sonos app? People have been making alternatives using AI, so solve long-standing annoyances — and some are pretty damn cool",
-        "url": "https://www.techradar.com/audio/people-have-been-making-alternatives-to-the-sonos-app-using-ai",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777305600000,
-        "summary": "Since the Sonos app remains divisive, some owners of Sonos speakers have used AI to vibe code their own alternatives.",
-        "tags": [
-          "audio"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9164
-      },
-      {
-        "id": "4255ea058066bf13",
-        "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777305029000,
-        "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity […]",
-        "tags": [
-          "ai",
-          "elon musk",
-          "law",
-          "news",
-          "openai",
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8524
-      },
-      {
-        "id": "700def815db4d0dc",
-        "title": "OpenAI's Rumored Phone Would Replace Apps With AI Agents",
-        "url": "https://www.cnet.com/tech/services-and-software/openais-rumored-phone-would-replace-apps-with-ai-agents/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1777304913000,
-        "summary": "Past rumors have speculated that the company behind ChatGPT could have several different devices in the works.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8703
-      },
-      {
-        "id": "fe6f28abc8a164e2",
-        "title": "That UL safety logo is a lot more complicated than it looks | UL CEO Jennifer Scanlon on why safety still matters in the AI era",
-        "url": "https://www.reddit.com/r/technology/comments/1sx7d64/that_ul_safety_logo_is_a_lot_more_complicated/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777304353000,
-        "summary": "submitted by /u/Hrmbee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0013
       }
     ],
     "science": [
