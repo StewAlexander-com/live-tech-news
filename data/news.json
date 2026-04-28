@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T12:51:39.178776+00:00",
+  "generated_at": "2026-04-28T12:52:24.236262+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2621,6 +2621,54 @@
         "score": 0.9995
       },
       {
+        "id": "b268687aa3e41c8a",
+        "title": "ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation",
+        "url": "https://arxiv.org/abs/2604.23099",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777348800000,
+        "summary": "arXiv:2604.23099v1 Announce Type: new Abstract: Evaluating generative AI models is increasingly resource-intensive due to slow inference, expensive raters, and a rapidly growing landscape of models and benchmarks. We propose ProEval, a proactive evaluation framework that leverages transfer learning to efficiently estimate performance and identify failure cases. ProEval employs pre-trained Gaussian",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9559
+      },
+      {
+        "id": "62849bdfeeb540d5",
+        "title": "Conditional Imputation for Within-Modality Missingness in Multi-Modal Federated Learning",
+        "url": "https://arxiv.org/abs/2604.23112",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777348800000,
+        "summary": "arXiv:2604.23112v1 Announce Type: new Abstract: Multimodal Federated Learning (MMFL) enables privacy-preserving collaborative training, but real-world clinical applications often suffer from within-modality missingness caused by sensor intermittency or irregular sampling. Existing methods implicitly represent unobserved data via architectural alignment or missing embeddings, often failing to recov",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9559
+      },
+      {
+        "id": "a978d8946b402017",
+        "title": "The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry",
+        "url": "https://arxiv.org/abs/2604.22778",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777348800000,
+        "summary": "arXiv:2604.22778v1 Announce Type: new Abstract: We present the first systematic study of weight matrix singular value spectra \\emph{during} transformer pretraining, tracking full SVD decompositions of every weight matrix at 25-step intervals across three model scales (30M--285M parameters). We discover three phenomena: \\textbf{(1)~Transient Compression Waves:} stable rank compression propagates as",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8851
+      },
+      {
         "id": "da0a22c5d7578502",
         "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
         "url": "https://arxiv.org/abs/2604.22934",
@@ -2707,55 +2755,6 @@
         "summary": "arXiv:2604.23392v1 Announce Type: new Abstract: Refereeing is vital in sports, where fair, accurate, and explainable decisions are fundamental. While intelligent assistant technologies are being widely adopted in soccer refereeing, current AI-assisted approaches remain preliminary. Existing research mostly focuses on isolated video perception tasks and lacks the ability to understand and reason ab",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1293
-      },
-      {
-        "id": "d6334346ccc405d0",
-        "title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
-        "url": "https://arxiv.org/abs/2604.22781",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22781v1 Announce Type: new Abstract: Proactive alert prediction in computer networks is critical for mitigating evolving cyber threats and enabling timely defensive actions. Temporal Graph Neural Networks (TGNs) provide a principled framework for modeling time-evolving interactions; however, existing TGN-based methods predominantly rely on unidirectional or single-mechanism temporal agg",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1293
-      },
-      {
-        "id": "354b86c2fcd69787",
-        "title": "Towards Understanding the Expressive Power of GNNs with Global Readout",
-        "url": "https://arxiv.org/abs/2604.22870",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22870v1 Announce Type: new Abstract: We study the expressive power of message-passing aggregate-combine-readout graph neural networks (ACR-GNNs). Particularly, we focus on the first-order (FO) properties expressible by this formalism. While a tight logical characterisation remains a difficult open question, we make two contributions towards answering it. First, we show that sum aggregat",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.lo"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1293
-      },
-      {
-        "id": "7c48b7e14abd8774",
-        "title": "On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller",
-        "url": "https://arxiv.org/abs/2604.23012",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23012v1 Announce Type: new Abstract: This paper presents a complete, end-to-end on-device vision machine learning pipeline, comprising data acquisition, two-layer CNN training with Adam optimization, and real-time inference, executing entirely on a microcontroller-class device costing $15-40 USD. Unlike cloud-based workflows that require external infrastructure and conceal the computati",
-        "tags": [
-          "cs.lg",
-          "cs.cv"
         ],
         "paywall": false,
         "impact": "high",
