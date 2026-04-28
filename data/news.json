@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-04-28T20:03:06.168194+00:00",
+  "generated_at": "2026-04-28T20:06:33.989362+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "a29e5f6239a1517a",
+        "title": "China's National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture (Luke James/Tom's Hardware)",
+        "url": "http://www.techmeme.com/260428/p37#a260428p37",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1777406702000,
+        "summary": "Luke James / Tom's Hardware: China's National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture — Good luck with that. … China's National Supercomputing Center in Shenzhen announced the Lingshen supercomputer project …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9995
+      },
       {
         "id": "7b5514447c0a25a4",
         "title": "Now YouTube TV lets you multiview any channel you want",
@@ -997,21 +1010,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7015
-      },
-      {
-        "id": "393e7230f826e936",
-        "title": "Apple Vision Pro Used in World-First Cataract Surgery",
-        "url": "https://www.macrumors.com/2026/04/28/apple-vision-pro-cataract-surgery/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1777387875000,
-        "summary": "Apple's Vision Pro has hit another medical-use milestone, with a New York ophthalmologist becoming the first surgeon to perform cataract surgery using the spatial computing headset. Dr. Eric Rosenberg of SightMD completed the initial procedure in October 2025 and has since performed hundreds of additional cases using ScopeXR, a surgical platform he co-developed for Apple's mixed reality device. Sc",
-        "tags": [
-          "vision pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9936
       }
     ],
     "innovation": [
@@ -2038,6 +2036,22 @@
         "score": 0.7574
       },
       {
+        "id": "6ded6163ea0c5233",
+        "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777404283000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:28"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.036
+      },
+      {
         "id": "fa93abc1d78b5ac7",
         "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
         "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
@@ -2960,23 +2974,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0938
-      },
-      {
-        "id": "d35c69e3291a2c61",
-        "title": "Snapchat brings AI-powered conversational advertising to its app",
-        "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777384639000,
-        "summary": "Users will be able to chat with a brand's AI agent to do things like ask questions and get recommendations.",
-        "tags": [
-          "apps",
-          "snap",
-          "snapchat"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7184
       }
     ],
     "science": [
@@ -3851,51 +3848,53 @@
         "score": 1.1006
       },
       {
-        "id": "ff0a61f76a8e5e6d",
-        "title": "Learning Without Adversarial Training: A Physics-Informed Neural Network for Secure Power System State Estimation under False Data Injection Attacks",
-        "url": "https://arxiv.org/abs/2604.22784",
-        "source": "arXiv cs.LG",
+        "id": "f3428a343821db3b",
+        "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+        "url": "https://arxiv.org/abs/2604.22979",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22784v1 Announce Type: new Abstract: State estimation is a cornerstone of power system control-center operations, and its robust operation is increasingly a cyber-physical security concern as modern grids become more digitalized and communication-intensive. Neural network-based approaches have gained attention as alternatives to conventional model-based state estimation methods. Physics",
+        "summary": "arXiv:2604.22979v1 Announce Type: new Abstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models achieve strong predictive performance on CSI-based HAR (CHAR), yet rely on continuous latent representat",
         "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8325
-      },
-      {
-        "id": "7af555376dfa7121",
-        "title": "Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition",
-        "url": "https://arxiv.org/abs/2604.22787",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777348800000,
-        "summary": "arXiv:2604.22787v1 Announce Type: new Abstract: Africa's green industrialization imperative demands reliable infrastructure for monitoring air quality. We present a satellite-reanalysis PM2.5 fusion system trained on 2,068,901 records from 404 monitoring locations in 29 African countries (OpenAQ, 2017-2022), combining LightGBM with leakage-resistant spatial cross-validation and conformal predictio",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8325
+        "score": 0.8316
       },
       {
-        "id": "0938323502381b21",
-        "title": "Collocation-based Robust Physics Informed Neural Networks for time-dependent simulations of pollution propagation under thermal inversion conditions on Spitsbergen",
-        "url": "https://arxiv.org/abs/2604.23003",
+        "id": "74342389eb7e3fdd",
+        "title": "Complex SGD and Directional Bias in Reproducing Kernel Hilbert Spaces",
+        "url": "https://arxiv.org/abs/2604.23017",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777348800000,
-        "summary": "arXiv:2604.23003v1 Announce Type: new Abstract: In this paper, we propose a Physics-Informed Neural Network framework for time-dependent simulations of pollution propagation originating from moving emission sources. We formulate a robust variational framework for the time-dependent advection-diffusion problem and establish the boundedness and inf-sup stability of the corresponding discrete weak fo",
+        "summary": "arXiv:2604.23017v1 Announce Type: new Abstract: Stochastic Gradient Descent (SGD) is a known stochastic iterative method popular for large-scale convex optimization problems due to its simple implementation and scalability. Some objectives, such as those found in complex-valued neural networks, benefit from updates like in SGD and Gradient Descent (GD) with a newly defined ``gradient'' that allows",
         "tags": [
           "cs.lg",
-          "cs.ne"
+          "cs.na",
+          "math.cv",
+          "math.na"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8325
+        "score": 0.8316
+      },
+      {
+        "id": "706a9803e39c11b2",
+        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+        "url": "https://arxiv.org/abs/2604.23002",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777348800000,
+        "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid a",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.77
       }
     ]
   },
