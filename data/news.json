@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-28T23:28:48.929112+00:00",
+  "generated_at": "2026-04-28T23:37:27.397581+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "7b8de8fec0b33694",
+        "title": "It’s primetime for conspiracy theorist video creators",
+        "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1777419113000,
+        "summary": "In the days since this year's White House Correspondents' Dinner was cut short when shots were fired at the event, there has been a boom of conspiracy theory videos created by people who insist that the entire situation was a false flag operation. These kinds of theories are nothing new, but the way they're spreading […]",
+        "tags": [
+          "creators",
+          "instagram",
+          "meta",
+          "streaming",
+          "tech",
+          "tiktok"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7906
+      },
       {
         "id": "68eb4cc5f7ff309b",
         "title": "Elon Musk appeared more petty than prepared",
@@ -987,22 +1007,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8489
-      },
-      {
-        "id": "5a0fbfed1f2d808a",
-        "title": "Hackers exploit Robinhood account creation tool to launch worrying phishing scam",
-        "url": "https://www.techradar.com/pro/security/hackers-exploit-robinhood-account-creation-tool-to-launch-worrying-phishing-scam",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777392300000,
-        "summary": "The vulnerability has since been fixed and the malicious landing page is offline.",
-        "tags": [
-          "security",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9168
       }
     ],
     "innovation": [
@@ -1982,6 +1986,19 @@
     ],
     "ai": [
       {
+        "id": "4d718726376fd521",
+        "title": "Sources: Goldman Sachs stopped its bankers in Hong Kong from using Anthropic's models; Anthropic says its models were never officially \"supported\" in Hong Kong (Financial Times)",
+        "url": "http://www.techmeme.com/260428/p47#a260428p47",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777419001000,
+        "summary": "Financial Times: Sources: Goldman Sachs stopped its bankers in Hong Kong from using Anthropic's models; Anthropic says its models were never officially “supported” in Hong Kong — Employees were unable to access company's AI models as of a few weeks ago — Goldman Sachs has stopped its bankers …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0774
+      },
+      {
         "id": "5965db871c8f706c",
         "title": "'The connective tissue between your data, your people, and your goals': Google Cloud positions Gemini Enterprise as the one-stop shop for all your agentic affairs",
         "url": "https://www.techradar.com/pro/the-connective-tissue-between-your-data-your-people-and-your-goals-google-cloud-positions-gemini-enterprise-as-the-one-stop-shop-for-all-your-agentic-affairs",
@@ -1996,6 +2013,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8476
+      },
+      {
+        "id": "f9b1f86a51c9fd65",
+        "title": "Docs: OpenAI projected at the start of this year that $8/month ChatGPT Go subs will grow ~36x to 112M in 2026, while $20/month Plus subs will fall 80% to ~9M (Sri Muppidi/The Information)",
+        "url": "http://www.techmeme.com/260428/p46#a260428p46",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777418101000,
+        "summary": "Sri Muppidi / The Information: Docs: OpenAI projected at the start of this year that $8/month ChatGPT Go subs will grow ~36x to 112M in 2026, while $20/month Plus subs will fall 80% to ~9M — For three years, OpenAI has generated most of its revenue from people paying $20 a month for subscriptions to ChatGPT.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9928
       },
       {
         "id": "ae6c484460f21193",
@@ -2450,7 +2480,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.036
+        "score": 1.2103
       },
       {
         "id": "fa93abc1d78b5ac7",
@@ -2918,35 +2948,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9173
-      },
-      {
-        "id": "3878a1b115d05c88",
-        "title": "IBM's AI coding 'partner' Bob hits general availability",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/ibms_ai_coding_partner_bob/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1777396727000,
-        "summary": "80,000 internal guinea pigs, Bobcoins, mainframe dreams and a name that really should have raised more flags IBM has announced global availability of Bob, the AI coding assistant - sorry partner - which it claims has delivered a productivity boost to the 80,000 big bluers pressed into guinea pig status last year.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "7f75adcae9970990",
-        "title": "M4 vs. M5 MacBook Air Buyer's Guide",
-        "url": "https://www.macrumors.com/guide/m4-vs-m5-macbook-air/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1777396040000,
-        "summary": "Apple last month announced a new MacBook Air, introducing the M5 chip, faster wireless connectivity, double the base storage, and a more capable charger, while simultaneously discontinuing the M4 model. So how does the new machine compare? The M5 MacBook Air starts at $1,099 for the 13-inch model and $1,299 for the 15-inch, a $100 increase over the equivalent M4 models. In exchange, base storage d",
-        "tags": [
-          "buyer's guide",
-          "macbook air"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0748
       }
     ],
     "science": [
