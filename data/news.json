@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T19:52:17.912730+00:00",
+  "generated_at": "2026-04-29T19:57:13.702749+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1921,6 +1921,19 @@
     ],
     "ai": [
       {
+        "id": "d7e6567225904108",
+        "title": "Letters: House Homeland Security Committee and House China Select Committee are probing Airbnb and Cursor maker Anysphere over their use of Chinese AI models (Rachyl Jones/Semafor)",
+        "url": "http://www.techmeme.com/260429/p41#a260429p41",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777492505000,
+        "summary": "Rachyl Jones / Semafor: Letters: House Homeland Security Committee and House China Select Committee are probing Airbnb and Cursor maker Anysphere over their use of Chinese AI models — THE SCOOP — Two Republican-led House committees are probing Airbnb and Anysphere, maker of AI coding platform Cursor …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0793
+      },
+      {
         "id": "f7175c86e9dfea8c",
         "title": "AI drug target platform pairs prediction with benchmarking to improve early discovery",
         "url": "https://phys.org/news/2026-04-ai-drug-platform-pairs-benchmarking.html",
@@ -2872,24 +2885,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9144
-      },
-      {
-        "id": "8b4fea48c1583468",
-        "title": "Earth AI is vertically integrating the search for critical minerals",
-        "url": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777471200000,
-        "summary": "When Earth AI started hitting months-long delays in its search for critical minerals, it decided to take matters into its own hands.",
-        "tags": [
-          "climate",
-          "exclusive",
-          "earth ai",
-          "critical minerals"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8047
       }
     ],
     "science": [
@@ -3712,6 +3707,53 @@
         "score": 1.0196
       },
       {
+        "id": "5798437fd90fdc6c",
+        "title": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
+        "url": "https://arxiv.org/abs/2604.23239",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23239v1 Announce Type: new Abstract: Accurate long-term time series forecasting (LTSF) requires the capture of complex long-range dependencies and dynamic periodic patterns. Recent advances in frequency-domain analysis offer a global perspective for uncovering temporal characteristics. However, real-world time series often exhibit pronounced cross-domain heterogeneity where variables th",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7723
+      },
+      {
+        "id": "1f9031939ab88b54",
+        "title": "Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy",
+        "url": "https://arxiv.org/abs/2604.24909",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24909v1 Announce Type: new Abstract: The vast majority of transmission electron microscopy (TEM) data never gets published and ends up on a backup drive until deleted to free up space. These left-over datasets are rich in detail and variation, often paired with automatically saved metadata of instrument state and acquisition parameters. In this work, we introduce a dataset of 7,330 high",
+        "tags": [
+          "cs.lg",
+          "cs.ce"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7723
+      },
+      {
+        "id": "f2a0ef6fa3ccfa2a",
+        "title": "CoreFlow: Low-Rank Matrix Generative Models",
+        "url": "https://arxiv.org/abs/2604.24959",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24959v1 Announce Type: new Abstract: Learning matrix-valued distributions from high-dimensional and possibly incomplete training data is challenging: ambient-space generative modeling is computationally expensive and statistically fragile when the matrix dimension is large but the sample size is limited. We propose CoreFlow, a geometry-preserving low-rank flow model that learns shared r",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7723
+      },
+      {
         "id": "bc6f4dcbab77ce0f",
         "title": "Laplace-Bridged Randomized Smoothing for Fast Certified Robustness",
         "url": "https://arxiv.org/abs/2604.24993",
@@ -3756,55 +3798,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1311
-      },
-      {
-        "id": "377244b75845e4bf",
-        "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
-        "url": "https://arxiv.org/abs/2604.24768",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24768v1 Announce Type: new Abstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our aim is to determine the relationship between static bending response and dynamic deflection of a pe",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "physics.comp-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1311
-      },
-      {
-        "id": "78041f7b8a6112e2",
-        "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
-        "url": "https://arxiv.org/abs/2604.24803",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24803v1 Announce Type: new Abstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this query cost. A graph neural network predicts a Gaussian distribution N(mu, Sigma) over QAOA angles. The m",
-        "tags": [
-          "cs.lg",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1311
-      },
-      {
-        "id": "706a9803e39c11b2",
-        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-        "url": "https://arxiv.org/abs/2604.23002",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid a",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0474
       }
     ]
   },
