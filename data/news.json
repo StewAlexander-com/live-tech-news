@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-04-29T16:57:29.639329+00:00",
+  "generated_at": "2026-04-29T17:19:47.978093+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c88276d1c7fb116e",
+        "title": "Motorola reveals 2026 Razr lineup with modest upgrades and higher prices",
+        "url": "https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/",
+        "source": "Ars Technica",
+        "lane": "gadgets",
+        "published_ts": 1777481758000,
+        "summary": "Motorola's foldable lineup is bigger and more spendy then ever.",
+        "tags": [
+          "tech",
+          "android",
+          "foldables",
+          "motorola",
+          "smartphones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9428
+      },
       {
         "id": "aab63ee24fc82bc0",
         "title": "iOS 27 Camera App to Get 'Siri' Mode With Nutrition Label Scanning",
@@ -176,6 +195,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8466
+      },
+      {
+        "id": "9ee897ed17cf25c9",
+        "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
+        "url": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+        "source": "Ars Technica",
+        "lane": "gadgets",
+        "published_ts": 1777478788000,
+        "summary": "Framework charges nearly double for the 12GB version of the mobile RTX 5070.",
+        "tags": [
+          "gaming",
+          "tech",
+          "framework",
+          "framework laptop 16",
+          "geforce 5070",
+          "nvidia"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9279
       },
       {
         "id": "37ab0eb5f976a2d9",
@@ -943,41 +982,58 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8434
-      },
-      {
-        "id": "47d840c43ae0ad2d",
-        "title": "Framework's new RTX 5070 12GB graphics module costs a whopping $1,199 — 72% more expensive than $699 8GB version, says pricing is beyond its control",
-        "url": "https://www.tomshardware.com/pc-components/gpus/frameworks-new-rtx-5070-12gb-graphics-module-costs-a-whopping-usd1-199-72-percent-more-expensive-than-usd699-8gb-version-says-pricing-is-beyond-its-control",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1777465258000,
-        "summary": "Framework has just launched a new graphics module featuring the RTX 5070 mobile 12GB, and it costs a cool $1,200, representing a 72% raise in pricing over the 8GB variant, that's $699. Both GPUs are identical apart from the memory capacity (and bandwidth), but Framework says pricing is out of its control.",
-        "tags": [
-          "gpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9411
-      },
-      {
-        "id": "a02441ca5acf393c",
-        "title": "Adorama kicks off massive Nikon sale — including record-low prices on the Z6 III and my favorite camera from last year",
-        "url": "https://www.techradar.com/cameras/mirrorless-cameras/adorama-kicks-off-massive-nikon-sale-including-record-low-prices-on-the-z6-iii-and-my-favorite-camera-from-last-year",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777464844000,
-        "summary": "Adorama has just launched a massive sale on Nikon cameras and lenses, including up to $900 off.",
-        "tags": [
-          "mirrorless cameras",
-          "cameras"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8481
       }
     ],
     "innovation": [
+      {
+        "id": "d4ee56c06239caf9",
+        "title": "Cloudflare says autocrats, wars and elections caged the internet in Q1",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/autocrats_war_elections_caused_internet/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1777482355000,
+        "summary": "Iran went dark twice, AWS got droned, oh and TalkTalk broke something it refuses to talk about The first quarter of 2026 saw a surge in severe and prolonged internet disruptions, from government shutdowns to power outages to the occasional mystery incident.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0453
+      },
+      {
+        "id": "2df177c8ee593f1c",
+        "title": "Bicycle Tubes Aren’t Just Made Of Rubber Anymore",
+        "url": "https://hackaday.com/2026/04/29/bicycle-tubes-arent-just-made-of-rubber-anymore/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1777482021000,
+        "summary": "For the average rider, inner tubes have been one of the most enduring and unchanging parts of bicycle design over the decades. They’re made of rubber, they have a Schrader …read more",
+        "tags": [
+          "featured",
+          "interest",
+          "misc hacks",
+          "original art",
+          "bicycle",
+          "butyl rubber"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0733
+      },
+      {
+        "id": "e051b4fb394cdb23",
+        "title": "GitHub 'No Longer a Place For Serious Work', Says Hashicorp Co-Founder",
+        "url": "https://games.slashdot.org/story/26/04/29/169218/github-no-longer-a-place-for-serious-work-says-hashicorp-co-founder?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1777482000000,
+        "summary": "Hashicorp co-founder Mitchell Hashimoto says GitHub's frequent outages have made it \"no longer a place for serious work,\" prompting him to move his Ghostty terminal emulator project elsewhere after 18 years on the platform. The Register reports: \"I've been angry about it. I've hurt people's feelings. I've been lashing out. Because GitHub is failing me, every single day, and it is personal. It is i",
+        "tags": [
+          "emulation",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0434
+      },
       {
         "id": "38536792b625e555",
         "title": "OpenLight, which designs custom application-specific photonic chips, raised $50M in a Series A extension, after raising $34M in August 2025 (Charlotte Trueman/DatacenterDynamics)",
@@ -1859,59 +1915,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.997
-      },
-      {
-        "id": "1a6c6a122a6d1c4f",
-        "title": "The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services (Gian Volpicelli/Bloomberg)",
-        "url": "http://www.techmeme.com/260429/p9#a260429p9",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777449902000,
-        "summary": "Gian Volpicelli / Bloomberg: The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services — The European Union's executive arm accused Meta Platforms Inc. of failing to keep young children off its services, ramping up a probe that could result in hefty fines.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9891
-      },
-      {
-        "id": "e375e70b45671465",
-        "title": "Wipeout Clone Runs Native on ESP32-S3",
-        "url": "https://hackaday.com/2026/04/29/wipeout-clone-runs-native-on-esp32-s3/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1777449641000,
-        "summary": "Psygnosis’s 1995 game Wipeout is remembered for two things: being one of the greatest games of all time, and taking advantage of the then-new PlayStation’s capacity for 3D graphics. The ESP32-S3 …read more",
-        "tags": [
-          "games",
-          "microcontrollers",
-          "3d engine",
-          "esp32-s3",
-          "racing game",
-          "wipeout"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0667
-      },
-      {
-        "id": "f489aa60c8e8d19e",
-        "title": "It’s time to make a plan for nuclear waste",
-        "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
-        "source": "MIT Technology Review",
-        "lane": "innovation",
-        "published_ts": 1777449600000,
-        "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:…",
-        "tags": [
-          "climate change and energy",
-          "app",
-          "the spark"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0212
       }
     ],
     "ai": [
+      {
+        "id": "68e1585a98cfa160",
+        "title": "Yet another experiment proves it's too damn simple to poison large language models",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777482018000,
+        "summary": "There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no s",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1269
+      },
       {
         "id": "0728558e5512a553",
         "title": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand",
@@ -1994,6 +2013,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8466
+      },
+      {
+        "id": "2f7a4ca16a99f42f",
+        "title": "Google Moves Forward With Pentagon AI Deal Despite Employee Pushback",
+        "url": "https://www.reddit.com/r/technology/comments/1sz3acw/google_moves_forward_with_pentagon_ai_deal/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777478956000,
+        "summary": "submitted by /u/hipcheck23 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.003
       },
       {
         "id": "9ee897ed17cf25c9",
@@ -2838,40 +2873,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9783
-      },
-      {
-        "id": "3a15a0d4359ccaba",
-        "title": "More details emerge about how Intel now earns more revenue from each wafer by looking to the edges — analyst reports say reduced yield variability across each wafer leads to more sellable CPUs",
-        "url": "https://www.tomshardware.com/pc-components/cpus/more-details-emerge-about-how-intel-now-earns-more-revenue-from-each-wafer-by-looking-to-the-edges-analyst-reports-say-reduced-yield-variability-across-each-wafer-leads-to-more-sellable-cpus",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1777460400000,
-        "summary": "According to analyst reports, Intel is reducing wafer yield variability to get more useful CPU dies from wafer edges amid AI-driven demand.",
-        "tags": [
-          "cpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0243
-      },
-      {
-        "id": "5e8f97a5246e979f",
-        "title": "‘The cost of compute is far beyond the costs of the employees’: Nvidia exec says right now AI is more expensive than paying human workers",
-        "url": "https://www.reddit.com/r/technology/comments/1syv6qi/the_cost_of_compute_is_far_beyond_the_costs_of/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777459573000,
-        "summary": "submitted by /u/fattyfoods [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.009
       }
     ],
     "science": [
+      {
+        "id": "3a1db985dfb7b027",
+        "title": "International partners boost peace agreement success, study finds",
+        "url": "https://phys.org/news/2026-04-international-partners-boost-peace-agreement.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777482005000,
+        "summary": "Over the past 50 years, nearly 4 in 10 peace agreements have failed within five years of signing. New research shows that when international partners help implement an accord, the odds improve—and the deeper their engagement, the better.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0136
+      },
+      {
+        "id": "0492e2a270d48e38",
+        "title": "Observing exotic quasiparticle states in kagome superconductor CsV₃Sb₅",
+        "url": "https://phys.org/news/2026-04-exotic-quasiparticle-states-kagome-superconductor.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777482003000,
+        "summary": "A research team led by Prof. Hao Ning of the Hefei Institutes of Physical Science of the Chinese Academy of Sciences, in collaboration with Anhui University and the University of Science and Technology of China, has identified two distinct types of unusual low-energy quasiparticle states in the kagome superconductor CsV3Sb5 using single-atom impurities as local \"quantum probes\" combined with scann",
+        "tags": [
+          "superconductivity"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0946
+      },
       {
         "id": "fa68472480c2ff7b",
         "title": "Designing in situ power stations for future Mars missions",
@@ -3740,36 +3774,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0171
-      },
-      {
-        "id": "e5ee45b0c8152de3",
-        "title": "Scorpions' weapons are fortified with metal to suit their needs, research shows",
-        "url": "https://phys.org/news/2026-04-scorpions-weapons-fortified-metal.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777417801000,
-        "summary": "Scorpions wield some of the natural world's most formidable built-in weapons, from crushing pincers to venomous stingers. Scientists have long known that these structures contain trace metals that strengthen them, but only a small fraction of the roughly 3,000 scorpions have ever been examined for this trait.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
-      },
-      {
-        "id": "44aa2d18910ca9b6",
-        "title": "Having a religious affiliation doesn't prevent betting on sports",
-        "url": "https://phys.org/news/2026-04-religious-affiliation-doesnt-sports.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777416003000,
-        "summary": "Having a religious affiliation doesn't stop people from betting on sports in the United States, according to a new study. Results showed that people who infrequently attend religious services are more likely to gamble on sports than people who attend services at least weekly or who never worship publicly. The work appears in the Sociology of Sport Journal.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0164
       }
     ]
   },
