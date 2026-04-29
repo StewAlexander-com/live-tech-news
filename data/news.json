@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:50:09.782824+00:00",
+  "generated_at": "2026-04-29T12:59:57.782756+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1842,26 +1842,66 @@
         "score": 0.8965
       },
       {
-        "id": "83ca50489326a1a4",
-        "title": "Payphone Tag Is Australia’s New National Sport",
-        "url": "https://hackaday.com/2026/04/28/payphone-tag-is-australias-new-national-sport/",
-        "source": "Hackaday",
+        "id": "40d97959e6bb0681",
+        "title": "I stopped paying for file manager apps after discovering what Android already has",
+        "url": "https://www.makeuseof.com/androids-hidden-file-management-features-made-third-party-app-redundant/",
+        "source": "MakeUseOf",
         "lane": "innovation",
         "published_ts": 1777406418000,
-        "summary": "Australia’s payphones are an iconic part of the national landscape, even if they’re not as important as they once used to be. However, they’re having a resurgence of late, in …read more",
+        "summary": "After years of using a third-party file manager, I finally gave Android’s built-in tools a proper shot.",
         "tags": [
-          "phone hacks",
-          "australia",
-          "pay phone",
-          "payphone",
-          "phone"
+          "android",
+          "file management",
+          "android tips",
+          "samsung"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.079
+        "impact": "normal",
+        "score": 0.6128
       }
     ],
     "ai": [
+      {
+        "id": "1019afee41fbb4f9",
+        "title": "AWS keynote hypes AI as magic. Its own engineers tell a different story",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/aws_keynote_hypes_ai_magic/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777467087000,
+        "summary": "No shortcuts, human-review everything, says internal team - and keep hiring junior developers Interview Steve Tarcza, director of Amazon Stores, says his team — StoreGen — exists to help the retail giant's developers move faster and cut friction. But despite the AI mandate, one principle is non-negotiable: nothing ships without a human checking it first.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1309
+      },
+      {
+        "id": "5723d6bd08e2cbfa",
+        "title": "Google celebrates 20 years of Translate with a new AI pronunciation practice tool for Android users in the US and India; Translate gets 1B+ queries per month (Macy Meyer/CNET)",
+        "url": "http://www.techmeme.com/260429/p24#a260429p24",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777467002000,
+        "summary": "Macy Meyer / CNET: Google celebrates 20 years of Translate with a new AI pronunciation practice tool for Android users in the US and India; Translate gets 1B+ queries per month — Google's new AI-powered language tool can give you real-time feedback by analyzing speech and correcting your pronunciation.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0766
+      },
+      {
+        "id": "663de3a16f26b242",
+        "title": "'The creatives are about to become more powerful than anyone expected': Freepik's relaunch marks a wider industry shift to all-in-one AI-driven content creator software — and lowering the barrier of creativity means beginners have never had it so good",
+        "url": "https://www.techradar.com/pro/the-creatives-are-about-to-become-more-powerful-than-anyone-expected-freepiks-relaunch-marks-a-wider-industry-shift-to-all-in-one-ai-driven-content-creator-software-and-lowering-the-barrier-of-creativity-means-beginners-have-never-had-it-so-good",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1777466932000,
+        "summary": "CEO heralds the \"no-collar economy\" as rebranded creative platform hits $230 million in annual recurring revenue.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9147
+      },
       {
         "id": "b754d3c889ac79db",
         "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
@@ -1912,6 +1952,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9974
+      },
+      {
+        "id": "710e249187ca60af",
+        "title": "UK’s Metropolitan Police Federation criticises 'intrusive' use of Palantir AI",
+        "url": "https://www.reddit.com/r/technology/comments/1sywjia/uks_metropolitan_police_federation_criticises/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777463537000,
+        "summary": "submitted by /u/sr_local [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.004
       },
       {
         "id": "73b55b600ca119bf",
@@ -2664,114 +2719,50 @@
         "score": 0.9991
       },
       {
-        "id": "7fa03ca728715100",
-        "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
-        "url": "https://arxiv.org/abs/2604.24805",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experiments spanning vision, text, neuromorphic, and physiological datasets, using 10 seeds per configurati",
-        "tags": [
-          "cs.lg",
-          "q-bio.qm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9566
-      },
-      {
-        "id": "143706ca40122d6d",
-        "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
-        "url": "https://arxiv.org/abs/2604.24810",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational cost or latency with predictive accuracy are critical in edge computing scenarios. In this work, we bu",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9566
-      },
-      {
-        "id": "1f43ee6f1ef41319",
-        "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
-        "url": "https://arxiv.org/abs/2604.24811",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios, existing graph neural ODEs typically employ a unified message passing mechanism, assuming that inte",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9652
-      },
-      {
-        "id": "e8d9c5d9e7a5b892",
-        "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
-        "url": "https://arxiv.org/abs/2604.24824",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, proposes a knowledge system for evaluation and learning under Democratic Supervision. By systematically a",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9652
-      },
-      {
-        "id": "1157efbef5346704",
-        "title": "Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference",
-        "url": "https://arxiv.org/abs/2604.24911",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24911v1 Announce Type: new Abstract: Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relationships across inputs and outputs into the learning process, whilst characterizing full predictive ",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9656
-      },
-      {
-        "id": "da0a22c5d7578502",
-        "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-        "url": "https://arxiv.org/abs/2604.22934",
+        "id": "9d740e60c2cd517d",
+        "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+        "url": "https://arxiv.org/abs/2604.23049",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777435200000,
-        "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in par",
+        "summary": "arXiv:2604.23049v1 Announce Type: new Abstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controlled autonomy. Prior work has established the importance of human oversight for ensuring transparency, accountability, and trustworthiness in such systems. However, existing implementations of Human-in-the-",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9536
+      },
+      {
+        "id": "376ee58776c98618",
+        "title": "Active Inference: A method for Phenotyping Agency in AI systems?",
+        "url": "https://arxiv.org/abs/2604.23278",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23278v1 Announce Type: new Abstract: The proliferation of agentic artificial intelligence has outpaced the conceptual tools needed to characterize agency in computational systems. Prevailing definitions mainly rely on autonomy and goal-directedness. Here, we argue for a minimal notion open to principled inspection given three criteria: intentionality as action grounded in beliefs and de",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9536
+      },
+      {
+        "id": "03d3040286a261a0",
+        "title": "AI Identity: Standards, Gaps, and Research Directions for AI Agents",
+        "url": "https://arxiv.org/abs/2604.23280",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23280v1 Announce Type: new Abstract: AI agents are now running real transactions, workflows, and sub-agent chains across organizational boundaries without continuous human supervision. This creates a problem no current infrastructure is equipped to solve: how do you identify, verify, and hold accountable an entity with no body, no persistent memory, and no legal standing? We define AI I",
         "tags": [
           "cs.ai",
-          "cs.cl"
+          "cs.cr"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1311
-      },
-      {
-        "id": "b078947fa5311bc0",
-        "title": "A Systematic Approach for Large Language Models Debugging",
-        "url": "https://arxiv.org/abs/2604.23027",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.23027v1 Announce Type: new Abstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and the difficulty of diagnosing errors across diverse tasks and settings. This pap",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1311
+        "score": 0.9536
       }
     ],
     "science": [
