@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:20:57.761197+00:00",
+  "generated_at": "2026-04-29T12:22:08.832195+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -315,6 +315,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8459
+      },
+      {
+        "id": "c4fbb827f62ce1a3",
+        "title": "Chinese GPU maker Lisuan Tech becomes only the fourth GPU maker ever to earn Microsoft WHQL certification — LX 7G100 GPU joins Nvidia, AMD, and Intel as it crosses the WHQL driver finish line, first Chinese firm to earn certification",
+        "url": "https://www.tomshardware.com/pc-components/gpus/in-historic-first-chinese-gpu-maker-lisuan-tech-becomes-only-the-fourth-gpu-maker-to-earn-microsoft-whql-certification-lx-7g100-gpu-joins-nvidia-amd-and-intel-as-it-crosses-the-whql-driver-finish-line-first-chinese-firm-to-earn-certification",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1777459200000,
+        "summary": "Lisuan Tech has secured Windows Hardware Quality Labs (WHQL) certification for its 6nm graphics cards, making it only the fourth company to ever do so.",
+        "tags": [
+          "gpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9194
       },
       {
         "id": "0ac5697e0b9558fc",
@@ -939,19 +955,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7557
-      },
-      {
-        "id": "a29e5f6239a1517a",
-        "title": "China's National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture (Luke James/Tom's Hardware)",
-        "url": "http://www.techmeme.com/260428/p37#a260428p37",
-        "source": "Techmeme",
-        "lane": "gadgets",
-        "published_ts": 1777406702000,
-        "summary": "Luke James / Tom's Hardware: China's National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture — Good luck with that. … China's National Supercomputing Center in Shenzhen announced the Lingshen supercomputer project …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9995
       }
     ],
     "innovation": [
@@ -2620,6 +2623,37 @@
         "score": 0.9991
       },
       {
+        "id": "1f43ee6f1ef41319",
+        "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
+        "url": "https://arxiv.org/abs/2604.24811",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios, existing graph neural ODEs typically employ a unified message passing mechanism, assuming that inte",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9652
+      },
+      {
+        "id": "e8d9c5d9e7a5b892",
+        "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
+        "url": "https://arxiv.org/abs/2604.24824",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, proposes a knowledge system for evaluation and learning under Democratic Supervision. By systematically a",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9652
+      },
+      {
         "id": "1157efbef5346704",
         "title": "Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference",
         "url": "https://arxiv.org/abs/2604.24911",
@@ -2735,38 +2769,6 @@
         "lane": "ai",
         "published_ts": 1777435200000,
         "summary": "arXiv:2604.24788v1 Announce Type: new Abstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting macroeconomic conditions. The nonlinear dynamics and frequent regime changes can limit the effective",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1311
-      },
-      {
-        "id": "7fa03ca728715100",
-        "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
-        "url": "https://arxiv.org/abs/2604.24805",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experiments spanning vision, text, neuromorphic, and physiological datasets, using 10 seeds per configurati",
-        "tags": [
-          "cs.lg",
-          "q-bio.qm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1311
-      },
-      {
-        "id": "143706ca40122d6d",
-        "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
-        "url": "https://arxiv.org/abs/2604.24810",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777435200000,
-        "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational cost or latency with predictive accuracy are critical in edge computing scenarios. In this work, we bu",
         "tags": [
           "cs.lg",
           "cs.ai"
