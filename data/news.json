@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T00:01:59.392918+00:00",
+  "generated_at": "2026-04-29T00:48:29.149597+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1013,6 +1013,19 @@
     ],
     "innovation": [
       {
+        "id": "b8054de92850f134",
+        "title": "Parallel Web Systems, founded by former Twitter CEO Parag Agrawal and which offers web search tools for AI agents, raised a $100M Series B at a $2B valuation (Belle Lin/Wall Street Journal)",
+        "url": "http://www.techmeme.com/260428/p50#a260428p50",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777422601000,
+        "summary": "Belle Lin / Wall Street Journal: Parallel Web Systems, founded by former Twitter CEO Parag Agrawal and which offers web search tools for AI agents, raised a $100M Series B at a $2B valuation — Parallel Web Systems raised $100 million in Series B funding to continue building web search for AI agents",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0736
+      },
+      {
         "id": "a2abbd034a98097a",
         "title": "Mitchell Hashimoto, co-founder of HashiCorp, says his terminal application Ghostty will move off GitHub, citing GitHub's frequent outages (Mitchell Hashimoto)",
         "url": "http://www.techmeme.com/260428/p48#a260428p48",
@@ -1969,22 +1982,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8479
-      },
-      {
-        "id": "2366debdc2252a4f",
-        "title": "US prosecutors allege Peter Stokes, a 19-year-old dual US-Estonian citizen known as Bouquet, is a Scattered Spider member; he was arrested in a Helsinki airport (Jason Meisner/Chicago Tribune)",
-        "url": "http://www.techmeme.com/260428/p21#a260428p21",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777383901000,
-        "summary": "Jason Meisner / Chicago Tribune: US prosecutors allege Peter Stokes, a 19-year-old dual US-Estonian citizen known as Bouquet, is a Scattered Spider member; he was arrested in a Helsinki airport — The high-tech cyber hacker who goes by the online moniker “Bouquet” jetted around the world, from Dubai to Thailand to New York …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9821
       }
     ],
     "ai": [
+      {
+        "id": "0c36bb2b2d07c1f4",
+        "title": "At his OpenAI trial, Musk relitigates an old friendship",
+        "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777423216000,
+        "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.746
+      },
+      {
+        "id": "8bf7725ae2e20e7d",
+        "title": "OpenAI's Codex instruction set contains a line, repeated several times, that forbids Codex from randomly mentioning goblins, gremlins, and other creatures (Will Knight/Wired)",
+        "url": "http://www.techmeme.com/260428/p49#a260428p49",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777421701000,
+        "summary": "Will Knight / Wired: OpenAI's Codex instruction set contains a line, repeated several times, that forbids Codex from randomly mentioning goblins, gremlins, and other creatures — “Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9893
+      },
       {
         "id": "db202759827d73f8",
         "title": "Wingbeat radar signatures let AI sort bees, wasps and other insects",
@@ -1999,6 +2027,38 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1009
+      },
+      {
+        "id": "f02d4e9f19992d6e",
+        "title": "Claude system prompt bug wastes user money and bricks managed agents",
+        "url": "https://github.com/anthropics/claude-code/issues/49363",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777420797000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:25"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0338
+      },
+      {
+        "id": "3caffea9ab1dd37b",
+        "title": "Claude for Creative Work",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777420016000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:16"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0295
       },
       {
         "id": "4d718726376fd521",
@@ -2895,65 +2955,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0789
-      },
-      {
-        "id": "678f554c584a5b34",
-        "title": "Vintage chatbot lives in the past like an elderly relative",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/vintage_chatbot_lives_in_past/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1777398668000,
-        "summary": "Talkie's training data stops at the end of 1930, and its creators hope it'll help us better understand how AI thinks If you're tired of interacting with a bot that spews Nazi propaganda or refers to itself as MechaHitler, you could sign off of Elon Musk's xAI. Or, just to be sure, use an LLM whose training data ends in 1930, three years before the Nazis took power in Germany and nine years before ",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1314
-      },
-      {
-        "id": "eae426cdf7585e8b",
-        "title": "Google Signs Pentagon AI Deal Despite Employee Backlash - The agreement reportedly allows the U.S. military to use Google’s AI models for classified work including 'any lawful government purpose.'",
-        "url": "https://www.reddit.com/r/technology/comments/1sy8nmc/google_signs_pentagon_ai_deal_despite_employee/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777398389000,
-        "summary": "submitted by /u/NicolasCageFan492 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0169
-      },
-      {
-        "id": "1f2674ca56706ce0",
-        "title": "John Oliver on AI chatbots: ‘Behind that machine is a corporation trying to extract a monthly fee from you’ - The Last Week Tonight host dug into the many issues with AI chatbots released on the public without proper safety guardrails, from sycophancy to sexualizing children",
-        "url": "https://www.reddit.com/r/technology/comments/1sy8mxo/john_oliver_on_ai_chatbots_behind_that_machine_is/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777398352000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0219
-      },
-      {
-        "id": "aa4cb780d69a7d83",
-        "title": "OpenAI Models on Amazon Bedrock",
-        "url": "https://aws.amazon.com/bedrock/openai/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777397887000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.987
       }
     ],
     "science": [
