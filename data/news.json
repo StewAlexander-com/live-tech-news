@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T03:45:46.338641+00:00",
+  "generated_at": "2026-04-29T04:07:50.705281+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1971,6 +1971,206 @@
     ],
     "ai": [
       {
+        "id": "4912150db3b70fd9",
+        "title": "Sources: the White House is developing rules for government agencies to get around Anthropic's supply chain risk designation and onboard new models like Mythos (Axios)",
+        "url": "http://www.techmeme.com/260429/p1#a260429p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777435501000,
+        "summary": "Axios: Sources: the White House is developing rules for government agencies to get around Anthropic's supply chain risk designation and onboard new models like Mythos — - One source described the White House efforts as a way to “save face and bring em back in.” — Earlier this month …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9991
+      },
+      {
+        "id": "da0a22c5d7578502",
+        "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+        "url": "https://arxiv.org/abs/2604.22934",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.22934v1 Announce Type: new Abstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in par",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "b078947fa5311bc0",
+        "title": "A Systematic Approach for Large Language Models Debugging",
+        "url": "https://arxiv.org/abs/2604.23027",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23027v1 Announce Type: new Abstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-based reasoning. However, debugging these models remains a persistent challenge due to their opaque and probabilistic nature and the difficulty of diagnosing errors across diverse tasks and settings. This pap",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "9d740e60c2cd517d",
+        "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+        "url": "https://arxiv.org/abs/2604.23049",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23049v1 Announce Type: new Abstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controlled autonomy. Prior work has established the importance of human oversight for ensuring transparency, accountability, and trustworthiness in such systems. However, existing implementations of Human-in-the-",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "376ee58776c98618",
+        "title": "Active Inference: A method for Phenotyping Agency in AI systems?",
+        "url": "https://arxiv.org/abs/2604.23278",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23278v1 Announce Type: new Abstract: The proliferation of agentic artificial intelligence has outpaced the conceptual tools needed to characterize agency in computational systems. Prevailing definitions mainly rely on autonomy and goal-directedness. Here, we argue for a minimal notion open to principled inspection given three criteria: intentionality as action grounded in beliefs and de",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "03d3040286a261a0",
+        "title": "AI Identity: Standards, Gaps, and Research Directions for AI Agents",
+        "url": "https://arxiv.org/abs/2604.23280",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23280v1 Announce Type: new Abstract: AI agents are now running real transactions, workflows, and sub-agent chains across organizational boundaries without continuous human supervision. This creates a problem no current infrastructure is equipped to solve: how do you identify, verify, and hold accountable an entity with no body, no persistent memory, and no legal standing? We define AI I",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "2ffa06f8165b11aa",
+        "title": "SoccerRef-Agents: Multi-Agent System for Automated Soccer Refereeing",
+        "url": "https://arxiv.org/abs/2604.23392",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23392v1 Announce Type: new Abstract: Refereeing is vital in sports, where fair, accurate, and explainable decisions are fundamental. While intelligent assistant technologies are being widely adopted in soccer refereeing, current AI-assisted approaches remain preliminary. Existing research mostly focuses on isolated video perception tasks and lacks the ability to understand and reason ab",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "364058911a963359",
+        "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
+        "url": "https://arxiv.org/abs/2604.24788",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24788v1 Announce Type: new Abstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting macroeconomic conditions. The nonlinear dynamics and frequent regime changes can limit the effective",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "7fa03ca728715100",
+        "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
+        "url": "https://arxiv.org/abs/2604.24805",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experiments spanning vision, text, neuromorphic, and physiological datasets, using 10 seeds per configurati",
+        "tags": [
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "143706ca40122d6d",
+        "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2604.24810",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational cost or latency with predictive accuracy are critical in edge computing scenarios. In this work, we bu",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "1f43ee6f1ef41319",
+        "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
+        "url": "https://arxiv.org/abs/2604.24811",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios, existing graph neural ODEs typically employ a unified message passing mechanism, assuming that inte",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "e8d9c5d9e7a5b892",
+        "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
+        "url": "https://arxiv.org/abs/2604.24824",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, proposes a knowledge system for evaluation and learning under Democratic Supervision. By systematically a",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "1157efbef5346704",
+        "title": "Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference",
+        "url": "https://arxiv.org/abs/2604.24911",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24911v1 Announce Type: new Abstract: Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relationships across inputs and outputs into the learning process, whilst characterizing full predictive ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
         "id": "71e9856df4aad514",
         "title": "Musk Testifies OpenAI Was Created As Nonprofit To Counter Google",
         "url": "https://yro.slashdot.org/story/26/04/29/0311202/musk-testifies-openai-was-created-as-nonprofit-to-counter-google?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -2709,225 +2909,151 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0486
-      },
-      {
-        "id": "0d02204e98b078ac",
-        "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777402813000,
-        "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether […]",
-        "tags": [
-          "ai",
-          "elon musk",
-          "law",
-          "news",
-          "openai",
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7888
-      },
-      {
-        "id": "9d50afc5173adc67",
-        "title": "The Bloomberg Terminal Is Getting an AI Makeover",
-        "url": "https://news.slashdot.org/story/26/04/28/1832202/the-bloomberg-terminal-is-getting-an-ai-makeover?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1777402800000,
-        "summary": "An anonymous reader quotes a report from Wired: For its famous intractability, the Bloomberg Terminal has long inspired devotion, bordering on obsession. Among traders, the ability to chart a path through the software's dizzying scrolls of numbers and text to isolate far-flung information is the mark of a seasoned professional. But as a greater mass of data is fed into the Terminal -- not only ear",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1293
-      },
-      {
-        "id": "8a853a6a7be0cd7b",
-        "title": "Amazon tried selling office software and failed. Now it is betting that office software itself is obsolete.",
-        "url": "https://thenextweb.com/news/amazon-tried-selling-office-software-and-failed-now-it-is-betting-that-office-software-itself-is-obsolete",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777402529000,
-        "summary": "Amazon Web Services announced a set of AI-powered business applications on Tuesday that move the company from selling cloud infrastructure to selling the software that runs on it, a strategic shift that puts Amazon in direct competition with Microsoft, Oracle, and Salesforce in the $300 billion software-as-a-service market. The new products, Amazon Connect Decisions for […] This story continues at",
-        "tags": [
-          "amazon",
-          "artificial intelligence",
-          "next featured",
-          "corporates and innovation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9621
-      },
-      {
-        "id": "ba3b923f93ca82b8",
-        "title": "YouTube Is Testing an AI Search Tool That Delivers Video and Text",
-        "url": "https://www.cnet.com/tech/services-and-software/youtube-google-ai-feature/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1777402365000,
-        "summary": "YouTube Premium subscribers can try it out and shake up their video searches.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8758
-      },
-      {
-        "id": "967f3e58f4b9517a",
-        "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-        "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777402194000,
-        "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-        "tags": [
-          "ai",
-          "apps",
-          "commerce",
-          "amazon",
-          "commerce",
-          "ecommerce"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8073
-      },
-      {
-        "id": "5e3bbeee1c632667",
-        "title": "OpenAI’s models are now available everywhere. The question is whether everywhere is enough.",
-        "url": "https://thenextweb.com/news/amazon-aws-openai-models-microsoft-exclusivity-ends",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777401774000,
-        "summary": "Amazon Web Services will begin selling OpenAI’s models to its cloud customers, the company announced on Tuesday, one day after Microsoft agreed to end the exclusive reselling arrangement that had given Azure sole access to OpenAI’s technology for the first three years of the generative AI era. “It’s something that our customers have asked for, […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "artificial intelligence",
-          "next featured",
-          "corporates and innovation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9582
-      },
-      {
-        "id": "8bf70bcab433ee60",
-        "title": "‘Gone in 9 seconds’: Claude-powered AI agent deletes startup’s entire database",
-        "url": "https://www.reddit.com/r/technology/comments/1sya6jy/gone_in_9_seconds_claudepowered_ai_agent_deletes/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777401549000,
-        "summary": "submitted by /u/No_Top_9023 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0218
-      },
-      {
-        "id": "1047177cbfc4426d",
-        "title": "iOS 27 to Add New Apple Intelligence Photo Editing Tools",
-        "url": "https://www.macrumors.com/2026/04/28/ios-27-apple-intelligence-photo-editing-tools/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1777401479000,
-        "summary": "Apple will add new Apple Intelligence photo editing tools to the Photos app in iOS 27, iPadOS 27, and macOS 27, reports Bloomberg. On-device ‌Apple Intelligence‌ will be able to make subtle changes to image quality, positioning, and focus, with the new capabilities joining Clean Up, the sole AI editing feature that Apple has released to date. The ‌Photos‌ app in ‌iOS 27‌, iPadOS 27, and ‌macOS 27‌",
-        "tags": [
-          "featured",
-          "ios 27",
-          "apple intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0789
-      },
-      {
-        "id": "f63edbbc65007004",
-        "title": "Sources: Apple plans an AI overhaul for photo editing in iOS 27, including using on-device AI models to extend, enhance, and reframe photos (Mark Gurman/Bloomberg)",
-        "url": "http://www.techmeme.com/260428/p36#a260428p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777401001000,
-        "summary": "Mark Gurman / Bloomberg: Sources: Apple plans an AI overhaul for photo editing in iOS 27, including using on-device AI models to extend, enhance, and reframe photos — Apple Inc. is planning a major overhaul of the built-in photo-editing features for the iPhone, iPad and Mac, leaning heavily on artificial intelligence to better compete with Android devices.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0761
-      },
-      {
-        "id": "00e7bf0c776867f7",
-        "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
-        "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777400813000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:47"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0111
-      },
-      {
-        "id": "2aa2fe5e259b6af9",
-        "title": "Market slumps as OpenAI reportedly misses internal targets for active users and revenue",
-        "url": "https://www.reddit.com/r/technology/comments/1sy9kav/market_slumps_as_openai_reportedly_misses/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777400258000,
-        "summary": "submitted by /u/circuitloss [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9429
-      },
-      {
-        "id": "7c7c321bdbb3bf6f",
-        "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-        "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777400100000,
-        "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-        "tags": [
-          "ai",
-          "anthropic",
-          "defense department",
-          "google",
-          "pentagon"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8011
-      },
-      {
-        "id": "ea4e86561a9693e4",
-        "title": "One-third of new websites are now AI-generated — here's how to spot them",
-        "url": "https://www.makeuseof.com/one-third-of-new-websites-are-now-ai-generated-heres-how-to-spot-them/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1777399858000,
-        "summary": "Maybe the Dead Internet Theory isn't a theory after all",
-        "tags": [
-          "internet",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9171
       }
     ],
     "science": [
+      {
+        "id": "f3428a343821db3b",
+        "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+        "url": "https://arxiv.org/abs/2604.22979",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.22979v1 Announce Type: new Abstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models achieve strong predictive performance on CSI-based HAR (CHAR), yet rely on continuous latent representat",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "3010d8ec4d0cf6c2",
+        "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
+        "url": "https://arxiv.org/abs/2604.24767",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24767v1 Announce Type: new Abstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to limited skilled experts, whose ability to interpret pathological patterns varies significantly, cau",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "377244b75845e4bf",
+        "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
+        "url": "https://arxiv.org/abs/2604.24768",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24768v1 Announce Type: new Abstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our aim is to determine the relationship between static bending response and dynamic deflection of a pe",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "78041f7b8a6112e2",
+        "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
+        "url": "https://arxiv.org/abs/2604.24803",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24803v1 Announce Type: new Abstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this query cost. A graph neural network predicts a Gaussian distribution N(mu, Sigma) over QAOA angles. The m",
+        "tags": [
+          "cs.lg",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1311
+      },
+      {
+        "id": "706a9803e39c11b2",
+        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+        "url": "https://arxiv.org/abs/2604.23002",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23002v1 Announce Type: new Abstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields such as physics, domain-specific machinery (\\textit{e.g.} Dirac notation, vector calculus) imposes additional formalisation challenges that modern LLMs and agentic approaches have yet to tackle. To aid a",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
+      {
+        "id": "5798437fd90fdc6c",
+        "title": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
+        "url": "https://arxiv.org/abs/2604.23239",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.23239v1 Announce Type: new Abstract: Accurate long-term time series forecasting (LTSF) requires the capture of complex long-range dependencies and dynamic periodic patterns. Recent advances in frequency-domain analysis offer a global perspective for uncovering temporal characteristics. However, real-world time series often exhibit pronounced cross-domain heterogeneity where variables th",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
+      {
+        "id": "1f9031939ab88b54",
+        "title": "Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy",
+        "url": "https://arxiv.org/abs/2604.24909",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24909v1 Announce Type: new Abstract: The vast majority of transmission electron microscopy (TEM) data never gets published and ends up on a backup drive until deleted to free up space. These left-over datasets are rich in detail and variation, often paired with automatically saved metadata of instrument state and acquisition parameters. In this work, we introduce a dataset of 7,330 high",
+        "tags": [
+          "cs.lg",
+          "cs.ce"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
+      {
+        "id": "f2a0ef6fa3ccfa2a",
+        "title": "CoreFlow: Low-Rank Matrix Generative Models",
+        "url": "https://arxiv.org/abs/2604.24959",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24959v1 Announce Type: new Abstract: Learning matrix-valued distributions from high-dimensional and possibly incomplete training data is challenging: ambient-space generative modeling is computationally expensive and statistically fragile when the matrix dimension is large but the sample size is limited. We propose CoreFlow, a geometry-preserving low-rank flow model that learns shared r",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
+      {
+        "id": "bc6f4dcbab77ce0f",
+        "title": "Laplace-Bridged Randomized Smoothing for Fast Certified Robustness",
+        "url": "https://arxiv.org/abs/2604.24993",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777435200000,
+        "summary": "arXiv:2604.24993v1 Announce Type: new Abstract: Randomized Smoothing (RS) offers formal $\\ell_2$ guarantees for arbitrary base classifiers but faces two key practical bottlenecks: (i) it often relies on noise-augmented training to achieve nontrivial certificates, which increases training cost, can reduce clean accuracy, and weakens RS as a genuinely post-hoc defense; and (ii) certification is comp",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
       {
         "id": "7f389abdd7383ad5",
         "title": "You'd better start paying attention to the manosphere. You're living in it",
@@ -3702,141 +3828,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0195
-      },
-      {
-        "id": "394c7b3ebabe3501",
-        "title": "Global supply chains cause environmental harm, but they can help repair it too",
-        "url": "https://phys.org/news/2026-04-global-chains-environmental.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777386005000,
-        "summary": "The COVID-19 pandemic drew attention to how central supply chains are to the global economy. It also exposed the human rights abuses that can occur up and down supply chains before goods arrive in our hands.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0179
-      },
-      {
-        "id": "43e89f62e26e55f8",
-        "title": "Passive acoustic monitoring reveals new insights on foraging activity of Hector's dolphins",
-        "url": "https://phys.org/news/2026-04-passive-acoustic-reveals-insights-foraging.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777384807000,
-        "summary": "Monitoring the sounds of an endangered dolphin species may provide clues to ensuring their survival, a new University of Otago—Ōtākou Whakaihu Waka study shows. Published in the New Zealand Journal of Marine and Freshwater Research, the research is the first to use acoustic monitoring to study Hector's dolphins in Porpoise Bay, Southland, an important habitat for the species.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0143
-      },
-      {
-        "id": "9b1595e4e1205704",
-        "title": "Research reveals why beavers are getting busy sooner in spring",
-        "url": "https://phys.org/news/2026-04-reveals-beavers-busy-sooner.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777384806000,
-        "summary": "A University of Alberta study has whittled down climate-related reasons beavers are emerging earlier onto the ice from their lodges in the spring—a shift that helps them store more winter food but could also lead to more conflict with humans.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0143
-      },
-      {
-        "id": "d9099e3d3697707c",
-        "title": "Proton VPN's promises post-quantum groundwork, Stealth for Linux, and slick new app releases",
-        "url": "https://www.techradar.com/vpn/vpn-services/proton-vpns-promises-post-quantum-groundwork-stealth-for-linux-and-slick-new-app-releases",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1777384439000,
-        "summary": "Proton VPN has unveiled its Spring/Summer 2026 roadmap, promising a major new WireGuard codebase, the Stealth protocol for Linux users, and advanced tools for its business clients. Here is everything you need to know about the upcoming upgrades.",
-        "tags": [
-          "vpn services",
-          "vpn"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9111
-      },
-      {
-        "id": "1bb3898bdef2be58",
-        "title": "Why do high-speed particles bounce higher in wet collisions?",
-        "url": "https://phys.org/news/2026-04-high-particles-higher-collisions.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777383606000,
-        "summary": "Researchers have uncovered a counterintuitive phenomenon in collision dynamics: high-speed particles bounce back from wet walls much more strongly than expected. Integrating experimental observations with advanced numerical simulations revealed that increasing the impact speed induces a morphological transition in the post-collision liquid film, shifting it from a bridge to a dome shape. Further, ",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0078
-      },
-      {
-        "id": "4394b94c71407679",
-        "title": "Image: Fiery fall color in southern Chile",
-        "url": "https://phys.org/news/2026-04-image-fiery-fall-southern-chile.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777383601000,
-        "summary": "The bright whites of mountain snow, muted browns of the arid plains, and gem-like blues and teals of glacial lakes typically dominate the Patagonian color palette. But for a short time in the austral autumn, temperate deciduous forests add splashes of warm tones. On April 12, 2026, a break in the clouds allowed the Landsat 9 satellite to capture an image of reddish hillsides in the Magallanes regi",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0884
-      },
-      {
-        "id": "ab63fc194db1eaba",
-        "title": "Despite proposed science cuts, NASA boss says 'We haven't canceled anything yet'",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/despite_proposed_science_cuts_nasa/",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1777383010000,
-        "summary": "That 'yet' is sure doing a lot of heavy lifting if the budget for science is slashed NASA administrator Jared Isaacman has appeared before the US House Appropriations Committee to explain the proposed Trump administration plan to cut $5.6 billion from the space agency's budget.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0341
-      },
-      {
-        "id": "4ee6297a60bde36e",
-        "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-        "url": "https://www.lumara-space.app/",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1777382748000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:15"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1029
-      },
-      {
-        "id": "b5034e14673f2b05",
-        "title": "Physics can be hard: Mindfulness may help, research suggests",
-        "url": "https://phys.org/news/2026-04-physics-hard-mindfulness.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777382410000,
-        "summary": "The high stakes and intimidating reputation of physics classes can lead to plenty of stress for students new to the discipline. In fact, many students say it feels psychologically threatening, leading to worry and self-doubt.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
       }
     ]
   },
