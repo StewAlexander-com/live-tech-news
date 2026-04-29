@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-04-29T10:59:30.784296+00:00",
+  "generated_at": "2026-04-29T11:05:12.497005+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1392d901a50eff01",
+        "title": "PS5 Linux loader goes public, turning ‘Phat’ consoles into full Linux PCs — build script includes bootable Ubuntu 24.04 image, can output 4K games at 60 FPS",
+        "url": "https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1777460238000,
+        "summary": "Only PS5 Phat consoles on older firmware 3.00, 3.10, 3.20, 3.21, 4.00, 4.02, 4.03, 4.50, or 4.51 are supported.",
+        "tags": [
+          "linux",
+          "software",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9476
+      },
       {
         "id": "e798aa77770621cc",
         "title": "‘Your phone is about to stop being yours': anger brewing among Android fans as major Google app change draws near",
@@ -947,29 +964,91 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7571
-      },
-      {
-        "id": "ca236bdc45d1ae17",
-        "title": "Apple Weather App Experiencing Outage [Update: Fixed]",
-        "url": "https://www.macrumors.com/2026/04/28/apple-weather-app-outage/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1777399235000,
-        "summary": "If you've noticed the Apple Weather app isn't loading weather data right now, you're not alone. The app appears to be experiencing an outage. According to Apple's System Status page, the Weather app may be slow or unavailable for some users. The problem started at 11:36 a.m. Eastern Time and is ongoing. Reports on social media suggest that the Weather app is slow to load for some, and is not loadi",
-        "tags": [
-          "apple",
-          "rumors",
-          "mac",
-          "ios",
-          "iphone",
-          "ipad"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9644
       }
     ],
     "innovation": [
+      {
+        "id": "483ff56a8af59593",
+        "title": "I'd vibe code any day, but I only trust these models with UI design",
+        "url": "https://www.makeuseof.com/vibe-code-only-trust-these-models-ui-design/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777460476000,
+        "summary": "Good UI needs more than vibes.",
+        "tags": [
+          "productivity",
+          "design",
+          "claude",
+          "google gemini"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8489
+      },
+      {
+        "id": "d5678ecb7be71081",
+        "title": "Noctua Releases 3D Models, But Please Don’t Try To Dupe The Products",
+        "url": "https://hackaday.com/2026/04/29/noctua-releases-3d-models-but-please-dont-try-to-dupe-the-products/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1777460450000,
+        "summary": "Noctua wants to make life easier for fans of its…fans. To that end, the company has released a bevy of 3D models across its various product lines, all available to …read more",
+        "tags": [
+          "parts",
+          "3d model",
+          "fan",
+          "noctua"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0785
+      },
+      {
+        "id": "4b7a73ae376d3991",
+        "title": "GitHub says sorry and vows to do better as uptime slips and devs complain",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_says_sorry_and_says/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1777460422000,
+        "summary": "After Hashicorp co-founder blasts the source shack and numbers slide Microsoft's code hosting shack Github has published a lengthy mea culpa about its availability and reliability woes - one that includes the words \"we are sorry.\"…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0484
+      },
+      {
+        "id": "a045f630ccd62839",
+        "title": "I saved $50 a month by switching to these open source Android apps",
+        "url": "https://www.androidpolice.com/i-saved-money-by-switching-to-these-open-source-android-apps/",
+        "source": "Android Police",
+        "lane": "innovation",
+        "published_ts": 1777460410000,
+        "summary": "You can save this much in a month, too",
+        "tags": [
+          "android apps",
+          "open source",
+          "productivity",
+          "open source"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9984
+      },
+      {
+        "id": "72bfca8be9bdedc9",
+        "title": "FDA Grants Quick Review For 3 Psychedelic Drug Trials",
+        "url": "https://science.slashdot.org/story/26/04/29/0340243/fda-grants-quick-review-for-3-psychedelic-drug-trials?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1777460400000,
+        "summary": "An anonymous reader quotes a report from NBC News: The Food and Drug Administration on Friday granted a quick review of three experimental psychedelic drugs meant to treat major depression and post-traumatic stress disorder. It's the latest move by the Trump administration signaling a shift in policy toward treatments that also give users a high -- coming a day after the Justice Department said it",
+        "tags": [
+          "medicine"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0482
+      },
       {
         "id": "c295d103caf1b002",
         "title": "China freezes new robotaxi licenses after Baidu chaos",
@@ -1807,93 +1886,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1624
-      },
-      {
-        "id": "2dc426be9fcc1aff",
-        "title": "'Battery-free, quiet, and inherently private' — These 3D-printed metal tags could change home and office tracking, turning penny-sized discs into smart devices using ultrasonic tech for maintenance-free monitoring without charging",
-        "url": "https://www.techradar.com/pro/battery-free-quiet-and-inherently-private-these-3d-printed-metal-tags-could-change-home-and-office-tracking-turning-penny-sized-discs-into-smart-devices-using-ultrasonic-tech-for-maintenance-free-monitoring-without-charging",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1777400400000,
-        "summary": "Researchers at Georgia Tech develop battery-free 3D-printed metal tags for smart tracking that use ultrasonic sound to record everyday actions.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9118
-      },
-      {
-        "id": "a125db274da2bcfb",
-        "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
-        "url": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777400214000,
-        "summary": "The app is Match Group's newest attempt to get mobile users excited about online romance again.",
-        "tags": [
-          "apps",
-          "tinder",
-          "dating apps",
-          "hinge",
-          "match group",
-          "in brief"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7422
-      },
-      {
-        "id": "d747f88404c76a75",
-        "title": "Trump admin pays wind developers to quit, back fossil fuel projects",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/trump_admin_pay_off_wind_farm/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1777399821000,
-        "summary": "DoI offers up to $885M if they abandon offshore wind projects As the Iran war pushes up energy prices, the Trump administration is paying offshore wind developers to walk away from projects and invest instead in fossil fuel infrastructure.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0487
-      },
-      {
-        "id": "e191aaba8b78bae9",
-        "title": "Venture capital is moving beyond code because the next tech boom will be built, not programmed",
-        "url": "https://thenextweb.com/news/venture-capital-shift-deep-tech",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1777399258000,
-        "summary": "For more than two decades, software has defined the trajectory of venture capital. It was efficient, scalable, and, for a long time, unmatched in its ability to generate outsized returns. Investors poured capital into SaaS platforms, marketplaces, and digital infrastructure, confident in a model that prioritized speed, low marginal costs, and rapid growth. I was […] This story continues at The Nex",
-        "tags": [
-          "investors and funding",
-          "opinion"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9595
-      },
-      {
-        "id": "472a3e096370b647",
-        "title": "Better Markets urges courts to let states regulate prediction markets, not CFTC",
-        "url": "https://readwrite.com/better-markets-urges-courts-to-let-states-regulate-prediction-markets-not-cftc/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1777399098000,
-        "summary": "A financial reform advocacy group is urging courts to keep oversight of gambling-style online markets at the state level, arguing… Continue reading Better Markets urges courts to let states regulate prediction markets, not CFTC The post Better Markets urges courts to let states regulate prediction markets, not CFTC appeared first on ReadWrite.",
-        "tags": [
-          "prediction markets",
-          "commodity futures trading commission",
-          "kalshi",
-          "massachusetts",
-          "polymarket",
-          "prediction markets"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8954
       }
     ],
     "ai": [
+      {
+        "id": "3a15a0d4359ccaba",
+        "title": "More details emerge about how Intel now earns more revenue from each wafer by looking to the edges — analyst reports say reduced yield variability across each wafer leads to more sellable CPUs",
+        "url": "https://www.tomshardware.com/pc-components/cpus/more-details-emerge-about-how-intel-now-earns-more-revenue-from-each-wafer-by-looking-to-the-edges-analyst-reports-say-reduced-yield-variability-across-each-wafer-leads-to-more-sellable-cpus",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1777460400000,
+        "summary": "According to analyst reports, Intel is reducing wafer yield variability to get more useful CPU dies from wafer edges amid AI-driven demand.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0243
+      },
       {
         "id": "e2c14a9aa21af3dd",
         "title": "How Chinese regulators killed Manus by blocking Meta's $2B takeover in a 54-character decree, creating an uncertain era for the country's expanding AI industry (Bloomberg)",
@@ -2191,6 +2202,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1298
+      },
+      {
+        "id": "2840b689fbfb7bba",
+        "title": "Source: China's leverage against Meta in the Manus deal could include that 10%+ of its revenue is from Chinese ads and Goertek in Meta AI glasses' supply chain (Financial Times)",
+        "url": "http://www.techmeme.com/260429/p11#a260429p11",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777454101000,
+        "summary": "Financial Times: Source: China's leverage against Meta in the Manus deal could include that 10%+ of its revenue is from Chinese ads and Goertek in Meta AI glasses' supply chain — National Development Reform Commission is becoming Beijing's chief enforcer — China's abrupt order to Meta to unwind …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0425
       },
       {
         "id": "ce808eafd9e6a315",
@@ -2756,40 +2780,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9893
-      },
-      {
-        "id": "db202759827d73f8",
-        "title": "Wingbeat radar signatures let AI sort bees, wasps and other insects",
-        "url": "https://phys.org/news/2026-04-wingbeat-radar-signatures-ai-bees.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1777420801000,
-        "summary": "Pollinating insects are important for agriculture and ecological flourishing, but they are difficult to monitor, as identification is tricky, labor-intensive, and typically requires killing some insects. Publishing in PNAS Nexus, Adam Narbudowicz and colleagues use machine learning to identify insects by the changes in their radar reflection, caused by the flapping of their wings. The machine lear",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1009
-      },
-      {
-        "id": "f02d4e9f19992d6e",
-        "title": "Claude system prompt bug wastes user money and bricks managed agents",
-        "url": "https://github.com/anthropics/claude-code/issues/49363",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777420797000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:25"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0338
       }
     ],
     "science": [
+      {
+        "id": "8f78f8f1f80daed9",
+        "title": "Europe climate report signals rising extremes",
+        "url": "https://phys.org/news/2026-04-europe-climate-extremes.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777460405000,
+        "summary": "Europe endured a historic heatwave across Nordic countries, shrinking glaciers and record sea temperatures in 2025 as the fast-warming continent faces more frequent climate extremes, a new report showed Wednesday.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
+      {
+        "id": "324e63e1e45e7753",
+        "title": "Radioactive imaging reveals ants' secret food networks",
+        "url": "https://phys.org/news/2026-04-radioactive-imaging-reveals-ants-secret.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777460402000,
+        "summary": "Researchers at the National Institutes for Quantum Science and Technology (QST) and the University of the Ryukyus have developed a new imaging method that makes it possible to see, in real time, how food is distributed and exchanged inside groups of ants. The work sheds light on how social insects organize themselves, and it could eventually help scientists detect early signs of disruption in inse",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
       {
         "id": "557e453bb84fbbd2",
         "title": "Tropical forest loss eases after record year: researchers",
@@ -3667,36 +3690,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0197
-      },
-      {
-        "id": "d0b9afeaef398408",
-        "title": "German rescuers launch new bid to free stranded whale",
-        "url": "https://phys.org/news/2026-04-german-rescuers-free-stranded-whale.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777392001000,
-        "summary": "German rescuers launched a fresh bid Tuesday to free a humpback whale stranded for a month off the country's coast, aiming to transport the cetacean to deeper waters in a barge.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0984
-      },
-      {
-        "id": "7803e56b9c8822da",
-        "title": "Climbers open Everest route past dangerous ice block",
-        "url": "https://phys.org/news/2026-04-climbers-everest-route-dangerous-ice.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777390805000,
-        "summary": "Nepali guides on Tuesday opened the route past the icefall on Mount Everest, which was blocked for two weeks by a large chunk of dangerous ice.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0105
       }
     ]
   },
