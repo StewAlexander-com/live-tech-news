@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-30T00:01:52.945581+00:00",
+  "generated_at": "2026-04-30T00:13:43.841761+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6645a5cc7656ac9c",
+        "title": "The OnePlus story just got more interesting amid merger talks",
+        "url": "https://www.androidpolice.com/oneplus-and-realme-reportedly-merge/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1777507332000,
+        "summary": "This could be a huge change",
+        "tags": [
+          "oneplus",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9963
+      },
       {
         "id": "58e2769bef03397a",
         "title": "Elon Musk’s worst enemy in court is Elon Musk",
@@ -926,40 +942,39 @@
         "score": 0.998
       },
       {
-        "id": "cf3eef16fda3bce1",
-        "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
-        "url": "https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price",
+        "id": "d4ffe3cde5275bb2",
+        "title": "Motorola just revealed the Razr Fold’s price and hoo boy",
+        "url": "https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability",
         "source": "The Verge",
         "lane": "gadgets",
         "published_ts": 1777478400000,
-        "summary": "The memory crisis claims another couple of victims. Motorola's midtier and entry-level flip phones cost $100 more than their predecessors, and have few upgrades to show for it. The 2026 Razr Plus costs $1,099, up from $999. It still comes with a Snapdragon 8S Gen 3 chipset - two years old at this point - […]",
+        "summary": "2026 is shaping up to be a tough year to launch a high-end phone. The memory crisis has phone prices rising across the board, so an already expensive phone risks becoming a much too expensive phone. That might be what happened to the Razr Fold, which will cost $1,900 when it goes on sale in […]",
         "tags": [
           "foldable phones",
           "gadgets",
-          "hands-on",
           "mobile",
           "motorola",
-          "reviews"
+          "tech"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6785
-      },
-      {
-        "id": "c3a3d46a35998513",
-        "title": "Best Portable Projector for Movies and Gaming Anywhere in 2026",
-        "url": "https://www.cnet.com/tech/home-entertainment/best-portable-projector/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1777478400000,
-        "summary": "These are the best portable projectors I've tested from Anker, TCL and more -- and I've tested hundreds.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8066
+        "score": 0.73
       }
     ],
     "innovation": [
+      {
+        "id": "0be5e7adc22f2ccd",
+        "title": "Linux cryptographic code flaw offers fast route to root",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1777507310000,
+        "summary": "Patches land for authencesn flaw enabling local privilege escalation Developers of major Linux distributions have begun shipping patches to address a local privilege escalation (LPE) vulnerability arising from a logic flaw.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.046
+      },
       {
         "id": "56b1f94b8a5033cb",
         "title": "Amazon chips no longer just a side dish, they're a $20B biz",
@@ -1838,22 +1853,40 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0478
-      },
-      {
-        "id": "6b48782df0d166bc",
-        "title": "CISA flags data-theft bug in NSA-built OT networking tool",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/cisa_flags_datatheft_bug_in/",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1777476904000,
-        "summary": "GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough The Cybersecurity and Infrastructure Security Agency (CISA) is warning anyone who uses GrassMarlin, a tool developed by the National Security Agency (NSA), about a new vulnerability that attackers can use to snoop on sensitive information.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0458
       }
     ],
     "ai": [
+      {
+        "id": "95b180bd270a9b05",
+        "title": "Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation (Financial Times)",
+        "url": "http://www.techmeme.com/260429/p61#a260429p61",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777507801000,
+        "summary": "Financial Times: Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation — Masayoshi Son plots IPO for business named Roze as soon as this year — SoftBank is planning to create and list an AI …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
+        "id": "72efbc60fa82c576",
+        "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+        "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777507635000,
+        "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+        "tags": [
+          "ai",
+          "venture",
+          "anthropic",
+          "fundraise"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7464
+      },
       {
         "id": "192119b9ec88d1de",
         "title": "On the stand, Elon Musk can’t escape his own tweets",
@@ -2757,35 +2790,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0108
-      },
-      {
-        "id": "68e1585a98cfa160",
-        "title": "Yet another experiment proves it's too damn simple to poison large language models",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/poisoning_large_language_models_6nimmt/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1777482018000,
-        "summary": "There is no 6 Nimmt! champion, but a $12 domain registration and one Wikipedia edit convinced several bots there was Unlike search engines that let you judge competing sources, search-backed AI chatbots can turn shaky web material into confident answers. Case in point: A security engineer convinced several bots that he was the reigning world champion of a popular German card game, even though no s",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1269
-      },
-      {
-        "id": "0728558e5512a553",
-        "title": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-multi-billion-dollar-graviton-deal-exposes-new-bottleneck-in-ai-infrastructure",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1777481664000,
-        "summary": "Meta signed a multibillion-dollar, multi-year deal with Amazon Web Services last week to deploy tens of millions of Graviton5 CPU cores across AWS data centers.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.025
       }
     ],
     "science": [
