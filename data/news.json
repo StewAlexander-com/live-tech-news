@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-04-30T18:14:40.950435+00:00",
+  "generated_at": "2026-04-30T18:16:45.693742+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "538f87b438764e6f",
+        "title": "Netflix's TikTok-like vertical feed is finally here",
+        "url": "https://www.androidpolice.com/netflixs-tiktok-like-vertical-feed-is-finally-here/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1777572929000,
+        "summary": "One more app to scroll",
+        "tags": [
+          "netflix",
+          "entertainment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9996
+      },
+      {
+        "id": "18af382e434fc865",
+        "title": "Best Android phones in 2026",
+        "url": "https://www.androidpolice.com/best-android-phones/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1777572912000,
+        "summary": "Top-tier smartphones with distinct capabilities",
+        "tags": [
+          "google pixel 8a",
+          "google pixel 9 pro",
+          "samsung galaxy s24 ultra",
+          "amazon prime day 2025",
+          "phones",
+          "amazon october prime day 2025"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9995
+      },
       {
         "id": "5a03142d81571884",
         "title": "I installed NixOS on my gaming handheld and immediately regretted it",
@@ -944,39 +980,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9486
-      },
-      {
-        "id": "ca4cfc1b9d498366",
-        "title": "Star Wars: Galactic Racer lands on PC, PS5 and Xbox Series X/S on October 6",
-        "url": "https://www.engadget.com/2161135/star-wars-galactic-racer-lands-on-pc-ps5-and-xbox-october-6/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1777558838000,
-        "summary": "A $160 physical collector's edition includes a rad-looking landspeeder model.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.702
-      },
-      {
-        "id": "12b0404a9c8ea62b",
-        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1777558829000,
-        "summary": "Old 86-DOS source code dates back to the time before Microsoft bought it.",
-        "tags": [
-          "tech",
-          "microsoft",
-          "ms-dos",
-          "open source"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8999
       }
     ],
     "innovation": [
@@ -3744,39 +3747,36 @@
         "score": 1.0174
       },
       {
-        "id": "9338e0025ca1fc7e",
-        "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
-        "url": "https://arxiv.org/abs/2604.26237",
-        "source": "arXiv cs.AI",
+        "id": "c171765fb974aa26",
+        "title": "Momentum-Conserving Graph Neural Networks for Deformable Objects",
+        "url": "https://arxiv.org/abs/2604.26097",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777521600000,
-        "summary": "arXiv:2604.26237v1 Announce Type: new Abstract: This study applied the Apriori algorithm to analyze behavioral interaction patterns associated with learned helplessness (LH) in mathematics tutoring system logs. Interaction data were examined across three dimensions: LH level (low vs. high), system-based intervention (with vs. without), and problem-solving outcomes (solved vs. unsolved). The analys",
+        "summary": "arXiv:2604.26097v1 Announce Type: new Abstract: Graph neural networks (GNNs) have emerged as a versatile and efficient option for modeling the dynamic behavior of deformable materials. While GNNs generalize readily to arbitrary shapes, mesh topologies, and material parameters, existing architectures struggle to correctly predict the temporal evolution of key physical quantities such as linear and ",
         "tags": [
+          "cs.lg",
           "cs.ai",
-          "cs.cy",
-          "cs.et",
-          "cs.lg"
+          "cs.gr"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.1311
+        "impact": "normal",
+        "score": 0.8614
       },
       {
-        "id": "39e08940619a9205",
-        "title": "QERNEL: a Scalable Large Electron Model",
-        "url": "https://arxiv.org/abs/2604.26018",
-        "source": "arXiv cs.AI",
+        "id": "8b9cdf8b8efda47d",
+        "title": "Large-scale semi-supervised learning with online spectral graph sparsification",
+        "url": "https://arxiv.org/abs/2604.26550",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777521600000,
-        "summary": "arXiv:2604.26018v1 Announce Type: cross Abstract: We introduce QERNEL, a foundational neural wavefunction that variationally solves families of parameterized many-electron Hamiltonians and captures their ground states throughout parameter space within a single model. QERNEL combines FiLM-based parameter conditioning with scale-efficient architectural elements -- mixture of experts and grouped-quer",
+        "summary": "arXiv:2604.26550v1 Announce Type: new Abstract: We introduce Sparse-HFS, a scalable algorithm that can compute solutions to SSL problems using only O(n polylog(n)) space and O(m polylog(n)) time.",
         "tags": [
-          "cond-mat.str-el",
-          "cs.ai",
           "cs.lg"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.1311
+        "impact": "normal",
+        "score": 0.8614
       }
     ]
   },
