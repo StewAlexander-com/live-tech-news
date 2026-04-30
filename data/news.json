@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:39:34.060665+00:00",
+  "generated_at": "2026-04-30T16:41:44.064884+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -968,6 +968,19 @@
     ],
     "innovation": [
       {
+        "id": "379c71d65c0421ba",
+        "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1777567162000,
+        "summary": "Two computer crime allegations follow up to 18M lines of data surfacing online French prosecutors say police detained a 15-year-old on April 25 over the alleged theft of millions of records from France Titres (ANTS), the agency handling secure documents.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0492
+      },
+      {
         "id": "905c888157db76cd",
         "title": "This $8 sensor unlocked more useful automations in my home than anything else I bought",
         "url": "https://www.makeuseof.com/motion-sensor-ikea-new-automations/",
@@ -1852,25 +1865,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9941
-      },
-      {
-        "id": "7aa06de99683018e",
-        "title": "Mitchell Hashimoto says GitHub ‘no longer for serious work'",
-        "url": "https://www.reddit.com/r/technology/comments/1szqxyi/mitchell_hashimoto_says_github_no_longer_for/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777540702000,
-        "summary": "submitted by /u/waozen [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9319
       }
     ],
     "ai": [
+      {
+        "id": "9b003cd6446a65ad",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777567192000,
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with […]",
+        "tags": [
+          "ai",
+          "elon musk",
+          "law",
+          "news",
+          "openai",
+          "policy"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8548
+      },
       {
         "id": "9040f7aed874c8bc",
         "title": "The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification (Emily Birnbaum/Bloomberg)",
@@ -2798,24 +2815,54 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8486
-      },
-      {
-        "id": "5912a6080b08551c",
-        "title": "How to reliably connect LLMs to real-world data and systems",
-        "url": "https://www.techradar.com/pro/how-to-reliably-connect-llms-to-real-world-data-and-systems",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777544294000,
-        "summary": "MCP Is great, but it isn’t the whole AI answer",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.917
       }
     ],
     "science": [
+      {
+        "id": "46adf58d39c16d8c",
+        "title": "Rare Tyrian purple reveals elite Roman infant burials in York",
+        "url": "https://phys.org/news/2026-04-rare-tyrian-purple-reveals-elite.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777567209000,
+        "summary": "Two infants buried in Roman York were laid to rest in costly purple cloth normally reserved for emperors and members of the aristocracy, new research reveals. The babies were wrapped in a fine textile of Tyrian purple embellished with gold thread—a cloth of the highest possible status and luxury known in the Roman world.",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "0bc16ba3f18bb2e6",
+        "title": "Our study looked at teens' social media behavior—those from disadvantaged backgrounds face greater harms",
+        "url": "https://phys.org/news/2026-04-teens-social-media-behavior-disadvantaged.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777567207000,
+        "summary": "As social media becomes a central part of young people's lives, concerns are growing about its impact on their mental health. Yet public debates and measures tend to treat adolescents as one homogeneous group. We frequently ignore the fact that social media use does not affect all young people in the same way—nor does it have the same impacts on their well-being.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "381715ad57fc2bbd",
+        "title": "A lost galaxy called 'Loki' may be hiding inside the Milky Way",
+        "url": "https://phys.org/news/2026-04-lost-galaxy-loki-milky.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777567203000,
+        "summary": "The Milky Way galaxy grew into its current form with the help of smaller galaxies over time, which it has \"consumed\" or merged with. Astronomers are able to pick out which stars in the Milky Way came from other galaxies by identifying certain features, like the eccentricities of their galactic orbits and how many heavier elements they contain. Properties of some of the merged galaxies can then be ",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0194
+      },
       {
         "id": "18d7858e95495131",
         "title": "Medieval images may have triggered imagined soundscapes, reshaping how viewers experienced saints",
@@ -3647,6 +3694,19 @@
         "score": 1.1015
       },
       {
+        "id": "6a46e7812c47c266",
+        "title": "An electrifying test to find a good coffee",
+        "url": "https://www.nature.com/articles/d41586-026-01289-y",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1777507200000,
+        "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-yTechnique determines roast level and strength by applying voltage to the brew.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8339
+      },
+      {
         "id": "70156b6cd21ee17c",
         "title": "Wild-meat consumption estimated across Central Africa",
         "url": "https://www.nature.com/articles/d41586-026-01306-0",
@@ -3673,58 +3733,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.856
-      },
-      {
-        "id": "01efeaf65fa5ca69",
-        "title": "Long-lived immune cells show promise against cancer in world-first trial",
-        "url": "https://www.nature.com/articles/d41586-026-01398-8",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1777507200000,
-        "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.856
-      },
-      {
-        "id": "a5a86f8ac1ca5822",
-        "title": "Genome pioneer Craig Venter dies: here’s how he transformed science",
-        "url": "https://www.nature.com/articles/d41586-026-01226-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1777507200000,
-        "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01226-zVenter redrew the boundaries of biology — sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9396
-      },
-      {
-        "id": "fbee85f21ad8872f",
-        "title": "Scientists to return to Fukushima — this time to study disaster recovery",
-        "url": "https://www.nature.com/articles/d41586-026-01345-7",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1777507200000,
-        "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01345-7A new research centre could help to reassure the public that the region is safe.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8887
-      },
-      {
-        "id": "5b0d9576901b83c0",
-        "title": "Saving sharks and rays, one catch at a time — in photos",
-        "url": "https://www.nature.com/articles/d41586-026-01145-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1777507200000,
-        "summary": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01145-zWorking alongside fishers in a biodiverse gulf in Greece, Roxani Naasan Aga-Spyridopoulou is focused on securing species’ future survival.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8887
       }
     ]
   },
