@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-04-29T23:51:48.052339+00:00",
+  "generated_at": "2026-04-30T00:00:23.456100+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "5407cf87d3305286",
+        "title": "Meta is still burning money on AR/VR",
+        "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "source": "TechCrunch",
+        "lane": "gadgets",
+        "published_ts": 1777507106000,
+        "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+        "tags": [
+          "ai",
+          "meta"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8073
+      },
       {
         "id": "daccee273d5de7c2",
         "title": "YouTube just unlocked free picture-in-picture mode for everyone worldwide",
@@ -941,26 +957,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8482
-      },
-      {
-        "id": "cf3eef16fda3bce1",
-        "title": "The Moto Razr and Razr Plus are victims of shrinkflation",
-        "url": "https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1777478400000,
-        "summary": "The memory crisis claims another couple of victims. Motorola's midtier and entry-level flip phones cost $100 more than their predecessors, and have few upgrades to show for it. The 2026 Razr Plus costs $1,099, up from $999. It still comes with a Snapdragon 8S Gen 3 chipset - two years old at this point - […]",
-        "tags": [
-          "foldable phones",
-          "gadgets",
-          "hands-on",
-          "mobile",
-          "motorola",
-          "reviews"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7904
       }
     ],
     "innovation": [
@@ -1859,6 +1855,40 @@
     ],
     "ai": [
       {
+        "id": "192119b9ec88d1de",
+        "title": "On the stand, Elon Musk can’t escape his own tweets",
+        "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777507116000,
+        "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7476
+      },
+      {
+        "id": "2bf6a94e99f3cdfd",
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777506923000,
+        "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+        "tags": [
+          "ai",
+          "enterprise",
+          "tc",
+          "microsoft",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7468
+      },
+      {
         "id": "af482c4246b80ea7",
         "title": "AI classifier flags bird flu genomes more likely to spread in mammals",
         "url": "https://phys.org/news/2026-04-ai-flags-bird-flu-genomes.html",
@@ -2756,38 +2786,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.025
-      },
-      {
-        "id": "77266635f875258d",
-        "title": "Pursuit, which uses AI to scan public data to help companies find and win government contracts, raised a $22M seed led by OpenGov co-founder Mike Rosengarten (Dominic-Madori Davis/TechCrunch)",
-        "url": "http://www.techmeme.com/260429/p36#a260429p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777481402000,
-        "summary": "Dominic-Madori Davis / TechCrunch: Pursuit, which uses AI to scan public data to help companies find and win government contracts, raised a $22M seed led by OpenGov co-founder Mike Rosengarten — Mike Vichich grew up in Michigan. His family, he recalls, dedicated their lives to public service.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
-      },
-      {
-        "id": "eff615bb22f86e38",
-        "title": "Vine reboot app Divine arrives with a ban on AI slop",
-        "url": "https://www.engadget.com/2160396/vine-reboot-app-divine-arrives-with-a-ban-on-ai-slop/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1777481398000,
-        "summary": "Do it for Divine all over again.",
-        "tags": [
-          "apps",
-          "social media"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7259
       }
     ],
     "science": [
+      {
+        "id": "78407009db6e9f35",
+        "title": "New genome editing method could swap entire genes and correct 1000 mutations at once",
+        "url": "https://phys.org/news/2026-04-genome-method-swap-entire-genes.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777507206000,
+        "summary": "New technology enables the insertion of a large segment of DNA into a genome, potentially expanding gene therapy treatment from cancellation of disease-causing mutations to replacement of an entire gene, scientists say.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1015
+      },
       {
         "id": "5c62dc39d64e98d8",
         "title": "Pet cats that roam outdoors can carry similar disease risk as feral cats",
@@ -3670,21 +3686,6 @@
         "summary": "Dogs have long been known to have smaller brains than the wolves they descended from. But when they started to shrink has been a matter of some debate. New research published in the journal Royal Society Open Science, which compared ancient and modern canid skulls, puts the date at around 5,000 years ago.",
         "tags": [
           "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
-      },
-      {
-        "id": "a04e708801ee71e3",
-        "title": "More than fashion: Uncovering the psychology behind the activewear trend",
-        "url": "https://phys.org/news/2026-04-fashion-uncovering-psychology-activewear-trend.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777476002000,
-        "summary": "Activewear has become an everyday staple for many Australian women, but new Edith Cowan University (ECU) research suggests it may be contributing to unexpected pressures around body image and appearance.",
-        "tags": [
-          "social sciences"
         ],
         "paywall": false,
         "impact": "high",
