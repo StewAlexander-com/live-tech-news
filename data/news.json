@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T18:16:45.693742+00:00",
+  "generated_at": "2026-04-30T18:22:08.560820+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -984,6 +984,32 @@
     ],
     "innovation": [
       {
+        "id": "3f78153faecddda2",
+        "title": "Sources: Meta drew about $96B of orders from investors for a $25B bond sale it launched on Thursday; Meta sold $30B of corporate bonds in October 2025 (Bloomberg)",
+        "url": "https://www.techmeme.com/260430/p42#a260430p42",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777573201000,
+        "summary": "Bloomberg: Sources: Meta drew about $96B of orders from investors for a $25B bond sale it launched on Thursday; Meta sold $30B of corporate bonds in October 2025 — Investors placed about $96 billion of orders for Meta Platforms Inc.'s bond sale, according to people with knowledge of the transaction …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9993
+      },
+      {
+        "id": "e2588a8599389747",
+        "title": "Bandwidth hogs rejoice, Celestica's latest switch is bristling with 64 ports of 1.6 Tbps Ethernet",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1777573106000,
+        "summary": "Networking kit arrives just in time for Nvidia's 1.6 Tbps ConnectX-9 NICs If you thought 800 Gbps Ethernet was fast, just wait. Celestica's latest switches cram 64 1.6 Tbps ports into a single chassis.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
         "id": "8c48efbb6d18e95c",
         "title": "Convicted Former Harvard Scientist Rebuilds Brain Computer Lab In China",
         "url": "https://science.slashdot.org/story/26/04/30/186256/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-in-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1872,40 +1898,49 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9915
-      },
-      {
-        "id": "12eb476f98a655ea",
-        "title": "1.4 GW: battery storage at former Grohnde nuclear power plant",
-        "url": "https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1777547314000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:9"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1221
-      },
-      {
-        "id": "40e7eda968ff0a4c",
-        "title": "Linux now Officially Available for PlayStation 5",
-        "url": "https://www.reddit.com/r/technology/comments/1szsul3/linux_now_officially_available_for_playstation_5/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777547008000,
-        "summary": "submitted by /u/thieh [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9476
       }
     ],
     "ai": [
+      {
+        "id": "804702983ac9e456",
+        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+        "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777573203000,
+        "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+        "tags": [
+          "ai",
+          "chatgpt",
+          "cybersecurity",
+          "openai",
+          "yubico",
+          "yubikey"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7475
+      },
+      {
+        "id": "7188412d26679d77",
+        "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777573017000,
+        "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller […]",
+        "tags": [
+          "ai",
+          "anthropic",
+          "elon musk",
+          "law",
+          "news",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8539
+      },
       {
         "id": "559339760df16959",
         "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
@@ -2822,41 +2857,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8513
-      },
-      {
-        "id": "0073c5d7e4fbe873",
-        "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
-        "url": "https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777554000000,
-        "summary": "As AI-generated artists and tracks flood music streaming platforms, Spotify is rolling out a new “Verified by Spotify” badge to help listeners more easily identify authentic human artists. To receive the badge, artists must meet certain criteria. Spotify looks for an identifiable artist presence both on and off platform, like concert dates, merch, and linked […]",
-        "tags": [
-          "media & entertainment",
-          "apps",
-          "spotify"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8018
-      },
-      {
-        "id": "a4fe8da7afc77c93",
-        "title": "Spotify's new verification badge shows that music is not AI-generated",
-        "url": "https://www.engadget.com/2161028/spotifys-new-verification-badge-shows-that-music-is-not-ai-generated/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1777554000000,
-        "summary": "\"Verified by Spotify\" will start rolling out over the coming weeks.",
-        "tags": [
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7547
       }
     ],
     "science": [
+      {
+        "id": "ed4ae5a50984da9f",
+        "title": "Near-relativistic swarm could image Proxima b at 20-meter resolution and scan for biosignatures, paper says",
+        "url": "https://phys.org/news/2026-04-relativistic-swarm-image-proxima-meter.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777573208000,
+        "summary": "Laser sail propulsion is an idea that won't go away. By aiming powerful Earth-based lasers at tiny spacecraft with light sails, tiny spacecraft can be accelerated to near-relativistic speeds without carrying fuel or an energy source, and without carrying any kind of propulsion system at all. There are clear advantages to this idea, if it can be implemented.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1009
+      },
+      {
+        "id": "1940549671363316",
+        "title": "Laser-plasma accelerators can preserve polarization of Helium-3 ions",
+        "url": "https://phys.org/news/2026-04-laser-plasma-polarization-helium-ions.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777573202000,
+        "summary": "Particle accelerators such as those at the European Organization for Nuclear Research (CERN) in Geneva are typically highly complex large-scale devices. In these ring-shaped facilities, which are often several kilometers in length, magnets and radio-frequency cavities are used to accelerate elementary particles. An alternative approach is now emerging: compact laser–plasma accelerators that can be",
+        "tags": [
+          "plasma physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1009
+      },
       {
         "id": "6a839e0c0867e6c8",
         "title": "Early institutional care lowers life expectancy, study suggests",
@@ -3745,38 +3778,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0174
-      },
-      {
-        "id": "c171765fb974aa26",
-        "title": "Momentum-Conserving Graph Neural Networks for Deformable Objects",
-        "url": "https://arxiv.org/abs/2604.26097",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777521600000,
-        "summary": "arXiv:2604.26097v1 Announce Type: new Abstract: Graph neural networks (GNNs) have emerged as a versatile and efficient option for modeling the dynamic behavior of deformable materials. While GNNs generalize readily to arbitrary shapes, mesh topologies, and material parameters, existing architectures struggle to correctly predict the temporal evolution of key physical quantities such as linear and ",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.gr"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8614
-      },
-      {
-        "id": "8b9cdf8b8efda47d",
-        "title": "Large-scale semi-supervised learning with online spectral graph sparsification",
-        "url": "https://arxiv.org/abs/2604.26550",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777521600000,
-        "summary": "arXiv:2604.26550v1 Announce Type: new Abstract: We introduce Sparse-HFS, a scalable algorithm that can compute solutions to SSL problems using only O(n polylog(n)) space and O(m polylog(n)) time.",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8614
       }
     ]
   },
