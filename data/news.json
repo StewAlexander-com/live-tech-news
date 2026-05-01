@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T14:41:23.984812+00:00",
+  "generated_at": "2026-05-01T14:43:51.599118+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2712,83 +2712,82 @@
         "score": 1.0917
       },
       {
-        "id": "2228c1f8ee3fc0e2",
-        "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
-        "url": "https://arxiv.org/abs/2604.27126",
+        "id": "8be955d8cab695ef",
+        "title": "Binary Spiking Neural Networks as Causal Models",
+        "url": "https://arxiv.org/abs/2604.27007",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering st",
-        "tags": [
-          "cs.ai",
-          "cs.ce",
-          "cs.lg",
-          "physics.geo-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.923
-      },
-      {
-        "id": "41504bebe83f5b0e",
-        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
-        "url": "https://arxiv.org/abs/2604.27132",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning complexity creates bottlenecks; (3) Opacity, as hidden auditing erodes trust; a",
+        "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successful",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.923
+        "score": 0.9223
       },
       {
-        "id": "821767e9b2ccbf74",
-        "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
-        "url": "https://arxiv.org/abs/2604.27134",
+        "id": "a3fc0647515dc7bf",
+        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+        "url": "https://arxiv.org/abs/2604.27096",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Anal",
-        "tags": [
-          "cs.ai",
-          "cs.hc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.923
-      },
-      {
-        "id": "6d182a00251917d1",
-        "title": "Step-level Optimization for Efficient Computer-use Agents",
-        "url": "https://arxiv.org/abs/2604.27151",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents remain expensive and slow in practice, since most sys",
+        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acy",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.923
+        "score": 0.9223
       },
       {
-        "id": "6dddc4625b21f858",
-        "title": "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index",
-        "url": "https://arxiv.org/abs/2604.26984",
+        "id": "161096c3ef4b1590",
+        "title": "People-Centred Medical Image Analysis",
+        "url": "https://arxiv.org/abs/2604.26991",
         "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of ",
+        "summary": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient p",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.923
+        "score": 0.9223
+      },
+      {
+        "id": "0d8db9f7f6b5fa5b",
+        "title": "Automatic Causal Fairness Analysis with LLM-Generated Reporting",
+        "url": "https://arxiv.org/abs/2604.27011",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27011v1 Announce Type: new Abstract: AutoML, intended as the process of automating the application of machine learning to real-world problems, is a key step for AI popularisation. Most AutoML frameworks are not accounting for the potential lack of fairness in the training data and in the corresponding predictions. We introduce \\textsc{FairMind}, a software prototype aiming to automatise",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9223
+      },
+      {
+        "id": "1a1c26154acde37b",
+        "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
+        "url": "https://arxiv.org/abs/2604.27014",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27014v1 Announce Type: new Abstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged ",
+        "tags": [
+          "cs.lg",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9223
       }
     ],
     "science": [
