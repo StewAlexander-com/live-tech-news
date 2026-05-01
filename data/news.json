@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T18:36:31.306208+00:00",
+  "generated_at": "2026-05-01T18:41:31.274909+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1895,6 +1895,21 @@
     ],
     "ai": [
       {
+        "id": "950e5894299f80f2",
+        "title": "A leading journal finds that AI is flooding academic publishing with lower quality work",
+        "url": "https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1777660806000,
+        "summary": "Artificial intelligence can undoubtedly help scientists with their academic papers by summarizing research and helping to improve writing. However, one downside is that it has led to a wave of poorly written submissions and reviews, according to a new study published in Organization Science.",
+        "tags": [
+          "other"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1011
+      },
+      {
         "id": "0e8d1bcd7628ae18",
         "title": "Apple Stops Offering Mac Mini With 256GB of Storage, Starting Price Rises to $799",
         "url": "https://www.macrumors.com/2026/05/01/mac-mini-now-starts-at-799/",
@@ -2846,27 +2861,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9161
-      },
-      {
-        "id": "8b16c4695a24c460",
-        "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-        "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777634334000,
-        "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing […]",
-        "tags": [
-          "ai",
-          "microsoft",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8551
       }
     ],
     "science": [
+      {
+        "id": "ec90f7edf255b435",
+        "title": "Proton beam timing tool could check radiotherapy energy before nearly every treatment",
+        "url": "https://phys.org/news/2026-05-proton-tool-radiotherapy-energy-treatment.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777660801000,
+        "summary": "Proton beams are not only used in sophisticated nuclear physics experiments. Today, they are becoming increasingly popular in radiotherapy, where they are an irreplaceable tool for destroying cancer cells. Doctors and physicists can enhance their precision thanks to two solutions developed at the Cyclotron Center Bronowice of the Institute of Nuclear Physics, Polish Academy of Sciences.",
+        "tags": [
+          "general physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
       {
         "id": "6c303617bb1cffe2",
         "title": "How sulfur oxidation states shape the behavior of sugar-based surfactant molecules",
@@ -3717,68 +3729,50 @@
         "score": 1.0473
       },
       {
-        "id": "6e2e78c3e8f713f1",
-        "title": "NORACL: Neurogenesis for Oracle-free Resource-Adaptive Continual Learning",
-        "url": "https://arxiv.org/abs/2604.27031",
-        "source": "arXiv cs.LG",
+        "id": "84e0e09968928e53",
+        "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+        "url": "https://arxiv.org/abs/2604.26999",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27031v1 Announce Type: new Abstract: In a continual learning setting, we require a model to be plastic enough to learn a new task and stable enough to not disturb previously learned capabilities. We argue that this dilemma has an architectural root. A finite network has limited representational and plastic resources, yet the required capacity depends on properties of the future task str",
+        "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while",
         "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.ne"
+          "cs.ai"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7926
+        "impact": "high",
+        "score": 0.8546
       },
       {
-        "id": "7ac7138da5cf4f08",
-        "title": "Generalizing the Geometry of Model Merging Through Frechet Averages",
-        "url": "https://arxiv.org/abs/2604.27155",
+        "id": "6f77439660244f69",
+        "title": "Low Rank Adaptation for Adversarial Perturbation",
+        "url": "https://arxiv.org/abs/2604.27487",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27155v1 Announce Type: new Abstract: Model merging aims to combine multiple models into one without additional training. Na\\\"ive parameter-space averaging can be fragile under architectural symmetries, as their geometry does not take them into account. In this work we show that not only the geometry, but also the averaging procedure itself, must be symmetry-invariant to achieve symmetry",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7926
-      },
-      {
-        "id": "9784e84bd4d35c15",
-        "title": "Distributional Alignment Games for Answer-Level Fine-Tuning",
-        "url": "https://arxiv.org/abs/2604.27166",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27166v1 Announce Type: new Abstract: We focus on the problem of \\emph{Answer-Level Fine-Tuning} (ALFT), where the goal is to optimize a language model based on the correctness or properties of its final answers, rather than the specific reasoning traces used to produce them. Directly optimizing answer-level objectives is computationally intractable due to the need to marginalize over th",
+        "summary": "arXiv:2604.27487v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA), which leverages the insight that model updates typically reside in a low-dimensional space, has significantly improved the training efficiency of Large Language Models (LLMs) by updating neural network layers using low-rank matrices. Since the generation of adversarial examples is an optimization process analogous to model",
         "tags": [
           "cs.lg",
-          "cs.gt"
+          "cs.cr"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7926
+        "impact": "high",
+        "score": 0.8546
       },
       {
-        "id": "104416240e84de0e",
-        "title": "PINN-Cast: Exploring the Role of Continuous-Depth NODE in Transformers and Physics Informed Loss as Soft Physical Constraints in Short-term Weather Forecasting",
-        "url": "https://arxiv.org/abs/2604.27313",
-        "source": "arXiv cs.LG",
+        "id": "0ed02d398de35ce3",
+        "title": "Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework",
+        "url": "https://arxiv.org/abs/2604.27217",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27313v1 Announce Type: new Abstract: Operational weather prediction has long relied on physics-based numerical weather prediction (NWP), whose accuracy comes at the cost of substantial compute and complex simulation workflows. Recent transformer-based forecasters offer efficient data-driven alternatives, however transformers are physics-agnostic models. Additionally, standard transforme",
+        "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framework for modeling patient-specific disease trajectories from sparse, noisy, and irregular longitudinal ",
         "tags": [
-          "cs.lg",
-          "cs.cv"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7926
+        "score": 0.7913
       }
     ]
   },
