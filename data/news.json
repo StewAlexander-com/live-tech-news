@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:44:40.025355+00:00",
+  "generated_at": "2026-05-01T13:48:48.094101+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1639,6 +1639,19 @@
         "score": 0.8003
       },
       {
+        "id": "cc1a9a448c6d75f0",
+        "title": "Intel's stock jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record (Katie Tarasov/CNBC)",
+        "url": "https://www.techmeme.com/260430/p62#a260430p62",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777595701000,
+        "summary": "Katie Tarasov / CNBC: Intel's stock jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record — Intel is on a winning streak unlike any since it became one of the first companies to go public on the Nasdaq nearly 55 years ago.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7751
+      },
+      {
         "id": "bb53c95fef932114",
         "title": "Intel shares jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record (Katie Tarasov/CNBC)",
         "url": "https://www.techmeme.com/260430/p62#a260430p62",
@@ -1830,24 +1843,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0465
-      },
-      {
-        "id": "2ecde9b8f2fdbdeb",
-        "title": "This scientifically accurate sci-fi show isn't really scientifically accurate, and that's okay",
-        "url": "https://www.makeuseof.com/most-scientifically-accurate-sci-fi-ever-isnt-scientifically-accurate/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777590018000,
-        "summary": "And the creators themselves admit it.",
-        "tags": [
-          "streaming",
-          "the expanse",
-          "sci-fi",
-          "television"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8473
       }
     ],
     "ai": [
@@ -1966,6 +1961,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9164
+      },
+      {
+        "id": "bf7badd4d2224039",
+        "title": "Tim Cook says that the Mac Studio and the Mac mini, which many are buying for AI and agentic tools, \"may take several months to reach supply demand balance\" (Juli Clover/MacRumors)",
+        "url": "https://www.techmeme.com/260501/p7#a260501p7",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777639801000,
+        "summary": "Juli Clover / MacRumors: Tim Cook says that the Mac Studio and the Mac mini, which many are buying for AI and agentic tools, “may take several months to reach supply demand balance” — During today's earnings call for the second fiscal quarter of 2026, Apple CEO Tim Cook said that the Mac mini and Mac Studio …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0598
       },
       {
         "id": "572468f491dbe620",
@@ -2616,6 +2624,21 @@
         "score": 1.0917
       },
       {
+        "id": "05c30a50cb797515",
+        "title": "Remaining Useful Life Estimation for Turbofan Engines: A Comparative Study of Classical, CNN, and LSTM Approaches",
+        "url": "https://arxiv.org/abs/2604.27234",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27234v1 Announce Type: new Abstract: Remaining Useful Life (RUL) estimation is a critical component of Prognostics and Health Management (PHM), enabling proactive maintenance scheduling and reducing unplanned failures in industrial equipment. This paper presents a comparative study of machine learning approaches for RUL estimation on the NASA C-MAPSS turbofan engine dataset: classical b",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9388
+      },
+      {
         "id": "8be955d8cab695ef",
         "title": "Binary Spiking Neural Networks as Causal Models",
         "url": "https://arxiv.org/abs/2604.27007",
@@ -2751,40 +2774,6 @@
         "tags": [
           "cs.lg",
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "1a1c26154acde37b",
-        "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
-        "url": "https://arxiv.org/abs/2604.27014",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27014v1 Announce Type: new Abstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged ",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "5f35d69412310285",
-        "title": "Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment",
-        "url": "https://arxiv.org/abs/2604.27102",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27102v1 Announce Type: new Abstract: Soil contamination by heavy metals poses a persistent environmental and public health concern in rapidly urbanising regions of Ghana, particularly at unregulated waste disposal sites. This study applies an unsupervised machine learning framework to detect and characterise anomalous heavy metal contamination patterns in soils from twelve waste sites a",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "physics.data-an",
-          "physics.geo-ph"
         ],
         "paywall": false,
         "impact": "high",
