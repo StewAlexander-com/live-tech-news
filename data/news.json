@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-01T14:18:34.725874+00:00",
+  "generated_at": "2026-05-01T14:19:59.089749+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ce7cd052de40e563",
+        "title": "That old phone in the kitchen drawer could save an industry",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/preowned_phones_fill_the_gap/",
+        "source": "The Register",
+        "lane": "gadgets",
+        "published_ts": 1777645016000,
+        "summary": "Users have less cash to burn and less patience for AI in new models... now where to get the used stock Secondhand phones sales are booming - relatively speaking - and the industry has rising inflation, AI bloat, and consumers' growing apathy toward overpriced new handsets to thank for it.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1329
+      },
       {
         "id": "b0cbd29072f06970",
         "title": "Engadget Podcast: Is the Valve Steam Controller worth $100?",
@@ -945,21 +958,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8883
-      },
-      {
-        "id": "ddef0e96054bef81",
-        "title": "Cyber Essentials update could put your public sector contracts at risk",
-        "url": "https://www.techradar.com/pro/cyber-essentials-update-could-put-your-public-sector-contracts-at-risk",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777626306000,
-        "summary": "What is Cyber Essentials and why being unprepared for the April update could put your public sector contracts at risk.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8487
       }
     ],
     "innovation": [
@@ -2680,6 +2678,85 @@
         "score": 1.0917
       },
       {
+        "id": "2228c1f8ee3fc0e2",
+        "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
+        "url": "https://arxiv.org/abs/2604.27126",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering st",
+        "tags": [
+          "cs.ai",
+          "cs.ce",
+          "cs.lg",
+          "physics.geo-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9294
+      },
+      {
+        "id": "41504bebe83f5b0e",
+        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+        "url": "https://arxiv.org/abs/2604.27132",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning complexity creates bottlenecks; (3) Opacity, as hidden auditing erodes trust; a",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9294
+      },
+      {
+        "id": "821767e9b2ccbf74",
+        "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+        "url": "https://arxiv.org/abs/2604.27134",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Anal",
+        "tags": [
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9294
+      },
+      {
+        "id": "6d182a00251917d1",
+        "title": "Step-level Optimization for Efficient Computer-use Agents",
+        "url": "https://arxiv.org/abs/2604.27151",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents remain expensive and slow in practice, since most sys",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9294
+      },
+      {
+        "id": "6dddc4625b21f858",
+        "title": "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index",
+        "url": "https://arxiv.org/abs/2604.26984",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9294
+      },
+      {
         "id": "161096c3ef4b1590",
         "title": "People-Centred Medical Image Analysis",
         "url": "https://arxiv.org/abs/2604.26991",
@@ -2710,85 +2787,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9298
-      },
-      {
-        "id": "1a1c26154acde37b",
-        "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
-        "url": "https://arxiv.org/abs/2604.27014",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27014v1 Announce Type: new Abstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged ",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9327
-      },
-      {
-        "id": "5f35d69412310285",
-        "title": "Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment",
-        "url": "https://arxiv.org/abs/2604.27102",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27102v1 Announce Type: new Abstract: Soil contamination by heavy metals poses a persistent environmental and public health concern in rapidly urbanising regions of Ghana, particularly at unregulated waste disposal sites. This study applies an unsupervised machine learning framework to detect and characterise anomalous heavy metal contamination patterns in soils from twelve waste sites a",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "physics.data-an",
-          "physics.geo-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9327
-      },
-      {
-        "id": "05c30a50cb797515",
-        "title": "Remaining Useful Life Estimation for Turbofan Engines: A Comparative Study of Classical, CNN, and LSTM Approaches",
-        "url": "https://arxiv.org/abs/2604.27234",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27234v1 Announce Type: new Abstract: Remaining Useful Life (RUL) estimation is a critical component of Prognostics and Health Management (PHM), enabling proactive maintenance scheduling and reducing unplanned failures in industrial equipment. This paper presents a comparative study of machine learning approaches for RUL estimation on the NASA C-MAPSS turbofan engine dataset: classical b",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9388
-      },
-      {
-        "id": "8be955d8cab695ef",
-        "title": "Binary Spiking Neural Networks as Causal Models",
-        "url": "https://arxiv.org/abs/2604.27007",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successful",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "a3fc0647515dc7bf",
-        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-        "url": "https://arxiv.org/abs/2604.27096",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acy",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
       }
     ],
     "science": [
@@ -3391,6 +3389,19 @@
         "score": 1.0332
       },
       {
+        "id": "f2f3a8cca061f75d",
+        "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+        "url": "https://www.nature.com/articles/d41586-026-01439-2",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1777593600000,
+        "summary": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2Nature staff discuss some of the week's top science news.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8727
+      },
+      {
         "id": "74412b60b4e3db7e",
         "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
         "url": "https://www.nature.com/articles/d41586-026-01435-6",
@@ -3678,21 +3689,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0177
-      },
-      {
-        "id": "100517d19f5df494",
-        "title": "Human cell map uncovers 90,000 interactions among 4 million gene pairs",
-        "url": "https://phys.org/news/2026-04-human-cell-uncovers-interactions-million.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777580409000,
-        "summary": "How do our genes determine our appearance and our susceptibility to disease? This question is central to biomedical research, and today we can sequence thousands of human genomes to identify these genes. However, genes work in complex networks.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
       }
     ]
   },
