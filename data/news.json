@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T20:58:40.922605+00:00",
+  "generated_at": "2026-05-01T21:11:08.083409+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -961,6 +961,23 @@
     ],
     "innovation": [
       {
+        "id": "543c6be74d9f8e12",
+        "title": "I almost gave up on my VPN until this tweak fixed the biggest annoyance",
+        "url": "https://www.makeuseof.com/i-almost-gave-up-on-my-vpn-until-this-tweak-fixed-the-biggest-annoyance/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777669218000,
+        "summary": "The fix isn't in your VPN app.",
+        "tags": [
+          "technology explained",
+          "vpn",
+          "captcha"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8471
+      },
+      {
         "id": "d989f6bd2775dd7f",
         "title": "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
         "url": "https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/",
@@ -1117,6 +1134,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9673
+      },
+      {
+        "id": "8e32d0a98c9c010f",
+        "title": "Meta acquires Assured Robot Intelligence to bolster its robotics team; the startup focuses on developing humanoid hardware and the underlying AI that powers it (Mark Gurman/Bloomberg)",
+        "url": "https://www.techmeme.com/260501/p15#a260501p15",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777658440000,
+        "summary": "Mark Gurman / Bloomberg: Meta acquires Assured Robot Intelligence to bolster its robotics team; the startup focuses on developing humanoid hardware and the underlying AI that powers it — Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.016
       },
       {
         "id": "e7c344d30ddd5ec6",
@@ -1855,42 +1885,63 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0339
-      },
-      {
-        "id": "b58c2c2ead942fdc",
-        "title": "The companies burning the most electricity are buying carbon credits from genetically engineered trees",
-        "url": "https://thenextweb.com/news/living-carbon-octopus-reforestation-carbon-credits",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1777623271000,
-        "summary": "Octopus Energy Generation has committed $500 million to Living Carbon, a San Francisco biotech company that plants trees on degraded land to remove carbon dioxide from the atmosphere. The deal, announced on 30 April, will fund reforestation projects across North America with the goal of removing up to 50 million tonnes of CO₂ over 40 […] This story continues at The Next Web",
-        "tags": [
-          "ecosystems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9622
-      },
-      {
-        "id": "94d7a3b94aa4ec0f",
-        "title": "Is it a Pet? No, it’s a Teacher’s Pet!",
-        "url": "https://hackaday.com/2026/05/01/is-it-a-pet-no-its-a-teachers-pet/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1777622459000,
-        "summary": "Here at Hackaday we cover the world of retrocomputing, which means that we see all manner of older computers in our everyday work. We might even claim that we’ve seen …read more",
-        "tags": [
-          "retrocomputing",
-          "commodore 4064",
-          "commodore 64",
-          "commodore pet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0715
       }
     ],
     "ai": [
+      {
+        "id": "e28489f99487e4a2",
+        "title": "How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others (Taylor Lorenz/Wired)",
+        "url": "https://www.techmeme.com/260501/p22#a260501p22",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777669503000,
+        "summary": "Taylor Lorenz / Wired: How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others — Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0779
+      },
+      {
+        "id": "529bcdb2068c8b76",
+        "title": "\"Podslop\" is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows (Ashley Carman/Bloomberg)",
+        "url": "https://www.techmeme.com/260501/p21#a260501p21",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777669251000,
+        "summary": "Ashley Carman / Bloomberg: “Podslop” is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows — Over the past nine days, 39% of new podcasts were likely AI-generated, according to the Podcast Index. — Welcome back to Soundbite.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0764
+      },
+      {
+        "id": "415fe877d64088b5",
+        "title": "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet",
+        "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1777669236000,
+        "summary": "Remember the appalling but utterly-unsurprising story two months ago where a team of investigative reporters in Sweden uncovered a company in Kenya contracted by Meta to review video content captured by Meta’s “smart” glasses? They spoke to some of the workers, who told tales of reviewing footage of Meta glasses users getting undressed, having sex, and taking dumps. This is a rather seedy job, and",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.023
+      },
+      {
+        "id": "b32cbdf1bdce317a",
+        "title": "Pentagon Reaches Agreements With Top AI Companies, But Not Anthropic",
+        "url": "https://yro.slashdot.org/story/26/05/01/1913249/pentagon-reaches-agreements-with-top-ai-companies-but-not-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777669200000,
+        "summary": "The Pentagon says it has reached deals with seven AI companies -- SpaceX, OpenAI, Google, Nvidia, Reflection AI, Microsoft, and AWS -- to deploy their tools on classified Defense Department networks. The odd one out is Anthropic, which remains excluded after being labeled a supply-chain risk amid a dispute over military-use guardrails. Reuters reports: SpaceX, OpenAI, Google, Nvidia, Reflection, M",
+        "tags": [
+          "government"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.13
+      },
       {
         "id": "ccd541a59d8bb378",
         "title": "AI performances and screenplays won't be eligible for Oscars",
@@ -2802,73 +2853,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7908
-      },
-      {
-        "id": "cae81b1fc5de6bd1",
-        "title": "Women sue the men who used their Instagram feeds to create AI porn influencers",
-        "url": "https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777641994000,
-        "summary": "AI ModelForge is a platform that teaches men how to generate their own AI influencers.",
-        "tags": [
-          "policy",
-          "ai influencers",
-          "ai modelforge",
-          "syndication"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0455
-      },
-      {
-        "id": "5956e0bdeb8640f9",
-        "title": "Women sue the men who used their Instagram feed to create AI porn influencers",
-        "url": "https://arstechnica.com/tech-policy/2026/05/women-sue-men-who-used-their-instagram-feed-to-create-ai-porn-influencers/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777641994000,
-        "summary": "AI ModelForge is a platform that teaches men how generate their own AI influencers.",
-        "tags": [
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0737
-      },
-      {
-        "id": "72ccf12152cb991c",
-        "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777641925000,
-        "summary": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly […]",
-        "tags": [
-          "ai",
-          "interview",
-          "report",
-          "streaming",
-          "youtube"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8519
-      },
-      {
-        "id": "a1ec290d9db741bf",
-        "title": "AI-powered forecasts sharpen early warning for destructive crop pest",
-        "url": "https://phys.org/news/2026-05-ai-powered-sharpen-early-destructive.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1777641605000,
-        "summary": "What if farmers could see a pest outbreak coming before the insect ever had a chance to damage their crop? New research from Texas A&M AgriLife Research indicates that artificial intelligence can predict outbreaks much more accurately than traditional methods. The tool could dramatically improve how and when insect pest risks are identified and controlled.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0953
       }
     ],
     "science": [
@@ -3611,6 +3595,23 @@
         "score": 1.0198
       },
       {
+        "id": "7ee13bec105e46c3",
+        "title": "SpaceX rocket set for unintentional Moon landing – well, a piece of it anyway",
+        "url": "https://www.theregister.com/2026/05/01/spacex_debris_landing/",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1777635112000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9416
+      },
+      {
         "id": "31f3589695fc003e",
         "title": "SpaceX has spent more than $15 billion on Starship and is racing to make rocketry resemble an airline schedule",
         "url": "https://thenextweb.com/news/spacex-has-spent-more-than-15-billion-on-starship-and-is-racing-to-make-rocketry-resemble-an-airline-schedule",
@@ -3763,21 +3764,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9106
-      },
-      {
-        "id": "f725adc1539916af",
-        "title": "Wreckage of a US Coast Guard ship lost during WWI has been found off the coast of England",
-        "url": "https://phys.org/news/2026-05-wreckage-coast-ship-lost-wwi.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777622401000,
-        "summary": "The wreckage of a U.S. Coast Guard ship lost in a deadly attack more than a century ago, during World War I, was been discovered off the coast of England.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0116
       }
     ]
   },
