@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-01T19:41:24.639837+00:00",
+  "generated_at": "2026-05-01T20:04:15.065788+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "45bf0281cf9569b4",
+        "title": "Google pulls mysterious COSMO app from Play Store",
+        "url": "https://www.androidpolice.com/google-cosmo-makes-its-unofficial-debut/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1777665711000,
+        "summary": "Will we see this at Google I/O?",
+        "tags": [
+          "google gemini",
+          "utilities"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9992
+      },
+      {
+        "id": "60e0f09e9a1ce36a",
+        "title": "Adapting a 100-Year-Old Lens To A Modern Camera",
+        "url": "https://hackaday.com/2026/05/01/adapting-a-100-year-old-lens-to-a-modern-camera/",
+        "source": "Hackaday",
+        "lane": "gadgets",
+        "published_ts": 1777665632000,
+        "summary": "You can get all kinds of fancy lenses for modern cameras, with all sorts of mechanical and electronic wizardly to make them shoot better images. But what if you paired …read more",
+        "tags": [
+          "classic hacks",
+          "camera",
+          "camera lens",
+          "lens",
+          "sony",
+          "sony camera"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
       {
         "id": "fb45bc55a79d74dd",
         "title": "Canonical under sustained DDoS attack as Ubuntu 26 releases — Iranian group 313 Team claims responsibility",
@@ -929,45 +965,28 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9995
-      },
-      {
-        "id": "86ffaf73948b5a6d",
-        "title": "4 of the best Star Wars movies just dropped on a big Disney+ rival ahead of Star Wars Day 2026 — and one is rated higher than Return of the Jedi",
-        "url": "https://www.techradar.com/streaming/disney-plus/4-of-the-best-star-wars-movies-just-dropped-on-a-big-disney-streaming-rival-ahead-of-star-wars-day-2026-and-one-is-rated-higher-than-return-of-the-jedi",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777640400000,
-        "summary": "A major Disney+ competitor just Force pulled four great Star Wars movies into its film library.",
-        "tags": [
-          "disney plus",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8485
-      },
-      {
-        "id": "0eccd48347583e54",
-        "title": "Oura adds birth control support to its period tracker",
-        "url": "https://www.theverge.com/tech/921955/oura-hormonal-birth-control-tracking-update",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1777640400000,
-        "summary": "Oura is launching a new reproductive health feature that takes hormonal contraception into consideration when tracking period cycles. The smart ring maker describes the Hormonal Birth Control update as a \"first-of-its-kind experience\" inside Oura's existing Cycle Insights feature, allowing users to see how over 20 combinations of hormonal birth control methods - including pills, patches, […]",
-        "tags": [
-          "gadgets",
-          "health",
-          "news",
-          "science",
-          "tech",
-          "wearable"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7916
       }
     ],
     "innovation": [
+      {
+        "id": "b68316cf62a19ce7",
+        "title": "U.S. Senate bans prediction market trading for members in unanimous ethics vote",
+        "url": "https://readwrite.com/u-s-senate-bans-prediction-market-trading-for-members-in-unanimous-ethics-vote/",
+        "source": "ReadWrite",
+        "lane": "innovation",
+        "published_ts": 1777664942000,
+        "summary": "The U.S. Senate has moved quickly to prohibit its own members from trading on prediction markets, citing growing concern over… Continue reading U.S. Senate bans prediction market trading for members in unanimous ethics vote The post U.S. Senate bans prediction market trading for members in unanimous ethics vote appeared first on ReadWrite.",
+        "tags": [
+          "prediction markets",
+          "ban",
+          "prediction markets",
+          "senate",
+          "us senate"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8956
+      },
       {
         "id": "a500f6646018d7d7",
         "title": "Microsoft's April update is nuking your backups — here's the fix",
@@ -1874,19 +1893,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8551
-      },
-      {
-        "id": "8ab248504f9587b0",
-        "title": "Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes (Dan Goodin/Ars Technica)",
-        "url": "https://www.techmeme.com/260501/p2#a260501p2",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777613401000,
-        "summary": "Dan Goodin / Ars Technica: Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes — Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.993
       }
     ],
     "ai": [
@@ -1948,6 +1954,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8492
+      },
+      {
+        "id": "45d743bbaa30340e",
+        "title": "Ubuntu infrastructure has been down for more than a day",
+        "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1777662746000,
+        "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+        "tags": [
+          "biz & it",
+          "security",
+          "ddos attack",
+          "distributed denial of service attack",
+          "ubuntu"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9835
       },
       {
         "id": "fc41f8d0e07b142f",
@@ -2189,7 +2214,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1068
+        "score": 1.3443
       },
       {
         "id": "e35579df4a62fb85",
@@ -2848,19 +2873,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0598
-      },
-      {
-        "id": "572468f491dbe620",
-        "title": "Amazon launches \"Join the chat\", an AI-powered feature that allows users to ask questions about products and receive conversational audio responses in real time (Lauren Forristal/TechCrunch)",
-        "url": "https://www.techmeme.com/260501/p8#a260501p8",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777639801000,
-        "summary": "Lauren Forristal / TechCrunch: Amazon launches “Join the chat”, an AI-powered feature that allows users to ask questions about products and receive conversational audio responses in real time — Amazon launched a new AI-powered feature on Tuesday that allows users to ask questions about products …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.076
       }
     ],
     "science": [
