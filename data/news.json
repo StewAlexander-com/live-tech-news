@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-05-01T03:20:35.525225+00:00",
+  "generated_at": "2026-05-01T04:38:05.979975+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6cb5f0536d8b84c3",
+        "title": "Better Models, Faster Training: Sigmoid Attention for single-cell Foundation Models",
+        "url": "https://arxiv.org/abs/2604.27124",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27124v1 Announce Type: new Abstract: Training stable biological foundation models requires rethinking attention mechanisms: we find that using sigmoid attention as a drop in replacement for softmax attention a) produces better learned representations: on six diverse single-cell datasets, sigmoid achieves 25% higher cell-type separation, better cell-type cohesion metrics, and lower valid",
+        "tags": [
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "96280299978c7de8",
+        "title": "I've made thousands of pizzas for slice-loving customers, and the Gozney Arc Lite is a near-perfect pizza oven for beginners",
+        "url": "https://www.techradar.com/home/ive-made-thousands-of-pizzas-for-slice-loving-customers-and-the-gozney-arc-lite-is-a-near-perfect-pizza-oven-for-beginners",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1777608000000,
+        "summary": "This pizza expert says the Gozney Arc Lite is the best pizza oven for beginners.",
+        "tags": [
+          "home"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8397
+      },
       {
         "id": "a2648ffac2e5958a",
         "title": "The Apple Watch SE 3 might be cheaper, but the Apple Watch 11 at its lowest price is the better buy right now",
@@ -933,39 +964,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6985
-      },
-      {
-        "id": "ba6dcd6adb176439",
-        "title": "Beijing bans drone sales even as rest of world buys Chinese drones",
-        "url": "https://arstechnica.com/gadgets/2026/04/beijing-bans-drone-sales-even-as-rest-of-world-buys-chinese-drones/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1777571237000,
-        "summary": "Beijing's citywide ban restricts the sale, transport, and storage of drones.",
-        "tags": [
-          "tech",
-          "china",
-          "commercial drones",
-          "dji",
-          "drone pilots",
-          "drones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9117
-      },
-      {
-        "id": "53b44c4beb09953e",
-        "title": "Best VPN for Android for 2026: Protect Your Privacy on the Go",
-        "url": "https://www.cnet.com/tech/services-and-software/best-android-vpn/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1777570920000,
-        "summary": "Using a VPN on your Android device can help you keep your online activity private, stream geo-restricted content and bypass throttling from anywhere.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7941
       }
     ],
     "innovation": [
@@ -1886,6 +1884,252 @@
     ],
     "ai": [
       {
+        "id": "c82e92a7f9677dc7",
+        "title": "Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China (Zijing Wu/Financial Times)",
+        "url": "https://www.techmeme.com/260501/p1#a260501p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777608605000,
+        "summary": "Zijing Wu / Financial Times: Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China — Chinese tech companies place large orders for the Shenzhen-based group's latest range of AI processors",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0703
+      },
+      {
+        "id": "56905160a3f1cd25",
+        "title": "The rich are more likely to use AI, exposing a new digital divide",
+        "url": "https://phys.org/news/2026-04-rich-ai-exposing-digital.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1777608601000,
+        "summary": "The widespread adoption of artificial intelligence (AI)—particularly in \"hidden\" everyday applications—is creating a new and distinct form of digital inequality. This is the warning of communication researcher Professor Sai Wang and her colleagues at the Hong Kong Baptist University, who analyzed data on more than 10,000 Americans' engagement with AI in a paper published in the journal Information",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0917
+      },
+      {
+        "id": "8be955d8cab695ef",
+        "title": "Binary Spiking Neural Networks as Causal Models",
+        "url": "https://arxiv.org/abs/2604.27007",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successful",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "a3fc0647515dc7bf",
+        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+        "url": "https://arxiv.org/abs/2604.27096",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acy",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "2228c1f8ee3fc0e2",
+        "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
+        "url": "https://arxiv.org/abs/2604.27126",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering st",
+        "tags": [
+          "cs.ai",
+          "cs.ce",
+          "cs.lg",
+          "physics.geo-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "41504bebe83f5b0e",
+        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+        "url": "https://arxiv.org/abs/2604.27132",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning complexity creates bottlenecks; (3) Opacity, as hidden auditing erodes trust; a",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "821767e9b2ccbf74",
+        "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+        "url": "https://arxiv.org/abs/2604.27134",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Anal",
+        "tags": [
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "6d182a00251917d1",
+        "title": "Step-level Optimization for Efficient Computer-use Agents",
+        "url": "https://arxiv.org/abs/2604.27151",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents remain expensive and slow in practice, since most sys",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "6dddc4625b21f858",
+        "title": "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index",
+        "url": "https://arxiv.org/abs/2604.26984",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "161096c3ef4b1590",
+        "title": "People-Centred Medical Image Analysis",
+        "url": "https://arxiv.org/abs/2604.26991",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient p",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "0d8db9f7f6b5fa5b",
+        "title": "Automatic Causal Fairness Analysis with LLM-Generated Reporting",
+        "url": "https://arxiv.org/abs/2604.27011",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27011v1 Announce Type: new Abstract: AutoML, intended as the process of automating the application of machine learning to real-world problems, is a key step for AI popularisation. Most AutoML frameworks are not accounting for the potential lack of fairness in the training data and in the corresponding predictions. We introduce \\textsc{FairMind}, a software prototype aiming to automatise",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "1a1c26154acde37b",
+        "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
+        "url": "https://arxiv.org/abs/2604.27014",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27014v1 Announce Type: new Abstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged ",
+        "tags": [
+          "cs.lg",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "5f35d69412310285",
+        "title": "Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment",
+        "url": "https://arxiv.org/abs/2604.27102",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27102v1 Announce Type: new Abstract: Soil contamination by heavy metals poses a persistent environmental and public health concern in rapidly urbanising regions of Ghana, particularly at unregulated waste disposal sites. This study applies an unsupervised machine learning framework to detect and characterise anomalous heavy metal contamination patterns in soils from twelve waste sites a",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "physics.data-an",
+          "physics.geo-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "05c30a50cb797515",
+        "title": "Remaining Useful Life Estimation for Turbofan Engines: A Comparative Study of Classical, CNN, and LSTM Approaches",
+        "url": "https://arxiv.org/abs/2604.27234",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27234v1 Announce Type: new Abstract: Remaining Useful Life (RUL) estimation is a critical component of Prognostics and Health Management (PHM), enabling proactive maintenance scheduling and reducing unplanned failures in industrial equipment. This paper presents a comparative study of machine learning approaches for RUL estimation on the NASA C-MAPSS turbofan engine dataset: classical b",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "8b5fe3c0aabdc7e2",
+        "title": "Musk Concludes Testimony At OpenAI Trial",
+        "url": "https://yro.slashdot.org/story/26/05/01/0058258/musk-concludes-testimony-at-openai-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777606200000,
+        "summary": "An anonymous reader quotes a report from CNBC: Elon Musk wrapped up his testimony on Thursday as the trial in his lawsuit against OpenAI CEO Sam Altman continued into its fourth day. OpenAI's attorney, William Savitt, cross-examined Musk in the morning. He asked Musk about the capped nature of Microsoft's investments in OpenAI, his involvement in negotiations about the company's structure, and whe",
+        "tags": [
+          "court"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0273
+      },
+      {
+        "id": "b7782f6357d28680",
+        "title": "Musk v. Altman: OpenAI lawyers claim Shivon Zilis, a longtime Musk employee and mother to four of his children, acted as a covert liaison between him and OpenAI (Wired)",
+        "url": "https://www.techmeme.com/260430/p66#a260430p66",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777605602000,
+        "summary": "Wired: Musk v. Altman: OpenAI lawyers claim Shivon Zilis, a longtime Musk employee and mother to four of his children, acted as a covert liaison between him and OpenAI — Messages presented at trial reveal how Zilis, the mother of four of Musk's children, acted as an intermediary between him and OpenAI.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9753
+      },
+      {
         "id": "d972b2c789833a6d",
         "title": "The persistent notion that AI disruption could create a permanent underclass signals how much collateral damage AI companies might tolerate in pursuit of AGI (Jasmine Sun/New York Times)",
         "url": "https://www.techmeme.com/260430/p65#a260430p65",
@@ -1897,6 +2141,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0722
+      },
+      {
+        "id": "43bb98a21377c598",
+        "title": "Ex-Meta manager says just 2% of engineers know how to use AI 'very effectively'",
+        "url": "https://www.reddit.com/r/technology/comments/1t0g92c/exmeta_manager_says_just_2_of_engineers_know_how/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777601668000,
+        "summary": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9798
       },
       {
         "id": "f13367ae6323f2d8",
@@ -2590,281 +2849,150 @@
         "paywall": false,
         "impact": "high",
         "score": 0.956
-      },
-      {
-        "id": "33ee22c58c30bdf0",
-        "title": "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
-        "url": "https://contralabs.com/research/human-creativity-benchmark",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777573983000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1115
-      },
-      {
-        "id": "37cd299b46a7c038",
-        "title": "Spotify introduces verified artist badges to help distinguish humans from AI",
-        "url": "https://www.reddit.com/r/technology/comments/1t04qeq/spotify_introduces_verified_artist_badges_to_help/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777573814000,
-        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0091
-      },
-      {
-        "id": "8ee517ae554191df",
-        "title": "Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is \"partly\" true (Wired)",
-        "url": "https://www.techmeme.com/260430/p43#a260430p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777573801000,
-        "summary": "Wired: Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is “partly” true — While answering questions under oath, Musk argued it's standard practice for AI labs to use their competitors' models. — While testifying on Thursday in federal court …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0621
-      },
-      {
-        "id": "ab51490f91c23fe6",
-        "title": "Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is \"partly\" true (Wired)",
-        "url": "https://www.techmeme.com/260430/p43#a260430p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777573801000,
-        "summary": "Wired: Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is “partly” true — While answering questions under oath, Musk argued it's standard practice for AI labs to use their competitors' models. — While testifying on Thursday …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0733
-      },
-      {
-        "id": "aeff0147ef1e1f7e",
-        "title": "GM Adds Google Gemini for Drivers to Rev Up With AI Assistant",
-        "url": "https://www.cnet.com/tech/services-and-software/gm-brings-google-gemini-to-millions-of-vehicles-on-the-road-change/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1777573740000,
-        "summary": "You must have a GM car from 2022 or newer, and already have the Google built-in operating system -- it can't be retroactively installed.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8706
-      },
-      {
-        "id": "8f5e2892c25369af",
-        "title": "AI integration demands integrity, not just innovation: Amy Trahey on building accountability into an AI-driven world",
-        "url": "https://thenextweb.com/news/ai-integration-demands-integrity-not-just-innovation-amy-trahey-on-building-accountability-into-an-ai-driven-world",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777573383000,
-        "summary": "Artificial intelligence has already embedded itself into the rhythms of modern life, shaping decisions in ways that often go unnoticed. Amy Trahey, founder of Great Lakes Engineering Group, believes that integration is exactly what makes it powerful and, in many cases, risky. From her perspective in engineering, she sees AI as something that directly influences […] This story continues at The Next",
-        "tags": [
-          "insider",
-          "opinion"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9638
-      },
-      {
-        "id": "804702983ac9e456",
-        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-        "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777573203000,
-        "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
-        "tags": [
-          "ai",
-          "chatgpt",
-          "cybersecurity",
-          "openai",
-          "yubico",
-          "yubikey"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7475
-      },
-      {
-        "id": "7188412d26679d77",
-        "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777573017000,
-        "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to a smaller […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "elon musk",
-          "law",
-          "news",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8539
-      },
-      {
-        "id": "559339760df16959",
-        "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-        "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777572237000,
-        "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
-        "tags": [
-          "ai",
-          "ai training",
-          "distillation",
-          "elon musk",
-          "grok",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7454
-      },
-      {
-        "id": "c18677f1370ae191",
-        "title": "Sources: KKR has secured $10B+ to launch Helix Digital Infrastructure, a company led by ex-AWS CEO Adam Selipsky that will develop and operate AI infrastructure (Bloomberg)",
-        "url": "https://www.techmeme.com/260430/p41#a260430p41",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777572033000,
-        "summary": "Bloomberg: Sources: KKR has secured $10B+ to launch Helix Digital Infrastructure, a company led by ex-AWS CEO Adam Selipsky that will develop and operate AI infrastructure — KKR & Co. has secured more than $10 billion to launch a company that will develop and operate artificial intelligence infrastructure …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0751
-      },
-      {
-        "id": "9e8e93a913bdd72d",
-        "title": "Musk calls himself ‘a fool’ on the stand as OpenAI’s lawyer dismantles his nonprofit narrative",
-        "url": "https://thenextweb.com/news/musk-openai-trial-cross-examination-fool-nonprofit",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777571666000,
-        "summary": "The tense day three of Musk v. Altman saw OpenAI’s lead attorney William Savitt use Musk’s own emails, pledge shortfalls, and Shivon Zilis texts to argue the lawsuit is a competitive grievance dressed as a charitable principle. Elon Musk called himself “a fool” for funding OpenAI, accused its leadership of “looting the nonprofit,” and clashed […] This story continues at The Next Web",
-        "tags": [
-          "insider",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8843
-      },
-      {
-        "id": "913c1cafcd7d7f78",
-        "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-        "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777571214000,
-        "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signals Google’s push to bring more advanced, conversational AI into the driving experience. The announcement follows closely behind news from General Motors, which revealed yesterday that Gemini is […]",
-        "tags": [
-          "ai",
-          "transportation",
-          "gemini",
-          "generative ai",
-          "google",
-          "google cars"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8077
-      },
-      {
-        "id": "9737611924b1854d",
-        "title": "Senate Judiciary Committee unanimously approves AI chatbot age verification",
-        "url": "https://www.engadget.com/2161370/senate-judiciary-committee-unanimously-approves-ai-chatbot-age-verification/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1777570990000,
-        "summary": "It's a rare moment of working across the aisle.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7592
-      },
-      {
-        "id": "1d27f514a3f2c8e0",
-        "title": "Standard Intelligence, which is developing computer use AI models, raised $75M led by Sequoia and Spark at a $500M post-money valuation (Rocket Drew/The Information)",
-        "url": "https://www.techmeme.com/260430/p40#a260430p40",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777570801000,
-        "summary": "Rocket Drew / The Information: Standard Intelligence, which is developing computer use AI models, raised $75M led by Sequoia and Spark at a $500M post-money valuation — Pedestrians in downtown San Francisco are used to seeing Waymos navigating the streets. But two months ago, people in the South Park neighborhood saw something new …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0783
-      },
-      {
-        "id": "207112656122a0e7",
-        "title": "'A power bank for the AI era': China begins testing miniature, truck-mounted 10MW nuclear reactor designed to sustain massive data centers for decades without refueling while promising to make traditional dirty coal and diesel generators entirely obsolete",
-        "url": "https://www.techradar.com/pro/a-power-bank-for-the-ai-era-china-begins-testing-miniature-truck-mounted-10mw-nuclear-reactor-designed-to-sustain-massive-data-centers-for-decades-without-refueling-while-promising-to-make-traditional-dirty-coal-and-diesel-generators-entirely-obsolete",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777570500000,
-        "summary": "Truck-mounted nuclear ‘power bank’ enters testing as China explores portable reactors capable of running AI data centers.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9151
-      },
-      {
-        "id": "da9157e2eb774648",
-        "title": "Meta abandons open-source Llama for proprietary Muse Spark",
-        "url": "https://thenewstack.io/meta-abandons-llama-spark/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777570322000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:10"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0457
-      },
-      {
-        "id": "cd8b155fa1133d82",
-        "title": "Claude says no more often than ChatGPT, and that's actually by design",
-        "url": "https://www.makeuseof.com/claude-says-no-more-often-than-chatgpt-and-thats-actually-by-design/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1777570225000,
-        "summary": "Matters more than you'd think.",
-        "tags": [
-          "productivity",
-          "claude",
-          "chatgpt"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.846
       }
     ],
     "science": [
+      {
+        "id": "84e0e09968928e53",
+        "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+        "url": "https://arxiv.org/abs/2604.26999",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "6f77439660244f69",
+        "title": "Low Rank Adaptation for Adversarial Perturbation",
+        "url": "https://arxiv.org/abs/2604.27487",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27487v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA), which leverages the insight that model updates typically reside in a low-dimensional space, has significantly improved the training efficiency of Large Language Models (LLMs) by updating neural network layers using low-rank matrices. Since the generation of adversarial examples is an optimization process analogous to model",
+        "tags": [
+          "cs.lg",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1202
+      },
+      {
+        "id": "0ed02d398de35ce3",
+        "title": "Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework",
+        "url": "https://arxiv.org/abs/2604.27217",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framework for modeling patient-specific disease trajectories from sparse, noisy, and irregular longitudinal ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "362d8cc7a54e65a1",
+        "title": "In-Context Examples Suppress Scientific Knowledge Recall in LLMs",
+        "url": "https://arxiv.org/abs/2604.27540",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27540v1 Announce Type: new Abstract: Scientific reasoning rarely stops at what is directly observable; it often requires uncovering hidden structure from data. From estimating reaction constants in chemistry to inferring demand elasticities in economics, this latent structure recovery is what distinguishes scientific reasoning from curve fitting. Large language models (LLMs) can often r",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "6e2e78c3e8f713f1",
+        "title": "NORACL: Neurogenesis for Oracle-free Resource-Adaptive Continual Learning",
+        "url": "https://arxiv.org/abs/2604.27031",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27031v1 Announce Type: new Abstract: In a continual learning setting, we require a model to be plastic enough to learn a new task and stable enough to not disturb previously learned capabilities. We argue that this dilemma has an architectural root. A finite network has limited representational and plastic resources, yet the required capacity depends on properties of the future task str",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "7ac7138da5cf4f08",
+        "title": "Generalizing the Geometry of Model Merging Through Frechet Averages",
+        "url": "https://arxiv.org/abs/2604.27155",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27155v1 Announce Type: new Abstract: Model merging aims to combine multiple models into one without additional training. Na\\\"ive parameter-space averaging can be fragile under architectural symmetries, as their geometry does not take them into account. In this work we show that not only the geometry, but also the averaging procedure itself, must be symmetry-invariant to achieve symmetry",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "9784e84bd4d35c15",
+        "title": "Distributional Alignment Games for Answer-Level Fine-Tuning",
+        "url": "https://arxiv.org/abs/2604.27166",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27166v1 Announce Type: new Abstract: We focus on the problem of \\emph{Answer-Level Fine-Tuning} (ALFT), where the goal is to optimize a language model based on the correctness or properties of its final answers, rather than the specific reasoning traces used to produce them. Directly optimizing answer-level objectives is computationally intractable due to the need to marginalize over th",
+        "tags": [
+          "cs.lg",
+          "cs.gt"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "104416240e84de0e",
+        "title": "PINN-Cast: Exploring the Role of Continuous-Depth NODE in Transformers and Physics Informed Loss as Soft Physical Constraints in Short-term Weather Forecasting",
+        "url": "https://arxiv.org/abs/2604.27313",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27313v1 Announce Type: new Abstract: Operational weather prediction has long relied on physics-based numerical weather prediction (NWP), whose accuracy comes at the cost of substantial compute and complex simulation workflows. Recent transformer-based forecasters offer efficient data-driven alternatives, however transformers are physics-agnostic models. Additionally, standard transforme",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
+      {
+        "id": "f218f43ffd1a4d5d",
+        "title": "ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space",
+        "url": "https://arxiv.org/abs/2604.27443",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27443v1 Announce Type: new Abstract: Generating continuous-time, continuous-space stochastic processes (e.g., videos, weather forecasts) conditioned on partial observations (e.g., first and last frames) is a fundamental challenge. Existing approaches, (e.g., diffusion models), suffer from key limitations: (1) noise-to-data evolution fails to capture structural similarity between states ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0372
+      },
       {
         "id": "e6a63bde4f02a4d7",
         "title": "US–Indian space mission maps extreme subsidence in Mexico City",
@@ -3639,146 +3767,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0136
-      },
-      {
-        "id": "589e05e095ea0b33",
-        "title": "A physics explanation shows why US elections keep ending 50:50—and why more spending won't change that",
-        "url": "https://phys.org/news/2026-04-physics-explanation-elections-wont.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777564807000,
-        "summary": "A physics-inspired model calibrated on 40 years of US congressional data pinpoints a spending threshold of roughly 1.8 million USD at which campaigns stop influencing who wins and start fueling polarization instead.",
-        "tags": [
-          "mathematics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0199
-      },
-      {
-        "id": "658bd026b08bd5ec",
-        "title": "Drug companies more likely to keep R&D in-house when patents are at stake",
-        "url": "https://phys.org/news/2026-04-drug-companies-house-patents-stake.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777564801000,
-        "summary": "Drug companies are more likely to keep research and development (R&D) in-house, rather than outsource it, when they already have patented drugs on the market in the same therapeutic area, and especially when those patents still have years of protection left, according to a new study co-authored by Lucy Xiaolu Wang, assistant professor in the Department of Resource Economics. The reason: To avoid w",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0199
-      },
-      {
-        "id": "efd592247f10caba",
-        "title": "A hidden food boom across Central Africa is pushing wildlife and rural diets toward a precarious edge",
-        "url": "https://phys.org/news/2026-04-hidden-food-boom-central-africa.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777563601000,
-        "summary": "The total annual biomass of wild meat consumed across Central Africa has increased from an estimated 0.73 million metric tons in 2000 to 1.10 million metric tons in 2022. This increase is threatening wildlife populations and raising concerns about long-term nutritional security in rural areas. A study published in Nature provides the first quantitative spatial and temporal analysis of wild meat co",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0142
-      },
-      {
-        "id": "e65d01701882d722",
-        "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-        "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
-        "source": "TechCrunch",
-        "lane": "science",
-        "published_ts": 1777562989000,
-        "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
-        "tags": [
-          "startups",
-          "venture",
-          "137 ventures",
-          "founders fund",
-          "growth stage",
-          "spacex"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.747
-      },
-      {
-        "id": "47c000866651e5ce",
-        "title": "Report links biodiversity collapse to risks for financial systems and food security",
-        "url": "https://phys.org/news/2026-04-links-biodiversity-collapse-financial-food.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777562408000,
-        "summary": "A new report from Anglia Ruskin University (ARU) and the Institute and Faculty of Actuaries (IFoA) warns that biodiversity loss, alongside climate shocks and geopolitical conflict, is disrupting our food system, risking catastrophic impacts for the financial system and for society as a whole.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "6af1d94972f38fb7",
-        "title": "One overlooked mineral may have quietly powered a crucial step toward life on early Earth",
-        "url": "https://phys.org/news/2026-04-overlooked-mineral-quietly-powered-crucial.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777562406000,
-        "summary": "Manganese dioxide can convert amino acids into hydrogen cyanide (HCN) without requiring methane, a finding that solves a long-standing puzzle about the origin of this key prebiotic molecule on early Earth. Although HCN is central to origin-of-life theories, recent evidence suggests early Earth's atmosphere didn't contain sufficient methane needed for classic HCN-producing reactions. The newly foun",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "d638189cabdc99a7",
-        "title": "Captured mid-reaction, RNA polymerase reveals universal blueprint for gene transcription",
-        "url": "https://phys.org/news/2026-04-captured-mid-reaction-rna-polymerase.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777561217000,
-        "summary": "The enzyme RNA polymerase (RNAP) carries out transcription, copying DNA into RNA. It's the first step in gene expression, and a process fundamental to all life. But the inner workings of this essential enzyme have long baffled scientists. Trying to work out how it performs its core chemical reaction, which stacks new RNA building blocks one nucleotide at a time, has proven especially difficult.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
-      },
-      {
-        "id": "54ddc6ebff3e9725",
-        "title": "Water molecules found to actively drive gene transcription process",
-        "url": "https://phys.org/news/2026-04-molecules-gene-transcription.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777561214000,
-        "summary": "Researchers have uncovered a previously hidden layer of complexity in how genes are activated, showing that water molecules play a direct and essential role in one of the most fundamental processes in biology: DNA transcription.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
-      },
-      {
-        "id": "642b1b8ac5e8471b",
-        "title": "How mass extinctions helped termites become essential engineers of today's tropical ecosystems",
-        "url": "https://phys.org/news/2026-04-mass-extinctions-termites-essential-today.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777561211000,
-        "summary": "Tropical ecosystems rely on the infrastructure provided by termites. These insects supply plants with vital nutrients by breaking down organic waste, bringing water to the roots by aerating the soil through tunneling, and sustaining the food chain, as they make up an estimated 10–20% of the total biomass of rainforests. But termites were not always the backbone of tropical ecosystems.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
       }
     ]
   },
