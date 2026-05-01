@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T19:03:53.747904+00:00",
+  "generated_at": "2026-05-01T19:09:11.776308+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1894,6 +1894,37 @@
     ],
     "ai": [
       {
+        "id": "a7e98809199461b1",
+        "title": "The Case Against an Imminent Software Developer Apocalypse",
+        "url": "https://developers.slashdot.org/story/26/05/01/1711213/the-case-against-an-imminent-software-developer-apocalypse?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777662000000,
+        "summary": "ZipNada shares a report from ZDNet: Given the dour headlines as of late concerning the diminishing amounts of entry-level software development jobs, coupled with predictions of applications entirely AI-generated, one could be forgiven for assuming that software developers may soon be an endangered species. However, the data tells a different story. James Bessen, professor at Boston University, has",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1307
+      },
+      {
+        "id": "97f1d6fb19add540",
+        "title": "Women sue the men who used their Instagram feeds to create AI p0rn influencers",
+        "url": "https://www.reddit.com/r/technology/comments/1t1276m/women_sue_the_men_who_used_their_instagram_feeds/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777661204000,
+        "summary": "submitted by /u/rkhunter_ [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0186
+      },
+      {
         "id": "950e5894299f80f2",
         "title": "A leading journal finds that AI is flooding academic publishing with lower quality work",
         "url": "https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html",
@@ -2830,34 +2861,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0204
-      },
-      {
-        "id": "29e062cfb5f3535a",
-        "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1777635721000,
-        "summary": "Altman's crew now doing the same gatekeeping it recently mocked OpenAI is lining up a limited release of its new GPT-5.5-Cyber model to a handpicked circle of \"cyber defenders,\" just weeks after taking a swipe at Anthropic for doing almost exactly the same thing.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0476
-      },
-      {
-        "id": "2b5e6e4fa8823fb8",
-        "title": "South Africa withdraws AI policy after it was found written by AI",
-        "url": "https://www.reddit.com/r/technology/comments/1t0qxn2/south_africa_withdraws_ai_policy_after_it_was/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777635507000,
-        "summary": "submitted by /u/sr_local [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
       }
     ],
     "science": [
@@ -3756,19 +3759,19 @@
         "score": 1.0473
       },
       {
-        "id": "362d8cc7a54e65a1",
-        "title": "In-Context Examples Suppress Scientific Knowledge Recall in LLMs",
-        "url": "https://arxiv.org/abs/2604.27540",
+        "id": "84e0e09968928e53",
+        "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+        "url": "https://arxiv.org/abs/2604.26999",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27540v1 Announce Type: new Abstract: Scientific reasoning rarely stops at what is directly observable; it often requires uncovering hidden structure from data. From estimating reaction constants in chemistry to inferring demand elasticities in economics, this latent structure recovery is what distinguishes scientific reasoning from curve fitting. Large language models (LLMs) can often r",
+        "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7856
+        "impact": "high",
+        "score": 0.847
       }
     ]
   },
