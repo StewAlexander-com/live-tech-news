@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-01T14:08:54.322166+00:00",
+  "generated_at": "2026-05-01T14:18:34.725874+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "b0cbd29072f06970",
+        "title": "Engadget Podcast: Is the Valve Steam Controller worth $100?",
+        "url": "https://www.engadget.com/2161921/engadget-podcast-is-the-valve-steam-controller-worth-dollar100/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1777644688000,
+        "summary": "And why it's not exactly a PC gamepad.",
+        "tags": [
+          "news"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7024
+      },
       {
         "id": "e0172e1a931f7771",
         "title": "From 'encryption backdoor' to 'lawful access' — is a compromise between privacy, security, and law enforcement needs actually possible?",
@@ -945,23 +960,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8487
-      },
-      {
-        "id": "6f7acfb9ce1045ce",
-        "title": "A new US phone network for Christians aims to block porn and gender-related content",
-        "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-        "source": "MIT Technology Review",
-        "lane": "gadgets",
-        "published_ts": 1777626000000,
-        "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
-        "tags": [
-          "artificial intelligence",
-          "app",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1117
       }
     ],
     "innovation": [
@@ -1859,6 +1857,39 @@
     ],
     "ai": [
       {
+        "id": "ed56949b2883d190",
+        "title": "The US Navy awards Domino Data Lab a contract worth up to $100M for AI software that teaches underwater drones to identify new mines in the Strait of Hormuz (Mike Stone/Reuters)",
+        "url": "https://www.techmeme.com/260501/p10#a260501p10",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777644602000,
+        "summary": "Mike Stone / Reuters: The US Navy awards Domino Data Lab a contract worth up to $100M for AI software that teaches underwater drones to identify new mines in the Strait of Hormuz — The U.S. Navy is ramping up its AI capabilities to hunt for Iranian mines in the Strait of Hormuz, one of the world's most critical shipping lanes …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.077
+      },
+      {
+        "id": "8c06ebf84b73c7ef",
+        "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777644596000,
+        "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which it previously used for classified information - […]",
+        "tags": [
+          "ai",
+          "amazon",
+          "google",
+          "microsoft",
+          "news",
+          "nvidia"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.853
+      },
+      {
         "id": "8909da2c45079881",
         "title": "Elon Musk had a bad week in court",
         "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
@@ -1973,6 +2004,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9164
+      },
+      {
+        "id": "918f4313945b63d4",
+        "title": "Amazon debuts \"Join the chat\", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time (Lauren Forristal/TechCrunch)",
+        "url": "https://www.techmeme.com/260501/p8#a260501p8",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777639801000,
+        "summary": "Lauren Forristal / TechCrunch: Amazon debuts “Join the chat”, an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time — Amazon launched a new AI-powered feature on Tuesday that allows users to ask questions about products …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
       },
       {
         "id": "bf7badd4d2224039",
@@ -2636,6 +2680,38 @@
         "score": 1.0917
       },
       {
+        "id": "161096c3ef4b1590",
+        "title": "People-Centred Medical Image Analysis",
+        "url": "https://arxiv.org/abs/2604.26991",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient p",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9298
+      },
+      {
+        "id": "0d8db9f7f6b5fa5b",
+        "title": "Automatic Causal Fairness Analysis with LLM-Generated Reporting",
+        "url": "https://arxiv.org/abs/2604.27011",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27011v1 Announce Type: new Abstract: AutoML, intended as the process of automating the application of machine learning to real-world problems, is a key step for AI popularisation. Most AutoML frameworks are not accounting for the potential lack of fairness in the training data and in the corresponding predictions. We introduce \\textsc{FairMind}, a software prototype aiming to automatise",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9298
+      },
+      {
         "id": "1a1c26154acde37b",
         "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
         "url": "https://arxiv.org/abs/2604.27014",
@@ -2709,85 +2785,6 @@
         "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acy",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "2228c1f8ee3fc0e2",
-        "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
-        "url": "https://arxiv.org/abs/2604.27126",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering st",
-        "tags": [
-          "cs.ai",
-          "cs.ce",
-          "cs.lg",
-          "physics.geo-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "41504bebe83f5b0e",
-        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
-        "url": "https://arxiv.org/abs/2604.27132",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning complexity creates bottlenecks; (3) Opacity, as hidden auditing erodes trust; a",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "821767e9b2ccbf74",
-        "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
-        "url": "https://arxiv.org/abs/2604.27134",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Anal",
-        "tags": [
-          "cs.ai",
-          "cs.hc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "6d182a00251917d1",
-        "title": "Step-level Optimization for Efficient Computer-use Agents",
-        "url": "https://arxiv.org/abs/2604.27151",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents remain expensive and slow in practice, since most sys",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "6dddc4625b21f858",
-        "title": "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index",
-        "url": "https://arxiv.org/abs/2604.26984",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of ",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
