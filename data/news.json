@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T04:43:51.854422+00:00",
+  "generated_at": "2026-05-01T05:51:49.059790+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -968,6 +968,53 @@
     ],
     "innovation": [
       {
+        "id": "8ab248504f9587b0",
+        "title": "Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes (Dan Goodin/Ars Technica)",
+        "url": "https://www.techmeme.com/260501/p2#a260501p2",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777613401000,
+        "summary": "Dan Goodin / Ars Technica: Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes — Publicly released exploit code for an effectively unpatched vulnerability that gives root access to virtually all releases of Linux …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.993
+      },
+      {
+        "id": "da0a72037978d6bb",
+        "title": "AT&T’s Unix PC — We Hardly Knew You",
+        "url": "https://hackaday.com/2026/04/30/atts-unix-pc-we-hardly-knew-you/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1777611646000,
+        "summary": "Before Linux, there was Unix. It was great, but it was and has been plagued by problems with licensing and proprietary competition. [Vintage Appartus] recalls, for example, the AT&T Unix …read more",
+        "tags": [
+          "retrocomputing",
+          "3b1",
+          "att",
+          "unix",
+          "unix pc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0625
+      },
+      {
+        "id": "62e147953dbac548",
+        "title": "Medicare portal database exposed health providers’ Social Security numbers",
+        "url": "https://www.reddit.com/r/technology/comments/1t0iwg8/medicare_portal_database_exposed_health_providers/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777609266000,
+        "summary": "submitted by /u/ddx-me [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9227
+      },
+      {
         "id": "5cbff43283c12e13",
         "title": "The Talk Show: ‘Food and Beverage Director’",
         "url": "https://daringfireball.net/thetalkshow/2026/04/30/ep-446",
@@ -1829,60 +1876,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.94
-      },
-      {
-        "id": "783715e68bb8fa5d",
-        "title": "I uninstalled these apps and just use them in the browser — my PC has never been snappier",
-        "url": "https://www.makeuseof.com/uninstalled-apps-use-them-in-browser-pc-snappier/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777575617000,
-        "summary": "Most desktop apps are just bloated web wrappers, and uninstalling them to use their browser versions instead has made my PC so much smoother.",
-        "tags": [
-          "internet",
-          "whatsapp",
-          "netflix",
-          "slack",
-          "spotify",
-          "discord"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8441
-      },
-      {
-        "id": "3ad4762038feee54",
-        "title": "Microsoft Open-Sources 'Earliest DOS Source Code Discovered To Date'",
-        "url": "https://news.slashdot.org/story/26/04/30/1814205/microsoft-open-sources-earliest-dos-source-code-discovered-to-date?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1777575600000,
-        "summary": "An anonymous reader quotes a report from Ars Technica: Several times in the last couple of decades, Microsoft has released source code for the original MS-DOS operating system that kicked off its decades-long dominance of consumer PCs. This week, the company has reached further back than ever, releasing \"the earliest DOS source code discovered to date\" along with other documentation and notes from",
-        "tags": [
-          "opensource"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0426
-      },
-      {
-        "id": "ef174813da21e8ba",
-        "title": "Meta posted its best quarter ever. The stock dropped 9 per cent.",
-        "url": "https://thenextweb.com/news/meta-q1-2026-user-decline-ai-capex",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1777575522000,
-        "summary": "Meta posted the most profitable quarter in its history and the stock dropped 9 per cent. Revenue rose 33 per cent to $56.31 billion, beating Wall Street’s estimate of $55.49 billion. Net income reached $26.8 billion, up 61 per cent year over year. And for the first time since Meta began reporting its “family” of […] This story continues at The Next Web",
-        "tags": [
-          "insights",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8895
       }
     ],
     "ai": [
+      {
+        "id": "519dab89402d624a",
+        "title": "Google brings Gemini’s smartest feature to everyone",
+        "url": "https://www.androidpolice.com/google-brings-geminis-smartest-feature-to-everyone/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1777611427000,
+        "summary": "Notebooks now available to all",
+        "tags": [
+          "notebooklm",
+          "utilities"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9826
+      },
+      {
+        "id": "0900a1ae44fefbc1",
+        "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777611352000,
+        "summary": "In talks with Japan, the UK, and Australia on defense tech that can ‘contribute to global stability’ Japanese tech giant Fujitsu has confirmed the demise of its mainframe business in the year 2035 and hinted it’s working on significant defense projects.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1138
+      },
       {
         "id": "c82e92a7f9677dc7",
         "title": "Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China (Zijing Wu/Financial Times)",
@@ -2818,37 +2843,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8493
-      },
-      {
-        "id": "a47d593cc932ef84",
-        "title": "Musk v. Altman: the judge told Musk's lawyer she did not want talk of AI's existential threat seeping into the trial, focusing instead on OpenAI's founding (New York Times)",
-        "url": "https://www.techmeme.com/260430/p44#a260430p44",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777574702000,
-        "summary": "New York Times: Musk v. Altman: the judge told Musk's lawyer she did not want talk of AI's existential threat seeping into the trial, focusing instead on OpenAI's founding — Since he had a testy fireside chat about artificial intelligence with the Google co-founder Larry Page more than a decade ago …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0785
-      },
-      {
-        "id": "ef693d102869b7a9",
-        "title": "Europe’s finance ministers are about to discuss an AI model none of them can access",
-        "url": "https://thenextweb.com/news/eu-finance-ministers-mythos-anthropic-cybersecurity",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777574627000,
-        "summary": "Euro-area finance ministers will discuss Anthropic’s Mythos AI model with banking supervisors on Monday, according to a senior EU official. The technology that will be on the agenda is one that no government in the European Union has access to, built by a company that the United States Pentagon has designated a national security supply […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "europe",
-          "next featured",
-          "finance"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.956
       }
     ],
     "science": [
