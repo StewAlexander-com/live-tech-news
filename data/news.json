@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-01T14:35:39.412134+00:00",
+  "generated_at": "2026-05-01T14:41:23.984812+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "afb54529c0f64651",
+        "title": "iPhone Air's Poor Sales Spook Rivals Into Ditching Ultra-Thin Phone Plans",
+        "url": "https://www.macrumors.com/2026/05/01/iphone-air-sales-spook-rivals-into-ditching-plans/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1777646087000,
+        "summary": "A Weibo leaker today suggested that Apple's iPhone Air 2 may be the only next-generation ultra-thin flagship smartphone from a major brand, after the original model's poor sales performance appears to have led competing manufacturers to abandon plans for their own follow-up products. The leaker known as \"Digital Chat Station\" today posted on Weibo, claiming that the ‌iPhone Air‌ barely surpassed 7",
+        "tags": [
+          "iphone air",
+          "digital chat station"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9979
+      },
       {
         "id": "4941303f712e2b89",
         "title": "Error in Medicare database exposes US healthcare providers Social Security numbers – Trump administration directory designed to modernize Medicare encounters another setback",
@@ -943,22 +959,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8491
-      },
-      {
-        "id": "ba9ad47b926913bc",
-        "title": "The Rotary Un-Smartphone (2023)",
-        "url": "https://skysedge.com/telecom/RUSP/index.html",
-        "source": "Hacker News",
-        "lane": "gadgets",
-        "published_ts": 1777628347000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:35"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0016
       }
     ],
     "innovation": [
@@ -2712,86 +2712,116 @@
         "score": 1.0917
       },
       {
-        "id": "8be955d8cab695ef",
-        "title": "Binary Spiking Neural Networks as Causal Models",
-        "url": "https://arxiv.org/abs/2604.27007",
+        "id": "2228c1f8ee3fc0e2",
+        "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
+        "url": "https://arxiv.org/abs/2604.27126",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successful",
+        "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering st",
         "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9248
-      },
-      {
-        "id": "a3fc0647515dc7bf",
-        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-        "url": "https://arxiv.org/abs/2604.27096",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acy",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9248
-      },
-      {
-        "id": "1a1c26154acde37b",
-        "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
-        "url": "https://arxiv.org/abs/2604.27014",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27014v1 Announce Type: new Abstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged ",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9248
-      },
-      {
-        "id": "5f35d69412310285",
-        "title": "Anomaly Detection in Soil Heavy Metal Contamination Using Unsupervised Learning for Environmental Risk Assessment",
-        "url": "https://arxiv.org/abs/2604.27102",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27102v1 Announce Type: new Abstract: Soil contamination by heavy metals poses a persistent environmental and public health concern in rapidly urbanising regions of Ghana, particularly at unregulated waste disposal sites. This study applies an unsupervised machine learning framework to detect and characterise anomalous heavy metal contamination patterns in soils from twelve waste sites a",
-        "tags": [
-          "cs.lg",
           "cs.ai",
-          "physics.data-an",
+          "cs.ce",
+          "cs.lg",
           "physics.geo-ph"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9248
+        "score": 0.923
       },
       {
-        "id": "05c30a50cb797515",
-        "title": "Remaining Useful Life Estimation for Turbofan Engines: A Comparative Study of Classical, CNN, and LSTM Approaches",
-        "url": "https://arxiv.org/abs/2604.27234",
+        "id": "41504bebe83f5b0e",
+        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+        "url": "https://arxiv.org/abs/2604.27132",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning complexity creates bottlenecks; (3) Opacity, as hidden auditing erodes trust; a",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.923
+      },
+      {
+        "id": "821767e9b2ccbf74",
+        "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+        "url": "https://arxiv.org/abs/2604.27134",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Anal",
+        "tags": [
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.923
+      },
+      {
+        "id": "6d182a00251917d1",
+        "title": "Step-level Optimization for Efficient Computer-use Agents",
+        "url": "https://arxiv.org/abs/2604.27151",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in benchmark performance, strong computer-use agents remain expensive and slow in practice, since most sys",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.923
+      },
+      {
+        "id": "6dddc4625b21f858",
+        "title": "Monitoring Neural Training with Topology: A Footprint-Predictable Collapse Index",
+        "url": "https://arxiv.org/abs/2604.26984",
         "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27234v1 Announce Type: new Abstract: Remaining Useful Life (RUL) estimation is a critical component of Prognostics and Health Management (PHM), enabling proactive maintenance scheduling and reducing unplanned failures in industrial equipment. This paper presents a comparative study of machine learning approaches for RUL estimation on the NASA C-MAPSS turbofan engine dataset: classical b",
+        "summary": "arXiv:2604.26984v1 Announce Type: new Abstract: Representational collapse, where embeddings become anisotropic and lose multi-scale structure, can erode downstream performance long before performance metrics react. We propose an online, topology-aware monitor for evolving neural representations that couples Modular Morse Homology Maintenance (MMHM) with a composite Collapse Index (CI). Instead of ",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9248
+        "score": 0.923
       }
     ],
     "science": [
+      {
+        "id": "7c33fd34471079c4",
+        "title": "Should politics influence science, and vice versa? National Science Board's ousting resurrects an existential debate",
+        "url": "https://phys.org/news/2026-05-politics-science-vice-versa-national.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777646408000,
+        "summary": "\"On behalf of President Donald J. Trump,\" read 22 emails sent from the White House Presidential Personnel Office on Friday afternoon, April 24, 2026, \"I am writing to inform you that your position as a member of the National Science Board is terminated, effective immediately.\"",
+        "tags": [
+          "other"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0196
+      },
+      {
+        "id": "5cc8521b3e4819b6",
+        "title": "When the Schuylkill swallowed the city: Lessons from Hurricane Ida's historic flood",
+        "url": "https://phys.org/news/2026-05-schuylkill-swallowed-city-lessons-hurricane.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777646403000,
+        "summary": "New Penn research shows that Hurricane Ida wasn't a once-in-a-century anomaly but a preview of how climate change, urbanization, and aging infrastructure are rewriting flood risk.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0196
+      },
       {
         "id": "d280cd835bbffddf",
         "title": "After flames strip hillsides bare, the next storm can unleash something far more destructive downstream",
@@ -3661,36 +3691,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
-      },
-      {
-        "id": "a833c7f1267f43e3",
-        "title": "CRISPR speed patterns can identify multiple viruses and variants simultaneously",
-        "url": "https://phys.org/news/2026-04-crispr-patterns-multiple-viruses-variants.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777582801000,
-        "summary": "As the spread of infectious diseases accelerates, technologies that can accurately distinguish multiple viruses in a single test are becoming increasingly important. KAIST and an international research team have developed a new diagnostic technology that simultaneously identifies various viruses and variants by controlling the \"speed\" of gene scissors.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0995
-      },
-      {
-        "id": "d2b80fb7da5b9198",
-        "title": "Measurement of nuclear reactions at record-low energies opens new pathways for astrophysics research",
-        "url": "https://phys.org/news/2026-04-nuclear-reactions-energies-pathways-astrophysics.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777582201000,
-        "summary": "An international research team has achieved an important milestone for astrophysics at GSI/FAIR in Darmstadt: In the CRYRING@ESR storage ring, scientists were able to measure nuclear reactions at extremely low energies for the first time, mirroring the conditions inside stars. This novel experimental approach lays the foundation for decoding the formation of elements in the universe with even grea",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
       }
     ]
   },
