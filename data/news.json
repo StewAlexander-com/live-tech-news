@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T17:52:11.378440+00:00",
+  "generated_at": "2026-05-01T17:56:22.101115+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -975,6 +975,19 @@
     ],
     "innovation": [
       {
+        "id": "eba1ad14cb738e49",
+        "title": "A bug in popular cPanel, WHM, and WP Squared software has reportedly been exploited since Feb.; CISA it gives a 9.8 CVSS score, tells agencies to patch by May 3 (Jonathan Greig/The Record)",
+        "url": "https://www.techmeme.com/260501/p14#a260501p14",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777658103000,
+        "summary": "Jonathan Greig / The Record: A bug in popular cPanel, WHM, and WP Squared software has reportedly been exploited since Feb.; CISA it gives a 9.8 CVSS score, tells agencies to patch by May 3 — Federal agencies have until May 3 to resolve a security issue impacting a critical system for server and website management.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0795
+      },
+      {
         "id": "c179ea7088156d9c",
         "title": "I stopped cleaning messy data by hand the day I discovered this built-in Excel feature",
         "url": "https://www.makeuseof.com/excel-feature-power-query-clean-messy-data/",
@@ -1873,22 +1886,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8006
-      },
-      {
-        "id": "8b6384b83554934d",
-        "title": "Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets (Jason Beeferman/Politico)",
-        "url": "https://www.techmeme.com/260430/p64#a260430p64",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777601103000,
-        "summary": "Jason Beeferman / Politico: Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets — The bill comes two days after a U.S. soldier was arraigned in federal court on charges he used insider knowledge of the military's plans …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9785
       }
     ],
     "ai": [
+      {
+        "id": "173401096ba821bf",
+        "title": "Amazon’s built-in AI price history expands to show the entire last year",
+        "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777658122000,
+        "summary": "Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the \"Price history\" button next to the item's price, or ask Amazon's AI assistant Rufus. The expansion comes just weeks ahead of Amazon's annual […]",
+        "tags": [
+          "amazon",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8551
+      },
       {
         "id": "e35579df4a62fb85",
         "title": "MacRumors Giveaway: Win a Mac Mini to Run AI Agents With Astropad's 'Workbench' App",
@@ -2368,6 +2385,26 @@
         "score": 0.853
       },
       {
+        "id": "76b0eabbbbc4c732",
+        "title": "Musk v. Altman is just getting started",
+        "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1777644000000,
+        "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
+        "tags": [
+          "ai",
+          "startups",
+          "acquisitions",
+          "ai infrastructure",
+          "amazon",
+          "big tech earnings"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6934
+      },
+      {
         "id": "8909da2c45079881",
         "title": "Elon Musk had a bad week in court",
         "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
@@ -2815,36 +2852,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9148
-      },
-      {
-        "id": "8cd900f9977e9bc8",
-        "title": "There's a lot of hype about Chinese EVs—is any of it true?",
-        "url": "https://arstechnica.com/cars/2026/05/theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777633215000,
-        "summary": "In addition to being full of screens, China now wants its cars to be packed with AI.",
-        "tags": [
-          "cars",
-          "features",
-          "chinese evs"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0474
-      },
-      {
-        "id": "e109ca6930de7fe5",
-        "title": "Cloud computing provider Nebius agrees to acquire Eigen AI, which optimizes the performance of chips that run AI inference tasks, for ~$643M in stock and cash (Dina Bass/Bloomberg)",
-        "url": "https://www.techmeme.com/260501/p5#a260501p5",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777632902000,
-        "summary": "Dina Bass / Bloomberg: Cloud computing provider Nebius agrees to acquire Eigen AI, which optimizes the performance of chips that run AI inference tasks, for ~$643M in stock and cash — Cloud computing provider Nebius Group NV agreed to buy Eigen AI, a startup that boosts the performance of chips used …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9821
       }
     ],
     "science": [
@@ -3638,6 +3645,22 @@
         "score": 1.0473
       },
       {
+        "id": "104416240e84de0e",
+        "title": "PINN-Cast: Exploring the Role of Continuous-Depth NODE in Transformers and Physics Informed Loss as Soft Physical Constraints in Short-term Weather Forecasting",
+        "url": "https://arxiv.org/abs/2604.27313",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27313v1 Announce Type: new Abstract: Operational weather prediction has long relied on physics-based numerical weather prediction (NWP), whose accuracy comes at the cost of substantial compute and complex simulation workflows. Recent transformer-based forecasters offer efficient data-driven alternatives, however transformers are physics-agnostic models. Additionally, standard transforme",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8028
+      },
+      {
         "id": "f218f43ffd1a4d5d",
         "title": "ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space",
         "url": "https://arxiv.org/abs/2604.27443",
@@ -3741,22 +3764,6 @@
         "summary": "arXiv:2604.27155v1 Announce Type: new Abstract: Model merging aims to combine multiple models into one without additional training. Na\\\"ive parameter-space averaging can be fragile under architectural symmetries, as their geometry does not take them into account. In this work we show that not only the geometry, but also the averaging procedure itself, must be symmetry-invariant to achieve symmetry",
         "tags": [
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0372
-      },
-      {
-        "id": "9784e84bd4d35c15",
-        "title": "Distributional Alignment Games for Answer-Level Fine-Tuning",
-        "url": "https://arxiv.org/abs/2604.27166",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27166v1 Announce Type: new Abstract: We focus on the problem of \\emph{Answer-Level Fine-Tuning} (ALFT), where the goal is to optimize a language model based on the correctness or properties of its final answers, rather than the specific reasoning traces used to produce them. Directly optimizing answer-level objectives is computationally intractable due to the need to marginalize over th",
-        "tags": [
-          "cs.lg",
-          "cs.gt"
         ],
         "paywall": false,
         "impact": "high",
