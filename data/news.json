@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-01T18:07:02.520902+00:00",
+  "generated_at": "2026-05-01T18:14:42.968289+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "edcf6b1b418cc507",
+        "title": "Pixel Buds' ANC and transparency controls are pulling a disappearing act",
+        "url": "https://www.androidpolice.com/pixel-buds-anc-and-transparency-bug/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1777658976000,
+        "summary": "But only on the paired phone's volume slider",
+        "tags": [
+          "smartwatches & wearables"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9984
+      },
       {
         "id": "ac4783b4a1714f6b",
         "title": "Redditor builds a PC inside an old CRT monitor — it looks like an ancient iMac, but runs Cyberpunk 2077 at 100fps in 1440p",
@@ -955,19 +970,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7031
-      },
-      {
-        "id": "88b1d5b6a1cc6175",
-        "title": "Here's How Apple's Folding iPhone Could Stand Apart",
-        "url": "https://www.cnet.com/tech/mobile/heres-how-apples-folding-iphone-could-stand-apart/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1777636840000,
-        "summary": "The so-called \"iPhone Ultra\" might dodge the problems of other book-style foldable phones with a hybrid iPhone-iPad interface.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8041
       }
     ],
     "innovation": [
@@ -3671,6 +3673,53 @@
         "score": 1.0473
       },
       {
+        "id": "362d8cc7a54e65a1",
+        "title": "In-Context Examples Suppress Scientific Knowledge Recall in LLMs",
+        "url": "https://arxiv.org/abs/2604.27540",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27540v1 Announce Type: new Abstract: Scientific reasoning rarely stops at what is directly observable; it often requires uncovering hidden structure from data. From estimating reaction constants in chemistry to inferring demand elasticities in economics, this latent structure recovery is what distinguishes scientific reasoning from curve fitting. Large language models (LLMs) can often r",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7981
+      },
+      {
+        "id": "6e2e78c3e8f713f1",
+        "title": "NORACL: Neurogenesis for Oracle-free Resource-Adaptive Continual Learning",
+        "url": "https://arxiv.org/abs/2604.27031",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27031v1 Announce Type: new Abstract: In a continual learning setting, we require a model to be plastic enough to learn a new task and stable enough to not disturb previously learned capabilities. We argue that this dilemma has an architectural root. A finite network has limited representational and plastic resources, yet the required capacity depends on properties of the future task str",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7981
+      },
+      {
+        "id": "7ac7138da5cf4f08",
+        "title": "Generalizing the Geometry of Model Merging Through Frechet Averages",
+        "url": "https://arxiv.org/abs/2604.27155",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27155v1 Announce Type: new Abstract: Model merging aims to combine multiple models into one without additional training. Na\\\"ive parameter-space averaging can be fragile under architectural symmetries, as their geometry does not take them into account. In this work we show that not only the geometry, but also the averaging procedure itself, must be symmetry-invariant to achieve symmetry",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7981
+      },
+      {
         "id": "9784e84bd4d35c15",
         "title": "Distributional Alignment Games for Answer-Level Fine-Tuning",
         "url": "https://arxiv.org/abs/2604.27166",
@@ -3717,52 +3766,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8039
-      },
-      {
-        "id": "84e0e09968928e53",
-        "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
-        "url": "https://arxiv.org/abs/2604.26999",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "6f77439660244f69",
-        "title": "Low Rank Adaptation for Adversarial Perturbation",
-        "url": "https://arxiv.org/abs/2604.27487",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27487v1 Announce Type: new Abstract: Low-Rank Adaptation (LoRA), which leverages the insight that model updates typically reside in a low-dimensional space, has significantly improved the training efficiency of Large Language Models (LLMs) by updating neural network layers using low-rank matrices. Since the generation of adversarial examples is an optimization process analogous to model",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1202
-      },
-      {
-        "id": "0ed02d398de35ce3",
-        "title": "Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework",
-        "url": "https://arxiv.org/abs/2604.27217",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framework for modeling patient-specific disease trajectories from sparse, noisy, and irregular longitudinal ",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0372
       }
     ]
   },
