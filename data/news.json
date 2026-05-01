@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-01T17:56:22.101115+00:00",
+  "generated_at": "2026-05-01T18:07:02.520902+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ac4783b4a1714f6b",
+        "title": "Redditor builds a PC inside an old CRT monitor — it looks like an ancient iMac, but runs Cyberpunk 2077 at 100fps in 1440p",
+        "url": "https://www.techradar.com/computing/redditor-builds-a-pc-inside-an-old-crt-monitor-it-looks-like-an-ancient-imac-but-runs-cyberpunk-2077-at-100fps-in-1440p",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1777658400000,
+        "summary": "This retro PC build that uses a burnt-out old monitor as a case is like an iMac on steroids.",
+        "tags": [
+          "computing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8481
+      },
+      {
+        "id": "88a50afa0eee1775",
+        "title": "LG's 2026 Gram laptop lineup starts at $1,150",
+        "url": "https://www.engadget.com/2162125/lg-2026-gram-laptop-lineup-starts-at-1150/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1777658159000,
+        "summary": "They're available today from LG's website.",
+        "tags": [
+          "laptops"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7015
+      },
       {
         "id": "a708bd46915f8051",
         "title": "It's Bandcamp Friday again",
@@ -938,42 +968,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8041
-      },
-      {
-        "id": "867255285fdd780e",
-        "title": "Every Pixel 10 owner should enable this hidden display setting",
-        "url": "https://www.androidpolice.com/every-pixel-10-owner-should-enable-this-hidden-display-setting/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1777636810000,
-        "summary": "Comfort View is more significant than you think",
-        "tags": [
-          "google pixel 10",
-          "android",
-          "utilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9981
-      },
-      {
-        "id": "db23d58691694360",
-        "title": "Slimline Commodore 64C Ultimate Edition computers go up for pre-order — firm reintroduces the C64’s sleeker 1986-1994 styling across the range",
-        "url": "https://www.tomshardware.com/video-games/retro-gaming/slimline-commodore-64c-ultimate-edition-computers-go-up-for-pre-order-firm-reintroduces-the-c64s-sleeker-1986-1994-styling-across-the-range",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1777636559000,
-        "summary": "Commodore 64C Ultimate Edition reintroduces the C64’s sleeker 1986-1994 styling across the range using original molds and tooling.",
-        "tags": [
-          "retro gaming",
-          "video games"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9469
       }
     ],
     "innovation": [
+      {
+        "id": "e7c344d30ddd5ec6",
+        "title": "Meta acquires a startup Assured Robot Intelligence to bolster its robotics team, which is working on humanoid hardware and the underlying AI that powers it (Mark Gurman/Bloomberg)",
+        "url": "https://www.techmeme.com/260501/p15#a260501p15",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777658440000,
+        "summary": "Mark Gurman / Bloomberg: Meta acquires a startup Assured Robot Intelligence to bolster its robotics team, which is working on humanoid hardware and the underlying AI that powers it — Meta Platforms Inc. has acquired Assured Robot Intelligence, a startup developing artificial intelligence models for robots …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0778
+      },
       {
         "id": "eba1ad14cb738e49",
         "title": "A bug in popular cPanel, WHM, and WP Squared software has reportedly been exploited since Feb.; CISA it gives a 9.8 CVSS score, tells agencies to patch by May 3 (Jonathan Greig/The Record)",
@@ -1873,22 +1883,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.031
-      },
-      {
-        "id": "9f7ed2e673e5c5d8",
-        "title": "US Senators Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets (Jason Beeferman/Politico)",
-        "url": "https://www.techmeme.com/260430/p64#a260430p64",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777601103000,
-        "summary": "Jason Beeferman / Politico: US Senators Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets — The bill comes two days after a U.S. soldier was arraigned in federal court on charges he used insider knowledge of the military's plans …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8006
       }
     ],
     "ai": [
+      {
+        "id": "abe91c862a84197d",
+        "title": "GPT-5.5 Matches Heavily Hyped Mythos Preview In New Cybersecurity Tests",
+        "url": "https://it.slashdot.org/story/26/05/01/1658212/gpt-55-matches-heavily-hyped-mythos-preview-in-new-cybersecurity-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777658400000,
+        "summary": "An anonymous reader quotes a report from Ars Technica: Last month, Anthropic made a big deal about the supposedly outsize cybersecurity threat represented by its Mythos Preview model, leading the company to restrict the initial release to \"critical industry partners.\" But new research from the UK's AI Security Institute (AISI) suggests that OpenAI's GPT-5.5, which launched publicly last week, reac",
+        "tags": [
+          "ai",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1314
+      },
       {
         "id": "173401096ba821bf",
         "title": "Amazon’s built-in AI price history expands to show the entire last year",
@@ -2835,26 +2848,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9151
-      },
-      {
-        "id": "043504127b69b758",
-        "title": "This open-source AI app cleans out my inbox, and doesn't steal my data",
-        "url": "https://www.makeuseof.com/inbox-zero-for-cleaning-up-emails-and-self-hosting/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1777633217000,
-        "summary": "I had far too many unread and unnecessary emails, until I let this AI do its thing.",
-        "tags": [
-          "productivity",
-          "email tips",
-          "inbox zero"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9148
       }
     ],
     "science": [
+      {
+        "id": "c13ae1c42ff5677e",
+        "title": "Seeing an eclipse from Earth is awe‑inspiring—for astronauts in space, the scene was even more grand",
+        "url": "https://phys.org/news/2026-05-eclipse-earth-aweinspiring-astronauts-space.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777658417000,
+        "summary": "The astronauts on Artemis II's trip to the moon in April 2026 didn't just have an amazing journey through space. They also saw something extraordinary. They were the first humans to see a total solar eclipse from space.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0178
+      },
+      {
+        "id": "77772b3cceae59ea",
+        "title": "How photosynthetic bacteria pass light along: Two major energy pathways identified",
+        "url": "https://phys.org/news/2026-05-photosynthetic-bacteria-major-energy-pathways.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777658401000,
+        "summary": "RIKEN researchers have found out how light energy harvested by pigments besides chlorophyll is transferred to the molecular site where photosynthesis occurs in cyanobacteria. The work is published in the journal Plant and Cell Physiology.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
       {
         "id": "7e38acb73ef4a3c5",
         "title": "The way a cell fails to divide after copying its DNA can determine its fate",
@@ -3645,6 +3671,22 @@
         "score": 1.0473
       },
       {
+        "id": "9784e84bd4d35c15",
+        "title": "Distributional Alignment Games for Answer-Level Fine-Tuning",
+        "url": "https://arxiv.org/abs/2604.27166",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777608000000,
+        "summary": "arXiv:2604.27166v1 Announce Type: new Abstract: We focus on the problem of \\emph{Answer-Level Fine-Tuning} (ALFT), where the goal is to optimize a language model based on the correctness or properties of its final answers, rather than the specific reasoning traces used to produce them. Directly optimizing answer-level objectives is computationally intractable due to the need to marginalize over th",
+        "tags": [
+          "cs.lg",
+          "cs.gt"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8001
+      },
+      {
         "id": "104416240e84de0e",
         "title": "PINN-Cast: Exploring the Role of Continuous-Depth NODE in Transformers and Physics Informed Loss as Soft Physical Constraints in Short-term Weather Forecasting",
         "url": "https://arxiv.org/abs/2604.27313",
@@ -3717,53 +3759,6 @@
         "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framework for modeling patient-specific disease trajectories from sparse, noisy, and irregular longitudinal ",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0372
-      },
-      {
-        "id": "362d8cc7a54e65a1",
-        "title": "In-Context Examples Suppress Scientific Knowledge Recall in LLMs",
-        "url": "https://arxiv.org/abs/2604.27540",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27540v1 Announce Type: new Abstract: Scientific reasoning rarely stops at what is directly observable; it often requires uncovering hidden structure from data. From estimating reaction constants in chemistry to inferring demand elasticities in economics, this latent structure recovery is what distinguishes scientific reasoning from curve fitting. Large language models (LLMs) can often r",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0372
-      },
-      {
-        "id": "6e2e78c3e8f713f1",
-        "title": "NORACL: Neurogenesis for Oracle-free Resource-Adaptive Continual Learning",
-        "url": "https://arxiv.org/abs/2604.27031",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27031v1 Announce Type: new Abstract: In a continual learning setting, we require a model to be plastic enough to learn a new task and stable enough to not disturb previously learned capabilities. We argue that this dilemma has an architectural root. A finite network has limited representational and plastic resources, yet the required capacity depends on properties of the future task str",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.ne"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0372
-      },
-      {
-        "id": "7ac7138da5cf4f08",
-        "title": "Generalizing the Geometry of Model Merging Through Frechet Averages",
-        "url": "https://arxiv.org/abs/2604.27155",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27155v1 Announce Type: new Abstract: Model merging aims to combine multiple models into one without additional training. Na\\\"ive parameter-space averaging can be fragile under architectural symmetries, as their geometry does not take them into account. In this work we show that not only the geometry, but also the averaging procedure itself, must be symmetry-invariant to achieve symmetry",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
