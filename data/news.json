@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T14:43:51.599118+00:00",
+  "generated_at": "2026-05-01T14:59:19.845681+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -129,6 +129,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7897
+      },
+      {
+        "id": "1f757de8e5971e62",
+        "title": "I Was Packing Too Much Espresso. An Expert Explains the Ideal Amount for Each Shot",
+        "url": "https://www.cnet.com/home/kitchen-and-household/i-was-packing-too-much-espresso-an-expert-explains-the-ideal-amount-for-a-shot/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1777642740000,
+        "summary": "Serious espresso drinkers rely on one precise measurement to pull the perfect shot. Here's how to get it right at home.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7991
       },
       {
         "id": "99b4659dd5fa8304",
@@ -944,24 +957,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0254
-      },
-      {
-        "id": "860a10984072cc21",
-        "title": "We need a cybersecurity curriculum taught by hackers",
-        "url": "https://www.techradar.com/pro/we-need-a-cybersecurity-curriculum-taught-by-hackers",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777628895000,
-        "summary": "The cybersecurity industry has spent years talking about a talent and skills shortage. Turns out the talent and skills exist. It's just being recruited by the other side.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
       }
     ],
     "innovation": [
+      {
+        "id": "94440a0afd5aada0",
+        "title": "Brendan Carr ‘Launches’ His Bogus FCC ‘Review’ Of ABC Broadcast Licenses And It’s Just Pathetic And Stupid",
+        "url": "https://www.reddit.com/r/technology/comments/1t0vo92/brendan_carr_launches_his_bogus_fcc_review_of_abc/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777647185000,
+        "summary": "submitted by /u/StraightedgexLiberal [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9481
+      },
       {
         "id": "279aa5d037a5e4ad",
         "title": "SoftBank plans robotics and AI firm in the US to build data centers — aims for $100 billion valuation and an IPO this year",
@@ -1834,29 +1847,35 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8075
-      },
-      {
-        "id": "2319edf7f40c2872",
-        "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-        "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777593532000,
-        "summary": "Subscription billing fintech Skio sold to its competitor Recharge in what was a healthy exit, according to its founder and former CEO.",
-        "tags": [
-          "fintech",
-          "startups",
-          "tc",
-          "exclusive",
-          "exits",
-          "y combinator"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7476
       }
     ],
     "ai": [
+      {
+        "id": "7a1030f51f8f1dd6",
+        "title": "CIOs ready for another role-change as AI becomes agent of chaos",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/cios_ready_for_another_rolechange/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777647253000,
+        "summary": "If software writes software the risk is “systematic failure at scale”. Someone needs to take charge, argues Forrester Forrester predicts that by decade's end, the rush toward agentic AI will grow so chaotic that CIOs will be forced into a new role as enforcer of order.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1321
+      },
+      {
+        "id": "c207d6e867660d12",
+        "title": "Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that's raised $5.7B via junk bonds (Wall Street Journal)",
+        "url": "https://www.techmeme.com/260501/p11#a260501p11",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777646701000,
+        "summary": "Wall Street Journal: Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that's raised $5.7B via junk bonds — Philippe Laffont's firm has launched Next Frontier, whose facilities will be meant for AI companies including Anthropic",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0751
+      },
       {
         "id": "f2beebaccc46010c",
         "title": "Apple is overhauling its Photos app with AI — because it has to",
@@ -2712,82 +2731,53 @@
         "score": 1.0917
       },
       {
-        "id": "8be955d8cab695ef",
-        "title": "Binary Spiking Neural Networks as Causal Models",
-        "url": "https://arxiv.org/abs/2604.27007",
+        "id": "2228c1f8ee3fc0e2",
+        "title": "Unsupervised Electrofacies Classification and Porosity Characterization in the Offshore Keta Basin Using Wireline Logs",
+        "url": "https://arxiv.org/abs/2604.27126",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27007v1 Announce Type: new Abstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successful",
+        "summary": "arXiv:2604.27126v1 Announce Type: new Abstract: This study presents an unsupervised machine learning workflow for electrofacies analysis in the offshore Keta Basin, Ghana, where core data are scarce. Six standard wireline logs from Well~C were analysed over a depth interval comprising approximately $11{,}195$ samples. K-means clustering was applied in multivariate log space, with the clustering st",
         "tags": [
-          "cs.ai"
+          "cs.ai",
+          "cs.ce",
+          "cs.lg",
+          "physics.geo-ph"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9223
+        "score": 0.9178
       },
       {
-        "id": "a3fc0647515dc7bf",
-        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
-        "url": "https://arxiv.org/abs/2604.27096",
+        "id": "41504bebe83f5b0e",
+        "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
+        "url": "https://arxiv.org/abs/2604.27132",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27096v1 Announce Type: new Abstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acy",
+        "summary": "arXiv:2604.27132v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains demand reliable verification, yet centralized approaches suffer four limitations: (1) Robustness, with single points of failure vulnerable to attacks and bias; (2) Scalability, as reasoning complexity creates bottlenecks; (3) Opacity, as hidden auditing erodes trust; a",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9223
+        "score": 0.9178
       },
       {
-        "id": "161096c3ef4b1590",
-        "title": "People-Centred Medical Image Analysis",
-        "url": "https://arxiv.org/abs/2604.26991",
-        "source": "arXiv cs.LG",
+        "id": "821767e9b2ccbf74",
+        "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+        "url": "https://arxiv.org/abs/2604.27134",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1777608000000,
-        "summary": "arXiv:2604.26991v1 Announce Type: new Abstract: Recent advances in data-centric medical AI have produced highly accurate diagnostic systems, but the emphasis on data curation and performance metrics has not translated into widespread clinical adoption. We conjecture that this limited uptake stems from insufficient attention dedicated to the optimisation of fair performance across diverse patient p",
+        "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Anal",
         "tags": [
-          "cs.lg",
-          "cs.ai"
+          "cs.ai",
+          "cs.hc"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9223
-      },
-      {
-        "id": "0d8db9f7f6b5fa5b",
-        "title": "Automatic Causal Fairness Analysis with LLM-Generated Reporting",
-        "url": "https://arxiv.org/abs/2604.27011",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27011v1 Announce Type: new Abstract: AutoML, intended as the process of automating the application of machine learning to real-world problems, is a key step for AI popularisation. Most AutoML frameworks are not accounting for the potential lack of fairness in the training data and in the corresponding predictions. We introduce \\textsc{FairMind}, a software prototype aiming to automatise",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9223
-      },
-      {
-        "id": "1a1c26154acde37b",
-        "title": "Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation",
-        "url": "https://arxiv.org/abs/2604.27014",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1777608000000,
-        "summary": "arXiv:2604.27014v1 Announce Type: new Abstract: The scarcity of high-quality annotated medical data, particularly in mental health, poses a significant bottleneck for training robust machine learning models. Privacy regulations restrict data sharing, making synthetic data generation a promising alternative. The use of Large Language Models (LLMs) in a data augmentation pipeline could be leveraged ",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9223
+        "score": 0.9178
       }
     ],
     "science": [
