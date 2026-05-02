@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T18:59:33.996007+00:00",
+  "generated_at": "2026-05-02T19:18:34.022541+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -976,6 +976,39 @@
     ],
     "innovation": [
       {
+        "id": "641270fda277b4dc",
+        "title": "Your Android widgets are hiding buttons you've never tapped",
+        "url": "https://www.makeuseof.com/your-android-widgets-are-hiding-extra-features/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777748417000,
+        "summary": "Enlarging certain widgets on Android reveals extra buttons.",
+        "tags": [
+          "android",
+          "android launcher",
+          "google pixel",
+          "android tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.845
+      },
+      {
+        "id": "f9c5ecebfd14cb54",
+        "title": "Microsoft Update Warning—Windows 11 Security Fix Breaks Backups",
+        "url": "https://www.reddit.com/r/technology/comments/1t1y9ji/microsoft_update_warningwindows_11_security_fix/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777747762000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9411
+      },
+      {
         "id": "b5bee8957b779d09",
         "title": "Self-hosting taught me more about servers in one month than years of reading ever did",
         "url": "https://www.makeuseof.com/self-hosting-taught-me-more-about-servers-in-one-month-than-years-of-reading-ever-did/",
@@ -1896,41 +1929,38 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7996
-      },
-      {
-        "id": "d1ded3f36362f0af",
-        "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
-        "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777673607000,
-        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-        "tags": [
-          "ai",
-          "tc",
-          "acquisition",
-          "humanoids",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8074
-      },
-      {
-        "id": "237a1e620a33f207",
-        "title": "Servers operated by Ubuntu and its parent company Canonical have been down for more than a day, following a \"sustained, cross-border attack\" (Dan Goodin/Ars Technica)",
-        "url": "https://www.techmeme.com/260501/p26#a260501p26",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777673401000,
-        "summary": "Dan Goodin / Ars Technica: Servers operated by Ubuntu and its parent company Canonical have been down for more than a day, following a “sustained, cross-border attack” — Servers operated by Ubuntu and its parent company Canonical were knocked offline on Thursday morning and have remained down ever since …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9984
       }
     ],
     "ai": [
+      {
+        "id": "c01b94ed1f8416c7",
+        "title": "A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 (Victor Swezey/Bloomberg)",
+        "url": "https://www.techmeme.com/260502/p9#a260502p9",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777749345000,
+        "summary": "Victor Swezey / Bloomberg: A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 — A Chinese court ruled that companies cannot terminate employees just to replace them with artificial intelligence systems …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.079
+      },
+      {
+        "id": "bf15b9f3c57faa51",
+        "title": "'It took 9 seconds': tech founder outlines how rogue Claude-powered AI tool wiped entire company database and backups",
+        "url": "https://www.techradar.com/pro/it-took-9-seconds-tech-founder-outlines-how-rogue-claude-powered-ai-tool-wiped-entire-company-database-and-backups-but-says-theres-no-such-thing-as-bad-publicity",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1777748700000,
+        "summary": "Cursor AI agent deleted a production database and backups in nine seconds, exposing serious flaws in API design and backup isolation",
+        "tags": [
+          "pro",
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.914
+      },
       {
         "id": "10a85f31e0029548",
         "title": "An Amateur Just Solved a 60-Year-Old Math Problem - by Asking AI",
@@ -2810,32 +2840,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0392
-      },
-      {
-        "id": "cf9ec63beddf859b",
-        "title": "Some retail traders are training AI agents to buy and sell assets on their behalf, as exchanges like Polymarket and Bybit roll out agent-friendly interfaces (Emily Nicolle/Bloomberg)",
-        "url": "https://www.techmeme.com/260501/p19#a260501p19",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777664104000,
-        "summary": "Emily Nicolle / Bloomberg: Some retail traders are training AI agents to buy and sell assets on their behalf, as exchanges like Polymarket and Bybit roll out agent-friendly interfaces — Jake Nesler's AI trading bot got one big decision right in its first week. It ignored the chase.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0792
-      },
-      {
-        "id": "f731c5d0ef5abb41",
-        "title": "The US, UK, Australia, Canada, and New Zealand publish guidance on orgs' use of agentic AI systems, saying many give AI more access than can be safely monitored (Greg Otto/CyberScoop)",
-        "url": "https://www.techmeme.com/260501/p18#a260501p18",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777663801000,
-        "summary": "Greg Otto / CyberScoop: The US, UK, Australia, Canada, and New Zealand publish guidance on orgs' use of agentic AI systems, saying many give AI more access than can be safely monitored — The guidance warns that agents capable of taking real-world actions on networks are already inside critical infrastructure …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0775
       }
     ],
     "science": [
