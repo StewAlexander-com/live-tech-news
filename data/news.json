@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-02T19:30:00.148658+00:00",
+  "generated_at": "2026-05-02T19:42:31.757753+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1a0736510f59a0a4",
+        "title": "Prime Video: The 16 Absolute Best Movies to Watch",
+        "url": "https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-prime-video-may-2026/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1777746795000,
+        "summary": "Here are some highly rated films to try, plus a list of new additions to the streamer in May.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.802
+      },
       {
         "id": "91b5405fa16b47af",
         "title": "Meta’s historic loss in court could cost a lot more than $375 million",
@@ -956,22 +969,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8451
-      },
-      {
-        "id": "f3441414399cb9fd",
-        "title": "Amazon Stuck With Months of Repairs After Drone Strikes On Data Centers",
-        "url": "https://news.slashdot.org/story/26/05/02/006240/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "gadgets",
-        "published_ts": 1777692600000,
-        "summary": "An anonymous reader quotes a report from Ars Technica: Amazon's cloud customers will need to wait several more months before the US tech company can repair war-damaged data centers and restore normal operations in the Middle East. The announcement comes two months after Iranian drone strikes targeted three Amazon data centers in the United Arab Emirates and Bahrain -- meaning that full recovery fr",
-        "tags": [
-          "cloud",
-          "outlets:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0409
       }
     ],
     "innovation": [
@@ -1933,6 +1930,36 @@
     ],
     "ai": [
       {
+        "id": "ff6c7c556fe7a636",
+        "title": "What if Tech Company Layoffs Aren't All About AI?",
+        "url": "https://it.slashdot.org/story/26/05/02/0338227/what-if-tech-company-layoffs-arent-all-about-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777750440000,
+        "summary": "\"Running a Big Tech company during Silicon Valley's AI mania may not necessarily require fewer workers or cost less,\" writes the Washington Post: Amazon, Google and Meta together have roughly the same number of employees now as they did during an industry-wide hiring binge in 2022, company disclosures show. Growing costs for technical workers and related expenses have often outpaced sales recently",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1309
+      },
+      {
+        "id": "cbb585914182b54c",
+        "title": "OpenAI introduces AI-generated pets for its Codex app",
+        "url": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1777750313000,
+        "summary": "It's like Microsoft's Clippy, but useful.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7577
+      },
+      {
         "id": "c01b94ed1f8416c7",
         "title": "A Chinese court ruled that companies cannot terminate staff just to replace them with AI, following a similar ruling by another Chinese court in December 2025 (Victor Swezey/Bloomberg)",
         "url": "https://www.techmeme.com/260502/p9#a260502p9",
@@ -2809,40 +2836,43 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0753
-      },
-      {
-        "id": "634576b26f6286b9",
-        "title": "'Tens of millions of Graviton cores': AWS scores huge coup as Meta 'buys' hundreds of thousands of CPUs and infrastructure, confirming Jeff Bezos' hyperscaler as the essential backbone of the agentic AI Era in a major blow to AMD and Intel ambitions",
-        "url": "https://www.techradar.com/pro/tens-of-millions-of-graviton-cores-aws-scores-huge-coup-as-meta-buys-hundreds-of-thousands-of-cpus-and-infrastructure-confirming-jeff-bezos-hyperscaler-as-the-essential-backbone-of-the-agentic-ai-era-in-a-major-blow-to-amd-and-intel-ambitions",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1777665900000,
-        "summary": "Meta expands its AWS partnership by renting tens of millions of Graviton cores, signaling a shift toward infrastructure over direct hardware ownership.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9172
-      },
-      {
-        "id": "99bb955df1601571",
-        "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-        "url": "https://github.com/xodn348/destiny",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777665378000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:9"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0392
       }
     ],
     "science": [
+      {
+        "id": "8724c57f2150617c",
+        "title": "Android has three great features turned off by default — here's how to enable them",
+        "url": "https://www.makeuseof.com/3-android-features-so-useful-why-do-they-ship-disabled/",
+        "source": "MakeUseOf",
+        "lane": "science",
+        "published_ts": 1777750218000,
+        "summary": "Theft Detection Lock, Private Space, and Now Playing are built into Android but hidden in Settings. Here's how to switch them on.",
+        "tags": [
+          "android",
+          "personal safety",
+          "privacy tips",
+          "security",
+          "android tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8467
+      },
+      {
+        "id": "bb0c689c7b92084a",
+        "title": "Gold digging is not exclusive to women: New study uncovers common attributes",
+        "url": "https://phys.org/news/2026-05-gold-exclusive-women-uncovers-common.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777750201000,
+        "summary": "Gold digging is often seen as a female behavior focused on exploiting wealthier partners for material gain, but science suggests this stereotype may be too narrow. Past studies have shown both men and women value resources in partners, but not much research has delved into the specifics regarding gold digging versus general resource preference in partners.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0972
+      },
       {
         "id": "d399f4a6d60c90b7",
         "title": "Green alley effectiveness depends on design and purpose, study finds",
@@ -3726,36 +3756,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0171
-      },
-      {
-        "id": "c1b6583176fa7b3c",
-        "title": "DESI-HVS1 is an old hypervelocity star ejected from the galactic center, observations suggest",
-        "url": "https://phys.org/news/2026-04-desi-hvs1-hypervelocity-star-ejected.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777644003000,
-        "summary": "Chinese astronomers report the discovery of DESI-HVS1, which may be an old metal-poor hypervelocity star of galactic center origin. The finding, based on the data from the Dark Energy Spectroscopic Instrument (DESI) and ESA's Gaia satellite, was detailed in a research paper published April 23 on the arXiv pre-print server.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0985
-      },
-      {
-        "id": "ce95149b48f47fad",
-        "title": "Hunting the elusive Eta Aquariid meteors",
-        "url": "https://phys.org/news/2026-05-elusive-eta-aquariid-meteors.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777642804000,
-        "summary": "Early May is a good time to watch for a powerful yet often elusive meteor shower, the annual Eta Aquariids. They're a prolific, yet often elusive for northern hemisphere observers. If skies are clear, watch for a strong annual meteor shower that's attained an almost mythical status: the May Eta Aquariids.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
       }
     ]
   },
