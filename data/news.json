@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-02T18:09:27.739774+00:00",
+  "generated_at": "2026-05-02T18:30:41.264496+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "91b5405fa16b47af",
+        "title": "Meta’s historic loss in court could cost a lot more than $375 million",
+        "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1777746326000,
+        "summary": "New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more consequential for Meta and the social media industry at large. Beginning Monday, attorneys for Meta and New Mexico will return […]",
+        "tags": [
+          "law",
+          "meta",
+          "policy",
+          "privacy",
+          "speech",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7907
+      },
       {
         "id": "36c221ffe0ac6565",
         "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
@@ -952,26 +972,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0409
-      },
-      {
-        "id": "2062acfb995d8bda",
-        "title": "Lego’s Star Wars Day celebration starts early with new Mandalorian sets, double points for Insiders, and three gifts with purchase, including a free Darksaber build",
-        "url": "https://www.techradar.com/collection/tech/legos-star-wars-day-celebration-starts-early-with-new-mandalorian-sets-double-points-for-insiders-and-three-gifts-with-purchase-including-a-free-darksaber-build",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777692050000,
-        "summary": "Lego is celebrating May the 4th early, and turning it into a weekend event, with double points for Insider members, new sets, and some especially nice sets that land as a free gift with purchase.",
-        "tags": [
-          "tech",
-          "entertainment",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8402
       }
     ],
     "innovation": [
+      {
+        "id": "b5bee8957b779d09",
+        "title": "Self-hosting taught me more about servers in one month than years of reading ever did",
+        "url": "https://www.makeuseof.com/self-hosting-taught-me-more-about-servers-in-one-month-than-years-of-reading-ever-did/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777746617000,
+        "summary": "Every tutorial I followed was correct, and none of them actually prepared me.",
+        "tags": [
+          "technology explained",
+          "home server",
+          "server"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8499
+      },
       {
         "id": "69f29670cf6cc2bd",
         "title": "I stopped disabling this Windows feature and gained back the performance I thought I'd lost",
@@ -1908,22 +1928,53 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9984
-      },
-      {
-        "id": "9a6cb6c8ce311a72",
-        "title": "Apple has stopped offering a 256GB storage option for the Mac mini globally; Mac mini now starts at 512GB for $799 in the US (Joe Rossignol/MacRumors)",
-        "url": "https://www.techmeme.com/260501/p25#a260501p25",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777673101000,
-        "summary": "Joe Rossignol / MacRumors: Apple has stopped offering a 256GB storage option for the Mac mini globally; Mac mini now starts at 512GB for $799 in the US — Apple this week stopped offering a 256GB storage option for the Mac mini worldwide. As a result, the desktop computer now has a higher starting price.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9983
       }
     ],
     "ai": [
+      {
+        "id": "84d99d2a7723cd54",
+        "title": "'Build AI that can accurately represent the full complexity of biology': Mark Zuckerberg wants to cure all diseases but needs far more data to deliver a digital twin of human cells—As genetic data becomes the next frontier, will you trust him with yours?",
+        "url": "https://www.techradar.com/pro/build-ai-that-can-accurately-represent-the-full-complexity-of-biology-mark-zuckerberg-wants-to-cure-all-diseases-but-needs-far-more-data-to-deliver-a-digital-twin-of-human-cells-as-genetic-data-becomes-the-next-frontier-will-you-trust-him-with-yours",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1777746000000,
+        "summary": "Mark Zuckerberg backs $500 million push to build AI models of human cells as part of long-term effort to cure disease.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9149
+      },
+      {
+        "id": "255bfd6e7662c8d7",
+        "title": "Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors (Robert Booth/The Guardian)",
+        "url": "https://www.techmeme.com/260502/p8#a260502p8",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777745402000,
+        "summary": "Robert Booth / The Guardian: Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors — Researchers say results mark a ‘profound change in technology that will reshape medicine’ — From George Clooney in ER …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9934
+      },
+      {
+        "id": "0bdb3475625548ac",
+        "title": "Flue is a TypeScript framework for building the next generation of agents",
+        "url": "https://flueframework.com/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777743127000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:9"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
       {
         "id": "1c0be4126487f2a1",
         "title": "Nvidia built the AI engine. Alphabet is building the car, the road, and the toll booth. The market is pricing accordingly.",
@@ -2783,61 +2834,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8143
-      },
-      {
-        "id": "418aa9af8e4a7b4c",
-        "title": "All the evidence revealed so far in Musk v. Altman",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777662891000,
-        "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some high-level takeaways: […]",
-        "tags": [
-          "ai",
-          "analysis",
-          "elon musk",
-          "law",
-          "openai",
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8492
-      },
-      {
-        "id": "45d743bbaa30340e",
-        "title": "Ubuntu infrastructure has been down for more than a day",
-        "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777662746000,
-        "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
-        "tags": [
-          "biz & it",
-          "security",
-          "ddos attack",
-          "distributed denial of service attack",
-          "ubuntu"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9835
-      },
-      {
-        "id": "fc41f8d0e07b142f",
-        "title": "The gender gap in AI use may be a matter of visibility more than usage, as data suggests women face more judgment for using AI and are less likely to admit it (Issie Lapowsky/Bloomberg)",
-        "url": "https://www.techmeme.com/260501/p17#a260501p17",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777662607000,
-        "summary": "Issie Lapowsky / Bloomberg: The gender gap in AI use may be a matter of visibility more than usage, as data suggests women face more judgment for using AI and are less likely to admit it — Women are using artificial intelligence at lower rates than men. But are they being “left behind”?",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0706
       }
     ],
     "science": [
+      {
+        "id": "d399f4a6d60c90b7",
+        "title": "Green alley effectiveness depends on design and purpose, study finds",
+        "url": "https://phys.org/news/2026-04-green-alley-effectiveness-purpose.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777746602000,
+        "summary": "Green alleys—residential laneways redesigned to enhance residents' quality of life, boost social cohesion and improve biodiversity—are gaining traction in cities across North America. But as the concept spreads, it remains loosely defined: what exactly counts as a green alley, and what benefits can it provide?",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
       {
         "id": "eb8b2000123eff33",
         "title": "Locked in stone for 210 million years, this newly identified crocodile cousin was built to crush larger prey",
@@ -3732,21 +3746,6 @@
         "summary": "Early May is a good time to watch for a powerful yet often elusive meteor shower, the annual Eta Aquariids. They're a prolific, yet often elusive for northern hemisphere observers. If skies are clear, watch for a strong annual meteor shower that's attained an almost mythical status: the May Eta Aquariids.",
         "tags": [
           "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "de6d0fa09dbfdf52",
-        "title": "Under crushing hypergravity, fruit flies adapt—and recover",
-        "url": "https://phys.org/news/2026-05-hypergravity-fruit-flies-recover.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777642803000,
-        "summary": "Expose an animal to extreme physical stress, and the expectation is simple: It will break down. But when UC Riverside scientists subjected fruit flies to forces many times stronger than Earth's gravity—a condition called hypergravity—the insects did something unexpected. They survived. They even mated and reproduced. Their movements and behaviors changed dramatically and then, over time, they reco",
-        "tags": [
-          "space exploration"
         ],
         "paywall": false,
         "impact": "high",
