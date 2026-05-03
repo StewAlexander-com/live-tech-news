@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:49:34.393677+00:00",
+  "generated_at": "2026-05-03T23:00:30.389481+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -974,6 +974,23 @@
     ],
     "innovation": [
       {
+        "id": "043c3a511dcbfd54",
+        "title": "I switched to a TV with Google TV and spent a week fixing what Google got wrong",
+        "url": "https://www.makeuseof.com/fixing-what-google-got-wrong-about-google-tv/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1777849218000,
+        "summary": "My Google TV finally feels smart.",
+        "tags": [
+          "entertainment",
+          "google tv",
+          "smart tv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8499
+      },
+      {
         "id": "2902a2b81a049c27",
         "title": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names | Facial recognition",
         "url": "https://www.reddit.com/r/technology/comments/1t2zom1/guilty_until_proven_innocent_shoppers_falsely/",
@@ -1904,29 +1921,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8495
-      },
-      {
-        "id": "78c3ad93db00ccf8",
-        "title": "Let Twitch Chat Control Your LED Strings",
-        "url": "https://hackaday.com/2026/05/02/let-twitch-chat-control-your-led-strings/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1777762815000,
-        "summary": "Once upon a time, someone set up a livestream wherein the messages from Twitch chat could control a game of Pokemon. Since then, we’ve seen Twitch control all sorts of …read more",
-        "tags": [
-          "led hacks",
-          "chat",
-          "led",
-          "leds",
-          "twitch",
-          "twitch chat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0794
       }
     ],
     "ai": [
+      {
+        "id": "476299b3ab704961",
+        "title": "A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists (Rashi Shrivastava/Forbes)",
+        "url": "https://www.techmeme.com/260503/p12#a260503p12",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777848607000,
+        "summary": "Rashi Shrivastava / Forbes: A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists — The music AI startup is battling record labels and angry artists as it upends how millions of people create songs.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0764
+      },
+      {
+        "id": "1b4e23ca8fcd4f67",
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "url": "https://github.com/aattaran/deepclaude",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777846400000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:7"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0342
+      },
       {
         "id": "43efd14609e2b182",
         "title": "The biggest surprise of my recent San Francisco trip? Hearing how much Steve Wozniak loves his iPhone Air",
@@ -2830,37 +2856,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0428
-      },
-      {
-        "id": "37775b55a19b4e6a",
-        "title": "Grab a 1440p-capable gaming rig with an RTX 5060 for just $1,049 — Save up to 25% on ABS Flux & Cyclone prebuilts that also feature 32 GB of RAM",
-        "url": "https://www.tomshardware.com/pc-components/grab-a-1440p-capable-gaming-rig-with-an-rtx-5060-for-just-usd1-049-save-up-to-25-percent-on-abs-flux-and-cyclone-prebuilts-that-also-feature-32-gb-of-ram",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1777756469000,
-        "summary": "Building a PC has its advantages, such as cheaper parts costs and a learning experience that'll stick with you forever. However, when our AI overlords suck the joy out of DIY custom rigs, we need to venture out to find good deals in such turbulent times, and these prebuilts from ABS provide exactly that.",
-        "tags": [
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0245
-      },
-      {
-        "id": "9d60a93c51df1f1e",
-        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-        "url": "https://github.com/microsoft/vscode/pull/310226",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777751846000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:38"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2716
       }
     ],
     "science": [
