@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-03T18:22:53.064460+00:00",
+  "generated_at": "2026-05-03T18:30:34.929792+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "85d3c78ae2b03141",
+        "title": "Your CPU isn't slow—your RAM settings are holding it back",
+        "url": "https://www.makeuseof.com/your-cpu-isnt-slowyour-ram-settings-are-holding-it-back/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1777833017000,
+        "summary": "A factory default is slowing down your entire PC.",
+        "tags": [
+          "technology explained",
+          "cpu",
+          "computer memory"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8499
+      },
       {
         "id": "dbf6cf97c1a1fcf0",
         "title": "‘We pride ourselves on human curation’: Vocana is an indie music service determined to challenge Spotify’s payment system — I spoke with the platform’s President about the company’s inception, and how it’s planning to fix music streaming",
@@ -959,22 +976,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.79
-      },
-      {
-        "id": "a3619db7a0c14edf",
-        "title": "This must-have miniature Macintosh retro dock gives your M4 Mac Mini a 1980s makeover — equipped with a 5-inch HD display and M.2 NVMe SSD slot",
-        "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1777741068000,
-        "summary": "The Wokyis M5 Retro Dock Station will add USB ports, memory card readers, and an external SSD enclosure to your Mac mini while giving you a small '80s Macintosh on your desk.",
-        "tags": [
-          "docking stations and hubs",
-          "peripherals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9469
       }
     ],
     "innovation": [
@@ -1929,6 +1930,21 @@
     ],
     "ai": [
       {
+        "id": "457e9adad9da8ef1",
+        "title": "Study warns cost-cutting use of generative AI could increase cyber-attack risks",
+        "url": "https://phys.org/news/2026-04-generative-ai-cyber.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1777833003000,
+        "summary": "Newly published research from a leading computer scientist warns that the use of generative AI to design, train, or perform steps within a machine learning system could increase serious risks. Michael Lones, professor at Heriot-Watt University's School of Mathematical and Computer Sciences, has argued in a new paper that generative AI could expose organizations and the public to unintended harm.",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1014
+      },
+      {
         "id": "f0385a77aebc5c11",
         "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
         "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
@@ -2838,22 +2854,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.075
-      },
-      {
-        "id": "2fd99789482732b7",
-        "title": "Sources: Anthropic is in early talks to buy AI chips from UK-based Fractile when they launch in 2027, as it seeks deals to gain more leverage with suppliers (The Information)",
-        "url": "https://www.techmeme.com/260502/p6#a260502p6",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777736101000,
-        "summary": "The Information: Sources: Anthropic is in early talks to buy AI chips from UK-based Fractile when they launch in 2027, as it seeks deals to gain more leverage with suppliers — As Anthropic's sales explode, straining the servers it uses, the company is considering adding another source of AI server chips …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0787
       }
     ],
     "science": [
+      {
+        "id": "a8222675ff6ba16e",
+        "title": "Former Nintendo Executive Says Amazon Once Requested 'Illegal' Price Discounts",
+        "url": "https://games.slashdot.org/story/26/05/03/1826206/former-nintendo-executive-says-amazon-once-requested-illegal-price-discounts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1777832880000,
+        "summary": "Amazon once tried to pressure Nintendo to break the law, says former Nintendo of America President Reggie Fils-Aimé. At a recent NYU lecture, he describes a conversation with an Amazon executive, Kotaku reports: \"Amazon was looking to get bigger into the video game space,\" said Fils-Aimé. \"Amazon's mentality back then is they wanted to have the lowest price out in the marketplace, even lower than ",
+        "tags": [
+          "nintendo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0491
+      },
       {
         "id": "83606bd761f30075",
         "title": "Rising temperatures could be driving up antibiotic resistance in soil, 11-year study finds",
@@ -3759,21 +3777,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9145
-      },
-      {
-        "id": "45b16da1d6654229",
-        "title": "Slower access, faster chemistry: Nanoreactor design improves catalysis by balancing molecular flow",
-        "url": "https://phys.org/news/2026-05-slower-access-faster-chemistry-nanoreactor.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777656005000,
-        "summary": "A new study by a team at Tohoku University, published in Chemical Engineering Journal, has shown that more isn't always better when it comes to nanoscale chemical reactions. One might think that giving reactants completely unrestricted access to a speed-boosting catalyst would be the fastest way to drive a chemical reaction. Instead, it was shown that hollow nanoreactors can work more efficiently ",
-        "tags": [
-          "nanomaterials"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
       }
     ]
   },
