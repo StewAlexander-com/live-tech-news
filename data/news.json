@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T19:57:18.394479+00:00",
+  "generated_at": "2026-05-04T19:59:10.102071+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3697,6 +3697,36 @@
         "score": 1.0189
       },
       {
+        "id": "a4ca8c4f16446274",
+        "title": "Consistent Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2605.00161",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777867200000,
+        "summary": "arXiv:2605.00161v1 Announce Type: new Abstract: Diffusion language models (DLMs) are an attractive alternative to autoregressive models because they promise sublinear-time, parallel generation, yet practical gains remain elusive as high-quality samples still demand hundreds of refinement steps. In continuous domains, consistency training along the probability-flow ODE is a popular recipe to accele",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7718
+      },
+      {
+        "id": "c47a5808cc28407b",
+        "title": "Towards A Generative Protein Evolution Machine with DPLM-Evo",
+        "url": "https://arxiv.org/abs/2605.00182",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777867200000,
+        "summary": "arXiv:2605.00182v1 Announce Type: new Abstract: Proteins are shaped by gradual evolution under biophysical and functional constraints. Protein language models learn rich evolutionary constraints from large-scale sequences, and discrete diffusion-based protein language models~(\\eg, DPLMs) are promising for both understanding and generation. However, existing DPLMs typically rely on masking-based ab",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7718
+      },
+      {
         "id": "0ff5a56e94c712fe",
         "title": "Free Energy Surface Sampling via Reduced Flow Matching",
         "url": "https://arxiv.org/abs/2605.00337",
@@ -3727,38 +3757,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1291
-      },
-      {
-        "id": "52be61b3a5b7920c",
-        "title": "Hypergraph and Latent ODE Learning for Multimodal Root Cause Localization in Microservices",
-        "url": "https://arxiv.org/abs/2605.00351",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777867200000,
-        "summary": "arXiv:2605.00351v1 Announce Type: new Abstract: Root cause localization in cloud native microservice systems requires modeling complex service dependencies, irregular temporal dynamics, and heterogeneous observability data. We present HyperODE RCA, a unified framework that combines hypergraph attention learning, latent ordinary differential equations, and multimodal cross attention fusion for fine",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1291
-      },
-      {
-        "id": "491b54777fe1fa4c",
-        "title": "What Physics do Data-Driven MoCap-to-Radar Models Learn?",
-        "url": "https://arxiv.org/abs/2605.00018",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777867200000,
-        "summary": "arXiv:2605.00018v1 Announce Type: new Abstract: Data-driven MoCap-to-radar models generate plausible micro-Doppler spectrograms, but do they actually learn the underlying physics? We introduce a physics-based interpretability framework to answer this question via two proposed complementary metrics: one measures alignment between model predictions and the physics-derived Doppler frequency, while th",
-        "tags": [
-          "cs.lg",
-          "eess.sp"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0455
       }
     ]
   },
