@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-04T11:29:41.267278+00:00",
+  "generated_at": "2026-05-04T11:52:58.680180+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1da929dd95bf880b",
+        "title": "Amazon opens up its logistics networks to any business",
+        "url": "https://www.engadget.com/2163550/amazon-opens-up-its-logistics-network/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1777894485000,
+        "summary": "The first to sign up are P&G, 3M, Lands' End and American Eagle.",
+        "tags": [
+          "amazon"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.6999
+      },
       {
         "id": "dac8762f8d1969a1",
         "title": "Android Auto is apparently prepping home screen widgets, and I'll be installing them immediately",
@@ -947,29 +962,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7876
-      },
-      {
-        "id": "b2d90c52183d65da",
-        "title": "This tiny, magnetic e-reader could stop you from doomscrolling",
-        "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-        "source": "TechCrunch",
-        "lane": "gadgets",
-        "published_ts": 1777813200000,
-        "summary": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
-        "tags": [
-          "hardware",
-          "gadgets",
-          "ereader",
-          "review",
-          "reviews",
-          "evergreens"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7438
       }
     ],
     "innovation": [
+      {
+        "id": "d9a2513b153c83f6",
+        "title": "16% of Parents Help Their Children Bypass Online Age Checks, Study Finds. One 15-Year-Old Just Uses a Fake Moustache",
+        "url": "https://news.slashdot.org/story/26/05/04/0227227/16-of-parents-help-their-children-bypass-online-age-checks-study-finds-one-15-year-old-just-uses-a-fake-moustache?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1777894440000,
+        "summary": "The Independent reports that \"more than a third of children in the UK have found a way around age verification measures\" for social media sites and other online platforms. And new research from online safety organisation Internet Matters \"suggests one in six parents have helped their child to get past age verification checks, with children reporting 'tricking' platforms into thinking they are olde",
+        "tags": [
+          "uk"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0436
+      },
       {
         "id": "af7c295e3133fb25",
         "title": "Moving to mainframe can be cheaper than sticking with VMware: Gartner",
@@ -1015,6 +1025,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8473
+      },
+      {
+        "id": "96132de2cc349737",
+        "title": "Why are so many schools making pupils learn on screens? | Schools | The Guardian",
+        "url": "https://www.reddit.com/r/technology/comments/1t3e4dq/why_are_so_many_schools_making_pupils_learn_on/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777891730000,
+        "summary": "submitted by /u/story_brewer [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9306
       },
       {
         "id": "2e5b0c794749f1c0",
@@ -1274,6 +1299,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0319
+      },
+      {
+        "id": "e56a08d0fd7e96bb",
+        "title": "Sources: SoftBank plans to make lithium- and cobalt-free data center batteries in Japan as soon as FY 2027, as Japan tries to cut its reliance on Chinese metals (Natsuki Yamamoto/Nikkei Asia)",
+        "url": "https://www.techmeme.com/260504/p1#a260504p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777867801000,
+        "summary": "Natsuki Yamamoto / Nikkei Asia: Sources: SoftBank plans to make lithium- and cobalt-free data center batteries in Japan as soon as FY 2027, as Japan tries to cut its reliance on Chinese metals — TOKYO — Japan's SoftBank Group will seek to make batteries that do not require expensive lithium and cobalt in Japan …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8619
       },
       {
         "id": "fc51553182edfd45",
@@ -1847,59 +1885,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8854
-      },
-      {
-        "id": "38a8b982f74c1847",
-        "title": "I built the perfect self-hosted eBook library for $30 (and it syncs everywhere)",
-        "url": "https://www.makeuseof.com/i-built-the-perfect-self-hosted-ebook-library-for-30-and-it-syncs-everywhere/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777829417000,
-        "summary": "Discover the unexpected choice that could revolutionize your digital library, and how it can protect your cherished books from disappearing.",
-        "tags": [
-          "productivity",
-          "ereader",
-          "ebooks"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8488
-      },
-      {
-        "id": "70201669a79cf2f6",
-        "title": "Raspberry Pi projects fail for the same three reasons, and none of them are what you'd think",
-        "url": "https://www.makeuseof.com/raspberry-pi-projects-fail-same-reasons-none-what-youd-think/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777827618000,
-        "summary": "It’s not the Pi—it’s how we use it.",
-        "tags": [
-          "technology explained",
-          "raspberry pi",
-          "diy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8485
-      },
-      {
-        "id": "a341066400b10088",
-        "title": "Largest electric autonomous container ship begins commercial service",
-        "url": "https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1777827494000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:7"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0331
       }
     ],
     "ai": [
+      {
+        "id": "f9275998df5541e2",
+        "title": "AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory — leaked PassMark benchmarks suggest modest update over Strix Halo",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1777894735000,
+        "summary": "The Ryzen AI Max+ PRO 495 appears to retain the same core configuration as its predecessor while adding more unified memory and slightly better performance.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0214
+      },
+      {
+        "id": "7449a44ea551e5f2",
+        "title": "How AI tools such as Naver's Talking Buddy and SuperBrain are helping South Korea's elderly ease loneliness, detect emergencies, and slow cognitive decline (Choe Sang-Hun/New York Times)",
+        "url": "https://www.techmeme.com/260504/p11#a260504p11",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777894502000,
+        "summary": "Choe Sang-Hun / New York Times: How AI tools such as Naver's Talking Buddy and SuperBrain are helping South Korea's elderly ease loneliness, detect emergencies, and slow cognitive decline — In the world's fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0738
+      },
       {
         "id": "333fccd0dbfb9a4b",
         "title": "'The inbox is no longer the only front line': Report claims vast majority of phishing attacks are now generated by AI - here's how to stay safe",
@@ -2784,44 +2801,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1134
-      },
-      {
-        "id": "bea77b38279f733c",
-        "title": "Separating what AI does well from what code does well",
-        "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777832096000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1181
-      },
-      {
-        "id": "ba65c7e070d067f7",
-        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-        "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777831209000,
-        "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-        "tags": [
-          "ai",
-          "biotech & health",
-          "beth israel",
-          "harvard medical school",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7927
       }
     ],
     "science": [
+      {
+        "id": "2ab3c4e82c656bf9",
+        "title": "Scientists use lasers to determine the age of sharks",
+        "url": "https://phys.org/news/2026-05-scientists-lasers-age-sharks.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777894803000,
+        "summary": "Not many scientific studies sound like a Bond film, but ours really does involve lasers, sharks and doctors (of research, not the evil kind).",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
+      {
+        "id": "421cc44641af443c",
+        "title": "Nocturnal migratory birds follow rhythm of the moon, study shows",
+        "url": "https://phys.org/news/2026-05-nocturnal-migratory-birds-rhythm-moon.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777894801000,
+        "summary": "Moonlight determines when the red-necked nightjar feeds, migrates and raises its young. A groundbreaking long-term study from Lund University shows how the migratory bird's entire annual cycle follows the moon's rhythm.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
       {
         "id": "5dc6ff513a59cf47",
         "title": "A simple filter swap could advance marine eDNA biomonitoring",
@@ -3708,37 +3720,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9609
-      },
-      {
-        "id": "90f2866c027b4e1f",
-        "title": "New Lithium-Plasma Engine Passes Key Mars Propulsion Test",
-        "url": "https://science.slashdot.org/story/26/05/02/0017222/new-lithium-plasma-engine-passes-key-mars-propulsion-test?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1777705200000,
-        "summary": "NASA engineers have tested a next-generation lithium-plasma electric propulsion system that reached 120 kilowatts, a new U.S. record and about 25 times the power of the electric thrusters on NASA's Psyche spacecraft. \"Designing and building these thrusters over the last couple of years has been a long lead-up to this first test,\" said James Polk, who is a senior research scientist at NASA Jet Prop",
-        "tags": [
-          "mars",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0483
-      },
-      {
-        "id": "abc76dced1ddf491",
-        "title": "NASA Laser Terminal enhances views during Artemis II mission",
-        "url": "https://phys.org/news/2026-05-nasa-laser-terminal-views-artemis.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777682401000,
-        "summary": "Millions of people watched the historic launch of Artemis II and were captivated by the mission's 10-day journey around the moon as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen ventured farther into space than any human before. Part of the public's ability to experience the mission in high-definition was due to laser commu",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0932
       }
     ]
   },
