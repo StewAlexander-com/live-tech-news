@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-04T00:06:07.153734+00:00",
+  "generated_at": "2026-05-04T01:06:23.411459+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "87287a1e62d9ea28",
+        "title": "The US has banned the world’s best drones. It has not figured out how to make them.",
+        "url": "https://thenextweb.com/news/us-drone-dji-ban-supply-chain",
+        "source": "The Next Web",
+        "lane": "gadgets",
+        "published_ts": 1777851229000,
+        "summary": "Skydio, the largest American drone manufacturer, announced in late April that it would invest $3.5 billion over five years to expand US drone production, open a factory five times larger than its current facility, create more than 2,000 direct jobs and 3,000 supplier jobs, and build a domestic component supply chain through an initiative it […] This story continues at The Next Web",
+        "tags": [
+          "drones",
+          "united states",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8737
+      },
       {
         "id": "8eb64882ebf8787a",
         "title": "MacBook Pro M4 vs Mac Pro M2: which Mac is best for you?",
@@ -955,24 +972,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8476
-      },
-      {
-        "id": "864cd74e51b17727",
-        "title": "Connecticut lawmakers approve bill for cell phone ban in schools — but critics argue that having different rules for adults and students is ‘not good role modeling at all’",
-        "url": "https://www.reddit.com/r/technology/comments/1t2c8fo/connecticut_lawmakers_approve_bill_for_cell_phone/",
-        "source": "Reddit r/technology",
-        "lane": "gadgets",
-        "published_ts": 1777785056000,
-        "summary": "submitted by /u/lurker_bee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9258
       }
     ],
     "innovation": [
+      {
+        "id": "6b1ce30514264164",
+        "title": "X, the Platform of Free Speech",
+        "url": "https://bsky.app/profile/gilduran.com/post/3mky5taqg3222",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1777853721000,
+        "summary": "Gil Durán, posting on Bluesky: It’s official! I’m permanently banned from X for tweeting “TLDR: Fascism.” (appeal denied) “TLDR: Fascism” was Durán’s two-word response to this 1,000-word essay from Palantir describing their vision for a “Technological Republic”. (Alternative link to essay if you don’t want to visit x.com.) Getting perma-banned from Twitter/X by Elon Musk gives Durán a nice Streisa",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0625
+      },
       {
         "id": "0d379030c1dcfe82",
         "title": "GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive (Lauren Thomas/Wall Street Journal)",
@@ -1905,27 +1920,66 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0389
-      },
-      {
-        "id": "0067c0b42fe9386a",
-        "title": "Matching Transistors",
-        "url": "https://hackaday.com/2026/05/02/matching-transistors/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1777773608000,
-        "summary": "Transistors in some circuit configurations work together and, frequently, need to be matched. This is so common that you can sometimes find ICs that are just a pair of transistors …read more",
-        "tags": [
-          "classic hacks",
-          "bipolar junction transistor",
-          "transistor",
-          "transistor matching"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0767
       }
     ],
     "ai": [
+      {
+        "id": "b7efaa50b7b04386",
+        "title": "How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more (Terrence O'Brien/The Verge)",
+        "url": "https://www.techmeme.com/260503/p14#a260503p14",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777856463000,
+        "summary": "Terrence O'Brien / The Verge: How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more — The use of generative AI in pop music started almost as a gimmick. There was a sense of experimentalism to 2018's I AM AI …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0782
+      },
+      {
+        "id": "a9993a33185c924f",
+        "title": "Just in time for Labour Day, China makes it illegal to fire humans if AI takes their jobs",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/asia_tech_news_roundup/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777854784000,
+        "summary": "PLUS: Samsung cashes in on RAM prices; Booze from space fetches huge price; China's hyperscalers surge A Chinese court has ruled that it’s illegal to replace human workers with AI.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1219
+      },
+      {
+        "id": "480df5b3981e50dd",
+        "title": "OpenAI Introduces AI-Generated Pets for Its Codex App",
+        "url": "https://idle.slashdot.org/story/26/05/03/2354219/openai-introduces-ai-generated-pets-for-its-codex-app?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1777854540000,
+        "summary": "\"Vibe coding just got a whole lot more adorable,\" writes Engadget: OpenAI introduced AI-generated pets to the Codex app, its agentic tool that helps with coding. These \"optional animated companions\" don't do any coding themselves, but serve as a floating overlay that can tell you what Codex is working on, notify you when Codex completes a task or whether it needs your input on something. The new f",
+        "tags": [
+          "ai",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1205
+      },
+      {
+        "id": "d7beaae9575f3f45",
+        "title": "Big Tech cut 80,000 jobs and blamed AI — Experts say a real problem is that companies are 25% to 75% overstaffed",
+        "url": "https://www.reddit.com/r/technology/comments/1t31dic/big_tech_cut_80000_jobs_and_blamed_ai_experts_say/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1777851955000,
+        "summary": "submitted by /u/Adventurous-Host8062 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9998
+      },
       {
         "id": "b424755f21b871dc",
         "title": "AI Cameras are Being Deployed Across the Western US for Early Detection of Wildfires",
@@ -2789,70 +2843,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0965
-      },
-      {
-        "id": "f5efe505e0d27ebe",
-        "title": "Ask Slashdot: Are YouTube's Subtitles 'Appallingly Bad'?",
-        "url": "https://news.slashdot.org/story/26/05/02/1914208/ask-slashdot-are-youtubes-subtitles-appallingly-bad?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1777761240000,
-        "summary": "Long-time Slashdot reader Anne Thwacks frequently uses YouTube's subtitles \"not to disturb others in the room, or because my hearing is not very good.\" But they say there's a new problem. \"The subtitling is terrible!\" Almost every sentence has a huge error. Proper names are more often wrong than right. Non-English place names are almost always mangled to barely recognizable. And no effort whatsoev",
-        "tags": [
-          "youtube"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0479
-      },
-      {
-        "id": "5156641e1b830e51",
-        "title": "China’s $1 Billion Robot Army Is Replacing Human Maintenance Crews with 8,500 AI Robots",
-        "url": "https://www.reddit.com/r/technology/comments/1t23gwd/chinas_1_billion_robot_army_is_replacing_human/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1777760045000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0103
-      },
-      {
-        "id": "54a70621393bfc2d",
-        "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-        "url": "https://github.com/mahimairaja/voiceai",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777759395000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0947
-      },
-      {
-        "id": "a77a218d1114ba26",
-        "title": "AI-generated actors and scripts are now ineligible for Oscars",
-        "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777758898000,
-        "summary": "Bad news for Tilly Norwood.",
-        "tags": [
-          "ai",
-          "media & entertainment",
-          "academy awards",
-          "academy of motion picture arts and sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8075
       }
     ],
     "science": [
