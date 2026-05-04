@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-04T18:01:41.250744+00:00",
+  "generated_at": "2026-05-04T18:11:20.377003+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "e3abdb7282dab591",
+        "title": "iOS 27 Will Let You Create Custom Wallet Passes",
+        "url": "https://www.macrumors.com/2026/05/04/ios-27-custom-wallet-passes/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1777917717000,
+        "summary": "Back in April, we highlighted a new add-your-own card Wallet app option coming in iOS 27, and now Bloomberg has shared additional information. At the time, we said Apple was working on a feature that would let users generate digital passes from scans of things like movie tickets, concert passes, and gym membership cards. The option will be called \"Create a Pass,\" and it will bridge the gap between",
+        "tags": [
+          "ios 27",
+          "apple wallet"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.997
+      },
       {
         "id": "df368ab8e7a70d50",
         "title": "A Shortwave Sensor to Monitor the Ionosphere",
@@ -952,24 +968,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8482
-      },
-      {
-        "id": "b0d38f6cbaaf6dc3",
-        "title": "Why software defects are now the biggest security threat",
-        "url": "https://www.techradar.com/pro/why-software-defects-are-now-the-biggest-security-threat",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777885562000,
-        "summary": "Why bugs and misconfigurations pose as much of a cyber threat as hackers.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9134
       }
     ],
     "innovation": [
+      {
+        "id": "2365ac653b71b4d3",
+        "title": "Hackers are still exploiting the cPanel bug to gain control of thousands of websites",
+        "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1777917738000,
+        "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers keep targeting and hacking websites.",
+        "tags": [
+          "security",
+          "cpanel",
+          "cyberattack",
+          "cybersecurity",
+          "hackers",
+          "web hosting"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8055
+      },
       {
         "id": "64de78f3585a4356",
         "title": "The one Flatpak setting I change on every Linux machine — and why the default is wrong",
@@ -1079,6 +1100,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9145
+      },
+      {
+        "id": "3a3249f23e0cd592",
+        "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+        "url": "https://www.reddit.com/r/technology/comments/1t3o8sv/us_healthcare_marketplaces_shared_citizenship_and/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1777915188000,
+        "summary": "submitted by /u/zadzoud [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9344
       },
       {
         "id": "afb184b01448dc9c",
@@ -1870,42 +1907,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0476
-      },
-      {
-        "id": "c0fdb2aec1ef3625",
-        "title": "TagTinker Lets You Hack Electronic Shelf Labels",
-        "url": "https://hackaday.com/2026/05/04/tagtinker-lets-you-hack-electronic-shelf-labels/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1777892449000,
-        "summary": "Was there ever anything wrong with simple paper price labels? Absolutely not. And yet, the world invented the electronic price tag anyway. If you happen to come across some of …read more",
-        "tags": [
-          "misc hacks",
-          "e-paper",
-          "electronic shelf label"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0767
-      },
-      {
-        "id": "c5cd1f23e61e628b",
-        "title": "I've owned an OLED TV for years without burn-in — here's my three-step routine",
-        "url": "https://www.makeuseof.com/ive-hadoled-tv-for-years-burn-in-still-hasnt-happened/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777892417000,
-        "summary": "With simple tweaks, screen burn can easily be avoided on modern OLEDs.",
-        "tags": [
-          "entertainment",
-          "video"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8473
       }
     ],
     "ai": [
+      {
+        "id": "e4bf8dd7e2688647",
+        "title": "Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&D (Jack Clark/Import AI)",
+        "url": "https://www.techmeme.com/260504/p32#a260504p32",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1777918201000,
+        "summary": "Jack Clark / Import AI: Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&D — The first step towards recursive self improvement — Welcome to Import AI, a newsletter about AI research.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0795
+      },
       {
         "id": "b52369a07cf2ba5f",
         "title": "Anthropic Nears $1.5 Billion AI Joint Venture With Wall Street Firms",
@@ -2831,25 +2848,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9152
-      },
-      {
-        "id": "5ebc92059c81923a",
-        "title": "Toyota built a $10 billion private utopia—what’s going on in there?",
-        "url": "https://arstechnica.com/cars/2026/05/inside-toyotas-10b-private-utopia-big-ideas-few-people-cameras-everywhere/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777892431000,
-        "summary": "Woven City is a privacy nightmare but could be helpful to an OEM desperate to be more.",
-        "tags": [
-          "cars",
-          "features",
-          "cars",
-          "future",
-          "toyota"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9736
       }
     ],
     "science": [
