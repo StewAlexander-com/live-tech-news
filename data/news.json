@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-04T22:08:13.352783+00:00",
+  "generated_at": "2026-05-04T22:23:35.187327+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "fe0e6b98ae9600c7",
+        "title": "iOS 27 Might Let Users Create Custom Passes for Apple Wallet App",
+        "url": "https://www.cnet.com/tech/services-and-software/ios-27-might-let-users-create-custom-passes-via-the-wallet-app/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1777931422000,
+        "summary": "Apple Wallet lets you download boarding passes, concert tickets and more, but not all businesses support it.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8113
+      },
       {
         "id": "082ea4163006ceab",
         "title": "Elon Musk settles with the SEC for $1.5 million after years-long dispute over his Twitter investment",
@@ -927,24 +940,40 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9462
-      },
-      {
-        "id": "737596ec733b7176",
-        "title": "I just found the best Star Wars desk accessory at Amazon for Star Wars Day — and this replica has definitely 'got it where it counts, kid'",
-        "url": "https://www.techradar.com/pro/i-just-found-the-best-star-wars-desk-accessory-at-amazon-for-star-wars-day-and-this-replica-has-definitely-got-it-where-it-counts-kid",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777903500000,
-        "summary": "This detailed scale model Millennium Falcon desk lamp is on the Light Side.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8473
       }
     ],
     "innovation": [
+      {
+        "id": "7b9edbb3b3534e64",
+        "title": "U.S. government warns of severe CopyFail bug affecting major versions of Linux",
+        "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1777933292000,
+        "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and datacenters that rely on Linux.",
+        "tags": [
+          "security",
+          "cyberattacks",
+          "cybersecurity",
+          "linux"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7475
+      },
+      {
+        "id": "409e53dd04974c57",
+        "title": "Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle's stock closed up ~20% (Tanaya Macheel/CNBC)",
+        "url": "https://www.techmeme.com/260504/p41#a260504p41",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1777932904000,
+        "summary": "Tanaya Macheel / CNBC: Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle's stock closed up ~20% — Shares of Circle surged after lawmakers over the weekend struck a compromise on the market structure bill known as the CLARITY Act …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9973
+      },
       {
         "id": "b5544ae7886c48ed",
         "title": "I spent hours customizing Android to feel like Pixel and realized I should have just bought one",
@@ -1843,47 +1872,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.046
-      },
-      {
-        "id": "dcf63a2151add82a",
-        "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
-        "url": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1777908781000,
-        "summary": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
-        "tags": [
-          "social",
-          "acorn",
-          "at protocol",
-          "blacksky",
-          "bluesky",
-          "decentralized social media"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7437
-      },
-      {
-        "id": "3a9af13dec09d6fe",
-        "title": "This spicy religious drama came out of nowhere to become the biggest Netflix show on Earth",
-        "url": "https://www.makeuseof.com/spicy-religious-drama-biggest-netflix-show-unchosen/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777908618000,
-        "summary": "Unchosen is the latest Netflix show to explode out of nowhere. What about it is resonating?",
-        "tags": [
-          "streaming",
-          "unchosen",
-          "netflix",
-          "drama"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8443
       }
     ],
     "ai": [
+      {
+        "id": "4ddda6db93ad7d75",
+        "title": "AI-powered lab discovers brighter lead-free nanomaterials in 12 hours",
+        "url": "https://phys.org/news/2026-05-ai-powered-lab-brighter-free.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1777933202000,
+        "summary": "A new autonomous laboratory recently navigated through billions of potential material synthesis recipes to identify brighter, lead-free light-emitting nanomaterials in just 12 hours. The work could accelerate development of safer light-emitting nanoplatelets for use in applications ranging from photodetectors to the production of fuel from solar energy. A paper describing this work appears in Natu",
+        "tags": [
+          "nanomaterials"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1003
+      },
       {
         "id": "5c755784fd2f39f4",
         "title": "OpenAI, Google, and Microsoft Back Bill To Fund 'AI Literacy' In Schools",
@@ -1975,6 +1981,26 @@
         "paywall": true,
         "impact": "normal",
         "score": 0.8057
+      },
+      {
+        "id": "623c8fcd82593dda",
+        "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+        "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1777930717000,
+        "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
+        "tags": [
+          "ai",
+          "tech",
+          "anthropic claude",
+          "macos",
+          "notepad",
+          "vibe coding"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9857
       },
       {
         "id": "b2117a687da49d98",
@@ -2797,35 +2823,44 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8534
-      },
-      {
-        "id": "b38be0ebdd87a6d2",
-        "title": "How \"emotion AI\", the use of facial and sentiment analysis tools to track workers' moods, is seeping into white-collar jobs amid concerns over privacy and bias (Ellen Cushing/The Atlantic)",
-        "url": "https://www.techmeme.com/260504/p21#a260504p21",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777909201000,
-        "summary": "Ellen Cushing / The Atlantic: How “emotion AI”, the use of facial and sentiment analysis tools to track workers' moods, is seeping into white-collar jobs amid concerns over privacy and bias — The good news, for me at least, is that the computer thinks I have a nice personality.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0762
-      },
-      {
-        "id": "dce2e997ae4210fe",
-        "title": "SAP to acquire Dremio, an open data lakehouse provider, and Prior Labs, which it pledges to invest €1B in over four years, hoping to create a frontier AI lab (Larry Dignan/Constellation Research)",
-        "url": "https://www.techmeme.com/260504/p20#a260504p20",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777908301000,
-        "summary": "Larry Dignan / Constellation Research: SAP to acquire Dremio, an open data lakehouse provider, and Prior Labs, which it pledges to invest €1B in over four years, hoping to create a frontier AI lab — SAP said it will acquire Dremio, an open data lakehouse player, in a move that aims to use SAP Business Data Cloud combine SAP data with non-SAP data.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.071
       }
     ],
     "science": [
+      {
+        "id": "6b6d4b9644a1891e",
+        "title": "Want to predict wildfire severity? Research says look to the state of vegetation",
+        "url": "https://phys.org/news/2026-05-wildfire-severity-state-vegetation.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777933204000,
+        "summary": "Urbanization, climate change, and fire suppression practices are contributing to increased wildfire risk at the densely populated wildland-urban interface. These factors make fires more unpredictable and harder to manage. In January 2025, this was made devastatingly clear in Los Angeles, when massive wildfires engulfed entire hillsides and canyons, destroying neighborhoods and damaging surrounding",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0188
+      },
+      {
+        "id": "1959a88b857ede54",
+        "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+        "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1777932677000,
+        "summary": "Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's own lawsuit against Sam Altman continues to play out. A week before the Trump administration took over, the department […]",
+        "tags": [
+          "elon musk",
+          "law",
+          "news",
+          "policy",
+          "tech",
+          "twitter - x"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7889
+      },
       {
         "id": "4fe157239f386350",
         "title": "Giving voice to older homeless women navigating streets and shelters",
@@ -3698,36 +3733,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0173
-      },
-      {
-        "id": "2ab3c4e82c656bf9",
-        "title": "Scientists use lasers to determine the age of sharks",
-        "url": "https://phys.org/news/2026-05-scientists-lasers-age-sharks.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777894803000,
-        "summary": "Not many scientific studies sound like a Bond film, but ours really does involve lasers, sharks and doctors (of research, not the evil kind).",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0158
-      },
-      {
-        "id": "421cc44641af443c",
-        "title": "Nocturnal migratory birds follow rhythm of the moon, study shows",
-        "url": "https://phys.org/news/2026-05-nocturnal-migratory-birds-rhythm-moon.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777894801000,
-        "summary": "Moonlight determines when the red-necked nightjar feeds, migrates and raises its young. A groundbreaking long-term study from Lund University shows how the migratory bird's entire annual cycle follows the moon's rhythm.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0158
       }
     ]
   },
