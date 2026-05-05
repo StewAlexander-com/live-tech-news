@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:02:06.670368+00:00",
+  "generated_at": "2026-05-05T09:19:02.292724+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -948,6 +948,38 @@
     ],
     "innovation": [
       {
+        "id": "3a7fd3bdfcda570d",
+        "title": "Apple said to be talking to Intel and Samsung about building key device processors",
+        "url": "https://www.engadget.com/2164681/apple-said-to-be-talking-to-intel-and-samsung-about-building-key-device-processors/",
+        "source": "Engadget",
+        "lane": "innovation",
+        "published_ts": 1777971906000,
+        "summary": "Apple is concerned about its lack of supply chain flexibility.",
+        "tags": [
+          "apple"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7009
+      },
+      {
+        "id": "f6d0ae57bbbb9cef",
+        "title": "‘Frankly absurd’ — I reviewed the Keychron V1 Ultra 8K and loved its ridiculously epic 660-hour battery life and sky-high 8,000Hz max polling rate",
+        "url": "https://www.techradar.com/computing/keyboards/frankly-absurd-i-reviewed-the-keychron-v1-ultra-8k-and-loved-its-ridiculously-epic-660-hour-battery-life-and-sky-high-8-000hz-max-polling-rate",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1777971600000,
+        "summary": "The Keychron V1 Ultra 8K delivers an impressive feature set for its price, including 8,000Hz polling over wired and 2.4GHz wireless connections and hot-swappable Silk POM switches.",
+        "tags": [
+          "keyboards",
+          "computing",
+          "peripherals &amp; accessories"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9124
+      },
+      {
         "id": "fead76a49351cbad",
         "title": "Microsoft's bad obsession is showing up in shabby services and slipshod software. Here's proof",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/microsoft_opinion_column/",
@@ -1812,41 +1844,57 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7464
-      },
-      {
-        "id": "78aa01c55fa6ec7e",
-        "title": "DHS Demanded Google Surrender Data on Canadian’s Activity, Location Over Anti-ICE Posts",
-        "url": "https://www.reddit.com/r/technology/comments/1t3qxmg/dhs_demanded_google_surrender_data_on_canadians/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777920767000,
-        "summary": "submitted by /u/shikizen [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9421
-      },
-      {
-        "id": "9686b0be4e6b5f54",
-        "title": "Homebrew users are accidentally downloading malware instead of the real app",
-        "url": "https://www.makeuseof.com/how-one-fake-google-ad-can-silently-steal-your-macs-passwords/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1777920402000,
-        "summary": "It targets users of a popular Mac add-on.",
-        "tags": [
-          "apple",
-          "phishing",
-          "scams"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6714
       }
     ],
     "ai": [
+      {
+        "id": "8cc3c33a558dca75",
+        "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nhs_to_closesource_hundreds_of_repos/",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1777972507000,
+        "summary": "Healthcare giant's maintainers handed May deadline to enact the change The UK's National Health Service (NHS) is ordering all of its technology leaders to temporarily wall off the organization's open source projects over concerns relating to advanced AI and Anthropic's Mythos.…",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1326
+      },
+      {
+        "id": "0384c8e91152a420",
+        "title": "76% of UK organizations have faced deepfake attacks. Most weren’t ready",
+        "url": "https://www.techradar.com/pro/76-percent-of-uk-organizations-have-faced-deepfake-attacks-most-werent-ready",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1777971646000,
+        "summary": "As AI-driven attacks surge, organizations struggle to keep pace with growing threat complexity.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9126
+      },
+      {
+        "id": "609dbcca8d71eccf",
+        "title": "A blueprint for using AI to strengthen democracy",
+        "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+        "source": "MIT Tech Review AI",
+        "lane": "ai",
+        "published_ts": 1777971600000,
+        "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audience",
+        "tags": [
+          "artificial intelligence",
+          "ai",
+          "app",
+          "artificial intelligence",
+          "democracy",
+          "governing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0734
+      },
       {
         "id": "7572187a944497a2",
         "title": "Cutting costs with AI misses the point",
@@ -2731,58 +2779,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.966
-      },
-      {
-        "id": "03506cc75a91bc75",
-        "title": "How OpenAI delivers low-latency voice AI at scale",
-        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777923767000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:12"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3373
-      },
-      {
-        "id": "76418da8d1c179cc",
-        "title": "White House Considers Vetting A.I. Models Before They Are Released",
-        "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1777922302000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:27"
-        ],
-        "paywall": true,
-        "impact": "normal",
-        "score": 0.7777
-      },
-      {
-        "id": "da306305278e84cd",
-        "title": "Image AI models now drive app growth, beating chatbot upgrades",
-        "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777921969000,
-        "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-        "tags": [
-          "ai",
-          "apps",
-          "ai apps",
-          "chatgpt",
-          "gemini",
-          "image models"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8063
       }
     ],
     "science": [
