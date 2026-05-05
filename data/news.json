@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T19:52:53.996851+00:00",
+  "generated_at": "2026-05-05T19:58:45.055569+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1904,6 +1904,26 @@
     ],
     "ai": [
       {
+        "id": "a173206795fcd86c",
+        "title": "Microsoft gives up on Xbox Copilot AI",
+        "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1778010877000,
+        "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox […]",
+        "tags": [
+          "ai",
+          "gaming",
+          "microsoft",
+          "pc gaming",
+          "tech",
+          "xbox"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8542
+      },
+      {
         "id": "89adf8e9696371cb",
         "title": "Apple could let you pick a favorite AI model in iOS 27",
         "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
@@ -2835,26 +2855,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9099
-      },
-      {
-        "id": "81da03b6d1102059",
-        "title": "OpenAI is reportedly launching a phone for ChatGPT",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1777992840000,
-        "summary": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. According to Kuo, the phone will run on a \"customized version […]",
-        "tags": [
-          "ai",
-          "gadgets",
-          "news",
-          "openai",
-          "phones",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7822
       }
     ],
     "science": [
@@ -3762,20 +3762,21 @@
         "score": 1.0101
       },
       {
-        "id": "2ef0e91c93f56c13",
-        "title": "GEODE: Angle-Adaptive OOD Detection with Universal Scorer Compatibility",
-        "url": "https://arxiv.org/abs/2605.01063",
-        "source": "arXiv cs.LG",
+        "id": "f7e1f97c6c1c0b6a",
+        "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+        "url": "https://arxiv.org/abs/2605.00068",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1777953600000,
-        "summary": "arXiv:2605.01063v1 Announce Type: new Abstract: Outlier Exposure (OE) is among the strongest training-based OOD detectors on standard benchmarks but exhibits scorer-dependent tradeoffs (e.g., strong on MSP, weak on KNN) and requires curated auxiliary data. We show why OE works: its features sit at the same geometric locus as real near-OOD data, with the boundary-adjacent quartile driving nearly al",
+        "summary": "arXiv:2605.00068v1 Announce Type: cross Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper presents Human-in-the-Loop Meta Bayesian Optimization (HL-MBO), a framework that integrates expert knowledge with few-shot, uncertainty-aw",
         "tags": [
           "cs.lg",
-          "cs.cv"
+          "cs.ai",
+          "physics.plasm-ph"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7734
+        "impact": "high",
+        "score": 0.8337
       }
     ]
   },
