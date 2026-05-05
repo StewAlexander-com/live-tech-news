@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T21:49:11.313441+00:00",
+  "generated_at": "2026-05-05T22:01:33.283718+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -953,6 +953,19 @@
     ],
     "innovation": [
       {
+        "id": "e449f6295edf51c2",
+        "title": "Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates (Dan Goodin/Ars Technica)",
+        "url": "https://www.techmeme.com/260505/p53#a260505p53",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778018438000,
+        "summary": "Dan Goodin / Ars Technica: Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates — Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9997
+      },
+      {
         "id": "490c7f7e9dc6e3e5",
         "title": "EA reports Q4 net bookings up 3.6% YoY to $1.86B, vs. $2B est., weighed down by a post-launch drop-off in engagement for Battlefield 6 (Anhata Rooprai/Reuters)",
         "url": "https://www.techmeme.com/260505/p52#a260505p52",
@@ -977,6 +990,23 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9978
+      },
+      {
+        "id": "c05a779b30023f99",
+        "title": "The designer whose Tropicana rebrand crashed sales 20 per cent is now branding the US government. He has two months.",
+        "url": "https://thenextweb.com/news/us-chief-brand-architect-arnell-gebbia-government-design",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1778015390000,
+        "summary": "The United States government now has a chief brand architect. Peter Arnell, the designer whose four-decade career includes creating the DKNY brand identity, redesigning the Pepsi logo in a project accompanied by a 27-page strategy document that referenced the Mona Lisa and the Parthenon, and overseeing the Tropicana packaging redesign that caused a 20 per […] This story continues at The Next Web",
+        "tags": [
+          "government and policy",
+          "insider",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8852
       },
       {
         "id": "c59109b2adc4e3ca",
@@ -1858,37 +1888,57 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8723
-      },
-      {
-        "id": "672804309381dc5d",
-        "title": "Form launches a cheaper version of its smart swimming goggles",
-        "url": "https://www.engadget.com/2164698/form-smart-swim-2-lt/",
-        "source": "Engadget",
-        "lane": "innovation",
-        "published_ts": 1777989600000,
-        "summary": "Form Smart Swim 2 LT loses the heart-rate monitoring, keeps the rest.",
-        "tags": [
-          "wearables"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.695
-      },
-      {
-        "id": "5c8fa604ba07a56c",
-        "title": "Hachette, Macmillan, McGraw Hill, Elsevier, and Cengage, alongside novelist Scott Turow, file a class-action copyright lawsuit against Meta and Mark Zuckerberg (Alexandra Alter/New York Times)",
-        "url": "https://www.techmeme.com/260505/p24#a260505p24",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777989001000,
-        "summary": "Alexandra Alter / New York Times: Hachette, Macmillan, McGraw Hill, Elsevier, and Cengage, alongside novelist Scott Turow, file a class-action copyright lawsuit against Meta and Mark Zuckerberg — The class-action lawsuit accuses the tech giant and its founder and chief executive of infringing on authors' copyrights.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.984
       }
     ],
     "ai": [
+      {
+        "id": "d054de56068a7bf1",
+        "title": "I stopped being afraid of Linux terminal commands once Claude started explaining them",
+        "url": "https://www.makeuseof.com/using-claude-in-linux-for-terminal/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1778018418000,
+        "summary": "Learning Linux has been a ton of fun, and Claude has been surprisingly helpful along the way.",
+        "tags": [
+          "linux",
+          "linux mint",
+          "claude",
+          "linux commands"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8497
+      },
+      {
+        "id": "e39426f338071297",
+        "title": "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
+        "url": "https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1778018153000,
+        "summary": "Taegan Goddard, quoting the Financial Times last week: The Pentagon said President Trump’s Iran war has cost the United States at least $25 billion, driven primarily by the military’s use of munitions, the Financial Times reports. The New York Times had an interesting piece trying to put that number in context (gift link): $25 billion is similar to: The annual budget of NASA. Spending on military ",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.078
+      },
+      {
+        "id": "e0b549fe354076fe",
+        "title": "Apple will pay $250 million for failing to deliver its AI-powered Siri on time",
+        "url": "https://www.engadget.com/2165602/apple-will-pay-250-million-for-failing-to-deliver-its-ai-powered-siri-on-time/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778017905000,
+        "summary": "The proposed settlement is the result of a class action lawsuit filed in California.",
+        "tags": [
+          "ai",
+          "smartphones",
+          "apple"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7579
+      },
       {
         "id": "e7651620d04e4e82",
         "title": "Google Home’s Gemini AI can handle more complicated requests",
@@ -1981,6 +2031,23 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.805
+      },
+      {
+        "id": "a67e23872947a144",
+        "title": "AI-native spending surged 94 per cent. Traditional SaaS grew at eight. The enterprise software industry is watching the clock.",
+        "url": "https://thenextweb.com/news/saas-stagnation-ai-native-agentic-enterprise-spend",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1778015656000,
+        "summary": "The enterprise software industry spent two decades selling seats. Buy a licence for every employee who needs access, multiply by the number of employees, and the revenue model was as predictable as the quarterly earnings calls that reported it. Then AI agents arrived, and the arithmetic broke. In the first quarter of 2026, AI-native spending […] This story continues at The Next Web",
+        "tags": [
+          "insider",
+          "opinion",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9574
       },
       {
         "id": "c7241a2943c00155",
@@ -2771,73 +2838,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9982
-      },
-      {
-        "id": "a5134f5e0bd49c93",
-        "title": "Humane Ai Pin hacks turn the discontinued gadget into a standalone Android-powered gadget",
-        "url": "https://liliputing.com/humane-ai-pin-hacks-turn-the-discontinued-gadget-into-a-standalone-android-powered-gadget/",
-        "source": "Liliputing",
-        "lane": "ai",
-        "published_ts": 1778000885000,
-        "summary": "The Humane Ai Pin is a tiny wearable device that launched in 2024 and was discontinued less than a year later. With a microphone for voice input, a built-in camera, and a projector that displays information on your hand, it was designed as an AI companion device. And when it was canceled, it basically stopped […] The post Humane Ai Pin hacks turn the discontinued gadget into a standalone Android-p",
-        "tags": [
-          "news",
-          "ai pin",
-          "humane",
-          "humane ai pin",
-          "penumbraos"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1852
-      },
-      {
-        "id": "2d334a23b9bc0055",
-        "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
-        "url": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778000852000,
-        "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.",
-        "tags": [
-          "policy",
-          "elon musk",
-          "sec"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9696
-      },
-      {
-        "id": "bcbb586a836cf6b3",
-        "title": "Major publishers sue Meta for copyright infringement over AI training",
-        "url": "https://www.reddit.com/r/technology/comments/1t4llls/major_publishers_sue_meta_for_copyright/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778000756000,
-        "summary": "submitted by /u/mykesx [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9922
-      },
-      {
-        "id": "0f4200f69b8868aa",
-        "title": "ChatGPT's Latest Model Will Supposedly Give Less Annoying Answers",
-        "url": "https://www.cnet.com/tech/services-and-software/chatgpts-latest-model-gpt-5-5-instant/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778000467000,
-        "summary": "OpenAI says GPT-5.5 Instant will cut down on \"gratuitous emojis.\"",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8138
       }
     ],
     "science": [
+      {
+        "id": "fcc5407109c0ac55",
+        "title": "Planet 9 volunteers double known population of brown dwarfs",
+        "url": "https://phys.org/news/2026-05-planet-volunteers-population-brown-dwarfs.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778018404000,
+        "summary": "A new paper from NASA's Backyard Worlds: Planet 9 project announces that volunteers have essentially doubled the number of known brown dwarfs, with over 3,000 new discoveries made over the past 10 years since the project began. Brown dwarfs are balls of gas the size of Jupiter, less massive than stars. There's one for every three or four stars near the sun.",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "9db31764d69dd32c",
+        "title": "Close Juno flyby unlocks sharp new image of Jupiter moon Thebe",
+        "url": "https://phys.org/news/2026-05-juno-flyby-sharp-image-jupiter.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778018402000,
+        "summary": "NASA's Juno spacecraft captured this view of Thebe, the second largest of Jupiter's inner moons, during a close pass on May 1, 2026. The spacecraft's Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilometers) per pixel.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "668d4631bb1f42bf",
+        "title": "Watch as NASA's Curiosity Rover frees its drill from a rock",
+        "url": "https://phys.org/news/2026-05-nasa-curiosity-rover-frees-drill.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778017801000,
+        "summary": "This series of images shows NASA's Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm, and—after waving the arm and running the drill a few times—finally detached the rock. The imagery showing the entire process was captured by the black-and-white hazard cameras on the front of Curiosity's chassis and by navigation cameras on its mast (head).",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0162
+      },
       {
         "id": "f1259f7dbf28e5ed",
         "title": "Almost all plant-based meat alternatives contain mycotoxins, new research finds",
@@ -3703,51 +3751,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0069
-      },
-      {
-        "id": "4350d0c4d4f8e35f",
-        "title": "Political breakups of friendships, relationships, and family ties",
-        "url": "https://phys.org/news/2026-05-political-breakups-friendships-relationships-family.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777987204000,
-        "summary": "More than a third of Americans have lost relationships with friends, family members, romantic partners, or others due to political differences, according to a study. Mertcan Güngör and Peter Ditto examined survey data from thousands of American adults to explore the interpersonal consequences of political polarization in the United States. The findings are published in the journal PNAS Nexus.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9941
-      },
-      {
-        "id": "400bd378ff72d4f1",
-        "title": "New 'ecclesiastical' moth named after Pope Leo XIV",
-        "url": "https://phys.org/news/2026-05-ecclesiastical-moth-pope-leo-xiv.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777986007000,
-        "summary": "Distinguished by its striking colors and a name that carries the weight of a high ecclesiastical office, a new species of moth has been discovered in the rugged terrain of Greece. When researchers from the Tyrolean State Museum, the Finnish Museum of Natural History and the Bavarian State Collection of Zoology identified this unique insect in the White Mountains of Crete, they chose a name that re",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.016
-      },
-      {
-        "id": "2c35552687b338b4",
-        "title": "Heightened ICE enforcement harms U.S.-born workers, shrinks workforce, research suggests",
-        "url": "https://phys.org/news/2026-05-heightened-ice-born-workers-workforce.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777986001000,
-        "summary": "Heightened immigration enforcement during the second Trump administration has not expanded job opportunities for U.S.-born workers and is associated with a reduction of employment for U.S.-born men with no more than a high school degree, according to new CU Boulder research.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0159
       }
     ]
   },
