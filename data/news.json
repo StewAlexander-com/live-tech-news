@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T19:25:44.705222+00:00",
+  "generated_at": "2026-05-05T19:26:15.244041+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1894,6 +1894,19 @@
     ],
     "ai": [
       {
+        "id": "0a2446b1bd936e35",
+        "title": "Musk v. Altman: Greg Brockman testified about tense negotiations with Musk in 2017, saying \"he knows rockets, he knows electric cars\" but \"does not know AI\" (Bloomberg)",
+        "url": "https://www.techmeme.com/260505/p40#a260505p40",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778009101000,
+        "summary": "Bloomberg: Musk v. Altman: Greg Brockman testified about tense negotiations with Musk in 2017, saying “he knows rockets, he knows electric cars” but “does not know AI” — OpenAI President Greg Brockman testified that Elon Musk called a ChatGPT predecessor “stupid,” …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0796
+      },
+      {
         "id": "ba94284bedfef421",
         "title": "AI is showing up in court cases, but only a human jury can grapple with the moral weight of assessing guilt",
         "url": "https://phys.org/news/2026-05-ai-court-cases-human-jury.html",
@@ -2839,26 +2852,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9419
-      },
-      {
-        "id": "9c4ee68d929cb4c7",
-        "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-        "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777990850000,
-        "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-        "tags": [
-          "ai",
-          "venture",
-          "blackrock",
-          "elevenlabs",
-          "funding",
-          "nvidia"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7573
       }
     ],
     "science": [
@@ -3721,6 +3714,22 @@
         "score": 1.0101
       },
       {
+        "id": "434b2e40046ae209",
+        "title": "Learning to Race in Minutes: Infoprop Dyna on the Mini Wheelbot",
+        "url": "https://arxiv.org/abs/2605.01096",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.01096v1 Announce Type: new Abstract: Reinforcement Learning (RL) has the potential to enable robots with fast, nonlinear, and unstable dynamics to reach the limits of their performance. However, most recent advances rely on carefully designed physics-based simulators and domain randomization to achieve successful sim-to-real transfer within reasonable wall-clock time. In this work, we b",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.78
+      },
+      {
         "id": "f7e1f97c6c1c0b6a",
         "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
         "url": "https://arxiv.org/abs/2605.00068",
@@ -3764,22 +3773,6 @@
         "summary": "arXiv:2605.01046v1 Announce Type: new Abstract: LoRA adapts large language models (LLMs) by restricting updates to low-rank subspaces of pre-trained weights. While this substantially reduces training cost, the effectiveness of adaptation critically depends on which subspace is chosen at initialization: a poor initialization that allocates capacity to task-irrelevant directions can severely hinder ",
         "tags": [
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0398
-      },
-      {
-        "id": "2ef0e91c93f56c13",
-        "title": "GEODE: Angle-Adaptive OOD Detection with Universal Scorer Compatibility",
-        "url": "https://arxiv.org/abs/2605.01063",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1777953600000,
-        "summary": "arXiv:2605.01063v1 Announce Type: new Abstract: Outlier Exposure (OE) is among the strongest training-based OOD detectors on standard benchmarks but exhibits scorer-dependent tradeoffs (e.g., strong on MSP, weak on KNN) and requires curated auxiliary data. We show why OE works: its features sit at the same geometric locus as real near-OOD data, with the boundary-adjacent quartile driving nearly al",
-        "tags": [
-          "cs.lg",
-          "cs.cv"
         ],
         "paywall": false,
         "impact": "high",
