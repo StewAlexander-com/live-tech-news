@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T21:39:00.489015+00:00",
+  "generated_at": "2026-05-05T21:49:11.313441+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -953,6 +953,19 @@
     ],
     "innovation": [
       {
+        "id": "490c7f7e9dc6e3e5",
+        "title": "EA reports Q4 net bookings up 3.6% YoY to $1.86B, vs. $2B est., weighed down by a post-launch drop-off in engagement for Battlefield 6 (Anhata Rooprai/Reuters)",
+        "url": "https://www.techmeme.com/260505/p52#a260505p52",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778017501000,
+        "summary": "Anhata Rooprai / Reuters: EA reports Q4 net bookings up 3.6% YoY to $1.86B, vs. $2B est., weighed down by a post-launch drop-off in engagement for Battlefield 6 — Videogame publisher Electronic Arts (EA.O) missed quarterly bookings estimates on Tuesday, weighed down by a post-launch drop-off in engagement for its …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0786
+      },
+      {
         "id": "24694987a8470547",
         "title": "GlobalFoundries reports Q1 revenue up 3% YoY to $1.63B, in line with est., and forecasts Q2 revenue and adjusted earnings above estimates; GFS closes up 9.28% (Patrick Seitz/Investor's Business Daily)",
         "url": "https://www.techmeme.com/260505/p51#a260505p51",
@@ -1873,24 +1886,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.984
-      },
-      {
-        "id": "504d6861039f8d25",
-        "title": "Microsoft says it'll simpilify Windows 11's Edge browser by removing features like Sidebar, pledges to win back users",
-        "url": "https://www.reddit.com/r/technology/comments/1t4fy4t/microsoft_says_itll_simpilify_windows_11s_edge/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777988735000,
-        "summary": "submitted by /u/lurker_bee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9335
       }
     ],
     "ai": [
+      {
+        "id": "e7651620d04e4e82",
+        "title": "Google Home’s Gemini AI can handle more complicated requests",
+        "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1778017564000,
+        "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make Gemini for Home better […]",
+        "tags": [
+          "ai",
+          "google",
+          "news",
+          "smart home",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8545
+      },
+      {
+        "id": "159b20c8056e05c5",
+        "title": "Anthropic reportedly agrees to pay Google $200 billion for chips and cloud access",
+        "url": "https://www.engadget.com/2165585/anthropic-reportedly-agrees-to-pay-google-200-billion-for-chips-and-cloud-access/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778017241000,
+        "summary": "This five-year deal is one of many circular agreements keeping the AI sector afloat.",
+        "tags": [
+          "ai",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7582
+      },
       {
         "id": "be27488891d56f1f",
         "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
@@ -1908,6 +1941,26 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.853
+      },
+      {
+        "id": "b7890be2785bba33",
+        "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+        "url": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778015756000,
+        "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16zcrypto's new fund will stay the course.",
+        "tags": [
+          "crypto",
+          "tc",
+          "venture",
+          "a16zcrypto",
+          "crypto",
+          "crypto fund"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7993
       },
       {
         "id": "a9c17e97138c9a0e",
@@ -2782,50 +2835,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8138
-      },
-      {
-        "id": "d3e742a0f6e25d6e",
-        "title": "Google's Android Show Returns May 12 Ahead of I/O 2026",
-        "url": "https://www.cnet.com/tech/services-and-software/googles-android-show-returns-may-12-ahead-of-io-2026/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778000447000,
-        "summary": "Google's virtual Android event will arrive one week before I/O 2026, where the company is expected to spotlight Android, Gemini and its broader AI push.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8788
-      },
-      {
-        "id": "cee102d6a61fe6b1",
-        "title": "ServiceNow clears agents for landing with new AI control tower",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/servicenow_clears_agents_for_landing/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778000410000,
-        "summary": "ServiceNow acquisitions Veza and Traceloop join to monitor agents and AI workflows ServiceNow announced an expansion of its AI Control Tower, transforming what began last year as a governance dashboard into what the company now describes as a command center for managing AI assets across an entire enterprise, including those running outside ServiceNow's own platform.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1284
-      },
-      {
-        "id": "dc4f2c215a114638",
-        "title": "Oscars Bans AI Actors and Writing From Awards",
-        "url": "https://entertainment.slashdot.org/story/26/05/05/045215/oscars-bans-ai-actors-and-writing-from-awards?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1778000400000,
-        "summary": "The Academy has clarified that only human-performed acting and human-authored writing are eligible for Oscar nominations. The Oscars will not ban AI tools broadly, but says it will judge films based on the degree to which humans remain central to the creative work. The BBC reports: The Academy of Motion Picture Arts and Sciences [...], which controls the US film industry's most prestigious award, ",
-        "tags": [
-          "movies"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1284
       }
     ],
     "science": [
+      {
+        "id": "f1259f7dbf28e5ed",
+        "title": "Almost all plant-based meat alternatives contain mycotoxins, new research finds",
+        "url": "https://phys.org/news/2026-05-based-meat-alternatives-mycotoxins.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778017203000,
+        "summary": "New research into plant-based food and drinks has found a prevalence of mycotoxins—naturally occurring poisonous compounds produced by fungi—in hundreds of vegetarian and vegan products. A total of 212 plant-based meat alternatives (PMBAs) and plant-based beverages (PBBs) from UK shelves were tested—and all of them contained at least one of 19 mycotoxins, with multiple products containing more tha",
+        "tags": [
+          "molecular & computational biology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.017
+      },
+      {
+        "id": "c473c6ae9df1c702",
+        "title": "Biological invasions can cause severe animal suffering",
+        "url": "https://phys.org/news/2026-05-biological-invasions-severe-animal.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778017201000,
+        "summary": "Biological invasions occur when organisms such as animals and plants are introduced by people to regions of the world where they do not naturally occur. In these new locations, these organisms are referred to as \"alien species.\"",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.017
+      },
       {
         "id": "35578e25368dbb60",
         "title": "Digitizing microscope slides can uncover billions of fossils for natural history",
@@ -3706,40 +3748,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0159
-      },
-      {
-        "id": "baa069edc2c7ab6c",
-        "title": "Inside the lab where Ford is trying to crack the code on cheap EVs",
-        "url": "https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach",
-        "source": "The Verge",
-        "lane": "science",
-        "published_ts": 1777986000000,
-        "summary": "Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regarded as one of the more successful electric pickup trucks to date. The climate surrounding electric vehicles hasn't helped, either, between […]",
-        "tags": [
-          "cars",
-          "electric cars",
-          "ford",
-          "report",
-          "transportation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7888
-      },
-      {
-        "id": "07ecb8f768eaee85",
-        "title": "New publishing tool detects duplicate peer reviews in push against reviewer fraud",
-        "url": "https://phys.org/news/2026-05-publishing-tool-duplicate-peer-fraud.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777983603000,
-        "summary": "IOP Publishing (IOPP) has developed a machine-learning powered tool to help detect duplicate peer review reports, addressing a growing threat to research integrity in scholarly publishing.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0125
       }
     ]
   },
