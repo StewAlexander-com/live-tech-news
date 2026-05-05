@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-05-05T03:58:21.543176+00:00",
+  "generated_at": "2026-05-05T04:30:22.573246+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "4fc4c6fa8c9a5a3a",
+        "title": "Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction",
+        "url": "https://arxiv.org/abs/2605.00059",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00059v1 Announce Type: cross Abstract: Deep reinforcement learning (DRL) finds extensive application in autonomous drone navigation within complex, high-risk environments. However, its practical deployment faces a safety-exploration dilemma: soft penalty mechanisms encourage risky trial-and-error, while most constraint-based methods suffer degraded performance under sensor noise and int",
+        "tags": [
+          "cs.ro",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "ae0f0ee07baaf0e1",
+        "title": "AIDA-ReID: Adaptive Intermediate Domain Adaptation for Generalizable and Source-Free Person Re-Identification",
+        "url": "https://arxiv.org/abs/2605.00111",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00111v1 Announce Type: cross Abstract: Person re-identification (Re-ID) aims to match images of the same individual across non-overlapping camera views and remains challenging due to domain shifts caused by variations in illumination, background, camera characteristics, and population distributions. Although supervised models perform well under matched training and testing conditions, t",
+        "tags": [
+          "cs.cv",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
+      {
+        "id": "81efef5bb2920f3b",
+        "title": "CGM-JEPA: Learning Consistent Continuous Glucose Monitor Representations via Predictive Self-Supervised Pretraining",
+        "url": "https://arxiv.org/abs/2605.00933",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00933v1 Announce Type: new Abstract: Continuous Glucose Monitoring (CGM) can detect early metabolic subphenotypes (insulin resistance, IR; $\\beta$-cell dysfunction), but population-scale deployment faces two coupled problems. First, the same physiological state appears through multiple views (CGM time series, venous OGTT, Glucodensity summaries), so single-view representations fail to t",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
       {
         "id": "2dc7ed57ce74b5d2",
         "title": "Everyone should be grabbing this Anker 9-in-1 desktop charger while it's at its lowest price",
@@ -893,59 +941,92 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9989
-      },
-      {
-        "id": "6794c9b1037564d0",
-        "title": "The best Star Wars Day deals",
-        "url": "https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1777912158000,
-        "summary": "May the Fourth be with us all on this Star Wars Day. While things have been relatively quiet with the multimedia gold mine that is Star Wars, with just some murmurs about upcoming movies (The Mandalorian and Grogu excluded), a lone live-action show on the horizon, and a long way to the release of the […]",
-        "tags": [
-          "deals",
-          "entertainment",
-          "film",
-          "gadgets",
-          "star wars",
-          "verge shopping"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7883
-      },
-      {
-        "id": "8b654270a9b3ef57",
-        "title": "May the 4th Is Here and We've Got Deals and Announcements From Across the Galaxy",
-        "url": "https://www.cnet.com/news-live/star-wars-day-live/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1777912140000,
-        "summary": "Star Wars Day is here and with it comes fantastic deals, new products and sometimes new announcements. We will be here with you, picking the best of the bunch all day on May the 4th.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8116
-      },
-      {
-        "id": "00100ca8ba235a3f",
-        "title": "Facebook is annoying as hell but I'm not sure it's a public nuisance",
-        "url": "https://www.techradar.com/computing/social-media/facebook-is-annoying-as-hell-but-im-not-sure-its-a-public-nuisance",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1777911300000,
-        "summary": "New Mexico is calling Meta products a public nuisance and no one is certain what com es next.",
-        "tags": [
-          "social media",
-          "computing",
-          "internet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8472
       }
     ],
     "innovation": [
+      {
+        "id": "15185ee16f1cc33a",
+        "title": "Storing your files can be free with open-source Nextcloud Hub",
+        "url": "https://www.techradar.com/pro/software-services/storing-your-files-can-be-free-with-open-source-nextcloud-hub",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1777954500000,
+        "summary": "Nextcloud Hub is easy to install on your web-based server. Here are the steps.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8458
+      },
+      {
+        "id": "6c29b36c22f8deb4",
+        "title": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation",
+        "url": "https://arxiv.org/abs/2605.00438",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00438v1 Announce Type: new Abstract: Long-horizon robotic manipulation requires plans that are both logically coherent and geometrically grounded. Existing Vision-Language-Action policies usually hide planning in latent states or expose only one modality: text-only chain-of-thought encodes causal order but misses spatial constraints, while visual prediction provides geometric cues but o",
+        "tags": [
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "2eee1b82f8045477",
+        "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+        "url": "https://arxiv.org/abs/2605.00412",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00412v1 Announce Type: new Abstract: World models have recently re-emerged as a central paradigm for embodied intelligence, robotics, autonomous driving, and model-based reinforcement learning. However, current world model research is often dominated by three partially separated routes: 2D video-generative models that emphasize visual future synthesis, 3D scene-centric models that empha",
+        "tags": [
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
+      {
+        "id": "0d4852380365e4d1",
+        "title": "Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment",
+        "url": "https://arxiv.org/abs/2605.00022",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00022v1 Announce Type: cross Abstract: The rapid proliferation of large audio models (LAMs) demands efficient approaches for model comparison, yet comprehensive benchmarks are costly. To fill this gap, we investigate whether minimal subsets can reliably evaluate LAMs while reducing costs and data redundancy. Analyzing 10 subset selection methods with 18 audio models across 40 tasks cove",
+        "tags": [
+          "cs.cl",
+          "cs.ai",
+          "cs.sd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
+      {
+        "id": "6faf4eeb8c53cbad",
+        "title": "Sure About That Line? Approaching Confidence-Based, Real-Time Line Assignment in Reading Gaze Data",
+        "url": "https://arxiv.org/abs/2605.00033",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00033v1 Announce Type: cross Abstract: Remote and webcam-based eye tracking in multi-line reading suffers from various noise factors and layout ambiguity, precisely where real-time reading support needs reliable, per-fixation line assignment. Prior work largely addresses this challenge post hoc or by restricting behavior (e.g., disallowing re-reading), undermining interactive use. We pr",
+        "tags": [
+          "q-bio.nc",
+          "cs.ai",
+          "cs.hc",
+          "cs.lg",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
       {
         "id": "e82f6406b47a120a",
         "title": "Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US (Bloomberg)",
@@ -1791,81 +1872,204 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9483
-      },
-      {
-        "id": "9529d87a5673ea02",
-        "title": "Sources: Apple prepares a \"Create a Pass\" feature for iOS 27, which lets users take a QR code and generate a custom pass around it for concerts and other venues (Mark Gurman/Bloomberg)",
-        "url": "https://www.techmeme.com/260504/p31#a260504p31",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777917001000,
-        "summary": "Mark Gurman / Bloomberg: Sources: Apple prepares a “Create a Pass” feature for iOS 27, which lets users take a QR code and generate a custom pass around it for concerts and other venues — Apple Inc. is preparing a new “Create a Pass” feature for its next major iPhone software update …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0776
-      },
-      {
-        "id": "45b4a5f278de735b",
-        "title": "Forget GPUs — China unveils 2 ExaFLOPS supercomputer using only CPUs, packing 47,000 processors into 92 compute cabinets as it looks to supersede the US once again",
-        "url": "https://www.techradar.com/pro/forget-gpus-china-unveils-2-exaflops-supercomputer-using-only-cpu-packing-47-000-processors-into-92-compute-cabinets-as-it-looks-to-supercede-the-us-once-again",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1777917000000,
-        "summary": "China’s Lingsheng supercomputer aims for exascale performance using a CPU-only architecture, though its claims remain unverified for now.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8481
-      },
-      {
-        "id": "463a2cc5aba413b4",
-        "title": "U.S. military data left exposed at an a16z startup for 150 days",
-        "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1777916792000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:63"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0304
-      },
-      {
-        "id": "d008f8e05196851a",
-        "title": "Children are drawing moustaches on their faces to fool online age checks - and it's working",
-        "url": "https://www.reddit.com/r/technology/comments/1t3ozg6/children_are_drawing_moustaches_on_their_faces_to/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777916711000,
-        "summary": "submitted by /u/mepper [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8994
-      },
-      {
-        "id": "2e1bf55982dd43f5",
-        "title": "Ex-iRobot CEO Colin Angle launches Familiar Machines & Magic and unveils Familiar, a dog-like, \"emotionally intelligent\" robot that reacts to owner's feelings (Christopher Mims/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260504/p29#a260504p29",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1777915859000,
-        "summary": "Christopher Mims / Wall Street Journal: Ex-iRobot CEO Colin Angle launches Familiar Machines & Magic and unveils Familiar, a dog-like, “emotionally intelligent” robot that reacts to owner's feelings — The inventor behind the world-famous robot vacuum is now designing robots that form an emotional bond with their owners",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0761
       }
     ],
     "ai": [
+      {
+        "id": "0babe443c6b2f0ad",
+        "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+        "url": "https://arxiv.org/abs/2605.00060",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML real-time objects, 15,634 production records, formation tops, and perforations int",
+        "tags": [
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "b18d5a70c7cfc6c5",
+        "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+        "url": "https://arxiv.org/abs/2605.00073",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00073v1 Announce Type: new Abstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in this setting for three fundamental reasons: agents can strategically optimize against evaluation pr",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "2bc82ee4e890635d",
+        "title": "Causal Foundations of Collective Agency",
+        "url": "https://arxiv.org/abs/2605.00248",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00248v1 Announce Type: new Abstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with capabilities and goals distinct from those of any individual. More generally, determining when a group of agents can be viewed as a unified collective agent is a foundational question in the study of i",
+        "tags": [
+          "cs.ai",
+          "cs.gt",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "5d26addf71fe9e3d",
+        "title": "Agentic AI for Trip Planning Optimization Application",
+        "url": "https://arxiv.org/abs/2605.00276",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00276v1 Announce Type: new Abstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting factors such as travel time, energy consumption, and traffic conditions directly affect plan quality. Yet existing systems are largely designed for feasibility-oriented planning, and current benchmark",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "ee0959182bfeebe9",
+        "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+        "url": "https://arxiv.org/abs/2605.00300",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00300v1 Announce Type: new Abstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endpoint: the (provider, model, stock-keeping-unit) tuple at which a specific quantization, decoding strategy, region, and serving stack is exposed. We introduce TokenArena, a continuous benchmark that me",
+        "tags": [
+          "cs.ai",
+          "cs.dc",
+          "cs.lg",
+          "cs.pf"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "c3d425b6ec3aa2c2",
+        "title": "On the Role of Artificial Intelligence in Human-Machine Symbiosis",
+        "url": "https://arxiv.org/abs/2605.00440",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00440v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) has rendered the boundary between humanity and computational machinery increasingly ambiguous. In the presence of more interwoven relationships within human-machine symbiosis, the very notion of AI-generated information becomes difficult to define, as such information arises not from either humans or mach",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "d2df25e4d1f4e700",
+        "title": "Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling",
+        "url": "https://arxiv.org/abs/2605.00833",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00833v1 Announce Type: new Abstract: Agentopic is a novel agent-based workflow for explainable topic modeling that leverages the reasoning capabilities of Large Language Models (LLMs). Existing topic modeling approaches such as Latent Dirichlet Allocation (LDA) and BERTopic often lack transparency on how topics are assigned or grouped. Agentopic addresses this by using multiple agents t",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "a441472443d2f115",
+        "title": "From Euler to Dormand-Prince: ODE Solvers for Flow Matching Generative Models",
+        "url": "https://arxiv.org/abs/2605.00836",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00836v1 Announce Type: new Abstract: Sampling from Flow Matching generative models requires solving an ordinary differential equation (ODE) whose computational cost is dominated by neural network forward passes. We derive four classical ODE solvers -- Euler, Explicit Midpoint, Classical Runge-Kutta (RK4), and Dormand-Prince 5(4) -- from first principles via Taylor expansion, implement t",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "38b7cc40615407d8",
+        "title": "Fast Log-Domain Sinkhorn Optimal Transport with Warp-Level GPU Reductions",
+        "url": "https://arxiv.org/abs/2605.00837",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00837v1 Announce Type: new Abstract: Entropic regularized optimal transport (OT) via the Sinkhorn algorithm has become a fundamental tool in machine learning, yet existing implementations either suffer from numerical instability for small regularization parameters or incur significant overhead from deep learning frameworks. We present FastSinkhorn, a lightweight, native CUDA implementat",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "4e6707c7297bf19f",
+        "title": "StyleShield: Exposing the Fragility of AIGC Detectors through Continuous Controllable Style Transfer",
+        "url": "https://arxiv.org/abs/2605.00924",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00924v1 Announce Type: new Abstract: AI-generated content (AIGC) detectors are increasingly deployed in high-stakes settings such as academic integrity screening, yet their reliability rests on a fundamental paradox: as language models are trained on human-written corpora, the statistical boundary between AI and human writing will inevitably dissolve as models improve. Commercial incent",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "e822440c67653095",
+        "title": "PhaseNet++: Phase-Aware Frequency-Domain Anomaly Detection for Industrial Control Systems via Phase Coherence Graphs",
+        "url": "https://arxiv.org/abs/2605.00929",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00929v1 Announce Type: new Abstract: Multivariate time series anomaly detection in ICS has attracted growing attention due to the increasing threat of cyber-physical attacks on critical infrastructure. State-of-the-art methods model inter-sensor relationships from raw time-domain amplitude values, using graph neural networks, Transformers. However, these methods discard the phase spectr",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "aba5f3510c405dec",
+        "title": "Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design",
+        "url": "https://arxiv.org/abs/2605.00931",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00931v1 Announce Type: new Abstract: Federated learning (FL) is fundamentally a distributed optimization problem executed by communicating agents with local data, local computation, and partial system visibility. Once FL is viewed through that lens, hierarchy is not merely a scalability mechanism. It becomes the natural place to rethink how distributed optimization should be organized o",
+        "tags": [
+          "cs.lg",
+          "cs.dc",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
       {
         "id": "e27b0a4119ec8db9",
         "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -1898,6 +2102,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1237
+      },
+      {
+        "id": "5b57ea242234dfa8",
+        "title": "An LLM agent that runs on any Linux box",
+        "url": "https://getclaw.site/#demo",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1777950050000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:11"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0203
       },
       {
         "id": "12e5e48f070be083",
@@ -2602,203 +2822,105 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9518
-      },
-      {
-        "id": "a22573fc311333ab",
-        "title": "I stopped making messy research folders after Gemini did this instead",
-        "url": "https://www.makeuseof.com/stop-messy-folders-gemini-research/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1777919418000,
-        "summary": "Gemini turns scattered sources in Google Drive and Gmail into a clean report in minutes.",
-        "tags": [
-          "productivity",
-          "google gemini",
-          "google drive",
-          "gmail"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8459
-      },
-      {
-        "id": "e536a4a21f32eaa8",
-        "title": "Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away",
-        "url": "https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1777918839000,
-        "summary": "Sam Sabin, writing for Axios one year ago: Anthropic expects AI-powered virtual employees to begin roaming corporate networks in the next year, the company’s top security leader told Axios in an interview this week. [...] Virtual employees could be the next AI innovation hotbed, Jason Clinton, the company’s chief information security officer, told Axios. Agents typically focus on a specific, progr",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1572
-      },
-      {
-        "id": "8510289c4843d8de",
-        "title": "Musk tried to settle the OpenAI case two days before trial. Then he promised to make Brockman the most hated man in America.",
-        "url": "https://thenextweb.com/news/openai-trial-brockman-journals-nonprofit-settlement",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1777918690000,
-        "summary": "Elon Musk texted Greg Brockman two days before trial to ask about settling. Brockman suggested Musk drop all claims against the individuals. Musk replied: “By the end of this week, you and Sam will be the most hated men in America. If you insist, so it will be.” The exchange, disclosed in a court […] This story continues at The Next Web",
-        "tags": [
-          "insider",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8919
-      },
-      {
-        "id": "6e594bee485367da",
-        "title": "Anthropic co-founder explains why there's a 60%+ chance of AI systems autonomously building their successors by 2029 and the consequences of automated AI R&D (Jack Clark/Import AI)",
-        "url": "https://www.techmeme.com/260504/p32#a260504p32",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777918201000,
-        "summary": "Jack Clark / Import AI: Anthropic co-founder explains why there's a 60%+ chance of AI systems autonomously building their successors by 2029 and the consequences of automated AI R&D — The first step towards recursive self improvement — Welcome to Import AI, a newsletter about AI research.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0664
-      },
-      {
-        "id": "e4bf8dd7e2688647",
-        "title": "Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&D (Jack Clark/Import AI)",
-        "url": "https://www.techmeme.com/260504/p32#a260504p32",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777918201000,
-        "summary": "Jack Clark / Import AI: Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&D — The first step towards recursive self improvement — Welcome to Import AI, a newsletter about AI research.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
-      },
-      {
-        "id": "fdee676312e2d0fa",
-        "title": "I Resurrected My Favorite Childhood Games Using Gemini Vibe Coding",
-        "url": "https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1777917829000,
-        "summary": "Retro gaming can cost a fortune. I vibe coded \"demakes\" of my favorite games for free.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8092
-      },
-      {
-        "id": "b52369a07cf2ba5f",
-        "title": "Anthropic Nears $1.5 Billion AI Joint Venture With Wall Street Firms",
-        "url": "https://news.slashdot.org/story/26/05/04/1638217/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1777917600000,
-        "summary": "Anthropic is reportedly nearing a roughly $1.5 billion joint venture with Blackstone, Goldman Sachs, Hellman & Friedman, and other Wall Street firms to sell AI tools to private-equity-backed companies. \"The investors aim to create a company that acts as a consulting arm for Anthropic and helps teach businesses -- including the private-equity firms' portfolio companies -- how to incorporate AI acro",
-        "tags": [
-          "business",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1334
-      },
-      {
-        "id": "390c5ab8e0c11f75",
-        "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-        "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777917466000,
-        "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-        "tags": [
-          "biz & it",
-          "policy",
-          "ebay",
-          "gamestop"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9849
-      },
-      {
-        "id": "5029d7cee69b444b",
-        "title": "F1 in Miami: That's what it looks like when an upgrade works",
-        "url": "https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1777916825000,
-        "summary": "2026's Formula 1 championship now looks far from a foregone thing.",
-        "tags": [
-          "cars",
-          "formula 1"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9815
-      },
-      {
-        "id": "44c628fb5582ed27",
-        "title": "Intel taps Alex Katouzian, an ex-Qualcomm EVP, to lead Client Computing & Physical AI group, and names Pushkar Ranade as CTO, after serving on an interim basis (Dylan Martin/CRN)",
-        "url": "https://www.techmeme.com/260504/p30#a260504p30",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1777916402000,
-        "summary": "Dylan Martin / CRN: Intel taps Alex Katouzian, an ex-Qualcomm EVP, to lead Client Computing & Physical AI group, and names Pushkar Ranade as CTO, after serving on an interim basis — With the hiring of Alex Katouzian, who was responsible for mounting a new challenge against Intel's PC dominance …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0792
-      },
-      {
-        "id": "4bcb6c28da42b0e6",
-        "title": "Scientists unlock new way to engineer next-generation glass",
-        "url": "https://phys.org/news/2026-05-scientists-generation-glass.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1777916402000,
-        "summary": "Scientists have adapted a centuries-old principle of chemistry to fine-tune a new type of glass made from metal–organic frameworks (MOFs)—metal atoms connected by organic molecules—that efficiently trap gases like CO₂ and hydrogen and even capture water.",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "bb72235ceab2d4ae",
-        "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-        "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777913867000,
-        "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7964
-      },
-      {
-        "id": "d3758516f5e7be1c",
-        "title": "Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race",
-        "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1777913867000,
-        "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8063
       }
     ],
     "science": [
+      {
+        "id": "bcec14d24f5d0616",
+        "title": "Burned stone, child's bones, and lost jewelry hint at prehistoric mining camp high in the Pyrenees",
+        "url": "https://phys.org/news/2026-05-stone-child-bones-lost-jewelry.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1777953603000,
+        "summary": "In the past, scientists thought that prehistoric peoples only traveled briefly through high-altitude mountain areas, rather than staying to take advantage of their resources. But new evidence suggests that, starting about 5,500 years ago, a prehistoric community repeatedly climbed up to Cave 338, 2,235 meters above sea level in the Pyrenees, to collect and process malachite for copper—returning ma",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0101
+      },
+      {
+        "id": "f7e1f97c6c1c0b6a",
+        "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+        "url": "https://arxiv.org/abs/2605.00068",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00068v1 Announce Type: cross Abstract: Inertial Confinement Fusion (ICF) holds transformative promise for sustainable, near-limitless clean energy, yet remains constrained by prohibitively high costs and limited experimental opportunities. This paper presents Human-in-the-Loop Meta Bayesian Optimization (HL-MBO), a framework that integrates expert knowledge with few-shot, uncertainty-aw",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "physics.plasm-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.123
+      },
+      {
+        "id": "b4212123cb2d0e1f",
+        "title": "Linking spatial biology and clinical histology via Haiku",
+        "url": "https://arxiv.org/abs/2605.00925",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00925v1 Announce Type: new Abstract: Integrating molecular, morphological, and clinical data is essential for basic and translational biomedical research, yet systematic frameworks for jointly modeling these modalities remain limited. Here we present Haiku, a tri-modal contrastive learning model trained on multiplexed immunofluorescence (mIF). It comprises 26.7 million spatial proteomic",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
+      {
+        "id": "b111ad85032ec416",
+        "title": "Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning",
+        "url": "https://arxiv.org/abs/2605.01046",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.01046v1 Announce Type: new Abstract: LoRA adapts large language models (LLMs) by restricting updates to low-rank subspaces of pre-trained weights. While this substantially reduces training cost, the effectiveness of adaptation critically depends on which subspace is chosen at initialization: a poor initialization that allocates capacity to task-irrelevant directions can severely hinder ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
+      {
+        "id": "2ef0e91c93f56c13",
+        "title": "GEODE: Angle-Adaptive OOD Detection with Universal Scorer Compatibility",
+        "url": "https://arxiv.org/abs/2605.01063",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.01063v1 Announce Type: new Abstract: Outlier Exposure (OE) is among the strongest training-based OOD detectors on standard benchmarks but exhibits scorer-dependent tradeoffs (e.g., strong on MSP, weak on KNN) and requires curated auxiliary data. We show why OE works: its features sit at the same geometric locus as real near-OOD data, with the boundary-adjacent quartile driving nearly al",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
+      {
+        "id": "434b2e40046ae209",
+        "title": "Learning to Race in Minutes: Infoprop Dyna on the Mini Wheelbot",
+        "url": "https://arxiv.org/abs/2605.01096",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.01096v1 Announce Type: new Abstract: Reinforcement Learning (RL) has the potential to enable robots with fast, nonlinear, and unstable dynamics to reach the limits of their performance. However, most recent advances rely on carefully designed physics-based simulators and domain randomization to achieve successful sim-to-real transfer within reasonable wall-clock time. In this work, we b",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0398
+      },
       {
         "id": "08f831eaae77bdb9",
         "title": "Why endless scrolling gets harder to stop: Three drivers of problematic internet use revealed",
@@ -3618,94 +3740,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0181
-      },
-      {
-        "id": "c38d41568cdd15ab",
-        "title": "Necro-branding: Why are deceased celebrities like Michael Jackson still popular when dead?",
-        "url": "https://phys.org/news/2026-05-necro-branding-deceased-celebrities-michael.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777900801000,
-        "summary": "As \"Michael,\" a major biographical film on Michael Jackson, hits cinemas more than a decade and a half after the singer's death, a new study shows that dead artists' brands remain powerful long after they are gone.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0181
-      },
-      {
-        "id": "9e27f0c89470a052",
-        "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-        "url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
-        "source": "ScienceDaily Tech",
-        "lane": "science",
-        "published_ts": 1777900450000,
-        "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery—until now. Researchers have finally mapped their three-dimensional structure in unprecedented detail, uncovering hidden patterns in how electric charges are arranged at the nanoscale. The breakthrough not only challenges long-standing assumption",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0568
-      },
-      {
-        "id": "cb43d85f632004a3",
-        "title": "Clearing contamination from car interiors",
-        "url": "https://phys.org/news/2026-05-contamination-car-interiors.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777899603000,
-        "summary": "Under controlled conditions, Flinders University researchers are investigating third-hand contamination risk from methamphetamine use. Environmental health experts have found open windows and ventilation can reduce but not completely remove methamphetamine contamination on most hard surfaces of a car after an extended period.",
-        "tags": [
-          "materials science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0196
-      },
-      {
-        "id": "f375bc40ee8f9d78",
-        "title": "Chromatin tracking reveals two motion modes that help control gene expression",
-        "url": "https://phys.org/news/2026-05-chromatin-tracking-reveals-motion-modes.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777899601000,
-        "summary": "Gene expression is controlled, in part, by the interactions between genes and regulatory elements located along the genome. Those interactions depend on the ability of chromatin—a mix of DNA and proteins—to move around within a crowded space. In a new study, MIT researchers have measured chromatin movement at timescales ranging from hundreds of microseconds to hours, allowing them to rigorously qu",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1012
-      },
-      {
-        "id": "bef05dd8efdddf2d",
-        "title": "Close-in planets act as 'bouncers' to create rogue worlds",
-        "url": "https://phys.org/news/2026-05-planets-bouncers-rogue-worlds.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777898406000,
-        "summary": "Rogue planets sound like rare travelers among the stars, freed from the gravitational constraints of a host system, left to forever wander the interstellar void. But modern models suggest these free floating planets (FFPs) as they are technically known, are actually very common—19 times more common than planets beyond the \"snow line,\" which is the distance from the central star where it becomes co",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
-      },
-      {
-        "id": "20427fb1d9533534",
-        "title": "Live camel transportation improved by using food as an incentive in place of physical punishment",
-        "url": "https://phys.org/news/2026-05-camel-food-incentive-physical.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777898401000,
-        "summary": "Around the world, millions of camels are farmed for milk and meat while others are used in leisure activities like racing and riding. Yet the treatment of these animals as livestock can be harsh, especially during transport. New international research, led by Southern Cross University animal welfare expert Associate Professor Barbara Padalino and published in the journal Animals, shows that more h",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
       }
     ]
   },
