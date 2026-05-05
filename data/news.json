@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T13:12:30.151866+00:00",
+  "generated_at": "2026-05-05T13:17:08.743233+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1837,6 +1837,25 @@
     ],
     "ai": [
       {
+        "id": "23a8cc0797716cb2",
+        "title": "Researchers gaslit Claude into giving instructions to build explosives",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1777986788000,
+        "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, malicious code, and instructions for building explosives, and other prohibited […]",
+        "tags": [
+          "ai",
+          "anthropic",
+          "report",
+          "security",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8543
+      },
+      {
         "id": "a9586954d2e84b58",
         "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
         "url": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
@@ -2679,103 +2698,82 @@
         "score": 1.2239
       },
       {
-        "id": "0babe443c6b2f0ad",
-        "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-        "url": "https://arxiv.org/abs/2605.00060",
-        "source": "arXiv cs.AI",
+        "id": "d2df25e4d1f4e700",
+        "title": "Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling",
+        "url": "https://arxiv.org/abs/2605.00833",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1777953600000,
-        "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML real-time objects, 15,634 production records, formation tops, and perforations int",
+        "summary": "arXiv:2605.00833v1 Announce Type: new Abstract: Agentopic is a novel agent-based workflow for explainable topic modeling that leverages the reasoning capabilities of Large Language Models (LLMs). Existing topic modeling approaches such as Latent Dirichlet Allocation (LDA) and BERTopic often lack transparency on how topics are assigned or grouped. Agentopic addresses this by using multiple agents t",
         "tags": [
-          "cs.ai",
-          "cs.sy",
-          "eess.sy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.123
-      },
-      {
-        "id": "b18d5a70c7cfc6c5",
-        "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
-        "url": "https://arxiv.org/abs/2605.00073",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777953600000,
-        "summary": "arXiv:2605.00073v1 Announce Type: new Abstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in this setting for three fundamental reasons: agents can strategically optimize against evaluation pr",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.123
-      },
-      {
-        "id": "2bc82ee4e890635d",
-        "title": "Causal Foundations of Collective Agency",
-        "url": "https://arxiv.org/abs/2605.00248",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777953600000,
-        "summary": "arXiv:2605.00248v1 Announce Type: new Abstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with capabilities and goals distinct from those of any individual. More generally, determining when a group of agents can be viewed as a unified collective agent is a foundational question in the study of i",
-        "tags": [
-          "cs.ai",
-          "cs.gt",
-          "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.123
-      },
-      {
-        "id": "5d26addf71fe9e3d",
-        "title": "Agentic AI for Trip Planning Optimization Application",
-        "url": "https://arxiv.org/abs/2605.00276",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777953600000,
-        "summary": "arXiv:2605.00276v1 Announce Type: new Abstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting factors such as travel time, energy consumption, and traffic conditions directly affect plan quality. Yet existing systems are largely designed for feasibility-oriented planning, and current benchmark",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.123
-      },
-      {
-        "id": "ee0959182bfeebe9",
-        "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
-        "url": "https://arxiv.org/abs/2605.00300",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1777953600000,
-        "summary": "arXiv:2605.00300v1 Announce Type: new Abstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endpoint: the (provider, model, stock-keeping-unit) tuple at which a specific quantization, decoding strategy, region, and serving stack is exposed. We introduce TokenArena, a continuous benchmark that me",
-        "tags": [
-          "cs.ai",
-          "cs.dc",
           "cs.lg",
-          "cs.pf"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.123
+        "score": 0.9483
       },
       {
-        "id": "c3d425b6ec3aa2c2",
-        "title": "On the Role of Artificial Intelligence in Human-Machine Symbiosis",
-        "url": "https://arxiv.org/abs/2605.00440",
-        "source": "arXiv cs.AI",
+        "id": "a441472443d2f115",
+        "title": "From Euler to Dormand-Prince: ODE Solvers for Flow Matching Generative Models",
+        "url": "https://arxiv.org/abs/2605.00836",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1777953600000,
-        "summary": "arXiv:2605.00440v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) has rendered the boundary between humanity and computational machinery increasingly ambiguous. In the presence of more interwoven relationships within human-machine symbiosis, the very notion of AI-generated information becomes difficult to define, as such information arises not from either humans or mach",
+        "summary": "arXiv:2605.00836v1 Announce Type: new Abstract: Sampling from Flow Matching generative models requires solving an ordinary differential equation (ODE) whose computational cost is dominated by neural network forward passes. We derive four classical ODE solvers -- Euler, Explicit Midpoint, Classical Runge-Kutta (RK4), and Dormand-Prince 5(4) -- from first principles via Taylor expansion, implement t",
         "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.hc"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.123
+        "score": 0.9483
+      },
+      {
+        "id": "38b7cc40615407d8",
+        "title": "Fast Log-Domain Sinkhorn Optimal Transport with Warp-Level GPU Reductions",
+        "url": "https://arxiv.org/abs/2605.00837",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00837v1 Announce Type: new Abstract: Entropic regularized optimal transport (OT) via the Sinkhorn algorithm has become a fundamental tool in machine learning, yet existing implementations either suffer from numerical instability for small regularization parameters or incur significant overhead from deep learning frameworks. We present FastSinkhorn, a lightweight, native CUDA implementat",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9483
+      },
+      {
+        "id": "4e6707c7297bf19f",
+        "title": "StyleShield: Exposing the Fragility of AIGC Detectors through Continuous Controllable Style Transfer",
+        "url": "https://arxiv.org/abs/2605.00924",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00924v1 Announce Type: new Abstract: AI-generated content (AIGC) detectors are increasingly deployed in high-stakes settings such as academic integrity screening, yet their reliability rests on a fundamental paradox: as language models are trained on human-written corpora, the statistical boundary between AI and human writing will inevitably dissolve as models improve. Commercial incent",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9483
+      },
+      {
+        "id": "e822440c67653095",
+        "title": "PhaseNet++: Phase-Aware Frequency-Domain Anomaly Detection for Industrial Control Systems via Phase Coherence Graphs",
+        "url": "https://arxiv.org/abs/2605.00929",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1777953600000,
+        "summary": "arXiv:2605.00929v1 Announce Type: new Abstract: Multivariate time series anomaly detection in ICS has attracted growing attention due to the increasing threat of cyber-physical attacks on critical infrastructure. State-of-the-art methods model inter-sensor relationships from raw time-domain amplitude values, using graph neural networks, Transformers. However, these methods discard the phase spectr",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9483
       }
     ],
     "science": [
