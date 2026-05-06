@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T12:54:12.161752+00:00",
+  "generated_at": "2026-05-06T12:56:50.507477+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1943,6 +1943,19 @@
         "score": 1.0122
       },
       {
+        "id": "a7010d6d6d86acfa",
+        "title": "A profile of David Sacks, the White House's AI and crypto adviser since December 2024, who is ruthlessly devoted to self-interest and helped pass the GENIUS Act (George Packer/The Atlantic)",
+        "url": "https://www.techmeme.com/260506/p22#a260506p22",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778069402000,
+        "summary": "George Packer / The Atlantic: A profile of David Sacks, the White House's AI and crypto adviser since December 2024, who is ruthlessly devoted to self-interest and helped pass the GENIUS Act — How David Sacks and the new tech right went full MAGA and captured Washington — the courtship between Silicon Valley and MAGA …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0639
+      },
+      {
         "id": "e0ded5f8bb3b07b8",
         "title": "A profile of David Sacks, appointed as White House AI adviser in December 2024, who has a ruthless devotion to self-interest and helped pass the GENIUS Act (George Packer/The Atlantic)",
         "url": "https://www.techmeme.com/260506/p22#a260506p22",
@@ -2662,6 +2675,55 @@
         "score": 1.0788
       },
       {
+        "id": "2f8689f6aa331d9f",
+        "title": "An End-to-End Framework for Building Large Language Models for Software Operations",
+        "url": "https://arxiv.org/abs/2605.02906",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02906v1 Announce Type: new Abstract: In the field of software operations, Large Language Models (LLMs) have attracted increasing attention. However, existing research has not yet achieved efficient and effective end-to-end intelligent operations due to low-quality data, fragmented knowledge and insufficient learning. To explore the potential of LLMs in software operations, we propose Op",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9545
+      },
+      {
+        "id": "45b2b9a3c87df15a",
+        "title": "Agentic AI-Based Joint Computing and Networking via Mixture of Experts and Large Language Models",
+        "url": "https://arxiv.org/abs/2605.02911",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02911v1 Announce Type: new Abstract: Future sixth-generation (6G) mobile networks are envisioned to be equipped with a diverse set of powerful, yet highly specialized, optimization experts. Such a promising vision is concurrently expected to give rise to the need for scalable mechanisms that can select, combine, and orchestrate such experts based on high-level intent and uncertainty des",
+        "tags": [
+          "cs.lg",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9545
+      },
+      {
+        "id": "182f95bbb4733aca",
+        "title": "When Safety Geometry Collapses: Fine-Tuning Vulnerabilities in Agentic Guard Models",
+        "url": "https://arxiv.org/abs/2605.02914",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02914v1 Announce Type: new Abstract: A guard model fine-tuned on entirely benign data can lose all safety alignment -- not through adversarial manipulation, but through standard domain specialization. We demonstrate this failure across three purpose-built safety classifiers -- LlamaGuard, WildGuard, and Granite Guardian -- deployed as protection layers in agentic AI pipelines, and show ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9545
+      },
+      {
         "id": "3a907805e9b22e26",
         "title": "From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset",
         "url": "https://arxiv.org/abs/2605.02916",
@@ -2737,71 +2799,6 @@
           "cs.ai",
           "econ.gn",
           "q-fin.ec"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "347c13cdccace401",
-        "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
-        "url": "https://arxiv.org/abs/2605.00842",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.00842v1 Announce Type: new Abstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechanism remains unclear. To uncover the reason behind this phenomenon, we propose a geometric account based on the geometry of feature superposition. Because",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "4754582a1dcced95",
-        "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-        "url": "https://arxiv.org/abs/2605.00909",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.00909v1 Announce Type: new Abstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance. This study aims to optimize formation protocols for duration efficiency, targeting high-performance outcomes while minimizing the number of experiments to reduce resource consumption and accelerate discovery. Specifically,",
-        "tags": [
-          "cs.ai",
-          "cond-mat.mtrl-sci",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "4334af6aded9bda9",
-        "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
-        "url": "https://arxiv.org/abs/2605.01030",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.01030v2 Announce Type: new Abstract: We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level governance can be imposed without reducing internal computational expressivity. Using Interaction Trees in Rocq 8.19, we define a governance operator G that mediates all effectful directives, including memory access, external call",
-        "tags": [
-          "cs.ai",
-          "cs.lo",
-          "cs.pl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "f05209e040db571a",
-        "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
-        "url": "https://arxiv.org/abs/2605.01100",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.01100v1 Announce Type: new Abstract: This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoning to provide explainable defect diagnosis and mitigation guidance in manufacturing, using LPBF as a representative, safety-critical case study. The proposed ontology-integrated LLM-based decision support system for LPBF def",
-        "tags": [
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
