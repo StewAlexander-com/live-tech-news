@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-06T02:57:49.788083+00:00",
+  "generated_at": "2026-05-06T04:04:22.080229+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "56afa19cbee3a0f9",
+        "title": "Analytic Bridge Diffusions for Controlled Path Generation",
+        "url": "https://arxiv.org/abs/2605.02961",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02961v1 Announce Type: new Abstract: Most modern bridge-diffusion methods achieve finite-time transport by specifying an interpolation, Schr\\\"odinger-bridge, or stochastic-control objective and then learning the associated score or drift field with a neural network. In contrast, we identify a restricted but sufficiently broad and analytically solvable class in which the score, intermedi",
+        "tags": [
+          "cs.lg",
+          "cond-mat.stat-mech",
+          "cs.ai",
+          "cs.sy",
+          "eess.sy",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "c38bec20437b2803",
+        "title": "On the Invariants of Softmax Attention",
+        "url": "https://arxiv.org/abs/2605.02907",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02907v1 Announce Type: new Abstract: Softmax attention maps every query--key interaction into a probability distribution, but the underlying structure remains largely unexplored. We define the \\emph{energy field}, the row-centered attention logit, and show that it exhibits invariant properties across models, architectures, and inputs. Two classes of invariants emerge. \\emph{Mechanism-le",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
       {
         "id": "61b3d2bbfcc36585",
         "title": "Someone has built a gaming PC the size of a room, complete with giant fans and air conditioning for cool operation — and also a sauna for some reason",
@@ -904,41 +940,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8083
-      },
-      {
-        "id": "a5e851663c0cfc3f",
-        "title": "Samsung News adds short-form video to take on TikTok’s growing news dominance",
-        "url": "https://www.androidpolice.com/samsung-news-adds-short-form-video-to-take-on-tiktoks-growing-news-dominance/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1777996645000,
-        "summary": "Rolling out to Galaxy phones and tablets in the US and Canada",
-        "tags": [
-          "samsung galaxy",
-          "utilities",
-          "samsung galaxy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9931
-      },
-      {
-        "id": "281397916b52e24f",
-        "title": "The creator of Citizen Sleeper 2 is making two new games",
-        "url": "https://www.engadget.com/2165098/the-creator-of-citizen-sleeper-2-is-making-two-new-games/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1777996621000,
-        "summary": "One is a TTRPG, and the other an entirely new video game.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6991
       }
     ],
     "innovation": [
+      {
+        "id": "7ab2fb619b65e33d",
+        "title": "Brockman Rebuts Musk's Take On Startup's History, Recounts Secret Work For Tesla",
+        "url": "https://yro.slashdot.org/story/26/05/05/2259238/brockman-rebuts-musks-take-on-startups-history-recounts-secret-work-for-tesla?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778038200000,
+        "summary": "An anonymous reader quotes a report from CNBC: OpenAI President Greg Brockman concluded his testimony on Tuesday, where he largely rebutted Elon Musk's account of the early years of the startup and negotiations that occurred at the company. Brockman testified that he never made any commitments to Musk about the company's corporate structure, and he never heard anyone else make them. He emphasized ",
+        "tags": [
+          "court"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
       {
         "id": "25152c020db0564f",
         "title": "Coupang reports Q1 revenue up 8% YoY to $8.5B and a net loss of $266M following a 2025 Korean customer data breach, its largest loss since Q4 2021 (The Korea Herald)",
@@ -1863,24 +1882,262 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0787
-      },
-      {
-        "id": "2b3894e182bb03d5",
-        "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Risk",
-        "url": "https://www.reddit.com/r/technology/comments/1t4juo4/microsoft_edge_stores_passwords_in_process_memory/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1777997134000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8569
       }
     ],
     "ai": [
+      {
+        "id": "169fa9b493735859",
+        "title": "Source: Alphabet is in talks with Blackstone, KKR, and EQT to give their portfolio companies AI model access, after OpenAI's and Anthropic's JVs with PE firms (The Information)",
+        "url": "https://www.techmeme.com/260506/p1#a260506p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778040052000,
+        "summary": "The Information: Source: Alphabet is in talks with Blackstone, KKR, and EQT to give their portfolio companies AI model access, after OpenAI's and Anthropic's JVs with PE firms — Private equity firms Blackstone, KKR and EQT are in talks with Alphabet to get their portfolio companies access to Google's AI models …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0788
+      },
+      {
+        "id": "885dbb2262e24a1b",
+        "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+        "url": "https://arxiv.org/abs/2605.00839",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.00839v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabilities for efficiency, adaptability, and autonomy across industrial value chains. However, the deployment of AI and ML in industrial settings still faces critical challenges, including the complexity of industrial big data, ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "dc5ebd556bc1c906",
+        "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+        "url": "https://arxiv.org/abs/2605.00841",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.00841v1 Announce Type: new Abstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in European small and medium-sized enterprises (SMEs). An initial phase established expert-validated ESG baseline scores from a subset of the Flash Eurobarometer FL549 survey data. In the second phase, a scalable AI agent system, bui",
+        "tags": [
+          "cs.ai",
+          "econ.gn",
+          "q-fin.ec"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "347c13cdccace401",
+        "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+        "url": "https://arxiv.org/abs/2605.00842",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.00842v1 Announce Type: new Abstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechanism remains unclear. To uncover the reason behind this phenomenon, we propose a geometric account based on the geometry of feature superposition. Because",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "4754582a1dcced95",
+        "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
+        "url": "https://arxiv.org/abs/2605.00909",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.00909v1 Announce Type: new Abstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance. This study aims to optimize formation protocols for duration efficiency, targeting high-performance outcomes while minimizing the number of experiments to reduce resource consumption and accelerate discovery. Specifically,",
+        "tags": [
+          "cs.ai",
+          "cond-mat.mtrl-sci",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "4334af6aded9bda9",
+        "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
+        "url": "https://arxiv.org/abs/2605.01030",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.01030v2 Announce Type: new Abstract: We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level governance can be imposed without reducing internal computational expressivity. Using Interaction Trees in Rocq 8.19, we define a governance operator G that mediates all effectful directives, including memory access, external call",
+        "tags": [
+          "cs.ai",
+          "cs.lo",
+          "cs.pl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "f05209e040db571a",
+        "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
+        "url": "https://arxiv.org/abs/2605.01100",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.01100v1 Announce Type: new Abstract: This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoning to provide explainable defect diagnosis and mitigation guidance in manufacturing, using LPBF as a representative, safety-critical case study. The proposed ontology-integrated LLM-based decision support system for LPBF def",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "2f8689f6aa331d9f",
+        "title": "An End-to-End Framework for Building Large Language Models for Software Operations",
+        "url": "https://arxiv.org/abs/2605.02906",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02906v1 Announce Type: new Abstract: In the field of software operations, Large Language Models (LLMs) have attracted increasing attention. However, existing research has not yet achieved efficient and effective end-to-end intelligent operations due to low-quality data, fragmented knowledge and insufficient learning. To explore the potential of LLMs in software operations, we propose Op",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "45b2b9a3c87df15a",
+        "title": "Agentic AI-Based Joint Computing and Networking via Mixture of Experts and Large Language Models",
+        "url": "https://arxiv.org/abs/2605.02911",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02911v1 Announce Type: new Abstract: Future sixth-generation (6G) mobile networks are envisioned to be equipped with a diverse set of powerful, yet highly specialized, optimization experts. Such a promising vision is concurrently expected to give rise to the need for scalable mechanisms that can select, combine, and orchestrate such experts based on high-level intent and uncertainty des",
+        "tags": [
+          "cs.lg",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "182f95bbb4733aca",
+        "title": "When Safety Geometry Collapses: Fine-Tuning Vulnerabilities in Agentic Guard Models",
+        "url": "https://arxiv.org/abs/2605.02914",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02914v1 Announce Type: new Abstract: A guard model fine-tuned on entirely benign data can lose all safety alignment -- not through adversarial manipulation, but through standard domain specialization. We demonstrate this failure across three purpose-built safety classifiers -- LlamaGuard, WildGuard, and Granite Guardian -- deployed as protection layers in agentic AI pipelines, and show ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "3a907805e9b22e26",
+        "title": "From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset",
+        "url": "https://arxiv.org/abs/2605.02916",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02916v1 Announce Type: new Abstract: The development of AI-assisted Early Intensive Behavioral Intervention (EIBI) for Autism Spectrum Disorder (ASD) is severely constrained by data scarcity. Furthermore, while Applied Behavior Analysis (ABA) serves as the gold standard for clinical intervention, general-purpose Large Language Models (LLMs) struggle to strictly adhere to its standardize",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "4ad123f86bd7e477",
+        "title": "DeRelayL: Sustainable Decentralized Relay Learning",
+        "url": "https://arxiv.org/abs/2605.02935",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02935v1 Announce Type: new Abstract: In the era of big data, large-scale machine learning models have revolutionized various fields, driving significant advancements. However, large-scale model training demands high financial and computational resources, which are only affordable by a few technological giants and well-funded institutions. In this case, common users like mobile users, th",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "276bfa6ba8534a83",
+        "title": "A Framework for Exploring and Disentangling Intersectional Bias: A Case Study in Fetal Ultrasound",
+        "url": "https://arxiv.org/abs/2605.02942",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02942v1 Announce Type: new Abstract: Bias in medical AI is often framed as a problem of representation. However, in image-based tasks such as fetal ultrasound, performance disparities can arise even when representation is adequate, because predictive accuracy depends strongly on image quality. Image quality is shaped by acquisition conditions and operator expertise, as well as patient-d",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "69be755ac67f7385",
+        "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+        "url": "https://github.com/microsoft/vscode/issues/314311",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778037305000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:18"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0335
+      },
+      {
+        "id": "b733909f12069fb5",
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778037033000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:22"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.032
+      },
+      {
+        "id": "2c89420f333bf51a",
+        "title": "Nace.AI, which lets companies build specialized AI models tailored to their business' mission and language, raised a $21.5M seed led by Walden Catalyst (Chris Metinko/Axios)",
+        "url": "https://www.techmeme.com/260505/p63#a260505p63",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778037001000,
+        "summary": "Chris Metinko / Axios: Nace.AI, which lets companies build specialized AI models tailored to their business' mission and language, raised a $21.5M seed led by Walden Catalyst — Nace.AI, which lets businesses build specialized AI models, raised a $21.5 million seed led by Walden Catalyst, CEO Dos Baha tells Axios Pro exclusively.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0613
+      },
       {
         "id": "a00f8af06800908a",
         "title": "India orders infosec red alert in case Mythos sparks crime spree",
@@ -2574,261 +2831,122 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0771
-      },
-      {
-        "id": "bb8064aa2e925d99",
-        "title": "OpenAI Could Make 30 Million Phones Over the Next 2 Years, Report Says",
-        "url": "https://www.cnet.com/tech/services-and-software/openai-making-ai-phones-30-million-report/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778012546000,
-        "summary": "Sam Altman's company could reportedly begin production of the AI-focused phones in the first half of 2027.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8548
-      },
-      {
-        "id": "62c599b615872197",
-        "title": "Xbox CEO Asha Sharma says Xbox \"will begin winding down Copilot on mobile and will stop development of Copilot on console\" as part of a strategic shift (Jay Peters/The Verge)",
-        "url": "https://www.techmeme.com/260505/p43#a260505p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778012100000,
-        "summary": "Jay Peters / The Verge: Xbox CEO Asha Sharma says Xbox “will begin winding down Copilot on mobile and will stop development of Copilot on console” as part of a strategic shift — ﻿New Xbox CEO Asha Sharma continues to make her mark. … Xbox is “winding down Copilot on mobile” and …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9987
-      },
-      {
-        "id": "de953e408f32d79b",
-        "title": "Chemistry-aware AI can generate millions of plausible new molecules",
-        "url": "https://phys.org/news/2026-05-chemistry-aware-ai-generate-millions.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778011801000,
-        "summary": "Finding and developing new molecules is one of the great research endeavors of modern chemistry. From the development of new drugs to the creation of more sustainable materials, everything depends on finding new combinations of atoms with useful properties. Now, a research team from the Universitat Rovira i Virgili (URV) has developed an artificial intelligence tool capable of generating millions ",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0984
-      },
-      {
-        "id": "d54236a7a890a2cb",
-        "title": "'AI creates jobs': Nvidia CEO Jensen Huang once again says workers have nothing to fear",
-        "url": "https://www.techradar.com/pro/ai-creates-jobs-nvidia-ceo-jensen-huang-once-again-says-workers-have-nothing-to-fear",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778011800000,
-        "summary": "Nvidia CEO Jensen Huang says AI is the \"United States’ best opportunity to re-industrialize\".",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9154
-      },
-      {
-        "id": "2d6cd9f7d2721045",
-        "title": "Astera speaks softly and carries a big switch",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/nvlink_astera_big_swich/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778011507000,
-        "summary": "High-speed connectivity without NVLink baggage Astera Labs unveiled an alternative to Nvidia's NVSwitch for building rack-scale AI systems on Tuesday, claiming it will work with nearly any accelerator.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.129
-      },
-      {
-        "id": "2231d057d06fc245",
-        "title": "Microsoft gives up on Xbox Copilot AI / New Xbox CEO Asha Sharma continues to make her mark",
-        "url": "https://www.reddit.com/r/technology/comments/1t4qj5n/microsoft_gives_up_on_xbox_copilot_ai_new_xbox/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778011002000,
-        "summary": "submitted by /u/yourfavchoom [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.014
-      },
-      {
-        "id": "4c591ee1fbed0eed",
-        "title": "A chatbot told a state investigator it was a licensed psychiatrist. It gave a fake licence number. Pennsylvania just sued.",
-        "url": "https://thenextweb.com/news/pennsylvania-character-ai-chatbot-doctor-lawsuit",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778011001000,
-        "summary": "A state investigator in Pennsylvania created an account on Character.AI, opened a conversation with a chatbot called Emilie, and told it he was feeling depressed. Emilie responded that she was a psychiatrist, that she had attended Imperial College London’s medical school, that she was licensed to practise in Pennsylvania and the United Kingdom, and that […] This story continues at The Next Web",
-        "tags": [
-          "health tech",
-          "united states"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9531
-      },
-      {
-        "id": "a173206795fcd86c",
-        "title": "Microsoft gives up on Xbox Copilot AI",
-        "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778010877000,
-        "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked before taking over Xbox - to the Xbox […]",
-        "tags": [
-          "ai",
-          "gaming",
-          "microsoft",
-          "pc gaming",
-          "tech",
-          "xbox"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8542
-      },
-      {
-        "id": "553df9d984127197",
-        "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-        "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778010375000,
-        "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-        "tags": [
-          "biz & it",
-          "security",
-          "backdoors",
-          "daemon tools",
-          "supply chain attack"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.985
-      },
-      {
-        "id": "89adf8e9696371cb",
-        "title": "Apple could let you pick a favorite AI model in iOS 27",
-        "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778010330000,
-        "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expected for this fall. In addition to running […]",
-        "tags": [
-          "ai",
-          "apple",
-          "apple rumors",
-          "ios",
-          "macos",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8533
-      },
-      {
-        "id": "5c880821f3baa153",
-        "title": "Sources: Meta is building agentic tools, including an OpenClaw-like assistant powered by its new Muse Spark AI model to help users create AI bots (Hannah Murphy/Financial Times)",
-        "url": "https://www.techmeme.com/260505/p42#a260505p42",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778010301000,
-        "summary": "Hannah Murphy / Financial Times: Sources: Meta is building agentic tools, including an OpenClaw-like assistant powered by its new Muse Spark AI model to help users create AI bots — Social media platform invests in equivalent to OpenClaw that aims to seamlessly carry out everyday tasks for users",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0773
-      },
-      {
-        "id": "37b3bd7b36d59c97",
-        "title": "Anthropic wants Claude to play with money, unleashes finance agents",
-        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/anthropic_unleashes_finance_agents_claude/",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778010281000,
-        "summary": "Always bet on backpropagation If you've ever read Anthropic's disclaimer that responses generated by Claude may contain mistakes and thought, \"That's what I need to spice up financial operations,\" you're in luck.…",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0472
-      },
-      {
-        "id": "5aff756f1eefff5d",
-        "title": "Samsung showcases massive floating data center ship model that could house OpenAI's future ChatGPT as its Dallas-based partner claims 'speed to power is the new moat' and promises 1.5 GW of capacity within 36 months",
-        "url": "https://www.techradar.com/pro/samsung-showcases-massive-floating-data-center-ship-model-that-could-house-openais-future-chatgpt-as-its-dallas-based-partner-claims-speed-to-power-is-the-new-moat-and-promises-1-5-gw-of-capacity-within-36-months",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778010000000,
-        "summary": "Samsung and partners propose floating data centers to accelerate AI infrastructure deployment, though execution challenges and offshore risks remain unresolved.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9142
-      },
-      {
-        "id": "fc9436a35bf25b22",
-        "title": "Apple Intelligence will reportedly let you choose third-party AI models in iOS 27",
-        "url": "https://www.engadget.com/2165451/apple-intelligence-will-reportedly-let-you-choose-third-party-ai-models-in-ios-27/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778009891000,
-        "summary": "iPads and Macs are also expected to embrace external options for generative AI.",
-        "tags": [
-          "apple"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7567
-      },
-      {
-        "id": "ecf12346a5d2ce7b",
-        "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens",
-        "url": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778009688000,
-        "summary": "Apple has removed two desktop Macs from its online store as the global memory shortage continues. The Mac mini with 64GB of RAM is no longer available for purchase, nor is the M3 Ultra Mac Studio with 256GB RAM. The M3 Ultra Mac Studio is now available only in a 96GB RAM configuration, with higher-tier options eliminated. Both M3 ‌Mac Studio‌ and M4 Max ‌Mac Studio‌ models have delivery estimates ",
-        "tags": [
-          "featured",
-          "mac studio",
-          "mac mini"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9942
-      },
-      {
-        "id": "6f40a84ff6ca79d2",
-        "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
-        "url": "https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778009558000,
-        "summary": "Kennedy has made—and continues to make—many false claims about SSRIs.",
-        "tags": [
-          "health",
-          "antidepressants",
-          "depression",
-          "heroin",
-          "maha",
-          "robert f kennedy jr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9807
       }
     ],
     "science": [
+      {
+        "id": "b4cbf288654494e8",
+        "title": "A Cellular Doctrine of Morality: Intrinsic Active Precision and the Mind-Reality Overload Dilemma",
+        "url": "https://arxiv.org/abs/2605.01376",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.01376v1 Announce Type: new Abstract: Current AI systems, grounded in oversimplified neuroscience, risk eroding the distinction between truth and falsehood. They maximize reward by amplifying attention to information without intrinsic precision mechanisms to assess whether it is valid or worth attending to. This increases both the volume of information and the inherent biases in what the",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1324
+      },
+      {
+        "id": "a90f0de6da828a65",
+        "title": "Artificial Jagged Intelligence as Uneven Optimization Energy Allocation Capability Concentration, Redistribution, and Optimization Governance",
+        "url": "https://arxiv.org/abs/2605.01420",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.01420v1 Announce Type: new Abstract: Artificial Jagged Intelligence (AJI) denotes a recurring pattern in which large learning systems exhibit strong local capabilities while remaining weak or brittle in other domains. This paper develops a formal theory of AJI as uneven allocation of optimization pressure. We model training as a finite-budget process that distributes gradient-driven upd",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
+      {
+        "id": "e155ff6ac74152a4",
+        "title": "StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing",
+        "url": "https://arxiv.org/abs/2605.02904",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02904v1 Announce Type: new Abstract: We present StateSMix, a fully self-contained lossless compressor that couples an online-trained Mamba-style State Space Model (SSM) with sparse n-gram context mixing and arithmetic coding. The model is initialised from scratch and trained token-by-token on the file being compressed, requiring no pre-trained weights, no GPU, and no external dependenci",
+        "tags": [
+          "cs.lg",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
+      {
+        "id": "c692acf3850356f2",
+        "title": "Mitigating the reconstruction-detection trade-off in VAE-based unsupervised anomaly detection",
+        "url": "https://arxiv.org/abs/2605.02918",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02918v1 Announce Type: new Abstract: Variational autoencoders are widely used for unsupervised anomaly detection. Model selection however remains an open-question: to remain fully unsupervised, hyperparameters are often chosen to minimize the reconstruction error on normal samples. In this paper, we reveal a trade-off between reconstruction quality and anomaly detection among $\\beta$-VA",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
+      {
+        "id": "e3f9ee1871fa55ab",
+        "title": "PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting",
+        "url": "https://arxiv.org/abs/2605.02938",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02938v1 Announce Type: new Abstract: Reliable periodic patterns serve as a fundamental basis for accurate multivariate time series forecasting. However, existing methods either implicitly extract periodicity through complex model architectures (e.g., Transformers) with high computational overhead or overlook the intrinsic phase-amplitude coupling when modeling periodic components explic",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
+      {
+        "id": "c1d539b9f89bd18f",
+        "title": "Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges",
+        "url": "https://arxiv.org/abs/2605.02973",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02973v1 Announce Type: new Abstract: Modality translation is inherently under-constrained, as multiple cross-modal mappings may yield the same marginals. Recent work has shown that diffusion bridges are effective for this task. However, most existing approaches rely on fully paired datasets, thereby imposing a single data-driven constraint. We propose a diffusion-bridge framework that c",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
+      {
+        "id": "211b426d88790f8e",
+        "title": "Mixed-Precision Information Bottlenecks for On-Device Trait-State Disentanglement in Bipolar Agitation Detection",
+        "url": "https://arxiv.org/abs/2605.03039",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.03039v1 Announce Type: new Abstract: Continuous monitoring of bipolar disorder agitation via voice biomarkers requires disentangling stable speaker traits from volatile affective states on resource-constrained edge devices. We introduce MP-IB, the first framework to treat mixed-precision quantization as an information bottleneck for clinical trait-state separation. The core insight is t",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.hc",
+          "cs.sd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0485
+      },
       {
         "id": "edca2673b98f0b37",
         "title": "Microsoft Edge will load all your passwords into memory in plaintext, but Microsoft says it's not a security concern",
@@ -3624,116 +3742,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0184
-      },
-      {
-        "id": "38104bb2de43a8a5",
-        "title": "Indigenous Andeans have a digestive superpower—and it may be linked to potatoes",
-        "url": "https://phys.org/news/2026-05-indigenous-andeans-digestive-superpower-linked.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778001006000,
-        "summary": "Indigenous people of the Andes were the first to domesticate the potato, making the starch-rich crop a dietary staple for this high-altitude population long before it spread to the rest of the world. Today, their descendants in Peru carry the highest known numbers of a gene involved in starch digestion of any population in the world.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0182
-      },
-      {
-        "id": "a94e2a5f2ceacaa6",
-        "title": "Water and 13 hallmarks of complexity trace path from molecules to life",
-        "url": "https://phys.org/news/2026-05-hallmarks-complexity-path-molecules-life.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778001001000,
-        "summary": "Many properties of molecules cannot be predicted from the properties of the atoms they consist of. These properties only emerge when they are combined—a phenomenon known in science as \"emergence.\" A publication by Goethe University Frankfurt examines, from chemical, biological, and philosophical perspectives, how emergence and complexity are connected.",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0182
-      },
-      {
-        "id": "8fbaaed15f791e4c",
-        "title": "How Giant Tanks Of Fluid Could Help Support The Power Grid",
-        "url": "https://hackaday.com/2026/05/05/how-giant-tanks-of-fluid-could-help-support-the-power-grid/",
-        "source": "Hackaday",
-        "lane": "science",
-        "published_ts": 1778000437000,
-        "summary": "If you’ve been paying any attention to the renewable energy space, you’ll know that generation isn’t really the problem anymore. Solar panels are cheap, and wind turbines are everywhere. The …read more",
-        "tags": [
-          "current events",
-          "engineering",
-          "featured",
-          "misc hacks",
-          "original art",
-          "energy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0748
-      },
-      {
-        "id": "781e3dbb48e8caf7",
-        "title": "How to talk to your kids about separating and managing the change",
-        "url": "https://phys.org/news/2026-05-kids.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778000403000,
-        "summary": "If you've decided to separate from your partner, and you have kids together, it's normal to worry about the potential impact on them.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
-      },
-      {
-        "id": "f81d202593399e8e",
-        "title": "Astronomers map lifetime of over 100,000 molecular clouds across 66 galaxies",
-        "url": "https://phys.org/news/2026-05-astronomers-lifetime-molecular-clouds-galaxies.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777999206000,
-        "summary": "An international team of astronomers has analyzed the data from the James Webb Space Telescope (JWST) and Atacama Large Millimeter/submillimeter Array (ALMA) to investigate giant molecular clouds in nearby galaxies. The new study, presented April 27 on the arXiv preprint server, unveils crucial information regarding the lifetime of more than 100,000 such clouds across 66 galaxies.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "e792209bb1255a00",
-        "title": "Red button or blue button? What a viral question tells us about game theory and the state of the world",
-        "url": "https://phys.org/news/2026-05-red-button-blue-viral-game.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777999201000,
-        "summary": "Everyone on Earth takes a private vote by pressing a red or blue button. If more than 50% of people press the blue button, everyone survives. If less than 50% of people press the blue button, only the people who pressed the red button survive. Which button would you press? BE HONEST.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "23522ed5be0083ef",
-        "title": "Ahuachapán and its restive neighbors",
-        "url": "https://phys.org/news/2026-05-ahuachapn-restive-neighbors.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1777998006000,
-        "summary": "From a geothermal hotspot to the one-time \"Lighthouse of the Pacific,\" the heat is on beneath the volcanic landscape of western El Salvador.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.012
       }
     ]
   },
