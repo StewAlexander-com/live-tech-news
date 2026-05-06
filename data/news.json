@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T22:33:30.589319+00:00",
+  "generated_at": "2026-05-06T22:49:53.545375+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -102,6 +102,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7873
+      },
+      {
+        "id": "8fda98d98299fd1b",
+        "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
+        "url": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1778102070000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:15"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
       },
       {
         "id": "6b2e63f7618d5002",
@@ -943,21 +959,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8494
-      },
-      {
-        "id": "f4e85f8cce8efc69",
-        "title": "New Linux StarFighter laptop family debuts starting at $1,878 — Star Labs Systems' laptops arrive with spacious RAM, several options",
-        "url": "https://www.tomshardware.com/laptops/new-linux-starfighter-laptop-family-debuts-starting-at-usd1-878-star-labs-systems-laptops-arrive-with-spacious-ram-several-options",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778073369000,
-        "summary": "The StarFighter Linux laptop is finally available for purchase on the website, after months of delays. The startup behind this model is a small team based in rural England and runs out of a barn located some 30 miles southeast of London.",
-        "tags": [
-          "laptops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9458
       }
     ],
     "innovation": [
@@ -1935,6 +1936,38 @@
     ],
     "ai": [
       {
+        "id": "8a6ab5e235b76405",
+        "title": "Google's AI search just got a lot more useful — but make sure to vet those \"experts\"",
+        "url": "https://www.makeuseof.com/googles-ai-search-just-got-a-lot-more-useful-but-make-sure-to-vet-those-experts/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1778107433000,
+        "summary": "Google is bringing five new features to AI Mode and AI Overviews",
+        "tags": [
+          "technology explained",
+          "google search",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9162
+      },
+      {
+        "id": "e2e1c60026cacaa4",
+        "title": "Google Search AI Mode Gets 'Expert Advice' From Reddit and Social Media",
+        "url": "https://www.macrumors.com/2026/05/06/google-search-ai-mode-expert-advice/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1778106828000,
+        "summary": "Google is updating its AI search results to incorporate a \"preview of perspectives\" sourced from public online discussions and social media. The results sourced from places like Reddit and online forums are sometimes labeled as \"Expert Advice,\" per Google's screenshots. Google says that the section could have different titles like \"Community Perspectives\" depending on the query and the response, s",
+        "tags": [
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0744
+      },
+      {
         "id": "0e8bf3f8b51a8904",
         "title": "Google Search Will Start Showing You More Ways to Go Down Rabbit Holes",
         "url": "https://www.cnet.com/tech/services-and-software/google-search-will-start-showing-you-more-ways-to-go-down-rabbit-holes/",
@@ -2332,6 +2365,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7591
+      },
+      {
+        "id": "baa49bd6652ee015",
+        "title": "Anthropic to rent all AI capacity at SpaceX's Colossus data center",
+        "url": "https://www.reddit.com/r/technology/comments/1t5m88l/anthropic_to_rent_all_ai_capacity_at_spacexs/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778093724000,
+        "summary": "submitted by /u/GeneReddit123 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9516
       },
       {
         "id": "a03fbca997158c04",
@@ -2849,54 +2897,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9659
-      },
-      {
-        "id": "c32da00eb7f454bc",
-        "title": "Freshworks and Coinbase announce more than 1 in 10 jobs to go as companies replace workforce with AI technologies — tech company layoffs near 100K in 2026 alone",
-        "url": "https://www.techradar.com/pro/freshworks-and-coinbase-announce-more-than-1-in-10-jobs-to-go-as-companies-replace-workforce-with-ai-technologies-tech-company-layoffs-near-100k-in-2026-alone",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778084064000,
-        "summary": "Freshworks and Coinbase are joining the list of companies laying off employees due to AI in 2026",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9102
-      },
-      {
-        "id": "08609ce0cfbaf144",
-        "title": "Google Will Show You Things You Didn't Ask for in AI Overview Searches",
-        "url": "https://www.cnet.com/tech/services-and-software/google-will-show-you-things-you-didnt-ask-for-in-ai-overview-searches/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778083768000,
-        "summary": "The AI-generated search results will include related but unasked-for info and first-person advice from Reddit and other online forums.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8671
-      },
-      {
-        "id": "6a5c91d6450a9866",
-        "title": "Chrome AI takes up 4GB of your computer storage and there may be nothing you can do about it",
-        "url": "https://www.androidpolice.com/chromes-ai-feature-takes-up-4gb-of-your-computer-storage-and-there-may-be-nothing-you-can-do-about-it/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1778083541000,
-        "summary": "Delete it and it could come back",
-        "tags": [
-          "chrome desktop",
-          "browsers",
-          "ai & machine learning"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0773
       }
     ],
     "science": [
+      {
+        "id": "bf55b539a4ee41a8",
+        "title": "Clean energy's nickel rush is heading straight for some of Earth's richest ecosystems",
+        "url": "https://phys.org/news/2026-05-energy-nickel-straight-earth-richest.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778107203000,
+        "summary": "Meeting future nickel demand for stainless steel and clean energy technologies will require tough decisions with potential environmental trade-offs, a new study has found. Dr. Jayden Hyman from The University of Queensland's School of the Environment led an international analysis of known nickel deposits, current mining and demand forecasts.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0168
+      },
+      {
+        "id": "f20a4b7fd8543eb2",
+        "title": "Selling yourself short: New research shows how sexualized dating profiles can undermine long-term appeal",
+        "url": "https://phys.org/news/2026-05-short-sexualized-dating-profiles-undermine.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778107201000,
+        "summary": "New research led by Prof. Gurit Birnbaum, a researcher of sexuality in close relationships at Reichman University's Baruch Ivcher School of Psychology, and conducted in collaboration with her graduate student Kobi Zholtack and Prof. Harry Reis of the University of Rochester, examines how sexualized online dating profiles shape viewers' perceptions and relationship intentions.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0168
+      },
       {
         "id": "12c9d37f22314c7f",
         "title": "Cold-triggered ion channel in bacteria may point to broader temperature-sensing mechanism",
@@ -3794,36 +3827,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0128
-      },
-      {
-        "id": "6dee88fe3ffd30b1",
-        "title": "Feeling underqualified can help drive performance or toxic behavior—depending on one psychological factor",
-        "url": "https://phys.org/news/2026-05-underqualified-toxic-behavior-psychological-factor.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778074804000,
-        "summary": "We've all been there: staring at a job description or a daunting new project and feeling a cold prickle of dread. You have the degree, maybe even the title, but looking at the task ahead, you feel like a total fraud. You're \"underqualified\"—and it feels like only a matter of time before everyone else figures it out.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
-      },
-      {
-        "id": "97a89be076e74dbc",
-        "title": "Hologram technology where 'light becomes the key' enables hard-to-copy security",
-        "url": "https://phys.org/news/2026-05-hologram-technology-key-enables-hard.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778073601000,
-        "summary": "A new type of hologram technology has been developed that uses the motion of light as a key, revealing information only under specific conditions. This is gaining attention as a novel approach that can simultaneously overcome the limitations of existing optical communication and security technologies.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0168
       }
     ]
   },
