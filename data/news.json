@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T12:53:31.275247+00:00",
+  "generated_at": "2026-05-06T12:54:12.161752+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2662,6 +2662,54 @@
         "score": 1.0788
       },
       {
+        "id": "3a907805e9b22e26",
+        "title": "From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset",
+        "url": "https://arxiv.org/abs/2605.02916",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02916v1 Announce Type: new Abstract: The development of AI-assisted Early Intensive Behavioral Intervention (EIBI) for Autism Spectrum Disorder (ASD) is severely constrained by data scarcity. Furthermore, while Applied Behavior Analysis (ABA) serves as the gold standard for clinical intervention, general-purpose Large Language Models (LLMs) struggle to strictly adhere to its standardize",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9554
+      },
+      {
+        "id": "4ad123f86bd7e477",
+        "title": "DeRelayL: Sustainable Decentralized Relay Learning",
+        "url": "https://arxiv.org/abs/2605.02935",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02935v1 Announce Type: new Abstract: In the era of big data, large-scale machine learning models have revolutionized various fields, driving significant advancements. However, large-scale model training demands high financial and computational resources, which are only affordable by a few technological giants and well-funded institutions. In this case, common users like mobile users, th",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9554
+      },
+      {
+        "id": "276bfa6ba8534a83",
+        "title": "A Framework for Exploring and Disentangling Intersectional Bias: A Case Study in Fetal Ultrasound",
+        "url": "https://arxiv.org/abs/2605.02942",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.02942v1 Announce Type: new Abstract: Bias in medical AI is often framed as a problem of representation. However, in image-based tasks such as fetal ultrasound, performance disparities can arise even when representation is adequate, because predictive accuracy depends strongly on image quality. Image quality is shaped by acquisition conditions and operator expertise, as well as patient-d",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9554
+      },
+      {
         "id": "885dbb2262e24a1b",
         "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
         "url": "https://arxiv.org/abs/2605.00839",
@@ -2754,55 +2802,6 @@
         "summary": "arXiv:2605.01100v1 Announce Type: new Abstract: This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoning to provide explainable defect diagnosis and mitigation guidance in manufacturing, using LPBF as a representative, safety-critical case study. The proposed ontology-integrated LLM-based decision support system for LPBF def",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "2f8689f6aa331d9f",
-        "title": "An End-to-End Framework for Building Large Language Models for Software Operations",
-        "url": "https://arxiv.org/abs/2605.02906",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.02906v1 Announce Type: new Abstract: In the field of software operations, Large Language Models (LLMs) have attracted increasing attention. However, existing research has not yet achieved efficient and effective end-to-end intelligent operations due to low-quality data, fragmented knowledge and insufficient learning. To explore the potential of LLMs in software operations, we propose Op",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "45b2b9a3c87df15a",
-        "title": "Agentic AI-Based Joint Computing and Networking via Mixture of Experts and Large Language Models",
-        "url": "https://arxiv.org/abs/2605.02911",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.02911v1 Announce Type: new Abstract: Future sixth-generation (6G) mobile networks are envisioned to be equipped with a diverse set of powerful, yet highly specialized, optimization experts. Such a promising vision is concurrently expected to give rise to the need for scalable mechanisms that can select, combine, and orchestrate such experts based on high-level intent and uncertainty des",
-        "tags": [
-          "cs.lg",
-          "cs.it",
-          "math.it"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1324
-      },
-      {
-        "id": "182f95bbb4733aca",
-        "title": "When Safety Geometry Collapses: Fine-Tuning Vulnerabilities in Agentic Guard Models",
-        "url": "https://arxiv.org/abs/2605.02914",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.02914v1 Announce Type: new Abstract: A guard model fine-tuned on entirely benign data can lose all safety alignment -- not through adversarial manipulation, but through standard domain specialization. We demonstrate this failure across three purpose-built safety classifiers -- LlamaGuard, WildGuard, and Granite Guardian -- deployed as protection layers in agentic AI pipelines, and show ",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.cr"
         ],
         "paywall": false,
         "impact": "high",
