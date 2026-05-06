@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-06T18:47:09.892551+00:00",
+  "generated_at": "2026-05-06T18:52:46.482771+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ee783888a7d3f32c",
+        "title": "Apple Wins EU Challenge Over Keyboard Maker's Citrus Logo",
+        "url": "https://www.macrumors.com/2026/05/06/apple-eu-trademark-challenge-citrus-logo/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1778093316000,
+        "summary": "Apple objected to a European trademark filing from a Chinese keyboard maker because the logo the company wanted to use was too close to Apple's own logo. The EU Intellectual Property Office (EUIPO) partially refused to grant a European Union Trade Mark after Apple opposed the filing. The company, Yichun Qinningmeng Electronics Co., makes mechanical keyboards and keycaps, according to its website, ",
+        "tags": [
+          "european union",
+          "trademark"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9987
+      },
       {
         "id": "6a43d32e2bd2e3e6",
         "title": "Mina the Hollower, from the studio behind Shovel Knight, arrives on May 29",
@@ -959,22 +975,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7037
-      },
-      {
-        "id": "5afa80c932136ea8",
-        "title": "Score this 500Hz 27-inch Samsung Odyssey OLED gaming monitor at its lowest ever price, now just $649.99 — huge $349 saving nets you ultra-fast G60SF display with Nvidia G-Sync support",
-        "url": "https://www.tomshardware.com/monitors/gaming-monitors/score-this-500hz-27-inch-samsung-odyssey-oled-gaming-monitor-at-its-lowest-ever-price-now-just-usd649-99-huge-usd349-saving-nets-you-ultra-fast-g60sf-display-with-nvidia-g-sync-support",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778068218000,
-        "summary": "This Samsung Odyssey OLED G60SF gaming monitor is now at an all-time low price of just $649.99 for a limited-time only, thanks to Woot, saving you $349.",
-        "tags": [
-          "gaming monitors",
-          "monitors"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9466
       }
     ],
     "innovation": [
@@ -1953,6 +1953,22 @@
     ],
     "ai": [
       {
+        "id": "a03fbca997158c04",
+        "title": "Experts warn 'evolving AI is like an invasive species — it adapts to survive in ways we cannot predict': A new study says unchecked models are a risk to humanity, as it’s inevitable for autonomous systems to follow the path of Darwinian evolution",
+        "url": "https://www.techradar.com/pro/experts-warn-that-evolving-ai-is-like-an-invasive-species-it-adapts-to-survive-in-ways-we-cannot-predict-new-study-says-unchecked-models-are-a-risk-to-humanity-as-its-inevitable-for-autonomous-systems-to-follow-biology-on-the-path-of-darwinian-evolution",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778093400000,
+        "summary": "A new study warns evolvable AI systems could adapt and reproduce faster than any biological species, escaping human control entirely.",
+        "tags": [
+          "pro",
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9172
+      },
+      {
         "id": "5e47bba0b121f65a",
         "title": "Google invites Reddit back to the AI Overview party",
         "url": "https://www.androidpolice.com/google-ai-overviews-reddit/",
@@ -2921,22 +2937,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9141
-      },
-      {
-        "id": "23eef6015f217cd3",
-        "title": "AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs",
-        "url": "https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778073062000,
-        "summary": "AMD plans to expand its portfolio of CPUs for data centers that will be targeted at different workloads.",
-        "tags": [
-          "cpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
       }
     ],
     "science": [
@@ -3767,6 +3767,24 @@
         "score": 1.096
       },
       {
+        "id": "211b426d88790f8e",
+        "title": "Mixed-Precision Information Bottlenecks for On-Device Trait-State Disentanglement in Bipolar Agitation Detection",
+        "url": "https://arxiv.org/abs/2605.03039",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778040000000,
+        "summary": "arXiv:2605.03039v1 Announce Type: new Abstract: Continuous monitoring of bipolar disorder agitation via voice biomarkers requires disentangling stable speaker traits from volatile affective states on resource-constrained edge devices. We introduce MP-IB, the first framework to treat mixed-precision quantization as an information bottleneck for clinical trait-state separation. The core insight is t",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.hc",
+          "cs.sd"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7884
+      },
+      {
         "id": "b4cbf288654494e8",
         "title": "A Cellular Doctrine of Morality: Intrinsic Active Precision and the Mind-Reality Overload Dilemma",
         "url": "https://arxiv.org/abs/2605.01376",
@@ -3837,22 +3855,6 @@
         "lane": "science",
         "published_ts": 1778040000000,
         "summary": "arXiv:2605.02938v1 Announce Type: new Abstract: Reliable periodic patterns serve as a fundamental basis for accurate multivariate time series forecasting. However, existing methods either implicitly extract periodicity through complex model architectures (e.g., Transformers) with high computational overhead or overlook the intrinsic phase-amplitude coupling when modeling periodic components explic",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0485
-      },
-      {
-        "id": "c1d539b9f89bd18f",
-        "title": "Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges",
-        "url": "https://arxiv.org/abs/2605.02973",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778040000000,
-        "summary": "arXiv:2605.02973v1 Announce Type: new Abstract: Modality translation is inherently under-constrained, as multiple cross-modal mappings may yield the same marginals. Recent work has shown that diffusion bridges are effective for this task. However, most existing approaches rely on fully paired datasets, thereby imposing a single data-driven constraint. We propose a diffusion-bridge framework that c",
         "tags": [
           "cs.lg",
           "cs.ai"
