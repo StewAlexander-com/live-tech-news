@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-07T22:17:16.190268+00:00",
+  "generated_at": "2026-05-07T22:39:43.972652+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "93f09f809b7aaa5c",
+        "title": "The Paranormal Activity game project is dead",
+        "url": "https://www.engadget.com/2167498/the-paranormal-activity-game-project-is-dead/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778192896000,
+        "summary": "The solo developer couldn't get an extension from rights-holder Paramount.",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7014
+      },
       {
         "id": "e76ef4ca31e1354d",
         "title": "T-Mobile is targeting a new crowd with its latest prepaid plans",
@@ -959,21 +974,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9983
-      },
-      {
-        "id": "37d5a237d60b11f9",
-        "title": "$250M crypto-robbing gang’s dirty work guy sentenced to 6.5 years behind bars",
-        "url": "https://www.theregister.com/cyber-crime/2026/05/07/250m-crypto-robbing-gangs-dirty-work-guy-sentenced-to-65-years-behind-bars/5234787",
-        "source": "The Register",
-        "lane": "gadgets",
-        "published_ts": 1778166726000,
-        "summary": "The then-teen was told to break in and steal what the keyboard warriors couldn’t",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0475
       }
     ],
     "innovation": [
@@ -1961,6 +1961,36 @@
     ],
     "ai": [
       {
+        "id": "68e889d900b033ef",
+        "title": "CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours (Jordan Novet/CNBC)",
+        "url": "https://www.techmeme.com/260507/p45#a260507p45",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778192701000,
+        "summary": "Jordan Novet / CNBC: CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours — CoreWeave shares tumbled 10% in extended trading on Thursday after the AI infrastructure provider issued light revenue guidance …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0749
+      },
+      {
+        "id": "a55f585e4a1a7304",
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778192690000,
+        "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "tags": [
+          "ai",
+          "gpt",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7444
+      },
+      {
         "id": "d9d1ce2d5e20699a",
         "title": "Bumble will replace swiping right with... something",
         "url": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
@@ -2063,6 +2093,26 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7578
+      },
+      {
+        "id": "9674c7c31958bbcf",
+        "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says",
+        "url": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1778189701000,
+        "summary": "Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
+        "tags": [
+          "policy",
+          "department of homeland security",
+          "dhs",
+          "dna",
+          "dna database",
+          "dna samples"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9794
       },
       {
         "id": "75db12b2b100f4cc",
@@ -2284,6 +2334,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8521
+      },
+      {
+        "id": "4fee02fb748fe690",
+        "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+        "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778182716000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:11"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.07
       },
       {
         "id": "130cd46cb47d853f",
@@ -2842,76 +2908,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0747
-      },
-      {
-        "id": "f610c6bf7ca08db2",
-        "title": "Show HN: Stage CLI – a tool to make reading your AI generated changes easier",
-        "url": "https://github.com/ReviewStage/stage-cli",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778168316000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0906
-      },
-      {
-        "id": "803a531f99f6934b",
-        "title": "Google’s $9.99-per-month AI health coach launches May 19",
-        "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778168138000,
-        "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
-        "tags": [
-          "apps",
-          "hardware",
-          "ai health coach",
-          "fitbit",
-          "google health",
-          "google health coach"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8073
-      },
-      {
-        "id": "d9fcabeb1b444d90",
-        "title": "Tessera Labs, which uses AI agents to automate enterprise IT migrations and ERP transformations, raised a $60M Series A led by a16z at a $320M valuation (Anna Tong/Forbes)",
-        "url": "https://www.techmeme.com/260507/p26#a260507p26",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778167801000,
-        "summary": "Anna Tong / Forbes: Tessera Labs, which uses AI agents to automate enterprise IT migrations and ERP transformations, raised a $60M Series A led by a16z at a $320M valuation — Kabir Nagrecha is tackling the $1.4 trillion “consulting tax” on the IT transformation market with AI agents built to do something …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0774
-      },
-      {
-        "id": "3b494d9fbc04ebad",
-        "title": "Netflix has its own, impressive AI-powered voice search",
-        "url": "https://www.theverge.com/column/925898/netflix-ai-voice-search",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778167800000,
-        "summary": "A small subset of Netflix viewers just got a new way to find movies and TV shows. The streamer recently started to test an AI-powered native voice search feature with some subscribers, prompting them to press the Netflix button on their remote control to ask for viewing recommendations. Once viewers press the button, they're presented […]",
-        "tags": [
-          "column",
-          "lowpass",
-          "netflix",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8533
       }
     ],
     "science": [
+      {
+        "id": "fd5bc50e77f6a35f",
+        "title": "Mechanical method unlocks sunlight-driven wastewater cleanup",
+        "url": "https://phys.org/news/2026-05-mechanical-method-sunlight-driven-wastewater.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778193002000,
+        "summary": "University of Birmingham researchers have demonstrated a new method to break down toxic pollutants in wastewater, using sunlight and molecular-thin catalysts created using an innovative \"mechanical\" approach. Non-degradable dyes originating from industries such as textiles, cosmetics, food, pharmaceuticals, and printing, are among the most prominent sources of industrial pollution. Left untreated,",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0168
+      },
+      {
+        "id": "761d94e5b331351f",
+        "title": "Harmless viruses trap Salmonella on flexible polymer in portable microfluidic sensor",
+        "url": "https://phys.org/news/2026-05-harmless-viruses-salmonella-flexible-polymer.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778192401000,
+        "summary": "Researchers at Worcester Polytechnic Institute (WPI) have developed a solid polymer coated with harmless viruses to detect the bacteria Salmonella enterica (S. enterica), an advance that could lead to new ways of finding contamination in the food supply. The work is published in the journal ACS Applied Bio Materials.",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0947
+      },
       {
         "id": "816a0515eec29ee0",
         "title": "Scientists uncover hidden parasite diversity in barb fish from the Sea of Galilee",
@@ -3794,40 +3823,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0181
-      },
-      {
-        "id": "fbc5cf0a2286cbb3",
-        "title": "Skyroot becomes India’s first space-tech unicorn ahead of June Vikram-1 launch",
-        "url": "https://thenextweb.com/news/skyroot-india-space-tech-unicorn-gic-blackrock",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1778138593000,
-        "summary": "GIC and BlackRock-managed funds anchor a fresh round that more than doubles the company’s 2023 valuation. The round is timed to the planned orbital launch of Vikram-1 from Sriharikota, the first private Indian rocket to attempt the milestone. Skyroot Aerospace, the Hyderabad-based private launch-vehicle developer, has crossed into unicorn territory with a fresh round backed […] This story continue",
-        "tags": [
-          "india",
-          "tech",
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9534
-      },
-      {
-        "id": "7fb69c3836e6234c",
-        "title": "Simultaneous CNN Approximation on Manifolds with Applications to Boundary Value Problems",
-        "url": "https://arxiv.org/abs/2605.04126",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.04126v1 Announce Type: new Abstract: This paper develops convolutional neural network (CNN) methods for simultaneous approximation and elliptic boundary value problems on compact Riemannian manifolds. We establish simultaneous Sobolev approximation results for single- and multichannel CNNs, showing that manifold functions and their derivatives can be approximated with rates governed by ",
-        "tags": [
-          "cs.lg",
-          "cs.na",
-          "math.na"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7974
       }
     ]
   },
