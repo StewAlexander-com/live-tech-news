@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-05-07T20:04:39.018535+00:00",
+  "generated_at": "2026-05-07T20:23:59.857323+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ab3fff1f50e96920",
+        "title": "The Fitbit app is dead, long live Google Health",
+        "url": "https://www.androidpolice.com/fitbit-app-is-now-google-health/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1778184581000,
+        "summary": "There's a lot to unpack here",
+        "tags": [
+          "fitbit",
+          "smartwatches & wearables"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9954
+      },
+      {
+        "id": "94217ea40caf6f63",
+        "title": "Extortion Using Smart Glasses Is a Thing Now",
+        "url": "https://www.reddit.com/r/technology/comments/1t6ltbo/extortion_using_smart_glasses_is_a_thing_now/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1778184311000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9443
+      },
       {
         "id": "7111e90d61873952",
         "title": "Your next Samsung Galaxy Watch could ‘dramatically reduce’ your chances of injury thanks to this one clever feature",
@@ -946,40 +977,26 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7028
-      },
-      {
-        "id": "a396dba249afd650",
-        "title": "Your video calls could be racking more airmiles than you think",
-        "url": "https://www.techradar.com/pro/your-video-calls-could-be-racking-more-airmiles-than-you-think",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778164138000,
-        "summary": "Video calls route data across borders without users knowing, raising real questions about privacy and sovereignty.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
-      },
-      {
-        "id": "5a29ba4ac98075e1",
-        "title": "'A waste of money' — Digital rights group slams Utah's new 'impossible by design' VPN restrictions under controversial age verification law",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/a-waste-of-money-digital-rights-group-slams-utahs-new-impossible-by-design-vpn-restrictions-under-controversial-age-verification-law",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778163258000,
-        "summary": "Utah’s new age verification law targets VPN users, but digital rights group Fight for the Future is calling the legislation technically impossible and a massive \"waste of money.\" Here is why experts are furious.",
-        "tags": [
-          "vpn privacy &amp; security",
-          "vpn"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8471
       }
     ],
     "innovation": [
+      {
+        "id": "f3767904544ffb24",
+        "title": "Tesla Model Y is first car to meet new U.S. driver assistance safety benchmark",
+        "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778184648000,
+        "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
+        "tags": [
+          "transportation",
+          "nhtsa",
+          "tesla"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7448
+      },
       {
         "id": "72e88abaff371d93",
         "title": "3D Printed Train Whistles Sound Out at Full Scale",
@@ -1016,6 +1033,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8488
+      },
+      {
+        "id": "2626fe3debdd445a",
+        "title": "Microsoft Issues Warning About Linux 'Copy Fail' Vulnerability",
+        "url": "https://it.slashdot.org/story/26/05/07/1925210/microsoft-issues-warning-about-linux-copy-fail-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778184000000,
+        "summary": "joshuark shares a report from Linux Magazine: Microsoft has issued a warning that a vulnerability with a CVSS score of 7.8 has been found in the Linux kernel. The vulnerability in question is tagged CVE-2026-31431 and, according to the Cybersecurity and Infrastructure Security Agency (CISA), \"This Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability is a frequent attack vector fo",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0419
       },
       {
         "id": "16c30282e9d5ee50",
@@ -1935,41 +1967,55 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6984
-      },
-      {
-        "id": "55512829d5dace7b",
-        "title": "The Sihoo Doro C300 Pro V2: An ergonomic chair that adapts to the way you move",
-        "url": "https://www.makeuseof.com/sihoo-doro-c300-pro-v2-ergonomic-chair-sale/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778162336000,
-        "summary": "This article is sponsored by Sihoo",
-        "tags": [
-          "productivity",
-          "office chairs",
-          "gaming chair"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8429
-      },
-      {
-        "id": "707ffa026d267355",
-        "title": "State-backed hackers hammer Palo Alto firewall zero-day before patch lands",
-        "url": "https://www.theregister.com/cyber-crime/2026/05/07/state-backed-hackers-hammer-palo-alto-firewall-zero-day-before-patch-lands/5234737",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778161985000,
-        "summary": "Internet-facing PAN-OS firewalls are once again doing impressions of initial access brokers",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0358
       }
     ],
     "ai": [
+      {
+        "id": "8c84a16a865da45c",
+        "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+        "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778185220000,
+        "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+        "tags": [
+          "ai",
+          "tc",
+          "chatgpt",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7471
+      },
+      {
+        "id": "71e3b3425a216358",
+        "title": "Razer partners with 'P2P for AI' network to deliver over 11,000 unique images at just $0.01 per generation during its April Fool's viral 3D AI companion campaign — no cloud subscription needed",
+        "url": "https://www.techradar.com/pro/razer-partners-with-p2p-for-ai-network-to-deliver-over-11-000-unique-images-at-just-usd0-01-per-generation-during-its-april-fools-viral-3d-ai-companion-campaign-no-cloud-subscription-needed",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778185200000,
+        "summary": "Razer used a decentralized GPU marketplace to generate thousands of AI images, achieving low costs and stable performance without cloud infrastructure.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9168
+      },
+      {
+        "id": "b7d4800c098750e8",
+        "title": "Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips (Anissa Gardizy/The Information)",
+        "url": "https://www.techmeme.com/260507/p39#a260507p39",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778184301000,
+        "summary": "Anissa Gardizy / The Information: Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips — When OpenAI and chip designer Broadcom announced last fall that they would make custom artificial intelligence chips together, they positioned it as a done deal.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0734
+      },
       {
         "id": "d20eed3993668fb2",
         "title": "Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model's thoughts, into natural language text (Anthropic)",
@@ -2872,55 +2918,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9968
-      },
-      {
-        "id": "d6f32c12ee2a19c1",
-        "title": "The Fitbit Air's Minimal Design Is Hiding a Bigger Strategy",
-        "url": "https://www.cnet.com/tech/mobile/fitbit-air-google-coach-fitness-tracker-band-first-impressions/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778162474000,
-        "summary": "Google's $99 Whoop rival is less about the band and more about the AI coach behind it.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8789
-      },
-      {
-        "id": "9a012794ab562377",
-        "title": "Google Health Coach Wants to Provide the Most Personalized AI Wellness Experience Yet",
-        "url": "https://www.cnet.com/health/google-health-coach/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778162400000,
-        "summary": "Google Health’s AI coach gets a revamp along with the latest app rebrand.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8785
-      },
-      {
-        "id": "be79c66dd17ad689",
-        "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-        "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778162400000,
-        "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbit Air and my wrist, where I'm wearing a Whoop MG. Was I not seeing double? But as […]",
-        "tags": [
-          "ai",
-          "gadgets",
-          "google",
-          "health",
-          "news",
-          "science"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8485
       }
     ],
     "science": [
+      {
+        "id": "5a1d6caa75da78ab",
+        "title": "More than one in three Norwegian dogs shows signs of tick-borne disease",
+        "url": "https://phys.org/news/2026-05-norwegian-dogs-borne-disease.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778185209000,
+        "summary": "Ph.D. student Hanne Kloster at the University of Agder (UiA) is behind the first Norwegian study to look at three tick-borne diseases in dogs simultaneously, covering the whole country. The paper is published in the journal Acta Veterinaria Scandinavica.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0187
+      },
+      {
+        "id": "552237764fb46ce5",
+        "title": "Quantum metallurgy: Electron crystals deform and melt",
+        "url": "https://phys.org/news/2026-05-quantum-metallurgy-electron-crystals-deform.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778185202000,
+        "summary": "In a process analogous to how solids melt into liquids, the electrons in many different metals form crystal-like patterns that can deform and melt, opening new pathways for neuromorphic computing and superconductors, University of Michigan Engineering researchers have found.",
+        "tags": [
+          "superconductivity"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1002
+      },
       {
         "id": "1e146062dee4f098",
         "title": "Theoretical framework can predict how complex networks behave",
@@ -3804,36 +3834,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0197
-      },
-      {
-        "id": "aa71e238c7203a52",
-        "title": "Researchers discover a new pathway to building energy-efficient computing chips",
-        "url": "https://phys.org/news/2026-05-pathway-energy-efficient-chips.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778108405000,
-        "summary": "The growing popularity of electronic devices—from fitness trackers and laptops to smartphones—is driving demand for more energy-efficient computing chips. Now, researchers have found a way to change the electronic properties of a common semiconductor material, potentially laying the foundation for faster, lower-power data storage and processing.",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0981
-      },
-      {
-        "id": "fa69f43fdaa438c7",
-        "title": "Rare footage of elusive sea-floor creatures and backward-swimming fish captured by compact video-acoustic system",
-        "url": "https://phys.org/news/2026-05-rare-footage-elusive-sea-floor.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778107801000,
-        "summary": "Arctic glacial fjords are hotspots of marine life, yet their seafloor environments remain some of the least explored regions on Earth. Their extreme remoteness and the technical challenges of deep-water observation have led scientists to rely on indirect measurements like sonar. However, these methods cannot visually verify animal behavior or identify specific species.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
       }
     ]
   },
