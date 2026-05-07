@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T02:18:22.376747+00:00",
+  "generated_at": "2026-05-07T02:57:04.522540+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -949,6 +949,19 @@
     ],
     "innovation": [
       {
+        "id": "9007cc40469a1732",
+        "title": "FanDuel CEO Amy Howe departs after five years, succeeded by President Christian Genetski, as parent company Flutter reports MAUs fell 3% YoY to 14.4M in Q1 2026 (Christopher Kuo/Wall Street Journal)",
+        "url": "https://www.techmeme.com/260506/p54#a260506p54",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778120701000,
+        "summary": "Christopher Kuo / Wall Street Journal: FanDuel CEO Amy Howe departs after five years, succeeded by President Christian Genetski, as parent company Flutter reports MAUs fell 3% YoY to 14.4M in Q1 2026 — Howe presided over FanDuel during a boom in sports betting, even as the rise of prediction-market companies posed increasing competition",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9898
+      },
+      {
         "id": "12f880a91b87fa3f",
         "title": "Learn Programming Without a Computer",
         "url": "https://hackaday.com/2026/05/06/learn-programming-without-a-computer/",
@@ -1876,27 +1889,53 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8497
-      },
-      {
-        "id": "8fcfd0b5bdd2b3a3",
-        "title": "Chrome on Android now supports approximate instead of precise location sharing",
-        "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1778082846000,
-        "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
-        "tags": [
-          "apps",
-          "android",
-          "chrome",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7462
       }
     ],
     "ai": [
+      {
+        "id": "e93442770e3948a2",
+        "title": "Spooked by Mythos, U.S President suddenly realized AI safety testing might be good | U.S President forced to admit Biden was right on AI safety testing.",
+        "url": "https://www.reddit.com/r/technology/comments/1t5xrq9/spooked_by_mythos_us_president_suddenly_realized/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778121338000,
+        "summary": "submitted by /u/ControlCAD [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.019
+      },
+      {
+        "id": "a3847aac653e5812",
+        "title": "Anthropic researchers detail \"model spec midtraining\", which adds a stage between pretraining and fine-tuning to improve generalization from alignment training (Anthropic)",
+        "url": "https://www.techmeme.com/260506/p53#a260506p53",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778120401000,
+        "summary": "Anthropic: Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training — Sara Price2, Samuel Marks2,†, Jon Kutasov2,† — 1Anthropic Fellows Program; 2Anthropic; †Equal advising",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9882
+      },
+      {
+        "id": "a346c27abec07a6b",
+        "title": "TikTok is pulling back on an AI feature that went haywire",
+        "url": "https://www.reddit.com/r/technology/comments/1t5wgja/tiktok_is_pulling_back_on_an_ai_feature_that_went/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778117788000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9998
+      },
       {
         "id": "fa0f4ee795143690",
         "title": "Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side (Lingling Wei/Wall Street Journal)",
@@ -2803,54 +2842,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9463
-      },
-      {
-        "id": "3992967b7846f100",
-        "title": "You Can Now Sign Up for Hulu Plus Live TV via Fubo",
-        "url": "https://www.cnet.com/tech/services-and-software/you-can-now-sign-up-for-hulus-live-tv-service-via-fubo/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778089800000,
-        "summary": "Plus, Fubo says it's launching an AI assistant in the fall.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8695
-      },
-      {
-        "id": "5d113f332dd4c2c8",
-        "title": "Google just bought a stake in the maker of Eve Online to train its AI models",
-        "url": "https://www.engadget.com/2166270/google-just-bought-a-stake-in-the-maker-of-eve-online-to-train-its-ai-models/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778088168000,
-        "summary": "DeepMind will research player behavior in the space-based RPG.",
-        "tags": [
-          "gaming",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7591
-      },
-      {
-        "id": "93309bd3b439f586",
-        "title": "DeepSeek could hit $45B valuation from its first investment round",
-        "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778088034000,
-        "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-        "tags": [
-          "ai",
-          "startups",
-          "china",
-          "deepseek",
-          "in brief"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7968
       }
     ],
     "science": [
