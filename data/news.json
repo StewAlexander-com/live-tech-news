@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-07T03:34:51.505984+00:00",
+  "generated_at": "2026-05-07T04:17:45.170295+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "988069d2459d8ae9",
+        "title": "Enabling Real-Time Training of a Wildfire-to-Smoke Map with Multilinear Operators",
+        "url": "https://arxiv.org/abs/2605.04164",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04164v1 Announce Type: new Abstract: Wildfires are a major producer of fine particulate matter, impacting human health and the electrical grid. Accurately forecasting smoke impacts over long time scales incorporates fuel treatment strategies, natural fuel succession, and stochastic events like lightning strikes. However, predicting smoke for each fuel distribution with a forward simulat",
+        "tags": [
+          "cs.lg",
+          "physics.ao-ph",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
       {
         "id": "606a5eaa2202742c",
         "title": "Making Sense of AT&T's Hiked Prices for Legacy Phone Plans",
@@ -929,25 +946,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9939
-      },
-      {
-        "id": "f6b3aee489bbeae6",
-        "title": "Steam Controller and Puck CAD files officially released under a Creative Commons license — Valve encourages users to create accessories for the device",
-        "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/steam-controller-and-puck-cad-files-officially-released-under-a-creative-commons-license-valve-encourages-users-to-create-accessories-for-the-device",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778078681000,
-        "summary": "Valve just released the 3D CAD files for the Steam Controller and Puck under a CC BY-NC-SA 4.0 International license, allowing gamers and enthusiasts to design and 3D print their own accessories for these gadgets. The company even encouraged everyone to share their creations.",
-        "tags": [
-          "controllers and gamepads",
-          "peripherals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9405
       }
     ],
     "innovation": [
+      {
+        "id": "79719fbb14f40249",
+        "title": "I stopped closing tabs once I found this Chrome extension",
+        "url": "https://www.makeuseof.com/onetab-chrome-extension-tab-sorting/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778125757000,
+        "summary": "I can finally sort through the mountain of tabs.",
+        "tags": [
+          "browsers",
+          "google chrome"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8423
+      },
       {
         "id": "bc107e800596c20a",
         "title": "Bengaluru-based Pronto, an on-demand home-help service, raised a $20M Series B extension from Lachy Groom at a $200M valuation, up from $100M in March (Jagmeet Singh/TechCrunch)",
@@ -1869,25 +1886,216 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9421
-      },
-      {
-        "id": "455b6e92f31e9308",
-        "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-        "url": "https://play.templatical.com",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1778084400000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.043
       }
     ],
     "ai": [
+      {
+        "id": "60fc27be3e12aff3",
+        "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
+        "url": "https://arxiv.org/abs/2605.03078",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.03078v1 Announce Type: new Abstract: While AI is often introduced into organizations to drive innovation and efficiency, many adoption efforts fail as workers resist and struggle to integrate these systems. These failures point to a deeper issue: workers, the very people expected to collaborate with AI, are often invisible in decisions about how AI is designed and used. Drawing on inter",
+        "tags": [
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "646c3d4904cdd1c2",
+        "title": "Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents",
+        "url": "https://arxiv.org/abs/2605.03159",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.03159v1 Announce Type: new Abstract: As autonomous agents become increasingly sophisticated, validating their sequential behavior presents a significant challenge. Traditional testing approaches require manual specification, exact sequence matching, or thousands of training examples. We present a novel algorithm that automatically learns correct behavior from just 2-10 passing execution",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "085f25851efcf672",
+        "title": "Stop Automating Peer Review Without Rigorous Evaluation",
+        "url": "https://arxiv.org/abs/2605.03202",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.03202v1 Announce Type: new Abstract: Large language models offer a tempting solution to address the peer review crisis. This position paper argues that today's AI systems should not be used to produce paper reviews. We ground this position in an empirical comparison of human- versus AI-generated ICLR 2026 reviews and an evaluation of the effect of automated paper rewriting on different ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "0af0f1c7238cb9df",
+        "title": "Robust Agent Compensation (RAC): Teaching AI Agents to Compensate",
+        "url": "https://arxiv.org/abs/2605.03409",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.03409v1 Announce Type: new Abstract: We present Robust Agent Compensation (RAC), a log-based recovery paradigm (providing a safety net) implemented through an architectural extension that can be applied to most Agent frameworks to support reliable executions (avoiding unintended side effects). Users can choose to enable RAC without changing their current agent code (e.g., LangGraph agen",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "d7b5a4a0c7c0e1b2",
+        "title": "Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies",
+        "url": "https://arxiv.org/abs/2605.03596",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.03596v1 Announce Type: new Abstract: Workspace learning requires AI agents to identify, reason over, exploit, and update explicit and implicit dependencies among heterogeneous files in a worker's workspace, enabling them to complete both routine and advanced tasks effectively. Despite its importance, existing relevant benchmarks largely evaluate agents on pre-specified or synthesized fi",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.db",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "dab43e48ceaab246",
+        "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
+        "url": "https://arxiv.org/abs/2605.03675",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.03675v1 Announce Type: new Abstract: Long-running autonomous AI agents suffer from a well-documented memory coherence problem: tool-execution success rates degrade 14 percentage points over 72-hour operation windows due to four compounding failure modes in existing flat-file memory systems. We present MEMTIER, a tripartite memory architecture for the OpenClaw agent runtime that introduc",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "206290664346d0da",
+        "title": "Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics",
+        "url": "https://arxiv.org/abs/2605.04054",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04054v1 Announce Type: new Abstract: Achieving endogenous regime switching is crucial for the emergence of autonomous intelligence, yet remains a central challenge for existing machine learning frameworks, where such transitions are typically externally imposed. In this work, we introduce a classification that distinguishes scalar-reducible dynamics, which can be expressed as gradient f",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "7ee5ea9af02e5c5a",
+        "title": "Transformation Categorization Based on Group Decomposition Theory Using Parameter Division",
+        "url": "https://arxiv.org/abs/2605.04056",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04056v1 Announce Type: new Abstract: Representation learning seeks meaningful sensory representations without supervision and can model aspects of human development. Although many neural networks empirically learn useful features, a principled account of what makes a representation \"good\" remains elusive. We study unsupervised categorization of transformations between pairs of inputs un",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "d8bf8a16e1cb3ec5",
+        "title": "Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search",
+        "url": "https://arxiv.org/abs/2605.04057",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04057v1 Announce Type: new Abstract: This paper focuses on a key challenge in Neural Architecture Search (NAS): integrating established architectural knowledge while exploring new designs under expensive evaluations. Large language models (LLMs) are a promising assistant for NAS because they can translate rich architectural and coding priors into executable code edits. However, in pract",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "d819ea00593b5064",
+        "title": "Lookahead Drifting Model",
+        "url": "https://arxiv.org/abs/2605.04060",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04060v1 Announce Type: new Abstract: Recently, a new paradigm named \\emph{drifting model} has been proposed for mapping distributions, which achieves the SOTA image generation performance over ImageNet via one-step neural functional evaluation (NFE). The basic idea is to compute a drifting term at each training iteration and then push the output of the model towards the direction of the",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "c222147e62bc090f",
+        "title": "Improving Medical VQA through Trajectory-Aware Process Supervision",
+        "url": "https://arxiv.org/abs/2605.04064",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04064v1 Announce Type: new Abstract: Reasoning capabilities are crucial for reliable medical visual question answering (VQA); however, existing datasets rarely include reasoning explanations. We address this by generating reasoning trajectories for six medical VQA benchmarks using the COMCTS algorithm with open-source vision-language models, with an LLM serving as the verification judge",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "bdacffc0dba7cbbb",
+        "title": "LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment",
+        "url": "https://arxiv.org/abs/2605.04069",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04069v1 Announce Type: new Abstract: We introduce LAWS (Learning from Actual Workloads Symbolically), a self-certifying inference caching architecture that builds a growing library of certified expert functions from deployment observations. Each expert covers a region of input space defined by a node in the Probabilistic Language Trie (PLT) of the base model and carries a formal error b",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.it",
+          "cs.ne",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "b33edf9e6458f8fe",
+        "title": "Bristol Myers Squibb's Massachusetts facility boosted drug production volume for clinical and commercial use by ~40% with AI, a bright spot in US manufacturing (Farah Stockman/New York Times)",
+        "url": "https://www.techmeme.com/260506/p56#a260506p56",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778125801000,
+        "summary": "Farah Stockman / New York Times: Bristol Myers Squibb's Massachusetts facility boosted drug production volume for clinical and commercial use by ~40% with AI, a bright spot in US manufacturing — A Bristol Myers Squibb plant that makes cancer drugs was the only manufacturer in the U.S. recognized for innovation by the World Economic Forum this year.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0704
+      },
       {
         "id": "83fc0345d8e36564",
         "title": "Sam Altman's Management Style Comes Under the Microscope At OpenAI Trial",
@@ -2627,217 +2835,106 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9516
-      },
-      {
-        "id": "a03fbca997158c04",
-        "title": "Experts warn 'evolving AI is like an invasive species — it adapts to survive in ways we cannot predict': A new study says unchecked models are a risk to humanity, as it’s inevitable for autonomous systems to follow the path of Darwinian evolution",
-        "url": "https://www.techradar.com/pro/experts-warn-that-evolving-ai-is-like-an-invasive-species-it-adapts-to-survive-in-ways-we-cannot-predict-new-study-says-unchecked-models-are-a-risk-to-humanity-as-its-inevitable-for-autonomous-systems-to-follow-biology-on-the-path-of-darwinian-evolution",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778093400000,
-        "summary": "A new study warns evolvable AI systems could adapt and reproduce faster than any biological species, escaping human control entirely.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9172
-      },
-      {
-        "id": "37ab9cb94fa128b4",
-        "title": "Learning the Integral of a Diffusion Model",
-        "url": "https://sander.ai/2026/05/06/flow-maps.html",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778093187000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:7"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0316
-      },
-      {
-        "id": "5e47bba0b121f65a",
-        "title": "Google invites Reddit back to the AI Overview party",
-        "url": "https://www.androidpolice.com/google-ai-overviews-reddit/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1778092885000,
-        "summary": "Just avoid the Pizza Glue fiasco this time, please",
-        "tags": [
-          "google search",
-          "utilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.078
-      },
-      {
-        "id": "d25013d98bc02fa4",
-        "title": "Relax, Xbox Owners: Copilot's Not Invading Your Game Console",
-        "url": "https://www.cnet.com/tech/services-and-software/microsoft-xbox-cancels-copilot-game-consoles/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778092651000,
-        "summary": "Microsoft is shelving the idea of bringing Copilot AI to all its gaming platforms.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8676
-      },
-      {
-        "id": "a1a93b213680e042",
-        "title": "How to Collect on Apple's $250 Million AI iPhone Settlement",
-        "url": "https://www.cnet.com/tech/mobile/how-to-collect-on-apples-250-million-ai-settlement/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778091968000,
-        "summary": "The company will start paying the quarter-billion-dollar sum to settle a lawsuit over delayed and missing AI features.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8644
-      },
-      {
-        "id": "b52b7b442eeed8cc",
-        "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-        "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778091834000,
-        "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-        "tags": [
-          "ai",
-          "elon musk",
-          "greg brockman",
-          "openai",
-          "openai lawsuit"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7424
-      },
-      {
-        "id": "44d53b740d69a34c",
-        "title": "Arctic Wolf kicks 250 employees out of the pack to save money for AI",
-        "url": "https://www.theregister.com/ai-and-ml/2026/05/06/arctic-wolf-cuts-250-jobs-in-ai-push/5231213",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778091600000,
-        "summary": "Cuts appear to hit sales, product, and marketing, accounting for under 10% of staff",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1326
-      },
-      {
-        "id": "2e97eb5eb49cee2d",
-        "title": "Anthropic is doubling Claude Code rate limits after deal with SpaceX",
-        "url": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778091382000,
-        "summary": "The company is also interested in SpaceX's planned orbital data centers.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7023
-      },
-      {
-        "id": "a0e120d31be0d276",
-        "title": "Anthropic says it signed a deal with SpaceX to use \"all of the compute capacity\" at Colossus 1, giving it access to over 300 MW of new capacity within the month (Axios)",
-        "url": "https://www.techmeme.com/260506/p39#a260506p39",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778091002000,
-        "summary": "Axios: Anthropic says it signed a deal with SpaceX to use “all of the compute capacity” at Colossus 1, giving it access to over 300 MW of new capacity within the month — Anthropic said Wednesday it has struck a deal to gain access to compute capacity from Elon Musk's SpaceX …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9956
-      },
-      {
-        "id": "c0d396853cbadc4c",
-        "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-        "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778090741000,
-        "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
-        "tags": [
-          "security",
-          "ai",
-          "braintrust",
-          "cybersecurity",
-          "data breach",
-          "hackers"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8066
-      },
-      {
-        "id": "b858810f8ce1593b",
-        "title": "Human language shows deep safety bias, challenging 70-year scientific consensus",
-        "url": "https://phys.org/news/2026-05-human-language-deep-safety-bias.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778090402000,
-        "summary": "Researchers at the University of Vermont have uncovered a powerful new insight about how language works—one that overturns a cornerstone assumption in psychology, linguistics, and artificial intelligence that has stood for more than 70 years.",
-        "tags": [
-          "other"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
-      },
-      {
-        "id": "13e5d0eb73e087e4",
-        "title": "Learn What It Takes to Become a Cybersecurity Consultant",
-        "url": "https://spectrum.ieee.org/ieee-guide-cybersecurity-consultant",
-        "source": "IEEE Spectrum",
-        "lane": "ai",
-        "published_ts": 1778090401000,
-        "summary": "Cybersecurity consultants have never been more in demand. Information security analyst roles are projected to grow nearly 30 percent between now and 2034, according to the U.S. Bureau of Labor Statistics. More than 15 million cybercrime incidents occurred worldwide in 2024, Statista reported.Data breaches are costly and pose direct safety risks. Statista reported that more than US $10 trillion is ",
-        "tags": [
-          "ieee-products-and-services",
-          "cybersecurity",
-          "ieee-computer-society",
-          "careers",
-          "computing",
-          "career-advice"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0987
-      },
-      {
-        "id": "7c067467b208e6dc",
-        "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778090153000,
-        "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a new AI model did not […]",
-        "tags": [
-          "ai",
-          "news",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8532
       }
     ],
     "science": [
+      {
+        "id": "136a5bdf3df09078",
+        "title": "Learning reveals invisible structure in low-rank RNNs",
+        "url": "https://arxiv.org/abs/2605.04115",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04115v1 Announce Type: new Abstract: Learning in neural systems arises from synaptic changes that reshape the representations underlying behavior. While low-rank recurrent neural networks (RNNs) have emerged as a powerful framework for linking connectivity to function, a theoretical understanding of their learning process remains elusive. Here, we extend the low-rank framework from acti",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "7fb69c3836e6234c",
+        "title": "Simultaneous CNN Approximation on Manifolds with Applications to Boundary Value Problems",
+        "url": "https://arxiv.org/abs/2605.04126",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04126v1 Announce Type: new Abstract: This paper develops convolutional neural network (CNN) methods for simultaneous approximation and elliptic boundary value problems on compact Riemannian manifolds. We establish simultaneous Sobolev approximation results for single- and multichannel CNNs, showing that manifold functions and their derivatives can be approximated with rates governed by ",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1276
+      },
+      {
+        "id": "e6367ff8f52dfa16",
+        "title": "RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction",
+        "url": "https://arxiv.org/abs/2605.04075",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04075v1 Announce Type: new Abstract: Multimodal Large Language Models face severe challenges in computational efficiency and memory consumption due to the substantial expansion of the visual KV cache when processing long visual contexts. Existing KV cache compression methods typically rely on the \"persistence of importance\" hypothesis to prune tokens. However, this approach proves fragi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
+      {
+        "id": "7d786cca5c9f7efb",
+        "title": "Constrained Extreme Gradient Boosting for Adapting Reduced-Order Models",
+        "url": "https://arxiv.org/abs/2605.04130",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04130v1 Announce Type: new Abstract: High-fidelity simulations, such as computational fluid dynamics and finite element analysis, are essential for modeling complex engineering systems but are often prohibitively expensive for tasks including parametric studies, optimization, and real-time control. Projection-based reduced-order models (ROMs) alleviate this cost by projecting the govern",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
+      {
+        "id": "961408b042449a2a",
+        "title": "Constraint-Enhanced Reinforcement Learning Based on Dynamic Decoupled Spherical Radial Squashing",
+        "url": "https://arxiv.org/abs/2605.04185",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04185v1 Announce Type: new Abstract: When deploying reinforcement learning policies to physical robots, actuator rate constraints -- hard limits on how fast each joint can move per control step -- are unavoidable. These limits vary substantially across joints due to differences in motor inertia, power bandwidth, and transmission stiffness, creating pronounced heterogeneity that existing",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
+      {
+        "id": "560b969634056c2e",
+        "title": "Climate-based Pre-screening of Self-sustaining Regreening Opportunities in Drylands: A Case Study for Saudi Arabia",
+        "url": "https://arxiv.org/abs/2605.04206",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04206v1 Announce Type: new Abstract: Large-scale restoration in drylands is widely promoted to address land degradation and biodiversity loss, yet many efforts rely on long-term irrigation, limiting sustainability in water-scarce regions. A key challenge is identifying locations where native vegetation can persist without intensive management while minimizing costly field campaigns. A s",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
       {
         "id": "beeb5837c9d5d445",
         "title": "Hourglass nanographenes unlock strong, robust multi-spin entanglement",
@@ -3674,96 +3771,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0196
-      },
-      {
-        "id": "b42f2861b7d54b7d",
-        "title": "'Much‑needed fresh air': 5 outcomes from the world's first summit on ending fossil fuels",
-        "url": "https://phys.org/news/2026-05-muchneeded-fresh-air-outcomes-world.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778083204000,
-        "summary": "Almost 60 countries, representing about a third of the global economy, met in the Colombian port city of Santa Marta for the first international summit on the transition away from fossil fuels.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "e9e7f9b6baefc531",
-        "title": "Fewer insects, fewer nutritious crops: Pollinator decline puts human health at risk",
-        "url": "https://phys.org/news/2026-05-insects-nutritious-crops-pollinator-decline.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778082004000,
-        "summary": "Biodiversity loss is directly threatening human health and welfare, according to new research led by the University of Bristol. The study, published in Nature reveals, for the first time, how the decline of insect pollinators undermines essential ecosystem services that support human nutrition and livelihoods. Biodiversity also plays a vital role in supporting people's everyday health and resilien",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.013
-      },
-      {
-        "id": "c527281d438fd097",
-        "title": "Webb and Hubble find massive star clusters emerge faster",
-        "url": "https://phys.org/news/2026-05-webb-hubble-massive-star-clusters.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778080801000,
-        "summary": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of evolution. Their findings show that more massive star clusters emerge more quickly from the clouds they are born in, clearing away gas and filling the galaxy with ultr",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0163
-      },
-      {
-        "id": "f67aa406556c5747",
-        "title": "What can singing mice say about human speech?",
-        "url": "https://phys.org/news/2026-05-mice-human-speech.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778079617000,
-        "summary": "Speech is a crowning achievement of human evolution, the skill that separates us from every other animal. So, it would stand to reason that evolving this capability required some enormous leap in brain complexity. A study published in Nature suggests otherwise.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0148
-      },
-      {
-        "id": "3dbb9edd83e1e7d2",
-        "title": "Deforestation may push Amazon degradation threshold below 2°C warming",
-        "url": "https://phys.org/news/2026-05-deforestation-amazon-degradation-threshold-2c.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778079613000,
-        "summary": "Around two-thirds of the Amazon rainforest could shift into degraded forest or savanna-like ecosystems at 1.5–1.9°C of global warming if deforestation increases to roughly 22–28% of the Amazon, according to a new study from the Potsdam Institute for Climate Impact Research (PIK) published in Nature. Without additional deforestation, by contrast, such large-scale changes would likely occur only at ",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0148
-      },
-      {
-        "id": "73ce5e84bc2570c4",
-        "title": "Dark proteome yields 1,785 new microproteins that could reshape disease research",
-        "url": "https://phys.org/news/2026-05-dark-proteome-yields-microproteins-reshape.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778079610000,
-        "summary": "Scientists have uncovered more than 1,700 new proteins that could have implications for human diseases, including cancer. Mostly very small, these proteins were found in what's called the \"dark proteome,\" which covers gene products from previously overlooked sections of DNA. These proteins have unusual properties, motivating scientists to coin a new concept, peptideins, to help understand their po",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0148
       }
     ]
   },
