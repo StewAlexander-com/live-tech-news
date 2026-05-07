@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T22:11:35.139978+00:00",
+  "generated_at": "2026-05-07T22:16:16.686530+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1961,6 +1961,21 @@
     ],
     "ai": [
       {
+        "id": "d9d1ce2d5e20699a",
+        "title": "Bumble will replace swiping right with... something",
+        "url": "https://www.engadget.com/2167487/bumble-will-replace-swiping-right-with-something/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778192025000,
+        "summary": "The company previously announced it was working on an AI assistant that can make matches.",
+        "tags": [
+          "apps"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7597
+      },
+      {
         "id": "4b6b0087eedb3424",
         "title": "OpenAI debuts a Codex plugin for Chrome",
         "url": "https://www.engadget.com/2167480/openai-debuts-a-codex-plugin-for-chrome/",
@@ -2894,21 +2909,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8533
-      },
-      {
-        "id": "43ead302c497c120",
-        "title": "The AI boom is now consuming more money than Apollo, the ISS, and the Manhattan Project combined — and it’s still accelerating in 2026",
-        "url": "https://www.techradar.com/ai-platforms-assistants/the-ai-boom-is-now-consuming-more-money-than-apollo-the-iss-and-the-manhattan-project-combined-and-its-still-accelerating-in-2026",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778167645000,
-        "summary": "AI investment has exploded beyond the scale of history’s biggest scientific megaprojects — and the world is only beginning to grasp what’s being built.",
-        "tags": [
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.915
       }
     ],
     "science": [
@@ -3813,21 +3813,21 @@
         "score": 0.9534
       },
       {
-        "id": "7fb69c3836e6234c",
-        "title": "Simultaneous CNN Approximation on Manifolds with Applications to Boundary Value Problems",
-        "url": "https://arxiv.org/abs/2605.04126",
+        "id": "136a5bdf3df09078",
+        "title": "Learning reveals invisible structure in low-rank RNNs",
+        "url": "https://arxiv.org/abs/2605.04115",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778126400000,
-        "summary": "arXiv:2605.04126v1 Announce Type: new Abstract: This paper develops convolutional neural network (CNN) methods for simultaneous approximation and elliptic boundary value problems on compact Riemannian manifolds. We establish simultaneous Sobolev approximation results for single- and multichannel CNNs, showing that manifold functions and their derivatives can be approximated with rates governed by ",
+        "summary": "arXiv:2605.04115v1 Announce Type: new Abstract: Learning in neural systems arises from synaptic changes that reshape the representations underlying behavior. While low-rank recurrent neural networks (RNNs) have emerged as a powerful framework for linking connectivity to function, a theoretical understanding of their learning process remains elusive. Here, we extend the low-rank framework from acti",
         "tags": [
           "cs.lg",
-          "cs.na",
-          "math.na"
+          "cs.ai",
+          "q-bio.nc"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7989
+        "score": 0.7977
       }
     ]
   },
