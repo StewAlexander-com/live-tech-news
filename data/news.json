@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-05-07T18:25:55.196980+00:00",
+  "generated_at": "2026-05-07T18:47:38.267172+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f580a056dcc6c0a5",
+        "title": "Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake",
+        "url": "https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778178900000,
+        "summary": "Prime members can also claim a code for Mafia II: Definitive Edition.",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7012
+      },
+      {
+        "id": "63adf287188b4594",
+        "title": "Your laptop's USB port is probably slower than advertised — here's how to verify it",
+        "url": "https://www.makeuseof.com/your-laptops-usb-port-is-probably-slower-than-advertised-heres-how-to-verify-it/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1778178618000,
+        "summary": "Manufacturers often add a fast port and a slow port... but never indicate which is which.",
+        "tags": [
+          "technology explained",
+          "usb",
+          "usb drive",
+          "jargon",
+          "hardware tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8453
+      },
       {
         "id": "5f0050de5357ece0",
         "title": "Valve will open reservations on May 8 for the second wave of Steam Controllers",
@@ -951,43 +985,98 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9065
-      },
-      {
-        "id": "6e8b76e67173add9",
-        "title": "Samsung study reveals Galaxy Watch can predict fainting 5 minutes before it happens",
-        "url": "https://www.androidpolice.com/samsung-study-reveals-galaxy-watch-can-predict-fainting-5-minutes-before-it-happens/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1778161366000,
-        "summary": "Not a feature yet",
-        "tags": [
-          "samsung galaxy watch",
-          "smartwatches & wearables",
-          "samsung galaxy watch"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9866
-      },
-      {
-        "id": "0e832459af607328",
-        "title": "I've looked through hundreds of gaming laptop deals today — these 4 are the only ones that buck the RAM crisis",
-        "url": "https://www.techradar.com/computing/gaming-laptops/ive-looked-through-hundreds-of-gaming-laptop-deals-today-these-4-are-the-only-ones-that-buck-the-ram-crisis",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778161167000,
-        "summary": "Gaming laptops are getting pricier and pricier, but there are still a few good options if you know where to look.",
-        "tags": [
-          "gaming laptops",
-          "computing",
-          "gaming computers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
       }
     ],
     "innovation": [
+      {
+        "id": "8e63e423bc758303",
+        "title": "Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video (Mark Gurman/Bloomberg)",
+        "url": "https://www.techmeme.com/260507/p34#a260507p34",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778179502000,
+        "summary": "Mark Gurman / Bloomberg: Sources: AirPods with cameras reached an advanced testing stage; the cameras will feed data to Siri to help answer questions, rather than take photos or video — Apple Inc. has reached the late stages of development for new AirPods with built-in cameras, a significant milestone for what will likely …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9992
+      },
+      {
+        "id": "a140331a56e8930d",
+        "title": "Tome, another Goodreads booktracker rival, shuts down",
+        "url": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778179138000,
+        "summary": "The app was one of several catering to the BookTok crowd.",
+        "tags": [
+          "apps",
+          "social",
+          "booktok",
+          "reading",
+          "tome"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7459
+      },
+      {
+        "id": "3eaa68db14572df1",
+        "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+        "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778178989000,
+        "summary": "Stockholm-based vibe coding platform Lovable it is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
+        "tags": [
+          "startups",
+          "tc",
+          "lovable",
+          "tech compensation"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7453
+      },
+      {
+        "id": "fb76c3630e360b25",
+        "title": "DIY Electrolysis Machine Removes Hair Permanently",
+        "url": "https://hackaday.com/2026/05/07/diy-electrolysis-machine-removes-hair-permanently/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778178633000,
+        "summary": "If you talk to the FDA, there’s only one permanent method of hair removal—electrolysis. This involves sticking a needle into a hair follicle, getting it very hot or running a …read more",
+        "tags": [
+          "home hacks",
+          "electrolysis",
+          "hair",
+          "hair removal",
+          "rp2040"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0741
+      },
+      {
+        "id": "f60336f40eb279ae",
+        "title": "Hackers hack victims hacked by other hackers",
+        "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778178532000,
+        "summary": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
+        "tags": [
+          "security",
+          "cybercrime",
+          "cybersecurity",
+          "hackers",
+          "hacking",
+          "sentinelone"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7435
+      },
       {
         "id": "179b53e97ca46de5",
         "title": "Kalshi doubles valuation in 5 months, hitting $22B",
@@ -1330,6 +1419,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.848
+      },
+      {
+        "id": "07b96fc8315cb97d",
+        "title": "The Greatest Match Cut in Cinematic History, Improved by Amazon Prime",
+        "url": "https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1778167294000,
+        "summary": "I’m sure there’s a scene marker right at the cut, so that’s why an ad got inserted there. But, my god. Someone at Amazon should go to prison for this. (I think it’s a total coincidence that the Febreze ad seems roughly color-matched to the sky. But scroll down in the Bluesky thread for some links to the absolute genius campaign from Cerveza Cristal beer, with spots specifically designed to integra",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0109
       },
       {
         "id": "9d129a0bb1b5c64c",
@@ -1857,95 +1959,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0718
-      },
-      {
-        "id": "1b1c3502969bffaa",
-        "title": "How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like in Rotterdam (John R. Quain/New York Times)",
-        "url": "https://www.techmeme.com/260507/p14#a260507p14",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778152248000,
-        "summary": "John R. Quain / New York Times: How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like in Rotterdam — After a crush of promises in 2016 that autonomous cars would soon rule the road, companies whose tech underpinned them have shifted …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9364
-      },
-      {
-        "id": "230945f7e7bfc3c0",
-        "title": "How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam (John R. Quain/New York Times)",
-        "url": "https://www.techmeme.com/260507/p14#a260507p14",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778152248000,
-        "summary": "John R. Quain / New York Times: How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam — After a crush of promises in 2016 that autonomous cars would soon rule the road, companies whose tech underpinned them have shifted …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9965
-      },
-      {
-        "id": "e462b2d308e14165",
-        "title": "Robert Downey Jr. Says \"It’s Absolute Horses—\" to Declare That Social Media Influencers Are the \"Stars of the Future\"",
-        "url": "https://www.reddit.com/r/technology/comments/1t674xs/robert_downey_jr_says_its_absolute_horses_to/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778151670000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9438
-      },
-      {
-        "id": "cf04efa94362a592",
-        "title": "Samsung says it is ceasing sales of TVs and appliances in China amid fierce competition from local brands; Samsung's TV and appliance unit lost ~$138M in 2025 (Kwanwoo Jun/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260507/p13#a260507p13",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778151633000,
-        "summary": "Kwanwoo Jun / Wall Street Journal: Samsung says it is ceasing sales of TVs and appliances in China amid fierce competition from local brands; Samsung's TV and appliance unit lost ~$138M in 2025 — The company will continue to sell smartphones and computer chips in China — Samsung Electronics is ceasing sales of televisions …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9933
-      },
-      {
-        "id": "5e9b6d8c5eefdf92",
-        "title": "University of Utah’s TRIGA Research Reactor Set to Produce Electricity",
-        "url": "https://hackaday.com/2026/05/07/university-of-utahs-triga-research-reactor-set-to-produce-electricity/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1778151625000,
-        "summary": "Research reactors come in many forms and sizes, with the TRIGA class being commonly found at universities. The TRIGA reactor at the University of Utah was installed in 1975, and …read more",
-        "tags": [
-          "green hacks",
-          "brayton cycle",
-          "microreactor",
-          "nuclear power",
-          "triga"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0727
-      },
-      {
-        "id": "3f8acaba2b512b2a",
-        "title": "UK-based Quantum Motion, which builds quantum computers on silicon chips, raised a $160M Series C; EU-backed growth fund Kembara made its first investment (Bloomberg)",
-        "url": "https://www.techmeme.com/260507/p12#a260507p12",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778151002000,
-        "summary": "Bloomberg: UK-based Quantum Motion, which builds quantum computers on silicon chips, raised a $160M Series C; EU-backed growth fund Kembara made its first investment — Kembara, a technology growth fund backed by the European Union, made its first investment, supporting a British startup that builds quantum computers running on silicon chips.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0782
       }
     ],
     "ai": [
+      {
+        "id": "a1caeb57d74faa88",
+        "title": "OpenAI launches three voice models in the API: GPT-Realtime-2 with GPT-5-class reasoning, GPT-Realtime-Whisper for transcription, and GPT-Realtime-Translate (Zac Hall/9to5Mac)",
+        "url": "https://www.techmeme.com/260507/p33#a260507p33",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778178003000,
+        "summary": "Zac Hall / 9to5Mac: OpenAI launches three voice models in the API: GPT-Realtime-2 with GPT-5-class reasoning, GPT-Realtime-Whisper for transcription, and GPT-Realtime-Translate — OpenAI has just released three new realtime voice models that it says will “unlock a new class of voice apps for developers.”",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9912
+      },
       {
         "id": "4c0e8ffe624fb04f",
         "title": "OpenAI launches three new real-time voice models for reasoning, translation, and transcription, included in its Realtime API (Zac Hall/9to5Mac)",
@@ -2033,6 +2062,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.022
+      },
+      {
+        "id": "c56e54e1665869aa",
+        "title": "Principles for agent-native CLIs",
+        "url": "https://twitter.com/trevin/status/2051316002730991795",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778175605000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
       },
       {
         "id": "a05584299276bcc0",
@@ -2875,40 +2920,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7991
-      },
-      {
-        "id": "ad27a9c5db20349d",
-        "title": "Musk's SpaceX has rented out access to its supercomputer's 220,000 Nvidia GPUs and 300 megawatts of AI compute power to rival Anthropic — Musk says “No one set off my evil detector,” Antrhropic also interested in orbital data centers",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778156395000,
-        "summary": "Anthropic has signed a deal with SpaceX to access the latter's massive data center, which has over 220,000 Nvidia GPUs and 300 megawatts of computing power.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0148
-      },
-      {
-        "id": "da0b457d3eb5ec09",
-        "title": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding",
-        "url": "https://www.reddit.com/r/technology/comments/1t68szv/anthropic_strikes_spacex_data_center_deal_as_it/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778156206000,
-        "summary": "submitted by /u/talkingatoms [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9981
       }
     ],
     "science": [
+      {
+        "id": "d9dd9e6cf5f33749",
+        "title": "Modern experiments suggest rhino teeth may have been part of Neanderthal toolkits",
+        "url": "https://phys.org/news/2026-05-modern-rhino-teeth-neanderthal-toolkits.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778179203000,
+        "summary": "Neanderthals may not only have feasted on rhinoceroses, they may also have used their exceptionally hard teeth as specialized tools for a range of tasks, such as retouching the edges of stone tools.",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0175
+      },
       {
         "id": "8d698b909528de4f",
         "title": "Researchers combine five metals to build a better nanocrystal",
@@ -3637,6 +3666,19 @@
         "score": 1.044
       },
       {
+        "id": "ff9b6a89fd8fffa2",
+        "title": "Early-career researchers do more ‘disruptive’ science than veterans",
+        "url": "https://www.nature.com/articles/d41586-026-01466-z",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1778112000000,
+        "summary": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01466-zAnalysis of papers from millions of scientists shows that older researchers tend to stick with ideas from their past.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8008
+      },
+      {
         "id": "64963960fce9bb5b",
         "title": "My English skills are hurting my chances in academic publishing — how can I improve?",
         "url": "https://www.nature.com/articles/d41586-026-01350-w",
@@ -3794,41 +3836,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0189
-      },
-      {
-        "id": "ef6d9a142c5e677b",
-        "title": "SpaceX is starting to move on from the world's most successful rocket",
-        "url": "https://arstechnica.com/space/2026/05/spacex-is-starting-to-move-on-from-the-worlds-most-successful-rocket/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1778106527000,
-        "summary": "Vandenberg Space Force Base in California is set to become SpaceX's busiest launch site—for now.",
-        "tags": [
-          "science",
-          "space",
-          "falcon 9",
-          "launch",
-          "spacex",
-          "starlink"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0784
-      },
-      {
-        "id": "544c7bb88afa4a66",
-        "title": "How higher temperatures can benefit (or devastate) bumble bee populations",
-        "url": "https://phys.org/news/2026-05-higher-temperatures-benefit-devastate-bumble.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778106007000,
-        "summary": "New research finds that higher temperatures can actually benefit some bumble bee species—particularly those that make subterranean nests. However, periods of extreme heat appear to offset those benefits, and may contribute to declining bumble bee populations in the southeastern United States. The paper, \"Nesting biology shapes climate vulnerability of social bees (Bombus spp.),\" is published in th",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0173
       }
     ]
   },
