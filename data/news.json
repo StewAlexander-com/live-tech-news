@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T13:31:11.816328+00:00",
+  "generated_at": "2026-05-07T13:39:44.218790+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2622,6 +2622,58 @@
         "score": 1.0652
       },
       {
+        "id": "d819ea00593b5064",
+        "title": "Lookahead Drifting Model",
+        "url": "https://arxiv.org/abs/2605.04060",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04060v1 Announce Type: new Abstract: Recently, a new paradigm named \\emph{drifting model} has been proposed for mapping distributions, which achieves the SOTA image generation performance over ImageNet via one-step neural functional evaluation (NFE). The basic idea is to compute a drifting term at each training iteration and then push the output of the model towards the direction of the",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9415
+      },
+      {
+        "id": "c222147e62bc090f",
+        "title": "Improving Medical VQA through Trajectory-Aware Process Supervision",
+        "url": "https://arxiv.org/abs/2605.04064",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04064v1 Announce Type: new Abstract: Reasoning capabilities are crucial for reliable medical visual question answering (VQA); however, existing datasets rarely include reasoning explanations. We address this by generating reasoning trajectories for six medical VQA benchmarks using the COMCTS algorithm with open-source vision-language models, with an LLM serving as the verification judge",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9415
+      },
+      {
+        "id": "bdacffc0dba7cbbb",
+        "title": "LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment",
+        "url": "https://arxiv.org/abs/2605.04069",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04069v1 Announce Type: new Abstract: We introduce LAWS (Learning from Actual Workloads Symbolically), a self-certifying inference caching architecture that builds a growing library of certified expert functions from deployment observations. Each expert covers a region of input space defined by a node in the Probabilistic Language Trie (PLT) of the base model and carries a formal error b",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.it",
+          "cs.ne",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9415
+      },
+      {
         "id": "60fc27be3e12aff3",
         "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
         "url": "https://arxiv.org/abs/2605.03078",
@@ -2710,53 +2762,6 @@
         "published_ts": 1778126400000,
         "summary": "arXiv:2605.03675v1 Announce Type: new Abstract: Long-running autonomous AI agents suffer from a well-documented memory coherence problem: tool-execution success rates degrade 14 percentage points over 72-hour operation windows due to four compounding failure modes in existing flat-file memory systems. We present MEMTIER, a tripartite memory architecture for the OpenClaw agent runtime that introduc",
         "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
-      },
-      {
-        "id": "206290664346d0da",
-        "title": "Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics",
-        "url": "https://arxiv.org/abs/2605.04054",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.04054v1 Announce Type: new Abstract: Achieving endogenous regime switching is crucial for the emergence of autonomous intelligence, yet remains a central challenge for existing machine learning frameworks, where such transitions are typically externally imposed. In this work, we introduce a classification that distinguishes scalar-reducible dynamics, which can be expressed as gradient f",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
-      },
-      {
-        "id": "7ee5ea9af02e5c5a",
-        "title": "Transformation Categorization Based on Group Decomposition Theory Using Parameter Division",
-        "url": "https://arxiv.org/abs/2605.04056",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.04056v1 Announce Type: new Abstract: Representation learning seeks meaningful sensory representations without supervision and can model aspects of human development. Although many neural networks empirically learn useful features, a principled account of what makes a representation \"good\" remains elusive. We study unsupervised categorization of transformations between pairs of inputs un",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
-      },
-      {
-        "id": "d8bf8a16e1cb3ec5",
-        "title": "Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search",
-        "url": "https://arxiv.org/abs/2605.04057",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.04057v1 Announce Type: new Abstract: This paper focuses on a key challenge in Neural Architecture Search (NAS): integrating established architectural knowledge while exploring new designs under expensive evaluations. Large language models (LLMs) are a promising assistant for NAS because they can translate rich architectural and coding priors into executable code edits. However, in pract",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
