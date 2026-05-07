@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-07T13:39:44.218790+00:00",
+  "generated_at": "2026-05-07T13:42:49.395699+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0e832459af607328",
+        "title": "I've looked through hundreds of gaming laptop deals today — these 4 are the only ones that buck the RAM crisis",
+        "url": "https://www.techradar.com/computing/gaming-laptops/ive-looked-through-hundreds-of-gaming-laptop-deals-today-these-4-are-the-only-ones-that-buck-the-ram-crisis",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778161167000,
+        "summary": "Gaming laptops are getting pricier and pricier, but there are still a few good options if you know where to look.",
+        "tags": [
+          "gaming laptops",
+          "computing",
+          "gaming computers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8491
+      },
       {
         "id": "8df828e2385442b2",
         "title": "More than 70,000 US Army files were exposed ‘for over a year’ even after CISA warning – sensitive personnel info and base schematics stored in vulnerable Open Directory Listing",
@@ -159,7 +176,7 @@
         "summary": "These are the tips and tricks I use as a pro photographer to take aurora photos with my phone or camera.",
         "tags": [],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.7966
       },
       {
@@ -172,7 +189,7 @@
         "summary": "Commentary: I'm 38 now, and my tolerance for annoying tech is getting slimmer by the day.",
         "tags": [],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.7965
       },
       {
@@ -911,19 +928,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7028
-      },
-      {
-        "id": "34b45883235570af",
-        "title": "Surprise! Nintendo's StarFox Remake Hits Switch 2 on June 25",
-        "url": "https://www.cnet.com/tech/gaming/surprise-nintendos-starfox-remake-hits-switch-2-june-25/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778107020000,
-        "summary": "It looks like a remake of StarFox 64, but the visuals look impressive.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8053
       }
     ],
     "innovation": [
@@ -1965,6 +1969,21 @@
         "score": 1.0148
       },
       {
+        "id": "da0b457d3eb5ec09",
+        "title": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding",
+        "url": "https://www.reddit.com/r/technology/comments/1t68szv/anthropic_strikes_spacex_data_center_deal_as_it/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778156206000,
+        "summary": "submitted by /u/talkingatoms [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9981
+      },
+      {
         "id": "4b85608031bc23be",
         "title": "The rise of AI Orchestration Layers: BadCo.AI on guiding a more connected car buying experience",
         "url": "https://thenextweb.com/news/ai-orchestration-car-buying-badco-ai",
@@ -2622,6 +2641,53 @@
         "score": 1.0652
       },
       {
+        "id": "206290664346d0da",
+        "title": "Endogenous Regime Switching Driven by Scalar-Irreducible Learning Dynamics",
+        "url": "https://arxiv.org/abs/2605.04054",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04054v1 Announce Type: new Abstract: Achieving endogenous regime switching is crucial for the emergence of autonomous intelligence, yet remains a central challenge for existing machine learning frameworks, where such transitions are typically externally imposed. In this work, we introduce a classification that distinguishes scalar-reducible dynamics, which can be expressed as gradient f",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9406
+      },
+      {
+        "id": "7ee5ea9af02e5c5a",
+        "title": "Transformation Categorization Based on Group Decomposition Theory Using Parameter Division",
+        "url": "https://arxiv.org/abs/2605.04056",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04056v1 Announce Type: new Abstract: Representation learning seeks meaningful sensory representations without supervision and can model aspects of human development. Although many neural networks empirically learn useful features, a principled account of what makes a representation \"good\" remains elusive. We study unsupervised categorization of transformations between pairs of inputs un",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9406
+      },
+      {
+        "id": "d8bf8a16e1cb3ec5",
+        "title": "Structured Progressive Knowledge Activation for LLM-Driven Neural Architecture Search",
+        "url": "https://arxiv.org/abs/2605.04057",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778126400000,
+        "summary": "arXiv:2605.04057v1 Announce Type: new Abstract: This paper focuses on a key challenge in Neural Architecture Search (NAS): integrating established architectural knowledge while exploring new designs under expensive evaluations. Large language models (LLMs) are a promising assistant for NAS because they can translate rich architectural and coding priors into executable code edits. However, in pract",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9406
+      },
+      {
         "id": "d819ea00593b5064",
         "title": "Lookahead Drifting Model",
         "url": "https://arxiv.org/abs/2605.04060",
@@ -2704,72 +2770,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1276
-      },
-      {
-        "id": "085f25851efcf672",
-        "title": "Stop Automating Peer Review Without Rigorous Evaluation",
-        "url": "https://arxiv.org/abs/2605.03202",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.03202v1 Announce Type: new Abstract: Large language models offer a tempting solution to address the peer review crisis. This position paper argues that today's AI systems should not be used to produce paper reviews. We ground this position in an empirical comparison of human- versus AI-generated ICLR 2026 reviews and an evaluation of the effect of automated paper rewriting on different ",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
-      },
-      {
-        "id": "0af0f1c7238cb9df",
-        "title": "Robust Agent Compensation (RAC): Teaching AI Agents to Compensate",
-        "url": "https://arxiv.org/abs/2605.03409",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.03409v1 Announce Type: new Abstract: We present Robust Agent Compensation (RAC), a log-based recovery paradigm (providing a safety net) implemented through an architectural extension that can be applied to most Agent frameworks to support reliable executions (avoiding unintended side effects). Users can choose to enable RAC without changing their current agent code (e.g., LangGraph agen",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
-      },
-      {
-        "id": "d7b5a4a0c7c0e1b2",
-        "title": "Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies",
-        "url": "https://arxiv.org/abs/2605.03596",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.03596v1 Announce Type: new Abstract: Workspace learning requires AI agents to identify, reason over, exploit, and update explicit and implicit dependencies among heterogeneous files in a worker's workspace, enabling them to complete both routine and advanced tasks effectively. Despite its importance, existing relevant benchmarks largely evaluate agents on pre-specified or synthesized fi",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.db",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
-      },
-      {
-        "id": "dab43e48ceaab246",
-        "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
-        "url": "https://arxiv.org/abs/2605.03675",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778126400000,
-        "summary": "arXiv:2605.03675v1 Announce Type: new Abstract: Long-running autonomous AI agents suffer from a well-documented memory coherence problem: tool-execution success rates degrade 14 percentage points over 72-hour operation windows due to four compounding failure modes in existing flat-file memory systems. We present MEMTIER, a tripartite memory architecture for the OpenClaw agent runtime that introduc",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1276
       }
     ],
     "science": [
+      {
+        "id": "4319c207876debcb",
+        "title": "Study seeks to stave off mitochondrial dysfunction believed to cause aging",
+        "url": "https://phys.org/news/2026-05-stave-mitochondrial-dysfunction-believed-aging.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778161207000,
+        "summary": "Dysfunction resulting from mitochondrial DNA mutations has been implicated in multiple human pathologies, including neurodegenerative disorders, metabolic syndromes, cancer and cardiovascular disease. The stress from mtDNA mutations is thought to play a significant role in the aging process and age-related diseases.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
+      {
+        "id": "671d9c576e7c9c7d",
+        "title": "Streetlights trigger bizarre 'death spirals' in thousands of isopods, scientists find",
+        "url": "https://phys.org/news/2026-05-streetlights-trigger-bizarre-death-spirals.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778161201000,
+        "summary": "A new study led by Ph.D. student Idan Sheizaf, under the guidance of Prof. Ariel Chipman from The Hebrew University of Jerusalem, has documented a never-before-seen behavioral phenomenon: thousands of land-dwelling isopods forming massive, synchronized circular processions. This behavior appears to be an unintended consequence of artificial light at night.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
       {
         "id": "d7bbac20629dd85b",
         "title": "Tree communities shape hidden energy flows under European forests",
@@ -3657,36 +3690,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0177
-      },
-      {
-        "id": "3cdb5d18423fa260",
-        "title": "Room-temperature nanoscale measurements could accelerate molecular electronics research",
-        "url": "https://phys.org/news/2026-05-room-temperature-nanoscale-molecular-electronics.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778092805000,
-        "summary": "Researchers at the University of Alicante (UA) have developed a highly precise method for measuring distances at the nanometer scale at room temperature, opening up new avenues in molecular electronics research. The team, based at the UA Quantum Transport Laboratory (QT-Lab), has also identified gold nanocontacts just three atoms thick for the first time, significantly advancing current understand",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0991
-      },
-      {
-        "id": "834cb9565f882bf1",
-        "title": "Even the most remote ocean is contaminated with zinc from human sources, research reveals",
-        "url": "https://phys.org/news/2026-05-remote-ocean-contaminated-zinc-human.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778091604000,
-        "summary": "The vast, deserted South Pacific is considered unspoiled nature. But this ocean is not as unspoiled as we would like to think. A new study by a group of researchers from ETH Zurich and the GEOMAR Helmholtz Center for Ocean Research in Kiel sheds light on this premise.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
       }
     ]
   },
