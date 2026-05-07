@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-07T23:32:04.036840+00:00",
+  "generated_at": "2026-05-07T23:50:52.987190+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1f7ecf8441a94d32",
+        "title": "The yearly NBN price hike is imminent — here's how much more you can expect to pay",
+        "url": "https://www.techradar.com/computing/wi-fi-broadband/the-yearly-nbn-price-hike-is-imminent-heres-how-much-more-you-can-expect-to-pay",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778196663000,
+        "summary": "We're a couple of months away from NBN Co making wholesale pricing adjustments — now's the time to start rethinking your NBN plan at home.",
+        "tags": [
+          "wi-fi &amp; broadband",
+          "computing",
+          "internet"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8446
+      },
       {
         "id": "254dd6a8328e8fc5",
         "title": "Twitch has new penalties for streamers caught viewbotting, CEO says",
@@ -940,26 +957,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0776
-      },
-      {
-        "id": "d7a0597f5c1a522e",
-        "title": "Star Fox 64 is getting yet another remake, this time for Nintendo Switch 2",
-        "url": "https://www.techradar.com/gaming/nintendo/star-fox-64-is-getting-yet-another-remake-this-time-for-nintendo-switch-2",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778167781000,
-        "summary": "Nintendo has revealed a new Star Fox game, and it's a Star Fox 64 remake for Switch 2.",
-        "tags": [
-          "nintendo",
-          "gaming",
-          "consoles &amp; pc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8478
       }
     ],
     "innovation": [
+      {
+        "id": "df2ee45310a968e6",
+        "title": "French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe (Lora Kolodny/CNBC)",
+        "url": "https://www.techmeme.com/260507/p48#a260507p48",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778197201000,
+        "summary": "Lora Kolodny / CNBC: French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe — French cybercrime authorities have escalated an investigation of Elon Musk and his social network X to a criminal probe, the Paris prosecutor's office said Thursday.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9965
+      },
       {
         "id": "378fd5e6fb920579",
         "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
@@ -1041,6 +1054,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9965
+      },
+      {
+        "id": "aacee9b97d4d502d",
+        "title": "Developing: ShinyHunters Hacks Instructure Again; Canvas Down",
+        "url": "https://www.reddit.com/r/technology/comments/1t6q563/developing_shinyhunters_hacks_instructure_again/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778194216000,
+        "summary": "submitted by /u/thejoshwhite [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9317
       },
       {
         "id": "839343eb954c7f5e",
@@ -1916,37 +1944,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8975
-      },
-      {
-        "id": "7943276e49c74004",
-        "title": "Nova Intelligence, which is building agentic AI for SAP ahead of a 2030 migration, raised a $31.5M Series A led by Chemistry, taking its total funding to $40M+ (Lily Mae Lazarus/Fortune)",
-        "url": "https://www.techmeme.com/260507/p27#a260507p27",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778169000000,
-        "summary": "Lily Mae Lazarus / Fortune: Nova Intelligence, which is building agentic AI for SAP ahead of a 2030 migration, raised a $31.5M Series A led by Chemistry, taking its total funding to $40M+ — An estimated 77% of the world's transactions touch an SAP system at some point. And most of that code is decades old …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.074
-      },
-      {
-        "id": "90e984ff25877ea7",
-        "title": "Photonics advance could enable compact, high-performance lidar sensors",
-        "url": "https://phys.org/news/2026-05-photonics-advance-enable-compact-high.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1778168401000,
-        "summary": "Lidar systems use pulses of infrared light to measure distance and map a 3D scene with high resolution, allowing autonomous vehicles to rapidly react to obstacles that appear in their path. But traditional lidar sensors are expensive, bulky systems with many moving parts that degrade over time, limiting how the sensors can be deployed.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0111
       }
     ],
     "ai": [
+      {
+        "id": "5573ca63056b05ee",
+        "title": "AI tool unifies fragmented cell maps into spatial atlases across tissues",
+        "url": "https://phys.org/news/2026-05-ai-tool-fragmented-cell-spatial.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1778197205000,
+        "summary": "A new computational method could dramatically accelerate efforts to map the body's cells in space, according to a study published in Nature Genetics. Spatial multi-omics technologies—often described as ultra-high-resolution maps of tissues—allow scientists to see not only which genes or proteins are active in a cell, but exactly where that activity occurs. That spatial context is critical for unde",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0978
+      },
       {
         "id": "ad3a9d1e23fbf80d",
         "title": "New AI solution developed for smarter urban and climate planning",
@@ -2871,24 +2886,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8551
-      },
-      {
-        "id": "0ccddfaba1740e2c",
-        "title": "Samsung keeps reviving Bixby in new ways, and I still don't know who it's for",
-        "url": "https://www.androidpolice.com/samsung-still-wants-bixby/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1778170511000,
-        "summary": "Samsung has Gemini, so why is Bixby still chasing attention?",
-        "tags": [
-          "bixby",
-          "samsung",
-          "utilities",
-          "bixby"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9993
       }
     ],
     "science": [
