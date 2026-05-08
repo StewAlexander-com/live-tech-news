@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T14:02:56.919336+00:00",
+  "generated_at": "2026-05-08T14:05:32.856263+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2638,6 +2638,22 @@
         "score": 0.9903
       },
       {
+        "id": "d0926164eaafd51f",
+        "title": "Balancing Stability and Plasticity in Sequentially Trained Early-Exiting Neural Networks",
+        "url": "https://arxiv.org/abs/2605.05358",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05358v1 Announce Type: new Abstract: Early-exiting neural networks enable adaptive inference by allowing inputs to exit at intermediate classifiers, reducing computation for easy samples while maintaining high accuracy. In practice, exits can be trained sequentially by incrementally adding them to a shared backbone; however, this sequential training can cause newly introduced exits to i",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9337
+      },
+      {
         "id": "1fdaa33bab2faa77",
         "title": "Understanding Annotator Safety Policy with Interpretability",
         "url": "https://arxiv.org/abs/2605.05329",
@@ -2795,23 +2811,6 @@
           "cs.lg",
           "cs.ai",
           "cs.ne"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1325
-      },
-      {
-        "id": "a24c46dc38527e8b",
-        "title": "Expert Routing for Communication-Efficient MoE via Finite Expert Banks",
-        "url": "https://arxiv.org/abs/2605.05278",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05278v1 Announce Type: new Abstract: Resource-efficient machine learning increasingly uses sparse Mixture-of-Experts (MoE) architectures, where the gate acts as both a learning component and a routing interface controlling computation, communication, and accuracy. Motivated by finite-rate interpretations of MoE gating, we treat the gate as a stochastic channel and use $I(X;T)$ to quanti",
-        "tags": [
-          "cs.lg",
-          "cs.it",
-          "math.it"
         ],
         "paywall": false,
         "impact": "high",
