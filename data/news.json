@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T18:28:07.896625+00:00",
+  "generated_at": "2026-05-08T18:43:33.959764+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -997,6 +997,24 @@
     ],
     "innovation": [
       {
+        "id": "0b646f7684a1ed42",
+        "title": "How Commodore Made a Sync Splitter",
+        "url": "https://hackaday.com/2026/05/08/how-commodore-made-a-sync-splitter/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778265045000,
+        "summary": "Recently we featured an unusual Commodore 8-bit computer on the bench of [Tynemouth Software] — a Commodore 64 in a PET case. One of the unique parts it had was …read more",
+        "tags": [
+          "retrocomputing",
+          "commodore",
+          "sync splitter",
+          "video"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1616
+      },
+      {
         "id": "6eef818639e74409",
         "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
         "url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
@@ -1934,24 +1952,28 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8969
-      },
-      {
-        "id": "9b897c73024c3e5f",
-        "title": "GameStop CEO's eBay account reinstated following takeover PR stunt",
-        "url": "https://www.theregister.com/legal/2026/05/08/gamestop-ceos-ebay-account-resurrected-following-pr-stunt/5235674",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778240811000,
-        "summary": "Ryan Cohen briefly banned after bootstrapping cash ostensibly to buy the auction site",
-        "tags": [
-          "legal"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0439
       }
     ],
     "ai": [
+      {
+        "id": "10aea9cdd546aae4",
+        "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+        "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778265201000,
+        "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+        "tags": [
+          "ai",
+          "enterprise",
+          "tc",
+          "cloudflare",
+          "layoffs"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8052
+      },
       {
         "id": "8afce4313e44fe11",
         "title": "Akamai says it struck a seven-year cloud computing deal with a \"leading frontier model provider\"; sources: the deal was with Anthropic and is worth $1.8B (Rachel Metz/Bloomberg)",
@@ -1995,6 +2017,22 @@
         "score": 0.8813
       },
       {
+        "id": "56562e8d8ef6a71d",
+        "title": "AI Is Breaking Two Vulnerability Cultures",
+        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778262908000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1165
+      },
+      {
         "id": "4933c22d5af7daee",
         "title": "Counting on AI to Solve Problems Makes Us More Likely to Struggle and Give Up, Study Suggests",
         "url": "https://www.cnet.com/tech/services-and-software/counting-on-ai-to-solve-problems-makes-us-more-likely-to-struggle-and-give-up-study-suggests/",
@@ -2006,6 +2044,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8728
+      },
+      {
+        "id": "32ab3bc8473c33ce",
+        "title": "Cloudflare is laying off 1,100 employees to prepare for 'the agentic AI era'",
+        "url": "https://www.reddit.com/r/technology/comments/1t7f2e1/cloudflare_is_laying_off_1100_employees_to/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778262134000,
+        "summary": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.006
       },
       {
         "id": "2a96756922960d27",
@@ -2864,53 +2917,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0757
-      },
-      {
-        "id": "7b06a834d1b1afe7",
-        "title": "Google's DeepMind to train AI on player actions in quarter-million-player MMORPG Eve Online — Google bought in by purchasing a minority stake in the newly independent Fenris Creations",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-deepmind-to-train-ai-on-player-actions-in-quarter-million-player-mmorpg-eve-online-google-bought-in-by-purchasing-a-minority-stake-in-the-newly-independent-fenris-creations",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778236800000,
-        "summary": "Google will leverage data from one of the most complex and multi-layered sci-fi RPGs to train its AI, as DeepMind begins training in Eve Online.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0253
-      },
-      {
-        "id": "a98f07bca06aedba",
-        "title": "Spotify Now Plays Personal Podcasts Generated by Your AI Agent",
-        "url": "https://www.macrumors.com/2026/05/08/spotify-personal-podcasts-ai-agent/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778236303000,
-        "summary": "Spotify has launched a new feature that lets users save AI-generated audio briefings called Personal Podcasts directly to their Spotify library. It uses a new command-line tool for desktop that works with AI coding agents like OpenAI's Codex and Anthropic's Claude Code. After you install the Save to Spotify CLI from GitHub and sign into your Spotify account, you can prompt the agent to generate a ",
-        "tags": [
-          "spotify"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0773
-      },
-      {
-        "id": "e509f7de3f883083",
-        "title": "Google is turning Gemini into a 24/7 AI agent that plans your life for you",
-        "url": "https://www.techradar.com/ai-platforms-assistants/google-is-turning-gemini-into-a-24-7-ai-agent-that-plans-your-life-for-you",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778236265000,
-        "summary": "Google is pushing Gemini to become an AI agent for organizing lives",
-        "tags": [
-          "ai platforms &amp; assistants",
-          "gemini"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9155
       }
     ],
     "science": [
@@ -3496,6 +3502,19 @@
         "score": 1.005
       },
       {
+        "id": "5673c2e4fc41ed81",
+        "title": "Goodbye GDP? 31 ways to replace the world's favourite measure of economic health",
+        "url": "https://www.nature.com/articles/d41586-026-01511-x",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1778198400000,
+        "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01511-xProposed UN progress indicators include greenhouse gas emissions, life expectancy and children's performance in reading and maths.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8019
+      },
+      {
         "id": "adb3beae5eeb7a9e",
         "title": "World-leading climate centre takes Trump administration to court",
         "url": "https://www.nature.com/articles/d41586-026-01501-z",
@@ -3802,21 +3821,6 @@
         "summary": "There may be an ultraheavy explanation for the mystery surrounding the origins of the highest-energy particles ever observed. Ultrahigh-energy cosmic rays are particles from space that strike Earth with energies far beyond those reachable by human-made particle accelerators. One of the most extreme events ever recorded is the \"Amaterasu particle,\" detected by the Telescope Array in Utah in 2021 an",
         "tags": [
           "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "e5528925344c59ee",
-        "title": "Next-gen Mars helicopter rotor blades exceed Mach 1",
-        "url": "https://phys.org/news/2026-05-gen-mars-helicopter-rotor-blades.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778187604000,
-        "summary": "The rotor blades that will carry NASA's next-generation helicopters to new Martian heights broke the sound barrier during March tests at NASA's Jet Propulsion Laboratory in Southern California. Data from the tests, which took place in a special chamber that can simulate environmental conditions on the Red Planet, indicate that the fastest traveling part of the rotor blade, the tips, can be acceler",
-        "tags": [
-          "planetary sciences"
         ],
         "paywall": false,
         "impact": "high",
