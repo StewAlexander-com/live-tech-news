@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T14:47:46.895069+00:00",
+  "generated_at": "2026-05-08T15:03:31.050969+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -957,6 +957,24 @@
     ],
     "innovation": [
       {
+        "id": "49804131f05f2956",
+        "title": "Windows 11 has a DNS privacy setting I wish I'd checked sooner",
+        "url": "https://www.makeuseof.com/windows-11-has-a-dns-privacy-setting-i-wish-id-checked-sooner/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778252418000,
+        "summary": "I'll bet you didn't know Windows 11 does this, either.",
+        "tags": [
+          "networking",
+          "dns",
+          "computer privacy",
+          "privacy tips"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8491
+      },
+      {
         "id": "a52d7f1760ae70da",
         "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage?",
         "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
@@ -1026,6 +1044,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7441
+      },
+      {
+        "id": "5e14218fbeac15c3",
+        "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+        "url": "https://www.reddit.com/r/technology/comments/1t79gr0/thousands_of_vibecoded_apps_expose_corporate_and/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778250241000,
+        "summary": "submitted by /u/CackleRooster [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.938
       },
       {
         "id": "f2b2a234c0688015",
@@ -1861,37 +1894,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.999
-      },
-      {
-        "id": "d6a6e21fef64c238",
-        "title": "Nvidia’s ISP piracy defense backfires as judge refuses to dismiss copyright lawsuit over more than 197,000 pirated books — scripts in NeMo Framework allegedly ‘have no other purpose’ than to speed up infringement",
-        "url": "https://www.reddit.com/r/technology/comments/1t6z9km/nvidias_isp_piracy_defense_backfires_as_judge/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778220306000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.943
-      },
-      {
-        "id": "1b8bc7122b62f3f3",
-        "title": "Fintech app Toss, used by ~66% of South Korea's 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September (Financial Times)",
-        "url": "https://www.techmeme.com/260508/p5#a260508p5",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778219401000,
-        "summary": "Financial Times: Fintech app Toss, used by ~66% of South Korea's 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September — Fintech company aims to ‘eliminate physical credit cards’ in South Korea in three years",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9879
       }
     ],
     "ai": [
+      {
+        "id": "adb8af2f672f3c6c",
+        "title": "Sony and Bandai get into bed with generative AI",
+        "url": "https://www.engadget.com/2167841/sony-and-bandai-get-into-bed-with-generative-ai/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778252442000,
+        "summary": "The company also outlined AI's role in the future of PlayStation.",
+        "tags": [
+          "playstation"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7596
+      },
+      {
+        "id": "e2bf7e3b96c1f530",
+        "title": "Cloudflare To Cut About 20% Workforce As AI Adoption Reshapes Operations",
+        "url": "https://slashdot.org/story/26/05/08/040251/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778252400000,
+        "summary": "Cloudflare plans to cut about 20% of its workforce, or more than 1,100 employees, as it restructures around an \"agentic AI-first operating model.\" Reuters reports: Cloudflare CEO Matthew Prince and co-founder Michelle Zatlyn said in a message to employees that the company was reimagining every team and function to operate in what they described as an agentic AI era. Cloudflare said the job cuts re",
+        "tags": [
+          "business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
       {
         "id": "583ad0ef06b9f1c4",
         "title": "Investor letter: TCI, one of the world's biggest hedge funds, cut almost all of its $8B stake in Microsoft, citing AI-related risks to Office and Azure (Costas Mourselas/Financial Times)",
@@ -2763,73 +2798,82 @@
         "score": 0.9903
       },
       {
-        "id": "1fdaa33bab2faa77",
-        "title": "Understanding Annotator Safety Policy with Interpretability",
-        "url": "https://arxiv.org/abs/2605.05329",
+        "id": "f5beb67712a9e3f5",
+        "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias",
+        "url": "https://arxiv.org/abs/2605.05427",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value p",
+        "summary": "arXiv:2605.05427v1 Announce Type: new Abstract: As Large Language Models (LLMs) are integrated into global software systems, ensuring equitable safety guardrails is a critical requirement. Current fairness evaluations predominantly measure bias observationally, a methodology confounded by the inherent toxicity of topics naturally paired with specific demographics in testing datasets. This study in",
         "tags": [
-          "cs.ai",
-          "cs.lg"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9212
+        "score": 0.9165
       },
       {
-        "id": "b2196db5e53e4984",
-        "title": "ZAYA1-8B Technical Report",
-        "url": "https://arxiv.org/abs/2605.05365",
+        "id": "98130f66d1f2f636",
+        "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
+        "url": "https://arxiv.org/abs/2605.05440",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matc",
+        "summary": "arXiv:2605.05440v1 Announce Type: new Abstract: The security discussion around agentic AI focuses heavily on prompt injection. This paper argues that multi-agent systems also create a distinct authorization problem: maintaining authorization invariants as non-human principals retrieve data, delegate tasks, and synthesize results across changing boundaries. We call this problem authorization propag",
         "tags": [
-          "cs.ai",
-          "cs.cl"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9212
-      },
-      {
-        "id": "e854fe658e3d291c",
-        "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
-        "url": "https://arxiv.org/abs/2605.05379",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This pape",
-        "tags": [
-          "cs.ai",
-          "cs.cc",
-          "cs.et"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9212
-      },
-      {
-        "id": "2bbca29df11ec5e3",
-        "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
-        "url": "https://arxiv.org/abs/2605.05402",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05402v1 Announce Type: new Abstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-enabled analytics framework leveraging existing CCTV infrastructure to evaluate the impact of soft interventions, such as temporary pedestrian refuges and curb extensions, on vehicle speed and safety. Using deep learning and p",
-        "tags": [
-          "cs.ai",
-          "cs.cv",
-          "eess.iv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9212
+        "score": 0.9165
       }
     ],
     "science": [
+      {
+        "id": "eff411b78c2daa21",
+        "title": "Plants survived the dinosaur-killing asteroid by duplicating genomes, study suggests",
+        "url": "https://phys.org/news/2026-05-survived-dinosaur-asteroid-duplicating-genomes.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778252403000,
+        "summary": "When an asteroid as big as Mount Everest struck Earth 66 million years ago, it wiped out all non-avian dinosaurs and roughly a third of life on the planet. But many plants survived the devastation. In a new study published in Cell, researchers reveal that the accidental duplications of genomes—a natural phenomenon—might have helped many flowering plants survive some of the most extreme environment",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0189
+      },
+      {
+        "id": "bb2dc614952e4788",
+        "title": "Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?",
+        "url": "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/",
+        "source": "Quanta Magazine",
+        "lane": "science",
+        "published_ts": 1778251843000,
+        "summary": "It should be possible, but getting there will require a greater understanding of subsurface physics. The post Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather? first appeared on Quanta Magazine",
+        "tags": [
+          "physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1453
+      },
+      {
+        "id": "eebcbcc701ff4a56",
+        "title": "TikTok algorithm showed a pro-Republican bias during the last US presidential election",
+        "url": "https://phys.org/news/2026-05-tiktok-algorithm-pro-republican-bias.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778251801000,
+        "summary": "TikTok's algorithm did not treat Democrats and Republicans equally during the 2024 US presidential election. According to a paper published in Nature, its recommendation system showed a Republican-leaning skew in three states. The journal's editors have also published a Research Briefing in the same issue covering the study.",
+        "tags": [
+          "political science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0968
+      },
       {
         "id": "a5859a70ed62e9c9",
         "title": "How a strange fruit fly became a bloodthirsty underwater hunter",
@@ -3675,51 +3719,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0169
-      },
-      {
-        "id": "c4fab6c3ac49425c",
-        "title": "Team steers electron spin ballistically in graphene",
-        "url": "https://phys.org/news/2026-05-team-electron-ballistically-graphene.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778166012000,
-        "summary": "Researchers at The University of Manchester's National Graphene Institute have shown that electrons in ultra-clean graphene can be steered with high precision while keeping their spin information intact, a key requirement for future low-power electronics and quantum devices.",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0948
-      },
-      {
-        "id": "e2666cc2e6220976",
-        "title": "Urban trees cool the world's cities more than we thought—but we can't rely on them alone",
-        "url": "https://phys.org/news/2026-05-urban-trees-cool-world-cities.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778166001000,
-        "summary": "Cities and towns are usually 1–3°C hotter than the surrounding countryside, because asphalt, concrete and brick absorb heat from the sun and radiate it slowly. Some cities can be as much as 7°C hotter. This effect is known as the urban heat island.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0136
-      },
-      {
-        "id": "b4174ba638ae4ecf",
-        "title": "Ancient sea fossils indicate millipede and centipede ancestors evolved their legs while still underwater",
-        "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778164803000,
-        "summary": "The myriapoda group of arthropods includes the many-legged centipedes and millipedes that most people are familiar with. Although myriapods are all terrestrial creatures, researchers are unclear about when and how they evolved their many legs.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ]
   },
