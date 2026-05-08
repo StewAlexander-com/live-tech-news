@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-05-08T18:00:39.604221+00:00",
+  "generated_at": "2026-05-08T18:07:34.921961+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "9682de44503f563b",
+        "title": "Judge rules DOGE used ChatGPT in a way that was both dumb and illegal",
+        "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778263364000,
+        "summary": "The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen McMahon cites DOGE's process for eliminating grants, which involved using ChatGPT to determine if something is related to diversity, equity, and inclusion (DEI). The ruling, which stems […]",
+        "tags": [
+          "law",
+          "news",
+          "policy",
+          "politics",
+          "speech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7908
+      },
       {
         "id": "e6c4d6fb40a064dd",
         "title": "The wait is over: Google just released Snapseed 4.0 for Android with a new pro camera",
@@ -964,24 +983,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9485
-      },
-      {
-        "id": "c1a725946541e0bd",
-        "title": "DJI teases the dual-camera Osmo Pocket 4P gimbal",
-        "url": "https://www.engadget.com/2167650/dji-teases-the-dual-camera-osmo-pocket-4p-gimbal/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778241600000,
-        "summary": "The Osmo Pocket 3P will feature a main wide camera and 3x zoom lens.",
-        "tags": [
-          "photography"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7029
       }
     ],
     "innovation": [
+      {
+        "id": "e45c5eeb4d74dea3",
+        "title": "I changed one setting in Device Manager and my Wi-Fi jumped from 260 Mbps to 430 Mbps",
+        "url": "https://www.makeuseof.com/windows-is-throttling-your-wi-fi-to-save-power-heres-how-to-turn-it-off/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778263232000,
+        "summary": "Windows is quietly throttling your Wi-Fi to save power, and one setting buried in Device Manager can get your speed back",
+        "tags": [
+          "windows",
+          "wi-fi",
+          "windows 11"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8481
+      },
+      {
+        "id": "0cbe9d7439ffe791",
+        "title": "Apple, Intel Have Reached Preliminary Chip-Making Agreement",
+        "url": "https://hardware.slashdot.org/story/26/05/08/174203/apple-intel-have-reached-preliminary-chip-making-agreement?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778263200000,
+        "summary": "Apple and Intel have reportedly reached a preliminary agreement (paywalled; alternative source) for Intel to manufacture some chips used in Apple devices, after more than a year of talks and pressure from the Trump administration. It's still unclear which Apple products would use Intel-made chips, but the deal would mark a major potential win for Intel's foundry ambitions and give Apple another ma",
+        "tags": [
+          "intel"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1312
+      },
       {
         "id": "a6ffa8343ed98854",
         "title": "Interviews with Intel CEO Lip-Bu Tan and other execs about the challenges of a turnaround, along with efforts to instill a sense of urgency in the organization (Ian King/Bloomberg)",
@@ -1111,6 +1147,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0498
+      },
+      {
+        "id": "75a401c07321a371",
+        "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
+        "url": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778260837000,
+        "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7368
       },
       {
         "id": "5d1102b30e7bbf45",
@@ -1878,55 +1929,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9169
-      },
-      {
-        "id": "0da58cc3fe7217de",
-        "title": "Apple Warns Canada's Bill C-22 Could Force Encryption Backdoors",
-        "url": "https://www.macrumors.com/2026/05/08/apple-warns-canada-bill-force-encryption-backdoors/",
-        "source": "Mac Rumors",
-        "lane": "innovation",
-        "published_ts": 1778239323000,
-        "summary": "Apple and Meta have opposed a Canadian bill that the companies say could force them to create backdoor access to encrypted user data, should it pass through the country's parliament. Proposed by Canada's ruling Liberal Party, Bill C-22 contains provisions that could be similar ​to a UK data access provision order sent to Apple last year, depending on how they are implemented. Back in February 2025",
-        "tags": [
-          "apple privacy",
-          "apple security",
-          "canada",
-          "encryption"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9954
-      },
-      {
-        "id": "db449e9979e4114e",
-        "title": "AWS was hit by overheating in northern Virginia, knocking Coinbase offline and rattling CME",
-        "url": "https://thenextweb.com/news/aws-northern-virginia-cooling-outage-coinbase",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778239116000,
-        "summary": "A single data centre’s cooling system fell behind. AWS shifted traffic away from the affected zone and warned that fully restoring the remaining services would take longer than expected. Amazon Web Services said on Thursday that one of its data centres in northern Virginia was running hot enough to disrupt customer workloads, and that engineers […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "insider"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8852
-      },
-      {
-        "id": "07260f4d14f537ce",
-        "title": "Sierra Club report: Texas coal plants draining state's shrinking water supply",
-        "url": "https://www.reddit.com/r/technology/comments/1t74w7g/sierra_club_report_texas_coal_plants_draining/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778238958000,
-        "summary": "submitted by /u/Wagamaga [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9438
       }
     ],
     "ai": [
@@ -2938,6 +2940,26 @@
         "score": 1.0198
       },
       {
+        "id": "5d4bb43f777da054",
+        "title": "Ana Inês Inácio Designs the Future of Wireless",
+        "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
+        "source": "IEEE Spectrum",
+        "lane": "science",
+        "published_ts": 1778263201000,
+        "summary": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks.The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies.A",
+        "tags": [
+          "ieee-member-news",
+          "ana-ines-inacio",
+          "rf-circuits",
+          "circuit-design",
+          "wireless-communications",
+          "telecommunications"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1851
+      },
+      {
         "id": "861e8258bbd92dd0",
         "title": "The moon's largest impact crater scattered something priceless—and Artemis may be heading straight into it",
         "url": "https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html",
@@ -3779,21 +3801,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0195
-      },
-      {
-        "id": "81d01317440767fa",
-        "title": "Climate-driven extreme fire danger cannot be prevented by carbon neutrality alone, study warns",
-        "url": "https://phys.org/news/2026-05-climate-driven-extreme-danger-carbon.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778187004000,
-        "summary": "A new study warns that unless atmospheric carbon is reduced immediately, future summers will become even hotter and future wildfires even more destructive. A research team led by Professor Seung-Ki Min of the Department of Environmental Engineering at POSTECH (Pohang University of Science and Technology) has found that merely achieving \"carbon neutrality\" by reducing emissions is not sufficient to",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
       }
     ]
   },
