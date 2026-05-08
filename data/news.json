@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T03:16:26.196504+00:00",
+  "generated_at": "2026-05-08T04:04:14.643794+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -953,6 +953,21 @@
     ],
     "innovation": [
       {
+        "id": "a3eb18aba10883b7",
+        "title": "Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction-Concealment Tradeoff in MLLMs",
+        "url": "https://arxiv.org/abs/2605.05709",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05709v1 Announce Type: new Abstract: Intent-obfuscation-based jailbreak attacks on multimodal large language models (MLLMs) transform a harmful query into a concealed multimodal input to bypass safety mechanisms. We show that such attacks are governed by a \\emph{reconstruction--concealment tradeoff}: the transformed input must hide harmful intent from safety filters while remaining reco",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0486
+      },
+      {
         "id": "2b3e2d63af12a80f",
         "title": "DHS can’t create vast DNA database to track ICE critics, lawsuit says | Lawsuit accuses DHS of plugging DNA database into ICE surveillance machine.",
         "url": "https://www.reddit.com/r/technology/comments/1t6v9ri/dhs_cant_create_vast_dna_database_to_track_ice/",
@@ -966,6 +981,36 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9395
+      },
+      {
+        "id": "7615bb2b837c4278",
+        "title": "AWS warns of EC2 ‘impairment’ as power loss hits notorious US-EAST-1 region",
+        "url": "https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778207615000,
+        "summary": "Things are heating up in a single datacenter, but not in a good way",
+        "tags": [
+          "off-prem"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0199
+      },
+      {
+        "id": "b3a9557313762f16",
+        "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+        "url": "https://www.reddit.com/r/technology/comments/1t6v16u/mozilla_says_271_vulnerabilities_found_by_mythos/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778207419000,
+        "summary": "submitted by /u/xpda [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9218
       },
       {
         "id": "ec01e1aa5125a271",
@@ -1883,58 +1928,220 @@
         "paywall": false,
         "impact": "high",
         "score": 0.943
-      },
-      {
-        "id": "37b4fa3265ac7b2e",
-        "title": "Your browser is leaking your real location even with a VPN — here's the setting that stops it",
-        "url": "https://www.makeuseof.com/your-browser-is-leaking-your-real-location-even-with-a-vpn-heres-the-setting-that-stops-it/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778173219000,
-        "summary": "Yeah, you definitely don't want your VPN doing this.",
-        "tags": [
-          "security",
-          "vpn",
-          "browser security",
-          "online privacy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8484
-      },
-      {
-        "id": "c98f511767854f0a",
-        "title": "60% of MD5 password hashes are crackable in under an hour",
-        "url": "https://www.theregister.com/security/2026/05/07/60-of-md5-password-hashes-are-crackable-in-under-an-hour/5234954",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778172463000,
-        "summary": "Happy World Password Day! Maybe it's finally time to kill this holiday in favor of World No-More-Passwords Day?",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0367
-      },
-      {
-        "id": "4755a935f270a81f",
-        "title": "I automated 8 household tasks with $3 NFC tags and freed up hours every week",
-        "url": "https://www.makeuseof.com/household-tasks-i-automated-with-nfc-tags/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778171417000,
-        "summary": "Simplification is just a tap away.",
-        "tags": [
-          "smart home",
-          "nfc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8449
       }
     ],
     "ai": [
+      {
+        "id": "1fdaa33bab2faa77",
+        "title": "Understanding Annotator Safety Policy with Interpretability",
+        "url": "https://arxiv.org/abs/2605.05329",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value p",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "b2196db5e53e4984",
+        "title": "ZAYA1-8B Technical Report",
+        "url": "https://arxiv.org/abs/2605.05365",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matc",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "e854fe658e3d291c",
+        "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+        "url": "https://arxiv.org/abs/2605.05379",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This pape",
+        "tags": [
+          "cs.ai",
+          "cs.cc",
+          "cs.et"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "2bbca29df11ec5e3",
+        "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+        "url": "https://arxiv.org/abs/2605.05402",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05402v1 Announce Type: new Abstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-enabled analytics framework leveraging existing CCTV infrastructure to evaluate the impact of soft interventions, such as temporary pedestrian refuges and curb extensions, on vehicle speed and safety. Using deep learning and p",
+        "tags": [
+          "cs.ai",
+          "cs.cv",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "f5beb67712a9e3f5",
+        "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias",
+        "url": "https://arxiv.org/abs/2605.05427",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05427v1 Announce Type: new Abstract: As Large Language Models (LLMs) are integrated into global software systems, ensuring equitable safety guardrails is a critical requirement. Current fairness evaluations predominantly measure bias observationally, a methodology confounded by the inherent toxicity of topics naturally paired with specific demographics in testing datasets. This study in",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "98130f66d1f2f636",
+        "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
+        "url": "https://arxiv.org/abs/2605.05440",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05440v1 Announce Type: new Abstract: The security discussion around agentic AI focuses heavily on prompt injection. This paper argues that multi-agent systems also create a distinct authorization problem: maintaining authorization invariants as non-human principals retrieve data, delegate tasks, and synthesize results across changing boundaries. We call this problem authorization propag",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "a47ae47549288ab0",
+        "title": "Physics-Informed Neural Networks with Learnable Loss Balancing and Transfer Learning",
+        "url": "https://arxiv.org/abs/2605.05217",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05217v1 Announce Type: new Abstract: We propose a self-supervised physics-informed neural network (PINN) framework that adaptively balances physics-based and data-driven supervision for scientific machine learning under data scarcity. Unlike prior PINNs that rely on fixed or heuristic weighting of physics residuals and data loss, our approach introduces a learnable blending neuron that ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "7d563ae5ce684353",
+        "title": "Horizon-Constrained Rashomon Sets for Chaotic Forecasting",
+        "url": "https://arxiv.org/abs/2605.05218",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05218v1 Announce Type: new Abstract: Predictive multiplicity and chaotic dynamics represent two fundamental challenges in machine learning that have evolved independently despite their conceptual connections. We bridge this gap by introducing horizon-constrained Rashomon sets, a theoretical framework that characterizes how model multiplicity evolves with prediction horizon in chaotic sy",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.ds",
+          "nlin.cd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "138e5cf9b94eb839",
+        "title": "Data-Driven Variational Basis Learning Beyond Neural Networks: A Non-Neural Framework for Adaptive Basis Discovery",
+        "url": "https://arxiv.org/abs/2605.05221",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05221v1 Announce Type: new Abstract: Classical representation systems such as Fourier series, wavelets, and fixed dictionaries provide analytically tractable basis expansions, but they are not intrinsically adapted to the empirical structure of modern high-dimensional data. Neural networks overcome this limitation by learning features from data, yet they do so through layered nonlinear ",
+        "tags": [
+          "cs.lg",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "5749b12528a83b69",
+        "title": "Evolutionary fine tuning of quantized convolution-based deep learning models",
+        "url": "https://arxiv.org/abs/2605.05228",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05228v1 Announce Type: new Abstract: Deep learning models are the most efficient models in many machine learning tasks. The main disadvantage when using them in IoT, mobile devices, independent autonomous or real-time systems is their complexity and memory size. Therefore, much research has concentrated on compression techniques of deep learning architectures. One of the most popular te",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "a24c46dc38527e8b",
+        "title": "Expert Routing for Communication-Efficient MoE via Finite Expert Banks",
+        "url": "https://arxiv.org/abs/2605.05278",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05278v1 Announce Type: new Abstract: Resource-efficient machine learning increasingly uses sparse Mixture-of-Experts (MoE) architectures, where the gate acts as both a learning component and a routing interface controlling computation, communication, and accuracy. Motivated by finite-rate interpretations of MoE gating, we treat the gate as a stochastic channel and use $I(X;T)$ to quanti",
+        "tags": [
+          "cs.lg",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "d0926164eaafd51f",
+        "title": "Balancing Stability and Plasticity in Sequentially Trained Early-Exiting Neural Networks",
+        "url": "https://arxiv.org/abs/2605.05358",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05358v1 Announce Type: new Abstract: Early-exiting neural networks enable adaptive inference by allowing inputs to exit at intermediate classifiers, reducing computation for easy samples while maintaining high accuracy. In practice, exits can be trained sequentially by incrementally adding them to a shared backbone; however, this sequential training can cause newly introduced exits to i",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "5be33cd618605811",
+        "title": "Sam Altman Had a Bad Day In Court",
+        "url": "https://yro.slashdot.org/story/26/05/08/0339239/sam-altman-had-a-bad-day-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778212200000,
+        "summary": "An anonymous reader quotes a report from Business Insider: As the trial between Elon Musk and OpenAI ended its second week, the Tesla CEO started scoring points against Sam Altman. His witnesses landed three solid punches in testimony about how Altman runs OpenAI as CEO, raising concerns about his dedication to AI safety, the nonprofit's mission, and his honesty as a leader of the organization. [.",
+        "tags": [
+          "court"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1288
+      },
       {
         "id": "d0a9c73307cf6558",
         "title": "Sources: White House unease over Mythos has left some administration officials fearful that the change represents a reversal of its hands-off AI policy (Wall Street Journal)",
@@ -1965,6 +2172,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0611
+      },
+      {
+        "id": "e918fa6cd0d9ccc0",
+        "title": "HPE drops first Juniper x Aruba collab – self-driving Wi-Fi",
+        "url": "https://www.theregister.com/networks/2026/05/08/hpe-drops-first-juniper-x-aruba-collab-self-driving-wi-fi/5235463",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1778205610000,
+        "summary": "NetAdmins can stay in the loop while they learn to trust AI to tackle some scutwork",
+        "tags": [
+          "networks"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0897
       },
       {
         "id": "1ef08bedea49e65a",
@@ -2651,219 +2873,72 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7963
-      },
-      {
-        "id": "1438ad68a0426430",
-        "title": "AirPods Pro With AI Cameras Reach 'Advanced' Testing Stage",
-        "url": "https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778180000000,
-        "summary": "Apple's upcoming camera-equipped AirPods Pro are nearing completion and have reached an \"advanced\" testing stage, reports Bloomberg. The design is almost finalized, as is the feature set, and early mass production could begin soon. The AirPods Pro will have built-in cameras that will feed visual information about the wearer's surroundings to Siri. While there will be a longer stem for the camera i",
-        "tags": [
-          "airpods pro",
-          "featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0748
-      },
-      {
-        "id": "944aef6fd64a1708",
-        "title": "AirPods Pro With Built-in Cameras Reach 'Advanced' Testing Stage",
-        "url": "https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778180000000,
-        "summary": "Apple's upcoming camera-equipped AirPods Pro are nearing completion and have reached an \"advanced\" testing stage, reports Bloomberg. The design is almost finalized, as is the feature set, and early mass production could begin soon. The AirPods Pro will have built-in cameras that will feed visual information about the wearer's surroundings to Siri. While there will be a longer stem for the camera i",
-        "tags": [
-          "airpods pro",
-          "featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9996
-      },
-      {
-        "id": "fb44156e5b05778a",
-        "title": "While Anthropic will use the Colossus 1 data center, which has a really bad environmental record, xAI retains the larger Colossus 2 for its own AI training (Simon Willison/Simon Willison's Weblog)",
-        "url": "https://www.techmeme.com/260507/p35#a260507p35",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778179802000,
-        "summary": "Simon Willison / Simon Willison's Weblog: While Anthropic will use the Colossus 1 data center, which has a really bad environmental record, xAI retains the larger Colossus 2 for its own AI training — There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude event, but the biggest by far …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0784
-      },
-      {
-        "id": "f5ef08da30f8884f",
-        "title": "AI Slop Is Killing Online Communities",
-        "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778179585000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:12"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3688
-      },
-      {
-        "id": "97f4378881818a77",
-        "title": "The Anti-AI Data Center Rebellion Keeps Growing Bigger - Public support for AI infrastructure has fallen sharply across party lines",
-        "url": "https://www.reddit.com/r/technology/comments/1t6jc58/the_antiai_data_center_rebellion_keeps_growing/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778179069000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0159
-      },
-      {
-        "id": "a1caeb57d74faa88",
-        "title": "OpenAI launches three voice models in the API: GPT-Realtime-2 with GPT-5-class reasoning, GPT-Realtime-Whisper for transcription, and GPT-Realtime-Translate (Zac Hall/9to5Mac)",
-        "url": "https://www.techmeme.com/260507/p33#a260507p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778178003000,
-        "summary": "Zac Hall / 9to5Mac: OpenAI launches three voice models in the API: GPT-Realtime-2 with GPT-5-class reasoning, GPT-Realtime-Whisper for transcription, and GPT-Realtime-Translate — OpenAI has just released three new realtime voice models that it says will “unlock a new class of voice apps for developers.”",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9912
-      },
-      {
-        "id": "4c0e8ffe624fb04f",
-        "title": "OpenAI launches three new real-time voice models for reasoning, translation, and transcription, included in its Realtime API (Zac Hall/9to5Mac)",
-        "url": "https://www.techmeme.com/260507/p33#a260507p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778178003000,
-        "summary": "Zac Hall / 9to5Mac: OpenAI launches three new real-time voice models for reasoning, translation, and transcription, included in its Realtime API — OpenAI has just released three new realtime voice models that it says will “unlock a new class of voice apps for developers.” Each new voice intelligence model …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9981
-      },
-      {
-        "id": "a7d86f65217ee415",
-        "title": "OpenAI launches Trusted Contact, an optional safety feature for ChatGPT that lets adult users assign an emergency contact for mental health and safety concerns (Jess Weatherbed/The Verge)",
-        "url": "https://www.techmeme.com/260507/p32#a260507p32",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778177402000,
-        "summary": "Jess Weatherbed / The Verge: OpenAI launches Trusted Contact, an optional safety feature for ChatGPT that lets adult users assign an emergency contact for mental health and safety concerns — ﻿The feature expands existing teenage safety options to anyone over 18. … OpenAI is launching an optional safety feature …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9986
-      },
-      {
-        "id": "42cdc68a42abdca8",
-        "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778176800000,
-        "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted […]",
-        "tags": [
-          "ai",
-          "news",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7906
-      },
-      {
-        "id": "f9560a54422450f2",
-        "title": "Elon Musk says SpaceX reserves \"the right to reclaim the compute\" from Anthropic if its \"AI engages in actions that harm humanity\" (Elon Musk/@elonmusk)",
-        "url": "https://www.techmeme.com/260507/p31#a260507p31",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778176501000,
-        "summary": "Elon Musk / @elonmusk: Elon Musk says SpaceX reserves “the right to reclaim the compute” from Anthropic if its “AI engages in actions that harm humanity” — @MobofJoggers @nottombrown Just as SpaceX launches hundreds of satellites for competitors with fair terms and pricing, we will provide compute to AI companies that are taking the right steps to ensure it is good for humanity. We reserve the rig",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0764
-      },
-      {
-        "id": "22b16e4518009555",
-        "title": "Anthropic and Elon Musk Strike Unexpected Data Center Deal",
-        "url": "https://www.cnet.com/tech/services-and-software/elon-musk-and-anthropic-on-good-enough-terms-to-sign-a-major-data-center-deal/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778176499000,
-        "summary": "The Claude maker needs all the computing capacity it can get, and SpaceX's controversial Memphis facility apparently has it.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8106
-      },
-      {
-        "id": "ed65335e8d322977",
-        "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778176442000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1867
-      },
-      {
-        "id": "0f70790561899038",
-        "title": "White House reportedly considers mandatory government vetting of AI models before release — executive order under discussion",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778176401000,
-        "summary": "The Trump administration is in early discussions about an executive order that would create a government review process for AI models before public release.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.022
-      },
-      {
-        "id": "9b003cd6446a65ad",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778175650000,
-        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial […]",
-        "tags": [
-          "ai",
-          "elon musk",
-          "law",
-          "news",
-          "openai",
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7407
       }
     ],
     "science": [
+      {
+        "id": "9a3b3d9c8d759a4b",
+        "title": "Are Flat Minima an Illusion?",
+        "url": "https://arxiv.org/abs/2605.05209",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05209v1 Announce Type: new Abstract: Neural networks that land in flat regions of the loss landscape tend to generalise better than those in sharp regions. Sharpness-Aware Minimisation exploits this to improve generalisation. But function-preserving reparameterisation can inflate the Hessian of any minimum by two orders of magnitude without changing a single prediction. If the geometry ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1325
+      },
+      {
+        "id": "02cd57db1a1bffe0",
+        "title": "SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs",
+        "url": "https://arxiv.org/abs/2605.05546",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05546v1 Announce Type: new Abstract: Self-play reinforcement learning has shown strong performance in domains with formally verifiable structure, such as mathematics and coding, where both problem generation and reward computation can be grounded in explicit rules. Extending this paradigm to scientific literature is more challenging: the relationships among multi-modal elements within a",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0486
+      },
+      {
+        "id": "8a69ff43b3abb813",
+        "title": "Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration",
+        "url": "https://arxiv.org/abs/2605.05566",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05566v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards, particularly Group Relative Policy Optimization (GRPO), has significantly advanced the reasoning capabilities of Large Language Models (LLMs). However, in complex tasks, GRPO frequently suffers from the ``zero-advantage problem'': when all sampled rollouts for a query fail, the relative advantage collap",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0486
+      },
+      {
+        "id": "1766234b7b20fa73",
+        "title": "DataDignity: Training Data Attribution for Large Language Models",
+        "url": "https://arxiv.org/abs/2605.05687",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05687v1 Announce Type: new Abstract: Auditing language-model outputs often requires more than judging correctness: an auditor may need to identify which source document most likely supports the knowledge expressed in a response. We study this as pinpoint provenance: given a prompt, a target-model response, and a candidate corpus, rank the documents that best support the response. We int",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0486
+      },
       {
         "id": "92d0c310400c7924",
         "title": "4,000-year-old texts to reach new audiences in digital project",
@@ -3709,70 +3784,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0186
-      },
-      {
-        "id": "9132d62c28019499",
-        "title": "Testing quantum collapse theory with the XENONnT dark matter detector",
-        "url": "https://phys.org/news/2026-05-quantum-collapse-theory-xenonnt-dark.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778155206000,
-        "summary": "Theories of quantum mechanics predict that some particles can exist in superpositions, which essentially means that they can be in more than one state at once. When a particle's state is measured, however, this superposition appears to \"collapse\" into a single outcome; a phenomenon often referred to as the \"measurement problem.\"",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1001
-      },
-      {
-        "id": "ca1c604ba618753e",
-        "title": "Properly crediting employees for their ideas is key to building a strong workplace culture, research finds",
-        "url": "https://phys.org/news/2026-05-properly-crediting-employees-ideas-key.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778154003000,
-        "summary": "Making sure that employees are properly credited for their ideas can go a long way toward improving workplace culture, a University of Toronto Scarborough study has found.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.012
-      },
-      {
-        "id": "6c20af904c591101",
-        "title": "Chilean wasp named in honor of Sir David Attenborough's 100th birthday",
-        "url": "https://phys.org/news/2026-05-chilean-wasp-honor-sir-david.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778152201000,
-        "summary": "Scientists from the Natural History Museum, London have described a new genus and species of parasitic wasp found within the Museum's collections, and named it as a birthday present for Sir David Attenborough.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "34a1677ef214a34c",
-        "title": "Former NASA chief takes helm of national security space firm",
-        "url": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1778151617000,
-        "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
-        "tags": [
-          "space",
-          "jim bridenstine",
-          "quantum space",
-          "ranger",
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9778
       }
     ]
   },
