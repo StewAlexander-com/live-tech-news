@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-05-08T17:00:41.199264+00:00",
+  "generated_at": "2026-05-08T17:26:35.253679+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0f8fe40fd233fb48",
+        "title": "Apple reportedly has a deal to use Intel-made chips again",
+        "url": "https://www.theverge.com/tech/926988/apple-intel-chips",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778260924000,
+        "summary": "Apple and Intel reached a \"preliminary agreement\" for Intel to make chips for Apple hardware, The Wall Street Journal reported Friday. Apple had famously moved on from Intel-powered computers with its highly successful transition to Apple Silicon, but now it appears the two companies will be working closely together again. Intel appointed Lip-Bu Tan as […]",
+        "tags": [
+          "apple",
+          "intel",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7909
+      },
+      {
+        "id": "47ecc4046a69c48d",
+        "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
+        "url": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1778260607000,
+        "summary": "Apple today seeded new release candidate versions of upcoming iOS 26.5 and iPadOS 26.5 updates to developers for testing purposes, with the software coming five days after the first RC. It's not clear what's changed in the second RC, but Apple typically sends out another candidate if there are bugs that need to be addressed. Registered developers can download the betas from the Settings app on the",
+        "tags": [
+          "featured",
+          "ios 26",
+          "ios 27"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0766
+      },
+      {
+        "id": "f7cd937f6bdd8a71",
+        "title": "Another major Linux security flaw revealed — 'Dirty Frag' allows root on all major distros, with no patch or fix available yet",
+        "url": "https://www.techradar.com/pro/security/another-major-linux-security-flaw-revealed-dirty-frag-allows-root-on-all-major-distros-with-no-patch-or-fix-available-yet",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778259900000,
+        "summary": "A researcher shared their findings with Linux distro maintainers, but leaked before a patch was built.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8441
+      },
       {
         "id": "a29c2ed11faaa8b1",
         "title": "Your CPU is throttling itself, and one BIOS toggle will fix it",
@@ -86,6 +137,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.998
+      },
+      {
+        "id": "71bbb1185e36a288",
+        "title": "Stanford study finds school phone bans may trigger “withdrawal symptoms” in students",
+        "url": "https://www.reddit.com/r/technology/comments/1t7degf/stanford_study_finds_school_phone_bans_may/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1778258678000,
+        "summary": "submitted by /u/runswithscissors475 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9373
       },
       {
         "id": "730ed46a2d1c5e46",
@@ -908,79 +974,71 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8496
-      },
-      {
-        "id": "f6c4c242d4b3b4a7",
-        "title": "What to watch this weekend: Sally Field bonds with a talking octopus and British civil servants become ‘Legends’",
-        "url": "https://www.androidpolice.com/what-to-watch-this-weekend-sally-field-bonds-with-a-talking-octopus-and-british-civil-servants-become-legends/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1778238011000,
-        "summary": "On Netflix, Hulu, Prime Video, HBO Max, and other streamers",
-        "tags": [
-          "what to watch",
-          "streaming media",
-          "entertainment",
-          "streaming media"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9977
-      },
-      {
-        "id": "4d046798a4a0059f",
-        "title": "I'm not letting Pixel Glow trick me into a Pixel 11 downgrade",
-        "url": "https://www.androidpolice.com/im-not-letting-pixel-glow-trick-me-into-a-pixel-11-downgrade/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1778238011000,
-        "summary": "Google is distracting us with literal flashing lights",
-        "tags": [
-          "google pixel",
-          "google",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9977
-      },
-      {
-        "id": "957dcf8749d3fe8b",
-        "title": "Nintendo announces price increase for Switch 2 handheld — but you still have time to beat it",
-        "url": "https://www.techradar.com/gaming/nintendo/nintendo-announces-price-increase-for-switch-2-handheld-but-you-still-have-time-to-beat-it",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778237464000,
-        "summary": "Rumors have long suggested that Nintendo would ultimately increase the Switch 2 price, and unfortunately, that day has indeed arrived.",
-        "tags": [
-          "nintendo",
-          "memory",
-          "gaming",
-          "consoles &amp; pc",
-          "computing",
-          "computing components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
-      },
-      {
-        "id": "198d4660728f45dd",
-        "title": "Google TV is getting the exact home screen update you don’t want: more clutter — vertical social videos from YouTube will be piped right to your eyes along with the TV and movie recommendations",
-        "url": "https://www.techradar.com/televisions/google-tv-is-getting-the-exact-home-screen-update-you-dont-want-more-clutter-vertical-social-videos-from-youtube-will-be-piped-right-to-your-eyes-along-with-the-tv-and-movie-recommendations",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778237451000,
-        "summary": "Because there's nothing better than Tik-Tok-style vertical video on a widescreen landscape TV…",
-        "tags": [
-          "televisions"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
       }
     ],
     "innovation": [
+      {
+        "id": "d8c8f334843cc5c8",
+        "title": "Worm rubs out competitor's malware, then takes control",
+        "url": "https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778261160000,
+        "summary": "All your compromised credentials are belong to us now instead of the other gang",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0498
+      },
+      {
+        "id": "5d1102b30e7bbf45",
+        "title": "Poland says hackers breached water treatment plants, and the U.S. is facing the same threat",
+        "url": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778260837000,
+        "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7466
+      },
+      {
+        "id": "57d7c2e435e53b3a",
+        "title": "Hackaday Podcast Episode 369: IR, E-Ink, and Avgas",
+        "url": "https://hackaday.com/2026/05/08/hackaday-podcast-episode-369-ir-e-ink-and-avgas/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778260229000,
+        "summary": "In this episode, Hackaday Editors Elliot Williams and Tom Nardi start things off by discussing the latest reason that cheap PCB fabrication isn’t quite as cheap as it once was. …read more",
+        "tags": [
+          "hackaday columns",
+          "podcasts",
+          "hackaday podcast"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0744
+      },
+      {
+        "id": "767d3756048cac4f",
+        "title": "Disgraced US gov software contractor found guilty of database destruction",
+        "url": "https://www.theregister.com/cyber-crime/2026/05/08/former-us-contractor-convicted-in-federal-database-wipe-case/5237296",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778260214000,
+        "summary": "Twin brother still faces trial over broader cybercrime allegations",
+        "tags": [
+          "cyber-crime"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1281
+      },
       {
         "id": "f15d4c84706e3b95",
         "title": "Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices (Wall Street Journal)",
@@ -1867,67 +1925,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8946
-      },
-      {
-        "id": "1619ae7e5f80455e",
-        "title": "Meta fights Ofcom over how many billions count as billions",
-        "url": "https://www.theregister.com/security/2026/05/08/meta-fights-ofcom-over-how-many-billions-count-as-billions/5235662",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778236769000,
-        "summary": "Social media biz says watchdog's fine formula is 'disproportionate' and should stop counting global revenue",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0491
-      },
-      {
-        "id": "e0b354f39d2d8b9d",
-        "title": "Male Birth Control Breakthrough: Scientists Find Way To Turn Sperm Production Off and Back On",
-        "url": "https://www.reddit.com/r/technology/comments/1t73x8h/male_birth_control_breakthrough_scientists_find/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778236006000,
-        "summary": "submitted by /u/_Dark_Wing [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8863
-      },
-      {
-        "id": "86ef1499039bd117",
-        "title": "Sony reports Q4 revenue of $19.4B, above ~$18.4B est., operating profit of ~$1.06B, below ~$1.7B est., and forecasts FY 2027 net profit to rise 13% to ~$7.4B (Kai Nicol-Schwarz/CNBC)",
-        "url": "https://www.techmeme.com/260508/p13#a260508p13",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778235620000,
-        "summary": "Kai Nicol-Schwarz / CNBC: Sony reports Q4 revenue of $19.4B, above ~$18.4B est., operating profit of ~$1.06B, below ~$1.7B est., and forecasts FY 2027 net profit to rise 13% to ~$7.4B — Japanese entertainment giant Sony on Friday said it expects annual profit to rise as revenue from some business segments …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9976
-      },
-      {
-        "id": "f57e3d29efe55395",
-        "title": "Cyberattack hits Canvas system used by thousands of schools as finals loom",
-        "url": "https://www.reddit.com/r/technology/comments/1t73ku1/cyberattack_hits_canvas_system_used_by_thousands/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778234867000,
-        "summary": "submitted by /u/deraser [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9233
       }
     ],
     "ai": [
+      {
+        "id": "c4c28b532c0fdf28",
+        "title": "AI Hard Drive Shortage Makes Archiving the Internet Harder",
+        "url": "https://hardware.slashdot.org/story/26/05/08/1619212/ai-hard-drive-shortage-makes-archiving-the-internet-harder?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778259600000,
+        "summary": "An anonymous reader quotes a report from 404 Media: Skyrocketing hard drive and storage costs caused by the AI data center boom are making it more expensive and more difficult for digital archivists, academics, Wikipedia, and hobby data hoarders to save data and archive the internet. Specific drives favored by some high profile organizations like the Internet Archive have become far more expensive",
+        "tags": [
+          "storage"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1244
+      },
       {
         "id": "3aa4b7a7ee8ee71e",
         "title": "Bluehost's new service combines ChatGPT, Gemini, Claude, and Grok subscriptions for just $20 a month",
@@ -2870,22 +2885,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9295
-      },
-      {
-        "id": "433a7e5038105c27",
-        "title": "Musk v. Altman docs: Microsoft execs had reservations about funding OpenAI in 2018 but worried that withholding support could push OpenAI into Amazon's arms (Wired)",
-        "url": "https://www.techmeme.com/260508/p11#a260508p11",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778232601000,
-        "summary": "Wired: Musk v. Altman docs: Microsoft execs had reservations about funding OpenAI in 2018 but worried that withholding support could push OpenAI into Amazon's arms — Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to evidence revealed during the Musk v. Altman trial.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9924
       }
     ],
     "science": [
+      {
+        "id": "63e3e23f7f5dd476",
+        "title": "Vast atmospheric waves on Venus are caused by largest known 'hydraulic jump'",
+        "url": "https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778260801000,
+        "summary": "The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used numerical models to show that an enormous 6,000-kilometer-wide atmospheric wave front, which circumnavigates the planet for days at a time, is caused by a large \"hydraulic jump.\" This is when a fluid abruptly slows down, changing from shallow and fas",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0179
+      },
       {
         "id": "ea9080331412cc8c",
         "title": "Scientists split gentoo penguins into four species, one totally new to science",
@@ -3328,6 +3345,19 @@
         "score": 1.005
       },
       {
+        "id": "adb3beae5eeb7a9e",
+        "title": "World-leading climate centre takes Trump administration to court",
+        "url": "https://www.nature.com/articles/d41586-026-01501-z",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1778198400000,
+        "summary": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01501-zUniversities that run the National Center for Atmospheric Research want to keep it from being dismantled.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8219
+      },
+      {
         "id": "b93b28527018a1d7",
         "title": "World’s largest forest research agency faces severe cutback by Trump administration",
         "url": "https://www.nature.com/articles/d41586-026-01493-w",
@@ -3760,36 +3790,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0172
-      },
-      {
-        "id": "d9dd9e6cf5f33749",
-        "title": "Modern experiments suggest rhino teeth may have been part of Neanderthal toolkits",
-        "url": "https://phys.org/news/2026-05-modern-rhino-teeth-neanderthal-toolkits.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778179203000,
-        "summary": "Neanderthals may not only have feasted on rhinoceroses, they may also have used their exceptionally hard teeth as specialized tools for a range of tasks, such as retouching the edges of stone tools.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0175
-      },
-      {
-        "id": "8d698b909528de4f",
-        "title": "Researchers combine five metals to build a better nanocrystal",
-        "url": "https://phys.org/news/2026-05-combine-metals-nanocrystal.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778176811000,
-        "summary": "A nanocrystal is an extraordinarily tiny piece of material—composed of anywhere from a few to a few thousand atoms—in which atoms are arranged in a precise, ordered structure. Think of it like taking a piece of gold and shrinking it down to the size of a few hundred atoms. It's still gold, still crystalline, just almost incomprehensibly small.",
-        "tags": [
-          "nanomaterials"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0998
       }
     ]
   },
