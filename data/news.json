@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T14:46:17.743463+00:00",
+  "generated_at": "2026-05-08T14:47:46.895069+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -957,6 +957,24 @@
     ],
     "innovation": [
       {
+        "id": "a52d7f1760ae70da",
+        "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage?",
+        "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
+        "source": "Mac Rumors",
+        "lane": "innovation",
+        "published_ts": 1778251637000,
+        "summary": "On this week's episode of The MacRumors Show, we talk through how the global memory shortage is forcing Apple's hand across multiple key products, killing configurations, delaying launches, and prompting spec decisions that would have seemed unlikely a year ago. Subscribe to The MacRumors Show YouTube channel for more videos The pressure originates outside Apple's control. JPMorgan analysis cited ",
+        "tags": [
+          "featured",
+          "featured (sticky)",
+          "iphone 18",
+          "the macrumors show"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9998
+      },
+      {
         "id": "8543829cbd2a8476",
         "title": "Truecaller slashes 70 jobs amid declining ad sales",
         "url": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
@@ -1871,19 +1889,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9879
-      },
-      {
-        "id": "209eff99dd54ebaf",
-        "title": "Fintech app Toss, used by ~66% of South Korea's 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September (Song Jung-a/Financial Times)",
-        "url": "https://www.techmeme.com/260508/p5#a260508p5",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778219401000,
-        "summary": "Song Jung-a / Financial Times: Fintech app Toss, used by ~66% of South Korea's 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September — Toss aims to ‘eliminate physical credit cards’ in South Korea in three years — A South Korean fintech company is betting payment …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.999
       }
     ],
     "ai": [
@@ -2758,71 +2763,70 @@
         "score": 0.9903
       },
       {
-        "id": "a47ae47549288ab0",
-        "title": "Physics-Informed Neural Networks with Learnable Loss Balancing and Transfer Learning",
-        "url": "https://arxiv.org/abs/2605.05217",
-        "source": "arXiv cs.LG",
+        "id": "1fdaa33bab2faa77",
+        "title": "Understanding Annotator Safety Policy with Interpretability",
+        "url": "https://arxiv.org/abs/2605.05329",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05217v1 Announce Type: new Abstract: We propose a self-supervised physics-informed neural network (PINN) framework that adaptively balances physics-based and data-driven supervision for scientific machine learning under data scarcity. Unlike prior PINNs that rely on fixed or heuristic weighting of physics residuals and data loss, our approach introduces a learnable blending neuron that ",
+        "summary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand or misexecute the task), policy ambiguity (policy wording leaves room for interpretation), or value p",
         "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9216
-      },
-      {
-        "id": "7d563ae5ce684353",
-        "title": "Horizon-Constrained Rashomon Sets for Chaotic Forecasting",
-        "url": "https://arxiv.org/abs/2605.05218",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05218v1 Announce Type: new Abstract: Predictive multiplicity and chaotic dynamics represent two fundamental challenges in machine learning that have evolved independently despite their conceptual connections. We bridge this gap by introducing horizon-constrained Rashomon sets, a theoretical framework that characterizes how model multiplicity evolves with prediction horizon in chaotic sy",
-        "tags": [
-          "cs.lg",
           "cs.ai",
-          "math.ds",
-          "nlin.cd"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9216
+        "score": 0.9212
       },
       {
-        "id": "138e5cf9b94eb839",
-        "title": "Data-Driven Variational Basis Learning Beyond Neural Networks: A Non-Neural Framework for Adaptive Basis Discovery",
-        "url": "https://arxiv.org/abs/2605.05221",
-        "source": "arXiv cs.LG",
+        "id": "b2196db5e53e4984",
+        "title": "ZAYA1-8B Technical Report",
+        "url": "https://arxiv.org/abs/2605.05365",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05221v1 Announce Type: new Abstract: Classical representation systems such as Fourier series, wavelets, and fixed dictionaries provide analytically tractable basis expansions, but they are not intrinsically adapted to the empirical structure of modern high-dimensional data. Neural networks overcome this limitation by learning features from data, yet they do so through layered nonlinear ",
+        "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-stack AMD compute, networking, and software platform. With under 1B active parameters, ZAYA1-8B matc",
         "tags": [
-          "cs.lg",
+          "cs.ai",
           "cs.cl"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9216
+        "score": 0.9212
       },
       {
-        "id": "5749b12528a83b69",
-        "title": "Evolutionary fine tuning of quantized convolution-based deep learning models",
-        "url": "https://arxiv.org/abs/2605.05228",
-        "source": "arXiv cs.LG",
+        "id": "e854fe658e3d291c",
+        "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+        "url": "https://arxiv.org/abs/2605.05379",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778212800000,
-        "summary": "arXiv:2605.05228v1 Announce Type: new Abstract: Deep learning models are the most efficient models in many machine learning tasks. The main disadvantage when using them in IoT, mobile devices, independent autonomous or real-time systems is their complexity and memory size. Therefore, much research has concentrated on compression techniques of deep learning architectures. One of the most popular te",
+        "summary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appears complete even though material evidence lies outside the caller's authorization boundary. This pape",
         "tags": [
-          "cs.lg",
           "cs.ai",
-          "cs.ne"
+          "cs.cc",
+          "cs.et"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9216
+        "score": 0.9212
+      },
+      {
+        "id": "2bbca29df11ec5e3",
+        "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+        "url": "https://arxiv.org/abs/2605.05402",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778212800000,
+        "summary": "arXiv:2605.05402v1 Announce Type: new Abstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-enabled analytics framework leveraging existing CCTV infrastructure to evaluate the impact of soft interventions, such as temporary pedestrian refuges and curb extensions, on vehicle speed and safety. Using deep learning and p",
+        "tags": [
+          "cs.ai",
+          "cs.cv",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9212
       }
     ],
     "science": [
