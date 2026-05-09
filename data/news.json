@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T04:36:19.189664+00:00",
+  "generated_at": "2026-05-09T05:13:59.561531+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -169,6 +169,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7907
+      },
+      {
+        "id": "485de2249cb358f5",
+        "title": "Discord is back after an outage that took some users offline",
+        "url": "https://www.engadget.com/2168231/discord-is-down-for-some-users/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778271889000,
+        "summary": "The company had an issue with its API systems.",
+        "tags": [
+          "big tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.5941
       },
       {
         "id": "c772978bcb0562e7",
@@ -952,26 +967,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8488
-      },
-      {
-        "id": "f1acc1a905225ddd",
-        "title": "'We must think carefully about what we will do': Sony shows hesitance to announce PS6 release date or price due to RAM crisis, and finds itself in the same situation Valve is in with the Steam Machine",
-        "url": "https://www.techradar.com/gaming/playstation/we-must-think-carefully-about-what-we-will-do-sony-shows-hesitance-to-announce-ps6-release-date-or-price-due-to-ram-crisis-and-finds-itself-in-the-same-situation-valve-is-in-with-the-steam-machine",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778253421000,
-        "summary": "Sony is hesitant to announce a PS6 release date or price, and is going through extensive consideration over it amid the disruptive RAM crisis.",
-        "tags": [
-          "playstation",
-          "gaming",
-          "consoles &amp; pc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
       }
     ],
     "innovation": [
+      {
+        "id": "7883e94c8ecc8415",
+        "title": "Reverse-engineering the 1998 Ultima Online demo server",
+        "url": "https://hackaday.com/2026/05/08/reverse-engineering-the-1998-ultima-online-demo-server/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778302855000,
+        "summary": "In any MMORPG, the average user will generally only encounter the client side of the system. This makes building a compatible open source version of the proprietary server into a …read more",
+        "tags": [
+          "games",
+          "reverse engineering",
+          "mmorpg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0755
+      },
+      {
+        "id": "69bf54747e771616",
+        "title": "NHTSA says the 2026 Tesla Model Y is the first car model to pass the agency's new ADAS tests; Tesla conducted the tests and submitted the results to the NHTSA (Kirsten Korosec/TechCrunch)",
+        "url": "https://www.techmeme.com/260509/p1#a260509p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778302849000,
+        "summary": "Kirsten Korosec / TechCrunch: NHTSA says the 2026 Tesla Model Y is the first car model to pass the agency's new ADAS tests; Tesla conducted the tests and submitted the results to the NHTSA — The National Highway Traffic Safety Administration (NHTSA) said Tuesday that the later release 2026 Tesla Model Y is the first vehicle …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9958
+      },
       {
         "id": "cdb999495bbb2fe1",
         "title": "Beijing-based humanoid robotics company Robotera raised over $200M led by SF Group, after raising ~$146M in March at a ~$1.47B valuation (Du Zhihang/Caixin Global)",
@@ -1896,43 +1924,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9973
-      },
-      {
-        "id": "66a56da287e77759",
-        "title": "Iran war hits datacenter building supply chains, upping costs",
-        "url": "https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778255808000,
-        "summary": "BCS says builders face up to 20% material hikes and patchy deliveries",
-        "tags": [
-          "on-prem"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1261
-      },
-      {
-        "id": "0f38cc9845561590",
-        "title": "Pentagon releases UFO files on new website",
-        "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1778255796000,
-        "summary": "The Defense Department has released a collection of UFO files with images, videos, and documents on war.gov/ufo.",
-        "tags": [
-          "government & policy",
-          "aliens",
-          "defense department",
-          "pentagon",
-          "ufo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7427
       }
     ],
     "ai": [
+      {
+        "id": "5b5b72bc24d251e5",
+        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+        "url": "https://twitter.com/trq212/status/2052809885763747935",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778302432000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0432
+      },
       {
         "id": "f53cfa00b649989e",
         "title": "I spent weeks testing the TCL QM8L TV, and I'm a believer in its new SQD mini-LED technology — this is a stunning TV for a great price, with just a couple of notable quirks",
@@ -2876,21 +2886,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0778
-      },
-      {
-        "id": "6582ff945c79bad1",
-        "title": "Why AI auditability is what every security leader should be talking about",
-        "url": "https://www.techradar.com/pro/why-ai-auditability-is-what-every-security-leader-should-be-talking-about",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778251186000,
-        "summary": "There was a time when \"audit\" meant conducting a periodic look back at what happened. That changed with digital transformation.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9161
       }
     ],
     "science": [
