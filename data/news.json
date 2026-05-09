@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T12:05:36.824884+00:00",
+  "generated_at": "2026-05-09T12:31:36.730054+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -972,6 +972,21 @@
     ],
     "innovation": [
       {
+        "id": "0b46c97926e55f02",
+        "title": "macOS 27 threatens to bury Time Capsule, FOSS brings a shovel",
+        "url": "https://www.theregister.com/software/2026/05/09/macos-27-threatens-to-bury-time-capsule-foss-brings-a-shovel/5234824",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778329500000,
+        "summary": "Apple's old backup boxes only speak AFP and SMB1, but NetBSD under the hood gives them one last shot",
+        "tags": [
+          "software"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0478
+      },
+      {
         "id": "05c3b1b38daad253",
         "title": "Parent company of Truth Social reports $400M loss",
         "url": "https://www.reddit.com/r/technology/comments/1t82oqz/parent_company_of_truth_social_reports_400m_loss/",
@@ -1036,6 +1051,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1327
+      },
+      {
+        "id": "e2c9bc5f2e911c9b",
+        "title": "Schools reach out to Canvas hackers as breach hits US classrooms, source says",
+        "url": "https://www.reddit.com/r/technology/comments/1t81g7j/schools_reach_out_to_canvas_hackers_as_breach/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778323099000,
+        "summary": "submitted by /u/talkingatoms [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9161
       },
       {
         "id": "603eb6d5ee3b5aaf",
@@ -1905,37 +1935,38 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0744
-      },
-      {
-        "id": "767d3756048cac4f",
-        "title": "Disgraced US gov software contractor found guilty of database destruction",
-        "url": "https://www.theregister.com/cyber-crime/2026/05/08/former-us-contractor-convicted-in-federal-database-wipe-case/5237296",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778260214000,
-        "summary": "Twin brother still faces trial over broader cybercrime allegations",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1281
-      },
-      {
-        "id": "40bbd18fded3d096",
-        "title": "Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices; INTC closes up 13.93% (Wall Street Journal)",
-        "url": "https://www.techmeme.com/260508/p24#a260508p24",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778259388000,
-        "summary": "Wall Street Journal: Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices; INTC closes up 13.93% — The iPhone maker and U.S. silicon giant will work together on chips for Apple devices. The Trump administration pushed for the deal.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9228
       }
     ],
     "ai": [
+      {
+        "id": "793b3b14ad37847d",
+        "title": "OpenAI, Anthropic, and Google's enterprise push with PE firms poses a new competitive threat to India's IT industry, as services become increasingly automatable (Moneycontrol)",
+        "url": "https://www.techmeme.com/260509/p8#a260509p8",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778329802000,
+        "summary": "Moneycontrol: OpenAI, Anthropic, and Google's enterprise push with PE firms poses a new competitive threat to India's IT industry, as services become increasingly automatable — On Wall Street, the announcements sounded like the next phase of the artificial intelligence (AI) boom: frontier model companies …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0795
+      },
+      {
+        "id": "a67623ed2307ac83",
+        "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
+        "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1778325637000,
+        "summary": "A manual penetration test costs between 10,000 and 50,000 dollars. It takes weeks to schedule, days to execute, and produces a report that is out of date before the ink dries. Intruder, a London-based cybersecurity company that graduated from GCHQ’s Cyber Accelerator, has launched AI pentesting agents that replicate the methodology of a human […] This story continues at The Next Web",
+        "tags": [
+          "security",
+          "startups and technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9501
+      },
       {
         "id": "2d9060d91d97635a",
         "title": "I let Gemini and Google Maps talk to each other, and my vacation photos finally make sense",
@@ -2847,38 +2878,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9141
-      },
-      {
-        "id": "34366e33244750c9",
-        "title": "Does Your AI Agent Need a VPN? The Company Behind Norton and Avast Thinks So",
-        "url": "https://www.cnet.com/tech/services-and-software/does-your-ai-agent-need-a-vpn-the-company-behind-norton-and-avast-thinks-so/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778263980000,
-        "summary": "You might use a VPN yourself, but have you considered giving one to your AI agent? It might be more important than you think.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8813
-      },
-      {
-        "id": "4c000fc221045e45",
-        "title": "Teaching Claude Why",
-        "url": "https://www.anthropic.com/research/teaching-claude-why",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778263181000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:18"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9998
       }
     ],
     "science": [
+      {
+        "id": "378c6ba998655aa6",
+        "title": "Saturday Citations: Psychedelic therapeutics; interoception and well-being; a hidden linguistic bias",
+        "url": "https://phys.org/news/2026-05-saturday-citations-psychedelic-therapeutics-interoception.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778329802000,
+        "summary": "This week, researchers reported that the human brain is capable of sophisticated language processing while in an unconscious state during general anesthesia. An informatics and computing professor found that the Climate TRACE consortium has underestimated vehicle carbon emissions in cities by a staggering 70%. And archaeologists excavated and photoscanned a prehistoric man-made island located in a",
+        "tags": [
+          "other"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "0e6839c7e2a9e77b",
+        "title": "What is the 'gray rock' method for dealing with narcissists or difficult family members?",
+        "url": "https://phys.org/news/2026-05-gray-method-narcissists-difficult-family.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778329801000,
+        "summary": "If you're dealing with a relationship marked by conflict, criticism or manipulation—be it with a parent, co-parent or colleague—chances are you've come across the \"gray rock\" method on social media or advice blogs.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
       {
         "id": "b2ebeb3f916f78e7",
         "title": "New catalyst unlocks carbon-free ammonia heat for steel, cement and chemicals",
@@ -3780,36 +3812,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0486
-      },
-      {
-        "id": "92d0c310400c7924",
-        "title": "4,000-year-old texts to reach new audiences in digital project",
-        "url": "https://phys.org/news/2026-05-year-texts-audiences-digital.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778204404000,
-        "summary": "Researchers are transforming access to some of the world's oldest written records using digital technology and multilingual tools. As part of the project, called Access to Cuneiform Texts (CDLI‑ACT), researchers have developed an Arabic digital interface to allow access to cuneiform texts—written on clay tablets across ancient Mesopotamia over more than three millennia.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0158
-      },
-      {
-        "id": "4fd9e6963e25349c",
-        "title": "Can houseplants really purify the air in your home? What the science actually says",
-        "url": "https://phys.org/news/2026-05-houseplants-purify-air-home-science.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778199601000,
-        "summary": "The question sounds simple. The answer, once you examine the actual measurement science behind it, is more interesting than either \"yes\" or \"no.\"",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.005
       }
     ]
   },
