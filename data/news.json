@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-05-09T16:57:34.236483+00:00",
+  "generated_at": "2026-05-09T17:11:37.125073+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "973fca8992392b8a",
+        "title": "I spent 10 days testing the iFi GO Link 2 — and this little DAC delivers an enormous audio upgrade for your phone or laptop audio at a great price",
+        "url": "https://www.techradar.com/audio/dacs/ifi-go-link-2-review",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778346000000,
+        "summary": "iFi's tiny DAC is smaller and lighter than the first generation and delivers an excellent audio upgrade to phones in particular",
+        "tags": [
+          "dacs",
+          "hi-fi",
+          "audio"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8468
+      },
+      {
+        "id": "9ad84b5c7fa1df5b",
+        "title": "Banned drones and routers in the US will still get critical updates until 2029",
+        "url": "https://www.engadget.com/2168585/banned-drones-and-routers-in-the-us-will-still-get-critical-updates-until-2029/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778346000000,
+        "summary": "The Federal Communications Commission issued a notice to allow software and firmware updates until January 2029.",
+        "tags": [
+          "news"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7575
+      },
       {
         "id": "3a0ea2e0959a0391",
         "title": "I turned my old phone into a wall-mounted presence sensor and automated my entire home",
@@ -921,39 +953,45 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8457
-      },
-      {
-        "id": "c03a1e2409a40cef",
-        "title": "'From the inventors of origami': Japan joins Australia in building cardboard drones designed for one-way missions and swarming targets — and at just $2,000, they’re scarily cheap",
-        "url": "https://www.techradar.com/pro/from-the-inventors-of-origami-japan-joins-australia-in-building-cardboard-drones-designed-for-one-way-missions-and-swarming-targets-and-at-just-usd2-000-theyre-scarily-cheap",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778269500000,
-        "summary": "Japan’s cardboard drones introduce low-cost swarm warfare concepts, combining rapid production and deployment with unresolved questions about durability and battlefield effectiveness",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.849
-      },
-      {
-        "id": "2dd3511da92fcb49",
-        "title": "Prime Video is adding a TikTok-like feed",
-        "url": "https://www.engadget.com/2168176/prime-video-is-adding-a-tiktok-like-feed/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778267902000,
-        "summary": "Your wish for a vertical recommendation carousel has been granted.",
-        "tags": [
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7006
       }
     ],
     "innovation": [
+      {
+        "id": "f3ed543b5baa882e",
+        "title": "Machining a Two-Stroke Engine out of Aluminium",
+        "url": "https://hackaday.com/2026/05/09/machining-a-two-stroke-engine-out-of-aluminium/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778346044000,
+        "summary": "Recently [Camden Bowen] took a swing at machining a two-stroke engine out of billet aluminium, following adventures in 3D printing such an engine, as well as building one out of …read more",
+        "tags": [
+          "engine hacks",
+          "internal combustion engine",
+          "machining",
+          "two-stroke"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0762
+      },
+      {
+        "id": "0c6d7b278577fc42",
+        "title": "I built a private cloud workspace at home, and it was easier than I expected",
+        "url": "https://www.makeuseof.com/built-my-own-browser-based-cloud-desktop/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778346019000,
+        "summary": "Remote desktop is great, but this is way cleaner (and free).",
+        "tags": [
+          "networking",
+          "remote desktop",
+          "linux commands",
+          "cloud computing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8469
+      },
       {
         "id": "9c0a2783e2a908c4",
         "title": "Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core",
@@ -1887,38 +1925,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9426
-      },
-      {
-        "id": "e45c5eeb4d74dea3",
-        "title": "I changed one setting in Device Manager and my Wi-Fi jumped from 260 Mbps to 430 Mbps",
-        "url": "https://www.makeuseof.com/windows-is-throttling-your-wi-fi-to-save-power-heres-how-to-turn-it-off/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778263232000,
-        "summary": "Windows is quietly throttling your Wi-Fi to save power, and one setting buried in Device Manager can get your speed back",
-        "tags": [
-          "windows",
-          "wi-fi",
-          "windows 11"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8481
-      },
-      {
-        "id": "0cbe9d7439ffe791",
-        "title": "Apple, Intel Have Reached Preliminary Chip-Making Agreement",
-        "url": "https://hardware.slashdot.org/story/26/05/08/174203/apple-intel-have-reached-preliminary-chip-making-agreement?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1778263200000,
-        "summary": "Apple and Intel have reportedly reached a preliminary agreement (paywalled; alternative source) for Intel to manufacture some chips used in Apple devices, after more than a year of talks and pressure from the Trump administration. It's still unclear which Apple products would use Intel-made chips, but the deal would mark a major potential win for Intel's foundry ambitions and give Apple another ma",
-        "tags": [
-          "intel"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1312
       }
     ],
     "ai": [
@@ -2855,6 +2861,21 @@
     ],
     "science": [
       {
+        "id": "a413b1ba91c676b7",
+        "title": "Bee more specific: New radar tech could improve identification and tracking of key pollinators",
+        "url": "https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778346003000,
+        "summary": "Scientists from Trinity and Technical University of Denmark have developed a new radar-based technique that could address a critical gap in global conservation efforts, by transforming how we identify and track the insects that are actually responsible for pollinating plants.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0162
+      },
+      {
         "id": "545106ea1c734d86",
         "title": "NASA's Curiosity rover gets its drill stuck, recordings from the Arctic seafloor and more science stories",
         "url": "https://www.engadget.com/2168581/nasa-curiosity-rover-gets-its-drill-stuck-recordings-from-the-arctic-seafloor-and-more-science-stories/",
@@ -3767,21 +3788,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0171
-      },
-      {
-        "id": "fda2ab671eed6761",
-        "title": "How Dante's Inferno modeled a planetary impact 500 years before modern science",
-        "url": "https://phys.org/news/2026-05-dante-inferno-planetary-impact-years.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778241604000,
-        "summary": "New research reveals that Dante Alighieri's Inferno wasn't just a masterpiece of literature: it was a gedankenexperiment in impact physics. From multi-ring craters to shockwaves that reshaped the globe, discover how a 14th-century poet modeled a planetary impact 500 years before the birth of modern meteoritics.",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
       }
     ]
   },
