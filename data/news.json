@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-10T03:22:05.842279+00:00",
+  "generated_at": "2026-05-10T04:36:00.898859+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1f1427cddd5abef8",
+        "title": "Google seems to require Google Play Services for passing next-gen reCAPTCHA on Android, denying de-Googled Android phones and creating surveillance issues (Rick Findlay/Reclaim The Net)",
+        "url": "https://www.techmeme.com/260509/p16#a260509p16",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1778384761000,
+        "summary": "Rick Findlay / Reclaim The Net: Google seems to require Google Play Services for passing next-gen reCAPTCHA on Android, denying de-Googled Android phones and creating surveillance issues — Google has tied its next-generation reCAPTCHA system to Google Play Services on Android, meaning anyone running a de-Googled phone …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9841
+      },
       {
         "id": "2b0f8ed6fd993b4c",
         "title": "Premier League Soccer: Stream West Ham vs. Arsenal From Anywhere Live",
@@ -926,21 +939,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.5941
-      },
-      {
-        "id": "c772978bcb0562e7",
-        "title": "Discord is recovering from an outage that took some users offline",
-        "url": "https://www.engadget.com/2168231/discord-is-down-for-some-users/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778271889000,
-        "summary": "The company had an issue with its API systems.",
-        "tags": [
-          "big tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6933
       }
     ],
     "innovation": [
@@ -1907,6 +1905,37 @@
     ],
     "ai": [
       {
+        "id": "51564c65cfdc8546",
+        "title": "'Changing of the Guard'? AMD, Intel, and Micron Soar While Nvidia Lags",
+        "url": "https://hardware.slashdot.org/story/26/05/10/0214232/changing-of-the-guard-amd-intel-and-micron-soar-while-nvidia-lags?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778384040000,
+        "summary": "While Nvidia has dominated the \"infrastructure boom\" since 2022's launch of ChatGPT and \"the generative AI craze,\" CNBC writes that \"This week offered the starkest illustration yet of what MIzuho analyst Jordan Klein said could be a 'changing of the guard in AI.'\" Chipmakers Advanced Micro Devices and Intel notched gains of about 25%, while memory maker Micron jumped more than 37% and fiber-optic ",
+        "tags": [
+          "amd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1117
+      },
+      {
+        "id": "b43c4e37581aea62",
+        "title": "Gemini API File Search is now multimodal",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778383322000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:18"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0254
+      },
+      {
         "id": "c551c729f780cd24",
         "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
         "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -2031,6 +2060,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9107
+      },
+      {
+        "id": "350fc3c9c0685586",
+        "title": "Meta's embrace of AI is making its employees miserable",
+        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778351616000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:341"
+        ],
+        "paywall": true,
+        "impact": "high",
+        "score": 0.8763
       },
       {
         "id": "1ae4bbdb0fbb008a",
@@ -2785,51 +2830,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9844
-      },
-      {
-        "id": "9e0672d756d15bf0",
-        "title": "Sources: WH is preparing to order US agencies to partner with AI companies on cybersecurity; the EO wouldn't require pre-release model testing by the government (Bloomberg)",
-        "url": "https://www.techmeme.com/260508/p33#a260508p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778278201000,
-        "summary": "Bloomberg: Sources: WH is preparing to order US agencies to partner with AI companies on cybersecurity; the EO wouldn't require pre-release model testing by the government — The Trump administration is preparing to order US agencies to partner with artificial intelligence companies to protect networks …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0738
-      },
-      {
-        "id": "7a666d444014a193",
-        "title": "Anthropic CEO says 80-fold growth in first quarter explains 'difficulties with compute'",
-        "url": "https://www.reddit.com/r/technology/comments/1t7m4l6/anthropic_ceo_says_80fold_growth_in_first_quarter/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778277685000,
-        "summary": "submitted by /u/socoolandawesome [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8955
-      },
-      {
-        "id": "35ee5227f74965d6",
-        "title": "ChatGPT now lets you nominate a Trusted Contact who gets alerted if your interaction with AI 'indicates a serious safety concern'",
-        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-now-lets-you-nominate-a-trusted-contact-who-gets-alerted-if-your-interaction-with-ai-indicates-a-serious-safety-concern",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778277600000,
-        "summary": "On top of its existing safety systems, ChatGPT is giving users the option to designate a trusted adult to reach out to.",
-        "tags": [
-          "chatgpt",
-          "ai platforms &amp; assistants",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.916
       }
     ],
     "science": [
