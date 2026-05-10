@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-05-10T20:25:31.115177+00:00",
+  "generated_at": "2026-05-10T20:43:21.830780+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "07e45187718b3956",
+        "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+        "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778445728000,
+        "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are […]",
+        "tags": [
+          "entertainment",
+          "gadgets",
+          "music",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7917
+      },
       {
         "id": "22faa51feabe66db",
         "title": "GM agrees to pay $12.75 million to settle California lawsuit over misuse of customers' driving data",
@@ -923,22 +942,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7575
-      },
-      {
-        "id": "3a0ea2e0959a0391",
-        "title": "I turned my old phone into a wall-mounted presence sensor and automated my entire home",
-        "url": "https://www.makeuseof.com/turned-old-phone-presence-sensor-automated-entire-home/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1778344217000,
-        "summary": "I automated my home with a dead phone.",
-        "tags": [
-          "smart home",
-          "smartphone"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9171
       }
     ],
     "innovation": [
@@ -1887,6 +1890,38 @@
     ],
     "ai": [
       {
+        "id": "a238adf7a555886b",
+        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+        "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778445641000,
+        "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "tags": [
+          "ai",
+          "anthropic",
+          "claude"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8071
+      },
+      {
+        "id": "256317555b2716ab",
+        "title": "Tiny company steals AMD's thunder and challenges Nvidia with old-tech PCIe AI accelerator that runs 700B LLMs locally, sipping just 240W thanks to decade-old DDR4 and 28nm chips",
+        "url": "https://www.techradar.com/pro/tiny-company-steals-amds-thunder-and-challenges-nvidia-with-old-tech-pcie-ai-accelerator-that-runs-700b-llms-locally-sipping-just-240w-thanks-to-decade-old-ddr4-and-28nm-chips",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778445300000,
+        "summary": "Skymizer introduced a low power PCIe AI accelerator using older chips and LPDDR memory for massive language model inference.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9155
+      },
+      {
         "id": "11829a74c2b623c8",
         "title": "'It feels like a slap in the face' — never fact-check your doctor with ChatGPT as study shows doing so 'undermines' your relationship with human experts — and could even offend them by making them feel 'disrespected'",
         "url": "https://www.techradar.com/pro/it-feels-like-a-slap-in-the-face-never-fact-check-your-doctor-with-chatgpt-as-study-shows-doing-so-undermines-your-relationship-with-human-experts-and-could-even-offend-them-by-making-them-feel-disrespected",
@@ -2794,43 +2829,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.129
-      },
-      {
-        "id": "52cc37d605b7487a",
-        "title": "Nvidia has already committed $40B to equity AI deals this year",
-        "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778337810000,
-        "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-        "tags": [
-          "ai",
-          "startups",
-          "venture",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8047
-      },
-      {
-        "id": "b0cd142b971abaf4",
-        "title": "Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778336565000,
-        "summary": "Maryland is complaining to the federal energy regulator about PJM's plan to charge it $2 billion for grid upgrades that will mostly benefit data centers, especially as the state claims that the majority of these developments are being built in neighboring regions.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9984
       }
     ],
     "science": [
+      {
+        "id": "4bab1afbc39ebe3a",
+        "title": "SpaceX wants to launch a million satellites",
+        "url": "https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1778442965000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:13"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1169
+      },
       {
         "id": "ea00c6f82441ee89",
         "title": "Alaska's near‑record landslide tsunami sent a wave 1,580 feet up the fjord walls",
@@ -3727,22 +3744,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9624
-      },
-      {
-        "id": "2131495c64d17154",
-        "title": "The Pentagon published 162 UFO files on war.gov/ufo. Two-thirds are redacted. The government says it is being transparent.",
-        "url": "https://thenextweb.com/news/pentagon-ufo-files-war-gov-pursue",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1778267617000,
-        "summary": "The Department of War launched a website on Friday called war.gov/ufo. It contains 162 files, including photographs from the Apollo 17 mission that NASA cannot explain, infrared videos of objects the military cannot identify, and internal memos describing sightings in Iraq and Syria that no agency has resolved. Two-thirds of the documents are partially redacted. […] This story continues at The Nex",
-        "tags": [
-          "launch",
-          "united states"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8822
       }
     ]
   },
