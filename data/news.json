@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-11T15:29:32.022969+00:00",
+  "generated_at": "2026-05-11T15:33:37.148414+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "039a990ed1944148",
+        "title": "The next Samsung Galaxy Trifold may have an S Pen surprise",
+        "url": "https://www.androidpolice.com/the-next-galaxy-trifold-may-have-an-s-pen-surprise/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1778513454000,
+        "summary": "The Trifold 2 might have a stylish stylus tucked away inside",
+        "tags": [
+          "samsung galaxy z trifold",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9991
+      },
       {
         "id": "7a2e5ef319f17994",
         "title": "I love my Ninja Slushi drinks machine, but this new version is twice as ice — how can you resist cool twisted multi-colored slushies at home?",
@@ -956,28 +972,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7017
-      },
-      {
-        "id": "07e45187718b3956",
-        "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
-        "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1778445728000,
-        "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are […]",
-        "tags": [
-          "entertainment",
-          "gadgets",
-          "music",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7917
       }
     ],
     "innovation": [
+      {
+        "id": "d763342b07cba177",
+        "title": "Want Driving Simulator Feedback? Make The Robot Do It",
+        "url": "https://hackaday.com/2026/05/11/want-driving-simulator-feedback-make-the-robot-do-it/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778513400000,
+        "summary": "Humanoid robots are a thing now, and here’s an interesting research project that explores using one as a form of haptic media. Specifically, using a humanoid robot to move a …read more",
+        "tags": [
+          "robots hacks",
+          "virtual reality",
+          "driving simulator",
+          "force feedback",
+          "humanoid robot",
+          "vr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.165
+      },
       {
         "id": "c6abb272cf5c7467",
         "title": "OpenAI launches $4bn Deployment Company with TPG, Advent, Bain, and Brookfield",
@@ -1900,21 +1917,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8776
-      },
-      {
-        "id": "6114e44a4d4457f1",
-        "title": "Volvo CCO Knows Heated Seat Subscriptions Are Just Another Way to ‘Nickel and Dime’ People",
-        "url": "https://www.reddit.com/r/technology/comments/1t9xcsq/volvo_cco_knows_heated_seat_subscriptions_are/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778488926000,
-        "summary": "submitted by /u/DonkeyFuel [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8853
       }
     ],
     "ai": [
@@ -2808,37 +2810,38 @@
         "score": 1.0681
       },
       {
-        "id": "197aa0d913e63b13",
-        "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-        "url": "https://arxiv.org/abs/2605.06671",
+        "id": "1ad4e1b8096410c8",
+        "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+        "url": "https://arxiv.org/abs/2605.06772",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06671v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Di",
+        "summary": "arXiv:2605.06772v1 Announce Type: new Abstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Structured Critic--Actor Loop for AI Reasoning), an Actor--Critic--Judge pipeline ap",
         "tags": [
           "cs.ai",
-          "cs.ma"
+          "cs.hc",
+          "hep-ph",
+          "hep-th"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1179
+        "score": 0.9077
       },
       {
-        "id": "9763aa1a776a0aa6",
-        "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-        "url": "https://arxiv.org/abs/2605.06696",
+        "id": "91e5571a786f0a90",
+        "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
+        "url": "https://arxiv.org/abs/2605.06815",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06696v1 Announce Type: new Abstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI safety and alignment. However, observing agent behavior alone is often insufficient to distinguish genuine informational coupling from spurious similarity, as consequential coalitions may form at the level of internal represent",
+        "summary": "arXiv:2605.06815v1 Announce Type: new Abstract: The pursuit of artificial general intelligence necessitates robust methods for evaluating the cognitive capabilities of models beyond narrow task performance. Here, we introduce a psychometric framework to assess the cognitive profiles of generative AI, comparing them to human norms and tracking their evolution across generations. Initial evaluation ",
         "tags": [
           "cs.ai",
-          "cs.lg",
-          "cs.ma"
+          "cs.cv"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1179
+        "score": 0.9077
       }
     ],
     "science": [
