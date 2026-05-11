@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-11T15:33:37.148414+00:00",
+  "generated_at": "2026-05-11T15:43:24.298927+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ea77cd393075c3b9",
+        "title": "A new player has emerged. [Video]",
+        "url": "https://www.androidpolice.com/video/a-new-player-has-emerged-video/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1778513624000,
+        "summary": "Look out, Samsung!",
+        "tags": [
+          "vivo x300 ultra",
+          "samsung galaxy s26 ultra",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9969
+      },
       {
         "id": "039a990ed1944148",
         "title": "The next Samsung Galaxy Trifold may have an S Pen surprise",
@@ -957,21 +974,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8454
-      },
-      {
-        "id": "1cc2afa6d8869133",
-        "title": "Whoop will soon offer users in-app video consultations with licensed clinicians",
-        "url": "https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778449071000,
-        "summary": "Clinicians will be able to see users' health data.",
-        "tags": [
-          "wearables"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7017
       }
     ],
     "innovation": [
@@ -1921,6 +1923,21 @@
     ],
     "ai": [
       {
+        "id": "477d6c6b55ed1a98",
+        "title": "Machine learning proves that graphene is hydrophobic",
+        "url": "https://phys.org/news/2026-05-machine-graphene-hydrophobic.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1778514001000,
+        "summary": "For more than a decade, a fundamental mystery has surrounded graphene—the one-atom-thick \"wonder material\" known for its exceptional strength, conductivity, and transparency. Despite its seemingly simple structure, one basic question has remained unresolved: Does graphene attract water, or repel it?",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1004
+      },
+      {
         "id": "9b003cd6446a65ad",
         "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -2810,41 +2827,53 @@
         "score": 1.0681
       },
       {
-        "id": "1ad4e1b8096410c8",
-        "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
-        "url": "https://arxiv.org/abs/2605.06772",
+        "id": "197aa0d913e63b13",
+        "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+        "url": "https://arxiv.org/abs/2605.06671",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06772v1 Announce Type: new Abstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study this using SCALAR (Structured Critic--Actor Loop for AI Reasoning), an Actor--Critic--Judge pipeline ap",
+        "summary": "arXiv:2605.06671v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Di",
         "tags": [
           "cs.ai",
-          "cs.hc",
-          "hep-ph",
-          "hep-th"
+          "cs.ma"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9077
-      },
-      {
-        "id": "91e5571a786f0a90",
-        "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
-        "url": "https://arxiv.org/abs/2605.06815",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06815v1 Announce Type: new Abstract: The pursuit of artificial general intelligence necessitates robust methods for evaluating the cognitive capabilities of models beyond narrow task performance. Here, we introduce a psychometric framework to assess the cognitive profiles of generative AI, comparing them to human norms and tracking their evolution across generations. Initial evaluation ",
-        "tags": [
-          "cs.ai",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9077
+        "score": 0.9049
       }
     ],
     "science": [
+      {
+        "id": "1cce5801ac4762f8",
+        "title": "Black holes don't live forever, but they might live long enough to look like white holes",
+        "url": "https://phys.org/news/2026-05-black-holes-dont-white.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778514005000,
+        "summary": "Black holes live forever, at least according to general relativity. Once material crosses a black hole's event horizon, it is trapped forever, until the last day of cosmic time. But we know that isn't true. General relativity is a classical model. It doesn't take into account the fuzzy, indeterminate nature of the quantum. We don't have a complete and consistent theory of quantum gravity, but we d",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1004
+      },
+      {
+        "id": "29f29c9b5152d1ba",
+        "title": "The G-value paradox: Why similar genes can lead to very different brains",
+        "url": "https://phys.org/news/2026-05-paradox-similar-genes-brains.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778513843000,
+        "summary": "Biologists have long puzzled over why organisms with similar numbers of protein-coding genes can differ so dramatically in nervous system complexity. New research points to a potential link between the expanding diversity of RNA-binding proteins, which shape how genetic instructions are processed, and greater brain sophistication.",
+        "tags": [
+          "evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.018
+      },
       {
         "id": "9226de4551834979",
         "title": "An everyday sweetener offers a surprisingly powerful engine for transparent, stretchable electronics",
@@ -3733,36 +3762,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.018
-      },
-      {
-        "id": "c01229bb20f70192",
-        "title": "Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer",
-        "url": "https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778373001000,
-        "summary": "Many grocery shoppers know the routine: bring fruit and vegetables home, rinse them, dry them and hope they stay fresh long enough to be eaten. But fresh produce is delicate. Grapes shrivel, apple slices brown and berries can spoil quickly.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.006
-      },
-      {
-        "id": "4ac84026cfa6edcf",
-        "title": "Conspiracy theories meet real news: How QAnon tries to hijack the Internet",
-        "url": "https://phys.org/news/2026-05-conspiracy-theories-real-news-qanon.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778367601000,
-        "summary": "\"When people think of extremists, they tend to think of neo-Nazis,\" said Francesco Campisi, a lecturer at Université de Montréal's School of Criminology. \"But there are many other fringe groups that may not be violent yet can give rise to extremism.\"",
-        "tags": [
-          "political science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0172
       }
     ]
   },
