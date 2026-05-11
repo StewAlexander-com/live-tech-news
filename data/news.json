@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T22:11:47.567089+00:00",
+  "generated_at": "2026-05-11T22:13:09.489163+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3704,54 +3704,51 @@
         "score": 1.0722
       },
       {
-        "id": "168d229e139e9e73",
-        "title": "A Hierarchical Ensemble Pipeline for Anomaly Detection in ESA Satellite Telemetry",
-        "url": "https://arxiv.org/abs/2605.06681",
+        "id": "dd8532aff91c1f00",
+        "title": "From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning",
+        "url": "https://arxiv.org/abs/2605.06814",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06681v1 Announce Type: new Abstract: A hierarchical ensemble pipeline is introduced to address anomaly detection in multivariate telemetry data provided by European Space Agency (ESA). The method integrates shapelet-based and statistical feature extraction, per-channel modeling, intra-channel stacking, and a final cross-channel aggregation. The pipeline is trained and validated using ti",
+        "summary": "arXiv:2605.06814v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) achieve high performance but can be opaque to humans, making it difficult to understand and compare the many proposed architectures. While existing explainability methods attribute individual predictions to nodes, edges, or features, they do not provide architectural transparency or explain the fundamental performance gap",
         "tags": [
-          "cs.lg",
-          "cs.cv"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7988
+        "score": 0.7985
       },
       {
-        "id": "0f3e8dc2a1df0fe3",
-        "title": "Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training",
-        "url": "https://arxiv.org/abs/2605.06727",
-        "source": "arXiv cs.LG",
+        "id": "619b44234dee56b9",
+        "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+        "url": "https://arxiv.org/abs/2605.06682",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06727v1 Announce Type: new Abstract: We introduce a hybrid quantum-classical pipeline, based on neutral-atom reservoir computing, for medical image classification, focusing on the binary classification task of polyp detection. To deal effectively with the high dimensionality, we integrate a guided auto-encoder. This pipeline learns compact and discriminative representations of image dat",
+        "summary": "arXiv:2605.06682v1 Announce Type: new Abstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the fe",
         "tags": [
-          "cs.lg",
-          "cs.et",
-          "eess.iv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7988
-      },
-      {
-        "id": "c7b066f9591893b3",
-        "title": "Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning",
-        "url": "https://arxiv.org/abs/2605.06734",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06734v1 Announce Type: new Abstract: Fast Weight Programmers (FWPs) encode temporal dependencies through dynamically updated parameters rather than recurrent hidden states. Quantum FWPs (QFWPs) extend this idea with variational quantum circuits (VQCs), but existing implementations rely on multi-qubit architectures that are difficult to scale on noisy intermediate-scale quantum (NISQ) de",
-        "tags": [
-          "cs.lg",
           "cs.ai",
-          "quant-ph"
+          "cs.cy"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 0.7988
+        "impact": "normal",
+        "score": 0.7393
+      },
+      {
+        "id": "cdb6f9370add6305",
+        "title": "Optimal Experiments for Partial Causal Effect Identification",
+        "url": "https://arxiv.org/abs/2605.06993",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778472000000,
+        "summary": "arXiv:2605.06993v1 Announce Type: new Abstract: Causal queries are often only partially identifiable from observational data, and experiments that could tighten the resulting bounds are typically costly. We study the problem of selecting, prior to observing experimental outcomes, a cost-constrained subset of experiments that maximally tightens bounds on a target query. We formalize this as the max",
+        "tags": [
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7393
       }
     ]
   },
