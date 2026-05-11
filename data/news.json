@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-05-11T21:50:19.946059+00:00",
+  "generated_at": "2026-05-11T22:11:47.567089+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f87624549370dd7b",
+        "title": "'All modern operating systems do this, including macOS and Linux': Microsoft exec fires back at critics accusing it of 'cheating' with Windows 11 speed boost feature",
+        "url": "https://www.techradar.com/computing/windows/all-modern-operating-systems-do-this-including-macos-and-linux-microsoft-exec-fires-back-at-critics-accusing-it-of-cheating-with-windows-11-speed-boost-feature",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778536800000,
+        "summary": "Microsoft defends CPU trick to boost Windows 11 performance after critics label it a fudged fix.",
+        "tags": [
+          "windows",
+          "computing",
+          "software"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8468
+      },
       {
         "id": "d40f8feb88d5ba82",
         "title": "TikTok is going ad-free in the UK — if you pay £3.99 a month for it",
@@ -932,25 +949,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9969
-      },
-      {
-        "id": "039a990ed1944148",
-        "title": "The next Samsung Galaxy Trifold may have an S Pen surprise",
-        "url": "https://www.androidpolice.com/the-next-galaxy-trifold-may-have-an-s-pen-surprise/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1778513454000,
-        "summary": "The Trifold 2 might have a stylish stylus tucked away inside",
-        "tags": [
-          "samsung galaxy z trifold",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9991
       }
     ],
     "innovation": [
+      {
+        "id": "fb3841a14b1e4e0a",
+        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+        "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778536774000,
+        "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+        "tags": [
+          "social",
+          "android",
+          "apple",
+          "e2ee",
+          "google",
+          "ios"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7451
+      },
       {
         "id": "d20e6d09cfdeb1ed",
         "title": "New water-powered tech could power batteries that can last hundreds of years without degrading — and are so safe that the electrolytes can be used as 'tofu-brine' for home cooking",
@@ -981,6 +1002,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8489
+      },
+      {
+        "id": "bfd6c20965226aeb",
+        "title": "Rodent-obsessed developer creates Ratty to bring 3D graphics to the command line",
+        "url": "https://www.theregister.com/software/2026/05/11/ratty-terminal-emulator-brings-3d-graphics-to-the-command-line/5238299",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778532870000,
+        "summary": "Inspired by TempleOS, this terminal emulator is just about as bonkers",
+        "tags": [
+          "software"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0243
       },
       {
         "id": "ad424d7084ea447c",
@@ -1864,39 +1900,54 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0231
-      },
-      {
-        "id": "da5b473a73038509",
-        "title": "Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged",
-        "url": "https://www.theregister.com/security/2026/05/11/checkmarx-tackles-another-teampcp-intrusion-as-jenkins-plugin-sabotaged/5237780",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778501481000,
-        "summary": "Cybercrooks ruin engineers' weekends with Saturday attack",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.046
-      },
-      {
-        "id": "cbaac708ad1e5734",
-        "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
-        "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
-        "source": "MIT Technology Review",
-        "lane": "innovation",
-        "published_ts": 1778501400000,
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have…",
-        "tags": [
-          "the download"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.046
       }
     ],
     "ai": [
+      {
+        "id": "449de2332a425f1a",
+        "title": "Smarter search for fuel-cell catalysts uses machine learning",
+        "url": "https://phys.org/news/2026-05-smarter-fuel-cell-catalysts-machine.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1778537401000,
+        "summary": "A computational method combining generative AI with atomistic simulations can identify promising platinum alloy catalyst structures for hydrogen fuel cells, report researchers from Science Tokyo. Their approach addresses a longstanding challenge in catalyst design and consistently produces high-performing candidates from several material combinations.",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.101
+      },
+      {
+        "id": "c868d6fad19ef644",
+        "title": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities",
+        "url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1778537282000,
+        "summary": "OpenAI today launched Daybreak, an answer to Anthropic's Project Glasswing initiative and Mythos AI model. Like Glasswing, Daybreak is a cyber defense effort that will help tech companies find security vulnerabilities in their platforms. OpenAI says Daybreak is aimed at building cyber defense into software from the start. It builds on OpenAI's April launch of GPT-5.4-Cyber, which the company says ",
+        "tags": [
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
+        "id": "8ac39389034c3ccf",
+        "title": "CUDA Proves Nvidia Is a Software Company",
+        "url": "https://hardware.slashdot.org/story/26/05/11/2030223/cuda-proves-nvidia-is-a-software-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778536800000,
+        "summary": "Nvidia's real AI moat isn't \"a piece of hardware,\" writes Wired's Sheon Han. It's CUDA: a mature, deeply optimized software ecosystem that keeps machine-learning workloads tied to Nvidia GPUs. An anonymous reader quotes a report from Wired: What sounds like a chemical compound banned by the FDA may be the one true moat in AI. CUDA technically stands for Compute Unified Device Architecture, but muc",
+        "tags": [
+          "software"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1297
+      },
       {
         "id": "0b1c5da4e5bdad70",
         "title": "I let AI build a tool to help me figure out what was waking me up at night",
@@ -2789,55 +2840,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0895
-      },
-      {
-        "id": "cf0eadcd67d705b2",
-        "title": "'I have zero evidence in front of me that users are being driven away from Fedora because of AI': Ubuntu and Fedora confirmed to both get AI support soon",
-        "url": "https://www.techradar.com/pro/i-have-zero-evidence-in-front-of-me-that-users-are-being-driven-away-from-fedora-because-of-ai-ubuntu-and-fedora-confirmed-to-both-get-ai-support-soon",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778508600000,
-        "summary": "Fedora and Ubuntu have set out plans to run small AI models locally, and this has caused a mixed reaction from the open source community.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9163
-      },
-      {
-        "id": "2740b09a4941bfb5",
-        "title": "Bill to criminalize AI sexual deepfakes will include ‘nearly nude’ images",
-        "url": "https://www.reddit.com/r/technology/comments/1ta4dqd/bill_to_criminalize_ai_sexual_deepfakes_will/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778508442000,
-        "summary": "submitted by /u/BusyHands_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.022
-      },
-      {
-        "id": "e73be3ddae8328e6",
-        "title": "Google says criminals used AI-built zero-day in planned mass hack spree",
-        "url": "https://www.theregister.com/ai-ml/2026/05/11/google-says-criminals-used-ai-built-zero-day-in-planned-mass-hack-spree/5237982",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778506702000,
-        "summary": "GTIG says AI-powered hacking has moved well beyond phishing emails and chatbot tricks",
-        "tags": [
-          "ai + ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0943
       }
     ],
     "science": [
+      {
+        "id": "78e61a6c94fff584",
+        "title": "Hidden proton pathways emerge as ultrathin polymer film method splits interface signals",
+        "url": "https://phys.org/news/2026-05-hidden-proton-pathways-emerge-ultrathin.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778536808000,
+        "summary": "Understanding how protons move at the interface between polymers and electrode materials is essential for improving fuel cells and related energy devices. However, conventional impedance measurements under inert conditions have long masked these interfacial contributions, showing only a single, merged signal.",
+        "tags": [
+          "polymers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0162
+      },
+      {
+        "id": "58a71778c8cc7d49",
+        "title": "What it would have been like to experience the dinosaur‑killing asteroid armageddon: A blow‑by‑blow account",
+        "url": "https://phys.org/news/2026-05-dinosaurkilling-asteroid-armageddon-blowbyblow-account.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778536801000,
+        "summary": "A great Tyrannosaurus rex strides through the conifer trees of her territory, sniffing the air. She picks up the scent from the carcass of a dead horned dinosaur, Triceratops, that she was feeding on yesterday. She walks over and strips off some more shreds of meat, but the smell is foul even for her.",
+        "tags": [
+          "paleontology & fossils"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0162
+      },
       {
         "id": "78d6d3aca7036c0e",
         "title": "Climate patterns may shape where violent conflict risks are amplified",
@@ -3669,84 +3704,54 @@
         "score": 1.0722
       },
       {
-        "id": "dd8532aff91c1f00",
-        "title": "From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning",
-        "url": "https://arxiv.org/abs/2605.06814",
+        "id": "168d229e139e9e73",
+        "title": "A Hierarchical Ensemble Pipeline for Anomaly Detection in ESA Satellite Telemetry",
+        "url": "https://arxiv.org/abs/2605.06681",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06814v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) achieve high performance but can be opaque to humans, making it difficult to understand and compare the many proposed architectures. While existing explainability methods attribute individual predictions to nodes, edges, or features, they do not provide architectural transparency or explain the fundamental performance gap",
+        "summary": "arXiv:2605.06681v1 Announce Type: new Abstract: A hierarchical ensemble pipeline is introduced to address anomaly detection in multivariate telemetry data provided by European Space Agency (ESA). The method integrates shapelet-based and statistical feature extraction, per-channel modeling, intra-channel stacking, and a final cross-channel aggregation. The pipeline is trained and validated using ti",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "cs.cv"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8044
+        "score": 0.7988
       },
       {
-        "id": "619b44234dee56b9",
-        "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-        "url": "https://arxiv.org/abs/2605.06682",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06682v1 Announce Type: new Abstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the fe",
-        "tags": [
-          "cs.ai",
-          "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7448
-      },
-      {
-        "id": "cdb6f9370add6305",
-        "title": "Optimal Experiments for Partial Causal Effect Identification",
-        "url": "https://arxiv.org/abs/2605.06993",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06993v1 Announce Type: new Abstract: Causal queries are often only partially identifiable from observational data, and experiments that could tighten the resulting bounds are typically costly. We study the problem of selecting, prior to observing experimental outcomes, a cost-constrained subset of experiments that maximally tightens bounds on a target query. We formalize this as the max",
-        "tags": [
-          "cs.ai",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7448
-      },
-      {
-        "id": "c5caf221771112c4",
-        "title": "Online Allocation with Unknown Shared Supply",
-        "url": "https://arxiv.org/abs/2605.07080",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.07080v1 Announce Type: new Abstract: Many real-world resource allocation systems, such as humanitarian logistics and vaccine distribution, must preposition limited supply across multiple locations before demand is realized while stockouts incur irreversible service losses. To study this, we introduce the Online Shared Supply Allocation (OSSA) problem, a stateful online model in which a ",
-        "tags": [
-          "cs.ai",
-          "cs.ds"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.746
-      },
-      {
-        "id": "cc474cd3ee1f9daf",
-        "title": "A Wasserstein GAN-based climate scenario generator for risk management and insurance: the case of soil subsidence",
-        "url": "https://arxiv.org/abs/2605.06678",
+        "id": "0f3e8dc2a1df0fe3",
+        "title": "Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training",
+        "url": "https://arxiv.org/abs/2605.06727",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06678v1 Announce Type: new Abstract: According to the United Nations Office for Disaster Risk Reduction (2025), the average annual cost of natural catastrophes increased from 70--80 billion USD between 1970 and 2000 to 180--200 billion USD between 2001 and 2020. Reports from organizations such as the IFOA and the WWF highlight the need for the insurance sector to adapt to this rapidly e",
+        "summary": "arXiv:2605.06727v1 Announce Type: new Abstract: We introduce a hybrid quantum-classical pipeline, based on neutral-atom reservoir computing, for medical image classification, focusing on the binary classification task of polyp detection. To deal effectively with the high dimensionality, we integrate a guided auto-encoder. This pipeline learns compact and discriminative representations of image dat",
         "tags": [
           "cs.lg",
-          "q-fin.rm",
-          "stat.ap"
+          "cs.et",
+          "eess.iv"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.746
+        "impact": "high",
+        "score": 0.7988
+      },
+      {
+        "id": "c7b066f9591893b3",
+        "title": "Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning",
+        "url": "https://arxiv.org/abs/2605.06734",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778472000000,
+        "summary": "arXiv:2605.06734v1 Announce Type: new Abstract: Fast Weight Programmers (FWPs) encode temporal dependencies through dynamically updated parameters rather than recurrent hidden states. Quantum FWPs (QFWPs) extend this idea with variational quantum circuits (VQCs), but existing implementations rely on multi-qubit architectures that are difficult to scale on noisy intermediate-scale quantum (NISQ) de",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7988
       }
     ]
   },
