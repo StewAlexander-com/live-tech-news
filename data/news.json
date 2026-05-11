@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-11T17:22:53.044951+00:00",
+  "generated_at": "2026-05-11T17:32:29.567446+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f00471289a30efe2",
+        "title": "iPhone-Android RCS Conversations Are End-to-End Encrypted in iOS 26.5",
+        "url": "https://www.macrumors.com/2026/05/11/ios-26-5-rcs-e2ee-launch/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1778520313000,
+        "summary": "End-to-end encryption (E2EE) for RCS messages between iPhone and Android devices is officially available, Apple confirmed today. Support is included in iOS 26.5, which is now available to everyone. End-to-end encrypted ‌RCS‌ messaging is available in a beta capacity, even though it is in the launch version of iOS 26.5. The feature is available with supported carriers and will roll out over time, a",
+        "tags": [
+          "featured",
+          "ios 26",
+          "android",
+          "rcs"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0775
+      },
       {
         "id": "b9f0b442407b5d80",
         "title": "Samsung could soon let you 'Block apps with excessive ads'",
@@ -145,6 +163,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6987
+      },
+      {
+        "id": "d422188d2802dfd9",
+        "title": "A million baby monitors and security cameras were easily viewable by hackers | Meari Technology: the Wi-Fi camera maker you’ve probably never heard of",
+        "url": "https://www.reddit.com/r/technology/comments/1ta8zgo/a_million_baby_monitors_and_security_cameras_were/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1778518127000,
+        "summary": "submitted by /u/Hrmbee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9368
       },
       {
         "id": "9455d26dc8cf0854",
@@ -935,42 +968,58 @@
         "paywall": false,
         "impact": "high",
         "score": 0.849
-      },
-      {
-        "id": "be444af4c32e2a3e",
-        "title": "Zara data breach saw 197,000 people have information exposed — but luckily, hackers may not have accessed private info",
-        "url": "https://www.techradar.com/pro/security/zara-data-breach-saw-197-000-people-have-information-exposed-but-luckily-hackers-may-not-have-accessed-private-info",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778497800000,
-        "summary": "Another victim of the Anodot incident revealed as ShinyHunters leak more data.",
-        "tags": [
-          "security",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8488
-      },
-      {
-        "id": "1cb608246743dd31",
-        "title": "Intel, SK hynix shares surge following reports of chip packaging partnership — SK is said to be testing Intel's 2.5D EMIB for HBM integration",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-shares-surge-to-all-time-high-on-reports-of-intel-emib-partnership",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778497708000,
-        "summary": "The rally followed a report claiming that SK is conducting R&D with Intel on 2.5D packaging using Intel's EMIB technology.",
-        "tags": [
-          "semiconductors",
-          "tech industry",
-          "manufacturing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0241
       }
     ],
     "innovation": [
+      {
+        "id": "5a56c44ec2fb08cc",
+        "title": "This Credit Card Computer Follows All Dimensions",
+        "url": "https://hackaday.com/2026/05/11/this-credit-card-computer-follows-all-dimensions/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778520623000,
+        "summary": "A computer the size of a credit card is nothing new. There have been many single-board computers following the familiar dimensions. [Krauseler]’s credit card computer is different, though. It packs …read more",
+        "tags": [
+          "computer hacks",
+          "credit card",
+          "esp32-c3",
+          "thin circuit"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0793
+      },
+      {
+        "id": "37b7055d20704864",
+        "title": "Finally, a free app that syncs my clipboard across every device I own",
+        "url": "https://www.makeuseof.com/found-free-app-that-syncs-clipboard-across-every-device-own/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778520618000,
+        "summary": "I won't be emailing myself images anymore.",
+        "tags": [
+          "productivity",
+          "clipboard",
+          "windows",
+          "macos"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8494
+      },
+      {
+        "id": "561e0af1450831b3",
+        "title": "Apple releases iOS 26.5, introducing end-to-end encryption for RCS messaging in beta with supported carriers; the setting is enabled by default (Chance Miller/9to5Mac)",
+        "url": "https://www.techmeme.com/260511/p30#a260511p30",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778520301000,
+        "summary": "Chance Miller / 9to5Mac: Apple releases iOS 26.5, introducing end-to-end encryption for RCS messaging in beta with supported carriers; the setting is enabled by default — iOS 26.5 is now available to everyone after six weeks of beta testing. The update adds fresh wallpapers, new features to Apple Maps, and more.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9976
+      },
       {
         "id": "37abed41b3b0e9a5",
         "title": "Bravo is creating unscripted microdramas for the Peacock app",
@@ -1862,49 +1911,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0687
-      },
-      {
-        "id": "e2c87614d96cc4f7",
-        "title": "Circle raised $222M via the presale of its native Arc token at a $3B valuation; a16z led with a $75M investment, with participation from BlackRock and others (Tanaya Macheel/CNBC)",
-        "url": "https://www.techmeme.com/260511/p13#a260511p13",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778496017000,
-        "summary": "Tanaya Macheel / CNBC: Circle raised $222M via the presale of its native Arc token at a $3B valuation; a16z led with a $75M investment, with participation from BlackRock and others — Circle Internet Group has raised $222 million in the presale of Arc, the native token of its new blockchain …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9892
-      },
-      {
-        "id": "d86b9c506ca0bc73",
-        "title": "Filing: Wise plans to debut on the Nasdaq as WSE, and relist in London for its secondary listing; Wise reports year-to-March net revenue up 19% YoY to $2.5B (Aisha S Gani/Bloomberg)",
-        "url": "https://www.techmeme.com/260511/p12#a260511p12",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778495751000,
-        "summary": "Aisha S Gani / Bloomberg: Filing: Wise plans to debut on the Nasdaq as WSE, and relist in London for its secondary listing; Wise reports year-to-March net revenue up 19% YoY to $2.5B — Wise Group Plc is making its trading debut in the US with a Nasdaq listing as the financial technology firm tries to take advantage …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9878
-      },
-      {
-        "id": "0e749b52906e8975",
-        "title": "Europe’s cumulative EV investment passes €200bn",
-        "url": "https://thenextweb.com/news/europes-cumulative-ev-investment-passes-e200bn",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778495509000,
-        "summary": "New AutoMotive’s data tracker, reported by Reuters on Sunday, marks the threshold and puts the question to industrial policy: how much of the headline number will end up producing cells at scale, given that roughly 600 GWh of announced European battery capacity has already been delayed or cancelled. Europe has now invested cumulatively €200bn into […] This story continues at The Next Web",
-        "tags": [
-          "europe",
-          "next featured",
-          "electric vehicle"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9383
       }
     ],
     "ai": [
@@ -3248,7 +3254,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6893
+        "score": 0.7402
       },
       {
         "id": "d9c628d65b3e5c11",
