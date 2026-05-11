@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-11T14:19:39.952489+00:00",
+  "generated_at": "2026-05-11T14:30:59.044026+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0503218fa7088ae8",
+        "title": "Discord's Nitro subscription now includes a slightly nerfed Xbox Game Pass",
+        "url": "https://www.engadget.com/2169595/discords-nitro-subscription-now-includes-a-slightly-nerfed-xbox-game-pass/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778509341000,
+        "summary": "The Nitro Rewards program also includes discounts on Logitech G and SteelSeries gear.",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7021
+      },
       {
         "id": "c329a2ee8cdf5d57",
         "title": "The Galaxy S27 could be even worse value than ever before",
@@ -951,24 +966,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8488
-      },
-      {
-        "id": "ec61e832e8eef5c2",
-        "title": "Safari's latest trick could be automatically organizing your tabs into groups",
-        "url": "https://www.engadget.com/2169076/safari-latest-trick-could-be-automatically-organizing-your-tabs-into-groups/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778435468000,
-        "summary": "Bloomberg's Mark Gurman said Apple could introduce Organize Tabs feature with the next major software update.",
-        "tags": [
-          "apple"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7583
       }
     ],
     "innovation": [
+      {
+        "id": "6b85d378cca0d675",
+        "title": "You can’t keep ignoring vibe coding — I tried it for real, and it changed my life",
+        "url": "https://www.makeuseof.com/you-cant-keep-ignoring-vibe-coding/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778509817000,
+        "summary": "I thought it would be difficult. Vibe coding is so easy, it transformed my life in weeks. Here's how.",
+        "tags": [
+          "productivity",
+          "claude"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8498
+      },
       {
         "id": "befc14ca52a0b95e",
         "title": "Feature freeze for Python 3.15 as first beta released",
@@ -1447,6 +1463,19 @@
         "score": 0.8036
       },
       {
+        "id": "ff3b0d7111d899a8",
+        "title": "Microsoft's Playground Games accidentally uploads unencrypted PC preload files for Forza Horizon 6 to Steam, leaking the PC version before its release next week (Jez Corden/Windows Central)",
+        "url": "https://www.techmeme.com/260511/p14#a260511p14",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778496649000,
+        "summary": "Jez Corden / Windows Central: Microsoft's Playground Games accidentally uploads unencrypted PC preload files for Forza Horizon 6 to Steam, leaking the PC version before its release next week — It's a potentially multi-million dollar error. Playground Games uploaded fresh pre-load files to Steam, albeit without encryption.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9318
+      },
+      {
         "id": "2019dbf0ba43517f",
         "title": "Microsoft's Playground Games accidentally uploads unencrypted pre-load files for Forza Horizon 6 to Steam, leaking the PC version before its release next week (Jez Corden/Windows Central)",
         "url": "https://www.techmeme.com/260511/p14#a260511p14",
@@ -1881,34 +1910,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0074
-      },
-      {
-        "id": "2f7c369d0913cbe0",
-        "title": "A look at \"YouTube whisperers\" like Paddy Galloway and Mario Joos, a booming class of advisers that help popular YouTube creators grow their audiences (CNBC)",
-        "url": "https://www.techmeme.com/260511/p5#a260511p5",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778479542000,
-        "summary": "CNBC: A look at “YouTube whisperers” like Paddy Galloway and Mario Joos, a booming class of advisers that help popular YouTube creators grow their audiences — When wildlife TV personality Forrest Galante sat down for his monthly call with YouTube consultant Paddy Galloway, he received some bad news.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9993
-      },
-      {
-        "id": "8210c45f6e3481a0",
-        "title": "Sovereign cloud is only possible if you’re Chinese or American: Gartner",
-        "url": "https://www.theregister.com/off-prem/2026/05/11/sovereign-cloud-is-only-possible-if-youre-chinese-or-american-gartner/5237660",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778477497000,
-        "summary": "Which is awkward for European orgs who fear US clouds might leave the continent",
-        "tags": [
-          "off-prem"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0101
       }
     ],
     "ai": [
@@ -1986,6 +1987,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0796
+      },
+      {
+        "id": "3eb2e1b3e867d16f",
+        "title": "Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says \"this is the tip of the iceberg\" (Dustin Volz/New York Times)",
+        "url": "https://www.techmeme.com/260511/p21#a260511p21",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778505602000,
+        "summary": "Dustin Volz / New York Times: Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says “this is the tip of the iceberg” — The company said that it had identified, for the first time, hackers using artificial intelligence to discover an unknown bug.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0557
       },
       {
         "id": "720476a7c920f311",
@@ -2826,22 +2840,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9981
-      },
-      {
-        "id": "41502e6b3912af46",
-        "title": "Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits (Sarah Kessler/New York Times)",
-        "url": "https://www.techmeme.com/260510/p16#a260510p16",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778461800000,
-        "summary": "Sarah Kessler / New York Times: Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits — A trendy productivity hack, A.I. note takers are capturing every joke and offhand comment in many meetings.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0796
       }
     ],
     "science": [
+      {
+        "id": "8dac0deb59bb4d85",
+        "title": "Analysis shows no evidence greed benefits societies or organizations",
+        "url": "https://phys.org/news/2026-05-analysis-evidence-greed-benefits-societies.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778509203000,
+        "summary": "For Kaitlin Takacs-Haynes, professor of management in the University of Delaware's Alfred Lerner College of Business and Economics, studying greed has been on her mind since having a conversation with a colleague during the 2008 financial crisis.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0164
+      },
+      {
+        "id": "aa52c935083d753b",
+        "title": "More Star Wars-like worlds emerge as 27 planet candidates with two suns discovered",
+        "url": "https://phys.org/news/2026-05-star-wars-worlds-emerge-planet.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778509201000,
+        "summary": "There's so little we know about circumbinary planets—planets that orbit two stars instead of one—that they can feel like the stuff of fantasy. And for good reason: to date, we've only confirmed the existence of 18 circumbinary planets, compared to the more than 6000 planets we know about in single star systems.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0164
+      },
       {
         "id": "727ea4603cbe99a9",
         "title": "How Unknowable Math Can Help Hide Secrets",
@@ -3728,36 +3759,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0166
-      },
-      {
-        "id": "5a7aff4f4082c6be",
-        "title": "CRISPR safeguard changes how engineered microbes can be controlled",
-        "url": "https://phys.org/news/2026-05-crispr-safeguard-microbes.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778356801000,
-        "summary": "Engineered microorganisms are widely used in industrial biotechnology and biopharmaceutical applications, including the production of biofuels, sustainable chemicals, and therapeutic compounds. However, concerns remain regarding the unintended environmental release and uncontrolled proliferation of genetically engineered microbes. For this reason, biocontainment technologies, which are designed to",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0979
-      },
-      {
-        "id": "77a44b9a364ae51f",
-        "title": "Heavy Atlantic rain can block African aerosols from fertilizing Amazon, study finds",
-        "url": "https://phys.org/news/2026-05-heavy-atlantic-block-african-aerosols.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778353201000,
-        "summary": "How are cold air masses advancing in the United States connected to fertilizers carried by \"flying rivers\" from Africa that nourish the soils of the Brazilian Amazon? An article published in Geophysical Research Letters reveals an atmospheric connection between these distant regions.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
       }
     ]
   },
