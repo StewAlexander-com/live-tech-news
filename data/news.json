@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T21:41:01.876623+00:00",
+  "generated_at": "2026-05-11T21:45:15.412904+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -952,6 +952,21 @@
     ],
     "innovation": [
       {
+        "id": "d20e6d09cfdeb1ed",
+        "title": "New water-powered tech could power batteries that can last hundreds of years without degrading — and are so safe that the electrolytes can be used as 'tofu-brine' for home cooking",
+        "url": "https://www.techradar.com/pro/water-powered-tech-could-power-batteries-that-can-last-hundreds-of-years-without-degrading-and-are-so-safe-that-the-electrolytes-can-be-used-as-tofu-brine-for-home-cooking",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1778535600000,
+        "summary": "Chinese scientists developed a non-toxic water battery capable of surviving 120,000 cycles using corrosion-resistant organic polymer structures.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9165
+      },
+      {
         "id": "993bb4fd04fa0a8c",
         "title": "4 bedroom upgrades that can turn a profit when it’s time to sell your home",
         "url": "https://www.makeuseof.com/bedroom-upgrades-that-improve-home-value/",
@@ -1879,23 +1894,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.046
-      },
-      {
-        "id": "f6377b8cd1bdaff6",
-        "title": "Venmo’s biggest makeover in years comes at a very interesting time",
-        "url": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1778500800000,
-        "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
-        "tags": [
-          "fintech",
-          "apps",
-          "venmo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7428
       }
     ],
     "ai": [
@@ -3656,6 +3654,54 @@
         "score": 1.0722
       },
       {
+        "id": "c5caf221771112c4",
+        "title": "Online Allocation with Unknown Shared Supply",
+        "url": "https://arxiv.org/abs/2605.07080",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778472000000,
+        "summary": "arXiv:2605.07080v1 Announce Type: new Abstract: Many real-world resource allocation systems, such as humanitarian logistics and vaccine distribution, must preposition limited supply across multiple locations before demand is realized while stockouts incur irreversible service losses. To study this, we introduce the Online Shared Supply Allocation (OSSA) problem, a stateful online model in which a ",
+        "tags": [
+          "cs.ai",
+          "cs.ds"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.746
+      },
+      {
+        "id": "cc474cd3ee1f9daf",
+        "title": "A Wasserstein GAN-based climate scenario generator for risk management and insurance: the case of soil subsidence",
+        "url": "https://arxiv.org/abs/2605.06678",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778472000000,
+        "summary": "arXiv:2605.06678v1 Announce Type: new Abstract: According to the United Nations Office for Disaster Risk Reduction (2025), the average annual cost of natural catastrophes increased from 70--80 billion USD between 1970 and 2000 to 180--200 billion USD between 2001 and 2020. Reports from organizations such as the IFOA and the WWF highlight the need for the insurance sector to adapt to this rapidly e",
+        "tags": [
+          "cs.lg",
+          "q-fin.rm",
+          "stat.ap"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.746
+      },
+      {
+        "id": "41e130c0a27b770e",
+        "title": "A Closed-Form Upper Bound for Admissible Learning-Rate Steps in Belief-Space Dynamics",
+        "url": "https://arxiv.org/abs/2605.06741",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778472000000,
+        "summary": "arXiv:2605.06741v1 Announce Type: new Abstract: Learning-rate steps are usually treated as hyperparameters. This paper isolates a local beliefspace calculation: when an update is modeled as a projected forward step on the probability simplex, admissibility means contractivity in the natural KL/Bregman geometry. Under this model, the upper bound of an admissible step is not a tuning slogan but a fo",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.746
+      },
+      {
         "id": "168d229e139e9e73",
         "title": "A Hierarchical Ensemble Pipeline for Anomaly Detection in ESA Satellite Telemetry",
         "url": "https://arxiv.org/abs/2605.06681",
@@ -3704,53 +3750,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1179
-      },
-      {
-        "id": "dd8532aff91c1f00",
-        "title": "From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning",
-        "url": "https://arxiv.org/abs/2605.06814",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06814v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) achieve high performance but can be opaque to humans, making it difficult to understand and compare the many proposed architectures. While existing explainability methods attribute individual predictions to nodes, edges, or features, they do not provide architectural transparency or explain the fundamental performance gap",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1179
-      },
-      {
-        "id": "619b44234dee56b9",
-        "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-        "url": "https://arxiv.org/abs/2605.06682",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06682v1 Announce Type: new Abstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the fe",
-        "tags": [
-          "cs.ai",
-          "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0351
-      },
-      {
-        "id": "cdb6f9370add6305",
-        "title": "Optimal Experiments for Partial Causal Effect Identification",
-        "url": "https://arxiv.org/abs/2605.06993",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06993v1 Announce Type: new Abstract: Causal queries are often only partially identifiable from observational data, and experiments that could tighten the resulting bounds are typically costly. We study the problem of selecting, prior to observing experimental outcomes, a cost-constrained subset of experiments that maximally tightens bounds on a target query. We formalize this as the max",
-        "tags": [
-          "cs.ai",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0351
       }
     ]
   },
