@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T22:13:09.489163+00:00",
+  "generated_at": "2026-05-11T22:17:28.934875+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1118,6 +1118,21 @@
         "score": 0.8459
       },
       {
+        "id": "797c857c23ebbcdf",
+        "title": "Texas sues Netflix for advertising ‘bait and switch’ and spying | Texas Attorney General Ken Paxton accuses Netflix of misleading users about data collection",
+        "url": "https://www.reddit.com/r/technology/comments/1tabmlj/texas_sues_netflix_for_advertising_bait_and/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778523453000,
+        "summary": "submitted by /u/Hrmbee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8796
+      },
+      {
         "id": "c7162af2a09dfddd",
         "title": "Palantir to be granted ‘unlimited access’ to NHS patient data",
         "url": "https://www.reddit.com/r/technology/comments/1tabal4/palantir_to_be_granted_unlimited_access_to_nhs/",
@@ -1885,24 +1900,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9478
-      },
-      {
-        "id": "b00e7087267b2a6a",
-        "title": "Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged",
-        "url": "https://www.theregister.com/devops/2026/05/11/checkmarx-tackles-another-teampcp-intrusion-as-jenkins-plugin-sabotaged/5237780",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778501481000,
-        "summary": "Cybercrooks ruin engineers' weekends with Saturday attack",
-        "tags": [
-          "devops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0231
       }
     ],
     "ai": [
+      {
+        "id": "ab7aa6a6abedf8b3",
+        "title": "GitLab announces layoffs, saying they are \"not an AI optimization or cost cutting exercise\", and plans to cut the number of countries it operates in (Sarah Frier/Bloomberg)",
+        "url": "https://www.techmeme.com/260511/p36#a260511p36",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778537700000,
+        "summary": "Sarah Frier / Bloomberg: GitLab announces layoffs, saying they are “not an AI optimization or cost cutting exercise”, and plans to cut the number of countries it operates in — GitLab Inc., which makes software that helps developers on coding projects, said it is cutting jobs to free up money to spend …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0791
+      },
       {
         "id": "449de2332a425f1a",
         "title": "Smarter search for fuel-cell catalysts uses machine learning",
@@ -2824,22 +2837,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9015
-      },
-      {
-        "id": "e56e0724c3289844",
-        "title": "What's Wrong with AI?",
-        "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778509108000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:13"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0895
       }
     ],
     "science": [
@@ -3704,51 +3701,54 @@
         "score": 1.0722
       },
       {
-        "id": "dd8532aff91c1f00",
-        "title": "From Model to Data (M2D): Shifting Complexity from GNNs to Graphs for Transparent Graph Learning",
-        "url": "https://arxiv.org/abs/2605.06814",
+        "id": "168d229e139e9e73",
+        "title": "A Hierarchical Ensemble Pipeline for Anomaly Detection in ESA Satellite Telemetry",
+        "url": "https://arxiv.org/abs/2605.06681",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06814v1 Announce Type: new Abstract: Graph Neural Networks (GNNs) achieve high performance but can be opaque to humans, making it difficult to understand and compare the many proposed architectures. While existing explainability methods attribute individual predictions to nodes, edges, or features, they do not provide architectural transparency or explain the fundamental performance gap",
+        "summary": "arXiv:2605.06681v1 Announce Type: new Abstract: A hierarchical ensemble pipeline is introduced to address anomaly detection in multivariate telemetry data provided by European Space Agency (ESA). The method integrates shapelet-based and statistical feature extraction, per-channel modeling, intra-channel stacking, and a final cross-channel aggregation. The pipeline is trained and validated using ti",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "cs.cv"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7985
+        "score": 0.7974
       },
       {
-        "id": "619b44234dee56b9",
-        "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-        "url": "https://arxiv.org/abs/2605.06682",
-        "source": "arXiv cs.AI",
+        "id": "0f3e8dc2a1df0fe3",
+        "title": "Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training",
+        "url": "https://arxiv.org/abs/2605.06727",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06682v1 Announce Type: new Abstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, and flexibility to accommodate multi-criteria objectives and interactive refinement. A central challenge is the contiguity constraint: enforcing contiguity in integer-programming or heuristic search can severely shrink the fe",
+        "summary": "arXiv:2605.06727v1 Announce Type: new Abstract: We introduce a hybrid quantum-classical pipeline, based on neutral-atom reservoir computing, for medical image classification, focusing on the binary classification task of polyp detection. To deal effectively with the high dimensionality, we integrate a guided auto-encoder. This pipeline learns compact and discriminative representations of image dat",
         "tags": [
-          "cs.ai",
-          "cs.cy"
+          "cs.lg",
+          "cs.et",
+          "eess.iv"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7393
+        "impact": "high",
+        "score": 0.7974
       },
       {
-        "id": "cdb6f9370add6305",
-        "title": "Optimal Experiments for Partial Causal Effect Identification",
-        "url": "https://arxiv.org/abs/2605.06993",
-        "source": "arXiv cs.AI",
+        "id": "c7b066f9591893b3",
+        "title": "Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning",
+        "url": "https://arxiv.org/abs/2605.06734",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778472000000,
-        "summary": "arXiv:2605.06993v1 Announce Type: new Abstract: Causal queries are often only partially identifiable from observational data, and experiments that could tighten the resulting bounds are typically costly. We study the problem of selecting, prior to observing experimental outcomes, a cost-constrained subset of experiments that maximally tightens bounds on a target query. We formalize this as the max",
+        "summary": "arXiv:2605.06734v1 Announce Type: new Abstract: Fast Weight Programmers (FWPs) encode temporal dependencies through dynamically updated parameters rather than recurrent hidden states. Quantum FWPs (QFWPs) extend this idea with variational quantum circuits (VQCs), but existing implementations rely on multi-qubit architectures that are difficult to scale on noisy intermediate-scale quantum (NISQ) de",
         "tags": [
+          "cs.lg",
           "cs.ai",
-          "stat.ml"
+          "quant-ph"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7393
+        "impact": "high",
+        "score": 0.7974
       }
     ]
   },
