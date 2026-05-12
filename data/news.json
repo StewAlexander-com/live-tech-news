@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T20:49:25.017058+00:00",
+  "generated_at": "2026-05-12T20:54:46.652412+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -944,6 +944,19 @@
       }
     ],
     "innovation": [
+      {
+        "id": "791ab8a89948c8f1",
+        "title": "Samsung and its South Korean labor union fail to reach a pay deal; the union has said workers will strike for 18 days from May 21 if its demands are not met (Reuters)",
+        "url": "https://www.techmeme.com/260512/p50#a260512p50",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778619000000,
+        "summary": "Reuters: Samsung and its South Korean labor union fail to reach a pay deal; the union has said workers will strike for 18 days from May 21 if its demands are not met — Samsung Electronics (005930.KS) and its South Korean labor union failed to reach a pay deal on Wednesday, its union leader said …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9985
+      },
       {
         "id": "393519076a668ce7",
         "title": "Teresa Ribera Visited the U.S. and No One Noticed",
@@ -1891,23 +1904,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9197
-      },
-      {
-        "id": "58b1ba3f030f792c",
-        "title": "Microsoft Edge just gave everyone the biggest reason to leave it for good",
-        "url": "https://www.makeuseof.com/microsoft-edge-just-gave-everyone-the-biggest-reason-to-leave-it-for-good/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778590878000,
-        "summary": "Yeah, it's time to ditch Edge.",
-        "tags": [
-          "browsers",
-          "microsoft edge",
-          "browser security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8478
       }
     ],
     "ai": [
@@ -2674,6 +2670,22 @@
         "score": 0.993
       },
       {
+        "id": "35927ce2e1cfaa4e",
+        "title": "Gemini Intelligence brings app automation to Android",
+        "url": "https://www.engadget.com/2170770/gemini-intelligence-brings-app-automation-to-android/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778605200000,
+        "summary": "It will arrive on Pixel and Samsung Galaxy phones first.",
+        "tags": [
+          "ai",
+          "apple"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6529
+      },
+      {
         "id": "53f88f12fe943a79",
         "title": "Google unveils Googlebook, a new line of AI-native laptops",
         "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
@@ -2898,25 +2910,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7864
-      },
-      {
-        "id": "7dccdf27228a1f88",
-        "title": "Gemini in Chrome arrives on Android devices in June",
-        "url": "https://www.engadget.com/2169854/gemini-in-chrome-arrives-on-android-devices-in-june/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778605200000,
-        "summary": "A device with at least 4GB of RAM is required to use the software.",
-        "tags": [
-          "ai",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7549
       }
     ],
     "science": [
+      {
+        "id": "459731a8117b031f",
+        "title": "Scientists dispute hypothesis that climate change will unleash massive agricultural pest populations",
+        "url": "https://phys.org/news/2026-05-scientists-dispute-hypothesis-climate-unleash.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778619001000,
+        "summary": "The widespread hypothesis that climate warming will result in unprecedented agricultural pest populations and cause food insecurity worldwide is oversimplified, according to a new study by a team led by Mia Lippey, an entomologist at the University of California, Davis. But the study does indicate that pests fare better in warmer temperatures than their natural enemies, which researchers identifie",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0184
+      },
       {
         "id": "e976644a9376277f",
         "title": "Western Australia is edging toward desertification",
@@ -3813,22 +3824,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1293
-      },
-      {
-        "id": "40d03a8bdfc1cc73",
-        "title": "Path-Based Gradient Boosting for Graph-Level Prediction",
-        "url": "https://arxiv.org/abs/2605.08102",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778558400000,
-        "summary": "arXiv:2605.08102v1 Announce Type: new Abstract: We propose PathBoost, a gradient tree boosting method for graph-level classification and regression that learns discriminative path-based features directly from the input graph structure. Building on a previous work, which was tailored to a specific chemistry application, PathBoost introduces three key extensions: (i) adaptation to binary classificat",
-        "tags": [
-          "cs.lg",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0457
       }
     ]
   },
