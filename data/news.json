@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-12T04:38:05.612892+00:00",
+  "generated_at": "2026-05-12T05:28:04.877772+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "a916ec680bc472c0",
+        "title": "Reverse-Engineering and Documenting the Fisher Price Pixter",
+        "url": "https://hackaday.com/2026/05/11/reverse-engineering-and-documenting-the-fisher-price-pixter/",
+        "source": "Hackaday",
+        "lane": "gadgets",
+        "published_ts": 1778562021000,
+        "summary": "Between 2000 and 2002 the Fisher Price Pixter was sold to children as an educational handheld toy with a touch screen that enabled drawing and listening to music in addition …read more",
+        "tags": [
+          "games",
+          "reverse engineering"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0704
+      },
       {
         "id": "12df304529b1b883",
         "title": "Android Owners: You Could Get Part of Google's $135 Million Data Settlement",
@@ -912,22 +928,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9477
-      },
-      {
-        "id": "de9ecd12488e87d6",
-        "title": "Your iPhone's Green Bubble Messages Get Safer With iOS 26.5: Look for the Lock",
-        "url": "https://www.cnet.com/tech/mobile/ios-26-5-imessage-rcs-end-to-end-encryption-iphone-android/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778519520000,
-        "summary": "Apple and Google start rolling out end-to-end encrypted RCS chats in beta for iMessage and Google Messages.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8079
       }
     ],
     "innovation": [
+      {
+        "id": "6bac1ded26716b01",
+        "title": "The US House Oversight Committee launches a probe into potential conflicts in Sam Altman's personal investments; letter: several GOP AGs call for an SEC review (Wall Street Journal)",
+        "url": "https://www.techmeme.com/260512/p1#a260512p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778561103000,
+        "summary": "Wall Street Journal: The US House Oversight Committee launches a probe into potential conflicts in Sam Altman's personal investments; letter: several GOP AGs call for an SEC review — Republican-led House Oversight Committee says it is investigating, and six GOP state attorneys general are calling for SEC review after WSJ article",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9863
+      },
+      {
+        "id": "dff465adc5ada158",
+        "title": "Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6",
+        "url": "https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778561056000,
+        "summary": "Giving v4 an ‘area code’ based on ASNs to give operators more addresses to play with, without upgrades",
+        "tags": [
+          "networks"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0353
+      },
       {
         "id": "eefc1f6547bc4727",
         "title": "Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes",
@@ -1038,6 +1069,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9303
+      },
+      {
+        "id": "2edfcfd0dc1c0958",
+        "title": "GitLab employees are the latest to face layoffs limbo. Read the CEO's memo about restructuring 'openly.'",
+        "url": "https://www.reddit.com/r/technology/comments/1tanct1/gitlab_employees_are_the_latest_to_face_layoffs/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778550376000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8847
       },
       {
         "id": "a0613d52f8bac21c",
@@ -1827,53 +1873,40 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8961
-      },
-      {
-        "id": "df15e05c240caf94",
-        "title": "Unused RAM is wasted RAM, even when Chrome is the one using it",
-        "url": "https://www.makeuseof.com/unused-ram-is-wasted-ram-even-when-chrome-is-the-one-using-it/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778511619000,
-        "summary": "Use all the RAM? Or keep some memory clear?",
-        "tags": [
-          "technology explained",
-          "computer memory"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8421
-      },
-      {
-        "id": "4e302c0dbf99150e",
-        "title": "Gtk2-NG, next generation of Gtk 2, comes back to life",
-        "url": "https://www.theregister.com/oses/2026/05/11/gtk2-ng-next-generation-of-gtk-2-comes-back-to-life/5237970",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778511240000,
-        "summary": "Debian 14 plans to ax Gtk2 – and hard pruning stimulates fresh growth",
-        "tags": [
-          "oses"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0381
-      },
-      {
-        "id": "48c87ecee880f436",
-        "title": "Venmo implements a major privacy measure, setting new users' posts to \"friends only\" by default during onboarding; in 2021, a reporter found Joe Biden's Venmo (Jay Peters/The Verge)",
-        "url": "https://www.techmeme.com/260511/p24#a260511p24",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778510703000,
-        "summary": "Jay Peters / The Verge: Venmo implements a major privacy measure, setting new users' posts to “friends only” by default during onboarding; in 2021, a reporter found Joe Biden's Venmo — ﻿As part of a big app redesign, Venmo will change default settings for new users so that posts will be visible only to friends by default.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9858
       }
     ],
     "ai": [
+      {
+        "id": "9220b7ba730e6d55",
+        "title": "Sources: some Amazon employees are using in-house OpenClaw-like tool MeshClaw for unnecessary tasks to inflate AI token use after Amazon set weekly AI targets (Financial Times)",
+        "url": "https://www.techmeme.com/260512/p2#a260512p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778561701000,
+        "summary": "Financial Times: Sources: some Amazon employees are using in-house OpenClaw-like tool MeshClaw for unnecessary tasks to inflate AI token use after Amazon set weekly AI targets — In-house MeshClaw tool enables employees to delegate jobs to AI agents and climb company's AI leaderboard",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0686
+      },
+      {
+        "id": "035d44e260c6a040",
+        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+        "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778561555000,
+        "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+        "tags": [
+          "ai",
+          "interaction models",
+          "mira murati",
+          "thinking machines lab"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7987
+      },
       {
         "id": "51277da5f37c239c",
         "title": "Embeddings for Preferences, Not Semantics",
@@ -2060,6 +2093,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1293
+      },
+      {
+        "id": "1a7bbc87afa0db08",
+        "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
+        "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778558381000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0206
       },
       {
         "id": "585cee74953286ab",
@@ -2746,45 +2795,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9968
-      },
-      {
-        "id": "eed3df5dab2f404d",
-        "title": "Google's TIG says it likely thwarted the use of an AI-generated zero-day in a \"mass exploitation event\" and tools like OpenClaw are being used to find exploits (Samantha Subin/CNBC)",
-        "url": "https://www.techmeme.com/260511/p33#a260511p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778526904000,
-        "summary": "Samantha Subin / CNBC: Google's TIG says it likely thwarted the use of an AI-generated zero-day in a “mass exploitation event” and tools like OpenClaw are being used to find exploits — Google's Threat Intelligence Group said in a report on Monday that it thwarted an effort by hackers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0552
-      },
-      {
-        "id": "46b02c76004d4e07",
-        "title": "Google's TIG says it has likely thwarted efforts to use AI for a \"mass exploitation event\" and warns that tools like OpenClaw are being used to find exploits (Samantha Subin/CNBC)",
-        "url": "https://www.techmeme.com/260511/p33#a260511p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778526904000,
-        "summary": "Samantha Subin / CNBC: Google's TIG says it has likely thwarted efforts to use AI for a “mass exploitation event” and warns that tools like OpenClaw are being used to find exploits — Google's Threat Intelligence Group said in a report on Monday that it thwarted an effort by hackers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0781
-      },
-      {
-        "id": "cfb7cc446df370d0",
-        "title": "Sources: the White House's Office of the National Cyber Director and Commerce Department's CAISI are fighting over which agency should lead AI model evaluations (Washington Post)",
-        "url": "https://www.techmeme.com/260511/p32#a260511p32",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778526303000,
-        "summary": "Washington Post: Sources: the White House's Office of the National Cyber Director and Commerce Department's CAISI are fighting over which agency should lead AI model evaluations — As the White House grapples with cybersecurity threats from artificial intelligence models, intelligence officials want sway in AI policy overseen by Commerce.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0797
       }
     ],
     "science": [
