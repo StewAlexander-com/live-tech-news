@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-12T23:17:19.533399+00:00",
+  "generated_at": "2026-05-12T23:39:00.779450+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "b360af0195973020",
+        "title": "Sam Altman was winning on the stand, but it might not be enough",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778628194000,
+        "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, […]",
+        "tags": [
+          "ai",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.788
+      },
       {
         "id": "25e65e8e0dc35e77",
         "title": "Don't replace your wireless earbuds yet — try this $1 fix first",
@@ -916,25 +932,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.699
-      },
-      {
-        "id": "fb22806c09cf4b05",
-        "title": "Instagram's in-app camera will support Ultra HDR and Night Sight on Android",
-        "url": "https://www.engadget.com/2170145/instagrams-in-camera-app-will-support-ultra-hdr-and-night-sight-on-android/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778605200000,
-        "summary": "Meta is also finally delivering an Instagram app for Android tablets.",
-        "tags": [
-          "google",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.699
       }
     ],
     "innovation": [
+      {
+        "id": "0b8fabd9aabf6291",
+        "title": "Vancouver-based quantum computing startup Photonic raised an additional $70M after a $130M raise announced in January, giving it a $2B post-money valuation (Josh Scott/BetaKit)",
+        "url": "https://www.techmeme.com/260512/p55#a260512p55",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778628301000,
+        "summary": "Josh Scott / BetaKit: Vancouver-based quantum computing startup Photonic raised an additional $70M after a $130M raise announced in January, giving it a $2B post-money valuation — Vancouver-based Photonic has completed the final close of its latest funding round, securing another $70 million USD ($95 million CAD) …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0752
+      },
       {
         "id": "7b41e39d2a700fbc",
         "title": "Lenovo’s new ThinkPad and ThinkStation PCs look better than ever",
@@ -1869,26 +1882,52 @@
         "paywall": false,
         "impact": "high",
         "score": 1.2918
-      },
-      {
-        "id": "c89abfb1a5bd163e",
-        "title": "eBay tells GameStop to keep the carpet: $56bn bid “neither credible nor attractive”",
-        "url": "https://thenextweb.com/news/ebay-rejects-gamestop-56bn-takeover",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778597492000,
-        "summary": "Ryan Cohen offered $125 a share, partly to be funded by a $20bn TD Securities commitment letter and, briefly, by selling old store signs on eBay itself. The eBay board, which had to ban and then unban him during the process, says no. eBay has formally rejected GameStop’s $56bn takeover bid, telling the video-game retailer’s […] This story continues at The Next Web",
-        "tags": [
-          "business",
-          "insider",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8849
       }
     ],
     "ai": [
+      {
+        "id": "dc24e6b8c667a5b9",
+        "title": "Google DeepMind details a Gemini-powered mouse pointer that understands what it is pointing at, allowing users to perform tasks without using text-heavy prompts (Google DeepMind)",
+        "url": "https://www.techmeme.com/260512/p56#a260512p56",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778628600000,
+        "summary": "Google DeepMind: Google DeepMind details a Gemini-powered mouse pointer that understands what it is pointing at, allowing users to perform tasks without using text-heavy prompts — We are developing more seamless, intuitive ways to collaborate with AI — The mouse pointer has been a constant companion …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0769
+      },
+      {
+        "id": "dd55450e5ebcde25",
+        "title": "‘Your Wi-Fi cable could be a secret microphone': How researchers turned an earthquake detection method into an accidental spy tool using AI",
+        "url": "https://www.techradar.com/pro/your-wi-fi-cable-could-be-a-secret-microphone-how-researchers-turned-an-earthquake-detection-method-into-an-accidental-spy-tool-using-ai",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778628300000,
+        "summary": "With minimal cable access, commercially available tools and AI, attackers can technically listen in to your conversations via your fiber optic cables.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9139
+      },
+      {
+        "id": "35c01b1d213cc34a",
+        "title": "Bartender Pro Brings Widgets, Clipboard, and File Storage to the MacBook Notch",
+        "url": "https://www.macrumors.com/2026/05/12/bartender-pro/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1778628262000,
+        "summary": "Popular Mac menu bar management app Bartender received an upgrade today with the launch of Bartender Pro. Bartender Pro adds a new Top Shelf feature to the Mac's notch, with access to multiple utility tools. Top Shelf can be used for clipboard access, storing files, controlling audio, and sending content over AirDrop. It supports widgets for calendar, weather, and music apps like Apple Music or Sp",
+        "tags": [
+          "widgets"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0749
+      },
       {
         "id": "6dc8e6cee4328971",
         "title": "South Korea Floats 'Citizen Dividend' Using AI Profits",
@@ -2000,6 +2039,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0725
+      },
+      {
+        "id": "b0f54a637e67f172",
+        "title": "Rivian's New AI Assistant Knows What You Mean, Not Just What You Say",
+        "url": "https://www.cnet.com/roadshow/news/rivian-assistant-ai-dashboard-rolling-out-to-r1-r2-evs/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778623033000,
+        "summary": "Your Rivian can now manage your calendar, warm your passengers' seats and text your ETA -- all without even looking at the screen.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8571
       },
       {
         "id": "5e3919c49df830c5",
@@ -2784,68 +2836,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9987
-      },
-      {
-        "id": "783717ceefa6d4c3",
-        "title": "Google unveils Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe-code Android widgets (Allison Johnson/The Verge)",
-        "url": "https://www.techmeme.com/260512/p34#a260512p34",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778606101000,
-        "summary": "Allison Johnson / The Verge: Google unveils Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe-code Android widgets — ﻿We're one step closer to our phones just using themselves. … It is, once again, Gemini season.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9448
-      },
-      {
-        "id": "d541bcc9e5d6c476",
-        "title": "Android Auto gets a massive AI-powered upgrade with YouTube, Dolby Atmos, and immersive 3D Maps",
-        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/android-auto-gets-a-massive-ai-powered-upgrade-with-youtube-dolby-atmos-and-immersive-3d-maps",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778606100000,
-        "summary": "Android Auto gets a premium new look, the ability to watch videos, and better integrated Gemini",
-        "tags": [
-          "hybrid &amp; electric vehicles",
-          "vehicle tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9159
-      },
-      {
-        "id": "a3aa57a653eace1f",
-        "title": "Everything announced at The Android Show: I/O 2026 edition",
-        "url": "https://www.engadget.com/2171038/everything-announced-at-android-show-google-io-2026/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778605807000,
-        "summary": "Google had a whole lot of news to share, including on new laptops and Gemini Intelligence.",
-        "tags": [
-          "ai",
-          "smartphones",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7013
-      },
-      {
-        "id": "4353b4c0fb003a1d",
-        "title": "Google Just Took Another Step Toward the AI-First Smartphone",
-        "url": "https://www.cnet.com/tech/mobile/google-gemini-intelligence-ai-first-smartphone/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778605260000,
-        "summary": "The latest Android update gives Gemini more control over your apps and tasks. It could be the start of a wider shift in how we use our phones.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7849
       }
     ],
     "science": [
+      {
+        "id": "4fe1e3727011e4ae",
+        "title": "Largest-ever survey of physicists puts Standard Model of cosmology under scrutiny",
+        "url": "https://phys.org/news/2026-05-largest-survey-physicists-standard-cosmology.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778628006000,
+        "summary": "The largest-ever survey of physicists from around the world—released today—shows a distinct lack of consensus across many of physics's most important questions, from the nature of black holes and dark matter, to the still-incomplete unification of Einstein's theory of gravity with quantum mechanics.",
+        "tags": [
+          "general physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0949
+      },
+      {
+        "id": "ebe840eef4124257",
+        "title": "How can low-value agricultural waste be transformed into high-value products?",
+        "url": "https://phys.org/news/2026-05-agricultural-high-products.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778628001000,
+        "summary": "With plastic pollution at an all-time high, the need for biodegradable materials has never been higher. Most packaging is \"single use\" and is made from sources, like natural gas, that take hundreds of years to decompose in the environment. This is greatly contributing to the plastic pollution buildup in parks, street corners and shelterbelts.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0138
+      },
       {
         "id": "a2426406e646c061",
         "title": "The shoal remembers: How signs of a collective memory shape a predator-prey arms race",
@@ -3718,36 +3741,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0191
-      },
-      {
-        "id": "7190a988e6d8546b",
-        "title": "Giving X-ray vision a sense of direction",
-        "url": "https://phys.org/news/2026-05-ray-vision.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778589603000,
-        "summary": "Whether in tooth enamel or in nanomaterials made of silicon, the orientation of tiny internal structures often determines the properties of a material. A new X-ray method can even make this nano-order visible when the structures are actually too small to be imaged directly. The method was developed by an international team led by the Helmholtz Center Hereon, and it opens up new possibilities to in",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0935
-      },
-      {
-        "id": "bb00f53f634530b9",
-        "title": "Super-resolution microscopy provides real-time picture of bacteria degrading biomass with enzyme complexes",
-        "url": "https://phys.org/news/2026-05-super-resolution-microscopy-real-picture.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778589602000,
-        "summary": "To the untrained eye, they look like blobs blotching the otherwise smooth surface of rod-like bacteria. But if you ask a microbiologist about \"cellulosomes,\" they will likely tell you that those blobs are actually sophisticated cellulolytic machines.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0125
       }
     ]
   },
