@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:22:09.986268+00:00",
+  "generated_at": "2026-05-12T17:36:58.937603+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -968,6 +968,23 @@
     ],
     "innovation": [
       {
+        "id": "5fca1da5a9058006",
+        "title": "Notepad++ isn't the best app for huge files anymore — I tested the alternatives",
+        "url": "https://www.makeuseof.com/best-apps-open-large-files-windows/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778607018000,
+        "summary": "Notepad++ has a worthy rival for huge files.",
+        "tags": [
+          "productivity",
+          "windows apps",
+          "text editor"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8482
+      },
+      {
         "id": "ed2b04033709a64a",
         "title": "2026 Hackaday Europe: Pre-party, More Workshops, and Everything Else",
         "url": "https://hackaday.com/2026/05/12/2026-hackaday-europe-pre-party-more-workshops-and-everything-else/",
@@ -1154,6 +1171,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0155
+      },
+      {
+        "id": "442fe5cea44f28ff",
+        "title": "Ford Launches Energy Subsidiary to Build Data Center-Scale Batteries at Kentucky Plant",
+        "url": "https://www.cnet.com/roadshow/news/ford-energy-kentucky-plant-data-center-scale-batteries/",
+        "source": "CNET",
+        "lane": "innovation",
+        "published_ts": 1778602534000,
+        "summary": "The automaker's new Ford Energy unit says it will build shipping-container-sized batteries for utilities, data centers and large industry customers in the US.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7989
       },
       {
         "id": "96ea0c2b447f9dac",
@@ -1891,44 +1921,48 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9804
-      },
-      {
-        "id": "0f533920362a2805",
-        "title": "This (Pseudo) Random Number Generator Does It With Neon",
-        "url": "https://hackaday.com/2026/05/12/this-pseudo-random-number-generator-does-it-with-neon/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1778583622000,
-        "summary": "The quest for true randomness has roots in cryptography and is a rabbit hole that gets surprisingly deep with alarmingly rapidity. Still, the generation of random-enough numbers is a popular …read more",
-        "tags": [
-          "classic hacks",
-          "parts",
-          "neon lamp",
-          "prng",
-          "random",
-          "rng"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.078
-      },
-      {
-        "id": "8f6ad943fd5178be",
-        "title": "Arts and Cultural Engagement 'Linked To Slower Pace of Biological Aging'",
-        "url": "https://science.slashdot.org/story/26/05/12/0653230/arts-and-cultural-engagement-linked-to-slower-pace-of-biological-aging?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1778583600000,
-        "summary": "An anonymous reader quotes a report from the Guardian: Singing, painting or visiting a gallery or museum helps people age more slowly, according to the latest study to link taking an active interest in art and culture with improved health. The findings are the first to show that both participating in arts activities and attending events, such as viewing an exhibition, lead to people staying biolog",
-        "tags": [
-          "medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.048
       }
     ],
     "ai": [
+      {
+        "id": "899071605e506305",
+        "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1778607249000,
+        "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"take a chainsaw through a bunch.\" Altman conceded […]",
+        "tags": [
+          "ai",
+          "elon musk",
+          "news",
+          "openai",
+          "policy",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8546
+      },
+      {
+        "id": "7b7098b77000f96f",
+        "title": "Potholes cost cities millions. This company is using AI and trucks to fix them.",
+        "url": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778607209000,
+        "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+        "tags": [
+          "transportation",
+          "autonomous vehicles",
+          "exclusive",
+          "potholes",
+          "samsara"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8069
+      },
       {
         "id": "cb66d50e6cdb20bc",
         "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
@@ -2877,37 +2911,29 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0671
-      },
-      {
-        "id": "6327d61c0ba37c22",
-        "title": "Microsoft says it is investigating a Mistral AI PyPI package v2.4.6 compromise; the attack is likely part of the Mini Shai-Hulud supply chain attack (Etiido Uko/Tom's Hardware)",
-        "url": "https://www.techmeme.com/260512/p21#a260512p21",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778592002000,
-        "summary": "Etiido Uko / Tom's Hardware: Microsoft says it is investigating a Mistral AI PyPI package v2.4.6 compromise; the attack is likely part of the Mini Shai-Hulud supply chain attack — The malware reportedly refused to run on Russian-language systems but could execute a destructive payload under certain geographic conditions.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0709
-      },
-      {
-        "id": "593875d53927ee1b",
-        "title": "ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir",
-        "url": "https://www.reddit.com/r/technology/comments/1tb13zk/ice_agents_have_list_of_20_million_people_on/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778591225000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9381
       }
     ],
     "science": [
+      {
+        "id": "9bd7cf4fc60f0475",
+        "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+        "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1778607057000,
+        "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+        "tags": [
+          "ai",
+          "space",
+          "alphabet",
+          "google",
+          "orbital data centers",
+          "spacex"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8063
+      },
       {
         "id": "5d880b0a9304119d",
         "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
@@ -3786,21 +3812,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0178
-      },
-      {
-        "id": "35074dbac642b594",
-        "title": "Lab-grown diamond device could change how radiation doses are measured",
-        "url": "https://phys.org/news/2026-05-lab-grown-diamond-device-doses.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778540406000,
-        "summary": "A team led by researchers from Tokyo Metropolitan University, in collaboration with Tohoku University and Orbray Co., Ltd., using heteroepitaxial diamond materials developed by Orbray, have shown that lab-grown diamonds might realize a radiation dosimeter compatible with both medical diagnosis and radiation therapy.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
       }
     ]
   },
