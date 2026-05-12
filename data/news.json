@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T18:09:38.086505+00:00",
+  "generated_at": "2026-05-12T18:20:27.901283+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -404,7 +404,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9477
+        "score": 0.9481
       },
       {
         "id": "0dac1fba7f00ac38",
@@ -966,6 +966,26 @@
       }
     ],
     "innovation": [
+      {
+        "id": "be33f8fc9b1b618d",
+        "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+        "url": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778609698000,
+        "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+        "tags": [
+          "climate",
+          "exclusive",
+          "heat pumps",
+          "sadi thermal machines",
+          "scoop",
+          "tesla"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7467
+      },
       {
         "id": "371eed66f11e75eb",
         "title": "EU To Crack Down On TikTok, Instagram's 'Addictive Design'",
@@ -1897,22 +1917,37 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0441
-      },
-      {
-        "id": "7c2c7b895587abdc",
-        "title": "Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia's e-commerce market (Olivia Poh/Bloomberg)",
-        "url": "https://www.techmeme.com/260512/p16#a260512p16",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778585101000,
-        "summary": "Olivia Poh / Bloomberg: Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia's e-commerce market — Sea Ltd. reported quarterly earnings that topped analysts' estimates after warding off rivals in Southeast Asia's competitive e …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9986
       }
     ],
     "ai": [
+      {
+        "id": "140f28de63ad1941",
+        "title": "Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children (Bloomberg)",
+        "url": "https://www.techmeme.com/260512/p42#a260512p42",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778609400000,
+        "summary": "Bloomberg: Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children — OpenAI's Sam Altman testified that he was “extremely uncomfortable” with Elon Musk's insistence that he have complete control …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9966
+      },
+      {
+        "id": "e79d613791a7fa8b",
+        "title": "AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds",
+        "url": "https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778609164000,
+        "summary": "submitted by /u/Krankenitrate [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0213
+      },
       {
         "id": "9aadb87b5030564f",
         "title": "Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void (Yazhou Sun/Bloomberg)",
@@ -1976,6 +2011,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.181
+      },
+      {
+        "id": "facb8c63d2d7b4fb",
+        "title": "Reimagining the mouse pointer for the AI era",
+        "url": "https://deepmind.google/blog/ai-pointer/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778607613000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1194
       },
       {
         "id": "90a4876becd08042",
@@ -2862,52 +2913,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9158
-      },
-      {
-        "id": "54fa7ea455132d4f",
-        "title": "Rivian is rolling out its AI-powered voice assistant",
-        "url": "https://www.engadget.com/2170527/rivian-ai-voice-assistant/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778598000000,
-        "summary": "It will be available on all Rivian Gen 1 and Gen 2 vehicles, as well as on the R2 when it launches.",
-        "tags": [
-          "evs and transportation"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7585
-      },
-      {
-        "id": "1624d3851cb726fc",
-        "title": "Stop Chrome Browser From Downloading a Hidden 4GB AI File",
-        "url": "https://www.macrumors.com/how-to/stop-chrome-downloading-hidden-4gb-file/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778597979000,
-        "summary": "If your Mac's storage has been mysteriously shrinking recently and you use Google Chrome, you may have already identified the culprit. The browser has been downloading a 4GB AI model file onto computers without explicit user consent. Here's how to reclaim the space. The file in question is called \"weights.bin,\" which powers Google's on-device Gemini Nano AI model – the engine behind Chrome feature",
-        "tags": [
-          "featured",
-          "chrome"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0772
-      },
-      {
-        "id": "2cdc2a317453e020",
-        "title": "US bank reports itself after slinging customer data at 'unauthorized AI app'",
-        "url": "https://www.theregister.com/security/2026/05/12/us-bank-reports-itself-after-ai-customer-data-mishap/5238787",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778597426000,
-        "summary": "Volume and sensitivity of the data cited as chief concerns",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1278
       }
     ],
     "science": [
