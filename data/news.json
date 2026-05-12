@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-12T13:09:27.362994+00:00",
+  "generated_at": "2026-05-12T13:13:45.579134+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "981bddd27845fa0c",
+        "title": "Galaxy S26 users get first access to Samsung’s One UI 9 beta",
+        "url": "https://www.androidpolice.com/galaxy-s26-users-first-access-samsungs-one-ui-9-beta/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1778591588000,
+        "summary": "Samsung starts testing Android 17 publicly",
+        "tags": [
+          "samsung galaxy s26",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9998
+      },
       {
         "id": "a7d3299bb3fdf953",
         "title": "'You deserved more': Instructure CEO apologizes following Canvas hack, admits company paid hackers to get stolen data back",
@@ -95,6 +111,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6963
+      },
+      {
+        "id": "0724377dfa2c91bc",
+        "title": "Spotify's New Feature Lets You Dance Through Your Musical History",
+        "url": "https://www.cnet.com/tech/services-and-software/spotify-new-feature-is-wrapped-on-nostalgia-enhancing-steroids/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1778588156000,
+        "summary": "Spotify 20: Party of the Year lets you share listening stats from the day you joined, even if it was 20 years ago.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8049
       },
       {
         "id": "b08146cd555a4dec",
@@ -894,34 +923,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8068
-      },
-      {
-        "id": "956a32bb1469668e",
-        "title": "iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging",
-        "url": "https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/",
-        "source": "Daring Fireball",
-        "lane": "gadgets",
-        "published_ts": 1778540220000,
-        "summary": "Apple Newsroom: Starting today, end-to-end encrypted RCS messaging begins rolling out in beta for iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages. When RCS messages are end-to-end encrypted, they can’t be read while they’re sent between devices. Users will know that a conversation is end-to-end encrypted when they see a new lock icon",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.079
-      },
-      {
-        "id": "9b03349b3a23c5f1",
-        "title": "Astronomers use the Webb telescope to improve our map of the cosmic web",
-        "url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778540096000,
-        "summary": "Adding significantly more detail means better future investigations into the universe's past.",
-        "tags": [
-          "space"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7029
       }
     ],
     "innovation": [
@@ -1795,6 +1796,23 @@
         "score": 1.0353
       },
       {
+        "id": "954b673c48ef0c57",
+        "title": "Synergistic Simplex: Cooperative Runtime Assurance for Safety-Critical Autonomous Systems",
+        "url": "https://arxiv.org/abs/2605.08190",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08190v1 Announce Type: new Abstract: Autonomous systems increasingly rely on machine-learning (ML) components for safety-critical tasks such as perception and control in autonomous vehicles (AVs). While ML enables essential capabilities, it inevitably exhibits long-tail faults that make it unsuitable for safety-critical tasks. Runtime assurance (RTA) mitigates this issue by pairing ML c",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8791
+      },
+      {
         "id": "eefc1f6547bc4727",
         "title": "Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes",
         "url": "https://arxiv.org/abs/2605.08098",
@@ -1819,22 +1837,6 @@
         "summary": "arXiv:2605.08138v1 Announce Type: new Abstract: Synthetic data has emerged as a crucial solution to the data scarcity bottleneck in large language models (LLMs), particularly for specialized domains and low-resource languages. However, the broader adoption of existing synthetic data tools is severely hindered by convoluted workflows, fragmented data standards, and limited scalability across modali",
         "tags": [
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0457
-      },
-      {
-        "id": "9d5d447da698d17e",
-        "title": "Generalized Category Discovery in Federated Graph Learning",
-        "url": "https://arxiv.org/abs/2605.08178",
-        "source": "arXiv cs.LG",
-        "lane": "innovation",
-        "published_ts": 1778558400000,
-        "summary": "arXiv:2605.08178v1 Announce Type: new Abstract: Federated Graph Learning (FGL) enables collaborative learning over distributed graph data, yet existing approaches largely rely on a closed-world assumption, limiting their applicability in dynamic environments where novel categories continuously emerge. To bridge this gap, we target the practical scenario of Federated Graph Generalized Category Disc",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
@@ -1890,6 +1892,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1276
+      },
+      {
+        "id": "953613c756f08c2b",
+        "title": "New to Photoshop? Try These 5 AI Tools to Learn Your Way Around Photo Editing",
+        "url": "https://www.cnet.com/tech/services-and-software/the-best-new-ai-features-in-photoshop-and-how-to-use-them-like-a-pro/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778587251000,
+        "summary": "Photoshop has a lot of AI tools. These are the best ones for beginners and anyone who is AI curious.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8651
       },
       {
         "id": "c280f838d7033cd1",
@@ -2751,22 +2766,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8476
-      },
-      {
-        "id": "92cf3b4215b4c825",
-        "title": "Claude Platform on AWS",
-        "url": "https://claude.com/blog/claude-platform-on-aws",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778549069000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:19"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0891
       }
     ],
     "science": [
