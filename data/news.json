@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-12T13:46:16.444833+00:00",
+  "generated_at": "2026-05-12T13:57:28.408546+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "8982d772cb32ac2d",
+        "title": "iPhone 18 Pro May Have 'Aggressive' Starting Price Despite RAM Crisis",
+        "url": "https://www.macrumors.com/2026/05/12/iphone-18-pro-aggressive-pricing-rumor/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1778594022000,
+        "summary": "While the ongoing RAM chip shortage is leading some Android smartphone makers to increase prices, one analyst believes that Apple will have an \"aggressive pricing strategy\" for the upcoming iPhone 18 Pro and iPhone 18 Pro Max. In a research note with GF Securities today, analyst Jeff Pu said that he expects Apple to continue to outperform in the smartphone market by avoiding significant price incr",
+        "tags": [
+          "iphone 18 pro",
+          "jeff pu"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
       {
         "id": "c0b9c10c0c41ed55",
         "title": "Missed Out on Classic Apple Watch Bands? Woot's Latest Sale Revives Discontinued Colors at Steep Discounts",
@@ -917,23 +933,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.176
-      },
-      {
-        "id": "21f87746c79f3ead",
-        "title": "Still haven't upgraded to full fibre NBN? From next year, NBN Co will make it mandatory for some premises",
-        "url": "https://www.techradar.com/computing/wi-fi-broadband/still-havent-upgraded-to-full-fibre-nbn-from-next-year-nbn-co-will-make-it-mandatory-for-some-premises",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778544944000,
-        "summary": "It's a move designed to ensure as many Australians as possible have access to the best-possible internet access, and the clock is ticking.",
-        "tags": [
-          "wi-fi &amp; broadband",
-          "computing",
-          "internet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8464
       }
     ],
     "innovation": [
@@ -1054,6 +1053,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7473
+      },
+      {
+        "id": "41bcc2d0d3cbb3e7",
+        "title": "Apple is rolling out end-to-end encryption for iPhone-to-Android RCS messages",
+        "url": "https://www.reddit.com/r/technology/comments/1tb0mrp/apple_is_rolling_out_endtoend_encryption_for/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778590118000,
+        "summary": "submitted by /u/Federal-Block-3275 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9292
       },
       {
         "id": "4331c84445da17bf",
@@ -1845,22 +1859,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0339
-      },
-      {
-        "id": "6bac1ded26716b01",
-        "title": "The US House Oversight Committee launches a probe into potential conflicts in Sam Altman's personal investments; letter: several GOP AGs call for an SEC review (Wall Street Journal)",
-        "url": "https://www.techmeme.com/260512/p1#a260512p1",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778561103000,
-        "summary": "Wall Street Journal: The US House Oversight Committee launches a probe into potential conflicts in Sam Altman's personal investments; letter: several GOP AGs call for an SEC review — Republican-led House Oversight Committee says it is investigating, and six GOP state attorneys general are calling for SEC review after WSJ article",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9863
       }
     ],
     "ai": [
+      {
+        "id": "5dfb46a5f50ff055",
+        "title": "'This is the tip of the iceberg': Google experts say they have seen hackers using AI to discover and weaponize a zero-day for the first time",
+        "url": "https://www.techradar.com/pro/security/this-is-the-tip-of-the-iceberg-google-experts-say-they-have-seen-hackers-using-ai-to-discover-and-weaponize-a-zero-day-for-the-first-time",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778593880000,
+        "summary": "Threat actors were spotted by GTIG using AI to find a zero-day vulnerability that could have been used in a mass exploitation attack.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9162
+      },
       {
         "id": "ecb759239341a0bb",
         "title": "OpenAI stands to hold ~$2.6B in combined CoreWeave and Cerebras stock that it acquired by committing to buy cloud services and chips, and to lend Cerebras money (Cory Weinberg/The Information)",
@@ -1873,6 +1890,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9964
+      },
+      {
+        "id": "d4e6dd1839cc34d5",
+        "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+        "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1778592785000,
+        "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
+        "tags": [
+          "ai",
+          "amazon",
+          "syndication",
+          "tokens"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0716
       },
       {
         "id": "1c004c7908bcb28a",
@@ -1889,6 +1924,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0188
+      },
+      {
+        "id": "197bc60e1d937730",
+        "title": "Microsoft says it is investigating a Mistral AI PyPI package v2.4.6 compromise; researchers say it is likely part of the Mini Shai-Hulud supply chain attack (Etiido Uko/Tom's Hardware)",
+        "url": "https://www.techmeme.com/260512/p21#a260512p21",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778592002000,
+        "summary": "Etiido Uko / Tom's Hardware: Microsoft says it is investigating a Mistral AI PyPI package v2.4.6 compromise; researchers say it is likely part of the Mini Shai-Hulud supply chain attack — The malware reportedly refused to run on Russian-language systems but could execute a destructive payload under certain geographic conditions.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0671
       },
       {
         "id": "6327d61c0ba37c22",
@@ -2739,51 +2787,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1293
-      },
-      {
-        "id": "1a7bbc87afa0db08",
-        "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
-        "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778558381000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:10"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 1.0206
-      },
-      {
-        "id": "401eaf4871abf18b",
-        "title": "AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics: Grok's paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260511/p46#a260511p46",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778555403000,
-        "summary": "Georgia Wells / Wall Street Journal: AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics: Grok's paid adoption in the US remains nearly flat YoY in Q2 — Adoption by business and consumer users has slowed as parent SpaceX rents out spare computing capacity to rival Anthropic",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9043
-      },
-      {
-        "id": "585cee74953286ab",
-        "title": "AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260511/p46#a260511p46",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778555403000,
-        "summary": "Georgia Wells / Wall Street Journal: AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 — Adoption by business and consumer users has slowed as parent SpaceX rents out spare computing capacity to rival Anthropic",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9967
       }
     ],
     "science": [
+      {
+        "id": "c4a88c30648ebc74",
+        "title": "JWST maps cosmic web in record detail back to universe's first billion years",
+        "url": "https://phys.org/news/2026-05-jwst-cosmic-web-universe-billion.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778593758000,
+        "summary": "Using data from NASA's James Webb Space Telescope (JWST), astronomers led by researchers at the University of California, Riverside have produced the most detailed map of the cosmic web ever made, tracing the network of galaxies all the way back to when the universe was one billion years old.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
       {
         "id": "a63d87b25f3977a2",
         "title": "'Nature's algorithm' found in Chinese money plants",
@@ -3660,21 +3681,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1003
-      },
-      {
-        "id": "1173c14354ba60fe",
-        "title": "Vessel tracking reveals how invasive seaweed could spread across New Zealand",
-        "url": "https://phys.org/news/2026-05-vessel-tracking-reveals-invasive-seaweed.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778530804000,
-        "summary": "Examining the movements of vessels between locations helped to predict where an invasive seaweed spread, researchers led by the Australian Institute of Marine Science (AIMS) have revealed. Invasive Caulerpa species (Caulerpa brachypus and Caulerpa parvifolia) are a major concern in New Zealand's coastal areas, spreading rapidly via boat gear or anchor entanglement, and causing long-lasting ecologi",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
       }
     ]
   },
