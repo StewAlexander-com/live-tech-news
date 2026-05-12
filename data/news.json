@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T03:20:30.497909+00:00",
+  "generated_at": "2026-05-12T04:12:50.527536+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -929,6 +929,84 @@
     ],
     "innovation": [
       {
+        "id": "eefc1f6547bc4727",
+        "title": "Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes",
+        "url": "https://arxiv.org/abs/2605.08098",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08098v1 Announce Type: new Abstract: Kirigami is an increasingly useful fabrication method to produce shape-programmable metamaterial structures. However, inverse design remains difficult because deployment is nonlinear, and feasible cut layouts must satisfy discrete compatibility rules, avoid overlap, and map one target shape to valid designs. We present RL-Kirigami, an inverse design ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "1f25e4e1949ccc47",
+        "title": "DataArc-SynData-Toolkit: A Unified Closed-Loop Framework for Multi-Path, Multimodal, and Multilingual Data Synthesis",
+        "url": "https://arxiv.org/abs/2605.08138",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08138v1 Announce Type: new Abstract: Synthetic data has emerged as a crucial solution to the data scarcity bottleneck in large language models (LLMs), particularly for specialized domains and low-resource languages. However, the broader adoption of existing synthetic data tools is severely hindered by convoluted workflows, fragmented data standards, and limited scalability across modali",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
+      {
+        "id": "9d5d447da698d17e",
+        "title": "Generalized Category Discovery in Federated Graph Learning",
+        "url": "https://arxiv.org/abs/2605.08178",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08178v1 Announce Type: new Abstract: Federated Graph Learning (FGL) enables collaborative learning over distributed graph data, yet existing approaches largely rely on a closed-world assumption, limiting their applicability in dynamic environments where novel categories continuously emerge. To bridge this gap, we target the practical scenario of Federated Graph Generalized Category Disc",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
+      {
+        "id": "954b673c48ef0c57",
+        "title": "Synergistic Simplex: Cooperative Runtime Assurance for Safety-Critical Autonomous Systems",
+        "url": "https://arxiv.org/abs/2605.08190",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08190v1 Announce Type: new Abstract: Autonomous systems increasingly rely on machine-learning (ML) components for safety-critical tasks such as perception and control in autonomous vehicles (AVs). While ML enables essential capabilities, it inevitably exhibits long-tail faults that make it unsuitable for safety-critical tasks. Runtime assurance (RTA) mitigates this issue by pairing ML c",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
+      {
+        "id": "a0cef078c2bfe6c7",
+        "title": "A Data Center Drained 30 Million Gallons of Water Unnoticed",
+        "url": "https://news.slashdot.org/story/26/05/11/2057211/a-data-center-drained-30-million-gallons-of-water-unnoticed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778556600000,
+        "summary": "A Georgia data center developed by QTS used nearly 30 million gallons of water through two unaccounted-for connections before residents complained about low water pressure and the county utility discovered the issue. \"All told, the developer, Quality Technology Services, owed nearly $150,000 for using more than 29 million gallons of unaccounted-for water,\" reports Politico. \"That is equivalent to ",
+        "tags": [
+          "usa"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0357
+      },
+      {
         "id": "cc33fe67f501adde",
         "title": "The Walls Don’t Have Ears, But Fiber Optic Does",
         "url": "https://hackaday.com/2026/05/11/the-walls-dont-have-ears-but-fiber-optic-does/",
@@ -1174,6 +1252,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9158
+      },
+      {
+        "id": "d9a2d0ad8e3a7b23",
+        "title": "Utah natural resources chief addresses water concerns about data center proposal",
+        "url": "https://www.reddit.com/r/technology/comments/1tai0ja/utah_natural_resources_chief_addresses_water/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778536935000,
+        "summary": "submitted by /u/Haunterblademoi [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8435
       },
       {
         "id": "fb3841a14b1e4e0a",
@@ -1778,101 +1871,196 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9858
-      },
-      {
-        "id": "066c2a1b3a2ecb52",
-        "title": "A $13,500 Unitree robot was ‘ordained’ at Seoul’s Jogyesa Temple",
-        "url": "https://thenextweb.com/news/jogyesa-robot-monk-gabi-ai-ethics",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778510563000,
-        "summary": "At about ten in the morning on Wednesday, in the courtyard of Daeungjeon Hall at Jogyesa, a 130-centimetre humanoid in brown robes pressed its palms together and bowed. A monk asked the figure whether it would devote itself to the holy Buddha. The reply, in a recorded voice supplied by a temple manager, was “Yes, […] This story continues at The Next Web",
-        "tags": [
-          "insider",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9575
-      },
-      {
-        "id": "dc72c6ad37c06372",
-        "title": "Samsung holds desperate final talks with union over 18-day chip factory strike that could cost $20 billion — government-mediated summit seeks to avert industrial action that could hit HBM production",
-        "url": "https://www.reddit.com/r/technology/comments/1ta5bd3/samsung_holds_desperate_final_talks_with_union/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778510465000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0102
-      },
-      {
-        "id": "ad80cf4a44387d75",
-        "title": "BWH Hotels guests warned after reservation data checks out with cybercrooks",
-        "url": "https://www.theregister.com/security/2026/05/11/best-western-hotels-confirms-web-app-data-breach/5238020",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778510040000,
-        "summary": "Customers urged to keep an eye out for phisherfolk",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0315
-      },
-      {
-        "id": "6b85d378cca0d675",
-        "title": "You can’t keep ignoring vibe coding — I tried it for real, and it changed my life",
-        "url": "https://www.makeuseof.com/you-cant-keep-ignoring-vibe-coding/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778509817000,
-        "summary": "I thought it would be difficult. Vibe coding is so easy, it transformed my life in weeks. Here's how.",
-        "tags": [
-          "productivity",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8498
-      },
-      {
-        "id": "befc14ca52a0b95e",
-        "title": "Feature freeze for Python 3.15 as first beta released",
-        "url": "https://www.theregister.com/devops/2026/05/11/feature-freeze-for-python-315-as-first-beta-released/5237934",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778508840000,
-        "summary": "JIT compiler much improved, but no reinstatement for leaky incremental garbage collector",
-        "tags": [
-          "devops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0494
-      },
-      {
-        "id": "7f8c271ccb0783f7",
-        "title": "Dirty Frag: Linux kernel hit by second major security flaw in two weeks",
-        "url": "https://www.reddit.com/r/technology/comments/1ta4grc/dirty_frag_linux_kernel_hit_by_second_major/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778508628000,
-        "summary": "submitted by /u/ourlifeintoronto [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9262
       }
     ],
     "ai": [
+      {
+        "id": "51277da5f37c239c",
+        "title": "Embeddings for Preferences, Not Semantics",
+        "url": "https://arxiv.org/abs/2605.08360",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard t",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "8cfe05638c50864a",
+        "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+        "url": "https://arxiv.org/abs/2605.08388",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08388v1 Announce Type: new Abstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morphed into Human-AI team tasks. From writing essays to developing advanced algorithms, humans have foun",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "ac9a3f7ac0ac25c9",
+        "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+        "url": "https://arxiv.org/abs/2605.08409",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08409v1 Announce Type: new Abstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a systemic consequence of the paradigm shift from user-driven knowledge search to users and agents engage",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "f4860763388c7a0a",
+        "title": "Alignment as Jurisprudence",
+        "url": "https://arxiv.org/abs/2605.08416",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08416v1 Announce Type: new Abstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligenc",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "2367d472e10de86e",
+        "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+        "url": "https://arxiv.org/abs/2605.08427",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08427v1 Announce Type: new Abstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to a Nash equilibrium, the model is guaranteed to respond safely within the settings of the game. Alth",
+        "tags": [
+          "cs.ai",
+          "cs.gt",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "49d42d1a4cc90ba7",
+        "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
+        "url": "https://arxiv.org/abs/2605.08445",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08445v1 Announce Type: new Abstract: AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standard training and validation datasets were never designed to capture. Evaluating these systems requires benchmarks: structured combinations of tasks, datasets, and metrics that enable reproducible, comparab",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "376ba421ca7c9ea6",
+        "title": "Distributional Reinforcement Learning via the Cram\\'er Distance",
+        "url": "https://arxiv.org/abs/2605.08104",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08104v1 Announce Type: new Abstract: This paper explores the application of the Soft Actor-Critic (SAC) algorithm within a Distributional Reinforcement Learning setting and introduces an implementation of such algorithm named Cram\\'er-based Distributional Soft Actor-Critic (C-DSAC). The novel approach employs distributional reinforcement learning to represent state-action values, and mi",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "6ce8f1265c6d4519",
+        "title": "Towards Customized Multimodal Role-Play",
+        "url": "https://arxiv.org/abs/2605.08129",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08129v1 Announce Type: new Abstract: Unified multimodal understanding and generation models enable richer human-AI interaction. Yet jointly customizing a character's persona, dialogue style, and visual identity while maintaining output consistency across modalities remains largely unexplored. To mitigate this gap, we introduce a new task, Customized Multimodal Role-Play (CMRP). We const",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "244e110108e22db2",
+        "title": "Dendritic Neural Networks with Equilibrium Propagation",
+        "url": "https://arxiv.org/abs/2605.08135",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08135v1 Announce Type: new Abstract: Equilibrium propagation (EP) is a biologically plausible alternative to backpropagation (BP), but its effectiveness can degrade in deeper and more challenging learning settings. In parallel, dendritic neural networks have demonstrated improved performance and generalization when trained with BP, suggesting that structured, biologically inspired archi",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "6efdb2a2953922fc",
+        "title": "Weight Pruning Amplifies Bias: A Multi-Method Study of Compressed LLMs for Edge AI",
+        "url": "https://arxiv.org/abs/2605.08137",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08137v1 Announce Type: new Abstract: Weight pruning is widely advocated for deploying Large Language Models on resource-constrained IoT and edge devices, yet its impact on model fairness remains poorly understood. We conduct a controlled empirical study of three instruction-tuned models (Gemma-2-9b-it, Mistral-7B-Instruct-v0.3, Phi-3.5-mini-instruct) across three pruning methods (Random",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "ac9e1459039725bb",
+        "title": "A PyTorch Library of Turing-Complete Neural Networks",
+        "url": "https://arxiv.org/abs/2605.08150",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08150v1 Announce Type: new Abstract: We present a PyTorch package that compiles neural networks and their weights from Turing machine descriptions, producing models that exactly simulate the specified machine without any training. Given a transition function and a set of terminal states, the package constructs a model whose forward pass corresponds to one step of the Turing machine. Two",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "0f354f30dd1696a1",
+        "title": "Temporal-Decay Shapley: A Time-Aware Data Valuation Framework for Time-Series Data",
+        "url": "https://arxiv.org/abs/2605.08153",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08153v1 Announce Type: new Abstract: With the rapid development of machine learning applications on time-series data, accurately assessing the value of training samples has become essential for data selection, noise detection, and model optimization. However, traditional data valuation methods usually assume that samples are independent and identically distributed, and thus ignore the t",
+        "tags": [
+          "cs.lg",
+          "cs.gt"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
       {
         "id": "585cee74953286ab",
         "title": "AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)",
@@ -2597,197 +2785,87 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0797
-      },
-      {
-        "id": "f18974b88e97da0c",
-        "title": "What happens when scientists trust AI more than colleagues?",
-        "url": "https://phys.org/news/2026-05-scientists-ai-colleagues.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778526003000,
-        "summary": "Artificial intelligence has crossed a threshold in the modern workplace. It is being used for everything from helping employees manage schedules to supporting financial forecasts. A similar shift is now unfolding inside research laboratories.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0995
-      },
-      {
-        "id": "1225fd6193842fe3",
-        "title": "The Health-Tracking Whoop App Will Now Connect You to On-Demand Doctors. Plus, New AI Features",
-        "url": "https://www.cnet.com/health/fitness/whoop-fitness-tracker-ai-feature-on-demand-doctors/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778525700000,
-        "summary": "If you own a Whoop fitness-tracking wearable, you’ll want to check out these new updates surrounding medical records and AI insights.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8701
-      },
-      {
-        "id": "475671f82694335d",
-        "title": "Meta’s embrace of AI is making its employees miserable",
-        "url": "https://www.reddit.com/r/technology/comments/1taclke/metas_embrace_of_ai_is_making_its_employees/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778525438000,
-        "summary": "submitted by /u/mepper [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0146
-      },
-      {
-        "id": "c18bb99e8dd7f6f3",
-        "title": "An Anthropic engineer argues HTML is a better output format for AI agents than Markdown, citing information density, ease of sharing, and two-way interaction (@trq212)",
-        "url": "https://www.techmeme.com/260511/p31#a260511p31",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778525101000,
-        "summary": "@trq212: An Anthropic engineer argues HTML is a better output format for AI agents than Markdown, citing information density, ease of sharing, and two-way interaction — Using Claude Code: The Unreasonable Effectiveness of HTML",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0782
-      },
-      {
-        "id": "321e572efc1e85c5",
-        "title": "OpenAI can't have incompetent AI consultants ruining the market, so bought its own",
-        "url": "https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1778524391000,
-        "summary": "By which we mean it bought someone else's with other people's money",
-        "tags": [
-          "ai + ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1169
-      },
-      {
-        "id": "a030fb9e574b0e77",
-        "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
-        "url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778523163000,
-        "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
-        "tags": [
-          "health",
-          "hantavirus"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9896
-      },
-      {
-        "id": "18d92528af177d7b",
-        "title": "Google announces its first-ever discovery of a zero-day exploit made with AI",
-        "url": "https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778523067000,
-        "summary": "The Google Threat Intelligence Group said its proactive measures stopped a \"mass exploitation event.\"",
-        "tags": [
-          "ai",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7585
-      },
-      {
-        "id": "c406c52ed90706f1",
-        "title": "Students Boo Commencement Speaker After She Calls AI the 'Next Industrial Revolution'",
-        "url": "https://slashdot.org/story/26/05/11/172237/students-boo-commencement-speaker-after-she-calls-ai-the-next-industrial-revolution?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1778522400000,
-        "summary": "An anonymous reader quotes a report from 404 Media: Speaking to graduates of University of Central Florida's College of Arts and Humanities and Nicholson School of Communication and Media on May 8, commencement speaker Gloria Caulfield, vice president of strategic alliances at Tavistock Group, told graduating humanities students that AI is the \"next industrial revolution,\" and was met with thousan",
-        "tags": [
-          "ai",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1322
-      },
-      {
-        "id": "d5d53f00933c844a",
-        "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-        "url": "https://bild.ai/jobs",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778521392000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:0"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1286
-      },
-      {
-        "id": "900616dc08508e34",
-        "title": "Three things in AI to watch, according to a Nobel-winning economist",
-        "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1778520912000,
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
-        "tags": [
-          "artificial intelligence",
-          "app",
-          "artificial intelligence",
-          "the algorithm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1257
-      },
-      {
-        "id": "245975f331819a83",
-        "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
-        "url": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778520039000,
-        "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
-        "tags": [
-          "apple",
-          "tech",
-          "ios",
-          "ios 26",
-          "ipados 26",
-          "macos"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.988
-      },
-      {
-        "id": "b62fa09209526087",
-        "title": "A roadmap for safer, explainable protein-design AI",
-        "url": "https://phys.org/news/2026-05-roadmap-safer-protein-ai.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778520006000,
-        "summary": "Protein language models are artificial intelligence tools which help engineer proteins with useful properties, including completely new structures never seen before in nature.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1006
       }
     ],
     "science": [
+      {
+        "id": "3ef9ed66bfca4eaf",
+        "title": "New tectonic plate boundary could be forming in Zambia, scientists say",
+        "url": "https://phys.org/news/2026-05-tectonic-plate-boundary-zambia-scientists.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778558403000,
+        "summary": "Isotope analysis of gas from geothermal springs in Zambia could show that a new continental rift is forming, scientists say. Unexpectedly high helium isotope ratios indicate that a weakness in Earth's crust has broken through to reach the mantle beneath. This rift could eventually become a new tectonic plate boundary. In the meantime, opportunities for geothermal energy could boost local economies",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
+      {
+        "id": "fef6f36a2e3d2ec4",
+        "title": "Quantitative Sobolev Approximation Bounds for Neural Operators with Empirical Validation on Burgers Equation",
+        "url": "https://arxiv.org/abs/2605.08170",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08170v1 Announce Type: new Abstract: Neural operators have emerged as a powerful tool for learning mappings between infinite-dimensional function spaces. However, their approximation properties in Sobolev norms remain poorly quantified, even though these norms control both function values and derivatives and are the natural metrics for PDE well-posedness, stability, and generalization. ",
+        "tags": [
+          "cs.lg",
+          "math.fa"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "213ff67cbd9330fd",
+        "title": "Physics-Modeled Neural Networks",
+        "url": "https://arxiv.org/abs/2605.08176",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08176v1 Announce Type: new Abstract: We introduce \\emph{Dynamical Physics-Modeled Neural Networks} (DynPMNNs), a continuous-time deep learning architecture in which each hidden layer is defined as the solution of an ordinary differential equation. Unlike classical feed-forward networks, this approach replaces static activation functions with time-evolving dynamical systems, providing a ",
+        "tags": [
+          "cs.lg",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1293
+      },
+      {
+        "id": "40d03a8bdfc1cc73",
+        "title": "Path-Based Gradient Boosting for Graph-Level Prediction",
+        "url": "https://arxiv.org/abs/2605.08102",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778558400000,
+        "summary": "arXiv:2605.08102v1 Announce Type: new Abstract: We propose PathBoost, a gradient tree boosting method for graph-level classification and regression that learns discriminative path-based features directly from the input graph structure. Building on a previous work, which was tailored to a specific chemistry application, PathBoost introduces three key extensions: (i) adaptation to binary classificat",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
+      {
+        "id": "8ce616c12c6546fb",
+        "title": "New model finds the lower size limit for habitable exoplanets",
+        "url": "https://phys.org/news/2026-05-size-limit-habitable-exoplanets.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778557201000,
+        "summary": "The search for Earth 2.0 has begun in earnest. But there's a huge variety of exoplanets out there, so narrowing down the search to focus valuable telescope time on only the best candidates is critical. One variable of a planet that will have a huge impact on its habitability is its size. A new paper, now available in preprint on arXiv, by researchers at the University of California Riverside, look",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0093
+      },
       {
         "id": "479f5d196fb9d665",
         "title": "Birds of prey in South Africa are in trouble—a study analyzes data from 16 years of road counts",
@@ -3613,81 +3691,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0843
-      },
-      {
-        "id": "8dac0deb59bb4d85",
-        "title": "Analysis shows no evidence greed benefits societies or organizations",
-        "url": "https://phys.org/news/2026-05-analysis-evidence-greed-benefits-societies.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778509203000,
-        "summary": "For Kaitlin Takacs-Haynes, professor of management in the University of Delaware's Alfred Lerner College of Business and Economics, studying greed has been on her mind since having a conversation with a colleague during the 2008 financial crisis.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0164
-      },
-      {
-        "id": "aa52c935083d753b",
-        "title": "More Star Wars-like worlds emerge as 27 planet candidates with two suns discovered",
-        "url": "https://phys.org/news/2026-05-star-wars-worlds-emerge-planet.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778509201000,
-        "summary": "There's so little we know about circumbinary planets—planets that orbit two stars instead of one—that they can feel like the stuff of fantasy. And for good reason: to date, we've only confirmed the existence of 18 circumbinary planets, compared to the more than 6000 planets we know about in single star systems.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0164
-      },
-      {
-        "id": "727ea4603cbe99a9",
-        "title": "How Unknowable Math Can Help Hide Secrets",
-        "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
-        "source": "Quanta Magazine",
-        "lane": "science",
-        "published_ts": 1778508913000,
-        "summary": "A graduate student recently harnessed the complexity of mathematical proofs to create a powerful new tool in cryptography. The post How Unknowable Math Can Help Hide Secrets first appeared on Quanta Magazine",
-        "tags": [
-          "computer science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1484
-      },
-      {
-        "id": "1cb42e0714177afd",
-        "title": "Industrial fishing has been depleting midwater fish for decades, new study finds",
-        "url": "https://phys.org/news/2026-05-industrial-fishing-depleting-midwater-fish.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778508005000,
-        "summary": "A new study led by scientists at Woods Hole Oceanographic Institution finds that industrial-scale fishing has been removing substantial biomass from the ocean's \"twilight zone\" for decades, challenging the common assumption that this vast midwater ecosystem remains largely unexploited. The work is published in the journal Global Change Biology.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
-      },
-      {
-        "id": "a78b5e79fc6df293",
-        "title": "How social science helps keep bugs off corn",
-        "url": "https://phys.org/news/2026-05-social-science-bugs-corn.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778506801000,
-        "summary": "A new study suggests broad systemic problems play a significant role in disincentivizing corn growers from planting the refuge corn needed to keep pests from becoming resistant to the insect-killing traits in Bt corn. And social science can play a role in addressing this challenge. The paper, \"Moving beyond grower compliance: why Bt corn resistance management depends on system-level coordination,\"",
-        "tags": [
-          "agriculture"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0083
       }
     ]
   },
