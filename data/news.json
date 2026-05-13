@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-13T18:54:47.833305+00:00",
+  "generated_at": "2026-05-13T19:08:34.362006+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f857acec35258845",
+        "title": "Andreessen Horowitz is the midterm elections' biggest donor",
+        "url": "https://www.engadget.com/2172293/andreessen-horowitz-is-the-midterm-elections-biggest-donor/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778698558000,
+        "summary": "The venture capital firm has reportedly donated $115.5 million during this election cycle.",
+        "tags": [
+          "big tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7012
+      },
+      {
+        "id": "5a200584bb80cac7",
+        "title": "Netflix misspelled a lead Devil May Cry character's name and had to recall official merchandise",
+        "url": "https://www.engadget.com/2172288/netflix-misspelled-a-lead-devil-may-cry-characters-name-and-had-to-recall-official-merchandise/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778698391000,
+        "summary": "The t-shirt in question refers to Dante and \"Virgil.\"",
+        "tags": [
+          "tv & movies"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7005
+      },
       {
         "id": "4c68f9c186897c6b",
         "title": "Netflix’s ad ambitions just keep growing",
@@ -954,43 +984,57 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7918
-      },
-      {
-        "id": "12ef796388fbc09b",
-        "title": "My Google Pixel 9 Pro XL is flawed, but I won't trade it for a Samsung Galaxy S26 Ultra",
-        "url": "https://www.androidpolice.com/google-pixel-9-pro-xl-flawed-but-wont-trade-samsung-galaxy-s26-ultra/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1778679012000,
-        "summary": "The S26 Ultra feels like an incremental refinement rather than a transformative upgrade",
-        "tags": [
-          "google pixel 9 pro xl",
-          "samsung galaxy s26 ultra",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.995
-      },
-      {
-        "id": "a77cf8f3e68a0c9a",
-        "title": "Rivals season 2 creators reveal how late author Jilly Cooper gave notes on final Hulu and Disney+ scripts just 'days' before her death: 'her fingerprints are all over this series'",
-        "url": "https://www.techradar.com/streaming/hulu/rivals-season-2-jilly-cooper-death-disney-plus",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778679000000,
-        "summary": "Rivals season 2 is pressing ahead on Hulu and Disney+ with one stark missing ingredient: author Jilly Cooper. But even in the days before her death, she was giving script notes to showrunners.",
-        "tags": [
-          "hulu",
-          "disney plus",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8457
       }
     ],
     "innovation": [
+      {
+        "id": "cb219bf284d3f925",
+        "title": "Amazon Prime’s best feature is the one nobody talks about",
+        "url": "https://www.makeuseof.com/amazon-prime-best-feature-is-the-one-nobody-talks-about/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778698818000,
+        "summary": "It's just there, waiting for you to use it.",
+        "tags": [
+          "creative",
+          "photo sharing",
+          "amazon photos",
+          "data backup"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8477
+      },
+      {
+        "id": "c58e165037c1618e",
+        "title": "Fragnesia Made Public As Latest Linux Local Privilege Escalation Vulnerability",
+        "url": "https://linux.slashdot.org/story/26/05/13/1621258/fragnesia-made-public-as-latest-linux-local-privilege-escalation-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778698800000,
+        "summary": "A new Linux local privilege escalation flaw called Fragnesia has been disclosed as a Dirty Frag-like vulnerability, allowing arbitrary byte writes into the kernel page cache of read-only files through a separate ESP/XFRM logic bug. Phoronix reports: Proof of concept code for Fragnesia is already out there. There is a two-line patch for addressing the issue within the Linux kernel's skbuff.c code. ",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0471
+      },
+      {
+        "id": "c9fbb0a642125ff8",
+        "title": "Data centers could account for up to 9% of Texas water use by 2040, UT Austin report finds",
+        "url": "https://www.reddit.com/r/technology/comments/1tc94v7/data_centers_could_account_for_up_to_9_of_texas/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778698485000,
+        "summary": "submitted by /u/Unusual-State1827 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9458
+      },
       {
         "id": "a5bb01568cef30c1",
         "title": "Xbox's new filters aim to make sense of disorganized game libraries",
@@ -1348,6 +1392,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0375
+      },
+      {
+        "id": "b993f2a9b6c9081d",
+        "title": "The US FTC says Shutterstock will pay $35M to settle charges that Shutterstock misled consumers about its subscription plans and made it too difficult to cancel (Jonathan Stempel/Reuters)",
+        "url": "https://www.techmeme.com/260513/p35#a260513p35",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778686801000,
+        "summary": "Jonathan Stempel / Reuters: The US FTC says Shutterstock will pay $35M to settle charges that Shutterstock misled consumers about its subscription plans and made it too difficult to cancel — Shutterstock (SSTK.N) will pay $35 million to settle U.S. Federal Trade Commission charges that the online provider of stock photography …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9353
       },
       {
         "id": "2e002ce8e4c5c93b",
@@ -1881,70 +1938,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8518
-      },
-      {
-        "id": "00d77e21d580979b",
-        "title": "We Hear You Loud and Clear. CNET Readers Choose People's Picks Headphone Winners",
-        "url": "https://www.cnet.com/tech/mobile/peoples-picks-2026-headphones-earbuds/",
-        "source": "CNET",
-        "lane": "innovation",
-        "published_ts": 1778673600000,
-        "summary": "Sony sweeps CNET's headphone categories, including active noise cancellation, battery life and comfort.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8683
-      },
-      {
-        "id": "4193f06aef4b9b08",
-        "title": "Ofcom fines an unnamed suicide forum £950K, the largest OSA fine so far, for hosting illegal content accessible in the UK; the forum is linked to 130+ deaths (Sam Tabahriti/Reuters)",
-        "url": "https://www.techmeme.com/260513/p21#a260513p21",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778673301000,
-        "summary": "Sam Tabahriti / Reuters: Ofcom fines an unnamed suicide forum £950K, the largest OSA fine so far, for hosting illegal content accessible in the UK; the forum is linked to 130+ deaths — Britain's communications regulator has fined the provider of an online suicide forum 950,000 pounds ($1.28 million) …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9992
-      },
-      {
-        "id": "62cc64a20078f93f",
-        "title": "China sharpens criticism of US chip-equipment bill as Trump arrives in Beijing",
-        "url": "https://thenextweb.com/news/china-match-act-chip-bill-beijing-summit",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778672648000,
-        "summary": "Beijing’s foreign ministry hit the MATCH Act on the eve of the Xi summit, with a 150-day alignment deadline for Japan and the Netherlands at the heart of the legislation Beijing has sharpened its criticism of US legislation that would tighten controls on semiconductor manufacturing equipment, on the morning Donald Trump arrived in the Chinese […] This story continues at The Next Web",
-        "tags": [
-          "china",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9498
-      },
-      {
-        "id": "c9ae4b9dada76ef6",
-        "title": "I built a fully searchable research database from my browser's reading list using one extension",
-        "url": "https://www.makeuseof.com/built-searchable-research-database-browsers-reading-list-using-extension/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778670078000,
-        "summary": "Your browser's bookmark mess has a fix, and it's actually simple — build a searchable library instead.",
-        "tags": [
-          "productivity",
-          "browser extensions",
-          "browser",
-          "internet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8471
       }
     ],
     "ai": [
+      {
+        "id": "7b1f559a8d560022",
+        "title": "Q&A with Anthropic CFO Krishna Rao on the \"cone of uncertainty\" in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more (Invest Like The Best on YouTube)",
+        "url": "https://www.techmeme.com/260513/p45#a260513p45",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778699102000,
+        "summary": "Invest Like The Best on YouTube: Q&A with Anthropic CFO Krishna Rao on the “cone of uncertainty” in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more — In this episode of Invest Like The Best, Patrick O'Shaughnessy sits down with Anthropic CFO Krishna Rao …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0788
+      },
       {
         "id": "9db214965d204922",
         "title": "OpenAI endorses the Kids Online Safety Act",
@@ -2377,6 +2386,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9977
+      },
+      {
+        "id": "cc0d544796ad4b81",
+        "title": "Sources: Arm and its parent company SoftBank expressed preliminary interest in acquiring Cerebras weeks before its expected IPO; Cerebras rebuffed them (Bloomberg)",
+        "url": "https://www.techmeme.com/260513/p36#a260513p36",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778687102000,
+        "summary": "Bloomberg: Sources: Arm and its parent company SoftBank expressed preliminary interest in acquiring Cerebras weeks before its expected IPO; Cerebras rebuffed them — Arm Holdings Plc and its majority owner SoftBank Group Corp. made an approach to acquire Cerebras Systems Inc., the AI computing firm …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0117
       },
       {
         "id": "30982f6c7fc74f19",
@@ -2875,42 +2897,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1009
-      },
-      {
-        "id": "e183a10a313a849b",
-        "title": "Amazon is replacing its Rufus AI shopping assistant with Alexa for Shopping, powered by Alexa+, on Amazon.com and its app for all customers in the US (Jennifer Pattison Tuohy/The Verge)",
-        "url": "https://www.techmeme.com/260513/p24#a260513p24",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778677800000,
-        "summary": "Jennifer Pattison Tuohy / The Verge: Amazon is replacing its Rufus AI shopping assistant with Alexa for Shopping, powered by Alexa+, on Amazon.com and its app for all customers in the US — The company is giving its AI-powered assistant special shopping skills on its website and app. … Beginning today, when you type a query into Amazon …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0791
-      },
-      {
-        "id": "f36d4b5ffebf41e9",
-        "title": "Alexa is moving into Amazon․com",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778677200000,
-        "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected […]",
-        "tags": [
-          "ai",
-          "amazon",
-          "amazon alexa",
-          "news",
-          "online shopping",
-          "smart home"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8266
       }
     ],
     "science": [
+      {
+        "id": "82c17131af48f2f9",
+        "title": "To create change, new leaders should read the room",
+        "url": "https://phys.org/news/2026-05-leaders-room.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778699193000,
+        "summary": "When Ted Lasso became the coach of last-place AFC Richmond on a popular television show, he jumped in with a can-do coaching style that ignited a team ready for change. Like Lasso, new leaders are more likely than their predecessors to improve motivation and organizational performance—but only if employees already believe change is needed.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0193
+      },
+      {
+        "id": "7f4ce7dac2db437e",
+        "title": "How water fleas detect their predators",
+        "url": "https://phys.org/news/2026-05-fleas-predators.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778698593000,
+        "summary": "Daphnia, also known as water fleas, are artists of defense. When their predators live nearby, the water fleas change their body structure to make themselves more difficult to eat. Professor Linda Weiss from Ruhr University in Bochum, Germany and her team have identified a chemoreceptor gene family that encodes the corresponding receptors, and is thus involved in detecting predators' signals.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0161
+      },
       {
         "id": "0b12e727afd76cdc",
         "title": "Small seabirds rely on crosswinds to navigate the open ocean",
@@ -3791,36 +3810,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0072
-      },
-      {
-        "id": "32c5ab2c31e19ee5",
-        "title": "Iodine deficiency is creeping back. Vegans, vegetarians and pregnant women are most at risk",
-        "url": "https://phys.org/news/2026-05-iodine-deficiency-vegans-vegetarians-pregnant.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778635202000,
-        "summary": "Iodine deficiency is often seen as a problem of the past, but this isn't entirely true. During the 20th century, the iodization of salt became one of the most effective public health interventions for preventing conditions caused by a lack of this mineral, including goiter (enlargement of the thyroid gland) and preventable damage to neurological development.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0086
-      },
-      {
-        "id": "ac26b0a291ae0f35",
-        "title": "Study identifies geysers the JUICE mission could explore on Ganymede",
-        "url": "https://phys.org/news/2026-05-geysers-juice-mission-explore-ganymede.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778632803000,
-        "summary": "Ganymede, Jupiter's largest moon, is also the solar system's largest satellite, even larger than the planet Mercury. It is also the only celestial body aside from Earth (and the gas giants) to have an intrinsic magnetic field. As if this didn't make the icy body interesting enough, scientists also predict that it has a massive interior ocean with more water than all of Earth's oceans combined. At ",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0907
       }
     ]
   },
