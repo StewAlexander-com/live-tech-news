@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-13T20:00:30.393555+00:00",
+  "generated_at": "2026-05-13T20:15:01.782530+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2e71df6060dd7432",
+        "title": "X has a new private hub for users' bookmarks, likes, articles and long videos",
+        "url": "https://www.engadget.com/2172356/x-has-a-new-private-hub-for-users-bookmarks-likes-articles-and-long-videos/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778702591000,
+        "summary": "The history tab might be the most useful feature X has added in forever.",
+        "tags": [
+          "apps"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7013
+      },
       {
         "id": "803a1acdb4e33273",
         "title": "Samsung Set to Beat Apple to AI Smart Glasses With July Launch",
@@ -961,24 +976,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8456
-      },
-      {
-        "id": "30bc2a9cf817fb6f",
-        "title": "Why sovereign cloud starts with smarter workload placement",
-        "url": "https://www.techradar.com/pro/why-sovereign-cloud-starts-with-smarter-workload-placement",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778682382000,
-        "summary": "Moving from a public, private or hybrid cloud environment into a sovereign one demands real planning.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8445
       }
     ],
     "innovation": [
+      {
+        "id": "02303a64ebf19b70",
+        "title": "Custom Mainboard for PS2 Portable",
+        "url": "https://hackaday.com/2026/05/13/custom-mainboard-for-ps2-portable/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778702424000,
+        "summary": "As time marches on, the retro gaming community gets more and more access to older systems. This is partially a product of modern computing having much more power to emulate …read more",
+        "tags": [
+          "games",
+          "handheld",
+          "mainboard",
+          "playstation",
+          "playstation 2",
+          "ps2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0749
+      },
+      {
+        "id": "db54177cb75478ee",
+        "title": "Windows Update Is Getting Automatic Rollbacks For Faulty Drivers",
+        "url": "https://tech.slashdot.org/story/26/05/13/1938254/windows-update-is-getting-automatic-rollbacks-for-faulty-drivers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778702400000,
+        "summary": "Microsoft is adding a Windows Update feature called Cloud-Initiated Driver Recovery that can automatically roll back faulty drivers to a previously known-good version without waiting for hardware makers or users to fix the problem manually. PCWorld reports: The way faulty drivers work today is that the hardware partner is responsible for pushing an updated driver, or the end user is responsible fo",
+        "tags": [
+          "microsoft"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0449
+      },
       {
         "id": "d15cdce3eab13f2f",
         "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
@@ -1902,37 +1937,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9416
-      },
-      {
-        "id": "7c961f3a8930c936",
-        "title": "‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan",
-        "url": "https://www.reddit.com/r/technology/comments/1tby0nw/irresponsible_backlash_as_utah_approves/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778674900000,
-        "summary": "submitted by /u/deraser [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9395
-      },
-      {
-        "id": "a110a143347e0b05",
-        "title": "Anduril raises $5bn at $61bn valuation, doubling in eleven months",
-        "url": "https://thenextweb.com/news/anduril-5bn-raise-61bn-valuation",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778674535000,
-        "summary": "Thrive Capital and Andreessen Horowitz led the round on the back of $2bn+ in 2025 revenue and a $20bn Pentagon enterprise agreement signed in March. Anduril Industries has raised $5 billion in a round led by Thrive Capital and Andreessen Horowitz, doubling its valuation to $61 billion eleven months after its previous mark. The Costa […] This story continues at The Next Web",
-        "tags": [
-          "investors and funding",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8883
       }
     ],
     "ai": [
@@ -2032,6 +2036,23 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9142
+      },
+      {
+        "id": "a97cecfb2482fbe5",
+        "title": "Amazon's search bar is now an AI shopping assistant that remembers your conversations",
+        "url": "https://www.androidpolice.com/amazon-alexa-plus-on-app-and-website/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1778699910000,
+        "summary": "Alexa+ is joining Amazon's Rufus",
+        "tags": [
+          "amazon",
+          "utilities",
+          "amazon"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0606
       },
       {
         "id": "4e074fa8691f48be",
@@ -2867,28 +2888,69 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7958
-      },
-      {
-        "id": "f75d7f1ff4a161cd",
-        "title": "WhatsApp adds an incognito mode in Meta AI chats",
-        "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778680800000,
-        "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-        "tags": [
-          "ai",
-          "apps",
-          "meta",
-          "meta ai",
-          "whatsapp"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7958
       }
     ],
     "science": [
+      {
+        "id": "974b20314901510f",
+        "title": "The hidden force of growth: Dividing cell colonies drive phase separation in passing particles",
+        "url": "https://phys.org/news/2026-05-hidden-growth-cell-colonies-phase.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778703142000,
+        "summary": "In physics, the spontaneous de-mixing of two substances is known as phase separation. It is an important mechanism in nature to create structure and patterns and typically requires some form of attraction between the constituents. Researchers at the Max Planck Institute for Dynamics and Self-Organization (MPI-DS) in Göttingen, together with collaborators at the University of Edinburgh and the Inst",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
+      {
+        "id": "146543389bff8fc1",
+        "title": "Statistical technique could uncover secrets of 'ringing' black holes",
+        "url": "https://phys.org/news/2026-05-statistical-technique-uncover-secrets-black.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778702821000,
+        "summary": "Researchers have developed a technique to analyze how black holes \"ring\" when they collide and merge: one of the universe's most dramatic events. When black holes merge, the collision produces a new, larger black hole that \"rings\" like a plucked guitar string or a bell while it settles into its final, stable shape. But instead of sound waves, the new black hole rings with gravitational waves: ripp",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0174
+      },
+      {
+        "id": "6ba76e1c4778bb6a",
+        "title": "Fungus-powered farming delivers higher yields and better-tasting crops, says study",
+        "url": "https://phys.org/news/2026-05-fungus-powered-farming-higher-yields.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778702681000,
+        "summary": "Can we have higher yields and better taste? Using a natural extract from the fungus Pseudozyma aphidis, this method improves the firmness and natural sugar content of crops like tomatoes and melons while significantly boosting production. This discovery offers a practical path to meeting global food demands without compromising the health of the planet or produce quality. Furthermore, because the ",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0166
+      },
+      {
+        "id": "1bc50fd51e8f2610",
+        "title": "How flies dodge so fast: Brain map reveals rare synapses behind split-second escapes",
+        "url": "https://phys.org/news/2026-05-flies-dodge-fast-brain-reveals.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778702404000,
+        "summary": "Have you ever wondered how a fly manages to dodge you in a split second? Scientists have long been fascinated by the lightning-fast reflexes that help flies escape danger almost instantly. But despite decades of research, they still don't fully understand exactly how the brain coordinates these rapid reactions at the level of individual neural connections.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0963
+      },
       {
         "id": "26d797a181667119",
         "title": "Bald eagle hatchlings spotted in a Chicago park may be the city's first for more than a century",
@@ -2903,6 +2965,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0199
+      },
+      {
+        "id": "5131dcfccbdcbd51",
+        "title": "'A decade or so away, we’ll be viewing it as a more normal way to build data centers': Google and SpaceX are reportedly in talks to build data centers in orbit",
+        "url": "https://www.techradar.com/computing/a-decade-or-so-away-well-be-viewing-it-as-a-more-normal-way-to-build-data-centers-google-and-spacex-are-reportedly-in-talks-to-build-data-centers-in-orbit",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1778702400000,
+        "summary": "There's more movement on the data-centers-in-space front, as Google and SpaceX are apparently teaming up.",
+        "tags": [
+          "computing"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8459
       },
       {
         "id": "c1264ddb0987f7c8",
@@ -3727,82 +3804,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0958
-      },
-      {
-        "id": "16fb14ae6a329b1e",
-        "title": "How the world's missing beetles could save the rainforest",
-        "url": "https://phys.org/news/2026-05-world-beetles-rainforest.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778675810000,
-        "summary": "Describing new species can take decades. But scientists are working to identify new ways to speed up our understanding of this hidden biodiversity. By looking at the genetic data of thousands of beetle species, our researchers are able to reveal the true breadth of tropical ground beetles in a move that could help save their rainforest homes.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0137
-      },
-      {
-        "id": "7fb28080bdffc184",
-        "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
-        "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
-        "source": "MIT Technology Review",
-        "lane": "science",
-        "published_ts": 1778674200000,
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
-        "tags": [
-          "the download"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0345
-      },
-      {
-        "id": "0355c8c34b2871f1",
-        "title": "Molecular grappling hooks improve cancer drug targeting and effectiveness",
-        "url": "https://phys.org/news/2026-05-molecular-grappling-cancer-drug-effectiveness.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778673603000,
-        "summary": "Medications are designed to treat diseased tissues while sparing healthy ones, often by attaching the drug to something that helps guide it directly to its target. But drugs also need time to work, which means they need to stay near the diseased tissues long enough.",
-        "tags": [
-          "bio & medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
-      },
-      {
-        "id": "ad695ef25986e90c",
-        "title": "Strange 500-million-year-old marine fossils reveal a feeding strategy that still shapes oceans today",
-        "url": "https://phys.org/news/2026-05-strange-million-year-marine-fossils.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778673602000,
-        "summary": "More than 500 million years ago, during what is known as the Cambrian period, the seas and oceans on Earth were filled with a myriad of marine animals, many of which have now become extinct. This evolutionary burst in new forms of life, referred to as the Cambrian explosion, paved the way for the evolution of many major animal groups that still populate our planet today.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
-      },
-      {
-        "id": "1318826973fd6d79",
-        "title": "Google reportedly in talks with SpaceX to launch its orbital data centers — partnership could mark a historic turning point and boost upcoming IPO",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-in-talks-with-spacex-to-launch-its-orbital-data-centers-partnership-could-mark-a-historic-turning-point-and-boost-upcoming-ipo",
-        "source": "Tom's Hardware",
-        "lane": "science",
-        "published_ts": 1778672400000,
-        "summary": "Google is reportedly in talks to make Elon Musk's SpaceX its launch partner for its orbital data centers as part of its Project Suncatcher initiative.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0203
       }
     ]
   },
