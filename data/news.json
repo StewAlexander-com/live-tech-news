@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:33:12.900185+00:00",
+  "generated_at": "2026-05-13T23:47:38.949690+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -966,6 +966,21 @@
         "score": 1.0793
       },
       {
+        "id": "a226eca805b90e0c",
+        "title": "AWS to Quick admins: The access control didn't work, but you weren't using it anyway, so what's the problem?",
+        "url": "https://www.theregister.com/paas-and-iaas/2026/05/13/aws-patched-quick-auth-bypass-says-customers-werent-using-control/5240041",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1778713001000,
+        "summary": "If a setting fails in the forest and nobody hears it ...",
+        "tags": [
+          "paas and iaas"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.033
+      },
+      {
         "id": "0412377eb6a7b388",
         "title": "Netflix says its ad tier now has 250M monthly active viewers, up from 94M in 2025, and is expanding to 15 new countries, as it tests an ad personalization tool (Emma Roth/The Verge)",
         "url": "https://www.techmeme.com/260513/p49#a260513p49",
@@ -1896,24 +1911,37 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0691
-      },
-      {
-        "id": "f1bccefc000370a0",
-        "title": "Stardust trapped in Antarctic ice reveals tens of thousands of years of solar system's past",
-        "url": "https://phys.org/news/2026-05-stardust-antarctic-ice-reveals-tens.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1778680850000,
-        "summary": "When you think of outer space, you're likely picturing stars, planets and moons. But much of space is filled with clouds of gas, plasma and stardust—known as interstellar clouds.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0051
       }
     ],
     "ai": [
+      {
+        "id": "08470c7648425bb1",
+        "title": "Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 (Carl Franzen/VentureBeat)",
+        "url": "https://www.techmeme.com/260513/p51#a260513p51",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778715303000,
+        "summary": "Carl Franzen / VentureBeat: Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 — Good news, OpenClaw fans — you can once again use your Claude AI subscription to power the hit, open source, autonomous AI agentic harness!",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0756
+      },
+      {
+        "id": "205e266502128b73",
+        "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
+        "url": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1778714870000,
+        "summary": "Palo Alto Networks found and fixed 75 flaws this month, up from its usual five",
+        "tags": [
+          "patches"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1268
+      },
       {
         "id": "5bc3b62a40e85101",
         "title": "Source: Cerebras priced its IPO at $185 per share, above the expected range of $150 to $160, raising at least $5.55B and valuing it at $56.4B fully diluted (Jordan Novet/CNBC)",
@@ -1956,6 +1984,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9164
+      },
+      {
+        "id": "25fa03a1295c9750",
+        "title": "Google's AI-enabled mouse pointer understands 'this' and 'that'",
+        "url": "https://www.theregister.com/software/2026/05/13/googles-ai-enabled-mouse-pointer-understands-this-and-that/5240005",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1778710787000,
+        "summary": "Right-clicking could go the way of the 3.5-inch floppy at the Chocolate Factory",
+        "tags": [
+          "software"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1025
       },
       {
         "id": "6d796215bf9ffdd3",
@@ -2079,6 +2122,36 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1273
+      },
+      {
+        "id": "fff1205601779b3a",
+        "title": "Datacenters are having fewer, but bigger failures",
+        "url": "https://www.theregister.com/on-prem/2026/05/13/datacenters-are-having-fewer-but-bigger-failures/5239951",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1778705328000,
+        "summary": "And neither AI nor international conflict are helping",
+        "tags": [
+          "on-prem"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0707
+      },
+      {
+        "id": "dd8e642b0f7975c8",
+        "title": "Anthropic butts in to small business, promises help with payroll and other core tasks",
+        "url": "https://www.theregister.com/ai-ml/2026/05/13/anthropic-butts-in-to-small-business-promises-help-with-payroll-and-other-core-tasks/5239967",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1778705326000,
+        "summary": "But Pro or Max biz users should know that the company may train its AI on your data",
+        "tags": [
+          "ai + ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0707
       },
       {
         "id": "e051ac0b0ecabbac",
@@ -2796,84 +2869,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9595
-      },
-      {
-        "id": "f513a76bb718a0a2",
-        "title": "Gravitational lens shows a galaxy just 800 million years post-Big Bang",
-        "url": "https://arstechnica.com/science/2026/05/gravitational-lens-shows-a-galaxy-just-800-million-years-post-big-bang/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778687600000,
-        "summary": "Early galaxy has elements produced by the Universe's first supernovae.",
-        "tags": [
-          "science",
-          "astronomy",
-          "galaxy evolution",
-          "gravitational lens",
-          "webb telescope"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.986
-      },
-      {
-        "id": "93d7ad62d50d6f97",
-        "title": "Notepad++ Mac Port Renamed Nextpad++ After Trademark Row",
-        "url": "https://www.macrumors.com/2026/05/13/notepad-plus-plus-mac-nextpad-dispute-settlement/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778687535000,
-        "summary": "Following last month's coverage of an unofficial Mac port of Notepad++ that the original developer called out for trademark violation, the dispute has now been resolved with a rebrand. The macOS port was previously released by Andrey Letov under the Notepad++ name without authorization. Don Ho created the original Windows code editor in 2003, and had publicly objected to the unofficial app's use o",
-        "tags": [
-          "apple",
-          "rumors",
-          "mac",
-          "ios",
-          "iphone",
-          "ipad"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9977
-      },
-      {
-        "id": "cc0d544796ad4b81",
-        "title": "Sources: Arm and its parent company SoftBank expressed preliminary interest in acquiring Cerebras weeks before its expected IPO; Cerebras rebuffed them (Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p36#a260513p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778687102000,
-        "summary": "Bloomberg: Sources: Arm and its parent company SoftBank expressed preliminary interest in acquiring Cerebras weeks before its expected IPO; Cerebras rebuffed them — Arm Holdings Plc and its majority owner SoftBank Group Corp. made an approach to acquire Cerebras Systems Inc., the AI computing firm …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0117
-      },
-      {
-        "id": "30982f6c7fc74f19",
-        "title": "Sources: Arm and SoftBank expressed preliminary interest in acquiring Cerebras weeks before its expected IPO; Cerebras rebuffed them (Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p36#a260513p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778687102000,
-        "summary": "Bloomberg: Sources: Arm and SoftBank expressed preliminary interest in acquiring Cerebras weeks before its expected IPO; Cerebras rebuffed them — Arm Holdings Plc and its majority owner SoftBank Group Corp. made an approach to acquire Cerebras Systems Inc., the AI computing firm …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.075
-      },
-      {
-        "id": "14d3ccf40bee2664",
-        "title": "Sources: Arm and SoftBank expressed preliminary interest to acquire Cerebras weeks before its expected IPO; Cerebras rebuffed them (Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p36#a260513p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778687102000,
-        "summary": "Bloomberg: Sources: Arm and SoftBank expressed preliminary interest to acquire Cerebras weeks before its expected IPO; Cerebras rebuffed them — Arm Holdings Plc and its majority owner SoftBank Group Corp. made an approach to acquire Cerebras Systems Inc., the AI computing firm, weeks …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0792
       }
     ],
     "science": [
