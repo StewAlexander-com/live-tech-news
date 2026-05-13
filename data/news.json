@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-05-13T18:30:06.850556+00:00",
+  "generated_at": "2026-05-13T18:54:47.833305+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "4c68f9c186897c6b",
+        "title": "Netflix’s ad ambitions just keep growing",
+        "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778697932000,
+        "summary": "For the second year in a row, Netflix's ad-supported tier more than doubled its monthly viewerbase. During its 2026 upfront presentation, Netflix revealed that its $8.99-per-month plan reaches more than 250 million people around the globe, a significant leap from 94 million users reported last year. The streaming service reported earning $1.5 billion from ads […]",
+        "tags": [
+          "entertainment",
+          "netflix",
+          "news",
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7896
+      },
+      {
+        "id": "3bc31279691fb661",
+        "title": "This is the only type of keyboard that I wouldn't recommend to anyone",
+        "url": "https://www.makeuseof.com/only-keyboard-wouldnt-recommend/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1778697018000,
+        "summary": "Cool idea, bad execution.",
+        "tags": [
+          "technology explained",
+          "keyboard",
+          "keyboard tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8433
+      },
       {
         "id": "ba70e424a5742eee",
         "title": "Google clarifies commitment to Chromebooks but it brings up more questions than answers",
@@ -953,43 +988,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8457
-      },
-      {
-        "id": "4fc5dc202641f3d6",
-        "title": "'It sounds like I'm listening through a wall': Disney+ users slam The Punisher: One Last Kill sound issues — and poke fun at the new Marvel TV Special's 'Xbox 360' visuals",
-        "url": "https://www.techradar.com/streaming/disney-plus/it-sounds-like-im-listening-through-a-wall-disney-users-slam-the-punisher-one-last-kill-sound-issues-and-poke-fun-at-the-new-marvel-tv-specials-xbox-360-visuals",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778679000000,
-        "summary": "The Punisher TV special has drawn plenty of fan ire for its persistent sound issues and \"hilarious\" visual effects.",
-        "tags": [
-          "disney plus",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8457
-      },
-      {
-        "id": "0c1bd788754bcc06",
-        "title": "Nintendo says it has more Switch 2 games in store for 2026",
-        "url": "https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1778678702000,
-        "summary": "With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo. That increased cost means that the company will rely heavily on new games to sell its current console - but as of right now the lineup for the second half of the year is sparse. However, without […]",
-        "tags": [
-          "entertainment",
-          "gaming",
-          "news",
-          "nintendo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7867
       }
     ],
     "innovation": [
+      {
+        "id": "a5bb01568cef30c1",
+        "title": "Xbox's new filters aim to make sense of disorganized game libraries",
+        "url": "https://www.engadget.com/2172273/xbox-new-filters-aim-to-make-sense-of-disorganized-game-libraries/",
+        "source": "Engadget",
+        "lane": "innovation",
+        "published_ts": 1778697563000,
+        "summary": "And, brace yourself, Microsoft is also testing a new startup experience.",
+        "tags": [
+          "xbox"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7005
+      },
+      {
+        "id": "e799ebf3e53d5e2a",
+        "title": "Meta Launches 'Instants' App for Sharing Disappearing Photos on Instagram",
+        "url": "https://www.macrumors.com/2026/05/13/meta-instants-app/",
+        "source": "Mac Rumors",
+        "lane": "innovation",
+        "published_ts": 1778697166000,
+        "summary": "Meta today announced the launch of Instants, a new image sharing option on the Instagram social network. Instants are ephemeral photos that disappear from Instagram after they're viewed by a user's friends or after a 24-hour period. Reactions and replies to Instants images show up in DMs instead of on the post. Instants photos are only displayed for a short period, but they are saved to a user's a",
+        "tags": [
+          "instagram",
+          "meta",
+          "photos"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0724
+      },
       {
         "id": "d244972af87fc447",
         "title": "This is what some the world’s largest banks of malware look like stacked as hard drives",
@@ -1396,7 +1429,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0346
+        "score": 1.2226
       },
       {
         "id": "b4bae10bc0046991",
@@ -1909,37 +1942,62 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8471
-      },
-      {
-        "id": "87e49e4b850cb052",
-        "title": "CERN Open Sources Its KiCad Component Libraries",
-        "url": "https://news.slashdot.org/story/26/05/13/077203/cern-open-sources-its-kicad-component-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1778670000000,
-        "summary": "Ancient Slashdot reader ewhac writes: CERN, a longtime Open Source pioneer, has made several contributions over the years to KiCad (\"KEE-kad\"), an Open Source EDA (Electronic Design Automation) package widely used in the hobbyist and professional electronics communities. It's gotten so widely used that users can now submit their KiCad design files directly to several electronics fabricators (rathe",
-        "tags": [
-          "opensource"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0459
-      },
-      {
-        "id": "0e38a05eddc88fda",
-        "title": "Google says Chromebooks will get support through their \"existing date commitment\", and \"many\" models are \"eligible to transition\" to the Googlebook experience (Ben Schoon/9to5Google)",
-        "url": "https://www.techmeme.com/260513/p18#a260513p18",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778669103000,
-        "summary": "Ben Schoon / 9to5Google: Google says Chromebooks will get support through their “existing date commitment”, and “many” models are “eligible to transition” to the Googlebook experience — During The Android Show earlier today, Google revealed its “Googlebook” …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9913
       }
     ],
     "ai": [
+      {
+        "id": "9db214965d204922",
+        "title": "OpenAI endorses the Kids Online Safety Act",
+        "url": "https://www.engadget.com/2172269/openai-endorses-the-kids-online-safety-act/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778697294000,
+        "summary": "The bill appears to be gaining new momentum.",
+        "tags": [
+          "ai",
+          "big tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6995
+      },
+      {
+        "id": "47375d37e6d08279",
+        "title": "AI chatbots are giving out people’s real phone numbers",
+        "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "source": "MIT Technology Review",
+        "lane": "ai",
+        "published_ts": 1778695743000,
+        "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it. A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a…",
+        "tags": [
+          "artificial intelligence",
+          "app",
+          "artificial intelligence"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1175
+      },
+      {
+        "id": "48a9a9a0dab47dd1",
+        "title": "A new US military wargame series began by simulating a nuclear weapon in orbit",
+        "url": "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1778695473000,
+        "summary": "US officials have said a nuclear detonation would render portions of low-Earth orbit useless for up to a year.",
+        "tags": [
+          "space",
+          "commercial space",
+          "military space",
+          "nuclear weapons",
+          "space command",
+          "space force"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
       {
         "id": "8816f0e5325b2833",
         "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
@@ -1958,6 +2016,26 @@
         "score": 1.077
       },
       {
+        "id": "ffbf66595dc64808",
+        "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
+        "url": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1778695233000,
+        "summary": "“Every time I go to the dentist, I think about that guy,” researcher says.",
+        "tags": [
+          "science",
+          "anthropology",
+          "archaeology",
+          "bioarchaeology",
+          "neanderthals",
+          "osteoarchaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9827
+      },
+      {
         "id": "9ef87fb8aa1eda2a",
         "title": "LinkedIn Planning To Lay Off 5% of Staff In Latest Tech-Sector Cuts",
         "url": "https://tech.slashdot.org/story/26/05/13/1615245/linkedin-planning-to-lay-off-5-of-staff-in-latest-tech-sector-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1971,6 +2049,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0464
+      },
+      {
+        "id": "801c6bfe7fe200fa",
+        "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
+        "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1778694485000,
+        "summary": "\"Very painful\": Altman relives his Muskian reaction to losing control over OpenAI.",
+        "tags": [
+          "ai",
+          "policy",
+          "agi",
+          "artificial general intelligence",
+          "artificial intelligence",
+          "elon musk"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9788
       },
       {
         "id": "529763a1e04ad028",
@@ -2181,6 +2279,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0688
+      },
+      {
+        "id": "c9471dbd5d3193bb",
+        "title": "Sources: Mistral has been developing a cybersecurity-focused AI model and has held discussions about it with European banks, which don't have access to Mythos (Bloomberg)",
+        "url": "https://www.techmeme.com/260513/p37#a260513p37",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778688055000,
+        "summary": "Bloomberg: Sources: Mistral has been developing a cybersecurity-focused AI model and has held discussions about it with European banks, which don't have access to Mythos — French artificial intelligence startup Mistral AI is in discussions with European banks about deploying its answer to Anthropic PBC's Mythos …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0214
       },
       {
         "id": "e13d320a9f14911b",
@@ -2797,108 +2908,59 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8266
-      },
-      {
-        "id": "d6ee4f9c6c134cd0",
-        "title": "Amazon made a version of Alexa just for shopping",
-        "url": "https://www.engadget.com/2171806/amazon-made-a-version-of-alexa-just-for-shopping/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778677200000,
-        "summary": "Alexa for Shopping is an 'agentic AI assistant' for Amazon purchases",
-        "tags": [
-          "amazon"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7573
-      },
-      {
-        "id": "efb9e184ca492bed",
-        "title": "Alexa is moving into Amazon.com",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778677200000,
-        "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected […]",
-        "tags": [
-          "ai",
-          "amazon",
-          "amazon alexa",
-          "news",
-          "online shopping",
-          "smart home"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8549
-      },
-      {
-        "id": "5b6dffc6a7e346c2",
-        "title": "US bank discloses security lapse after sharing customer data with AI app",
-        "url": "https://www.reddit.com/r/technology/comments/1tbyx37/us_bank_discloses_security_lapse_after_sharing/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778677156000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0107
-      },
-      {
-        "id": "09c922b03a769ab2",
-        "title": "Seven in 10 Americans oppose constructing data centers for AI in their local area, including nearly half who are strongly opposed. Barely a quarter favor these projects, with 7% strongly in favor",
-        "url": "https://www.reddit.com/r/technology/comments/1tbypz4/seven_in_10_americans_oppose_constructing_data/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778676655000,
-        "summary": "submitted by /u/sr_local [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.008
-      },
-      {
-        "id": "ca665c002b02fae2",
-        "title": "Datacentres using 6% of electricity supply in UK and US, research says | Industry body says energy consumption driven by AI up 15% globally in two years as it warns of societal backlash",
-        "url": "https://www.reddit.com/r/technology/comments/1tbyo7d/datacentres_using_6_of_electricity_supply_in_uk/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778676535000,
-        "summary": "submitted by /u/Hrmbee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0074
-      },
-      {
-        "id": "3223af3ef206e753",
-        "title": "Rivian adds a new onboard AI assistant to its latest software update",
-        "url": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778676330000,
-        "summary": "The Rivian Assistant is available for both Gen1 and Gen2 hardware.",
-        "tags": [
-          "ai",
-          "cars",
-          "rivian",
-          "rivian assistant"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0388
       }
     ],
     "science": [
+      {
+        "id": "0b12e727afd76cdc",
+        "title": "Small seabirds rely on crosswinds to navigate the open ocean",
+        "url": "https://phys.org/news/2026-05-small-seabirds-crosswinds-ocean.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778698004000,
+        "summary": "Storm petrels are among the smallest and most mysterious seabirds. Until recently, the use of biologgers to track their movements was impossible. A new study published in Biology Letters reveals that they routinely travel hundreds of kilometers while deliberately seeking crosswinds, an unexpected strategy that slows their flight but may help them survive above the open ocean.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0174
+      },
+      {
+        "id": "ecbd4b8c7d0dd23d",
+        "title": "A history of containers, an ancient technology hundreds of thousands of years in the making",
+        "url": "https://phys.org/news/2026-05-history-ancient-technology-hundreds-thousands.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778697602000,
+        "summary": "We hardly give them a second thought, but everyday objects like bags and backpacks belong to a long technological tradition that may stretch back hundreds of thousands of years.",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0152
+      },
+      {
+        "id": "ac17ad6efcf20573",
+        "title": "NASA provides some details about Artemis III, but hard decisions remain",
+        "url": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
+        "source": "Ars Technica AI",
+        "lane": "science",
+        "published_ts": 1778697449000,
+        "summary": "\"NASA also is defining the concept of operations for the mission.\"",
+        "tags": [
+          "space",
+          "artemis iii",
+          "hls",
+          "lunar landers",
+          "nasa",
+          "orion"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9945
+      },
       {
         "id": "7d3b8b55744d7608",
         "title": "Dual spacecraft capture both hemispheres of interstellar comet 3I/ATLAS at once",
@@ -3759,47 +3821,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0907
-      },
-      {
-        "id": "1f646365ad58950c",
-        "title": "Gravitational wave detectors can now 'autotune' signals to harmonize the heavens",
-        "url": "https://phys.org/news/2026-05-gravitational-detectors-autotune-harmonize-heavens.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778630402000,
-        "summary": "Gravitational wave researchers working on the world's most sensitive scientific instruments have found a way to tune their detectors using a process akin to the pitch-correction used in music production.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0187
-      },
-      {
-        "id": "9b2f8109f8e855f3",
-        "title": "Red-light therapy is all the rage — does it work?",
-        "url": "https://www.nature.com/articles/d41586-026-01547-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1778630400000,
-        "summary": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01547-zThere are a multitude of red-light emitting consumer goods, but do they really do anything for your health? We look at the science behind the hype — plus, the increasing levels of obesity in lower-income countries.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8054
-      },
-      {
-        "id": "7ba4f4c62507edb5",
-        "title": "An ultra-faint, chemically primitive galaxy forming in the reionization era",
-        "url": "https://www.nature.com/articles/s41586-026-10374-1",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1778630400000,
-        "summary": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10374-1LAP1-B—an ultra-faint and tiny galaxy that formed in the reionization era and is strongly magnified by gravitational lensing—is chemically primitive and hosts very few stars in an otherwise dominant dark matter halo.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8054
       }
     ]
   },
