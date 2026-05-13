@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T21:00:43.242889+00:00",
+  "generated_at": "2026-05-13T21:18:24.384123+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -981,6 +981,23 @@
     ],
     "innovation": [
       {
+        "id": "17699826e81e9ba4",
+        "title": "New BitLocker vulnerability exposes Windows 11 users to system breach",
+        "url": "https://www.makeuseof.com/bitlocker-newly-discovered-backdoor-way-to-protect-your-data-now/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778706504000,
+        "summary": "A newly discovered BitLocker exploit, targeting Windows 11, allows attackers to gain unrestricted access to file systems and manipulate system service",
+        "tags": [
+          "security",
+          "backdoor",
+          "windows tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8473
+      },
+      {
         "id": "9ebe0997197661cf",
         "title": "I've had Philips Hue bulbs for years, and I only use these features now",
         "url": "https://www.makeuseof.com/only-features-i-use-philips-hue-bulbs/",
@@ -996,6 +1013,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8499
+      },
+      {
+        "id": "288b9f776c328fc3",
+        "title": "Amazfit’s budget ultra-running watches launch – just one day after Garmin unveils its own new watches",
+        "url": "https://www.techradar.com/health-fitness/smartwatches/amazfits-budget-ultra-running-watches-launch-just-one-day-after-garmin-unveils-its-own-new-watches",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1778706000000,
+        "summary": "Amazfit has launched the Cheetah 2 Ultra, a new ultra-running watch for off-road enthusiasts.",
+        "tags": [
+          "smartwatches",
+          "health &amp; fitness"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9126
       },
       {
         "id": "6f501e113b628bc5",
@@ -1910,39 +1943,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9462
-      },
-      {
-        "id": "17b1f29f903a16bd",
-        "title": "Poland says it plans to proceed with a digital services tax of up to 3% on large digital platforms, despite threats of retaliation like tariffs from the US (Agnieszka Barteczko/Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p23#a260513p23",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778676901000,
-        "summary": "Agnieszka Barteczko / Bloomberg: Poland says it plans to proceed with a digital services tax of up to 3% on large digital platforms, despite threats of retaliation like tariffs from the US — Poland will continue working on legislation to tax digital platforms, Finance Minister Andrzej Domanski said, despite threats …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9996
-      },
-      {
-        "id": "66bdec802a9690b1",
-        "title": "Microsoft launches Cloud‑Initiated Driver Recovery for remote rollback of faulty updates — no user action or OEM intervention will be needed to handle broken drivers delivered via Windows Update",
-        "url": "https://www.tomshardware.com/software/windows/microsoft-launches-cloud-initiated-driver-recovery-for-remote-rollback-of-faulty-updates-no-user-action-or-oem-intervention-will-be-needed-to-handle-broken-drivers-delivered-via-windows-update",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1778676178000,
-        "summary": "Microsoft introduces Cloud-Initiated Driver Recovery, an important Windows reliability change designed to minimize buggy driver mayhem.",
-        "tags": [
-          "windows",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.946
       }
     ],
     "ai": [
+      {
+        "id": "edaae7936d2f239f",
+        "title": "Mythos Preview is the first AI model to complete both of AISI's cyber ranges, which measure models' cyberattack capabilities; GPT-5.5 solved only one of them (AI Security Institute)",
+        "url": "https://www.techmeme.com/260513/p46#a260513p46",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778706056000,
+        "summary": "AI Security Institute: Mythos Preview is the first AI model to complete both of AISI's cyber ranges, which measure models' cyberattack capabilities; GPT-5.5 solved only one of them — In February 2026, we internally estimated that the length of cyber tasks AI models could complete had doubled every 4.7 months since late 2024 …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.074
+      },
+      {
+        "id": "a7b948c94e861b4c",
+        "title": "Software Developers Say AI Is Rotting Their Brains",
+        "url": "https://developers.slashdot.org/story/26/05/13/1949225/software-developers-say-ai-is-rotting-their-brains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778706000000,
+        "summary": "An anonymous reader quotes a report from 404 Media: On Reddit, Hacker News and other places where people in software development talk to each other, more and more people are becoming disillusioned with the promise of code generated by large language models. Developers talk not just about how the AI output is often flawed, but that using AI to get the job done is often a more time consuming, harder",
+        "tags": [
+          "ai",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1273
+      },
       {
         "id": "73b0b93b4ae4c9ea",
         "title": "Apple may open up the App Store to agentic AI",
@@ -2865,37 +2897,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0726
-      },
-      {
-        "id": "4657458ee10bcc6b",
-        "title": "A profile of California Rep. Ro Khanna, who spent years cheering on the tech industry and now supports a 5% billionaire wealth tax and stricter AI regulations (Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p30#a260513p30",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778682001000,
-        "summary": "Bloomberg: A profile of California Rep. Ro Khanna, who spent years cheering on the tech industry and now supports a 5% billionaire wealth tax and stricter AI regulations — Ro Khanna spent years cheering on the tech industry and building ties with wealthy donors. Now he's pitching himself …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0708
-      },
-      {
-        "id": "df92381194bfc6c1",
-        "title": "WhatsApp users can soon have private conversations with Meta AI",
-        "url": "https://www.engadget.com/2171922/whatsapp-users-can-soon-have-private-conversations-with-meta-ai/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778681489000,
-        "summary": "No one other than you will be able to read messages exchanged via Incognito Chat with Meta AI.",
-        "tags": [
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7518
       }
     ],
     "science": [
+      {
+        "id": "bceb8fcc2067f1ab",
+        "title": "The dam dilemma: How to build anew without repeating old harms",
+        "url": "https://phys.org/news/2026-05-dilemma-anew.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778706339000,
+        "summary": "As the U.S. and other countries expand clean energy, large hydropower dams, often seen as a reliable renewable solution, can come with significant environmental and social costs if not planned thoughtfully.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
       {
         "id": "62899fd88a6c8c1f",
         "title": "Wear and tear changes measurable PFAS levels in firefighter hoods, gloves and wildland gear",
@@ -3000,6 +3019,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0167
+      },
+      {
+        "id": "ce1d72865777c830",
+        "title": "Protein in Homo erectus teeth suggests Denisovans gave us some of their DNA",
+        "url": "https://arstechnica.com/science/2026/05/protein-in-homo-erectus-teeth-suggests-denisovans-gave-us-some-of-their-dna/",
+        "source": "Ars Technica Science",
+        "lane": "science",
+        "published_ts": 1778704074000,
+        "summary": "Distinct form of tooth protein in Homo erectus shows up in Denisovans—and us.",
+        "tags": [
+          "science",
+          "biology",
+          "denisovans",
+          "evolution",
+          "homo erectus",
+          "human evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9839
       },
       {
         "id": "94a90b624c98937c",
@@ -3779,36 +3818,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0153
-      },
-      {
-        "id": "b867b3a5b0a6abf1",
-        "title": "Predicting typhoon intensity using ocean surface temperatures",
-        "url": "https://phys.org/news/2026-05-typhoon-intensity-ocean-surface-temperatures.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778684808000,
-        "summary": "Every year in the West Pacific, as summer ends and September rolls around, typhoons are not far behind. Typhoons are the most impactful extreme weather events affecting Japan and East Asia, and due to climate change, extremely strong typhoons are becoming more frequent. In order to adapt critical infrastructure to these massive storms and protect coastal areas, accurate accounting for their future",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "e9627176bf78a9f3",
-        "title": "Laser treatment reshapes MOF pores, boosting CO₂ capture by up to 75%",
-        "url": "https://phys.org/news/2026-05-laser-treatment-reshapes-mof-pores.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778684673000,
-        "summary": "A research team led by Hee-jung Lee, senior researcher at Korea Institute of Materials Science (KIMS), in collaboration with Professor Sunghwan Park of Kyungpook National University and Professor Mingyu Kim of Yeungnam University, has developed a technology that enhances CO₂ adsorption performance in metal–organic frameworks (MOFs) by up to 75% through precise laser-based control of their internal",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1006
       }
     ]
   },
