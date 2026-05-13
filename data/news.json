@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-05-13T03:23:08.884625+00:00",
+  "generated_at": "2026-05-13T04:26:20.586620+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2a3f02f73ae8b5d2",
+        "title": "DisagMoE: Computation-Communication overlapped MoE Training via Disaggregated AF-Pipe Parallelism",
+        "url": "https://arxiv.org/abs/2605.11005",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.11005v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures enable trillion-parameter LLMs with sparsely activated experts. Expert parallelism (EP) is a widely adopted MoE training strategy, but it suffers from severe all-to-all communication bottlenecks, which is exaggerated by the limited inter-node network bandwidth as the growing model size requires distributing expe",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0412
+      },
+      {
+        "id": "d3878be90ff0ef37",
+        "title": "Language Modeling with Hyperspherical Flows",
+        "url": "https://arxiv.org/abs/2605.11125",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.11125v1 Announce Type: new Abstract: Discrete Diffusion Language Models progressed rapidly as an alternative to autoregressive (AR) models, motivated by their parallel generation abilities. However, for tractability, discrete diffusion models sample from a factorized distribution, which is less expressive than AR. Recent Flow Language Models (FLMs) apply continuous flows to language, tr",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0412
+      },
       {
         "id": "039a2350f12de55a",
         "title": "Sony’s new Xperia phone gets an overdue redesign",
@@ -896,45 +928,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9966
-      },
-      {
-        "id": "0d4f8b645cb95864",
-        "title": "Milk-V Jupiter2 is mini PC with a SpacemiT K3 RISC-V processor",
-        "url": "https://liliputing.com/milk-v-jupiter2-is-mini-pc-with-a-spacemit-k3-risc-v-processor/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1778605543000,
-        "summary": "The Milk-V Jupiter2 is a compact computer powered by a SpacemiT K3 processor with an eight-core RVA23 compliant RISC-V processor, Imagination BXM-4-64-MC1 graphics, and support for up to 60 TOPS of AI performance. Compared with the original Milk-V Jupiter, the new model should bring big CPU, GPU, and AI performance boosts. It also supports faster wired […] The post Milk-V Jupiter2 is mini PC with ",
-        "tags": [
-          "news",
-          "milk-v",
-          "milk-v jupiter2",
-          "risc-v",
-          "spacemit",
-          "spacemit k3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1817
-      },
-      {
-        "id": "c5851c51bd4d5366",
-        "title": "Google is finally fixing the one laptop feature nobody thought needed fixing",
-        "url": "https://www.makeuseof.com/google-new-laptop-range-changing-feature-stayed-stagnant-for-15-years/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1778605218000,
-        "summary": "The cursor on Google's new Googlebook will have AI integration at your fingertips.",
-        "tags": [
-          "android",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9116
       }
     ],
     "innovation": [
+      {
+        "id": "a0f2e69b4e2eda10",
+        "title": "Seeing the Needle in the Haystack: Towards Weakly-Supervised Log Instance Anomaly Localization via Counterfactual Perturbation",
+        "url": "https://arxiv.org/abs/2605.10988",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.10988v1 Announce Type: new Abstract: Log anomaly detection is a critical task for system operations and security assurance. However, in networked systems at scale, log data are generated at massive scale while instance-level annotations are prohibitively expensive, posing great difficulties to fine-grained anomaly localization. To address this challenge, we propose LogMILP (Log anomaly ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0412
+      },
+      {
+        "id": "c496bbbb0c78e05b",
+        "title": "Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners (Tamara Djurickovic/Tech.eu)",
+        "url": "https://www.techmeme.com/260512/p66#a260512p66",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778643001000,
+        "summary": "Tamara Djurickovic / Tech.eu: Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners — Paymentology provides cloud-native issuer processing technology for banks and fintechs, helping financial institutions modernise …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9821
+      },
       {
         "id": "e0ed74af47967d87",
         "title": "Twin brothers wipe 96 gov’t databases minutes after being fired",
@@ -1832,45 +1857,229 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7427
-      },
-      {
-        "id": "33c5dddb7326b1cc",
-        "title": "Indigo brings the open social web to one app",
-        "url": "https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1778604363000,
-        "summary": "Indigo's new social app lets you cross-post to the open social web, including Mastodon and Bluesky, and browse a unified timeline.",
-        "tags": [
-          "apps",
-          "social",
-          "bluesky",
-          "decentralized social media",
-          "exclusive",
-          "indigo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.746
-      },
-      {
-        "id": "2ea6118051d6da9e",
-        "title": "Milwaukee has its own AirTag rival, but it's made for toolboxes",
-        "url": "https://www.makeuseof.com/milwaukee-tools-airtag-rival/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778603417000,
-        "summary": "Never lose your power tools again with this innovative tracking ecosystem.",
-        "tags": [
-          "home",
-          "power tools"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
       }
     ],
     "ai": [
+      {
+        "id": "27ef3a231f754049",
+        "title": "Family sues OpenAI, alleging ChatGPT advice led to accidental overdose",
+        "url": "https://www.engadget.com/2171685/openai-lawsuit-wrongful-death-chatgpt-advice-overdose-sam-nelson/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778645245000,
+        "summary": "The complaint says ChatGPT started giving Sam Nelson advice about drug use with the launch of GPT-4o.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7557
+      },
+      {
+        "id": "51277da5f37c239c",
+        "title": "Embeddings for Preferences, Not Semantics",
+        "url": "https://arxiv.org/abs/2605.08360",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial literature on facility location problems and fair clustering can be brought to bear. But standard t",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "8cfe05638c50864a",
+        "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+        "url": "https://arxiv.org/abs/2605.08388",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.08388v1 Announce Type: new Abstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morphed into Human-AI team tasks. From writing essays to developing advanced algorithms, humans have foun",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "ac9a3f7ac0ac25c9",
+        "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+        "url": "https://arxiv.org/abs/2605.08409",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.08409v1 Announce Type: new Abstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a systemic consequence of the paradigm shift from user-driven knowledge search to users and agents engage",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "f4860763388c7a0a",
+        "title": "Alignment as Jurisprudence",
+        "url": "https://arxiv.org/abs/2605.08416",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.08416v1 Announce Type: new Abstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions by powerful actors, in one case judges and in the other increasingly powerful artificial intelligenc",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "2367d472e10de86e",
+        "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+        "url": "https://arxiv.org/abs/2605.08427",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.08427v1 Announce Type: new Abstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to a Nash equilibrium, the model is guaranteed to respond safely within the settings of the game. Alth",
+        "tags": [
+          "cs.ai",
+          "cs.gt",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "49d42d1a4cc90ba7",
+        "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
+        "url": "https://arxiv.org/abs/2605.08445",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.08445v1 Announce Type: new Abstract: AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standard training and validation datasets were never designed to capture. Evaluating these systems requires benchmarks: structured combinations of tasks, datasets, and metrics that enable reproducible, comparab",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "d2a1ef345f992762",
+        "title": "QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization",
+        "url": "https://arxiv.org/abs/2605.10959",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.10959v1 Announce Type: new Abstract: There is currently no unified metric for evaluating the efficiency of quantized neural networks. We propose QuIDE, built around the Intelligence Index I = (C x P)/log_2(T+1), which collapses the compression-accuracy-latency trade-off into a single score. Experiments across six settings -- SimpleCNN (MNIST, CIFAR), ResNet-18 (ImageNet-1K), and Llama-3",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "091664143ccf4472",
+        "title": "Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation",
+        "url": "https://arxiv.org/abs/2605.10975",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.10975v1 Announce Type: new Abstract: Graphs with heterophily, where adjacent nodes carry different labels, are prevalent in real-world applications, from social networks to molecular interactions. However, existing spectral Graph Neural Network (GNN) approaches tailored for heterophilous graph classification suffer from hub-dominated (node with large degree) aggregation and oversmoothin",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "4c265ede5db27890",
+        "title": "AESOP: Adversarial Execution-path Selection to Overload Deep Learning Pipelines",
+        "url": "https://arxiv.org/abs/2605.10987",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.10987v1 Announce Type: new Abstract: Modern machine learning deployments increasingly compose specialized models into dynamic inference pipelines, where upstream components produce intermediate predictions that determine the workload and inputs of downstream components. The cost of processing an input is therefore not determined by any single model, but by two coupled factors: the per-i",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "832d6931976c45d6",
+        "title": "SURGE: Surrogate Gradient Adaptation in Binary Neural Networks",
+        "url": "https://arxiv.org/abs/2605.10989",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.10989v1 Announce Type: new Abstract: The training of Binary Neural Networks (BNNs) is fundamentally based on gradient approximation for non-differentiable binarization operations (e.g., sign function). However, prevailing methods including the Straight-Through Estimator (STE) and its improved variants, rely on hand-crafted designs that suffer from gradient mismatch problem and informati",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "d8102775fd6df80f",
+        "title": "A Comparative Study of Federated Learning Aggregation Strategies under Homogeneous and Heterogeneous Data Distributions",
+        "url": "https://arxiv.org/abs/2605.11010",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.11010v1 Announce Type: new Abstract: Federated Learning has emerged as a transformative paradigm for collaborative machine learning across distributed environments. However, its performance is strongly influenced by the aggregation strategy used to combine local model updates at the server, which directly affects learning performance, robustness, and system behavior. This work presents ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "e7e67963dc622c34",
+        "title": "ASD-Bench: A Four-Axis Comprehensive Benchmark of AI Models for Autism Spectrum Disorder",
+        "url": "https://arxiv.org/abs/2605.11091",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.11091v1 Announce Type: new Abstract: Automated ASD screening tools remain limited by single-architecture evaluations, axis-restricted assessment, and near-exclusive focus on adult cohorts, obscuring age-specific diagnostic patterns critical for early intervention. We introduce ASD-Bench, a systematic tabular benchmark evaluating ML, deep learning, and foundation model configurations acr",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "1c89c510983b24d8",
+        "title": "Sam Altman Testifies That Elon Musk Wanted Control of OpenAI",
+        "url": "https://yro.slashdot.org/story/26/05/12/2231210/sam-altman-testifies-that-elon-musk-wanted-control-of-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778643000000,
+        "summary": "OpenAI CEO Sam Altman took the stand Tuesday in Elon Musk's trial against the company, testifying that Musk repeatedly sought control of OpenAI before leaving in 2018. Altman said he opposed putting AI \"under the control of any one person,\" while Musk's lawyer used a pointed cross-examination to attack Altman's trustworthiness. An anonymous reader shares updates from the testimony via the New York",
+        "tags": [
+          "court"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1137
+      },
       {
         "id": "ca0c68683d81cf2c",
         "title": "Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate's original data center initiative (Alex Heath/Sources)",
@@ -2579,228 +2788,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8942
-      },
-      {
-        "id": "520ffa02f69ae38a",
-        "title": "Google says it is hiring a team of \"forward deployed engineers\", a source says in the hundreds, to help customers use its business-focused AI products (Erin Woo/The Information)",
-        "url": "https://www.techmeme.com/260512/p43#a260512p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778612454000,
-        "summary": "Erin Woo / The Information: Google says it is hiring a team of “forward deployed engineers”, a source says in the hundreds, to help customers use its business-focused AI products — Google plans to hire hundreds of engineers to help customers start using its business-focused AI products, according to a person familiar with the situation.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0788
-      },
-      {
-        "id": "f3ac1fe341dfc383",
-        "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-        "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778612425000,
-        "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show.",
-        "tags": [
-          "ai",
-          "policy",
-          "chatbot",
-          "chatgpt",
-          "drug overdose",
-          "kratom"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9987
-      },
-      {
-        "id": "92b9eb6242c90d22",
-        "title": "DeepAFM decodes protein motion from noisy images with 93.4% accuracy",
-        "url": "https://phys.org/news/2026-05-deepafm-decodes-protein-motion-noisy.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778612403000,
-        "summary": "In 2018, an artificial intelligence (AI) program called AlphaFold achieved a major breakthrough by placing first in the critical assessment of structure prediction, a competition for predicting the three-dimensional structures of proteins. It scored close to 90 on a 100-point scale for moderately difficult targets, marking a turning point in the use of AI for understanding protein structure and hi",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1001
-      },
-      {
-        "id": "2be0694358075ae1",
-        "title": "Microsoft's $1 Billion AI Data Center Will 'Switch Off Half of Kenya'",
-        "url": "https://hardware.slashdot.org/story/26/05/12/1717225/microsofts-1-billion-ai-data-center-will-switch-off-half-of-kenya?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1778612400000,
-        "summary": "Microsoft and G42's planned $1 billion AI data center in Kenya has stalled amid disagreements over power commitments, with President William Ruto saying the country would need to \"switch off half the country\" to support the project at full scale. Tom's Hardware reports: The project, announced in May 2024 during Ruto's visit to Washington, was supposed to bring a geothermal-powered data center to t",
-        "tags": [
-          "power"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1292
-      },
-      {
-        "id": "74be39140c9a71d2",
-        "title": "Google’s new Create My Widget tool is ‘the first step in generative UI’ — and as an iPhone user, I’m not sure how iOS 27 can compete with Android 17",
-        "url": "https://www.techradar.com/phones/android/googles-new-create-my-widget-tool-is-the-first-step-in-generative-ui-and-as-an-iphone-user-im-not-sure-how-ios-27-can-compete-with-android-17",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778612400000,
-        "summary": "Google has announced a swath of new Android 17 features, one of which is an AI-powered widget builder.",
-        "tags": [
-          "android",
-          "google pixel phones",
-          "samsung galaxy phones",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9167
-      },
-      {
-        "id": "940c80bde25673fd",
-        "title": "Google found the first AI-generated zero-day exploit. It stopped the attack before it started.",
-        "url": "https://thenextweb.com/news/google-ai-zero-day-exploit-cybersecurity-arms-race",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778612160000,
-        "summary": "Google has identified the first zero-day exploit it believes was developed with artificial intelligence. The criminal threat actor that built it planned to use it in a mass exploitation event. Google’s Threat Intelligence Group discovered the vulnerability before it was deployed, worked with the affected vendor to patch it, and disrupted the operation. The […] This story continues at The Next Web",
-        "tags": [
-          "data and security",
-          "google",
-          "security",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9616
-      },
-      {
-        "id": "1db296dc8b5d2624",
-        "title": "Kevin Hartz’s A* just closed its third fund with $450M",
-        "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778611505000,
-        "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
-        "tags": [
-          "startups",
-          "venture",
-          "a* capital",
-          "in brief",
-          "kevin hartz"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7292
-      },
-      {
-        "id": "1229ab5413b11d79",
-        "title": "GM is firing 600 IT workers and hiring AI engineers. It calls it transformation, not termination.",
-        "url": "https://thenextweb.com/news/gm-layoffs-ai-skills-swap-auto-industry",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778611090000,
-        "summary": "General Motors is laying off 500 to 600 salaried IT workers and replacing them with engineers who know how to build AI systems. The cuts, centred in Austin, Texas, and Warren, Michigan, represent more than 10 per cent of GM’s IT department. The company is not reducing headcount for cost savings. It is executing what […] This story continues at The Next Web",
-        "tags": [
-          "cars",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9561
-      },
-      {
-        "id": "3d458f35ae008c6e",
-        "title": "Unauthorized Anthropic stock sales and investment scams",
-        "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778610044000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.017
-      },
-      {
-        "id": "8d41e088dfdf75b0",
-        "title": "Google Is Betting Its Entire Future on AI. Will It Pay Off?",
-        "url": "https://www.cnet.com/tech/services-and-software/google-i-o-2026-android-show-gemini-commentary/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778609700000,
-        "summary": "Commentary: Between Android 17 and the new Googlebooks, Gemini is the new Google.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8717
-      },
-      {
-        "id": "140f28de63ad1941",
-        "title": "Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children (Bloomberg)",
-        "url": "https://www.techmeme.com/260512/p42#a260512p42",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778609400000,
-        "summary": "Bloomberg: Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children — OpenAI's Sam Altman testified that he was “extremely uncomfortable” with Elon Musk's insistence that he have complete control …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9966
-      },
-      {
-        "id": "e79d613791a7fa8b",
-        "title": "AI isn't paying off in the way companies think. Layoffs driven by automation are failing to generate returns, study finds",
-        "url": "https://www.reddit.com/r/technology/comments/1tb9lmd/ai_isnt_paying_off_in_the_way_companies_think/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778609164000,
-        "summary": "submitted by /u/Krankenitrate [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0213
-      },
-      {
-        "id": "6cc3a2412f895d83",
-        "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-        "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778609115000,
-        "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7601
-      },
-      {
-        "id": "9aadb87b5030564f",
-        "title": "Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void (Yazhou Sun/Bloomberg)",
-        "url": "https://www.techmeme.com/260512/p41#a260512p41",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778609107000,
-        "summary": "Yazhou Sun / Bloomberg: Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void — Anthropic PBC identified a number of secondary marketplaces as unauthorized sellers of the company's shares, telling investors that buying the stock won't work.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9986
       }
     ],
     "science": [
+      {
+        "id": "0f056c27e8d9ed8b",
+        "title": "The cinema effect: Turning films into a gateway to science",
+        "url": "https://phys.org/news/2026-05-cinema-effect-gateway-science.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778644801000,
+        "summary": "The sci-fi film Project Hail Mary, currently in theaters, is capturing the attention of both audiences and the scientific community for its science-based content. It manages to engage viewers with complex, cutting-edge topics—from astrophysics to language—without sacrificing entertainment. Yet not all films strike this balance. Many have promoted inaccurate or even misleading scientific ideas, and",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0114
+      },
+      {
+        "id": "931da1dc9d109244",
+        "title": "Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance",
+        "url": "https://arxiv.org/abs/2605.11001",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.11001v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) are a simple surrogate-modelling paradigm for partial differential equations, but their standard strong-form residual formulation is ill suited to the shallow water equations (SWE). It cannot enforce local conservation, handle discontinuities, or leverage the boundary-conforming unstructured meshes used in rea",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1245
+      },
+      {
+        "id": "b2c06150c3ed6e87",
+        "title": "A Switching System Theory of Q-Learning with Linear Function Approximation",
+        "url": "https://arxiv.org/abs/2605.11021",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778644800000,
+        "summary": "arXiv:2605.11021v1 Announce Type: new Abstract: This paper develops a switching-system interpretation of Q-learning with linear function approximation (LFA) based on the joint spectral radius (JSR). We derive an exact linear switched model for the mean dynamics and relate convergence to stability of the corresponding switched system. The same construction is then used for stochastic linear Q-learn",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0412
+      },
       {
         "id": "b5e1b5abccf8a99d",
         "title": "Image: Australia's cloudy beauty",
@@ -3659,51 +3694,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0185
-      },
-      {
-        "id": "b5eb29d88c376442",
-        "title": "Hidden changes in plant reproduction reveal new clues about evolution of self-fertilization",
-        "url": "https://phys.org/news/2026-05-hidden-reproduction-reveal-clues-evolution.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778596802000,
-        "summary": "In flowering plants, the transition from cross-fertilization (outcrossing) to self-fertilization has evolved repeatedly across species. This shift is often accompanied by a well-known set of traits collectively called the \"selfing syndrome,\" including smaller flowers and reduced scent. However, a new study highlights that important but largely overlooked changes also occur at the microscopic level",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
-      },
-      {
-        "id": "8a066abee8f85b4b",
-        "title": "SpaceX Starship completes Wet Dress Rehearsal, gets ready for launch",
-        "url": "https://www.theregister.com/science/2026/05/12/spacex-starship-completes-wet-dress-rehearsal-gets-ready-for-launch/5238767",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1778595769000,
-        "summary": "Launch of Musk's monster rocket could be in May",
-        "tags": [
-          "science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1178
-      },
-      {
-        "id": "735b192dfd5776c8",
-        "title": "Atoms vibrate on circular paths—with an unexpected twist",
-        "url": "https://phys.org/news/2026-05-atoms-vibrate-circular-paths-unexpected.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778594404000,
-        "summary": "An international team of researchers, including scientists from HZDR and Fritz Haber Institute of the Max Planck Society, for the first time directly observed how angular momentum is transferred and conserved within a crystal lattice. Using intense terahertz laser pulses, the researchers were able to selectively control these processes, which unveiled a surprising effect: During the angular moment",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0859
       }
     ]
   },
