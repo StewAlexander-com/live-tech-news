@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T23:43:11.450690+00:00",
+  "generated_at": "2026-05-13T00:04:08.781809+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -512,6 +512,19 @@
         "score": 0.7019
       },
       {
+        "id": "762ac79b8d5523e3",
+        "title": "New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)",
+        "url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
+        "source": "Daring Fireball",
+        "lane": "gadgets",
+        "published_ts": 1778611932000,
+        "summary": "Juli Clover, MacRumors: To comply with the EU’s Digital Markets Act, Apple is letting third-party wearables access some features that have historically been limited to the Apple Watch and AirPods. Proximity pairing — Third-party earbuds are able to use proximity pairing to connect to an iPhone, similar to the AirPods. Bringing a set of earbuds that support the feature near an iPhone will initiate ",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9771
+      },
+      {
         "id": "b81456ab253dcaea",
         "title": "Waymo recalls nearly 4,000 robotaxis after a car drove directly into a flooded road",
         "url": "https://www.engadget.com/2171165/waymo-recalls-nearly-4000-robotaxis-after-a-car-drove-directly-into-a-flooded-road/",
@@ -911,22 +924,6 @@
         "published_ts": 1778605200000,
         "summary": "The Live Threat Detection feature is also getting a major upgrade.",
         "tags": [
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.699
-      },
-      {
-        "id": "96ca32bda5dcd38a",
-        "title": "Googlebooks are the Android-based evolution of the Chromebook",
-        "url": "https://www.engadget.com/2170814/googlebooks-are-the-android-based-evolution-of-the-chromebook/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778605200000,
-        "summary": "Google's only giving us a tease of what it has planned for its new laptop lineup.",
-        "tags": [
-          "laptops",
           "google"
         ],
         "paywall": false,
@@ -1573,6 +1570,25 @@
         "score": 0.8441
       },
       {
+        "id": "df94760ad5700369",
+        "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+        "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778605200000,
+        "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+        "tags": [
+          "ai",
+          "apps",
+          "google",
+          "vibe coding",
+          "widgets"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6528
+      },
+      {
         "id": "dcfdf887678680f6",
         "title": "eBay Rejects GameStop's $56 Billion Takeover As 'Neither Credible Nor Attractive'",
         "url": "https://slashdot.org/story/26/05/12/1629248/ebay-rejects-gamestops-56-billion-takeover-as-neither-credible-nor-attractive?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1866,25 +1882,38 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8475
-      },
-      {
-        "id": "8a240e6665e7e99b",
-        "title": "Bambu Lab is abusing the open source social contract",
-        "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1778597681000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:166"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2918
       }
     ],
     "ai": [
+      {
+        "id": "8084694345ea5aa8",
+        "title": "Google Unveils Googlebook, a New AI Laptop Built Around Gemini",
+        "url": "https://www.macrumors.com/2026/05/12/google-unveils-googlebook/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1778630458000,
+        "summary": "Google today announced a new series of Googlebook laptops that will be built with Gemini at the core. Googlebooks will run software built on a foundation that combines Android and ChromeOS. Google says the new laptops are designed for Gemini Intelligence for a more personalized and proactive experience. Instead of a cursor, Googlebooks have a Magic Pointer that users can wiggle to activate Gemini.",
+        "tags": [
+          "android",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0789
+      },
+      {
+        "id": "d4fbea75ac3ea452",
+        "title": "Sources: Anthropic is in talks to raise between $30B and $50B in a funding round that would value it at up to $950B (Mike Isaac/New York Times)",
+        "url": "https://www.techmeme.com/260512/p58#a260512p58",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778629501000,
+        "summary": "Mike Isaac / New York Times: Sources: Anthropic is in talks to raise between $30B and $50B in a funding round that would value it at up to $950B — The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9939
+      },
       {
         "id": "52c35128976de1a2",
         "title": "Princeton faculty votes to require proctoring in all in-person exams starting this summer, reversing an 1893 policy amid concerns about AI-fueled cheating (Douglas Belkin/Wall Street Journal)",
@@ -2562,6 +2591,25 @@
         "score": 0.9616
       },
       {
+        "id": "1db296dc8b5d2624",
+        "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+        "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778611505000,
+        "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
+        "tags": [
+          "startups",
+          "venture",
+          "a* capital",
+          "in brief",
+          "kevin hartz"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7292
+      },
+      {
         "id": "1229ab5413b11d79",
         "title": "GM is firing 600 IT workers and hiring AI engineers. It calls it transformation, not termination.",
         "url": "https://thenextweb.com/news/gm-layoffs-ai-skills-swap-auto-industry",
@@ -2780,60 +2828,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8546
-      },
-      {
-        "id": "cce06eb18a1cd03b",
-        "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
-        "url": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778607209000,
-        "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
-        "tags": [
-          "transportation",
-          "autonomous vehicles",
-          "exclusive",
-          "potholes",
-          "samsara"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7985
-      },
-      {
-        "id": "7b7098b77000f96f",
-        "title": "Potholes cost cities millions. This company is using AI and trucks to fix them.",
-        "url": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778607209000,
-        "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
-        "tags": [
-          "transportation",
-          "autonomous vehicles",
-          "exclusive",
-          "potholes",
-          "samsara"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8069
-      },
-      {
-        "id": "0bd51c576a526911",
-        "title": "Anthropic announces 12 Claude plugins for the legal sector, including a \"commercial counsel\" tool for reviewing vendor agreements and a bar exam study tool (Rachel Metz/Bloomberg)",
-        "url": "https://www.techmeme.com/260512/p36#a260512p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778606707000,
-        "summary": "Rachel Metz / Bloomberg: Anthropic announces 12 Claude plugins for the legal sector, including a “commercial counsel” tool for reviewing vendor agreements and a bar exam study tool — Anthropic PBC is taking steps to help legal professionals carry out more tasks using its Claude chatbot …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9858
       }
     ],
     "science": [
+      {
+        "id": "1f646365ad58950c",
+        "title": "Gravitational wave detectors can now 'autotune' signals to harmonize the heavens",
+        "url": "https://phys.org/news/2026-05-gravitational-detectors-autotune-harmonize-heavens.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778630402000,
+        "summary": "Gravitational wave researchers working on the world's most sensitive scientific instruments have found a way to tune their detectors using a process akin to the pitch-correction used in music production.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0187
+      },
       {
         "id": "400c8018cf819d49",
         "title": "Old newspapers track porpoise populations across the Baltic Sea",
@@ -3721,21 +3733,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0114
-      },
-      {
-        "id": "4cbc01287fa5a459",
-        "title": "Two proteins, one goal: New findings on stem cell differentiation",
-        "url": "https://phys.org/news/2026-05-proteins-goal-stem-cell-differentiation.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778590809000,
-        "summary": "Stem cells are the original cell type from which all other cells and tissues in the body develop through a very tightly regulated process. However, how stem cells differentiate in addition to gene-control systems, such as canonical REST repression, which prevents gene expression in inappropriate tissues, has remained unknown.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0191
       }
     ]
   },
