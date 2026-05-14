@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T16:19:55.236325+00:00",
+  "generated_at": "2026-05-14T16:25:59.096401+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1961,6 +1961,54 @@
     ],
     "ai": [
       {
+        "id": "dcf01fed9c4f5670",
+        "title": "OpenAI says hackers stole some data after latest code security issue",
+        "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778775920000,
+        "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+        "tags": [
+          "security",
+          "cybercrime",
+          "cybersecurity",
+          "hackers",
+          "open source",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7478
+      },
+      {
+        "id": "163be4ddae7ebcb0",
+        "title": "New Driver for the Old Griffin PowerMate",
+        "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1778775654000,
+        "summary": "James Lockman: This small driver enables the Griffin PowerMate, a nifty little device from days gone by. What does the PowerMate do? It is a knob that you can twist or that you can press. That’s it. It also has a blue LED in the base that can change intensity based on what you’re doing. When it was released, it was intended to assist video and audio production by adding a scrollable knob to your d",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0782
+      },
+      {
+        "id": "0ff6c2bfaf26c7b1",
+        "title": "Six Popular iPhone Apps Now Available on CarPlay",
+        "url": "https://www.macrumors.com/2026/05/14/four-popular-iphone-apps-now-on-carplay/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1778775000000,
+        "summary": "Apple's CarPlay system for accessing iPhone apps on a vehicle's dashboard screen has received six popular apps in recent weeks: ChatGPT, Perplexity, Grok, Google Meet, WhatsApp, and the indie artist streaming platform Audiomack. Make sure you have the latest version of each app and they will automatically appear on CarPlay. ChatGPT Starting with iOS 26.4, CarPlay supports voice-based conversationa",
+        "tags": [
+          "carplay"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9949
+      },
+      {
         "id": "d4a9eedd4a77055e",
         "title": "Apple Alerted to macOS Security Vulnerability Uncovered With AI Tool",
         "url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/",
@@ -2867,55 +2915,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9652
-      },
-      {
-        "id": "4836895bf72660a1",
-        "title": "Bitcoin trader recovers $400,000 using Claude AI after losing wallet password 11 years ago — bot tried 3.5 trillion passwords before decrypting an old wallet backup",
-        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778753996000,
-        "summary": "An X user shared how they were able to recover the password on their old cryptocurrency wallet using Claude and some luck.",
-        "tags": [
-          "cryptocurrency",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0141
-      },
-      {
-        "id": "8ee0232ae5b40a7a",
-        "title": "US reportedly allows 10 Chinese companies to buy NVIDIA's coveted H200 AI chips",
-        "url": "https://www.engadget.com/2172686/us-reportedly-allows-10-chinese-companies-to-buy-nvidia-h200-chips/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778753570000,
-        "summary": "But Reuters says NVIDIA has yet to make any deliveries.",
-        "tags": [
-          "big tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7498
-      },
-      {
-        "id": "038ed11046eb1cf6",
-        "title": "Confidentiality is not security: Why the real AI runtime crisis Is the Authorization Gap",
-        "url": "https://www.techradar.com/pro/confidentiality-is-not-security-why-the-real-ai-runtime-crisis-is-the-authorization-gap",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778753360000,
-        "summary": "The real runtime crisis is the Authorization Gap — the absence of any enforcement point that decides what an AI identity is permitted to do at the moment it tries to act.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9043
       }
     ],
     "science": [
+      {
+        "id": "da2fde64e994362c",
+        "title": "How much is a bat worth? Their deaths cost taxpayers and the wider economy",
+        "url": "https://phys.org/news/2026-05-worth-deaths-taxpayers-wider-economy.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778775913000,
+        "summary": "Most Americans tend to think about bats only around Halloween, but the U.S. economy benefits from these furry flying mammals every day.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
+      {
+        "id": "2a4411bf56b23717",
+        "title": "Subnautica 2 is already having a huge launch on Steam",
+        "url": "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1778775769000,
+        "summary": "Subnautica 2, the new underwater survival game from Unknown Worlds, took less than an hour to rocket up Steam's charts. The game has already sold more than 1 million copies, according to a press release, and as of this writing, Steam's charts show that Subnautica 2 is currently the fourth-most played game on the platform […]",
+        "tags": [
+          "entertainment",
+          "gaming",
+          "news"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8545
+      },
       {
         "id": "2a8f1b8f07c651d6",
         "title": "Sex-related differences in hoverfly eyes give insight into their aerodynamic powers",
@@ -3797,36 +3831,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
-      },
-      {
-        "id": "ed6fc0cab05383e6",
-        "title": "A timeline of destruction and discovery: 180 years of 'plant destroyer' research",
-        "url": "https://phys.org/news/2026-05-timeline-destruction-discovery-years-destroyer.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778705377000,
-        "summary": "A microscopic \"plant destroyer\" not only helped trigger one of the deadliest famines in modern history but also reshaped global agriculture and gave birth to an entirely new scientific discipline. Now, nearly 180 years after the Irish Potato Famine devastated Ireland and altered the course of human history, researchers are tracing the remarkable scientific journey of the organism behind it: Phytop",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "56118c9e7765c211",
-        "title": "Newly discovered myxobacterium in a cyanobacterial community performs photosynthesis",
-        "url": "https://phys.org/news/2026-05-newly-myxobacterium-cyanobacterial-community-photosynthesis.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778704821000,
-        "summary": "Researchers at the Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures have conducted high-resolution investigations of the so-called cyanosphere, the \"housing community\" of cyanobacteria. The focus was on identifying previously unknown associated bacteria that play a crucial role in the vitality of the cyanobacteria. Particular attention was paid to a newly discovered myx",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ]
   },
