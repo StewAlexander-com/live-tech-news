@@ -1,7 +1,54 @@
 {
-  "generated_at": "2026-05-14T17:28:19.589468+00:00",
+  "generated_at": "2026-05-14T17:47:11.280587+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "a6c9fbb3f294435e",
+        "title": "Microsoft is working on a fix to downgraded GPU drivers in Windows Update — new system uses multiple IDs",
+        "url": "https://www.tomshardware.com/software/windows/microsoft-is-working-on-a-fix-to-downgraded-gpu-drivers-in-windows-update-new-system-uses-multiple-ids",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1778780482000,
+        "summary": "Microsoft has finally confirmed that Windows Update downgrades GPU drivers in certain circumstances. A partial fix is coming later this year to reduce the chances of driver downgrades occurring on newer devices.",
+        "tags": [
+          "windows",
+          "software",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9482
+      },
+      {
+        "id": "f6ae741e054d1b17",
+        "title": "Use this map to find the data centers in your backyard",
+        "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778780400000,
+        "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The Dalles, a city near the Washington state […]",
+        "tags": [
+          "ai",
+          "policy",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7902
+      },
+      {
+        "id": "5eb3760a6125f5d0",
+        "title": "Klack",
+        "url": "https://tryklack.com/",
+        "source": "Daring Fireball",
+        "lane": "gadgets",
+        "published_ts": 1778780365000,
+        "summary": "Well, this is ridiculous. Klack is a $5 Mac utility by Henrik Ruscon that simulates mechanical keyboard clacking while you type. Absurd. My keyboard makes its own beautiful sounds as I type. So of course I went to buy a copy immediately, because I love an absurd utility, that serves no purpose other than fun, crafted with exquisite attention to detail. But when I did, the Mac App Store informed me",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0773
+      },
       {
         "id": "29919a031a4dc5d0",
         "title": "Over a million WordPress sites hit in plugin flaw — so patch now or face the consequences",
@@ -952,52 +999,27 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0186
-      },
-      {
-        "id": "3597b10dff98cd30",
-        "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
-        "url": "https://www.macrumors.com/2026/05/14/oled-ipad-mini-release-date-pricing-what-expect/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1778760537000,
-        "summary": "According to the latest rumors, Apple is close to launching its next-generation iPad mini. So what should we expect from the successor to the iPad mini 7 that Apple released over a year ago? Read on to find out. Processor and Performance Apple is working on a next-generation version of the iPad mini (codename J510/J511) that features the A19 Pro chip, according to information found in code that Ap",
-        "tags": [
-          "featured",
-          "ipad mini",
-          "oled"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0789
-      },
-      {
-        "id": "78e1eb9aeaa9f442",
-        "title": "We Tested 33 New Phones to See Which Charge Fastest and Crown 2 Winners",
-        "url": "https://www.cnet.com/tech/mobile/cnet-lab-exclusive-fastest-wired-wireless-charging-phone/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778760058000,
-        "summary": "We ran 33 phones from Apple, Google, OnePlus, Samsung, Motorola and more through our charging tests. The winners are given our CNET Lab Award.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7968
-      },
-      {
-        "id": "db052af00c269919",
-        "title": "41 of the Best Movies on Netflix You Should Stream Now",
-        "url": "https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778760057000,
-        "summary": "Check out some great, newly-arrived films like Bugonia and Mrs. Harris Goes To Paris on Netflix now.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7968
       }
     ],
     "innovation": [
+      {
+        "id": "92f821e990e199e9",
+        "title": "These useful apps are why you should care about Docker",
+        "url": "https://www.makeuseof.com/these-useful-apps-are-why-you-should-care-about-docker/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778779818000,
+        "summary": "I used to ignore Docker completely, now I kind of get the hype.",
+        "tags": [
+          "productivity",
+          "docker",
+          "home server",
+          "open source"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8454
+      },
       {
         "id": "85d71c4bf6d254ec",
         "title": "Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019 (Jordan Novet/CNBC)",
@@ -1106,6 +1128,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7432
+      },
+      {
+        "id": "ecaac9867f64fe05",
+        "title": "‘A’ Grades Are Suddenly Everywhere Since the Arrival of ChatGPT",
+        "url": "https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778775918000,
+        "summary": "submitted by /u/joe4942 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9254
       },
       {
         "id": "6633bcf0b499f88b",
@@ -1919,37 +1956,56 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8965
-      },
-      {
-        "id": "f9359338df1d4360",
-        "title": "Blackstone Digital Infrastructure Trust raised $1.75B in its US IPO, selling 87.5M shares at $20 each, and plans to acquire data centers worth $250M to $1.5B (Subrat Patnaik/Bloomberg)",
-        "url": "https://www.techmeme.com/260514/p10#a260514p10",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778754034000,
-        "summary": "Subrat Patnaik / Bloomberg: Blackstone Digital Infrastructure Trust raised $1.75B in its US IPO, selling 87.5M shares at $20 each, and plans to acquire data centers worth $250M to $1.5B — Blackstone Digital Infrastructure Trust Inc. raised $1.75 billion in a US initial public offering, as investors' appetite …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9886
-      },
-      {
-        "id": "25e50292dc60db1a",
-        "title": "Bluetti says home solar power is now ‘plug-and-play’ — I went to the Balco launch to see if it’s really that simple",
-        "url": "https://www.techradar.com/pro/bluetti-says-home-solar-power-is-now-plug-and-play-i-went-to-the-balco-launch-to-see-if-its-really-that-simple",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1778754000000,
-        "summary": "Has Bluetti cracked the biggest barrier to home solar power with its new 'plug-and-play' balcony systems?",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9074
       }
     ],
     "ai": [
+      {
+        "id": "e1007ed3d5cf5d30",
+        "title": "New AI system classifies India rainfall better, cutting false alarms and missed heavy rain",
+        "url": "https://phys.org/news/2026-05-ai-india-rainfall-false-alarms.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1778780084000,
+        "summary": "AI can predict rainfall intensity better than several widely used forecasting models in tests using historical weather data from India. The new model reported in the International Journal of Mobile Communications shows that combining different forms of AI, along with advanced data-cleaning and optimization techniques, can make rainfall prediction more accurate and reliable, particularly when expre",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0972
+      },
+      {
+        "id": "a4fcb3493b7d8eec",
+        "title": "Google's Magic Pointer turns your cursor into an AI assistant, and you can test it now",
+        "url": "https://www.androidpolice.com/try-the-googlebooks-magic-pointer-right-now/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1778779838000,
+        "summary": "Or wait until the Googlebook's arrival this fall",
+        "tags": [
+          "google",
+          "utilities"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0743
+      },
+      {
+        "id": "e2b5da2d7dd82365",
+        "title": "97% of marketers use AI daily – 78% of consumers wish they wouldn’t",
+        "url": "https://thenextweb.com/news/canva-ai-marketing-consumer-trust-gap-report",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1778779634000,
+        "summary": "Nearly every marketer in the world is now using AI to make creative work. Nearly every consumer would still rather that a person had made it. That tension, between the industry’s enthusiasm and the public’s unease, is the central finding of Canva’s State of Marketing and AI report for 2026, and it suggests that […] This story continues at The Next Web",
+        "tags": [
+          "market intelligence",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9658
+      },
       {
         "id": "715d73c76311113d",
         "title": "The ChatGPT desktop app for Mac just got hit with a security breach",
@@ -1964,6 +2020,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7023
+      },
+      {
+        "id": "984782ca4252d380",
+        "title": "BCG is training its AI sales agent on what not to do – and that might be the smarter bet",
+        "url": "https://thenextweb.com/news/bcg-jamie-ai-agent-sales-best-worst-sellers",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1778778697000,
+        "summary": "Boston Consulting Group is doing something slightly unusual with its new AI sales agent. It is teaching it how to fail. The agent, called Jamie, is being trained not only on the call transcripts, engagement patterns, and conversational habits of BCG’s strongest-performing sellers, but also on the behaviours that did not work, the approaches […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "insider"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.961
       },
       {
         "id": "dc14c136b804e99e",
@@ -1993,6 +2065,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1325
+      },
+      {
+        "id": "88d98d438b4bc54a",
+        "title": "Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778777832000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:18"
+        ],
+        "paywall": true,
+        "impact": "normal",
+        "score": 0.775
       },
       {
         "id": "a48f6c5086e55cd9",
@@ -2433,6 +2521,26 @@
         "score": 0.8026
       },
       {
+        "id": "b59b480e584d2ea0",
+        "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+        "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778767200000,
+        "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+        "tags": [
+          "ai",
+          "fundraising",
+          "ai data",
+          "mercor",
+          "nava ventures",
+          "wirestock"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.751
+      },
+      {
         "id": "a4f3a43b15d51bd3",
         "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
         "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
@@ -2807,104 +2915,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1312
-      },
-      {
-        "id": "5a212f4dbf305f2f",
-        "title": "Google I/O 2026: What Google's AI Past Tells Us About Its Future",
-        "url": "https://www.cnet.com/tech/services-and-software/google-i-o-2026-ai-releases-over-the-past-year/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778760038000,
-        "summary": "Google's AI has come a long way since last year's software conference.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8605
-      },
-      {
-        "id": "5cf2479615fe23fe",
-        "title": "70% of Americans oppose data centers near their homes, now less popular than nuclear power plants — opposition towards nearby AI infrastructure heating up as tech companies ramp up projects to acquire more compute",
-        "url": "https://www.tomshardware.com/tech-industry/big-tech/70-percent-of-americans-oppose-data-centers-near-their-homes-now-less-popular-than-nuclear-power-plants-opposition-towards-nearby-ai-infrastructure-heating-up-as-tech-companies-ramp-up-projects-to-acquire-more-compute",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778758991000,
-        "summary": "A new survey revealed that 7 out of 10 Americans are against data center developers building projects within the vicinity of their homes. This is a massive increase from the late 2025 survey which showed that 47% of people are against AI data centers near their homes.",
-        "tags": [
-          "big tech",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.025
-      },
-      {
-        "id": "e1ecdb7f27de5fb7",
-        "title": "'We are making clear, strategic investments': Cisco cuts 4,000 jobs, even as AI orders surge",
-        "url": "https://www.techradar.com/pro/we-are-making-clear-strategic-investments-cisco-cuts-4-000-jobs-even-as-ai-orders-surge",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778758800000,
-        "summary": "Cisco CEO Chuck Robbins announces plans to lay off 4,000 workers as the company shifts its focus to high-growth areas.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9175
-      },
-      {
-        "id": "1a784ff89b74267e",
-        "title": "The CMA opens its fourth Strategic Market Status case into Microsoft",
-        "url": "https://thenextweb.com/news/cma-microsoft-sms-investigation-business-software",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778758345000,
-        "summary": "Windows, Office, Teams, Copilot, server operating systems, and the cloud licensing the regulator already flagged last July. A nine-month investigation, a February 2027 designation decision, and the first CMA SMS case to walk straight through the door the cloud market inquiry left ajar. The UK’s Competition and Markets Authority has opened a Strategic Market Status […] This story continues at The N",
-        "tags": [
-          "microsoft",
-          "insider"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8767
-      },
-      {
-        "id": "1077f29b41427612",
-        "title": "Don't let AI enthusiasm lock you into outdated infrastructure",
-        "url": "https://www.techradar.com/pro/dont-let-ai-enthusiasm-lock-you-into-outdated-infrastructure",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778756580000,
-        "summary": "Outdated buying habits are creating an AI infrastructure trap -flexibility now prevents costly lock-in later.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9087
-      },
-      {
-        "id": "050543029f60e706",
-        "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
-        "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778756458000,
-        "summary": "Xi meeting may force Trump to pivot on semiconductor tariffs and Taiwan.",
-        "tags": [
-          "ai",
-          "policy",
-          "apple",
-          "artificial intelligence",
-          "donald trump",
-          "elon musk"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0684
       }
     ],
     "science": [
+      {
+        "id": "959a251b2699ae1c",
+        "title": "Summers are getting longer each year, and it isn't all fun and games",
+        "url": "https://phys.org/news/2026-05-summers-longer-year-isnt-fun.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778780606000,
+        "summary": "Do you have the sense that summers feel different than when you were younger? That they start earlier, arrive quickly and remain intense until the fall? If you live in the mid-latitudes of either the Northern or Southern Hemispheres, chances are you answered yes.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0188
+      },
+      {
+        "id": "720aa2ad44a6cde5",
+        "title": "A 'super El Niño?' Why it's too early to forecast one with certainty, but not too soon to prepare",
+        "url": "https://phys.org/news/2026-05-super-el-nio-early-certainty.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778780536000,
+        "summary": "Talk of a \"super El Niño\" developing in 2026 is gaining momentum, with concerns rising that this climate pattern could bring extreme rainfall, heat, drought and destructive flooding around the world.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0184
+      },
       {
         "id": "a94d7fe69d1fe5e4",
         "title": "NASA's Psyche spacecraft buzzing Mars on its way to a rare metal asteroid",
@@ -3802,34 +3845,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0142
-      },
-      {
-        "id": "9dd11a3debe87008",
-        "title": "In quantum gravity, the cosmological constant may behave similar to the quantum Hall effect",
-        "url": "https://phys.org/news/2026-05-quantum-gravity-cosmological-constant-similar.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778716804000,
-        "summary": "Trying to solve quantum gravity is frustrating. We have made tremendous progress in quantum theory, but it seems that every time we find a new quantum technique, there's a reason it doesn't quite work with gravity. Take, for example, the case of quantum fluctuations and renormalization.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0964
-      },
-      {
-        "id": "ff7b4e846aee4898",
-        "title": "Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
-        "url": "https://www.nature.com/articles/s41586-026-10620-6",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1778716800000,
-        "summary": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8215
       }
     ]
   },
