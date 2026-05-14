@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-05-14T12:17:47.977640+00:00",
+  "generated_at": "2026-05-14T12:21:50.169733+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "9d01f3568959c2c1",
+        "title": "Europe wants to dodge troublesome regions by building undersea cables beneath the Arctic",
+        "url": "https://www.techradar.com/pro/europe-wants-to-dodge-troublesome-regions-by-building-undersea-cables-beneath-the-arctic",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778761200000,
+        "summary": "The EU wants to avoid regions of instability by putting the internet under the Arctic.",
+        "tags": [
+          "pro",
+          "internet",
+          "computing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8495
+      },
+      {
+        "id": "b67ac5f46dd83946",
+        "title": "How AR tech augments STEM teaching",
+        "url": "https://phys.org/news/2026-05-ar-tech-augments-stem.html",
+        "source": "Phys.org",
+        "lane": "gadgets",
+        "published_ts": 1778761056000,
+        "summary": "Easy-to-use adaptive immersive technologies incorporating augmented reality (AR) can motivate learning, social engagement and cognitive development in early childhood, according to new research.",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0186
+      },
       {
         "id": "3597b10dff98cd30",
         "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
@@ -925,35 +957,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7022
-      },
-      {
-        "id": "03e36c98f32cad6e",
-        "title": "The FCC Banned Foreign-Made Routers. Here’s Why I Would Hold Off On Buying One",
-        "url": "https://www.cnet.com/home/internet/the-fcc-banned-foreign-made-routers-heres-why-i-would-hold-off-on-buying-one/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778705700000,
-        "summary": "Nearly every router is affected by the FCC’s unprecedented ban. Until we learn more, you should wait on a new purchase if you can.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.811
-      },
-      {
-        "id": "5901e5a71fd81f4d",
-        "title": "Trump Phone Will Finally Ship This Week, CEO Says",
-        "url": "https://www.cnet.com/tech/mobile/trump-phone-will-finally-ship-this-week-mobile-ceo-says/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778704888000,
-        "summary": "The T1 phone is shipping at last, according to an emailed confirmation from the CEO of Trump Mobile.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8075
       }
     ],
     "innovation": [
+      {
+        "id": "5e91eaf2a6150a0e",
+        "title": "Spotify says it will adopt Apple's HTTP Live Streaming tech for video podcasts later in 2026, helping creators distribute podcasts on Apple Podcasts and Spotify (Zac Hall/9to5Mac)",
+        "url": "https://www.techmeme.com/260514/p15#a260514p15",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778761235000,
+        "summary": "Zac Hall / 9to5Mac: Spotify says it will adopt Apple's HTTP Live Streaming tech for video podcasts later in 2026, helping creators distribute podcasts on Apple Podcasts and Spotify — Spotify is making two video podcast announcements today, including one related to Apple's big video podcast enhancement.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9996
+      },
       {
         "id": "69c87c1266e7bf6c",
         "title": "Cisco posts record revenue, then cuts 4,000 jobs",
@@ -1877,21 +1896,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8477
-      },
-      {
-        "id": "c58e165037c1618e",
-        "title": "Fragnesia Made Public As Latest Linux Local Privilege Escalation Vulnerability",
-        "url": "https://linux.slashdot.org/story/26/05/13/1621258/fragnesia-made-public-as-latest-linux-local-privilege-escalation-vulnerability?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1778698800000,
-        "summary": "A new Linux local privilege escalation flaw called Fragnesia has been disclosed as a Dirty Frag-like vulnerability, allowing arbitrary byte writes into the kernel page cache of read-only files through a separate ESP/XFRM logic bug. Phoronix reports: Proof of concept code for Fragnesia is already out there. There is a two-line patch for addressing the issue within the Linux kernel's skbuff.c code. ",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0471
       }
     ],
     "ai": [
