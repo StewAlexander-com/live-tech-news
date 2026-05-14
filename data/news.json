@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T19:26:38.702849+00:00",
+  "generated_at": "2026-05-14T19:28:39.628089+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2216,6 +2216,19 @@
         "score": 1.1299
       },
       {
+        "id": "e6f8b47078c59a40",
+        "title": "The Fitbit Air's Bare-Bones Design Is Hiding a Much Bigger Strategy",
+        "url": "https://www.cnet.com/tech/mobile/fitbit-air-google-coach-fitness-tracker-band-first-impressions/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778781540000,
+        "summary": "Google's $99 screenless Whoop rival may get users in the door, but the company is betting AI coaching features will keep them coming back.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8605
+      },
+      {
         "id": "b0354970290c1dbb",
         "title": "Graphon AI exits stealth with $8.3M to build the data layer that LLMs are missing",
         "url": "https://thenextweb.com/news/graphon-ai-pre-model-intelligence-layer-seed-funding",
@@ -2933,22 +2946,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7381
-      },
-      {
-        "id": "494c2bd00898630d",
-        "title": "Jumia is cutting another 10% of staff. AI is the framing. Profitability is the deadline.",
-        "url": "https://thenextweb.com/news/jumia-ai-layoffs-profitability-africa-ecommerce",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778765632000,
-        "summary": "Francis Dufay told Bloomberg TV the African e-commerce company is implementing AI across operations, logistics, finance, and marketing, and intends to be profitable by the end of the year. The 200 jobs disappearing now sit on top of a workforce that has already shrunk by more than half since 2022. Jumia Technologies is preparing to […] This story continues at The Next Web",
-        "tags": [
-          "africa",
-          "business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9518
       }
     ],
     "science": [
@@ -3772,6 +3769,23 @@
         "score": 1.0043
       },
       {
+        "id": "15b4a7c08f56ad63",
+        "title": "WriteSAE: Sparse Autoencoders for Recurrent State",
+        "url": "https://arxiv.org/abs/2605.12770",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12770v1 Announce Type: new Abstract: We introduce WriteSAE, the first sparse autoencoder that decomposes and edits the matrix cache write of state-space and hybrid recurrent language models, where residual SAEs cannot reach. Existing SAEs read residual streams, but Gated DeltaNet, Mamba-2, and RWKV-7 write to a $d_k \\times d_v$ cache through rank-1 updates $k_t v_t^\\top$ that no vector ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7794
+      },
+      {
         "id": "4467603d4133228c",
         "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction",
         "url": "https://arxiv.org/abs/2605.12683",
@@ -3850,21 +3864,6 @@
         "tags": [
           "cs.ai",
           "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0339
-      },
-      {
-        "id": "b91b30d3bbaa42c7",
-        "title": "Constraint-Aware Flow Matching: Decision Aligned End-to-End Training for Constrained Sampling",
-        "url": "https://arxiv.org/abs/2605.12754",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778731200000,
-        "summary": "arXiv:2605.12754v1 Announce Type: new Abstract: Deep generative models provide state-of-the-art performance across a wide array of applications, with recent studies showing increasing applicability for science and engineering. Despite a growing corpus of literature focused on the integration of physics-based constraints into the generation process, existing approaches fail to enforce strict constr",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
