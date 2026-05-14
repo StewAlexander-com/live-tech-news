@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T20:08:51.315772+00:00",
+  "generated_at": "2026-05-14T20:09:30.417245+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3820,35 +3820,39 @@
         "score": 1.0043
       },
       {
-        "id": "57865fcd05ba3af2",
-        "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
-        "url": "https://arxiv.org/abs/2605.13171",
-        "source": "arXiv cs.AI",
+        "id": "4467603d4133228c",
+        "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction",
+        "url": "https://arxiv.org/abs/2605.12683",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778731200000,
-        "summary": "arXiv:2605.13171v1 Announce Type: new Abstract: As automated reasoning systems advance rapidly, there is a growing need for research-level formal mathematical problems to accurately evaluate their capabilities. To address this, we present Formal Conjectures, an evolving benchmark of currently 2615 mathematical problem statements formalized in Lean 4. Sourced from areas of active mathematical resea",
+        "summary": "arXiv:2605.12683v1 Announce Type: new Abstract: Reconstructing nonlinear dynamical systems (DS) from data (DSR) is a fundamental challenge in science and engineering, but it inherently relies on sequential models. Recent breakthroughs for sequential models have produced algorithms that parallelize computation along sequence length $T$, achieving logarithmic time complexity, $\\mathcal{O}(\\log T)$. ",
         "tags": [
-          "cs.ai"
+          "cs.lg",
+          "cs.ai",
+          "cs.dc",
+          "physics.comp-ph"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7694
+        "impact": "high",
+        "score": 0.8308
       },
       {
-        "id": "684a2e8acc3e24a9",
-        "title": "Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling",
-        "url": "https://arxiv.org/abs/2605.13301",
-        "source": "arXiv cs.AI",
+        "id": "cf509aa6148c271d",
+        "title": "UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning",
+        "url": "https://arxiv.org/abs/2605.12700",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778731200000,
-        "summary": "arXiv:2605.13301v1 Announce Type: new Abstract: Recent progress in reasoning models has substantially advanced long-horizon mathematical and scientific problem solving, with several systems now reaching gold-medal-level performance on International Mathematical Olympiad (IMO) and International Physics Olympiad (IPhO) problems. In this paper, we introduce a simple and unified recipe for converting ",
+        "summary": "arXiv:2605.12700v1 Announce Type: new Abstract: Neural operators have become an effective framework for learning mappings between function spaces, yet most existing architectures realize operators within a single representational domain, such as physical, spectral, or latent space. In this work, we introduce UFO (Domain-Unification-Free Operator), a cross-domain neural operator framework that real",
         "tags": [
-          "cs.ai",
-          "cs.cl"
+          "cs.lg",
+          "cs.na",
+          "math.na"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7694
+        "impact": "high",
+        "score": 0.8308
       }
     ]
   },
