@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-14T17:16:09.003846+00:00",
+  "generated_at": "2026-05-14T17:28:19.589468+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "29919a031a4dc5d0",
+        "title": "Over a million WordPress sites hit in plugin flaw — so patch now or face the consequences",
+        "url": "https://www.techradar.com/pro/security/over-a-million-wordpress-sites-hit-in-plugin-flaw-heres-what-we-know",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1778779500000,
+        "summary": "A popular WordPress plugin was found carrying two flaws that can cause data leaks.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8491
+      },
       {
         "id": "f2a0612af219e0c9",
         "title": "Your old laptop is the Plex server you've been putting off setting up — here's how easy it is",
@@ -979,25 +995,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7968
-      },
-      {
-        "id": "cc75e45b496f759e",
-        "title": "Fully-functional RTX 3070 16GB gets frankensteined into existence by harvesting dead PCBs and RX 6800 XT's VRAM chips — doubles frame rate in games like Spider Man 2 at 4K and includes switch for 8GB mode",
-        "url": "https://www.tomshardware.com/pc-components/gpus/fully-functional-rtx-3070-16gb-gets-frankensteined-into-existence-by-harvesting-dead-pcbs-and-rx-6800-xts-vram-chips-doubles-frame-rate-in-games-like-spider-man-2-at-4k-and-includes-switch-for-8gb-mode",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778760002000,
-        "summary": "A tech enthusiast has combined an Nvidia GeForce RTX 3070 (8GB) with defective memory and an AMD Radeon RX 6900 XT (16GB) with a damaged GPU to make a working RTX 3070 with 16GB of VRAM.",
-        "tags": [
-          "gpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9463
       }
     ],
     "innovation": [
+      {
+        "id": "85d71c4bf6d254ec",
+        "title": "Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019 (Jordan Novet/CNBC)",
+        "url": "https://www.techmeme.com/260514/p26#a260514p26",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778779029000,
+        "summary": "Jordan Novet / CNBC: Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019 — Cerebras Systems soared in its Nasdaq debut on Thursday, opening at $350 after selling shares at $185, well above the company's expected range.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9964
+      },
+      {
+        "id": "1b9b3793153d1734",
+        "title": "Vaporware or not? Aptera assembles its first five validation models.",
+        "url": "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
+        "source": "Ars Technica AI",
+        "lane": "innovation",
+        "published_ts": 1778778383000,
+        "summary": "The three-wheel, two-seat EV has been in development since 2006.",
+        "tags": [
+          "cars",
+          "aptera",
+          "vaporware"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.993
+      },
       {
         "id": "6afd0549465feaa8",
         "title": "Ask Hackaday: Do We Need a 21st Century Calculator?",
@@ -1029,6 +1059,23 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9955
+      },
+      {
+        "id": "a3d57a48e86bf5c7",
+        "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+        "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1778776202000,
+        "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+        "tags": [
+          "ai",
+          "hardware",
+          "tc"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7341
       },
       {
         "id": "e9b5cbf48e080e95",
@@ -1900,52 +1947,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9074
-      },
-      {
-        "id": "091967982b488944",
-        "title": "Why global businesses are moving to crypto mass payouts",
-        "url": "https://thenextweb.com/news/why-global-businesses-are-moving-to-crypto-mass-payouts",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778753373000,
-        "summary": "As gig platforms continue to expand globally, one of the biggest operational challenges they face is managing cross-border disbursements to an ever-growing network of freelancers, creators, and partners across multiple regions. While the gig economy thrives on flexibility and rapid growth, traditional banking systems, particularly wire transfers, struggle to keep up. These payment methods are […] ",
-        "tags": [
-          "cryptocurrency"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8866
-      },
-      {
-        "id": "c3e396649d6adbb5",
-        "title": "Dirty Frag gets a sequel as Fragnesia hands Linux attackers root-level access",
-        "url": "https://www.theregister.com/security/2026/05/14/dirty-frag-gets-a-sequel-as-fragnesia-hands-linux-attackers-root-level-access/5240270",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778752912000,
-        "summary": "Fresh kernel flaw comes with public exploit code and continues ugly run of highly reliable privilege escalation bugs tied to memory and page-cache handling",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0192
-      },
-      {
-        "id": "13bc337150ac891d",
-        "title": "Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing's plans to take on Silicon Valley; China is offering big incentives (Wall Street Journal)",
-        "url": "https://www.techmeme.com/260514/p9#a260514p9",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778752884000,
-        "summary": "Wall Street Journal: Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing's plans to take on Silicon Valley; China is offering big incentives — More Chinese nationals who return home after working in the U.S., called ‘sea turtles,’ are fueling Beijing's efforts to take on Silicon Valley",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9983
       }
     ],
     "ai": [
+      {
+        "id": "715d73c76311113d",
+        "title": "The ChatGPT desktop app for Mac just got hit with a security breach",
+        "url": "https://www.engadget.com/2173054/the-chatgpt-desktop-app-for-mac-just-got-hit-with-a-security-breach/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778779258000,
+        "summary": "OpenAI found no evidence that user data was accessed.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7023
+      },
       {
         "id": "dc14c136b804e99e",
         "title": "Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short (Mark Gurman/Bloomberg)",
@@ -1974,6 +1993,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1325
+      },
+      {
+        "id": "a48f6c5086e55cd9",
+        "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+        "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1778777263000,
+        "summary": "Layoffs are \"not a savings-driven resutrcture,\" CFO says.",
+        "tags": [
+          "biz & it",
+          "ai and jobs",
+          "cisco",
+          "layoffs"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9871
       },
       {
         "id": "4d2ee15cf94cddc0",
@@ -2865,39 +2902,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0684
-      },
-      {
-        "id": "49c46018cc983380",
-        "title": "I stopped building presentations the old way — this free tool only needs text",
-        "url": "https://www.makeuseof.com/obsidian-gemini-google-slides-presentation/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1778756417000,
-        "summary": "From messy notes to finished slides; I let Gemini do the heavy lifting.",
-        "tags": [
-          "productivity",
-          "obsidian",
-          "google gemini",
-          "presentations"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8499
-      },
-      {
-        "id": "bf37a5149ef82500",
-        "title": "GoDaddy aims to solve WordPress complexity with new AI tool",
-        "url": "https://www.techradar.com/pro/godaddy-aims-to-solve-wordpress-complexity-with-new-ai-tool",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778755364000,
-        "summary": "Airo brings conversational AI to the world’s most popular CMS",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.914
       }
     ],
     "science": [
@@ -3815,17 +3819,17 @@
         "score": 1.0964
       },
       {
-        "id": "f7c12deac4f4e2b6",
-        "title": "Are we really headed for a ‘super’ El Niño? What the science says",
-        "url": "https://www.nature.com/articles/d41586-026-01538-0",
+        "id": "ff7b4e846aee4898",
+        "title": "Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
+        "url": "https://www.nature.com/articles/s41586-026-10620-6",
         "source": "Nature",
         "lane": "science",
         "published_ts": 1778716800000,
-        "summary": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01538-0An El Niño is coming, models say, but Nature spoke to researchers about when and how we’ll know its intensity.",
+        "summary": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8247
+        "score": 0.8215
       }
     ]
   },
