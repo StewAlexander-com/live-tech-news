@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-14T02:27:53.223834+00:00",
+  "generated_at": "2026-05-14T03:25:20.229321+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ac0e274393a8e0df",
+        "title": "What Will Be Running Inside the New Googlebook Laptops? What We Know So Far",
+        "url": "https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1778725840000,
+        "summary": "Here's what we know about Google's latest operating system.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8057
+      },
       {
         "id": "13ea7639d003ae7f",
         "title": "4 Chromebook mistakes Google can learn from for Googlebook",
@@ -918,22 +931,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8056
-      },
-      {
-        "id": "c984bc12032eea7f",
-        "title": "Samsung's upcoming wide-screen foldable could trade three rear cameras for two",
-        "url": "https://www.androidpolice.com/50mp-rear-shooters-for-the-galaxy-z-fold-8-wide/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1778689124000,
-        "summary": "And they're 50MP each",
-        "tags": [
-          "foldable phones",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.994
       }
     ],
     "innovation": [
@@ -1899,6 +1896,47 @@
     ],
     "ai": [
       {
+        "id": "fc4324f72b36a13c",
+        "title": "OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency (Maggie Eastland/Bloomberg)",
+        "url": "https://www.techmeme.com/260513/p56#a260513p56",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778728504000,
+        "summary": "Maggie Eastland / Bloomberg: OpenAI says it would support a global AI governance body that is led by the US and includes China as a member, similar to the International Atomic Energy Agency — OpenAI would support the creation of a global governance body for artificial intelligence led by the US and including China as a member …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0764
+      },
+      {
+        "id": "d6a008a13c37a858",
+        "title": "Sources: Google plans to announce a new Gemini model at its I/O conference next week; the model will land roughly in the class of GPT-5.5, but short of Mythos (Alex Heath/Sources)",
+        "url": "https://www.techmeme.com/260513/p55#a260513p55",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778726101000,
+        "summary": "Alex Heath / Sources: Sources: Google plans to announce a new Gemini model at its I/O conference next week; the model will land roughly in the class of GPT-5.5, but short of Mythos — Sources say that Google plans to announce a new Gemini model at its annual I/O conference on Tuesday.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.984
+      },
+      {
+        "id": "85f83e855b9d4145",
+        "title": "Medical AI transcriber for Ontario doctors 'hallucinated,' generated errors: auditor general",
+        "url": "https://www.reddit.com/r/technology/comments/1tckpz7/medical_ai_transcriber_for_ontario_doctors/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778725411000,
+        "summary": "submitted by /u/BusyHands_ [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0058
+      },
+      {
         "id": "01f4f165ad661315",
         "title": "Amazon workers are apparently 'tokenmaxxing' AI platforms to hit arbitrary usage targets",
         "url": "https://www.techradar.com/pro/amazon-workers-are-apparently-tokenmaxxing-ai-platforms-to-hit-arbitrary-usage-targets",
@@ -2787,67 +2825,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1148
-      },
-      {
-        "id": "4b913aa1de6c15a5",
-        "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
-        "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778690743000,
-        "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it […]",
-        "tags": [
-          "ai",
-          "meta",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8517
-      },
-      {
-        "id": "db3610acfd013b67",
-        "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
-        "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778689878000,
-        "summary": "But training on \"synthetic stories\" that model good AI behavior can help.",
-        "tags": [
-          "ai",
-          "anthropic",
-          "clause",
-          "ethics",
-          "morals",
-          "sci-fi"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0541
-      },
-      {
-        "id": "422699f07cfc6b8f",
-        "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-        "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778689321000,
-        "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-        "tags": [
-          "ai",
-          "gaming",
-          "ai labs",
-          "data vendor",
-          "video games",
-          "world models"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8039
       }
     ],
     "science": [
+      {
+        "id": "0497cccd4aa0a860",
+        "title": "New UFO files offer no answers—but something is happening in the skies",
+        "url": "https://phys.org/news/2026-05-ufo-skies.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778727601000,
+        "summary": "The US Government has released a new trove of documents on cases of \"unidentified anomalous phenomena\" (UAPs)—many of which would have been described in the past as unidentified flying objects or UFOs—including photos, videos and reports of unexplained events sighted in the sky and in space.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0117
+      },
       {
         "id": "0052e1effa69f531",
         "title": "Rising storm floods are washing away wader nests—artificial eggs and incubation should only be last resort",
@@ -3755,21 +3750,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0143
-      },
-      {
-        "id": "fcadb629d9ff3f1b",
-        "title": "What a list of Black Death survivors reveals about the way people recovered from plague",
-        "url": "https://phys.org/news/2026-05-black-death-survivors-reveals-people.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778689039000,
-        "summary": "In our research in the British Library's medieval collections, we have identified a previously unnoticed document that provides fresh insights into the survivors of the outbreak of plague known as the Black Death (1346–53).",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
       }
     ]
   },
