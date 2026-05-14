@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T23:36:09.107002+00:00",
+  "generated_at": "2026-05-14T23:47:32.419497+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -972,6 +972,19 @@
     ],
     "innovation": [
       {
+        "id": "c2dfb9dded6ed189",
+        "title": "Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement",
+        "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1778802260000,
+        "summary": "Calif, a security research team, on their blog: Many security experts consider Apple devices to be the most secure consumer platform. The latest flagship example is MIE (Memory Integrity Enforcement), Apple’s hardware-assisted memory safety system built around ARM’s MTE (Memory Tagging Extension). It was introduced as the marquee security feature for the Apple M5 and A19, specifically designed to ",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0789
+      },
+      {
         "id": "f0636e04b885856b",
         "title": "California Gov. Gavin Newsom proposes a new 7.25% tax on web-based software sales, targeting $1.1B in state and local tax revenue in the upcoming budget year (Bloomberg)",
         "url": "https://www.techmeme.com/260514/p39#a260514p39",
@@ -1927,24 +1940,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0978
-      },
-      {
-        "id": "24b5bcd935c6cb48",
-        "title": "Waymo recalls 3,800 robotaxis after one drove itself into a flood",
-        "url": "https://www.theregister.com/ai-ml/2026/05/14/waymo-recalls-3800-cars-over-flooded-roads-software-snafu/5240594",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778771313000,
-        "summary": "Nothing like a partly submerged self-driving car to dampen public trust in autonomous vehicles",
-        "tags": [
-          "ai + ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0487
       }
     ],
     "ai": [
+      {
+        "id": "cdb49a8f0bb0edbc",
+        "title": "Musk v. Altman: in closing arguments, Musk's attorney doubled down on claims of Altman's untrustworthiness, while OpenAI's lawyer said Musk has no evidence (Associated Press)",
+        "url": "https://www.techmeme.com/260514/p40#a260514p40",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778802000000,
+        "summary": "Associated Press: Musk v. Altman: in closing arguments, Musk's attorney doubled down on claims of Altman's untrustworthiness, while OpenAI's lawyer said Musk has no evidence — Lawyers for Elon Musk and OpenAI made their final arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9976
+      },
       {
         "id": "667eb07b9aec7cd9",
         "title": "New figures claim ChatGPT usage at 'all-time low' as \"QuitGPT\" movement dents popularity — with Gemini, Perplexity, and Copilot all stealing market share",
@@ -2894,19 +2905,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7023
-      },
-      {
-        "id": "bfd6cd67e7bc0fe8",
-        "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion (Jordan Novet/CNBC)",
-        "url": "https://www.techmeme.com/260514/p26#a260514p26",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778779029000,
-        "summary": "Jordan Novet / CNBC: Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion … Cerebras Systems soared 68% in its Nasdaq debut on Thursday, closing at $311.07 after selling shares at $185, well above the company's expected range. That values the chipmaker at about $95 billion.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9751
       }
     ],
     "science": [
