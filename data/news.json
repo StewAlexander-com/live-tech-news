@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-14T03:49:06.528591+00:00",
+  "generated_at": "2026-05-14T04:48:17.818656+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "939ad862efdeb74f",
+        "title": "Before the Last Token: Diagnosing Final-Token Safety Probe Failures",
+        "url": "https://arxiv.org/abs/2605.12726",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12726v1 Announce Type: new Abstract: Final-token safety probes monitor a single hidden state after prompt prefill, but jailbreak prompts can contain probe-visible unsafe evidence distributed across earlier user-token representations that is missed by this readout. We study this prefill-time failure mode using SafeSwitch-style probes trained only on clean harmful and benign prompts acros",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
       {
         "id": "ac0e274393a8e0df",
         "title": "What Will Be Running Inside the New Googlebook Laptops? What We Know So Far",
@@ -918,22 +933,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8479
-      },
-      {
-        "id": "83957eae26ef9583",
-        "title": "Trump Phone Will Finally Ship This Week, Report Says",
-        "url": "https://www.cnet.com/tech/mobile/trump-phone-will-finally-ship-this-week-report-says/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778689799000,
-        "summary": "USA Today reports the T1 phone is finally shipping, citing an emailed confirmation from the CEO of Trump Mobile.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8056
       }
     ],
     "innovation": [
+      {
+        "id": "8df292368759d792",
+        "title": "LY Corp launches a bid with Bain Capital to buy Kakaku.com, which operates restaurant review and booking site Tabelog, for $4B, challenging EQT's $3.75B offer (Nikkei Asia)",
+        "url": "https://www.techmeme.com/260514/p1#a260514p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778733601000,
+        "summary": "Nikkei Asia: LY Corp launches a bid with Bain Capital to buy Kakaku.com, which operates restaurant review and booking site Tabelog, for $4B, challenging EQT's $3.75B offer — TOKYO — The operator of the Line messaging app and web portal Yahoo Japan said on Thursday it has launched a counterbid for Japan's Kakaku.com …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9973
+      },
+      {
+        "id": "eab28a0855b73d7a",
+        "title": "Revealing Interpretable Failure Modes of VLMs",
+        "url": "https://arxiv.org/abs/2605.12674",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12674v1 Announce Type: new Abstract: Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilities and ability to generalize with minimal task-specific engineering. Despite these advantages, they can exhibit catastrophic failures in specific real-world situations, constituting failure modes. We introduce REVELIO, a fram",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
+      {
+        "id": "7ae370f8fab4fc62",
+        "title": "Scientists successfully transfer longevity gene and extend lifespan",
+        "url": "https://www.reddit.com/r/technology/comments/1tcm9w5/scientists_successfully_transfer_longevity_gene/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778729622000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9275
+      },
       {
         "id": "a4619b4b3b370ab3",
         "title": "TikTok launches TikTok GO in the US for users to book hotels, attractions, and experiences directly in the app, partnering with Booking.com, Expedia, and others (Aisha Malik/TechCrunch)",
@@ -1837,64 +1884,260 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8952
-      },
-      {
-        "id": "11ede84f8b8bf68a",
-        "title": "Chinese ‘cellular modules’ could be included in new expansion of federal restrictions",
-        "url": "https://www.techradar.com/pro/chinese-cellular-modules-could-be-included-in-new-expansion-of-federal-restrictions",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1778683260000,
-        "summary": "In banning Chinese-made cellular modules, the FCC could cause serious disruption to the supply chain of many electronic goods.",
-        "tags": [
-          "pro",
-          "servers &amp; network devices",
-          "smart home",
-          "computing",
-          "computing components",
-          "home"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8485
-      },
-      {
-        "id": "f962fa465a54dd13",
-        "title": "Royal Household seeks £3M finance system fit for a King",
-        "url": "https://www.theregister.com/public-sector/2026/05/13/royal-household-seeks-3m-finance-system-fit-for-a-king/5239616",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778682780000,
-        "summary": "One seeks contractor to manage millions in taxpayer cash, will provide generous 20% off Windsor biscuit tins and tea towels",
-        "tags": [
-          "public sector"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0454
-      },
-      {
-        "id": "630c2c63bfaeded6",
-        "title": "US lawmakers demand answers from Instructure after Canvas data breaches",
-        "url": "https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1778682765000,
-        "summary": "U.S. House lawmakers want to know how hackers broke into education tech giant Instructure twice, and stole reams of data from students who use the company's flagship student data software Canvas.",
-        "tags": [
-          "security",
-          "canvas",
-          "cyberattack",
-          "cybersecurity",
-          "education",
-          "instructure"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8042
       }
     ],
     "ai": [
+      {
+        "id": "4edbcc6358b2affd",
+        "title": "People Would Rather Have Nuclear Power Plants In Their Area Than AI Data Centers",
+        "url": "https://www.reddit.com/r/technology/comments/1tcmxdf/people_would_rather_have_nuclear_power_plants_in/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1778731454000,
+        "summary": "submitted by /u/GeneReddit123 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0116
+      },
+      {
+        "id": "16e9e8576a7e952a",
+        "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+        "url": "https://arxiv.org/abs/2605.12620",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-language knowledge and chain-of-thought (CoT) reasoning, yet remain brittle when faced with challeng",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "cb85e7e6edcb12f6",
+        "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
+        "url": "https://arxiv.org/abs/2605.12673",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12673v1 Announce Type: new Abstract: Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment. However, reward hacking, where agents maximize a score without performing the intended task, emerges spontaneously in frontier models without overfitting. We argue that benchmarks must be secure by design. From past incide",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "7d5fa70ae94bf08d",
+        "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+        "url": "https://arxiv.org/abs/2605.12730",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12730v1 Announce Type: new Abstract: Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that determine whether a group remains stable or transitions into escalation or breakdown. We propose a different foundation: a group of interacting humans cons",
+        "tags": [
+          "cs.ai",
+          "cs.gr",
+          "cs.ma",
+          "physics.soc-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "f818835cdd35aef3",
+        "title": "Sustaining AI safety: Control-theoretic external impossibility, intrinsic necessity, and structural requirements",
+        "url": "https://arxiv.org/abs/2605.12963",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12963v1 Announce Type: new Abstract: As AI systems become increasingly capable, safety strategies must be evaluated not only by how much they reduce present risk, but by whether they could sustain safety once external control can no longer reliably constrain system behavior. This paper addresses that problem by using control theory to clarify, at a structural level, whether externally e",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "327a7a37284750dc",
+        "title": "Position: Agentic AI System Is a Foreseeable Pathway to AGI",
+        "url": "https://arxiv.org/abs/2605.12966",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12966v1 Announce Type: new Abstract: Is monolithic scaling the only path to AGI? This paper challenges the dogma that purely scaling a single model is sufficient to achieve Artificial General Intelligence. Instead, we identify Agentic AI as a necessary paradigm for mastering the complex, heterogeneous distribution of real-world tasks. Through rigorous theoretical derivations, we contras",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "9216518db8acc686",
+        "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+        "url": "https://arxiv.org/abs/2605.12988",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12988v1 Announce Type: new Abstract: Students learning algorithms often need support as they interpret traces, debug reasoning errors, and apply procedures across unfamiliar problem instances. In this paper, we present KITE (Knowledge-Informed Tutoring Engine), a Retrieval-Augmented Generation (RAG)-based intelligent tutoring system designed to serve as a classroom teaching assistant fo",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "4b117394227040d0",
+        "title": "CAWI: Copula-Aligned Weight Initialization for Randomized Neural Networks",
+        "url": "https://arxiv.org/abs/2605.12580",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12580v1 Announce Type: new Abstract: Randomized neural networks (RdNNs) enable efficient, backpropagation-free training by freezing randomly initialized input-to-hidden weights, which permits a closed-form solution for the output layer. However, conventional random initialization is blind to inter-feature dependence, ignoring correlations, asymmetries, and tail dependence in the data, w",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "19d8e4922103529e",
+        "title": "OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting",
+        "url": "https://arxiv.org/abs/2605.12639",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12639v1 Announce Type: new Abstract: Extreme ocean phenomena are challenging not only to predict but to diagnose, as accurate forecasts alone do not reveal the underlying physical drivers. While recent machine learning approaches achieve strong predictive skill, they remain largely opaque and provide limited guarantees of fidelity to ground-truth physics. We introduce OceanCBM, the firs",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "5d4e85fd6e672c42",
+        "title": "Learning to Decide with AI Assistance under Human-Alignment",
+        "url": "https://arxiv.org/abs/2605.12646",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12646v1 Announce Type: new Abstract: It is widely agreed that when AI models assist decision-makers in high-stakes domains by predicting an outcome of interest, they should communicate the confidence of their predictions. However, empirical evidence suggests that decision-makers often struggle to determine when to trust a prediction based solely on this communicated confidence. In this ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "3b9dda422afd16b0",
+        "title": "Runtime Monitoring of Perception-Based Autonomous Systems via Embedding Temporal Logic",
+        "url": "https://arxiv.org/abs/2605.12651",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12651v1 Announce Type: new Abstract: Runtime monitoring of autonomous systems traditionally relies on mapping continuous sensor observations to discrete logical propositions defined over low-dimensional state variables. This abstraction breaks down in perception-driven settings, where such mappings require additional learned modules that are often computationally expensive, brittle, and",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "0825da0a2a242013",
+        "title": "ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization",
+        "url": "https://arxiv.org/abs/2605.12667",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12667v1 Announce Type: new Abstract: The alignment of Large Language Models (LLMs) utilizes Reinforcement Learning from AI Feedback (RLAIF) for non-verifiable domains such as long-form question answering and open-ended instruction following. These domains often rely on LLM based auto-raters to provide granular, multi-tier discrete rewards (e.g., 1-10 rubrics) that are inherently stochas",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "41f1f2ffbe8f71ff",
+        "title": "Do Fair Models Reason Fairly? Counterfactual Explanation Consistency for Procedural Fairness in Credit Decisions",
+        "url": "https://arxiv.org/abs/2605.12701",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12701v1 Announce Type: new Abstract: Machine learning algorithms in socially sensitive domains (e.g., credit decisions) often focus on equalizing predictive outcomes. However, satisfying these metrics does not guarantee that models use the same reasoning for different groups. We show that existing outcome-fair models can still apply fundamentally different reasoning to individuals, a ``",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ce",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "de5999372ede767b",
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778731175000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:42"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0337
+      },
+      {
+        "id": "8fa51c2458df159e",
+        "title": "Microsoft is retiring Copilot Mode on Edge, because everything is Copilot Mode now",
+        "url": "https://www.engadget.com/2172610/microsoft-copilot-edge-desktop-mobile/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1778731074000,
+        "summary": "Copilot features are now available on Edge for mobile.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6927
+      },
+      {
+        "id": "628ffb2fdafdfaf8",
+        "title": "ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1% (Katherine Bindley/Wall Street Journal)",
+        "url": "https://www.techmeme.com/260513/p58#a260513p58",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778730601000,
+        "summary": "Katherine Bindley / Wall Street Journal: ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1% — Layoffs keep coming but there's still a market for higher-grade talent to harness agents — It should be a tough …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9815
+      },
       {
         "id": "3b79e039a4e8f678",
         "title": "Microsoft updates Edge with new AI features, including letting Copilot gather information from open tabs and use browsing history for more relevant answers (Emma Roth/The Verge)",
@@ -2561,271 +2804,140 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9142
-      },
-      {
-        "id": "a97cecfb2482fbe5",
-        "title": "Amazon's search bar is now an AI shopping assistant that remembers your conversations",
-        "url": "https://www.androidpolice.com/amazon-alexa-plus-on-app-and-website/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1778699910000,
-        "summary": "Alexa+ is joining Amazon's Rufus",
-        "tags": [
-          "amazon",
-          "utilities",
-          "amazon"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0606
-      },
-      {
-        "id": "4e074fa8691f48be",
-        "title": "AI Companies Are Thirsty for Data Centers, but Americans Oppose Them Nearby",
-        "url": "https://www.cnet.com/tech/services-and-software/gallup-poll-americans-dont-want-new-data-centers-near-them/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778699412000,
-        "summary": "A recent Gallup poll found that a majority of Americans oppose data centers, which require extensive amounts of electricity and water to operate, and negatively affect local communities.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8714
-      },
-      {
-        "id": "7b1f559a8d560022",
-        "title": "Q&A with Anthropic CFO Krishna Rao on the \"cone of uncertainty\" in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more (Invest Like The Best on YouTube)",
-        "url": "https://www.techmeme.com/260513/p45#a260513p45",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778699102000,
-        "summary": "Invest Like The Best on YouTube: Q&A with Anthropic CFO Krishna Rao on the “cone of uncertainty” in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more — In this episode of Invest Like The Best, Patrick O'Shaughnessy sits down with Anthropic CFO Krishna Rao …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0788
-      },
-      {
-        "id": "aa4362b525215fe2",
-        "title": "Overworked AI Agents Turn Marxist, Researchers Find",
-        "url": "https://www.reddit.com/r/technology/comments/1tc97fl/overworked_ai_agents_turn_marxist_researchers_find/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778698639000,
-        "summary": "submitted by /u/cmkn [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0144
-      },
-      {
-        "id": "9db214965d204922",
-        "title": "OpenAI endorses the Kids Online Safety Act",
-        "url": "https://www.engadget.com/2172269/openai-endorses-the-kids-online-safety-act/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778697294000,
-        "summary": "The bill appears to be gaining new momentum.",
-        "tags": [
-          "ai",
-          "big tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6995
-      },
-      {
-        "id": "b98d40448d3a1415",
-        "title": "AI tools are everywhere, so why do most people still use them like it’s 2015?",
-        "url": "https://thenextweb.com/news/ai-tools-everywhere-adoption-stuck",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778696942000,
-        "summary": "AI tools are everywhere, so why do most people still use them like it’s 2015? Artificial intelligence now sits inside almost every tool you open, from search engines and office apps to browsers, phones, and creative software. Updates keep adding assistants, copilots, and generators, each one promising to change how work gets done. On paper, […] This story continues at The Next Web",
-        "tags": [
-          "insights",
-          "insider",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9523
-      },
-      {
-        "id": "47375d37e6d08279",
-        "title": "AI chatbots are giving out people’s real phone numbers",
-        "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1778695743000,
-        "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it. A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a…",
-        "tags": [
-          "artificial intelligence",
-          "app",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1175
-      },
-      {
-        "id": "48a9a9a0dab47dd1",
-        "title": "A new US military wargame series began by simulating a nuclear weapon in orbit",
-        "url": "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778695473000,
-        "summary": "US officials have said a nuclear detonation would render portions of low-Earth orbit useless for up to a year.",
-        "tags": [
-          "space",
-          "commercial space",
-          "military space",
-          "nuclear weapons",
-          "space command",
-          "space force"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.984
-      },
-      {
-        "id": "8816f0e5325b2833",
-        "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
-        "url": "https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778695325000,
-        "summary": "Apple is looking into ways to better support apps that include AI agents and AI coding capabilities in the App Store, reports The Information. Apple is designing a system that would maintain its security and privacy standards while allowing for AI app features, but details on how the system will work are unavailable. Apple started blocking updates for some popular vibe coding apps in March because",
-        "tags": [
-          "ios 27",
-          "app store",
-          "the information"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.077
-      },
-      {
-        "id": "ffbf66595dc64808",
-        "title": "Neanderthals drilled cavities to treat a toothache 59,000 years ago",
-        "url": "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778695233000,
-        "summary": "“Every time I go to the dentist, I think about that guy,” researcher says.",
-        "tags": [
-          "science",
-          "anthropology",
-          "archaeology",
-          "bioarchaeology",
-          "neanderthals",
-          "osteoarchaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9827
-      },
-      {
-        "id": "9ef87fb8aa1eda2a",
-        "title": "LinkedIn Planning To Lay Off 5% of Staff In Latest Tech-Sector Cuts",
-        "url": "https://tech.slashdot.org/story/26/05/13/1615245/linkedin-planning-to-lay-off-5-of-staff-in-latest-tech-sector-cuts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1778695200000,
-        "summary": "An anonymous reader quotes a report from Reuters: LinkedIn planned to inform staff of layoffs on Wednesday, two people familiar with the matter told Reuters, in a widening of technology sector cuts this year. The Microsoft-owned social network plans to cut about 5% of its headcount as it reorganizes teams and focuses personnel on areas where its business is growing [...]. LinkedIn employs more tha",
-        "tags": [
-          "social"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0464
-      },
-      {
-        "id": "61fddbdf16c80b42",
-        "title": "Digg Is Back Again, but With a New Format and Focus on AI",
-        "url": "https://www.cnet.com/tech/services-and-software/digg-back-again-focus-ai-news/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778695055000,
-        "summary": "Using the 1,000 most influential voices in AI that also happen to be on X, Digg wants to be your source of AI news.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8643
-      },
-      {
-        "id": "801c6bfe7fe200fa",
-        "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-        "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778694485000,
-        "summary": "\"Very painful\": Altman relives his Muskian reaction to losing control over OpenAI.",
-        "tags": [
-          "ai",
-          "policy",
-          "agi",
-          "artificial general intelligence",
-          "artificial intelligence",
-          "elon musk"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9788
-      },
-      {
-        "id": "529763a1e04ad028",
-        "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-        "url": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778694140000,
-        "summary": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
-        "tags": [
-          "climate",
-          "fervo energy",
-          "geothermal",
-          "geothermal energy",
-          "ipo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8066
-      },
-      {
-        "id": "e9feda42cc5c007e",
-        "title": "AI models reveal hidden climate patterns behind US winter precipitation",
-        "url": "https://phys.org/news/2026-05-ai-reveal-hidden-climate-patterns.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778693514000,
-        "summary": "Artificial intelligence is beginning to transform climate science, not just by improving forecasts, but by helping researchers understand the physical forces shaping the planet's future.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0963
-      },
-      {
-        "id": "2ad727a3a5dea210",
-        "title": "AI tool boosts imperfect antibiotic candidates, with 85% working in lab tests",
-        "url": "https://phys.org/news/2026-05-ai-tool-boosts-imperfect-antibiotic.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778693025000,
-        "summary": "Researchers at the University of Pennsylvania have developed ApexGO, a novel, AI-powered method for turning promising but imperfect antibiotic candidates into more potent ones. Unlike many existing AI approaches to antibiotic discovery, which screen large databases for molecules that might work, ApexGO starts with a small number of imperfect candidates and improves them step by step, using a predi",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.101
       }
     ],
     "science": [
+      {
+        "id": "f078003788c22062",
+        "title": "Baby bugs must play 'game of roulette' to find survival partners before time runs out",
+        "url": "https://phys.org/news/2026-05-baby-bugs-play-game-roulette.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778731201000,
+        "summary": "Symbiosis, or the interaction of two unalike species, is common and often necessary for survival. In insects, symbiotic microbes often facilitate and promote the growth of hosts. Before the symbiotic collaboration can begin, however, hosts must acquire their symbionts. Sometimes, they are passed on from parents to offspring; other times, hosts must find their symbionts themselves—or face dire cons",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0043
+      },
+      {
+        "id": "4467603d4133228c",
+        "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction",
+        "url": "https://arxiv.org/abs/2605.12683",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12683v1 Announce Type: new Abstract: Reconstructing nonlinear dynamical systems (DS) from data (DSR) is a fundamental challenge in science and engineering, but it inherently relies on sequential models. Recent breakthroughs for sequential models have produced algorithms that parallelize computation along sequence length $T$, achieving logarithmic time complexity, $\\mathcal{O}(\\log T)$. ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.dc",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "cf509aa6148c271d",
+        "title": "UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning",
+        "url": "https://arxiv.org/abs/2605.12700",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12700v1 Announce Type: new Abstract: Neural operators have become an effective framework for learning mappings between function spaces, yet most existing architectures realize operators within a single representational domain, such as physical, spectral, or latent space. In this work, we introduce UFO (Domain-Unification-Free Operator), a cross-domain neural operator framework that real",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "c289a68a34ecf3c7",
+        "title": "State-Space NTK Collapse Near Bifurcations",
+        "url": "https://arxiv.org/abs/2605.12763",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12763v1 Announce Type: new Abstract: Rich feature learning in tasks that unfold over time often requires the model to pass through bifurcations, constituting qualitative changes in the underlying model dynamics. We develop a local theory of gradient descent near these transitions through the empirical state-space neural tangent kernel (sNTK). Our central finding is that bifurcations bot",
+        "tags": [
+          "cs.lg",
+          "math.ds",
+          "math.oc",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
+      },
+      {
+        "id": "57865fcd05ba3af2",
+        "title": "Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics",
+        "url": "https://arxiv.org/abs/2605.13171",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.13171v1 Announce Type: new Abstract: As automated reasoning systems advance rapidly, there is a growing need for research-level formal mathematical problems to accurately evaluate their capabilities. To address this, we present Formal Conjectures, an evolving benchmark of currently 2615 mathematical problem statements formalized in Lean 4. Sourced from areas of active mathematical resea",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
+      {
+        "id": "684a2e8acc3e24a9",
+        "title": "Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling",
+        "url": "https://arxiv.org/abs/2605.13301",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.13301v1 Announce Type: new Abstract: Recent progress in reasoning models has substantially advanced long-horizon mathematical and scientific problem solving, with several systems now reaching gold-medal-level performance on International Mathematical Olympiad (IMO) and International Physics Olympiad (IPhO) problems. In this paper, we introduce a simple and unified recipe for converting ",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
+      {
+        "id": "b91b30d3bbaa42c7",
+        "title": "Constraint-Aware Flow Matching: Decision Aligned End-to-End Training for Constrained Sampling",
+        "url": "https://arxiv.org/abs/2605.12754",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12754v1 Announce Type: new Abstract: Deep generative models provide state-of-the-art performance across a wide array of applications, with recent studies showing increasing applicability for science and engineering. Despite a growing corpus of literature focused on the integration of physics-based constraints into the generation process, existing approaches fail to enforce strict constr",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
+      {
+        "id": "15b4a7c08f56ad63",
+        "title": "WriteSAE: Sparse Autoencoders for Recurrent State",
+        "url": "https://arxiv.org/abs/2605.12770",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778731200000,
+        "summary": "arXiv:2605.12770v1 Announce Type: new Abstract: We introduce WriteSAE, the first sparse autoencoder that decomposes and edits the matrix cache write of state-space and hybrid recurrent language models, where residual SAEs cannot reach. Existing SAEs read residual streams, but Gated DeltaNet, Mamba-2, and RWKV-7 write to a $d_k \\times d_v$ cache through rank-1 updates $k_t v_t^\\top$ that no vector ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
       {
         "id": "017ed5b42998df48",
         "title": "Wristwatch-like device enables assessment of health risks for astronauts on mission to the moon",
@@ -3628,126 +3740,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.017
-      },
-      {
-        "id": "20c710a68b6dcde1",
-        "title": "Microalgae can photosynthetically produce and secrete biofuel precursors",
-        "url": "https://phys.org/news/2026-05-microalgae-photosynthetically-secrete-biofuel-precursors.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778692859000,
-        "summary": "Microalgae have attracted growing attention as a promising platform for sustainable biofuel production because they can use photosynthesis to convert carbon dioxide into energy-rich compounds without competing with food crops. However, practical use of algal biofuels has long faced major obstacles.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
-      },
-      {
-        "id": "5222866058faf5ed",
-        "title": "Geologists in films are the good guys... but they often die",
-        "url": "https://phys.org/news/2026-05-geologists-good-guys-die.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778692472000,
-        "summary": "It all began with a perfectly ordinary chat over coffee between four researchers. How many films featuring geologists can we think of? Quite quickly, the colleagues were able to come up with about 10 films. But then the scientific mind of one of them sprang into action.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0165
-      },
-      {
-        "id": "d29656dad95f3fec",
-        "title": "Quantum geometry provides theoretical limits on measurable properties of solids",
-        "url": "https://phys.org/news/2026-05-quantum-geometry-theoretical-limits-properties.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778692182000,
-        "summary": "Two RIKEN physicists have established new theoretical limits for experimentally measurable quantities by viewing solids through a lens of quantum geometry. Their results shed light both on the physics of solids and on quantum mechanics.",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0961
-      },
-      {
-        "id": "712cb170fd9ac015",
-        "title": "Tiny forces, big effects: How particle interactions control the flow of soft materials",
-        "url": "https://phys.org/news/2026-05-tiny-big-effects-particle-interactions.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778691821000,
-        "summary": "Sitting in a restaurant, you reach for the ketchup bottle, eyeing the basket of fries in front of you. You give the bottle a shake, then a tap. For a moment, nothing happens—the ketchup clings stubbornly to the glass. Then, all at once, it lets go and rushes out, sometimes in a steady stream, sometimes in a messy surge that threatens to flood the basket.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0129
-      },
-      {
-        "id": "e78350de97af7655",
-        "title": "Study reveals how, when political parties communicate with citizens in multiple languages",
-        "url": "https://phys.org/news/2026-05-reveals-political-parties-communicate-citizens.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778691327000,
-        "summary": "A new Washington University in St. Louis' study takes on the Herculean task of studying the linguistic choices of more than 800 political parties from 87 democracies around the world, including the United States.",
-        "tags": [
-          "political science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
-      },
-      {
-        "id": "ec70afe26f65463e",
-        "title": "NASA bets big on nuclear engines to cut journey times to Mars",
-        "url": "https://phys.org/news/2026-05-nasa-big-nuclear-journey-mars.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778690929000,
-        "summary": "Nasa is developing ways to use nuclear power to send spacecraft to their destinations. Nuclear propulsion could greatly reduce the journey time to Mars, perhaps cutting a voyage of more than six months to three or four months.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
-      },
-      {
-        "id": "00fc8d43ca318092",
-        "title": "Twisted liquid-crystal structures unlock on-demand skyrmions at room temperature",
-        "url": "https://phys.org/news/2026-05-liquid-crystal-demand-skyrmions-room.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778690402000,
-        "summary": "Researchers have recently found a new way to summon useful structures in magnetic materials using light, heat, and electric fields. This new method, described in a new study published in Physical Review Letters, may lead to more energy-efficient and flexible technologies for data storage and optical devices.",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0138
-      },
-      {
-        "id": "15cc9429ac0da608",
-        "title": "Bee magnetism appears far more widespread than expected across 120 species",
-        "url": "https://phys.org/news/2026-05-bee-magnetism-widespread-species.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778689667000,
-        "summary": "As married research professors at the University of Tennessee, Knoxville, Dustin Gilbert and Anne Murray often discuss their work once they get home each night. Their fields of study rarely crossover. That changed six years ago, however, and it was insects that sparked the intersection.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0169
       }
     ]
   },
