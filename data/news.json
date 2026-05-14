@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T00:14:53.823172+00:00",
+  "generated_at": "2026-05-14T00:40:45.694954+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -79,6 +79,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9976
+      },
+      {
+        "id": "f216d1b7774cb538",
+        "title": "Ring Brings Its Retinal 2K Resolution to Spotlight and Floodlight Cameras",
+        "url": "https://www.cnet.com/home/security/ring-retinal-2k-resolution-spotlight-floodlight-cameras/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1778713997000,
+        "summary": "Ring's latest upgrades complete its new generation of higher-resolution cameras, now available with bright LED lights.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7973
       },
       {
         "id": "af32220c264152c8",
@@ -925,21 +938,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8447
-      },
-      {
-        "id": "10aada93950d34de",
-        "title": "Several Overwatch heroes are about to hit Fortnite",
-        "url": "https://www.engadget.com/2172080/several-overwatch-heroes-are-about-to-hit-fortnite/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1778688554000,
-        "summary": "Epic Games might be doing more to mark Overwatch's 10th anniversary than Blizzard is.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6977
       }
     ],
     "innovation": [
@@ -1913,6 +1911,48 @@
     ],
     "ai": [
       {
+        "id": "a93a95f0c2b42ebe",
+        "title": "Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI's finance sector push, but financiers are rarely using it for work (Carmen Arroyo/Bloomberg)",
+        "url": "https://www.techmeme.com/260513/p52#a260513p52",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778718605000,
+        "summary": "Carmen Arroyo / Bloomberg: Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI's finance sector push, but financiers are rarely using it for work — Elon Musk's xAI has recruited multiple Wall Street firms with ties to the billionaire's business empire to test its Grok chatbot …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9966
+      },
+      {
+        "id": "5e7004cb089a396d",
+        "title": "The Other Half of AI Safety",
+        "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778718440000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1291
+      },
+      {
+        "id": "d142b0913834edf9",
+        "title": "How to Delete the 4GB File That Chrome May Have (Secretly) Installed on Your Device",
+        "url": "https://www.cnet.com/tech/services-and-software/chrome-installing-4gb-ai-model-gemini-nano/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778715752000,
+        "summary": "Google has been quietly downloading a large AI model, Gemini Nano, without asking or notifying users.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8692
+      },
+      {
         "id": "08470c7648425bb1",
         "title": "Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 (Carl Franzen/VentureBeat)",
         "url": "https://www.techmeme.com/260513/p51#a260513p51",
@@ -1924,6 +1964,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0756
+      },
+      {
+        "id": "a2025d2a3c22d142",
+        "title": "Alexa Replaces Rufus as Amazon's AI Shopping Assistant",
+        "url": "https://www.cnet.com/tech/services-and-software/alexa-replaces-rufus-as-amazon-ai-shopping-assistant/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778715064000,
+        "summary": "The new Alexa for Shopping feature can use data about the customer to help find products.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.866
       },
       {
         "id": "205e266502128b73",
@@ -2810,58 +2863,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.07
-      },
-      {
-        "id": "2dadf49276da1601",
-        "title": "Microsoft unveils MDASH, a security system that orchestrates 100+ AI agents to find vulnerabilities, and says it identified 16 previously unknown Windows flaws (Gyana Swain/CSO)",
-        "url": "https://www.techmeme.com/260513/p38#a260513p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778688300000,
-        "summary": "Gyana Swain / CSO: Microsoft unveils MDASH, a security system that orchestrates 100+ AI agents to find vulnerabilities, and says it identified 16 previously unknown Windows flaws — The agentic tool, codenamed MDASH, will open to enterprise customers in private preview in June.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0452
-      },
-      {
-        "id": "5542539caebc785a",
-        "title": "Microsoft unveils MDASH, a security system that can orchestrate 100+ AI agents to find vulnerabilities, and says it identified 16 Windows vulnerabilities (Gyana Swain/CSO)",
-        "url": "https://www.techmeme.com/260513/p38#a260513p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778688300000,
-        "summary": "Gyana Swain / CSO: Microsoft unveils MDASH, a security system that can orchestrate 100+ AI agents to find vulnerabilities, and says it identified 16 Windows vulnerabilities — The agentic tool, codenamed MDASH, will open to enterprise customers in private preview in June. — Microsoft has unveiled …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0688
-      },
-      {
-        "id": "c9471dbd5d3193bb",
-        "title": "Sources: Mistral has been developing a cybersecurity-focused AI model and has held discussions about it with European banks, which don't have access to Mythos (Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p37#a260513p37",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778688055000,
-        "summary": "Bloomberg: Sources: Mistral has been developing a cybersecurity-focused AI model and has held discussions about it with European banks, which don't have access to Mythos — French artificial intelligence startup Mistral AI is in discussions with European banks about deploying its answer to Anthropic PBC's Mythos …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0214
-      },
-      {
-        "id": "e13d320a9f14911b",
-        "title": "Sources: Mistral has been developing a cybersecurity-focused AI model and held discussions about it with European banks, which don't have access to Mythos (Bloomberg)",
-        "url": "https://www.techmeme.com/260513/p37#a260513p37",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778688055000,
-        "summary": "Bloomberg: Sources: Mistral has been developing a cybersecurity-focused AI model and held discussions about it with European banks, which don't have access to Mythos — French artificial intelligence startup Mistral AI is in discussions with European banks about deploying its answer to Anthropic PBC's Mythos …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
       }
     ],
     "science": [
