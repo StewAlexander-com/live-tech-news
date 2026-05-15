@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T13:42:57.625873+00:00",
+  "generated_at": "2026-05-15T13:44:21.622552+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1917,6 +1917,22 @@
         "score": 0.9142
       },
       {
+        "id": "3af99387c1b96806",
+        "title": "Amazon workers under pressure to up their AI usage–so they're making up tasks",
+        "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778851735000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1284
+      },
+      {
         "id": "06cf40baffdab08a",
         "title": "Trump leaves Beijing saying he and Xi talked AI guardrails. Nothing was signed.",
         "url": "https://thenextweb.com/news/trump-xi-beijing-ai-guardrails-nvidia-h200",
@@ -2696,6 +2712,88 @@
         "score": 1.21
       },
       {
+        "id": "87549f6aad0e2a71",
+        "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+        "url": "https://arxiv.org/abs/2605.13941",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13941v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies remain frozen at deployment. We argue that truly adaptive memory requires co-evolution at two levels:",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9401
+      },
+      {
+        "id": "eb213a98cd8c6185",
+        "title": "EMA: Efficient Model Adaptation for Learning-based Systems",
+        "url": "https://arxiv.org/abs/2605.13942",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13942v1 Announce Type: new Abstract: Machine learning (ML) is increasingly applied to optimize system performance in tasks such as resource management and network simulation. Unlike traditional ML tasks (e.g., image classification), networked systems often operate in heterogeneous, long-running, and dynamic environment states, where input conditions (e.g., network loads) and operational",
+        "tags": [
+          "cs.lg",
+          "cs.dc",
+          "cs.ni"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9401
+      },
+      {
+        "id": "7f9d3f2a20d71758",
+        "title": "Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction",
+        "url": "https://arxiv.org/abs/2605.13950",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13950v1 Announce Type: new Abstract: Autonomous language-model agents are increasingly evaluated on long-horizon tool-use tasks, but existing benchmarks rarely capture the complexity and nuance of real scientific work. To address this gap, we introduce Collider-Bench, a benchmark for evaluating whether LLM agents can reproduce experimental analyses from the Large Hadron Collider (LHC) u",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "hep-ex",
+          "hep-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9401
+      },
+      {
+        "id": "bb2d8ea3383232ad",
+        "title": "Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines",
+        "url": "https://arxiv.org/abs/2605.13981",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13981v1 Announce Type: new Abstract: The rise in deployment of large language models has driven a surge in GPU demand and datacenter scaling, raising concerns about electricity use, grid stress, and the impacts of modern AI workloads. Distillation is often promoted as one of the most effective paths to obtain cheaper, more efficient models, yet these claims rarely account for the full e",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9401
+      },
+      {
+        "id": "ef9e68000cb8baab",
+        "title": "Comparative Evaluation of Machine Learning Approaches for Minority-Class Financial Distress Prediction Under Class Imbalance Constraints",
+        "url": "https://arxiv.org/abs/2605.14067",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14067v1 Announce Type: new Abstract: Financial distress prediction remains a significant challenge in enterprise risk analysis due to the highly imbalanced nature of real-world financial datasets, where bankrupt or distressed firms typically constitute only a small minority of observations. This paper presents a comparative evaluation of classical statistical methods, ensemble learning ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9401
+      },
+      {
         "id": "a56ddbe4f3639cd2",
         "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
         "url": "https://arxiv.org/abs/2605.13850",
@@ -2707,104 +2805,6 @@
           "cs.ai",
           "cs.ma",
           "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1226
-      },
-      {
-        "id": "b6034ea40890ead4",
-        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-        "url": "https://arxiv.org/abs/2605.13851",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza",
-        "tags": [
-          "cs.ai",
-          "cs.cy",
-          "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1226
-      },
-      {
-        "id": "99a2238d6009d4f5",
-        "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
-        "url": "https://arxiv.org/abs/2605.14033",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14033v1 Announce Type: new Abstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect whether an existing representational framework remains transportable into a new regime, or whether its language has become locally-to-globally obstructed and must be extended. This paper develops a finite sheaf-theoretic frame",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1226
-      },
-      {
-        "id": "26619717956a3c70",
-        "title": "Enhanced and Efficient Reasoning in Large Learning Models",
-        "url": "https://arxiv.org/abs/2605.14036",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14036v1 Announce Type: new Abstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine learning. However, there is no comparably principled basis to justify trust in the content of the text produced. It appears to be conventional wisdom that addressing this issue by adding more principled reasoning is not com",
-        "tags": [
-          "cs.ai",
-          "cs.cc",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1226
-      },
-      {
-        "id": "cca9a70b6d84ec1a",
-        "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
-        "url": "https://arxiv.org/abs/2605.14049",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14049v1 Announce Type: new Abstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The cent",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1226
-      },
-      {
-        "id": "ace83f7fa70f2df8",
-        "title": "Distribution-Aware Algorithm Design with LLM Agents",
-        "url": "https://arxiv.org/abs/2605.14141",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14141v1 Announce Type: new Abstract: We study learning when the learned object is executable solver code rather than a predictor. In this setting, correctness is not enough: two solvers may both return valid solutions on the deployment distribution while differing substantially in runtime. Given samples from an unknown task distribution, the learner returns code evaluated on fresh insta",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1226
-      },
-      {
-        "id": "92f9538a430e6d31",
-        "title": "Rethinking Molecular OOD Generalization via Target-Aware Source Selection",
-        "url": "https://arxiv.org/abs/2605.13932",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13932v1 Announce Type: new Abstract: Robust prediction of molecular properties under extreme out-of-distribution (OOD) scenarios is a pivotal bottleneck in AI-driven drug discovery. Current scaffold-splitting protocols fail to obstruct microscopic semantic overlap, predisposing models to shortcut learning and overestimating their true extrapolation capability; meanwhile, conventional do",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
