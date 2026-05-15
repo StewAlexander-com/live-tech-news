@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T21:37:00.563985+00:00",
+  "generated_at": "2026-05-15T21:37:36.574801+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3826,36 +3826,37 @@
         "score": 1.094
       },
       {
-        "id": "0562e7d517c6f19f",
-        "title": "Neural Fields for NV-Center Inverse Sensing",
-        "url": "https://arxiv.org/abs/2605.13988",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
-        "tags": [
-          "cs.lg",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8078
-      },
-      {
-        "id": "9d487b2cc96db7c0",
-        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
-        "url": "https://arxiv.org/abs/2605.14318",
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
         "tags": [
           "cs.ai",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.748
+        "score": 0.7478
+      },
+      {
+        "id": "8f50bd750dba3227",
+        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
+        "url": "https://arxiv.org/abs/2605.14215",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7478
       }
     ]
   },
