@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T20:09:15.022897+00:00",
+  "generated_at": "2026-05-15T20:22:37.977964+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -982,6 +982,19 @@
     ],
     "innovation": [
       {
+        "id": "df0b4f42ea54e36f",
+        "title": "Wanton Destruction of CBS Property",
+        "url": "https://www.youtube.com/watch?v=eBKWKu2Rqxc",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1778875929000,
+        "summary": "“Good night and good luck, motherfuckers.” ★",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0764
+      },
+      {
         "id": "841df51d722786a3",
         "title": "Building A Die Filer From Scratch",
         "url": "https://hackaday.com/2026/05/15/building-a-die-filer-from-scratch/",
@@ -1000,6 +1013,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0772
+      },
+      {
+        "id": "81f02ab3c3197e53",
+        "title": "Linux devs are fighting the new age-gated internet",
+        "url": "https://www.reddit.com/r/technology/comments/1te7996/linux_devs_are_fighting_the_new_agegated_internet/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778874893000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9416
       },
       {
         "id": "8ea6f456f01bc86f",
@@ -1903,40 +1931,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0741
-      },
-      {
-        "id": "18908b70ffc62a68",
-        "title": "preFlight Slicer Brings Added Part Strength Feature, and Many More",
-        "url": "https://hackaday.com/2026/05/15/preflight-slicer-brings-added-part-strength-feature-and-many-more/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1778842831000,
-        "summary": "Interested in taking some wild new 3D printing features for a test drive? preFlight is free and open source slicer that brings a host of processing improvements as well as …read more",
-        "tags": [
-          "3d printer hacks",
-          "software hacks",
-          "3d printing",
-          "fdm",
-          "slicer"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0793
-      },
-      {
-        "id": "a021cf1d19656052",
-        "title": "X tells Ofcom it will finally check its moderation inbox",
-        "url": "https://www.theregister.com/personal-tech/2026/05/15/x-tells-ofcom-it-will-finally-check-its-moderation-inbox/5241120",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778842328000,
-        "summary": "Comms watchdog says Musk's social media platform will now review reports of illegal hate and terror content within 24 hours... on average",
-        "tags": [
-          "personal tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0104
       }
     ],
     "ai": [
@@ -2929,6 +2923,21 @@
     ],
     "science": [
       {
+        "id": "e506776e58dd04cc",
+        "title": "Sustainable chemistry: Iron substitutes noble metals in catalytic reactions",
+        "url": "https://phys.org/news/2026-05-sustainable-chemistry-iron-substitutes-noble.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778876401000,
+        "summary": "The production of many products used in everyday life and in industry, such as pharmaceuticals, plastics, and coatings, requires chemical catalysts, often expensive noble metals with limited availability. Researchers at the Karlsruhe Institute of Technology (KIT) are now presenting the first air-stable iron compound, which enables the direct use of iron(I) for catalysis and, unlike previous method",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
+      {
         "id": "1f8ff27cdf173903",
         "title": "Sources: SpaceX aims to make its IPO prospectus public by next week, targeting a June 12 listing on Nasdaq, driven by a faster-than-expected SEC review (Reuters)",
         "url": "https://www.techmeme.com/260515/p24#a260515p24",
@@ -3803,53 +3812,37 @@
         "score": 1.094
       },
       {
-        "id": "b8d41f45ab00e490",
-        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
-        "url": "https://arxiv.org/abs/2605.14061",
-        "source": "arXiv cs.AI",
+        "id": "0562e7d517c6f19f",
+        "title": "Neural Fields for NV-Center Inverse Sensing",
+        "url": "https://arxiv.org/abs/2605.13988",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
+        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
         "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7693
-      },
-      {
-        "id": "8f50bd750dba3227",
-        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
-        "url": "https://arxiv.org/abs/2605.14215",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
-        "tags": [
-          "cs.ai",
           "cs.lg",
-          "q-bio.qm"
+          "quant-ph"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7693
+        "score": 0.8273
       },
       {
-        "id": "9d487b2cc96db7c0",
-        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
-        "url": "https://arxiv.org/abs/2605.14318",
-        "source": "arXiv cs.AI",
+        "id": "a1f5c794844a244d",
+        "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
+        "url": "https://arxiv.org/abs/2605.13933",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "summary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dime",
         "tags": [
+          "cs.lg",
           "cs.ai",
-          "cs.lg"
+          "stat.ml"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7693
+        "score": 0.766
       }
     ]
   },
