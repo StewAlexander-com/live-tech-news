@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-05-15T15:54:10.082234+00:00",
+  "generated_at": "2026-05-15T16:12:47.772612+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c221001185282324",
+        "title": "ChatGPT will offer personalized financial advice (if you connect your bank account)",
+        "url": "https://www.engadget.com/2173768/chatgpt-will-offer-personalized-financial-advice-if-you-connect-your-bank-account/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1778860903000,
+        "summary": "ChatGPT's new Plaid integration allows it pull information from more than 12,000 financial institutions.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7015
+      },
+      {
+        "id": "894f498cf2838eae",
+        "title": "Apple Card Promo to Offer Free AirPods Pro 3",
+        "url": "https://www.macrumors.com/2026/05/15/apple-card-promo-free-airpods-pro-3/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1778860761000,
+        "summary": "Starting as early as next week, customers who sign up for an Apple Card at Apple's retail stores in the U.S. will receive $249 cash back when they purchase AirPods Pro 3, according to Bloomberg's Mark Gurman. The promotion has yet to be officially announced by Apple, so exact terms and conditions are not available at this time. AirPods Pro 3 are priced at $249 in the U.S., so customers who sign up",
+        "tags": [
+          "airpods pro",
+          "airpods pro 3",
+          "apple card",
+          "bloomberg",
+          "mark gurman"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9957
+      },
       {
         "id": "dcb771e25d445628",
         "title": "iPhone 17 Pro Named Fastest-Charging Smartphone",
@@ -919,37 +953,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8483
-      },
-      {
-        "id": "730ae931b570bbaf",
-        "title": "UK opens antitrust enquiry into Microsoft dominance of business software",
-        "url": "https://www.techradar.com/pro/uk-opens-antitrust-enquiry-into-microsoft-dominance-of-business-software",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778835240000,
-        "summary": "Microsoft is being investigated by the UK's CMA over its business software practices.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9108
-      },
-      {
-        "id": "a651cfad9d195f8a",
-        "title": "Asus and Xreal's $849 Gaming Display Glasses Are Available for Preorder",
-        "url": "https://www.cnet.com/tech/gaming/asus-and-xreals-849-gaming-display-glasses-are-available-for-preorder/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778830238000,
-        "summary": "They come with a dock and can work at 240Hz, but they're not cheap.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8048
       }
     ],
     "innovation": [
+      {
+        "id": "367f1bb417225a77",
+        "title": "I fixed Windows Search without installing another search app",
+        "url": "https://www.makeuseof.com/i-fixed-windows-search-without-installing-another-search-app/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778860880000,
+        "summary": "Windows Search isn't broken, it's just misconfigured.",
+        "tags": [
+          "windows",
+          "windows search",
+          "productivity"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8469
+      },
+      {
+        "id": "3c1c91f6b2d1bbc4",
+        "title": "Congress Introduces Bill To Permanently Block Chinese Vehicles From US",
+        "url": "https://tech.slashdot.org/story/26/05/15/0249216/congress-introduces-bill-to-permanently-block-chinese-vehicles-from-us?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1778860800000,
+        "summary": "Longtime Slashdot reader sinij shares a report from Car and Driver: A group of Michigan lawmakers has introduced a bill in Congress that would effectively place a permanent ban on Chinese connected vehicles from being sold in the United States. While an executive order signed by Joe Biden in early 2025 already imposed heavy restrictions, the new bill would codify and expand on the ban, as first re",
+        "tags": [
+          "transportation"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
       {
         "id": "366d43f349296b6f",
         "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
@@ -1851,42 +1889,61 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9398
-      },
-      {
-        "id": "4b944703f3409232",
-        "title": "AWS racks M3 Ultra Macs that boast specs you can’t currently buy",
-        "url": "https://www.theregister.com/off-prem/2026/05/15/aws-racks-m3-ultra-macs-that-boast-specs-you-cant-currently-buy/5240901",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1778823573000,
-        "summary": "Manages to get its hands on some Mac Studio machines before the OpenClaw machine grabs them",
-        "tags": [
-          "off-prem"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0364
-      },
-      {
-        "id": "a1ee753dde4b6391",
-        "title": "An E-Bike Motor From First Principles",
-        "url": "https://hackaday.com/2026/05/14/an-e-bike-motor-from-first-principles/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1778821252000,
-        "summary": "Many of us have made electric transport of some form, whether a Hacky Racer, and e-bike, a go-kart, or whatever. We have invariably bought a motor, or if we are …read more",
-        "tags": [
-          "transportation hacks",
-          "brushless motor",
-          "e-bike motor",
-          "motor"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0791
       }
     ],
     "ai": [
+      {
+        "id": "8aa6265fe90f22fb",
+        "title": "Bacterial energy enzyme reveals dual-trigger sodium pump mechanism, offering antibiotic clues",
+        "url": "https://phys.org/news/2026-05-bacterial-energy-enzyme-reveals-dual.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1778860803000,
+        "summary": "The Na+-NQR enzyme is vital for energy production in pathogenic bacteria like the one that causes cholera, making it a highly promising target for new antibiotics. Researchers combined modified artificial intelligence techniques with extensive supercomputer simulations to visualize the hidden, dynamic movements of this enzyme during sodium transport.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
+      {
+        "id": "67b6a32cff06ba12",
+        "title": "OpenAI now wants ChatGPT to access your bank accounts",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1778860800000,
+        "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, […]",
+        "tags": [
+          "ai",
+          "news",
+          "openai",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8519
+      },
+      {
+        "id": "54ecc056852f9aae",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1778860800000,
+        "summary": "OpenAI is launching personal finance tools for ChatGPT Pro subscribers in the U.S. first",
+        "tags": [
+          "tc",
+          "ai",
+          "finance",
+          "openai",
+          "chatgpt"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7449
+      },
       {
         "id": "36326502fd1a77c7",
         "title": "A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2 (Rebecca Bellan/TechCrunch)",
@@ -2780,54 +2837,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.862
-      },
-      {
-        "id": "30c1c153fc4848c6",
-        "title": "‘This must be engagement farming’: Nothing CEO pokes fun at Sony for 'awful' Xperia 1 VIII social post showing its AI Camera Assistant tool making photos look worse",
-        "url": "https://www.techradar.com/phones/sony-xperia-phones/this-must-be-engagement-farming-nothing-ceo-pokes-fun-at-sony-for-awful-xperia-1-viii-social-post-showing-its-ai-camera-assistant-tool-making-photos-look-worse",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778838475000,
-        "summary": "Sony's AI Camera Assistant has delivered some truly terrible results in an official post.",
-        "tags": [
-          "sony xperia phones",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9117
-      },
-      {
-        "id": "4172bb345200f976",
-        "title": "UK sovereign LLM inference",
-        "url": "https://relax.ai/docs",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778837246000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:59"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "8f996c985dd1dcd1",
-        "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
-        "url": "https://relax.ai/docs",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778837246000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:10"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.036
       }
     ],
     "science": [
