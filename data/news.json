@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:25:03.854196+00:00",
+  "generated_at": "2026-05-15T22:28:14.585778+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1966,6 +1966,26 @@
     ],
     "ai": [
       {
+        "id": "634ac523cba2a366",
+        "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+        "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1778883900000,
+        "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts […]",
+        "tags": [
+          "ai",
+          "creators",
+          "google",
+          "news",
+          "streaming",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8545
+      },
+      {
         "id": "5df7b3cdffeb2c50",
         "title": "Attack of the AI lawnmowers? Yarbo forced to patch products after experts reveal method to remotely hijack thousands of devices",
         "url": "https://www.techradar.com/pro/security/attack-of-the-ai-lawnmowers-yarbo-forced-to-patch-products-after-experts-reveal-method-to-remotely-hijack-thousands-of-devices",
@@ -2917,19 +2937,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8533
-      },
-      {
-        "id": "b0f6a8eeee1c9ce9",
-        "title": "Students Cheating With AI Caused This Ivy League School to Overturn a 133-Year-Old Tradition",
-        "url": "https://www.cnet.com/tech/services-and-software/students-cheating-with-ai-caused-princeton-to-overturn-a-133-year-old-rule/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778854860000,
-        "summary": "AI on smartphones makes it hard for students to catch each other cheating, and social media makes them less likely to report it.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.872
       }
     ],
     "science": [
@@ -3838,20 +3845,20 @@
         "score": 1.094
       },
       {
-        "id": "b8d41f45ab00e490",
-        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
-        "url": "https://arxiv.org/abs/2605.14061",
-        "source": "arXiv cs.AI",
+        "id": "0562e7d517c6f19f",
+        "title": "Neural Fields for NV-Center Inverse Sensing",
+        "url": "https://arxiv.org/abs/2605.13988",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
+        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
         "tags": [
-          "cs.ai",
-          "cs.lg"
+          "cs.lg",
+          "quant-ph"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7365
+        "score": 0.7946
       }
     ]
   },
