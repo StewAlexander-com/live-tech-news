@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-15T17:28:16.406025+00:00",
+  "generated_at": "2026-05-15T17:40:40.971399+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "cd349ec01db05f41",
+        "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+        "url": "https://github.com/gdevic/FPGA-Calculator",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1778865358000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:6"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0417
+      },
       {
         "id": "5c3d9243c6d0746b",
         "title": "Review: iVANKY's FusionDock Ultra is a Premium 26-Port Thunderbolt 5 Dock for Your Mac",
@@ -947,25 +963,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9972
-      },
-      {
-        "id": "88cfcd225b33a3c2",
-        "title": "'Infrastructure rotates and payloads can change, but the execution model persists': Chinese hackers return to target victims across Asia with new MustangPanda threat",
-        "url": "https://www.techradar.com/pro/security/infrastructure-rotates-and-payloads-can-change-but-the-execution-model-persists-chinese-hackers-return-to-target-victims-across-asia-with-new-mustangpanda-threat",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778840294000,
-        "summary": "Researchers spotted an updated version of the FDMTP backdoor being deployed through DLL sideloading.",
-        "tags": [
-          "security",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.847
       }
     ],
     "innovation": [
+      {
+        "id": "615f4a78478748be",
+        "title": "This is the self-hosted Dropbox alternative I've been waiting for",
+        "url": "https://www.makeuseof.com/seafile-pen-source-dropbox-alternative/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778866219000,
+        "summary": "I replaced Dropbox with this, and never looked back.",
+        "tags": [
+          "productivity",
+          "cloud storage",
+          "dropbox"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8472
+      },
       {
         "id": "5479874e9656ed0f",
         "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
@@ -1016,6 +1033,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.997
+      },
+      {
+        "id": "d297ff5390eee4ef",
+        "title": "Revolut is offering every employee GBP1,000 to sell business banking. The real prize is a $200 billion IPO.",
+        "url": "https://thenextweb.com/news/revolut-business-banking-b2b-storonsky-growth",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1778862872000,
+        "summary": "Revolut’s chief executive, Nik Storonsky, has told employees across the company that business banking is now its top priority, and is offering each of them £1,000 to prove he means it. In a memo sent to staff on Friday, Storonsky asked everyone, regardless of department, to help bring in new business customers, send pitches […] This story continues at The Next Web",
+        "tags": [
+          "fintech and ecommerce",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8811
       },
       {
         "id": "24b5492fd95a57c4",
@@ -1873,41 +1906,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8922
-      },
-      {
-        "id": "556fd9a8463320b1",
-        "title": "Coal pollution is cutting solar power output worldwide, study finds",
-        "url": "https://phys.org/news/2026-05-coal-pollution-solar-power-output.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1778835603000,
-        "summary": "New research led by the University of Oxford and University College London (UCL) has revealed that pollution from coal-fired power plants is significantly reducing the energy output of solar photovoltaic (solar PV) installations, particularly where these are expanding side by side. The findings have been published in Nature Sustainability.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0139
-      },
-      {
-        "id": "9abe0051aa849dae",
-        "title": "The world is on track to miss its health targets",
-        "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-        "source": "MIT Technology Review",
-        "lane": "innovation",
-        "published_ts": 1778835600000,
-        "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday. And the results aren’t looking brilliant. While…",
-        "tags": [
-          "biotechnology and health",
-          "app",
-          "the checkup"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0383
       }
     ],
     "ai": [
+      {
+        "id": "8ac056a3b38241b4",
+        "title": "OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team (Maxwell Zeff/Wired)",
+        "url": "https://www.techmeme.com/260515/p19#a260515p19",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778866436000,
+        "summary": "Maxwell Zeff / Wired: OpenAI memo: Greg Brockman says he will lead product strategy as part of a reorg, folding ChatGPT, Codex, and developer-facing API into one core product team — OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9978
+      },
       {
         "id": "505cd169f83d2758",
         "title": "ChatGPT Can Now Connect to Your Financial Accounts for Budgeting Advice",
@@ -1977,6 +1991,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1302
+      },
+      {
+        "id": "4442eb536e2fb791",
+        "title": "China’s tech giants are replacing the search bar with AI agents that shop for you",
+        "url": "https://thenextweb.com/news/chinas-tech-giants-are-replacing-the-search-bar-with-ai-agents-that-shop-for-you",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1778863416000,
+        "summary": "For years, buying something online in China meant typing keywords into a search bar and scrolling through an endless grid of listings. That ritual is being dismantled. On Monday, Alibaba Group integrated its Qwen artificial intelligence assistant with Taobao, its largest marketplace, giving the chatbot access to a catalogue of more than four billion products. […] This story continues at The Next W",
+        "tags": [
+          "artificial intelligence",
+          "fintech and ecommerce",
+          "next featured",
+          "china"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9544
       },
       {
         "id": "0a5dfa6ae24ddc53",
@@ -2840,37 +2872,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0196
-      },
-      {
-        "id": "59ab54dd14c2b913",
-        "title": "The UK's HMRC tax authority announces a 10-year, £175M deal with London-based Quantexa to use its AI tech to identify fraud incidents and fix tax return errors (Zoe Kleinman/BBC)",
-        "url": "https://www.techmeme.com/260515/p9#a260515p9",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778844001000,
-        "summary": "Zoe Kleinman / BBC: The UK's HMRC tax authority announces a 10-year, £175M deal with London-based Quantexa to use its AI tech to identify fraud incidents and fix tax return errors — HM Revenue and Customs has announced a 10-year, £175m deal with the British tech firm Quantexa to provide AI-powered technology to help improve its performance.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0793
-      },
-      {
-        "id": "a76d4c4b30b21313",
-        "title": "‘They haven’t even made an honest effort’: OpenAI could sue Apple over its fractious Siri partnership — here’s what it might mean for you",
-        "url": "https://www.techradar.com/ai-platforms-assistants/they-havent-even-made-an-honest-effort-openai-could-sue-apple-over-its-fractious-siri-partnership-heres-what-it-might-mean-for-you",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778843453000,
-        "summary": "A report claims OpenAI is considering suing Apple over the AI partnership between the two tech giants.",
-        "tags": [
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9147
       }
     ],
     "science": [
+      {
+        "id": "28cdd52978fc45e1",
+        "title": "Sunlight-powered generation of correlated photon pairs",
+        "url": "https://phys.org/news/2026-05-sunlight-powered-generation-photon-pairs.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778866805000,
+        "summary": "Pairs of correlated or entangled photons are a foundational resource in quantum optics. They are most commonly produced through spontaneous parametric down-conversion (SPDC), a nonlinear optical process that typically relies on a stable, coherent laser to pump a nonlinear crystal. Because of this requirement, SPDC has long been viewed as impractical without laboratory-grade laser systems.",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1014
+      },
       {
         "id": "903e61fb259fdd7a",
         "title": "Climate warming causes bleaching in key Arctic lichen, study finds",
@@ -3781,21 +3800,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0105
-      },
-      {
-        "id": "1bf35fd0bbc9081b",
-        "title": "The 'silent' invasion of a widespread freshwater jellyfish across Europe",
-        "url": "https://phys.org/news/2026-05-silent-invasion-widespread-freshwater-jellyfish.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778803202000,
-        "summary": "A new study published in the journal People and Nature reveals a significant gap in public awareness regarding one of the world's most widespread invasive species: the freshwater jellyfish Craspedacusta sowerbii. Despite being present on six continents and well-documented by scientists in Europe, this unnoticed (cryptic meaning \"under the radar\") invader remains largely unknown to the public, a fa",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
       }
     ]
   },
