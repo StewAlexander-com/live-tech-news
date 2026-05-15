@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:05:40.074007+00:00",
+  "generated_at": "2026-05-15T22:25:03.854196+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1966,6 +1966,35 @@
     ],
     "ai": [
       {
+        "id": "5df7b3cdffeb2c50",
+        "title": "Attack of the AI lawnmowers? Yarbo forced to patch products after experts reveal method to remotely hijack thousands of devices",
+        "url": "https://www.techradar.com/pro/security/attack-of-the-ai-lawnmowers-yarbo-forced-to-patch-products-after-experts-reveal-method-to-remotely-hijack-thousands-of-devices",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778883600000,
+        "summary": "A cybersecurity flaw in Yarbo robotic mowers exposed thousands of internet-connected devices to spying, hijacking, infrastructure, and surveillance risks.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9165
+      },
+      {
+        "id": "849cf1c99a45660e",
+        "title": "Professional services firm EY has withdrawn a study on loyalty rewards programs after researchers at GPTZero found apparent AI hallucinations and fake footnotes (Stephen Foley/Financial Times)",
+        "url": "https://www.techmeme.com/260515/p28#a260515p28",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778883301000,
+        "summary": "Stephen Foley / Financial Times: Professional services firm EY has withdrawn a study on loyalty rewards programs after researchers at GPTZero found apparent AI hallucinations and fake footnotes — Incident is latest example of professional services firm being led astray by new technology — EY has withdrawn a study …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0765
+      },
+      {
         "id": "775cbac8a5ef7b8c",
         "title": "AMD Is Bringing Improved FSR 4 Upscaling To Its Older GPUs",
         "url": "https://hardware.slashdot.org/story/26/05/15/1928250/amd-is-bringing-improved-fsr-4-upscaling-to-its-older-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -2901,44 +2930,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.872
-      },
-      {
-        "id": "c9fa9f60e094af89",
-        "title": "Trump says China is blocking Nvidia H200 purchases despite US approval — says country 'chose not to' sanction purchases, pushing homegrown chips instead",
-        "url": "https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1778854661000,
-        "summary": "President Donald Trump said on Friday that Beijing is refusing to let Chinese companies buy Nvidia's H200 AI chips.",
-        "tags": [
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.02
-      },
-      {
-        "id": "49c42e4678c60310",
-        "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
-        "url": "https://arstechnica.com/health/2026/05/routine-vaccines-may-cut-dementia-risk-experts-have-startling-hypothesis-on-how/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778853683000,
-        "summary": "Vaccines may be training a part of our immune system long thought to be untrainable.",
-        "tags": [
-          "health",
-          "ars-health-featured",
-          "ars-health-shingles",
-          "bcg",
-          "dementia",
-          "flu"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.989
       }
     ],
     "science": [
+      {
+        "id": "dc03420ac8de6ba1",
+        "title": "RNA's first letter may shape antiviral alarms, with A outpacing G",
+        "url": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778883601000,
+        "summary": "Researchers at the International Institute of Molecular and Cell Biology in Warsaw (IIMCB), led by Prof. Gracjan Michlewski, have shown that a subtle difference at the very beginning of an RNA molecule can influence how strongly a cell activates innate immune antiviral responses.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
       {
         "id": "e506776e58dd04cc",
         "title": "Sustainable chemistry: Iron substitutes noble metals in catalytic reactions",
@@ -3829,36 +3838,20 @@
         "score": 1.094
       },
       {
-        "id": "0562e7d517c6f19f",
-        "title": "Neural Fields for NV-Center Inverse Sensing",
-        "url": "https://arxiv.org/abs/2605.13988",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
-        "tags": [
-          "cs.lg",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8004
-      },
-      {
-        "id": "9d487b2cc96db7c0",
-        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
-        "url": "https://arxiv.org/abs/2605.14318",
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
         "tags": [
           "cs.ai",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7411
+        "score": 0.7365
       }
     ]
   },
