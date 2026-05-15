@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T21:05:00.940980+00:00",
+  "generated_at": "2026-05-15T21:09:48.780866+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -19,6 +19,32 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8486
+      },
+      {
+        "id": "78b6c50d83a1e950",
+        "title": "Google Could Limit New Gmail Accounts to Only 5GB of Free Storage",
+        "url": "https://www.cnet.com/tech/services-and-software/gmail-less-than-15gb-storage/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1778878513000,
+        "summary": "A report suggests that Google's 15GB free tier is at risk as the company tests a lower 5GB cap for new sign-ups.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8162
+      },
+      {
+        "id": "a9731af76ae7f9b4",
+        "title": "Android 16 Bug Allows Apps to Ignore VPNs and Leak IP Addresses",
+        "url": "https://www.cnet.com/tech/services-and-software/android-16-bug-allows-apps-to-ignore-vpns-and-leak-ip-addresses/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1778878247000,
+        "summary": "A newly discovered vulnerability circumvents even always-on VPNs for Android users.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.815
       },
       {
         "id": "6f20ccddb90283ab",
@@ -956,41 +982,27 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0725
-      },
-      {
-        "id": "de782b02eaa01500",
-        "title": "The DJI Osmo Pocket 4P was officially teased at the Cannes Film Festival giving us clues to its headlines pro features, but we're still waiting on a launch date",
-        "url": "https://www.techradar.com/cameras/video-cameras/the-dji-osmo-pocket-4p-was-officially-teased-at-the-cannes-film-festival-giving-us-clues-to-its-headlines-pro-features-but-were-still-waiting-on-a-launch-date",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778847417000,
-        "summary": "We know the DJI Osmo Pocket 4P is coming, and what it looks like, but a lot of key specs are still unknown.",
-        "tags": [
-          "video cameras",
-          "cameras"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9163
-      },
-      {
-        "id": "cc68b0181159f9fb",
-        "title": "'Samsung’s produced a winner here' — its fantastic Galaxy Watch 8 is now £50 off at Amazon",
-        "url": "https://www.techradar.com/health-fitness/smartwatches/samsungs-produced-a-winner-here-its-fantastic-galaxy-watch-8-is-now-gbp50-off-at-amazon",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778847198000,
-        "summary": "The Samsung Galaxy Watch 8 with Bluetooth and LTE support plummets in price to £319 at Amazon.",
-        "tags": [
-          "smartwatches",
-          "health &amp; fitness"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8475
       }
     ],
     "innovation": [
+      {
+        "id": "a8a455ffd7c0cdda",
+        "title": "ChatGPT's new banking feature sounds convenient, but the privacy cost is steep",
+        "url": "https://www.makeuseof.com/chatgpts-new-banking-feature-convenient-with-privacy-cost/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778879192000,
+        "summary": "A messy situation waiting to happen",
+        "tags": [
+          "technology explained",
+          "openai",
+          "chatgpt",
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8491
+      },
       {
         "id": "9be140aef4aa5298",
         "title": "PC gaming HDR is still a mess — this is how I get it to work properly",
@@ -1940,19 +1952,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9698
-      },
-      {
-        "id": "96084bab03a8455e",
-        "title": "Nvidia's future in China remains unclear after the Trump-Xi Summit; Trump says China \"chose not to\" buy Nvidia chips as \"they want to try to develop their own\" (Meaghan Tobin/New York Times)",
-        "url": "https://www.techmeme.com/260515/p12#a260515p12",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1778848202000,
-        "summary": "Meaghan Tobin / New York Times: Nvidia's future in China remains unclear after the Trump-Xi Summit; Trump says China “chose not to” buy Nvidia chips as “they want to try to develop their own” — The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.993
       }
     ],
     "ai": [
@@ -3836,36 +3835,37 @@
         "score": 1.094
       },
       {
-        "id": "0562e7d517c6f19f",
-        "title": "Neural Fields for NV-Center Inverse Sensing",
-        "url": "https://arxiv.org/abs/2605.13988",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
-        "tags": [
-          "cs.lg",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8161
-      },
-      {
-        "id": "9d487b2cc96db7c0",
-        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
-        "url": "https://arxiv.org/abs/2605.14318",
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
         "tags": [
           "cs.ai",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7557
+        "score": 0.7545
+      },
+      {
+        "id": "8f50bd750dba3227",
+        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
+        "url": "https://arxiv.org/abs/2605.14215",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7545
       }
     ]
   },
