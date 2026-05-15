@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:51:23.660980+00:00",
+  "generated_at": "2026-05-15T23:58:31.054009+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1963,6 +1963,22 @@
     ],
     "ai": [
       {
+        "id": "3732c125980e13ae",
+        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+        "source": "MIT Technology Review",
+        "lane": "ai",
+        "published_ts": 1778888375000,
+        "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+        "tags": [
+          "artificial intelligence",
+          "app"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0436
+      },
+      {
         "id": "079c73027baf3013",
         "title": "YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others (Mia Sato/The Verge)",
         "url": "https://www.techmeme.com/260515/p31#a260515p31",
@@ -1989,6 +2005,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0462
+      },
+      {
+        "id": "9d7db70da5cf0045",
+        "title": "Dyson's New Fan and Air Purifier Combo Follows You Around the Room to Deliver Clean Air",
+        "url": "https://www.cnet.com/news/dysons-new-fan-and-air-purifier-combo-follows-you-around-the-room-to-deliver-clean-air/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778885658000,
+        "summary": "Oscillating fans are a nice idea to spread air around the room, but what if you just want to cool yourself? Dyson's Find+Follow uses AI tracking to do it.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8675
       },
       {
         "id": "634ac523cba2a366",
@@ -2025,6 +2054,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9165
+      },
+      {
+        "id": "03e3b788dc17828f",
+        "title": "Leave Those Laptops at Home. OpenAI Adds Codex to ChatGPT Mobile App",
+        "url": "https://www.cnet.com/tech/services-and-software/openai-releases-codex-for-chatgpt-mobile-app/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778883519000,
+        "summary": "You'll never escape your vibe coding projects as long as you have your phone with you.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7941
       },
       {
         "id": "849cf1c99a45660e",
@@ -2891,58 +2933,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0734
-      },
-      {
-        "id": "6194bb54b6b71aa5",
-        "title": "'A new rhythm for collaboration is emerging': OpenAI adds remote access to bring Codex to ChatGPT for iPhone, iPad, and Android",
-        "url": "https://www.techradar.com/pro/a-new-rhythm-for-collaboration-is-emerging-openai-adds-remote-access-to-bring-codex-to-chatgpt-for-iphone-ipad-and-android",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778859300000,
-        "summary": "Codex still runs on your desktop, but OpenAI is turning your ChatGPT mobile app into a remote controller for access from anywhere.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8448
-      },
-      {
-        "id": "5319ef145d26e0b1",
-        "title": "How AI spotted my most embarrassing oversight",
-        "url": "https://www.androidpolice.com/how-ai-spotted-most-embarrassing-oversight/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1778858111000,
-        "summary": "It broke through my cognitive bias",
-        "tags": [
-          "chatgpt",
-          "openai",
-          "productivity",
-          "openai (chatgpt)"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.076
-      },
-      {
-        "id": "88c0a23e911d68f0",
-        "title": "Casimir force co-opted to generate free energy, midichlorians not included",
-        "url": "https://arstechnica.com/science/2026/05/casimir-force-co-opted-to-generate-free-energy-midichlorians-not-included/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778857634000,
-        "summary": "The vacuum giveth, the vacuum taketh, but the vacuum doesn’t let you taketh.",
-        "tags": [
-          "science",
-          "casimir effect",
-          "electronics",
-          "physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9557
       }
     ],
     "science": [
@@ -3851,20 +3841,20 @@
         "score": 1.094
       },
       {
-        "id": "0562e7d517c6f19f",
-        "title": "Neural Fields for NV-Center Inverse Sensing",
-        "url": "https://arxiv.org/abs/2605.13988",
-        "source": "arXiv cs.LG",
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
         "tags": [
-          "cs.lg",
-          "quant-ph"
+          "cs.ai",
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7737
+        "score": 0.7148
       }
     ]
   },
