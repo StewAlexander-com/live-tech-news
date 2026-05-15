@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-05-15T03:45:22.975465+00:00",
+  "generated_at": "2026-05-15T04:31:27.129199+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "41445191ad2f04b7",
+        "title": "Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations",
+        "url": "https://arxiv.org/abs/2605.13923",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13923v1 Announce Type: new Abstract: We study certified runtime monitoring of past-time signal temporal logic (ptSTL) from visual observations under partial observability. The monitor must infer safety-relevant quantities from images and provide finite-sample guarantees, while being \\emph{reusable}: once trained and calibrated, it should certify any formula in a target fragment without ",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "cs.ro",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
       {
         "id": "4b7c47e261bfe64b",
         "title": "Mix Your Own ECN-2 Development Chemicals",
@@ -941,25 +960,70 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1848
-      },
-      {
-        "id": "79716613c39587c4",
-        "title": "This worrying Microsoft BitLocker backdoor can grant full access to a locked drive — and all you need is a USB stick",
-        "url": "https://www.techradar.com/pro/security/this-worrying-microsoft-bitlocker-backdoor-can-grant-full-access-to-a-locked-drive-and-all-you-need-is-a-usb-stick",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778776500000,
-        "summary": "Chaotic Eclipse is wreaking havoc across the Windows landscape, leaking two more flaws",
-        "tags": [
-          "security",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8459
       }
     ],
     "innovation": [
+      {
+        "id": "93ab1122254e21f2",
+        "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+        "url": "https://arxiv.org/abs/2605.13849",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7 eggs, 0.37 bananas), and hard nutrient constraints cause infeasibility when targets conflict. A syst",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "f1bf15699c0eb51d",
+        "title": "A Unified Geometric Framework for Weighted Contrastive Learning",
+        "url": "https://arxiv.org/abs/2605.13943",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13943v1 Announce Type: new Abstract: Contrastive learning (CL) aims to preserve relational structure between samples by learning representations that reflect a similarity graph. Yet, the geometry of the resulting embeddings remains poorly understood. Here we show that weighted InfoNCE objectives can be interpreted as Distance Geometry Problems, where the weighting scheme specifies the t",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "2a5409cab69d250b",
+        "title": "R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning",
+        "url": "https://arxiv.org/abs/2605.14026",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14026v1 Announce Type: new Abstract: For reinforcement learning in data-scarce domains like real-world robotics, intensive data reuse enhances efficiency but induces overfitting. While prior works focus on critic bias, representation-level instability in Self-Predictive Learning (SPL) under high Update-to-Data (UTD) regimes remains underexplored. To bridge this gap, we propose Robust Re",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "86fbb66de39cf401",
+        "title": "University of Tokyo develops device that increases computer processing speed by 1000 times, operating without generating heat.",
+        "url": "https://www.reddit.com/r/technology/comments/1tdjt7o/university_of_tokyo_develops_device_that/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1778814207000,
+        "summary": "submitted by /u/Imaginary-Group1414 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9235
+      },
       {
         "id": "942c952a1a95ed9e",
         "title": "UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures (Mike Wheatley/SiliconANGLE)",
@@ -1837,72 +1901,222 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0731
-      },
-      {
-        "id": "4c248903eb1b39f7",
-        "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
-        "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1778776202000,
-        "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-        "tags": [
-          "ai",
-          "hardware",
-          "tc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7432
-      },
-      {
-        "id": "ecaac9867f64fe05",
-        "title": "‘A’ Grades Are Suddenly Everywhere Since the Arrival of ChatGPT",
-        "url": "https://www.reddit.com/r/technology/comments/1td39ld/a_grades_are_suddenly_everywhere_since_the/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778775918000,
-        "summary": "submitted by /u/joe4942 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9254
-      },
-      {
-        "id": "6633bcf0b499f88b",
-        "title": "A four-month-old startup just raised $650 million to build AI that improves itself",
-        "url": "https://thenextweb.com/news/recursive-superintelligence-self-improving-ai-funding",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778775793000,
-        "summary": "The idea that an AI system could improve itself, then use those improvements to improve itself again, faster, in an accelerating loop that eventually outpaces every human researcher on earth, has been a fixture of computer science folklore since at least the 1960s. For most of that time, it remained comfortably theoretical. Now someone […] This story continues at The Next Web",
-        "tags": [
-          "china",
-          "insights"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9636
-      },
-      {
-        "id": "9e988f46864a97d2",
-        "title": "‘It’s like stealing’: Palestinian family’s seized property listed on Booking.com",
-        "url": "https://www.reddit.com/r/technology/comments/1td2uv4/its_like_stealing_palestinian_familys_seized/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778775074000,
-        "summary": "submitted by /u/Wagamaga [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9382
       }
     ],
     "ai": [
+      {
+        "id": "09e177aa0eba0de8",
+        "title": "How Claude Code works in large codebases",
+        "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778818531000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "a56ddbe4f3639cd2",
+        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+        "url": "https://arxiv.org/abs/2605.13850",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the sam",
+        "tags": [
+          "cs.ai",
+          "cs.ma",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "b6034ea40890ead4",
+        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2605.13851",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "99a2238d6009d4f5",
+        "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+        "url": "https://arxiv.org/abs/2605.14033",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14033v1 Announce Type: new Abstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect whether an existing representational framework remains transportable into a new regime, or whether its language has become locally-to-globally obstructed and must be extended. This paper develops a finite sheaf-theoretic frame",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "26619717956a3c70",
+        "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+        "url": "https://arxiv.org/abs/2605.14036",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14036v1 Announce Type: new Abstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine learning. However, there is no comparably principled basis to justify trust in the content of the text produced. It appears to be conventional wisdom that addressing this issue by adding more principled reasoning is not com",
+        "tags": [
+          "cs.ai",
+          "cs.cc",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "cca9a70b6d84ec1a",
+        "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+        "url": "https://arxiv.org/abs/2605.14049",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14049v1 Announce Type: new Abstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The cent",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "ace83f7fa70f2df8",
+        "title": "Distribution-Aware Algorithm Design with LLM Agents",
+        "url": "https://arxiv.org/abs/2605.14141",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14141v1 Announce Type: new Abstract: We study learning when the learned object is executable solver code rather than a predictor. In this setting, correctness is not enough: two solvers may both return valid solutions on the deployment distribution while differing substantially in runtime. Given samples from an unknown task distribution, the learner returns code evaluated on fresh insta",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "92f9538a430e6d31",
+        "title": "Rethinking Molecular OOD Generalization via Target-Aware Source Selection",
+        "url": "https://arxiv.org/abs/2605.13932",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13932v1 Announce Type: new Abstract: Robust prediction of molecular properties under extreme out-of-distribution (OOD) scenarios is a pivotal bottleneck in AI-driven drug discovery. Current scaffold-splitting protocols fail to obstruct microscopic semantic overlap, predisposing models to shortcut learning and overestimating their true extrapolation capability; meanwhile, conventional do",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "87549f6aad0e2a71",
+        "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+        "url": "https://arxiv.org/abs/2605.13941",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13941v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies remain frozen at deployment. We argue that truly adaptive memory requires co-evolution at two levels:",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "eb213a98cd8c6185",
+        "title": "EMA: Efficient Model Adaptation for Learning-based Systems",
+        "url": "https://arxiv.org/abs/2605.13942",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13942v1 Announce Type: new Abstract: Machine learning (ML) is increasingly applied to optimize system performance in tasks such as resource management and network simulation. Unlike traditional ML tasks (e.g., image classification), networked systems often operate in heterogeneous, long-running, and dynamic environment states, where input conditions (e.g., network loads) and operational",
+        "tags": [
+          "cs.lg",
+          "cs.dc",
+          "cs.ni"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "7f9d3f2a20d71758",
+        "title": "Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction",
+        "url": "https://arxiv.org/abs/2605.13950",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13950v1 Announce Type: new Abstract: Autonomous language-model agents are increasingly evaluated on long-horizon tool-use tasks, but existing benchmarks rarely capture the complexity and nuance of real scientific work. To address this gap, we introduce Collider-Bench, a benchmark for evaluating whether LLM agents can reproduce experimental analyses from the Large Hadron Collider (LHC) u",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "hep-ex",
+          "hep-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "bb2d8ea3383232ad",
+        "title": "Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines",
+        "url": "https://arxiv.org/abs/2605.13981",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13981v1 Announce Type: new Abstract: The rise in deployment of large language models has driven a surge in GPU demand and datacenter scaling, raising concerns about electricity use, grid stress, and the impacts of modern AI workloads. Distillation is often promoted as one of the most effective paths to obtain cheaper, more efficient models, yet these claims rarely account for the full e",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "ef9e68000cb8baab",
+        "title": "Comparative Evaluation of Machine Learning Approaches for Minority-Class Financial Distress Prediction Under Class Imbalance Constraints",
+        "url": "https://arxiv.org/abs/2605.14067",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14067v1 Announce Type: new Abstract: Financial distress prediction remains a significant challenge in enterprise risk analysis due to the highly imbalanced nature of real-world financial datasets, where bankrupt or distressed firms typically constitute only a small minority of observations. This paper presents a comparative evaluation of classical statistical methods, ensemble learning ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
       {
         "id": "b8a5bd07b9f74bf2",
         "title": "Musk Accused of 'Selective Amnesia', Altman of Lying As OpenAI Trial Nears End",
@@ -1932,6 +2146,21 @@
         "score": 1.0736
       },
       {
+        "id": "cda984dd89cf289d",
+        "title": "Possible Samsung strike puts even more pressure on memory pricing",
+        "url": "https://www.theregister.com/systems/2026/05/15/possible-samsung-strike-puts-even-more-pressure-on-memory-pricing/5240874",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1778813017000,
+        "summary": "As a senior policymaker ponders whether all South Koreans should enjoy an ‘AI dividend’",
+        "tags": [
+          "systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0954
+      },
+      {
         "id": "a2a29fa0f5f101eb",
         "title": "In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 (Anthropic)",
         "url": "https://www.techmeme.com/260514/p44#a260514p44",
@@ -1943,6 +2172,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0747
+      },
+      {
+        "id": "330cac2b72e0c61b",
+        "title": "Access to frontier AI will soon be limited by economic and security constraints",
+        "url": "https://writing.antonleicht.me/p/cut-off",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778807284000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:26"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0624
       },
       {
         "id": "34cf2f9ded16040d",
@@ -2580,260 +2825,124 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8049
-      },
-      {
-        "id": "bab943eff603dd7b",
-        "title": "Netflix wants to use generative AI to make animated shorts",
-        "url": "https://www.engadget.com/2173239/netflix-wants-to-use-generative-ai-to-make-animated-shorts/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778788391000,
-        "summary": "Sigh.",
-        "tags": [
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7565
-      },
-      {
-        "id": "183292dcf467b0fc",
-        "title": "Carta acquires a law firm and bets the future of private capital runs on a single platform",
-        "url": "https://thenextweb.com/news/carta-law-avantia-acquisition-ai-legal-private-capital",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778787174000,
-        "summary": "Carta has spent the past eight months buying its way toward something that did not exist a year ago: a single platform that handles dealmaking, fund operations, investor relations, and now legal and compliance work for the private capital industry. The acquisition of Avantia, a UK-based AI-powered law firm for asset managers, is the […] This story continues at The Next Web",
-        "tags": [
-          "merge and acquisition",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9503
-      },
-      {
-        "id": "a051a7d9cef582ae",
-        "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
-        "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778786248000,
-        "summary": "Town’s 49,000 California residents compete with Nevada data centers for energy.",
-        "tags": [
-          "ai",
-          "policy",
-          "ai data centers",
-          "ai energy",
-          "data centers",
-          "electricity demand"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9794
-      },
-      {
-        "id": "022d04e684c25760",
-        "title": "Sources: Intel has begun testing production of \"low-end/legacy iPhone, iPad, and Mac processors\"; Apple thinks TSMC's resources will continue tilting toward AI (@mingchikuo)",
-        "url": "https://www.techmeme.com/260514/p29#a260514p29",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778786101000,
-        "summary": "@mingchikuo: Sources: Intel has begun testing production of “low-end/legacy iPhone, iPad, and Mac processors”; Apple thinks TSMC's resources will continue tilting toward AI — ... Apple has kicked off low-end/legacy iPhone, iPad, and Mac processors at Intel on the 18A-P series (using Foveros packaging).",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.076
-      },
-      {
-        "id": "2fbcdf567c8d0be3",
-        "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-        "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778785923000,
-        "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
-        "tags": [
-          "ai",
-          "jony ive",
-          "lawsuit",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7445
-      },
-      {
-        "id": "32c2361829b63bf1",
-        "title": "Ford stock jumped as much as 25% in two days after the launch of Ford Energy, a new subsidiary providing battery storage capacity to AI data centers (Christian Davies/Financial Times)",
-        "url": "https://www.techmeme.com/260514/p28#a260514p28",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778785560000,
-        "summary": "Christian Davies / Financial Times: Ford stock jumped as much as 25% in two days after the launch of Ford Energy, a new subsidiary providing battery storage capacity to AI data centers — New subsidiary pivots to energy storage batteries for AI after disastrous electric vehicle writedown — Shares in Detroit auto giant Ford surged …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0797
-      },
-      {
-        "id": "2876a11b01a4fad8",
-        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-        "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778785501000,
-        "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-        "tags": [
-          "ai",
-          "gadgets",
-          "ai tokens",
-          "claude",
-          "claude code",
-          "tokenmaxxing"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8074
-      },
-      {
-        "id": "51253e627d45b09b",
-        "title": "Princeton Will Supervise Exams For First Time In 133 Years Because of AI",
-        "url": "https://news.slashdot.org/story/26/05/14/1734202/princeton-will-supervise-exams-for-first-time-in-133-years-because-of-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1778785200000,
-        "summary": "An anonymous reader quotes a report from The Independent: Princeton University will soon require exams to be supervised for the first time in 100 years -- all thanks to students using artificial intelligence to cheat. For 133 years, the Ivy League school's honor code allowed students to take exams without a professor present, but on Monday, faculty voted to require proctoring for all in-person exa",
-        "tags": [
-          "education",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1315
-      },
-      {
-        "id": "a2f075f6416be0c0",
-        "title": "Microsoft starts canceling Claude Code licenses",
-        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1778785200000,
-        "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me that Claude Code has proved […]",
-        "tags": [
-          "ai",
-          "microsoft",
-          "notepad",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8535
-      },
-      {
-        "id": "421e09fac775e822",
-        "title": "AMD promises to bring improved, hardware-backed FSR 4 upscaling to older Radeon GPUs",
-        "url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778784954000,
-        "summary": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
-        "tags": [
-          "gaming",
-          "tech",
-          "amd",
-          "amd fsr",
-          "fsr 4",
-          "radeon"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9965
-      },
-      {
-        "id": "7d92a282fa7bff75",
-        "title": "Judge probes whether Musk settlement with Trump admin is tainted by corruption",
-        "url": "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778784301000,
-        "summary": "Trump admin wants to let Musk pay $1.5M fine to settle $150 million Twitter suit.",
-        "tags": [
-          "policy",
-          "elon musk",
-          "sec"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.993
-      },
-      {
-        "id": "e5925c77194c3f82",
-        "title": "The AI Zombification of Universities",
-        "url": "https://www.thenewcritic.com/p/the-great-zombification",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778783828000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1161
-      },
-      {
-        "id": "c52d018e10af242e",
-        "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-        "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1778783521000,
-        "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-        "tags": [
-          "biz & it",
-          "security",
-          "bitlocker",
-          "disk encryption",
-          "microsoft",
-          "vulnerabilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9889
-      },
-      {
-        "id": "929ea48d1f1f42e1",
-        "title": "Gurman Reports that OpenAI Is Unhappy With Apple Deal",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&embedded-checkout=true",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1778783270000,
-        "summary": "Mark Gurman, reporting for Bloomberg under the headline, “Apple-OpenAI Alliance Frays, Setting Up Possible Legal Fight”: OpenAI lawyers are actively working with an outside legal firm on a range of options that could be formally executed in the near future, said the people, who asked not to be identified because the deliberations are private. That could include sending the iPhone maker a notice al",
-        "tags": [],
-        "paywall": true,
-        "impact": "normal",
-        "score": 0.8045
-      },
-      {
-        "id": "87a8c075ab425c3c",
-        "title": "AI is making me dumb",
-        "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1778782768000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:198"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3778
       }
     ],
     "science": [
+      {
+        "id": "0562e7d517c6f19f",
+        "title": "Neural Fields for NV-Center Inverse Sensing",
+        "url": "https://arxiv.org/abs/2605.13988",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
+        "tags": [
+          "cs.lg",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1226
+      },
+      {
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "8f50bd750dba3227",
+        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
+        "url": "https://arxiv.org/abs/2605.14215",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "9d487b2cc96db7c0",
+        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
+        "url": "https://arxiv.org/abs/2605.14318",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "a1f5c794844a244d",
+        "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
+        "url": "https://arxiv.org/abs/2605.13933",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dime",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "bf0e2525e175107f",
+        "title": "WarmPrior: Straightening Flow-Matching Policies with Temporal Priors",
+        "url": "https://arxiv.org/abs/2605.13959",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13959v1 Announce Type: new Abstract: Generative policies based on diffusion and flow matching have become a dominant paradigm for visuomotor robotic control. We show that replacing the standard Gaussian source distribution with WarmPrior, a simple temporally grounded prior constructed from readily available recent action history, consistently improves success rates on robotic manipulati",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "bd74b79313a48827",
+        "title": "Towards Fine-Grained and Verifiable Concept Bottleneck Models",
+        "url": "https://arxiv.org/abs/2605.14210",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14210v1 Announce Type: new Abstract: Concept Bottleneck Models (CBMs) offer interpretable alternatives to black-box predictors by introducing human-relatable concepts before the final output. However, existing CBMs struggle to verify whether predicted concepts correspond to the correct visual evidence, limiting their reliability. We propose a fine-grained CBM framework that grounds each",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
       {
         "id": "2052d1a02c066561",
         "title": "The hidden cost of a failed property auction",
@@ -3628,115 +3737,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0182
-      },
-      {
-        "id": "c2f63125ad165158",
-        "title": "'Learning recession' in US schools predates pandemic: Report",
-        "url": "https://phys.org/news/2026-05-recession-schools-predates-pandemic.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778765589000,
-        "summary": "A new analysis of student test scores reveals that American schools were in a \"learning recession\" for seven years before the COVID-19 pandemic, with student test scores in math and reading on a steady decline since 2013. This reversal ended two decades of progress, according to Sean Reardon, the Professor of Poverty and Inequality at Stanford Graduate School of Education, whose data forms the bac",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0161
-      },
-      {
-        "id": "5bdf87c2cb518671",
-        "title": "The high‑tech shipbuilding methods that helped Vikings dominate the seas",
-        "url": "https://phys.org/news/2026-05-hightech-shipbuilding-methods-vikings-dominate.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778765062000,
-        "summary": "Images of the sleek keels, elegant planks, and dragon-headed prows of Viking longships have been reproduced countless times on postcards, book covers, souvenirs and in television shows and movies.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.018
-      },
-      {
-        "id": "c5fe8970dbdbeee2",
-        "title": "Hairy new fish species discovered in the Great Barrier Reef",
-        "url": "https://phys.org/news/2026-05-hairy-fish-species-great-barrier.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778764804000,
-        "summary": "Swimming among the corals of the Great Barrier Reef is a fish that could be a doppelganger for the famous Sesame Street character Mr. Snuffleupagus. This bright orange-red, hairy, long-snouted ghost pipefish is a new species that has been hiding in plain sight for years, often confused with other ghost pipefish.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
-      },
-      {
-        "id": "5b5ba1c995a87d29",
-        "title": "Privately educated CEOs seen as 'safer bets' despite no evidence they are",
-        "url": "https://phys.org/news/2026-05-privately-ceos-safer-evidence.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778764589000,
-        "summary": "Investors may be mistaking privilege for competence, rewarding privately educated CEOs with lower perceived risk despite no evidence they perform or behave differently.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
-      },
-      {
-        "id": "181cc0edbc8b246b",
-        "title": "Forecasters predict wildfires, floods, severe heatwaves from incoming El Niño",
-        "url": "https://arstechnica.com/science/2026/05/forecasters-predict-wildfires-floods-severe-heatwaves-from-incoming-el-nino/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1778764186000,
-        "summary": "Ocean heat plus human-caused global warming is a grim recipe for deadly climate extremes.",
-        "tags": [
-          "science",
-          "climate change",
-          "drought",
-          "el niño",
-          "wildfires"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9773
-      },
-      {
-        "id": "4013671420399391",
-        "title": "More than half of US faces worst drought in decades, says expert",
-        "url": "https://phys.org/news/2026-05-worst-drought-decades-expert.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778763901000,
-        "summary": "More than 60% of the United States is experiencing drought conditions, with more than 20% in an extreme drought. Andrew Ellis, a climatologist at Virginia Tech said the current conditions are among the worst in decades because the combination of intensity and aerial coverage is rare. He explained why, who is most impacted, and when we can expect relief.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
-      },
-      {
-        "id": "33ec97eb06947e7f",
-        "title": "Reducing fear is critical for improving trust in law enforcement, study finds",
-        "url": "https://phys.org/news/2026-05-critical-law.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778763607000,
-        "summary": "Law enforcement is a critical aspect of ensuring safety in communities. However, unjustified harm has been associated with law enforcement throughout history, resulting in tension between police and communities.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
       }
     ]
   },
