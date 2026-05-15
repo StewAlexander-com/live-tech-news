@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T19:35:52.668262+00:00",
+  "generated_at": "2026-05-15T19:39:08.556888+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3749,6 +3749,39 @@
         "score": 1.094
       },
       {
+        "id": "9d487b2cc96db7c0",
+        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
+        "url": "https://arxiv.org/abs/2605.14318",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7768
+      },
+      {
+        "id": "a1f5c794844a244d",
+        "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
+        "url": "https://arxiv.org/abs/2605.13933",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space while explicitly separating acquisition-related effects from biological variation. Conventional dime",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7768
+      },
+      {
         "id": "bf0e2525e175107f",
         "title": "WarmPrior: Straightening Flow-Matching Policies with Temporal Priors",
         "url": "https://arxiv.org/abs/2605.13959",
@@ -3796,39 +3829,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1226
-      },
-      {
-        "id": "b8d41f45ab00e490",
-        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
-        "url": "https://arxiv.org/abs/2605.14061",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0395
-      },
-      {
-        "id": "8f50bd750dba3227",
-        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
-        "url": "https://arxiv.org/abs/2605.14215",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
-        "tags": [
-          "cs.ai",
-          "cs.lg",
-          "q-bio.qm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0395
       }
     ]
   },
