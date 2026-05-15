@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T21:56:48.826064+00:00",
+  "generated_at": "2026-05-15T22:01:34.446352+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -980,6 +980,24 @@
     ],
     "innovation": [
       {
+        "id": "ba89eab258a7218b",
+        "title": "6 Linux distros that were huge once, but barely matter now",
+        "url": "https://www.makeuseof.com/linux-distros-that-were-huge-once-but-barely-matter-now/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1778882420000,
+        "summary": "A few of these distros were basically celebrities in the Linux world.",
+        "tags": [
+          "linux",
+          "linux distro",
+          "open source",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8497
+      },
+      {
         "id": "f8045cdfddd8fb29",
         "title": "Exclusive: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible",
         "url": "https://www.reddit.com/r/technology/comments/1te9yia/exclusive_hackers_have_breached_tank_readers_at/",
@@ -1940,24 +1958,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.747
-      },
-      {
-        "id": "5083de4ab575d5f7",
-        "title": "Nearly 50,000 Lake Tahoe residents have one year to find new power as their utility pivots to data centers",
-        "url": "https://www.reddit.com/r/technology/comments/1tdv27d/nearly_50000_lake_tahoe_residents_have_one_year/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778848538000,
-        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9451
       }
     ],
     "ai": [
+      {
+        "id": "775cbac8a5ef7b8c",
+        "title": "AMD Is Bringing Improved FSR 4 Upscaling To Its Older GPUs",
+        "url": "https://hardware.slashdot.org/story/26/05/15/1928250/amd-is-bringing-improved-fsr-4-upscaling-to-its-older-gpus?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778882400000,
+        "summary": "AMD says FSR 4.1 will finally bring its newer hardware-accelerated upscaling technology to older Radeon GPUs. \"The rollout will begin in July with RDNA3- and 3.5-based GPUs, which include the Radeon RX 7000 series, as well as integrated GPUs like the Radeon 890M and Radeon 8060S,\" reports Ars Technica. \"In 'early 2027,' support will also be extended to the RDNA2 architecture, which includes the Ra",
+        "tags": [
+          "graphics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0495
+      },
       {
         "id": "c9843ac60e569032",
         "title": "The AI Backlash Could Get Very Ugly",
@@ -2914,26 +2932,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.989
-      },
-      {
-        "id": "98c4349eab46ca43",
-        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-        "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778853600000,
-        "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-        "tags": [
-          "ai",
-          "media & entertainment",
-          "ai video generation",
-          "exclusive",
-          "runway",
-          "video intelligence"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7556
       }
     ],
     "science": [
@@ -3827,36 +3825,37 @@
         "score": 1.094
       },
       {
-        "id": "0562e7d517c6f19f",
-        "title": "Neural Fields for NV-Center Inverse Sensing",
-        "url": "https://arxiv.org/abs/2605.13988",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1778817600000,
-        "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We study this issue for noise sensing based on nitrogen-vacancy (NV) centers in diamond, where a quantum ",
-        "tags": [
-          "cs.lg",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8027
-      },
-      {
-        "id": "9d487b2cc96db7c0",
-        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
-        "url": "https://arxiv.org/abs/2605.14318",
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1778817600000,
-        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
         "tags": [
           "cs.ai",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7432
+        "score": 0.7421
+      },
+      {
+        "id": "8f50bd750dba3227",
+        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
+        "url": "https://arxiv.org/abs/2605.14215",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778817600000,
+        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7421
       }
     ]
   },
