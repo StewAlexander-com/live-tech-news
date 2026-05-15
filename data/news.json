@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T00:49:17.329522+00:00",
+  "generated_at": "2026-05-15T01:10:43.846114+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -458,6 +458,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0378
+      },
+      {
+        "id": "e7d13e4bc08cda98",
+        "title": "AMD GPU owners take to Reddit to report fan problem with driver update — Zero RPM feature could cause GPU temperatures to rise unexpectedly",
+        "url": "https://www.reddit.com/r/technology/comments/1td9d8f/amd_gpu_owners_take_to_reddit_to_report_fan/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1778788594000,
+        "summary": "submitted by /u/twofive7 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8589
       },
       {
         "id": "6409f73e08110397",
@@ -945,26 +961,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8437
-      },
-      {
-        "id": "5e4e7b8f5c11fc98",
-        "title": "Turtle Beach Stealth Pro II review: Impressively versatile",
-        "url": "https://www.tomshardware.com/peripherals/gaming-headsets/turtle-beach-stealth-pro-ii-review",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778775490000,
-        "summary": "Turtle Beach's second-generation Stealth Pro II headset is the first headset that lets you connect to multiple devices over 2.4GHz wireless with USB-A dongles instead of wires. If you want a headset that can connect to everything, no matter where it is, this is the most versatile headset we've seen.",
-        "tags": [
-          "gaming headsets",
-          "peripherals",
-          "headphones and headsets"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9495
       }
     ],
     "innovation": [
+      {
+        "id": "05040bd9e65cd05c",
+        "title": "Let’s Run a Neologism Poll",
+        "url": "https://mastodon.social/@gruber/116575825801893849",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1778806434000,
+        "summary": "After posting the previous item referencing dickpanels, a term I’ve been using since 2022, it occurred me that they could also be called dickovers (like popovers, but dickheaded). The latter sounds more clever, but I worry it’s less clear. I’m seldom so indecisive, so I’m running a Mastodon poll. ★",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0742
+      },
       {
         "id": "55272003ca63fdf2",
         "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
@@ -1910,25 +1922,76 @@
         "paywall": false,
         "impact": "high",
         "score": 1.077
-      },
-      {
-        "id": "6172ee3b054a1c46",
-        "title": "Coutts raised its minimum to £3 million. Revolut just set its at £500,000. The mass-affluent gap is the point.",
-        "url": "https://thenextweb.com/news/revolut-private-bank-wealth-management-ipo",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778772289000,
-        "summary": "Revolut is planning to launch a private banking unit in the United Kingdom and parts of Europe as soon as this summer, according to a person with knowledge of the matter. The eligibility threshold is 500,000 pounds, roughly 675,000 dollars. Coutts, the private bank owned by NatWest that has served the British establishment since […] This story continues at The Next Web",
-        "tags": [
-          "finance",
-          "future of finance"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9701
       }
     ],
     "ai": [
+      {
+        "id": "34cf2f9ded16040d",
+        "title": "Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round (George Hammond/Financial Times)",
+        "url": "https://www.techmeme.com/260514/p42#a260514p42",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778806854000,
+        "summary": "George Hammond / Financial Times: Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round — AI lab has tapped Dragoneer, Greenoaks, Sequoia Capital and Altimeter Capital to lead new round",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0766
+      },
+      {
+        "id": "8d6fa6a53037c9b1",
+        "title": "A lot of musicians will be infuriated by this 'world's first generative AI guitar', but I think its automatic tabulation and learning features sound genuinely smart — but only if the AI's ethical",
+        "url": "https://www.techradar.com/audio/worlds-first-generative-ai-guitar",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1778806800000,
+        "summary": "The Melo-D is a smart guitar that comes with useful AI features. It looks particularly good for beginners but I have a few concerns.",
+        "tags": [
+          "audio"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9148
+      },
+      {
+        "id": "9add350e119a1381",
+        "title": "‘Musk v. Altman’ Closing Arguments",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1778806658000,
+        "summary": "Elizabeth Lopatto, reporting for The Verge (gift link): Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk’s lawyer, stumbled over his words. He at one point called Greg Brockman — a co-defendant — Greg Altman. He erroneously claimed that Musk wasn’t asking for money and had to be correc",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9464
+      },
+      {
+        "id": "81d464e35ef61dad",
+        "title": "Sources: xAI co-founder Igor Babuschkin plans to raise up to $1B at an up to $5B valuation for a new AI research startup, with General Catalyst possibly leading (Forbes)",
+        "url": "https://www.techmeme.com/260514/p41#a260514p41",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778806501000,
+        "summary": "Forbes: Sources: xAI co-founder Igor Babuschkin plans to raise up to $1B at an up to $5B valuation for a new AI research startup, with General Catalyst possibly leading — He's the latest superstar AI researcher to take advantage of the wave of investment dollars going into so-called ‘neolabs,’ which have no product or revenue.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0746
+      },
+      {
+        "id": "3faef10eed4dfa76",
+        "title": "The Youth AI Safety Institute Has Margrethe Vestager’s Backing",
+        "url": "https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1778803393000,
+        "summary": "Una Hajdari, reporting for Euronews: A new independent institute dedicated to making artificial intelligence safer for children will beformally [sic] presented at the Danish Parliament on Tuesday, with former European Commission executive vice-president Margrethe Vestager among those co-hosting the event. The institute’s approach, as explained in a statement before the launch, is “modelled on inde",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1414
+      },
       {
         "id": "5eaf6953afbee03b",
         "title": "Margrethe Vestager Backs New AI Safety Institute for Children After Decade Regulating Big Tech | Euronews",
@@ -1941,6 +2004,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1639
+      },
+      {
+        "id": "e7d0db132b601a75",
+        "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably",
+        "url": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1778803249000,
+        "summary": "A 4GB file called weights.bin may be sitting on your hard drive right now, put there by Chrome without your knowledge.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.866
       },
       {
         "id": "cdb49a8f0bb0edbc",
@@ -2787,103 +2863,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1299
-      },
-      {
-        "id": "e6f8b47078c59a40",
-        "title": "The Fitbit Air's Bare-Bones Design Is Hiding a Much Bigger Strategy",
-        "url": "https://www.cnet.com/tech/mobile/fitbit-air-google-coach-fitness-tracker-band-first-impressions/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1778781540000,
-        "summary": "Google's $99 screenless Whoop rival may get users in the door, but the company is betting AI coaching features will keep them coming back.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8605
-      },
-      {
-        "id": "b0354970290c1dbb",
-        "title": "Graphon AI exits stealth with $8.3M to build the data layer that LLMs are missing",
-        "url": "https://thenextweb.com/news/graphon-ai-pre-model-intelligence-layer-seed-funding",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778781184000,
-        "summary": "The name is the tell. Graphon AI, which emerged from stealth on Wednesday with $8.3 million in seed funding, is named after a mathematical object that most people in AI have never heard of and that its two most prominent advisors helped invent. A graphon is the limit of a sequence of dense graphs: a […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9547
-      },
-      {
-        "id": "a198b939ada00427",
-        "title": "OpenAI Considering Legal Action Against Apple Over 'Strained' Siri Partnership",
-        "url": "https://www.macrumors.com/2026/05/14/openai-considering-legal-action-against-apple/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1778781133000,
-        "summary": "OpenAI is preparing to potentially take legal action against Apple due to a \"strained\" relationship with the iPhone maker, according to Bloomberg's Mark Gurman. The two companies reached a partnership in 2024 that saw ChatGPT integrated into features like Siri and Image Playground across iOS, iPadOS, and macOS. iPhone users can also subscribe to ChatGPT directly via the Settings app, with Apple ta",
-        "tags": [
-          "featured",
-          "bloomberg",
-          "chatgpt",
-          "mark gurman",
-          "openai",
-          "siri"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9963
-      },
-      {
-        "id": "a5b1f7fde21c5e5b",
-        "title": "Figure AI streamed humanoid robots sorting packages for 8 hours straight — and not everyone is convinced it was fully real",
-        "url": "https://www.techradar.com/ai-platforms-assistants/figure-ai-streamed-humanoid-robots-sorting-packages-for-8-hours-straight-and-not-everyone-is-convinced-it-was-fully-real",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778781108000,
-        "summary": "Watch three Figure 03 robots take turns sorting through packages on a conveyor belt, at speeds similar to humans.",
-        "tags": [
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9144
-      },
-      {
-        "id": "e11c47b0c8477246",
-        "title": "Americans really don't want AI data centers close to their homes",
-        "url": "https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1778780954000,
-        "summary": "Maybe NIMBYs are right for once.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7567
-      },
-      {
-        "id": "e1007ed3d5cf5d30",
-        "title": "New AI system classifies India rainfall better, cutting false alarms and missed heavy rain",
-        "url": "https://phys.org/news/2026-05-ai-india-rainfall-false-alarms.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778780084000,
-        "summary": "AI can predict rainfall intensity better than several widely used forecasting models in tests using historical weather data from India. The new model reported in the International Journal of Mobile Communications shows that combining different forms of AI, along with advanced data-cleaning and optimization techniques, can make rainfall prediction more accurate and reliable, particularly when expre",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0972
       }
     ],
     "science": [
+      {
+        "id": "08fc3b4d2ddab5b5",
+        "title": "How did the ethanol boom of the 2000s impact farm values in the Midwest?",
+        "url": "https://phys.org/news/2026-05-ethanol-boom-2000s-impact-farm.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1778806801000,
+        "summary": "The U.S. ethanol industry experienced its first major \"boom\" in the early 2000s, thanks to changes in U.S. energy policies—particularly biofuel mandates—along with the surging crude oil prices and the phaseout of a fuel additive, methyl tert-butyl ether (MTBE). In response, corn prices rose by as much as 31% and, according to a new study from South Dakota State University's Ness School of Manageme",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0165
+      },
       {
         "id": "c39e71c064ff493a",
         "title": "Soil also suffers from heat waves: Organic waste boosts its tolerance to 50°C",
@@ -3773,21 +3770,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9145
-      },
-      {
-        "id": "949c7bb18ced465c",
-        "title": "What gives stevia its sweetness? Scientists uncover the genetic secret",
-        "url": "https://phys.org/news/2026-05-stevia-sweetness-scientists-uncover-genetic.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778760001000,
-        "summary": "Stevia is a widely used sweetener, but why do some stevia varieties taste cleaner and more sugar-like than others? Recent research conducted at the University of Toyama shows that stevia's sweetness is genetically linked to variations in specific glycosyltransferase genes and their cell-specific activity in leaves. By combining genetic analysis with cell-level imaging, the team uncovered how stevi",
-        "tags": [
-          "molecular & computational biology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.016
       }
     ]
   },
