@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-16T18:34:28.839734+00:00",
+  "generated_at": "2026-05-16T18:45:38.408345+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "8733ecb9deafba52",
+        "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+        "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1778956463000,
+        "summary": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed by the Breathitt County School District in Kentucky, claims that social media has disrupted learning and created a mental health crisis, straining budgets. The […]",
+        "tags": [
+          "creators",
+          "facebook",
+          "law",
+          "meta",
+          "news",
+          "policy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7891
+      },
       {
         "id": "5c571abe83e49ce2",
         "title": "This tiny ESP32 board became my cheapest home network upgrade",
@@ -961,21 +981,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.815
-      },
-      {
-        "id": "6f20ccddb90283ab",
-        "title": "Cats Lock for Mac Stops Your Cat From Causing Keyboard Havoc",
-        "url": "https://www.macrumors.com/2026/05/15/cats-lock-mac-app/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1778876944000,
-        "summary": "If you have a Mac and a cat, you've probably run into a situation where your cat sits on your computer keyboard. Whether it's because Macs are warm or because they want to distract you from the screen absorbing all of your attention, laptops tend to attract cats. A new Mac app called Cats Lock adds cat-proofing that keeps your cat from doing damage to whatever you're working on when it gets on you",
-        "tags": [
-          "mac app store"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.997
       }
     ],
     "innovation": [
@@ -1932,6 +1937,22 @@
     ],
     "ai": [
       {
+        "id": "d20e66bad7002afc",
+        "title": "Anthropic's Mythos Helped Build a Working macOS Exploit in Five Days",
+        "url": "https://apple.slashdot.org/story/26/05/16/1643203/anthropics-mythos-helped-build-a-working-macos-exploit-in-five-days?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778956440000,
+        "summary": "\"The vulnerability is simple in practice,\" writes Tom's Hardware: \"run a command as a standard user and gain root (administrator) access to the machine.\" And it was Mythos Preview that helped the security researchers at Palo Alto-based Calif bypass a five-year Apple security effort in just five days. The blog 9to5Mac reports: Last year, Apple introduced Memory Integrity Enforcement (MIE), a hardwa",
+        "tags": [
+          "ai",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0461
+      },
+      {
         "id": "f5f6f899dee7ed5f",
         "title": "I went inside FIFA's secret World Cup lab, and the 3D scanning tech I found there could change football forever",
         "url": "https://www.techradar.com/tech/i-went-inside-fifas-secret-world-cup-lab-and-the-3d-scanning-tech-i-found-there-could-change-football-forever",
@@ -1945,6 +1966,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9149
+      },
+      {
+        "id": "67f61dc43dbb9620",
+        "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778954385000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": true,
+        "impact": "high",
+        "score": 0.8381
       },
       {
         "id": "f6edbec6ad4dcb45",
@@ -2841,34 +2878,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8251
-      },
-      {
-        "id": "079c73027baf3013",
-        "title": "YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others (Mia Sato/The Verge)",
-        "url": "https://www.techmeme.com/260515/p31#a260515p31",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778886301000,
-        "summary": "Mia Sato / The Verge: YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others — Likeness detection, which scans YouTube for facial matches, will now be available to anyone 18 years or older with a YouTube account.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0778
-      },
-      {
-        "id": "f54504a834a71344",
-        "title": "Kioxia and Dell Cram Nearly 10PB Into a Single 2U Server",
-        "url": "https://hardware.slashdot.org/story/26/05/15/1935230/kioxia-and-dell-cram-nearly-10pb-into-a-single-2u-server?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1778886000000,
-        "summary": "BrianFagioli writes: Kioxia and Dell Technologies say they have built a 2U server configuration capable of scaling to 9.8PB of flash storage, which is the sort of density that would have sounded impossible just a few years ago. The setup combines a Dell PowerEdge R7725xd Server with 40 Kioxia LC9 Series 245.76TB NVMe SSDs and AMD EPYC processors. According to Kioxia, matching the same capacity wit",
-        "tags": [
-          "storage"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0462
       }
     ],
     "science": [
