@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T03:40:52.970495+00:00",
+  "generated_at": "2026-05-16T04:06:50.705586+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -973,6 +973,21 @@
     ],
     "innovation": [
       {
+        "id": "93ab1122254e21f2",
+        "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+        "url": "https://arxiv.org/abs/2605.13849",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7 eggs, 0.37 bananas), and hard nutrient constraints cause infeasibility when targets conflict. A syst",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0477
+      },
+      {
         "id": "e828e7834f72850d",
         "title": "Wood Burning Is Reintroducing Lead Pollution Into the Air, Scientists Find",
         "url": "https://news.slashdot.org/story/26/05/15/2256225/wood-burning-is-reintroducing-lead-pollution-into-the-air-scientists-find?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1916,25 +1931,109 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7451
-      },
-      {
-        "id": "e4643f2acbf25730",
-        "title": "How tokenized real-world assets are solving crypto’s counterparty dilemma",
-        "url": "https://thenextweb.com/news/tokenized-real-world-assets-solving-crypto-counterparty-dilemma",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1778859701000,
-        "summary": "Modern derivatives and digital asset markets operate under a persistent drag of operational friction. A recent Nasdaq survey reveals that 70% of global firms experience settlement failures on a daily basis. This structural inefficiency forces institutions to maintain excess overnight collateral buffers, tying up capital that could otherwise generate returns. The inability to mobilize assets […] Th",
-        "tags": [
-          "blockchain",
-          "cryptocurrency"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8792
       }
     ],
     "ai": [
+      {
+        "id": "a56ddbe4f3639cd2",
+        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+        "url": "https://arxiv.org/abs/2605.13850",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the sam",
+        "tags": [
+          "cs.ai",
+          "cs.ma",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1315
+      },
+      {
+        "id": "b6034ea40890ead4",
+        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2605.13851",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1315
+      },
+      {
+        "id": "99a2238d6009d4f5",
+        "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+        "url": "https://arxiv.org/abs/2605.14033",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14033v1 Announce Type: new Abstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect whether an existing representational framework remains transportable into a new regime, or whether its language has become locally-to-globally obstructed and must be extended. This paper develops a finite sheaf-theoretic frame",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1315
+      },
+      {
+        "id": "26619717956a3c70",
+        "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+        "url": "https://arxiv.org/abs/2605.14036",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14036v1 Announce Type: new Abstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine learning. However, there is no comparably principled basis to justify trust in the content of the text produced. It appears to be conventional wisdom that addressing this issue by adding more principled reasoning is not com",
+        "tags": [
+          "cs.ai",
+          "cs.cc",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1315
+      },
+      {
+        "id": "cca9a70b6d84ec1a",
+        "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+        "url": "https://arxiv.org/abs/2605.14049",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14049v1 Announce Type: new Abstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The cent",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1315
+      },
+      {
+        "id": "ace83f7fa70f2df8",
+        "title": "Distribution-Aware Algorithm Design with LLM Agents",
+        "url": "https://arxiv.org/abs/2605.14141",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14141v1 Announce Type: new Abstract: We study learning when the learned object is executable solver code rather than a predictor. In this setting, correctness is not enough: two solvers may both return valid solutions on the deployment distribution while differing substantially in runtime. Given samples from an unknown task distribution, the learner returns code evaluated on fresh insta",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1315
+      },
       {
         "id": "d3b594144a9877a0",
         "title": "Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company",
@@ -2801,100 +2900,58 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0135
-      },
-      {
-        "id": "201d4ef657fe8838",
-        "title": "I finally understand my lease agreement, and I only had to ask Gemini",
-        "url": "https://www.androidpolice.com/finally-understand-lease-agreement-had-to-ask-gemini/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1778861711000,
-        "summary": "It decoded my lease agreement like a plain-langugage explainer",
-        "tags": [
-          "google gemini",
-          "google",
-          "best reads",
-          "productivity",
-          "android police's best reads"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9995
-      },
-      {
-        "id": "15051ffd6e25511f",
-        "title": "OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more (Ivan Mehta/TechCrunch)",
-        "url": "https://www.techmeme.com/260515/p17#a260515p17",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778861701000,
-        "summary": "Ivan Mehta / TechCrunch: OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more — On Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S. …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9946
-      },
-      {
-        "id": "fbf5be4e7c59e733",
-        "title": "OpenAI launches personal finance tools for US ChatGPT Pro users, letting them connect to 12K+ financial institutions to analyze spending, plan finances, more (Ivan Mehta/TechCrunch)",
-        "url": "https://www.techmeme.com/260515/p17#a260515p17",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1778861701000,
-        "summary": "Ivan Mehta / TechCrunch: OpenAI launches personal finance tools for US ChatGPT Pro users, letting them connect to 12K+ financial institutions to analyze spending, plan finances, more — On Friday, OpenAI launched a new set of personal finance tools in preview for ChatGPT Pro subscribers in the U.S. …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9995
-      },
-      {
-        "id": "50815d255052e7ac",
-        "title": "OpenAI now wants ChatGPT to access your bank accounts",
-        "url": "https://www.reddit.com/r/technology/comments/1te0te2/openai_now_wants_chatgpt_to_access_your_bank/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778861257000,
-        "summary": "submitted by /u/pdfu [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9358
-      },
-      {
-        "id": "9d04b2ce9c5474c0",
-        "title": "ArXiv to Ban Researchers for a Year if They Submit AI Slop",
-        "url": "https://www.reddit.com/r/technology/comments/1te0olo/arxiv_to_ban_researchers_for_a_year_if_they/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1778860989000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
-      },
-      {
-        "id": "8aa6265fe90f22fb",
-        "title": "Bacterial energy enzyme reveals dual-trigger sodium pump mechanism, offering antibiotic clues",
-        "url": "https://phys.org/news/2026-05-bacterial-energy-enzyme-reveals-dual.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778860803000,
-        "summary": "The Na+-NQR enzyme is vital for energy production in pathogenic bacteria like the one that causes cholera, making it a highly promising target for new antibiotics. Researchers combined modified artificial intelligence techniques with extensive supercomputer simulations to visualize the hidden, dynamic movements of this enzyme during sodium transport.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0158
       }
     ],
     "science": [
+      {
+        "id": "b8d41f45ab00e490",
+        "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+        "url": "https://arxiv.org/abs/2605.14061",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization benchmark of in the wild graduate-level mathematics, containing ~52k theorems, definitions, exercises, ex",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0477
+      },
+      {
+        "id": "8f50bd750dba3227",
+        "title": "GenCircuit-RL: Reinforcement Learning from Hierarchical Verification for Genetic Circuit Design",
+        "url": "https://arxiv.org/abs/2605.14215",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14215v1 Announce Type: new Abstract: Genetic circuit design remains a laborious, expert-driven process despite decades of progress in synthetic biology. We study this problem through code generation: models produce Python code in pysbol3 to construct genetic circuits in the Synthetic Biology Open Language (SBOL), a formal representation that supports automated verification. We introduce",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0477
+      },
+      {
+        "id": "9d487b2cc96db7c0",
+        "title": "Semantic Feature Segmentation for Interpretable Predictive Maintenance in Complex Systems",
+        "url": "https://arxiv.org/abs/2605.14318",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14318v1 Announce Type: new Abstract: Predictive maintenance in complex systems is often complicated by the heterogeneity and redundancy of monitored variables,which can obscure fault-relevant information and reduce model interpretability. This work proposes a semantic feature segmentation framework that decomposes the monitored feature space into a canonical component,expected to retain",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0477
+      },
       {
         "id": "6bcab90bfffb8552",
         "title": "“We tried to keep the soul of the original attraction, but level it up” — Disney World transforms Buzz Lightyear Space Ranger Spin into a real-time ride system powered by Unreal Engine",
@@ -3769,52 +3826,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0107
-      },
-      {
-        "id": "2f7c397114199cbf",
-        "title": "When La Niña lingers: Researchers uncover two mechanisms behind multi-year events",
-        "url": "https://phys.org/news/2026-05-la-nia-lingers-uncover-mechanisms.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778832001000,
-        "summary": "Multi-year La Niña events—so-called \"double-dip\" or even \"triple-dip\" La Niñas—are becoming more common. But why do these events persist for multiple years in the first place?",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0106
-      },
-      {
-        "id": "2b39eadfe727f79d",
-        "title": "SpaceX Unveils Sweeping Starship V3 Upgrades",
-        "url": "https://science.slashdot.org/story/26/05/15/0225226/spacex-unveils-sweeping-starship-v3-upgrades?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1778828400000,
-        "summary": "SpaceX has detailed major Starship V3 upgrades ahead of a launch targeted as early as May 19. The changes are meant to move Starship closer to its core goals: rapid reuse, Starlink deployment, orbital refueling, and eventually Moon and Mars missions. Longtime Slashdot reader schwit1 shares a report from Teslarati: Here is an explicit, broken-down list of the key changes, first starting with the ch",
-        "tags": [
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1249
-      },
-      {
-        "id": "a1abb68901352926",
-        "title": "Coldkey – Post-quantum age key generation and paper backup tool",
-        "url": "https://github.com/pike00/coldkey",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1778817729000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.094
       }
     ]
   },
