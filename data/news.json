@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T21:32:06.830331+00:00",
+  "generated_at": "2026-05-16T21:32:37.441771+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -30,6 +30,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7015
+      },
+      {
+        "id": "e09a2d6e37de02e0",
+        "title": "Cardiologist and FDA-Approved At-Home Blood Pressure Monitors",
+        "url": "https://www.cnet.com/health/medical/best-blood-pressure-monitor/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1778961600000,
+        "summary": "Track your blood pressure easily at home with these expert recommendations.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.796
       },
       {
         "id": "11afbea7fe3bed42",
@@ -963,24 +976,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8481
-      },
-      {
-        "id": "43f8a83641d92617",
-        "title": "Windows 11 tests an adjustable taskbar and resizable Start menu",
-        "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1778879685000,
-        "summary": "Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channel, lets you place the taskbar on the bottom, top, left, or right side of the screen. Microsoft first teased its movable […]",
-        "tags": [
-          "microsoft",
-          "news",
-          "tech",
-          "windows"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7876
       }
     ],
     "innovation": [
@@ -2887,21 +2882,21 @@
         "score": 0.8973
       },
       {
-        "id": "a56ddbe4f3639cd2",
-        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-        "url": "https://arxiv.org/abs/2605.13850",
+        "id": "b6034ea40890ead4",
+        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2605.13851",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1778904000000,
-        "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the sam",
+        "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza",
         "tags": [
           "cs.ai",
-          "cs.ma",
-          "cs.se"
+          "cs.cy",
+          "cs.ma"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8091
+        "score": 0.8089
       }
     ],
     "science": [
