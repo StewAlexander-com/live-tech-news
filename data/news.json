@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T20:30:56.539076+00:00",
+  "generated_at": "2026-05-16T20:31:18.551992+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2831,6 +2831,21 @@
         "score": 0.8973
       },
       {
+        "id": "ace83f7fa70f2df8",
+        "title": "Distribution-Aware Algorithm Design with LLM Agents",
+        "url": "https://arxiv.org/abs/2605.14141",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14141v1 Announce Type: new Abstract: We study learning when the learned object is executable solver code rather than a predictor. In this setting, correctness is not enough: two solvers may both return valid solutions on the deployment distribution while differing substantially in runtime. Given samples from an unknown task distribution, the learner returns code evaluated on fresh insta",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.825
+      },
+      {
         "id": "a56ddbe4f3639cd2",
         "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
         "url": "https://arxiv.org/abs/2605.13850",
@@ -2893,23 +2908,6 @@
           "cs.cc",
           "cs.cl",
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1315
-      },
-      {
-        "id": "cca9a70b6d84ec1a",
-        "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
-        "url": "https://arxiv.org/abs/2605.14049",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778904000000,
-        "summary": "arXiv:2605.14049v1 Announce Type: new Abstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The cent",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.cy"
         ],
         "paywall": false,
         "impact": "high",
