@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T20:31:18.551992+00:00",
+  "generated_at": "2026-05-16T20:51:38.347143+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1958,6 +1958,34 @@
     ],
     "ai": [
       {
+        "id": "9fe457a04f6b00b2",
+        "title": "The Apple-OpenAI Alliance is Fraying, Setting Up a Possible Legal Fight",
+        "url": "https://apple.slashdot.org/story/26/05/16/186200/the-apple-openai-alliance-is-fraying-setting-up-a-possible-legal-fight?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1778963640000,
+        "summary": "Bloomberg reports that Apple's two-year-old partnership with OpenAI \"has become strained, according to people familiar with the matter.\" Bloomberg describes OpenAI as \"failing to see the expected benefits from the deal and now preparing possible legal action.\" OpenAI lawyers are actively working with an outside legal firm on a range of options that could be formally executed in the near future, sa",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0441
+      },
+      {
+        "id": "f6582be4feeb1c9f",
+        "title": "★ AI Is Technology, Not a Product",
+        "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1778963571000,
+        "summary": "It’s not even a feature. It’s just technology.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1594
+      },
+      {
         "id": "ba78822fb66ea63e",
         "title": "This US start-up wants to pay you to host a data center on the side of your home — and says it won't disturb you at all",
         "url": "https://www.techradar.com/pro/this-us-start-up-wants-to-pay-you-to-host-a-data-center-on-the-side-of-your-home-and-says-it-wont-disturb-you-at-all",
@@ -1988,6 +2016,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8047
+      },
+      {
+        "id": "2558daa576e1af96",
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1778962446000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:27"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0374
       },
       {
         "id": "97e945a0dcba0149",
@@ -2831,6 +2875,23 @@
         "score": 0.8973
       },
       {
+        "id": "cca9a70b6d84ec1a",
+        "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+        "url": "https://arxiv.org/abs/2605.14049",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1778904000000,
+        "summary": "arXiv:2605.14049v1 Announce Type: new Abstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The cent",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8196
+      },
+      {
         "id": "ace83f7fa70f2df8",
         "title": "Distribution-Aware Algorithm Design with LLM Agents",
         "url": "https://arxiv.org/abs/2605.14141",
@@ -2844,74 +2905,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.825
-      },
-      {
-        "id": "a56ddbe4f3639cd2",
-        "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
-        "url": "https://arxiv.org/abs/2605.13850",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778904000000,
-        "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the sam",
-        "tags": [
-          "cs.ai",
-          "cs.ma",
-          "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1315
-      },
-      {
-        "id": "b6034ea40890ead4",
-        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
-        "url": "https://arxiv.org/abs/2605.13851",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778904000000,
-        "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organiza",
-        "tags": [
-          "cs.ai",
-          "cs.cy",
-          "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1315
-      },
-      {
-        "id": "99a2238d6009d4f5",
-        "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
-        "url": "https://arxiv.org/abs/2605.14033",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778904000000,
-        "summary": "arXiv:2605.14033v1 Announce Type: new Abstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect whether an existing representational framework remains transportable into a new regime, or whether its language has become locally-to-globally obstructed and must be extended. This paper develops a finite sheaf-theoretic frame",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1315
-      },
-      {
-        "id": "26619717956a3c70",
-        "title": "Enhanced and Efficient Reasoning in Large Learning Models",
-        "url": "https://arxiv.org/abs/2605.14036",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1778904000000,
-        "summary": "arXiv:2605.14036v1 Announce Type: new Abstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine learning. However, there is no comparably principled basis to justify trust in the content of the text produced. It appears to be conventional wisdom that addressing this issue by adding more principled reasoning is not com",
-        "tags": [
-          "cs.ai",
-          "cs.cc",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1315
       }
     ],
     "science": [
@@ -3049,6 +3042,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7016
+      },
+      {
+        "id": "a3dc244473e8a4c9",
+        "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+        "url": "https://parttelescopes.web.app/",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1778944337000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:97"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9417
       },
       {
         "id": "b456fb3d5daeabbc",
@@ -3824,21 +3833,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0197
-      },
-      {
-        "id": "2efe5598862156c5",
-        "title": "Who shops at farmers markets in the US?",
-        "url": "https://phys.org/news/2026-05-farmers.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778849769000,
-        "summary": "People who shop at the more than 8,700 farmers markets operating in the U.S. either year-round or seasonally generally fall into six distinct groups. Three of them are more interested in farmers markets than the others. I study local food systems as a strategic communications scholar, and that's the main takeaway from a study that I conducted with several colleagues.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ]
   },
