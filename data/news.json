@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T04:49:34.544988+00:00",
+  "generated_at": "2026-05-17T05:59:52.306288+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -972,6 +972,39 @@
     ],
     "innovation": [
       {
+        "id": "86644637af86a258",
+        "title": "Your Browser Probably Lies to the Big Sites (Blame Chrome)",
+        "url": "https://hackaday.com/2026/05/16/your-browser-probably-lies-to-the-big-sites-blame-chrome/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1778994040000,
+        "summary": "When you visit certain large sites in Firefox or Safari, the browser may detect your visit and change its behavior. It could be as simple as lying about its identity, …read more",
+        "tags": [
+          "internet hacks",
+          "software hacks",
+          "chrome",
+          "firefox",
+          "html",
+          "safari"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0597
+      },
+      {
+        "id": "98d194648c9d421c",
+        "title": "Filings: in Q1, Trump traded $220M-$750M in NVDA, MSFT, AMZN, META, ORCL, and others; millions of dollars of NVDA were bought shortly before major news (Kevin Breuninger/CNBC)",
+        "url": "https://www.techmeme.com/260517/p1#a260517p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1778993401000,
+        "summary": "Kevin Breuninger / CNBC: Filings: in Q1, Trump traded $220M-$750M in NVDA, MSFT, AMZN, META, ORCL, and others; millions of dollars of NVDA were bought shortly before major news — President Donald Trump reported thousands of financial transactions totaling hundreds of millions of dollars — including large purchases …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9778
+      },
+      {
         "id": "b1cd378382153c40",
         "title": "Tesla Solar Roof is on life support as it pivot to panels",
         "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
@@ -1912,29 +1945,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9072
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "d9f88162b76ee2ef",
-        "title": "Student-built system unlocks fully autonomous electroporation for 96- and 384-well workflows",
-        "url": "https://phys.org/news/2026-05-student-built-fully-autonomous-electroporation.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1778922238000,
-        "summary": "Inside the California NanoSystems Institute at UCLA, where some of the most advanced and technical automated infrastructure on campus resides, two students saw an opportunity hiding in plain sight.",
-        "tags": [
-          "biotechnology"
-        ],
+        "id": "f18c0a04efeaca0e",
+        "title": "King's Cross, where Google's new UK HQ is due to open later this year, has become London's new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others (John Gapper/Financial Times)",
+        "url": "https://www.techmeme.com/260517/p3#a260517p3",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778995202000,
+        "summary": "John Gapper / Financial Times: King's Cross, where Google's new UK HQ is due to open later this year, has become London's new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others — A formerly rundown area has become London's new global technology hub — Google's new UK headquarters in King's Cross …",
+        "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.0185
+        "score": 1.0663
       },
       {
-        "id": "7652d46af8e4a7ed",
-        "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
-        "url": "https://www.reddit.com/r/technology/comments/1teocdc/us_orders_travelers_on_air_force_one_to_throw/",
+        "id": "dfd301d9fc0ac3af",
+        "title": "Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion (David Cendon Garcia/EU-Startups)",
+        "url": "https://www.techmeme.com/260517/p2#a260517p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1778993719000,
+        "summary": "David Cendon Garcia / EU-Startups: Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion — Milan-based Webidoo, the AI technology company focused on making advanced digital tools more accessible and viable for SMBs …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0579
+      },
+      {
+        "id": "d0129bd7566f5e75",
+        "title": "AI agents show they can create exploits, not just find vulns",
+        "url": "https://www.reddit.com/r/technology/comments/1tfdzko/ai_agents_show_they_can_create_exploits_not_just/",
         "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778922114000,
+        "lane": "ai",
+        "published_ts": 1778988584000,
         "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
         "tags": [
           "technology",
@@ -1942,10 +1988,8 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9393
-      }
-    ],
-    "ai": [
+        "score": 0.9777
+      },
       {
         "id": "b2174ca4bc052852",
         "title": "OpenAI partners with Malta's AI for All initiative to give citizens a free year of ChatGPT Plus if they complete a University of Malta AI literacy course (Cointelegraph)",
@@ -2844,53 +2888,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8935
-      },
-      {
-        "id": "ceb5efe1509db7de",
-        "title": "Most CEOs think their boards are rushing AI, and BCG’s survey shows why",
-        "url": "https://thenextweb.com/news/bcg-ceos-boards-rushing-ai-transformation-survey",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778925128000,
-        "summary": "Sixty-one per cent of chief executives say their boards are pushing AI transformation too fast, according to a global survey of 625 leaders published by Boston Consulting Group. The research, titled Split Decisions, polled 351 CEOs and 274 board members at companies with at least $100 million in annual revenue and found a consistent pattern: […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "opinion"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9578
-      },
-      {
-        "id": "2dfed84e6491ace4",
-        "title": "Stripe’s John Collison says agentic commerce will completely transform online shopping",
-        "url": "https://thenextweb.com/news/stripe-collison-agentic-commerce-reshape-internet",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778924408000,
-        "summary": "John Collison thinks keyword search is a “ridiculous” way to find things to buy. The Stripe co-founder told Bloomberg that agentic commerce, in which AI agents shop on behalf of consumers, will completely transform the online shopping experience, reshaping not just how people purchase but how retailers sell. The argument is structural. For more than […] This story continues at The Next Web",
-        "tags": [
-          "fintech and ecommerce",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9541
-      },
-      {
-        "id": "b158b76688790131",
-        "title": "The most-cited computer scientist alive says AI could make humanity extinct within a decade",
-        "url": "https://thenextweb.com/news/bengio-ai-extinction-warning-lawzero-safety",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1778923962000,
-        "summary": "Yoshua Bengio, the Turing Award-winning computer scientist widely regarded as one of the godfathers of artificial intelligence, has renewed his warning that hyperintelligent machines could pose an existential threat to humanity within the next decade. In an interview with the Wall Street Journal originally published in October 2025 and republished by Fortune this week, Bengio argued that AI […] Th",
-        "tags": [
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9706
       }
     ],
     "science": [
