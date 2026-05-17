@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T18:34:12.645535+00:00",
+  "generated_at": "2026-05-17T18:38:50.209008+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -974,6 +974,19 @@
     ],
     "innovation": [
       {
+        "id": "3f5c949febeeb728",
+        "title": "Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay (The Hacker News)",
+        "url": "https://www.techmeme.com/260517/p11#a260517p11",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779042900000,
+        "summary": "The Hacker News: Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay — Grafana has disclosed that an “unauthorized party” obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9988
+      },
+      {
         "id": "ece526b3826e108c",
         "title": "Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing (John Burn-Murdoch/Financial Times)",
         "url": "https://www.techmeme.com/260517/p10#a260517p10",
@@ -1905,22 +1918,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.999
-      },
-      {
-        "id": "3b165f8dad661d86",
-        "title": "Santa Clara County Sues Meta Over Alleged Scam Ads",
-        "url": "https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1778966235000,
-        "summary": "Brandon Pho, reporting for San Jose Spotlight The lawsuit filed Monday alleges that instead of cracking down on deceptive ads designed to trick users out of their money, Meta has hamstrung its own fraud prevention teams and helped fake companies bypass its filters to enable the tech powerhouse to enjoy an estimated $7 billion in ad revenue from the scams every year. [...] The county lawsuit seeks ",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0779
       }
     ],
     "ai": [
+      {
+        "id": "325626528fb6fe69",
+        "title": "The AI water issue is fake",
+        "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779042918000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:9"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
       {
         "id": "b1499c046f25f881",
         "title": "I never finish long YouTube videos — this one change fixed that",
@@ -1938,6 +1954,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8494
+      },
+      {
+        "id": "ee6d535e657adfc8",
+        "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose — bots also also manipulated to address user as ‘My Lord’",
+        "url": "https://www.reddit.com/r/technology/comments/1tfwsim/linkedin_user_hides_ai_prompt_injection_in_bio_to/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779040813000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0134
       },
       {
         "id": "6635f27a66a875b4",
@@ -2835,38 +2867,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1594
-      },
-      {
-        "id": "ba78822fb66ea63e",
-        "title": "This US start-up wants to pay you to host a data center on the side of your home — and says it won't disturb you at all",
-        "url": "https://www.techradar.com/pro/this-us-start-up-wants-to-pay-you-to-host-a-data-center-on-the-side-of-your-home-and-says-it-wont-disturb-you-at-all",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1778963100000,
-        "summary": "SPAN plans installing residential AI computing nodes outside homes, offering subsidized electricity and internet access to participating homeowners.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9167
-      },
-      {
-        "id": "09c49ad4b22d86ff",
-        "title": "The haves and have nots of the AI gold rush",
-        "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1778962636000,
-        "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-        "tags": [
-          "ai",
-          "startups",
-          "deedy das"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8047
       }
     ],
     "science": [
