@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T11:36:44.880245+00:00",
+  "generated_at": "2026-05-17T11:46:40.141725+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -16,6 +16,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0213
+      },
+      {
+        "id": "b3f3b2fa82e49412",
+        "title": "Asus crammed an RTX 5080 into a 3-litre box. It costs $4,400 and the performance gain is 2.3%.",
+        "url": "https://thenextweb.com/news/asus-rog-nuc-16-rtx-5080-gaming-mini-pc-price",
+        "source": "The Next Web",
+        "lane": "gadgets",
+        "published_ts": 1779016174000,
+        "summary": "Asus has launched the 2026 ROG NUC 16 in China, pairing Intel’s Core Ultra 9 290HX Plus processor with an Nvidia GeForce RTX 5080 laptop GPU inside a 3-litre chassis that weighs 3.12 kilograms. The black version starts at CNY 29,999 (approximately $4,400). A Moonlight White edition costs CNY 31,999 (approximately $4,700). Global pricing has […] This story continues at The Next Web",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9605
       },
       {
         "id": "127bf4b097c024a1",
@@ -958,25 +973,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8492
-      },
-      {
-        "id": "2f13b7f31a05a748",
-        "title": "M5 Max MacBook Pro paired with RTX 5090 in an eGPU dock — runs Cyberpunk 2077 at over 100 FPS at max settings with frame generation",
-        "url": "https://www.tomshardware.com/laptops/macbooks/m5-max-macbook-pro-paired-with-rtx-5090-in-an-egpu-dock-runs-cyberpunk-2077-at-over-100-fps-at-max-settings-with-frame-generation",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1778928000000,
-        "summary": "A software engineer figured out a way to run an RTX 5090 on an M5 Max MacBook and play Cyberpunk 2077 at over 100FPS. The process required a lot of tweaking, including running a Linux VM and using the FEX translation layer to get games to work.",
-        "tags": [
-          "macbooks",
-          "laptops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.024
       }
     ],
     "innovation": [
+      {
+        "id": "73a218f5b47b6881",
+        "title": "US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU — regulators investigate if chip designer is restricting architecture access to rivals",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals",
+        "source": "Tom's Hardware",
+        "lane": "innovation",
+        "published_ts": 1779018000000,
+        "summary": "The U.S. FTC is looking into Arm Holdings to see if it's abusing its market position as a dominant chip designer to gives its new chip manufacturing business an advantage over competitors who build semiconductors based on Arm designs.",
+        "tags": [
+          "big tech",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0238
+      },
+      {
+        "id": "84792f841198ff9d",
+        "title": "Destinus is raising €200M ahead of an IPO. The cruise missile maker wants a €5B valuation.",
+        "url": "https://thenextweb.com/news/destinus-200-million-pre-ipo-cruise-missiles-drones",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1779017690000,
+        "summary": "Destinus, the Netherlands-headquartered defence startup that manufactures cruise missiles and autonomous drones, is in talks to raise approximately €200 million ahead of a planned initial public offering, Bloomberg reported on Friday, citing people familiar with the matter. The company is seeking a valuation north of €5 billion based on forecast annual revenues of roughly €500 […] This story conti",
+        "tags": [
+          "deep tech",
+          "drones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8966
+      },
       {
         "id": "6f13f691e228f010",
         "title": "Extract 3D Video Game Content By Firing Up Photo Mode",
@@ -1909,38 +1940,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9369
-      },
-      {
-        "id": "feafeacbbd0e259f",
-        "title": "DOJ reportedly demands Apple and Google identify over 100,000 users of car app",
-        "url": "https://www.reddit.com/r/technology/comments/1tetbkv/doj_reportedly_demands_apple_and_google_identify/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1778937086000,
-        "summary": "submitted by /u/Abject-Pick-6472 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9415
-      },
-      {
-        "id": "4321d59b39fa39cb",
-        "title": "Please don’t buy a Googlebook before reading this",
-        "url": "https://www.makeuseof.com/please-dont-buy-a-googlebook-before-reading-this/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1778936418000,
-        "summary": "Every one of its features are genuinely useful but the data requirement is scary.",
-        "tags": [
-          "technology explained",
-          "laptop tips",
-          "google gemini"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8497
       }
     ],
     "ai": [
@@ -2890,6 +2889,22 @@
     ],
     "science": [
       {
+        "id": "899c38afa7e49541",
+        "title": "Chinese EVs are arriving in Canada. Nearly 400 dealers are already fighting to sell them.",
+        "url": "https://thenextweb.com/news/chinese-evs-canada-dealers-byd-chery-geely",
+        "source": "The Next Web",
+        "lane": "science",
+        "published_ts": 1779015064000,
+        "summary": "Michael MacGillivray, the CEO of Century Auto Group and Sigma Auto Group, oversees 10 dealerships across Nova Scotia and New Brunswick. In April, he flew to the Beijing Auto Show to shake hands with Chinese automakers and drive their cars. He came back impressed. “They have materials that are second to none,” he told CNBC. […] This story continues at The Next Web",
+        "tags": [
+          "cars",
+          "electric vehicle"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8841
+      },
+      {
         "id": "5ae5a5829fd01e70",
         "title": "Elon Musk Explains Why the SpaceX Board Must Be Powerless to Fire Him",
         "url": "https://www.reddit.com/r/technology/comments/1tfdkew/elon_musk_explains_why_the_spacex_board_must_be/",
@@ -3799,21 +3814,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0167
-      },
-      {
-        "id": "b9833cb399e03f59",
-        "title": "Could sea squirts' nano-packaging delivery system help restore sea forests?",
-        "url": "https://phys.org/news/2026-05-sea-squirts-nano-packaging-delivery.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778850466000,
-        "summary": "How do sea squirts stay attached to rocks amid crashing waves and strong currents? Recent research has revealed that sea squirts do not simply secrete adhesive substances. Instead, they possess a unique system where they package these materials into nano-sized (nm) condensates, deliver them to the destination, and then unpack them for use onsite.",
-        "tags": [
-          "bio & medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
       }
     ]
   },
