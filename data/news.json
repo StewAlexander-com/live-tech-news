@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T15:30:45.327551+00:00",
+  "generated_at": "2026-05-17T15:36:46.857208+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1952,6 +1952,21 @@
     ],
     "ai": [
       {
+        "id": "639f3cff28a7871b",
+        "title": "Sysadmin Creates 'ModuleJail' To Automatically Blacklist Unused Kernel Modules",
+        "url": "https://news.slashdot.org/story/26/05/16/2110220/sysadmin-creates-modulejail-to-automatically-blacklist-unused-kernel-modules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1779032040000,
+        "summary": "Long-time Slashdot reader internet-redstar shares an interestging response to \"the recent wave of Linux kernel privilege escalation vulnerabilities like 'Copy Fail' and 'Dirty Frag'\": Belgian Linux sysadmin and Tesla Hacker \"Jasper Nuyens\" got tired of the idea of manually blacklisting dozens or even hundreds of obscure kernel modules across large fleets of Linux systems in the near future. So he ",
+        "tags": [
+          "opensource"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0491
+      },
+      {
         "id": "d53215fc9afbba86",
         "title": "Agent harnesses, like OpenClaw, are changing how we build and run AI models",
         "url": "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530",
@@ -2103,7 +2118,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1112
+        "score": 1.3178
       },
       {
         "id": "73438ecb1152cfbb",
@@ -2866,21 +2881,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9997
-      },
-      {
-        "id": "aadc9395b70ed2e3",
-        "title": "If AI can translate instantly, why learn another language?",
-        "url": "https://phys.org/news/2026-05-ai-instantly-language.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1778947201000,
-        "summary": "From live speech translation in video calls to auto-dubbing on TikTok, the technology to dissolve language barriers has arrived. Real-time translation powered by artificial intelligence (AI) is now embedded in everyday life.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.099
       }
     ],
     "science": [
