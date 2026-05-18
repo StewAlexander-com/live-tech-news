@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-05-18T03:33:13.059878+00:00",
+  "generated_at": "2026-05-18T04:52:27.900506+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "fd8f8f647c4fdf41",
+        "title": "Breakeven complexity: A new perspective on neural partial differential equation solvers",
+        "url": "https://arxiv.org/abs/2605.15399",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15399v1 Announce Type: new Abstract: Neural surrogate solvers of partial differential equations (PDEs) promise dramatic speedups over numerical methods, especially in scenarios requiring many solves. However, current accuracy-based evaluations do not fully consider two central issues: (1) neural solvers incur substantial up-front costs for data generation, training, and tuning; and (2) ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.na",
+          "math.na",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "9e67a3a895b101bd",
+        "title": "Training on Documents About Monitoring Leads to CoT Obfuscation",
+        "url": "https://arxiv.org/abs/2605.15257",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15257v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is one of the most promising tools we have for detecting model misbehavior, but its effectiveness depends on models faithfully externalizing their reasoning. Motivated by this vulnerability, we study whether monitor-aware models are capable of obfuscating their reasoning to evade detection. We use synthetic document ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0325
+      },
       {
         "id": "622bf9962be6e262",
         "title": "Samsung’s weather app sparks storm of controversy by handing territory to North Korea",
@@ -934,39 +968,35 @@
         "paywall": false,
         "impact": "high",
         "score": 0.849
-      },
-      {
-        "id": "b6421963276670c6",
-        "title": "'Euphoria' Season 3, Episode 6: Release Date and Time on HBO Max",
-        "url": "https://www.cnet.com/tech/services-and-software/euphoria-season-3-episode-6-release-date-and-time-on-hbo-max/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1778972485000,
-        "summary": "Here's how to stream the remaining installments of the series starring Zendaya, Sydney Sweeney and Jacob Elordi.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8023
-      },
-      {
-        "id": "22663257c361fe35",
-        "title": "Rivals season 2 almost had a major 'legal battle' with Chaka Khan's estate over this improvised line in episode 2 — as star claims it 'just slipped out'",
-        "url": "https://www.techradar.com/streaming/hulu/rivals-season-2-episode-2-chaka-khan-legal-battle",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1778968800000,
-        "summary": "You might miss it, but Chaka Khan's name is briefly mentioned in Rivals season 2 episode 2 — and it almost resulted in a 'major legal battle', according to one star.",
-        "tags": [
-          "hulu",
-          "disney plus",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8478
       }
     ],
     "innovation": [
+      {
+        "id": "06607870b2601659",
+        "title": "Chinese chipmaker CXMT reports Q1 revenue up 719% YoY to ~$7.5B, net profit up 1,688% to $3.6B, and says Omdia ranks it No. 4 in DRAM with a 7.67% global share (Cheng Ting-Fang/Nikkei Asia)",
+        "url": "https://www.techmeme.com/260518/p1#a260518p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779078901000,
+        "summary": "Cheng Ting-Fang / Nikkei Asia: Chinese chipmaker CXMT reports Q1 revenue up 719% YoY to ~$7.5B, net profit up 1,688% to $3.6B, and says Omdia ranks it No. 4 in DRAM with a 7.67% global share — TAIPEI — China's top memory chipmaker ChangXin Memory Technologies (CXMT) said net profit skyrocketed over 1,688% …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9944
+      },
+      {
+        "id": "6fecd9d0ffd0321b",
+        "title": "Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela (Wall Street Journal)",
+        "url": "https://www.techmeme.com/260517/p19#a260517p19",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779075901000,
+        "summary": "Wall Street Journal: Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela — Regulators are seeking information from Kalshi and Polymarket over wagers tied to political events and military operations",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9786
+      },
       {
         "id": "9f18c11f28e4e53d",
         "title": "Quebec-based telecom software startup Gaiia raised a CA$54.8M Series B led by JMI Equity, bringing its total funding to ~CA$90M from backers including YC (Madison McLauchlan/BetaKit)",
@@ -1103,6 +1133,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0785
+      },
+      {
+        "id": "f128171e30ba1210",
+        "title": "Source: Shein is acquiring San Francisco-based DTC clothing retailer Everlane, which focuses on sustainability and \"radical transparency\", in a $100M deal (Lauren Sherman/Puck)",
+        "url": "https://www.techmeme.com/260517/p13#a260517p13",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779054302000,
+        "summary": "Lauren Sherman / Puck: Source: Shein is acquiring San Francisco-based DTC clothing retailer Everlane, which focuses on sustainability and “radical transparency”, in a $100M deal — The Millennial D.T.C. company built a global brand based on sustainability and radical transparency.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8718
       },
       {
         "id": "d7060d83213a846f",
@@ -1865,52 +1908,233 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1649
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "592858a0578343d7",
-        "title": "Classic 7 is Windows 10 LTSC cosplaying as Windows 7",
-        "url": "https://www.theregister.com/oses/2026/05/17/classic-7-is-windows-10-ltsc-cosplaying-as-windows-7/5241291",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1779015600000,
-        "summary": "Uncanny rebuild resurrects the 2009 desktop, complete with support, updates, and licensing questions",
+        "id": "84607d0b207b519b",
+        "title": "DeepSlide: From Artifacts to Presentation Delivery",
+        "url": "https://arxiv.org/abs/2605.15202",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process",
         "tags": [
-          "oses"
+          "cs.ai",
+          "cs.cl",
+          "cs.ir"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0484
+        "score": 1.1151
       },
       {
-        "id": "ba1115223c218363",
-        "title": "Updating Wikipedia pages boosts public trust in scientific organizations, study finds",
-        "url": "https://www.reddit.com/r/technology/comments/1tfm1ku/updating_wikipedia_pages_boosts_public_trust_in/",
+        "id": "8801d05035c82e28",
+        "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+        "url": "https://arxiv.org/abs/2605.15205",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-reading, multiple-choice questions from a third-person perspective, while ignoring the first-person, dyna",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "04bb2cdd7f4a133b",
+        "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
+        "url": "https://arxiv.org/abs/2605.15219",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15219v1 Announce Type: new Abstract: Can AI systems discover genuinely new knowledge through iterative self improvement, and if so, at what cost? We introduce the NOVA framework, which models the common ``generate, verify, accumulate, retrain'' loop as an adaptive sampling process over a knowledge space. We identify sufficient conditions under which accumulated genuine knowledge eventua",
+        "tags": [
+          "cs.ai",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "769b0516c166eaf0",
+        "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
+        "url": "https://arxiv.org/abs/2605.15227",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15227v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, developing SDL software remains technically demanding. To improve accessibility, orchestration software frameworks have been proposed to coordinate SDL components. Nevertheless, existing frameworks are primarily designed for ",
+        "tags": [
+          "cs.ai",
+          "cond-mat.mtrl-sci",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "431ba70173bf039e",
+        "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
+        "url": "https://arxiv.org/abs/2605.15228",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15228v1 Announce Type: new Abstract: Modern cloud and enterprise systems rely on identity-centric authorization, assuming that callers possessing valid credentials are safe to execute commands. The emergence of autonomous AI agents invalidates this assumption: agents can generate syntactically valid but semantically unsafe actions, making standing privileges a significant operational ri",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "ea7b5954189e9e62",
+        "title": "Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Compute",
+        "url": "https://arxiv.org/abs/2605.15377",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15377v1 Announce Type: new Abstract: As AI systems are increasingly deployed in autonomous agentic settings at scale, it is important to ensure the actions they take are safe and aligned with user intent. Monitoring agent actions is a key safety mechanism, yet reliable monitors remain difficult to build and the scale of these systems makes human oversight impractical. We show that combi",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "191bfe66ed314d0c",
+        "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
+        "url": "https://arxiv.org/abs/2605.15206",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15206v1 Announce Type: new Abstract: Autonomous agents powered by large language models (LLMs) are increasingly used to automate complex, multi-step tasks such as coding or web-based question answering. While remote, cloud-based agents offer scalability and ease of deployment, they raise privacy concerns, depend on network connectivity, and incur recurring API costs. Deploying agents lo",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "6b86f4f2e12e8cc3",
+        "title": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation",
+        "url": "https://arxiv.org/abs/2605.15231",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15231v1 Announce Type: new Abstract: Nonlinear finite element crash simulations are accurate but computationally expensive, limiting their use in iterative design optimisation. Machine-learning surrogate models based on graph neural networks (GNNs) offer a faster alternative. Message-passing GNNs are widely used for mesh simulation, and their shared node and edge update functions are re",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "3b53db666a130036",
+        "title": "PDRNN: Modular Data-driven Pedestrian Dead Reckoning on Loosely Coupled Radio- and Inertial-Signalstreams",
+        "url": "https://arxiv.org/abs/2605.15252",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15252v1 Announce Type: new Abstract: Modern pedestrian dead reckoning (PDR) systems rely on fusing noisy and biased estimates of position, velocity, and calibrated orientation derived from loosely coupled sensors to determine the current pose of a localized object. However, discrepancies in the sampling rates of sensor-specific estimation methods and unreliable transmission pose signifi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "eess.sp"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "3bc4bcef095eb62e",
+        "title": "Position: Ideas Should be the Center of Machine Learning Research",
+        "url": "https://arxiv.org/abs/2605.15253",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15253v1 Announce Type: new Abstract: Machine learning research increasingly bifurcates into two disconnected modes: benchmark-driven engineering that prioritizes metrics over understanding, and idealized theory that often fails to transfer to modern systems. In this position paper, we argue that the field focuses too heavily on these endpoints, neglecting the central scientific object: ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "159aee581c9adf9d",
+        "title": "GESD: Beyond Outcome-Oriented Fairness",
+        "url": "https://arxiv.org/abs/2605.15295",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15295v1 Announce Type: new Abstract: Machine learning (ML) algorithms are increasingly deployed in high-stakes decision-making domains such as loan approvals, hiring, and recidivism predictions. While existing fairness metrics (e.g., statistical parity, equal opportunity) effectively quantify outcome-oriented disparities, they offer limited insight into the procedure or explanation behi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "d5e33c2e428f0fc0",
+        "title": "From Weight Perturbation to Feature Attribution for Explaining Fully Connected Neural Networks",
+        "url": "https://arxiv.org/abs/2605.15328",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15328v1 Announce Type: new Abstract: Fully Connected Neural Networks (FCNNs) are often regarded as simple and intuitive architectures, yet they serve as the foundation for more complex models. Nonetheless, the lack of consensus on their interpretability continues to pose challenges, underscoring the enduring relevance of simpler, attribution-based approaches for understanding even the m",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "ac5cb3659ba8c427",
+        "title": "A 45,000-person labor strike at Samsung's memory chip plants could throw a wrench into the AI boom",
+        "url": "https://www.reddit.com/r/technology/comments/1tgaxod/a_45000person_labor_strike_at_samsungs_memory/",
         "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1779014753000,
-        "summary": "submitted by /u/sr_local [link] [comments]",
+        "lane": "ai",
+        "published_ts": 1779075808000,
+        "summary": "submitted by /u/Wildcat_Action [link] [comments]",
         "tags": [
           "technology"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 0.9354
+        "impact": "normal",
+        "score": 1.0035
       },
       {
-        "id": "62480506a0600462",
-        "title": "If Your iPhone Battery's Draining Faster After iOS 26.5, Don't Panic",
-        "url": "https://www.cnet.com/tech/services-and-software/if-your-iphone-batterys-draining-faster-after-ios-26-5-dont-panic/",
-        "source": "CNET",
-        "lane": "innovation",
-        "published_ts": 1779012045000,
-        "summary": "Apple said that this isn't unusual and that it's temporary.",
-        "tags": [],
+        "id": "eb2b84abeaaaf066",
+        "title": "Linus Torvalds: AI-Detected Bug Reports Make Kernel Security List 'Almost Entirely Unmanageable'",
+        "url": "https://linux.slashdot.org/story/26/05/18/0238214/linus-torvalds-ai-detected-bug-reports-make-kernel-security-list-almost-entirely-unmanageable?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1779075240000,
+        "summary": "Today Linus Torvalds announced another Linux release candidate on the kernel mailing list. But he also highlighted \"documentation updates\" to address a new problem. \"The continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools.\" (The new documentation says the secur",
+        "tags": [
+          "ai"
+        ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8667
-      }
-    ],
-    "ai": [
+        "score": 1.1058
+      },
       {
         "id": "28c312109c52640e",
         "title": "Former Microsoft VP says Microsoft missed the AI wave like the internet and mobile, as Copilot scales back in Windows 11",
@@ -1925,6 +2149,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0011
+      },
+      {
+        "id": "2a9d1e602a9ab0c4",
+        "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779068370000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:55"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.938
       },
       {
         "id": "9faa35f1aad773b4",
@@ -2633,254 +2873,121 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9486
-      },
-      {
-        "id": "501937e119a910cd",
-        "title": "LinkedIn user hides AI prompt injection in bio to force recruitment spam to be sent in Olde English prose — bots also also manipulated to address user as ‘My Lord’",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779028085000,
-        "summary": "One LinkedIn user has fought back against recruiter spam in a very unusual way.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9926
-      },
-      {
-        "id": "6f69c1562b4fbc69",
-        "title": "LinkedIn recruitment spam becomes Olde English prose after user hides AI prompt injection in bio — bots also also manipulated to address user as ‘My Lord’",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/linkedin-recruitment-spam-becomes-olde-english-prose-after-user-hides-ai-prompt-injection-in-bio-bots-also-also-manipulated-to-address-user-as-my-lord",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779028085000,
-        "summary": "One LinkedIn user has fought back against recruiter spam in a very unusual way.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0226
-      },
-      {
-        "id": "870a0cb9f1a19756",
-        "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-        "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1779026400000,
-        "summary": "You're not the only one annoyed by the hype",
-        "tags": [
-          "ai + ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1334
-      },
-      {
-        "id": "a42e088ee0e5641b",
-        "title": "GM, Ford, and Stellantis have cut 20,000 white-collar jobs. AI is about to accelerate the trend.",
-        "url": "https://thenextweb.com/news/detroit-three-automakers-20000-white-collar-jobs-ai",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779021213000,
-        "summary": "General Motors, Ford, and Stellantis have together eliminated more than 20,000 US salaried jobs from their recent employment peaks this decade, a 19% reduction of their combined white-collar workforces, according to public filings and employment data analysed by CNBC. The cuts accelerated this week when GM laid off between 500 and 600 IT workers in […] This story continues at The Next Web",
-        "tags": [
-          "future of work",
-          "united states",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.966
-      },
-      {
-        "id": "44d6052a581310cf",
-        "title": "I don't think AI will make your processes go faster",
-        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779020025000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3427
-      },
-      {
-        "id": "7291759bebf74298",
-        "title": "Cerebras just had the biggest US tech IPO since Snowflake. SpaceX, OpenAI, and Anthropic are next.",
-        "url": "https://thenextweb.com/news/cerebras-ipo-spacex-openai-anthropic-listings",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779019567000,
-        "summary": "Cerebras Systems closed its first day on the Nasdaq at $311.07, up 68% from its $185 IPO price, giving the wafer-scale chip company a market capitalisation of approximately $95 billion. The offering raised $5.55 billion, making it the largest US tech IPO since Snowflake’s $3.8 billion debut in 2020. CEO Andrew Feldman rang the bell […] This story continues at The Next Web",
-        "tags": [
-          "investors and funding",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9575
-      },
-      {
-        "id": "bd45eaed1ee57b8d",
-        "title": "Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps (Eleanor Olcott/Financial Times)",
-        "url": "https://www.techmeme.com/260517/p6#a260517p6",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779019213000,
-        "summary": "Eleanor Olcott / Financial Times: Developers say Chinese AI labs lead US rivals in video generation, as ByteDance and Kuaishou train models on vast short-form video libraries from their own apps — Chinese artificial intelligence groups have moved ahead of US rivals in video generation, a key battleground in generative AI …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0794
-      },
-      {
-        "id": "76b3d2e23a1f90c1",
-        "title": "Chatbots at the drive-thru are just the beginning",
-        "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779019200000,
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one […]",
-        "tags": [
-          "ai",
-          "column",
-          "the stepback"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8549
-      },
-      {
-        "id": "a455ae897ac12770",
-        "title": "AI subscriptions are a ticking time bomb for enterprise",
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779018571000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:339"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2014
-      },
-      {
-        "id": "640083515443e8d6",
-        "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779018571000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:11"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3178
-      },
-      {
-        "id": "73438ecb1152cfbb",
-        "title": "Elon Musk's xAI Launches 'Grok Build', Its First AI Coding Agent",
-        "url": "https://developers.slashdot.org/story/26/05/17/0214254/elon-musks-xai-launches-grok-build-its-first-ai-coding-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779017640000,
-        "summary": "xAI has launched Grok Build, \"a coding agent of its own to serve as competitor to its rivals' products, such as Anthropic's Claude Code,\" reports Engadget: As Bloomberg notes, xAI has been trying to catch up to its rival companies like Anthropic and OpenAI. Elon Musk, the company's founder and CEO, previously admitted that it has fallen behind its competitors when it comes to coding. A couple of m",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.133
-      },
-      {
-        "id": "06db49950bf8087d",
-        "title": "Why Claude feels more human to talk to than ChatGPT, and what that actually means",
-        "url": "https://www.makeuseof.com/claude-more-human-than-chatgpt-explained/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779015677000,
-        "summary": "It's not magic. Here's what's actually going on.",
-        "tags": [
-          "productivity",
-          "claude",
-          "chatgpt",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
-      },
-      {
-        "id": "a4d7fc6668c2ff17",
-        "title": "A revolutionary cancer treatment could transform autoimmune disease",
-        "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779015614000,
-        "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
-        "tags": [
-          "health",
-          "science",
-          "autoimmune disease",
-          "cancer treatment",
-          "syndication",
-          "targeted cancer treatments"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9884
-      },
-      {
-        "id": "bc3b02c937cf1a76",
-        "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779014400000,
-        "summary": "The bill covered 603 billion tokens across 7.6 million requests, all generated by roughly 100 Codex instances.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9477
-      },
-      {
-        "id": "955bf7ff4477a51e",
-        "title": "Local LLMs have one advantage ChatGPT and Claude can’t match, and it's why I'm switching",
-        "url": "https://www.makeuseof.com/the-best-reason-to-switch-to-a-local-llm-isnt-privacy-or-price-its-this/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779013818000,
-        "summary": "Claude, Gemini, and ChatGPT all have the same flaw — and it’s not privacy or price",
-        "tags": [
-          "productivity",
-          "artificial intelligence",
-          "chatgpt",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8478
       }
     ],
     "science": [
+      {
+        "id": "ea096547391c1948",
+        "title": "MuteBench: Modality Unavailability Tolerance Evaluation for Incomplete Multimodal Fusion",
+        "url": "https://arxiv.org/abs/2605.15235",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15235v1 Announce Type: new Abstract: Multimodal physiological data powers clinical AI systems from intensive care units to wearable devices, but sensors routinely fail in practice. Two failure modes are common: modality missing, where an entire channel is absent, and within-modality missing, where a contiguous time segment is lost. No existing benchmark evaluates multiple fusion archite",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "c3e140ec41e6530a",
+        "title": "Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation",
+        "url": "https://arxiv.org/abs/2605.15254",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15254v1 Announce Type: new Abstract: Physics-Informed Neural Networks (PINNs) combine deep learning with physical constraints for solving partial differential equations (PDEs), and are widely applied in fluid mechanics, heat transfer, and solid mechanics. However, PINN training still suffers from high-dimensional non-convex loss landscapes, imbalanced multiobjective constraints, and ine",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "6d9f21a487ae7ca7",
+        "title": "How Data Augmentation Shapes Neural Representations",
+        "url": "https://arxiv.org/abs/2605.15306",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15306v1 Announce Type: new Abstract: Data augmentation is widely recognized for improving generalization in deep networks, yet its impact on the geometry of learned representations remains poorly understood. In this work, we characterize how different data augmentation strategies reshape internal representations in neural networks. Using tools from shape analysis, we embed network hidde",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "498c6e71eaa2aedb",
+        "title": "Time-Varying Deep State Space Models for Sequences with Switching Dynamics",
+        "url": "https://arxiv.org/abs/2605.15311",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15311v1 Announce Type: new Abstract: The identification and modeling of time-varying systems is a fundamental challenge in signal processing and system identification. To address this challenge, we propose a class of time-varying state-space model (SSM) based neural networks in which the neurons' states are governed by time-varying dynamics. The proposed model provides the learnable tim",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "39c7e4b71e1e7ec1",
+        "title": "Lagrangian Flow Matching: A Least-Action Framework for Principled Path Design",
+        "url": "https://arxiv.org/abs/2605.15419",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15419v1 Announce Type: new Abstract: Flow matching trains a neural velocity field by regression against a target velocity associated with a prescribed probability path connecting a simple initial distribution to the data distribution. A central design choice is the path itself. Existing constructions, including rectified and optimal-transport-based paths, transport samples along straigh",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1151
+      },
+      {
+        "id": "f35d15ee3e9a73d3",
+        "title": "Petri Net Induced Heuristic Search for Resource Constrained Scheduling",
+        "url": "https://arxiv.org/abs/2605.15983",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15983v1 Announce Type: new Abstract: We formulate the Resource-Constrained Project Scheduling Problem (RCPSP) as optimal search over the reachability graph of a Timed Transition Petri Net with Resources, using relative-delay tokens so that scheduling decisions correspond to transition firings in the induced state space. We solve the resulting problem with $A^*$ guided by a heuristic tha",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0325
+      },
+      {
+        "id": "facabca6654e8f51",
+        "title": "Reading the Cell, Designing the Cure: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design",
+        "url": "https://arxiv.org/abs/2605.15243",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779076800000,
+        "summary": "arXiv:2605.15243v1 Announce Type: new Abstract: When reliable target structures are unavailable at scale or phenotypes arise from dysregulated pathways, transcriptomic perturbations provide a system-level functional readout for drug action. In this work, we formalize \\emph{Transcriptome-based Drug Design (TBDD)} as a generative inverse problem: designing drug molecules conditioned on desired trans",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.bm",
+          "q-bio.mn",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0325
+      },
       {
         "id": "580b331bb458e5ba",
         "title": "Fluorescent RNA sensor gets 10 times more sensitive for water safety",
@@ -3689,111 +3796,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1014
-      },
-      {
-        "id": "903e61fb259fdd7a",
-        "title": "Climate warming causes bleaching in key Arctic lichen, study finds",
-        "url": "https://phys.org/news/2026-05-climate-key-arctic-lichen.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778865603000,
-        "summary": "Long-term climate warming is causing a bleaching effect in a key Arctic lichen species, according to new research led by researchers in the School of GeoSciences and British Antarctic Survey. Their study shows how rising temperatures are disrupting one of the Arctic's most important and widespread organisms, with potential consequences for fragile tundra ecosystems.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0173
-      },
-      {
-        "id": "2a1262f3462e45d3",
-        "title": "Implantable bacteria can now be safely contained, clearing a major hurdle for fighting infection and cancer",
-        "url": "https://phys.org/news/2026-05-implantable-bacteria-safely-major-hurdle.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778864507000,
-        "summary": "Researchers have long known that bacteria could potentially be used to deliver therapeutic drugs inside the human body. However, safely and successfully carrying out such a feat in humans has been a challenge. But now, researchers from Harvard have made another step forward toward the goal of using microbes as medicine. Their recent study, published in Science, details a novel method for containin",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0171
-      },
-      {
-        "id": "a1e4975179e1fa21",
-        "title": "Why is almost everyone right-handed? The answer may lie in how we learned to walk",
-        "url": "https://phys.org/news/2026-05-why-is-almost-everyone-right.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778864406000,
-        "summary": "It is one of the strangest puzzles in human evolution. About 90% of people across every human culture favor their right hand—with no other primate species showing a population-level preference on this scale. Despite decades of research into the brains, genes and development behind handedness, why humans ended up so overwhelmingly right-handed has remained an evolutionary enigma.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
-      },
-      {
-        "id": "a88052e5e202ef79",
-        "title": "Researchers identify enzyme that prevents chromosome breaks during DNA copying",
-        "url": "https://phys.org/news/2026-05-enzyme-chromosome-dna.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778864405000,
-        "summary": "Researchers at The University of Texas Medical Branch (UTMB) have identified how a key enzyme called ATR protects DNA from breaking when cells copy damaged genetic material, a discovery that could affect how certain cancer drugs are developed. Published in Genes & Development, the study shows how ATR helps stabilize the cell's DNA-copying machinery during replication stalls, preventing chromosomes",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0979
-      },
-      {
-        "id": "467bfe54c9597c52",
-        "title": "Warming climate favors shallower cyclones, challenging current risk assessments",
-        "url": "https://phys.org/news/2026-05-climate-favors-shallower-cyclones-current.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778862386000,
-        "summary": "As tropical cyclones (TCs) are among the most destructive natural hazards worldwide, understanding how TCs change under climate warming is of critical importance. While substantial progress has been made in projecting changes in TC intensity and precipitation, much less is known about how their vertical structure will respond to a warmer climate.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0182
-      },
-      {
-        "id": "47daaa804a9f866b",
-        "title": "Physicists create hybrid light-matter particles that interact strongly enough to compute",
-        "url": "https://phys.org/news/2026-05-physicists-hybrid-particles-interact-strongly.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778862279000,
-        "summary": "Eighty years ago, Penn researchers J. Presper Eckert and John Mauchly launched the age of electronic computing by harnessing electrons to solve complex numerical problems with ENIAC, the world's first general-purpose electronic computer. Today, that same architecture still underlies general computing, but electrons are beginning to show their limits. Because they carry a charge, they lose energy a",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "e787a9a3a2e1fe12",
-        "title": "Dense soils may spread earthquake surface ruptures into wider damage zones, particle models suggest",
-        "url": "https://phys.org/news/2026-05-dense-soils-earthquake-surface-ruptures.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1778862004000,
-        "summary": "Earthquakes can visibly and permanently crack the ground apart in dramatic and unpredictable surface fault rupture, but new research led by University of Michigan Engineering revealed that soil density strongly influences how and where they occur. The paper is published in the Journal of Geotechnical and Geoenvironmental Engineering.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0161
       }
     ]
   },
