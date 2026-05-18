@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-05-18T17:34:26.794738+00:00",
+  "generated_at": "2026-05-18T17:45:04.941003+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "bfe0078c12ceb120",
+        "title": "Elon Musk lost his case against Sam Altman",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1779125972000,
+        "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […]",
+        "tags": [
+          "ai",
+          "elon musk",
+          "law",
+          "microsoft",
+          "news",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7906
+      },
       {
         "id": "f629e31de8740a3b",
         "title": "The AndaSeat Phantom 4 Pro brings a lot to the table, but comfort takes a back seat for impressive ergonomics",
@@ -950,22 +970,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8455
-      },
-      {
-        "id": "66e8deb75fee8b04",
-        "title": "Lenovo Yoga Slim 7x Gen 11 Review: Do a Lot for a Long, Long Time, Anywhere",
-        "url": "https://www.cnet.com/tech/computing/lenovo-yoga-slim-7x-gen-11-review/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1779098868000,
-        "summary": "True to its name, this slender laptop's second-gen Snapdragon X2 chip has truly impressive performance. However, you'll need to keep looking if you're after strong graphics performance.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.856
       }
     ],
     "innovation": [
+      {
+        "id": "c4ab1d42f73d250a",
+        "title": "‘John Appleseed’",
+        "url": "https://om.co/2026/04/20/john-appleseed/",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1779125686000,
+        "summary": "Here’s a great take from last month re: the Cook/Ternus transition, from Om Malik: When he took over from Steve Jobs in August 2011, Apple’s market capitalization was around $350 billion. As of this morning, it sits near $4 trillion. That is more than a 1,000 percent increase. Revenue went from $108 billion in fiscal 2011 to over $416 billion in fiscal 2025, almost four times bigger. Apple under C",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0764
+      },
       {
         "id": "d274c48853058978",
         "title": "If you're still using Chrome on Android, you're missing out on a genuinely better browser",
@@ -1890,27 +1910,55 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8836
-      },
-      {
-        "id": "091f582e15271e44",
-        "title": "Former Abilene Christian basketball player permanently banned after NCAA manipulation findings",
-        "url": "https://readwrite.com/abilene-christian-basketball-player-banned-ncaa-manipulation/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1779096039000,
-        "summary": "The NCAA says former Abilene Christian basketball player Airion Simmons broke the association’s gambling rules after investigators determined he shared… Continue reading Former Abilene Christian basketball player permanently banned after NCAA manipulation findings The post Former Abilene Christian basketball player permanently banned after NCAA manipulation findings appeared first on ReadWrite.",
-        "tags": [
-          "betting",
-          "illegal gambling",
-          "ncaa",
-          "sports betting"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8975
       }
     ],
     "ai": [
+      {
+        "id": "9516f15dde272a19",
+        "title": "Musk v. Altman jury unanimously rejects Elon Musk's claims against Sam Altman (CNBC)",
+        "url": "https://www.techmeme.com/260518/p32#a260518p32",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779126001000,
+        "summary": "CNBC: Musk v. Altman jury unanimously rejects Elon Musk's claims against Sam Altman — A jury rejected Elon Musk's claims against OpenAI CEO Sam Altman, the latest chapter in the bitter rivalry between the two tech billionaires, who were once close friends. — After the advisory jury found Altman …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9984
+      },
+      {
+        "id": "33a2ae7651452fd7",
+        "title": "Apple Design Award Finalists Announced Ahead of WWDC 2026",
+        "url": "https://www.macrumors.com/2026/05/18/apple-design-award-finalists-2026/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1779125729000,
+        "summary": "In preparation for the 2026 Worldwide Developers Conference that is set to begin on June 8, Apple today announced its finalists for the 2026 Apple Design Awards. Apple picks top apps and games annually, and announces winners at WWDC. The Apple Design Awards recognize apps with innovation, ingenuity, and technical achievement in app and game design. Delight and Fun - Apps Blippo+ Metaballs Grug Del",
+        "tags": [
+          "wwdc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9969
+      },
+      {
+        "id": "c265153f0ebc6e44",
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1779125683000,
+        "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+        "tags": [
+          "ai",
+          "tc",
+          "elon musk",
+          "openai trial"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7455
+      },
       {
         "id": "6cca32669925cc62",
         "title": "Apple Announces WWDC 2026 Schedule, Sends Media Invites",
@@ -2798,54 +2846,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9954
-      },
-      {
-        "id": "9110cf49f13283eb",
-        "title": "Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release (Ashley Gold/Axios)",
-        "url": "https://www.techmeme.com/260518/p18#a260518p18",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779105300000,
-        "summary": "Ashley Gold / Axios: Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release — A group of more than 60 loyal allies of President Trump is urging him to test and approve the most powerful AI models before they're released …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0796
-      },
-      {
-        "id": "1eb88c2a208e3c27",
-        "title": "'Suggested Genmoji' Are Coming to an iPhone Near You",
-        "url": "https://www.macrumors.com/2026/05/18/suggested-genmoji-ios-27-apple/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1779105179000,
-        "summary": "Apple wants users to look again at their use of generative Genmoji in iOS 27, according to Bloomberg's Mark Gurman. ‌Genmoji‌ is an Apple Intelligence feature that lets you use AI to generate all-new emoji characters based on text input. All ‌Genmoji‌ generation happens directly on-device, but the feature has had a rocky run. Writing in his latest Power On newsletter, Gurman says that the generate",
-        "tags": [
-          "genmoji",
-          "mark gurman"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0797
-      },
-      {
-        "id": "dad043dbd59e0775",
-        "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-        "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779105065000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:9"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.056
       }
     ],
     "science": [
+      {
+        "id": "319b7c253e489981",
+        "title": "Debunking a core chemistry concept taught in classrooms everywhere",
+        "url": "https://phys.org/news/2026-05-debunking-core-chemistry-concept-taught.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779126009000,
+        "summary": "A new study has revealed that a core idea taught in chemistry classrooms around the world may be wrong. Dr. Edwin Johnson, Lecturer at the University of Newcastle, co-authored the paper published in the Journal of Chemical Education with academics from University of Cardiff and University of New England. \"Our Australian–U.K. study has revisited how chemistry textbooks explain the behavior of elect",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0184
+      },
+      {
+        "id": "18d989ff94be755e",
+        "title": "Study examines skills gaps, intervention priorities in energy and construction sectors during green transition",
+        "url": "https://phys.org/news/2026-05-skills-gaps-intervention-priorities-energy.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779126002000,
+        "summary": "New research published in the World Review of Entrepreneurship, Management and Sustainable Development has looked at changes in the labor market in regions of Greece affected by the rapid phasing-out of coal and the move to renewables. The research suggests that current European Union approaches to green skills risk underestimating how unevenly job skills are spread across different sectors underg",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
       {
         "id": "357b11c3270cd0ad",
         "title": "Chemical pathway unlocks next-generation infrared III–V nanocrystals",
@@ -3722,32 +3755,6 @@
         "lane": "science",
         "published_ts": 1779062400000,
         "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9139
-      },
-      {
-        "id": "a0fa9f490767a57d",
-        "title": "Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
-        "url": "https://www.nature.com/articles/s41586-026-10619-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779062400000,
-        "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-zPublisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9139
-      },
-      {
-        "id": "67c22233eaeb44c9",
-        "title": "Criminals are made, not born: how when you live shapes whether you will break the law",
-        "url": "https://www.nature.com/articles/d41586-026-01556-y",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779062400000,
-        "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-yAn analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.",
         "tags": [],
         "paywall": false,
         "impact": "high",
