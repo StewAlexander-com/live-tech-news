@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-18T22:40:32.892976+00:00",
+  "generated_at": "2026-05-18T23:00:14.471780+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "71b633468622b5ae",
+        "title": "PSA: The first F1 race on Netflix is this weekend",
+        "url": "https://www.engadget.com/2176061/psa-the-first-f1-race-on-netflix-is-this-weekend/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1779144941000,
+        "summary": "Catch the F1 Canadian Grand Prix live on a service that isn't Apple.",
+        "tags": [
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.703
+      },
       {
         "id": "f762fa3f8a004fdc",
         "title": "You can't buy them for your home or office, but AWS just snapped up a host of Apple's most highly desired M3 Ultra Macs",
@@ -971,26 +986,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.997
-      },
-      {
-        "id": "32756a661beec140",
-        "title": "The Adventures of Elliot: The Millennium Tales trades turn-based combat for real-time action",
-        "url": "https://www.techradar.com/gaming/nintendo/the-adventures-of-elliot-the-millennium-tales-trades-turn-based-combat-for-real-time-action",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779112800000,
-        "summary": "We played an hour of Square Enix’s latest HD-2D RPG that trades in turn-based combat for real-time action.",
-        "tags": [
-          "nintendo",
-          "gaming",
-          "consoles &amp; pc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8453
       }
     ],
     "innovation": [
+      {
+        "id": "d5c47d21ba295eb6",
+        "title": "A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)",
+        "url": "https://www.techmeme.com/260518/p45#a260518p45",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779144601000,
+        "summary": "Brian Krebs / Krebs on Security: A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation — Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9967
+      },
       {
         "id": "907f860531593ed3",
         "title": "Mars reveals first Zwan-Wolf effect deep in its atmosphere during a solar storm",
@@ -1904,19 +1915,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0492
-      },
-      {
-        "id": "851b6558af637398",
-        "title": "Arkham: Iran's largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February (Reuters)",
-        "url": "https://www.techmeme.com/260518/p25#a260518p25",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779113104000,
-        "summary": "Reuters: Arkham: Iran's largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February — Iran's Nobitex has processed at least $2.3 billion through Tron and BNB Chain, blockchain ledgers started by backers of the Trump family's World Liberty Financial.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9961
       }
     ],
     "ai": [
@@ -1991,6 +1989,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9153
+      },
+      {
+        "id": "fab78f65bee67952",
+        "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+        "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779141574000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:21"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0298
       },
       {
         "id": "d7211daa97ac218f",
@@ -2860,22 +2874,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.2643
-      },
-      {
-        "id": "ab6d0c89e677d71c",
-        "title": "Google's Android Update Pushes Smartphones Into the AI-First Era",
-        "url": "https://www.cnet.com/tech/mobile/google-gemini-intelligence-ai-first-smartphone/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1779123411000,
-        "summary": "Gemini will now have more control over your apps and tasks. It could be the start of a wider shift in how we use our phones.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8819
       }
     ],
     "science": [
+      {
+        "id": "f12a31ae93e680a3",
+        "title": "Reconfigurable Ge-Si photodetector achieves ultrahigh-speed data transmission using low-loss packaging",
+        "url": "https://phys.org/news/2026-05-reconfigurable-ge-si-photodetector-ultrahigh.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779144601000,
+        "summary": "The rapid growth of large language models is placing increasing demands on data centers, where large volumes of data must be transferred efficiently between servers. Optical interconnects are essential for enabling this communication, but as data rates continue to rise, these systems must deliver higher bandwidth while maintaining low latency and energy efficiency. However, integrating electronic ",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0167
+      },
       {
         "id": "b607d220c806142f",
         "title": "Alternative SoMe algorithms can help users form more accurate and less polarized beliefs",
@@ -3781,21 +3797,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0153
-      },
-      {
-        "id": "5a5f71a3c3ab0327",
-        "title": "New evidence reveals a millennium-old dingo was ritually buried, and cared for, in Australia",
-        "url": "https://phys.org/news/2026-05-evidence-reveals-millennium-dingo-ritually.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779112810000,
-        "summary": "A millennium-old dingo deliberately buried by Barkindji ancestors along the Baaka, or Darling River, is offering rare insight into the depth of relationships between First Nations people and dingoes in western New South Wales, Australia.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0144
       }
     ]
   },
