@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T18:15:53.879021+00:00",
+  "generated_at": "2026-05-18T18:23:18.048792+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -81,6 +81,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8118
+      },
+      {
+        "id": "2bc1fa5b4a429641",
+        "title": "Elon Musk loses his case against Sam Altman",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1779125972000,
+        "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […]",
+        "tags": [
+          "ai",
+          "elon musk",
+          "law",
+          "microsoft",
+          "news",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.781
       },
       {
         "id": "bfe0078c12ceb120",
@@ -957,22 +977,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8696
-      },
-      {
-        "id": "023d0723186a2977",
-        "title": "Grab this $8.97 TP-Link Ethernet Switch to ditch Wi-Fi lag and unlock 4K streaming and gaming at home — huge 47% discount for compact, fanless gigabit hub with five additional ports for your network",
-        "url": "https://www.tomshardware.com/networking/network-switches/grab-this-usd8-97-tp-link-ethernet-switch-to-ditch-wi-fi-lag-and-unlock-4k-streaming-and-gaming-at-home-huge-47-percent-discount-for-compact-fanless-gigabit-hub-with-five-additional-ports-for-your-network",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1779103163000,
-        "summary": "This TP-Link 5-port unmanaged Ethernet switch is back on sale, down to only $8.97 in this limited-time Amazon deal, unlocking five extra ports for your network for a low price.",
-        "tags": [
-          "network switches",
-          "networking"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9395
       }
     ],
     "innovation": [
@@ -1922,6 +1926,21 @@
     ],
     "ai": [
       {
+        "id": "a0634c0c30b0ee5a",
+        "title": "Companies are hyping AI the same way they talked up sustainability, but there are ways to fix that",
+        "url": "https://phys.org/news/2026-05-companies-hyping-ai-sustainability-ways.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1779128404000,
+        "summary": "Across corporate earnings calls, investor presentations and marketing pitches, \"artificial intelligence\" has become the buzzword of choice. Yet a troubling pattern lies under the hype. Many claims vastly overstate actual AI sophistication, misleading people about true capabilities, future outcomes and potential harms.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1005
+      },
+      {
         "id": "0fd08e57c2d5581e",
         "title": "iOS 27 to Let Users Generate Wallpapers and Build Shortcuts With AI",
         "url": "https://www.macrumors.com/2026/05/18/ios-27-ai-wallpaper-shortcuts/",
@@ -1989,6 +2008,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0495
+      },
+      {
+        "id": "db73b227412cb656",
+        "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+        "url": "https://modal.com/blog/truly-serverless-gpus",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779126986000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:11"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.041
       },
       {
         "id": "f7d1a59063919e4f",
@@ -2067,6 +2102,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.876
+      },
+      {
+        "id": "7bb9e685d6a7b6e0",
+        "title": "Musk v. Altman: the jury unanimously rejects Elon Musk's claims against Sam Altman, finding that the claims were filed outside of the statute of limitations (CNBC)",
+        "url": "https://www.techmeme.com/260518/p32#a260518p32",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779126001000,
+        "summary": "CNBC: Musk v. Altman: the jury unanimously rejects Elon Musk's claims against Sam Altman, finding that the claims were filed outside of the statute of limitations — After less than two hours of deliberations, a jury on Monday rejected Elon Musk's claims against OpenAI CEO Sam Altman …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9862
       },
       {
         "id": "d2d3c19d108fdfa1",
@@ -2812,60 +2860,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8703
-      },
-      {
-        "id": "04e880d617cbf5b8",
-        "title": "Google has sold so much TPU capacity that its own researchers are queueing for the rest",
-        "url": "https://thenextweb.com/news/google-tpu-compute-internal-researchers-anthropic",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779111330000,
-        "summary": "Alphabet runs the most enviable AI infrastructure stack in the industry. The success of the third-party deals with Anthropic and Meta is the reason internal access has become a competitive resource. Google has spent a decade quietly building the most enviable position in AI infrastructure: a healthy cloud business, its own custom chips, and supply […] This story continues at The Next Web",
-        "tags": [
-          "google",
-          "insider",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.959
-      },
-      {
-        "id": "a1600b141a2dd632",
-        "title": "Linus Torvalds says flood of duplicate AI-generated vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' — private list 'a waste of time for everybody involved' in switch to new public system",
-        "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779111265000,
-        "summary": "\"AI detected bugs are pretty much by definition not secret, and treating them on some private list is a waste of time for everybody involved.\"",
-        "tags": [
-          "linux",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9575
-      },
-      {
-        "id": "45947251f54f7d3c",
-        "title": "Flood of duplicate vulnerability reports have made Linux security mailing list 'almost entirely unmanageable' — Linus Torvalds says private list 'a waste of time for everybody involved' in switch to new public system",
-        "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779111265000,
-        "summary": "\"AI detected bugs are pretty much by definition not secret, and treating them on some private list is a waste of time for everybody involved.\"",
-        "tags": [
-          "linux",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.012
       }
     ],
     "science": [
+      {
+        "id": "49970ef20f7a4871",
+        "title": "Galactic collision may have reset Milky Way disk 11 billion years ago",
+        "url": "https://phys.org/news/2026-05-galactic-collision-reset-milky-disk.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779128403000,
+        "summary": "A new study led by researchers at the Institute of Cosmos Sciences of the University of Barcelona (ICCUB) and the Institute of Space Studies of Catalonia (IEEC) reveals how the disks of galaxies like the Milky Way are affected by ancient galactic collisions.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0189
+      },
       {
         "id": "732a53171b82ee95",
         "title": "Your Windows 11 PC has a hidden cleanup tool that outperforms every paid alternative",
@@ -3760,30 +3772,17 @@
         "score": 1.0854
       },
       {
-        "id": "4ffc244b51bc9c1c",
-        "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-        "url": "https://www.nature.com/articles/s41586-026-10649-7",
+        "id": "a0fa9f490767a57d",
+        "title": "Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
+        "url": "https://www.nature.com/articles/s41586-026-10619-z",
         "source": "Nature",
         "lane": "science",
         "published_ts": 1779062400000,
-        "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+        "summary": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-zPublisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.809
-      },
-      {
-        "id": "1cd0eb1b71a30efe",
-        "title": "A step-by-step guide for scientists who hate conference networking",
-        "url": "https://www.nature.com/articles/d41586-026-00525-9",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779062400000,
-        "summary": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.809
+        "score": 0.8071
       }
     ]
   },
