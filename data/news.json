@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-05-18T21:50:32.253236+00:00",
+  "generated_at": "2026-05-18T22:12:55.124847+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f762fa3f8a004fdc",
+        "title": "You can't buy them for your home or office, but AWS just snapped up a host of Apple's most highly desired M3 Ultra Macs",
+        "url": "https://www.techradar.com/pro/you-cant-buy-them-for-your-home-or-office-but-aws-just-snapped-up-a-host-of-apples-most-highly-desired-m3-ultra-macs",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779141900000,
+        "summary": "AWS acquires some scarce Mac Studio systems with hidden 256GB memory configurations, and now rents them through limited cloud regions.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8478
+      },
+      {
+        "id": "5c26eb7dfa584b8a",
+        "title": "Yamaha's new budget AV receivers mean you can build a Dolby Atmos system with 4K 120Hz passthrough for the price of a decent soundbar setup — and it's even offering a bundle with a 5.1 surround setup to prove it",
+        "url": "https://www.techradar.com/televisions/av-receivers/yamahas-new-budget-av-receivers-mean-you-can-build-a-dolby-atmos-system-with-4k-120hz-passthrough-for-the-price-of-a-decent-soundbar-setup-and-its-even-offering-a-bundle-with-a-5-1-surround-setup-to-prove-it",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779141600000,
+        "summary": "Yamaha has announced two new AV receivers, the RX300A and RX500A, and they start from just $399",
+        "tags": [
+          "av receivers",
+          "televisions",
+          "home theater"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8465
+      },
       {
         "id": "254105b55eb337a6",
         "title": "Disney faces a class action lawsuit over facial recognition tech",
@@ -956,40 +988,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8453
-      },
-      {
-        "id": "a7c92176b9076194",
-        "title": "Steelseries Arctis Nova Elite review: Ultra high-end gaming headsets are here",
-        "url": "https://www.engadget.com/2175403/steelseries-arctis-nova-elite-review-ultra-high-end-gaming-headsets-are-here/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1779112800000,
-        "summary": "$600 is a lot of money for a gaming headset, but if you edit audio and video, the Arctis Nova Elite might be the only pair you need.",
-        "tags": [
-          "headphones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7001
-      },
-      {
-        "id": "7231ba3031ab998b",
-        "title": "Sony's 10th Anniversary 'Collexion' Over-Ear Headphones Leaked",
-        "url": "https://www.macrumors.com/2026/05/18/sony-10th-anniversary-collexion-headphones-leaked/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1779112252000,
-        "summary": "Sony's latest noise-canceling headphones have been leaked. Images of the 10th anniversary models, called 1000X \"The Collexion\" Edition, were shared online today by OnLeaks. They're expected to launch tomorrow, coming just a year after the company's WH-1000XM6 series. From what we can tell based on the leaked materials, the changes are largely design-based. The new cans have a thicker leatherette p",
-        "tags": [
-          "sony",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0709
       }
     ],
     "innovation": [
+      {
+        "id": "f16991f360f95e30",
+        "title": "The Windows security feature most people ignore is the one I check first on every PC",
+        "url": "https://www.makeuseof.com/windows-security-feature-most-people-ignore-one-check-first-on-every-pc/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779141618000,
+        "summary": "And it's almost always disabled.",
+        "tags": [
+          "windows",
+          "windows defender",
+          "antivirus"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8466
+      },
+      {
+        "id": "10bd65fa4d5bd242",
+        "title": "New Windows 'MiniPlasma' Zero-Day Exploit Gives SYSTEM Access, PoC Released",
+        "url": "https://it.slashdot.org/story/26/05/18/1946245/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1779141600000,
+        "summary": "A researcher known as Chaotic Eclipse has released a proof-of-concept exploit for a new Windows zero-day dubbed MiniPlasma, which BleepingComputer confirmed can grant SYSTEM privileges on fully patched Windows 11 systems. The researcher claims the bug is effectively a still-exploitable version of a 2020 flaw Microsoft said it had fixed. From the report: At the time, the flaw was assigned the CVE-2",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
       {
         "id": "751611222cf27167",
         "title": "Indian and Tibetan wolves reveal ancient lineages with unexpected genomic diversity",
@@ -1004,6 +1037,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0138
+      },
+      {
+        "id": "4beb154ed968d02d",
+        "title": "US bill proposes new national EV tax, while some push to slash gas tax to zero",
+        "url": "https://electrek.co/2026/05/18/us-bill-would-overcharge-evs-to-pay-for-road-damage-they-arent-doing/",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1779139081000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:30"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0317
       },
       {
         "id": "fccdfbafb74dc8eb",
@@ -1880,55 +1929,53 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9994
-      },
-      {
-        "id": "3f75289b41f19782",
-        "title": "Show HN: Files.md – open-source alternative to Obsidian",
-        "url": "https://github.com/zakirullin/files.md",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1779111213000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:26"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2631
-      },
-      {
-        "id": "29da540dae32d840",
-        "title": "I thought NotebookLM was Google's best research tool until I tried this one",
-        "url": "https://www.makeuseof.com/notebooklm-alternative-illuminate-better-research-tool/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779111063000,
-        "summary": "This free Google tool quietly outclasses NotebookLM",
-        "tags": [
-          "productivity",
-          "notebooklm",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8485
-      },
-      {
-        "id": "f33867452009564b",
-        "title": "Strategy acquired 24,869 bitcoin for ~$2.01B at an $80,985 average price from May 11 to May 17, taking its holdings to 843,738 BTC, or 4%+ of the total supply (James Hunt/The Block)",
-        "url": "https://www.techmeme.com/260518/p21#a260518p21",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779110101000,
-        "summary": "James Hunt / The Block: Strategy acquired 24,869 bitcoin for ~$2.01B at an $80,985 average price from May 11 to May 17, taking its holdings to 843,738 BTC, or 4%+ of the total supply — Quick Take — Strategy has purchased another 24,869 BTC for approximately $2.01 billion at an average price of $80,985 per bitcoin …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9802
       }
     ],
     "ai": [
+      {
+        "id": "5bcc1bab92d01604",
+        "title": "Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce (Eli Tan/New York Times)",
+        "url": "https://www.techmeme.com/260518/p43#a260518p43",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779142201000,
+        "summary": "Eli Tan / New York Times: Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce — The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.079
+      },
+      {
+        "id": "1aa7b27daddbdbcd",
+        "title": "Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal (Bloomberg)",
+        "url": "https://www.techmeme.com/260518/p42#a260518p42",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779141901000,
+        "summary": "Bloomberg: Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal — Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0773
+      },
+      {
+        "id": "45b3617769aefcf5",
+        "title": "Amazon's copies NotebookLM in the worst way with AI podcasts",
+        "url": "https://www.makeuseof.com/amazon-alexa-ai-podcasts-alexa-plus/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1779141826000,
+        "summary": "It's the pinnacle of AI slop, and it's available to Alexa Plus subscribers today.",
+        "tags": [
+          "entertainment",
+          "alexa",
+          "podcasts",
+          "amazon"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9153
+      },
       {
         "id": "d7211daa97ac218f",
         "title": "Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance (Amrith Ramkumar/Wall Street Journal)",
@@ -1976,6 +2023,22 @@
         "score": 0.7433
       },
       {
+        "id": "3d4c558ac483c713",
+        "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+        "url": "https://arxiv.org/abs/2601.10160",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779139753000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1182
+      },
+      {
         "id": "09be983ac1a6b251",
         "title": "Gemini could get a major new restriction, and it might force you to pay",
         "url": "https://www.makeuseof.com/gemini-could-get-a-major-new-restriction-and-it-might-force-you-to-pay/",
@@ -1991,6 +2054,46 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8454
+      },
+      {
+        "id": "bc47bad41fe7ee82",
+        "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+        "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1779136874000,
+        "summary": "CDC is working to move the infected American and six others to Germany.",
+        "tags": [
+          "health",
+          "cdc",
+          "democratic republic of the congo",
+          "drc",
+          "ebola",
+          "outbreak"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.971
+      },
+      {
+        "id": "58d30e34e4a322fd",
+        "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+        "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1779136035000,
+        "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
+        "tags": [
+          "ai",
+          "policy",
+          "ai lawyer",
+          "artificial intelligence",
+          "defamation",
+          "doxing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
       },
       {
         "id": "c538718d72e055c1",
@@ -2789,105 +2892,73 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9152
-      },
-      {
-        "id": "01c8140185ebebe5",
-        "title": "Anthropic’s co-founder will speak at the Vatican launch of the pope’s AI encyclical",
-        "url": "https://thenextweb.com/news/pope-leo-encyclical-magnifica-humanitas-anthropic-olah",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779121621000,
-        "summary": "Pope Leo XIV will personally present his first encyclical, Magnifica Humanitas, on 25 May at the Vatican’s Synod Hall, and one of the speakers alongside him will be Christopher Olah, co-founder of Anthropic. The Vatican announced the details on Monday, confirming that the document will address the protection of human dignity in the age of artificial […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9626
-      },
-      {
-        "id": "b3e13684c9fae3a9",
-        "title": "Your AI Glossary: 54 Terms Everyone Should Know",
-        "url": "https://www.cnet.com/tech/services-and-software/artificial-intelligence-ai-terms-glossary/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1779121560000,
-        "summary": "How does artificial intelligence use tokens, and should we be worried that AI now has claws? Here's a quick primer on the vocabulary of today's inescapable technology.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8732
-      },
-      {
-        "id": "9b003cd6446a65ad",
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779121443000,
-        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial […]",
-        "tags": [
-          "ai",
-          "elon musk",
-          "law",
-          "news",
-          "openai",
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8511
-      },
-      {
-        "id": "4405f3c42e2f738c",
-        "title": "‘AI, “Humanity”, and Dr. Manhattan Syndrome’",
-        "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1779121295000,
-        "summary": "Jim Prosser, back in February: Let me be clear about causation, because the AI parallel only works if we’re honest about it. The communications failures didn’t kill nuclear power. The disasters did. But two decades of talking over the public meant the industry had built precisely zero reservoir of human-scale trust to draw on when the real crises hit. Nuclear pioneer Alvin Weinberg admitted in 197",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1597
-      },
-      {
-        "id": "d09a7a5a80b5b533",
-        "title": "China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers — 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power",
-        "url": "https://www.reddit.com/r/technology/comments/1tgrk67/china_says_worlds_first_offshore_windpowered/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779121212000,
-        "summary": "submitted by /u/Steap-Edit [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
-      },
-      {
-        "id": "6e52a74a353fc283",
-        "title": "'Almost entirely unmanageable': Linus Torvalds says AI bug hunters have ruined Linux security mailing list",
-        "url": "https://www.techradar.com/pro/security/almost-entirely-unmanageable-linus-torvalds-says-ai-bug-hunters-have-ruined-linux-security-mailing-list",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779120600000,
-        "summary": "Torvalds says everyone is using AI to report on the same flaws, most of which have already been fixed.",
-        "tags": [
-          "security",
-          "pro",
-          "outlets:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9094
       }
     ],
     "science": [
+      {
+        "id": "8e16245cd1bbeea0",
+        "title": "Sea level rise is swallowing US Mid-Atlantic farmland faster than expected, study finds",
+        "url": "https://phys.org/news/2026-05-sea-swallowing-mid-atlantic-farmland.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779142201000,
+        "summary": "Ghost forests, the cemetery-like groupings of dead trees killed by saltwater intrusion, have become haunting symbols of sea level rise overtaking land along the Mid-Atlantic coast. But a new study published in Nature Sustainability, led by William & Mary's Batten School & VIMS, points to even more dramatic land losses in the region's coastal farmlands, where the rate of marsh encroachment is happe",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
+      {
+        "id": "a3e847328e27c7af",
+        "title": "Counting the overlooked 'hidden homeless'",
+        "url": "https://phys.org/news/2026-05-overlooked-hidden-homeless.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779141603000,
+        "summary": "A person asking for change on the corner or living in a makeshift dwelling outside is easy to identify as homeless or unhoused. But there's a segment of the population without permanent housing that goes unnoticed. Molly Richard, assistant professor of public health in the University of Rhode Island's College of Health Sciences, studies the homelessness crisis, including an overlooked form of home",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
+      {
+        "id": "fe50bfcbff247cf5",
+        "title": "A physicist's fresh look at the 'prisoner's dilemma' reveals hope for cooperation",
+        "url": "https://phys.org/news/2026-05-physicist-fresh-prisoner-dilemma-reveals.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779141602000,
+        "summary": "The \"prisoner's dilemma\" is one of the most famous ideas in game theory. For decades, this game has been used to explain why selfishness often beats cooperation. In the prisoner's dilemma, two players can either cooperate or cheat. Cheating always seems to pay off more, so both players end up cheating and losing out even though working together would have given them the biggest reward.",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
+      {
+        "id": "3f18b43b623e6b4b",
+        "title": "OSHA probing worker death at SpaceX’s Starbase site",
+        "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1779141302000,
+        "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+        "tags": [
+          "space",
+          "transportation",
+          "osha",
+          "spacex",
+          "starbase"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7437
+      },
       {
         "id": "5a5abeb8c852d989",
         "title": "Elongated canopy gaps may best support the natural regeneration of oak forest",
@@ -3747,66 +3818,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0079
-      },
-      {
-        "id": "89a0a73c8e387690",
-        "title": "Behold the neuron, a complicated cell with a simple mission",
-        "url": "https://phys.org/news/2026-05-neuron-complicated-cell-simple-mission.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779110772000,
-        "summary": "Neurons, the uber-connected nerve cells that act as a main switchboard for the brain, are central to some incredibly complicated processes. They make it possible to think, walk, speak, and breathe. They even have built-in backup batteries to use in emergencies.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
-      },
-      {
-        "id": "480cb546466bf160",
-        "title": "How climate change is affecting water demand in Scotland",
-        "url": "https://phys.org/news/2026-05-climate-affecting-demand-scotland.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779110401000,
-        "summary": "The volume of water drawn from Scotland's rivers and lochs by the agricultural sector surged by more than 500% during periods of water scarcity in recent years, new research has found. The University of Strathclyde study examined the monthly and annual water use records of more than 80 of the sectors which use most water, including aquaculture, food and drink production, oil refining and paper man",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0145
-      },
-      {
-        "id": "d740b6b841856d72",
-        "title": "Hidden clean energy under mountains? Why erosion could shape hydrogen prospects in Alps and Pyrenees",
-        "url": "https://phys.org/news/2026-05-hidden-energy-mountains-erosion-hydrogen.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779109202000,
-        "summary": "Hydrogen gas formed by natural processes in the subsurface of mountain ranges could represent a promising source of clean energy. A new international study led by Unil and GFZ shows that erosion plays a key and complex role in the formation and accumulation of this natural resource. The research confirms that the Pyrenees and the Alps could constitute key targets for natural hydrogen exploration.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0141
-      },
-      {
-        "id": "af6b1f83446112ec",
-        "title": "Interactive hydrology makes a splash with students",
-        "url": "https://phys.org/news/2026-05-interactive-hydrology-splash-students.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779109201000,
-        "summary": "As climate change increases the risk of flooding worldwide, understanding how floods form has never been more important. However, the science behind flooding is notoriously difficult to grasp, involving interactions among atmospheric, terrestrial, and human systems. Creating educational tools that simplify these processes without losing their essential scientific meaning has remained a major chall",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0141
       }
     ]
   },
