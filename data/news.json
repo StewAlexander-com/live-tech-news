@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-19T22:15:25.498779+00:00",
+  "generated_at": "2026-05-19T22:36:37.369896+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "fa52afabc129a13a",
+        "title": "Discord now has end-to-end encryption on all calls",
+        "url": "https://www.engadget.com/2177277/discord-now-has-end-to-end-encryption-on-all-calls/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1779229863000,
+        "summary": "It's a win for privacy on the social app.",
+        "tags": [
+          "social media",
+          "cybersecurity"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7027
+      },
       {
         "id": "fbebb3cb21e9e7fa",
         "title": "Google's Universal Cart could change how you shop across the entire internet",
@@ -930,24 +946,35 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9136
-      },
-      {
-        "id": "e8f7ae54ab6b0cff",
-        "title": "Nintendo's wacky new mobile game takes inspiration from WarioWare",
-        "url": "https://www.engadget.com/2176714/nintendos-wacky-new-mobile-game-takes-inspiration-from-warioware/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1779208114000,
-        "summary": "The free-to-download Pictonico! turns photos into minigames.",
-        "tags": [
-          "nintendo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7003
       }
     ],
     "innovation": [
+      {
+        "id": "e5913fcaeb685faa",
+        "title": "Sources: Zyphra, which trains and runs inference for its open-weight models on AMD hardware, is raising a $500M Series B at a valuation of at least $5B (Anna Tong/Forbes)",
+        "url": "https://www.techmeme.com/260519/p63#a260519p63",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779229501000,
+        "summary": "Anna Tong / Forbes: Sources: Zyphra, which trains and runs inference for its open-weight models on AMD hardware, is raising a $500M Series B at a valuation of at least $5B — The Series B round, which chipmaker AMD is participating in, is expected to value the startup at least $5 billion.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9963
+      },
+      {
+        "id": "6d5bc826651c70ca",
+        "title": "Threat actors published 600+ malicious versions to npm as part of the Shai-Hulud supply chain campaign; most of the affected packages are in the @antv ecosystem (Bill Toulas/BleepingComputer)",
+        "url": "https://www.techmeme.com/260519/p62#a260519p62",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779229200000,
+        "summary": "Bill Toulas / BleepingComputer: Threat actors published 600+ malicious versions to npm as part of the Shai-Hulud supply chain campaign; most of the affected packages are in the @antv ecosystem — Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9947
+      },
       {
         "id": "e6bb6cfcd509fc82",
         "title": "Check your Android right now: you may have left this dangerous permission on by accident",
@@ -1881,47 +1908,46 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0414
-      },
-      {
-        "id": "e14250669887c8c0",
-        "title": "Apple announces Apple Intelligence powered accessibility feature updates",
-        "url": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779199267000,
-        "summary": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes",
-        "tags": [
-          "apps",
-          "accessibility",
-          "apple",
-          "apple intelligence"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7418
-      },
-      {
-        "id": "655649b003d612b6",
-        "title": "How Search Engines Enabled Finding Needles in a WWW-Sized Haystack",
-        "url": "https://hackaday.com/2026/05/19/how-search-engines-enabled-finding-needles-in-a-www-sized-haystack/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779199227000,
-        "summary": "When the World Wide Web surged into existence during the 1990s, we were introduced to the problem of how to actually find something in this ever-ballooning construction zone that easily …read more",
-        "tags": [
-          "featured",
-          "interest",
-          "internet hacks",
-          "original art",
-          "internet search",
-          "search engine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0708
       }
     ],
     "ai": [
+      {
+        "id": "bd6e524aac35f1c9",
+        "title": "Google's Gemini Spark is the first AI agent built for people who don't know what an AI agent is",
+        "url": "https://www.makeuseof.com/gemini-spark-launch-ai-agent-no-coding/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1779229646000,
+        "summary": "It's not the first AI agent, but it seems poised to be the the easiest.",
+        "tags": [
+          "browsers",
+          "google",
+          "google gemini",
+          "artificial intelligence"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9153
+      },
+      {
+        "id": "ec5f2479e4a3c3a4",
+        "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+        "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1779228962000,
+        "summary": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and products will help unlock AGI's incredible potential for the benefit of the entire world. When we look back at this time, I think we will realize that […]",
+        "tags": [
+          "ai",
+          "google",
+          "google i/o 2026",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7868
+      },
       {
         "id": "a11faf103424e96d",
         "title": "Google Changes Its Search Box for the First Time in 25 Years",
@@ -2048,6 +2074,23 @@
         "score": 0.807
       },
       {
+        "id": "2c103de58b3654b4",
+        "title": "FBI seeks US-wide access to license plate cameras, wants \"data in near real time\"",
+        "url": "https://arstechnica.com/tech-policy/2026/05/fbi-seeks-us-wide-access-to-license-plate-cameras-wants-data-in-near-real-time/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1779226173000,
+        "summary": "FBI will pay vendors to help it track and search for vehicles nationwide.",
+        "tags": [
+          "policy",
+          "automated license plate readers",
+          "flock!"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9787
+      },
+      {
         "id": "a7330605109a2f1a",
         "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
         "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
@@ -2083,6 +2126,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9599
+      },
+      {
+        "id": "b0d4015d5833e5c6",
+        "title": "Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app (Sanuj Bhatia/Android Central)",
+        "url": "https://www.techmeme.com/260519/p58#a260519p58",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779225616000,
+        "summary": "Sanuj Bhatia / Android Central: Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app — Seriously, who is asking for all these tools? … What you need to know — Ask YouTube now supports conversational searches instead of relying only on simple keywords.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9758
       },
       {
         "id": "22fcdfd87c896410",
@@ -2301,6 +2357,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1162
+      },
+      {
+        "id": "cebb24eff8cdf8ec",
+        "title": "OpenAI introduces Guaranteed Capacity, a new offering that lets customers guarantee access to OpenAI's compute through one- to three-year commitments (OpenAI)",
+        "url": "https://www.techmeme.com/260519/p57#a260519p57",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779224101000,
+        "summary": "OpenAI: OpenAI introduces Guaranteed Capacity, a new offering that lets customers guarantee access to OpenAI's compute through one- to three-year commitments — Guarantee long-term access to OpenAI compute for the products, agents, and customer workflows that matter most. — Plan for capacity Contact sales",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9679
       },
       {
         "id": "c41a8e04fcd6de80",
@@ -2820,83 +2889,52 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9128
-      },
-      {
-        "id": "6237d8efcac4ef2e",
-        "title": "Google's web-based AI Studio now lets users build native Android apps; Google says the apps are for personal use only for now and publishing is on the roadmap (Sarah Perez/TechCrunch)",
-        "url": "https://www.techmeme.com/260519/p46#a260519p46",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779215403000,
-        "summary": "Sarah Perez / TechCrunch: Google's web-based AI Studio now lets users build native Android apps; Google says the apps are for personal use only for now and publishing is on the roadmap — The AI coding boom is now coming directly for Android app development. On Tuesday, Google announced new native Android app creation capabilities …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0728
-      },
-      {
-        "id": "60591e825cdc60bd",
-        "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
-        "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779215228000,
-        "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
-        "tags": [
-          "biz & it",
-          "security",
-          "brian krebs",
-          "cisa",
-          "credentials",
-          "github"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9736
-      },
-      {
-        "id": "04cce24abd557259",
-        "title": "Google says the Gemini app has 900M+ MAUs across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini (Josh Woodward/The Keyword)",
-        "url": "https://www.techmeme.com/260519/p44#a260519p44",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779214904000,
-        "summary": "Josh Woodward / The Keyword: Google says the Gemini app has 900M+ MAUs across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini — Gemini is becoming a more helpful AI assistant, with an intuitive new UI, proactive daily briefs and Gemini Spark, an agent to help you get things done around the clock.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0699
-      },
-      {
-        "id": "cec52c3780197d03",
-        "title": "Google says Gemini's MAUs grew to 900M+ across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini (Josh Woodward/The Keyword)",
-        "url": "https://www.techmeme.com/260519/p44#a260519p44",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779214904000,
-        "summary": "Josh Woodward / The Keyword: Google says Gemini's MAUs grew to 900M+ across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini — Gemini is becoming a more helpful AI assistant, with an intuitive new UI, proactive daily briefs and Gemini Spark, an agent to help you get things done around the clock.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0787
-      },
-      {
-        "id": "5799f9c226c13ab1",
-        "title": "This German dialect leaves AI baffled, exposing a digital language blind spot",
-        "url": "https://phys.org/news/2026-05-german-dialect-ai-baffled-exposing.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1779214806000,
-        "summary": "How well do language models understand Meenzerisch, the dialect spoken in the German city of Mainz? A research team led by Johannes Gutenberg University Mainz (JGU) has now investigated this question for the first time. Meenzerisch still shapes regional language culture today and is known across Germany through the satirical carnival speeches in the famous Mainz Fastnacht tradition. The study's fi",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1007
       }
     ],
     "science": [
+      {
+        "id": "2218b9bf130b6ccd",
+        "title": "'The people that built the spacecraft are not alive anymore': NASA admits Voyager spacecraft code is still being maintained — even if barely anyone alive knows how to use the language it's programmed in",
+        "url": "https://www.techradar.com/pro/the-people-that-built-the-spacecraft-are-not-alive-anymore-nasa-admits-voyager-spacecraft-code-is-still-being-maintained-even-if-barely-anyone-alive-knows-how-to-use-the-language-its-programmed-in",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1779230100000,
+        "summary": "NASA’s Voyager spacecraft still operates using ancient assembly code while the engineers who understood their systems gradually disappear forever.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8496
+      },
+      {
+        "id": "3e2696429b270421",
+        "title": "Quantum-scale simulations and AI uncover promising 2D perovskites for future energy tech",
+        "url": "https://phys.org/news/2026-05-quantum-scale-simulations-ai-uncover.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779229201000,
+        "summary": "Researchers at Clarkson University are advancing the use of artificial intelligence and computational physics to accelerate discovery of next-generation materials for quantum technologies, optoelectronics, and renewable energy applications.",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0957
+      },
+      {
+        "id": "4c13ab88e6d86619",
+        "title": "Sources: SpaceX expects to proceed with its acquisition of Cursor 30 days after its public trading debut, which is expected to occur on June 12 (Bloomberg)",
+        "url": "https://www.techmeme.com/260519/p61#a260519p61",
+        "source": "Techmeme",
+        "lane": "science",
+        "published_ts": 1779228901000,
+        "summary": "Bloomberg: Sources: SpaceX expects to proceed with its acquisition of Cursor 30 days after its public trading debut, which is expected to occur on June 12 — SpaceX expects to proceed with its acquisition of artificial intelligence coding startup Cursor 30 days after Elon Musk's company begins trading publicly …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9931
+      },
       {
         "id": "9c0c7124aae1056c",
         "title": "Laser processes to enable robust, miniaturized beam sources for quantum technology",
@@ -3771,51 +3809,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9901
-      },
-      {
-        "id": "5e0cf44e57b6b756",
-        "title": "Scientists call for stewardship practices to be integrated into biodiversity conservation frameworks",
-        "url": "https://phys.org/news/2026-05-scientists-stewardship-biodiversity-frameworks.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779195602000,
-        "summary": "A new article in the journal BioScience argues that the stewardship practices of Indigenous Peoples and other place-based knowledge holders have been systematically underrepresented in both conservation research and international policy along with the knowledge holders and practitioners themselves—and that correcting this imbalance is essential to more effective and equitable biodiversity governan",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0097
-      },
-      {
-        "id": "42cc10a5f52e9891",
-        "title": "Food relief comes in many packages",
-        "url": "https://phys.org/news/2026-05-food-relief-packages.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779193201000,
-        "summary": "Food insecurity—or the uncertain access to sufficient, nutritious and safe foods—is a \"wicked problem\" affecting 1 in 3 people worldwide. Social supermarkets are slowly emerging in Australia as a different approach to food relief, offering affordable food access with social support services which provide both dignity and social inclusion, Flinders University researchers say.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0196
-      },
-      {
-        "id": "26ad1a9f393f008c",
-        "title": "Feeling connected at school aids pupil mental health and attendance, study finds",
-        "url": "https://phys.org/news/2026-05-school-aids-pupil-mental-health.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779192010000,
-        "summary": "Strong relationships with school staff and a sense of belonging at school can protect teenagers' mental well-being and help reduce absences, according to new findings from The University of Manchester's #BeeWell program. The large-scale study published in the Journal of the American Academy of Child & Adolescent Psychiatry shows that while poor mental health can drive disengagement from school, po",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0131
       }
     ]
   },
