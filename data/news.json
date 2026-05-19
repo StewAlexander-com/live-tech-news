@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-05-19T18:25:35.529466+00:00",
+  "generated_at": "2026-05-19T18:50:57.245969+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "b5492ef34a2f76ea",
+        "title": "Memorial Day sales are already live — here are the only deals worth your money, according to a shopping expert",
+        "url": "https://www.techradar.com/seasonal-sales/memorial-day-sales-are-already-live-here-are-the-only-deals-worth-your-money-according-to-a-shopping-expert",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779216136000,
+        "summary": "Most Memorial Day sales are already live, and as TechRadar's shopping expert, I've rounded up the 49 best deals that are worth your time and money.",
+        "tags": [
+          "seasonal sales"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8476
+      },
+      {
+        "id": "edd75a2274bdf8de",
+        "title": "Kickstarter just killed its new mature content rules",
+        "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1779215443000,
+        "summary": "Last week, we noted Kickstarter's new content guidelines which had some pretty weird new additions, including a prohibition on \"sexual wellness products that are not designed for insertion or penetration and are not marketed primarily for sexual gratification.\" Those rules have now been eliminated and the company has restored an earlier version of its guidelines. […]",
+        "tags": [
+          "kickstarter",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7869
+      },
       {
         "id": "b6f705ad2e6f8f32",
         "title": "Warby Parker and Gentle Monster finally showed us their Samsung XR glasses — but forgot to tell us when they’ll release, or how much they’ll cost",
@@ -935,38 +966,56 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8494
+      }
+    ],
+    "innovation": [
+      {
+        "id": "fc08372372ac7d3f",
+        "title": "Google unveils Universal Cart, a shopping assistant that works \"across merchants\", built on the Universal Commerce Protocol, rolling out in the US today (Aisha Malik/TechCrunch)",
+        "url": "https://www.techmeme.com/260519/p49#a260519p49",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779216301000,
+        "summary": "Aisha Malik / TechCrunch: Google unveils Universal Cart, a shopping assistant that works “across merchants”, built on the Universal Commerce Protocol, rolling out in the US today — At I/O on Tuesday, Google introduced Universal Cart, its so-called agentic hub for managing shopping in one place.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9981
       },
       {
-        "id": "61a831cae928d01a",
-        "title": "'Some aspects are as we intended and some are not' — Mullvad addresses WireGuard exit-IP fingerprinting concern after researcher flags privacy risk",
-        "url": "https://www.techradar.com/vpn/vpn-services/some-aspects-are-as-we-intended-and-some-are-not-mullvad-addresses-wireguard-exit-ip-fingerprinting-concern-after-researcher-flags-privacy-risk",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779200211000,
-        "summary": "Is your VPN traffic as anonymous as you think? A security researcher just found a way to fingerprint Mullvad VPN users through exit IP patterns, prompting a swift response and an ongoing infrastructure patch from the provider.",
+        "id": "7d51396f956704dd",
+        "title": "Recreating a Broken Laminated Wooden Furniture Part",
+        "url": "https://hackaday.com/2026/05/19/recreating-a-broken-laminated-wooden-furniture-part/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1779215429000,
+        "summary": "Everyone loves those rather bouncy wooden lounge chairs that got popularized by a certain Swedish seller of furniture, but as tough as they are, the laminated wood can still break …read more",
         "tags": [
-          "vpn services",
+          "repair hacks",
+          "furniture",
+          "laminated"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0729
+      },
+      {
+        "id": "91883b5995ab85ce",
+        "title": "After adding a VPN to my TV, I found entire streaming catalogues I didn't know I was missing",
+        "url": "https://www.makeuseof.com/adding-vpn-to-tv-found-entire-streaming-catalogues-didnt-know-missing/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779215418000,
+        "summary": "My VPN has taken me on a journey through regional broadcasting networks, offering a fresh perspective on entertainment.",
+        "tags": [
+          "entertainment",
+          "abc",
           "vpn"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8472
+        "score": 0.8444
       },
-      {
-        "id": "46a1d1b545052613",
-        "title": "'The Boys' Season 5: When Does the Series Finale Premiere?",
-        "url": "https://www.cnet.com/tech/services-and-software/the-boys-season-5-release-schedule-episode-8-series-finale-prime-video/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1779199746000,
-        "summary": "Get ready for the end.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7943
-      }
-    ],
-    "innovation": [
       {
         "id": "17c1dadc34d1ab75",
         "title": "This Linux shell gives you the terminal features Bash forgot to add",
@@ -1892,56 +1941,64 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0361
-      },
-      {
-        "id": "9768ac422be4d5ca",
-        "title": "LG unveils 'world's first' native 1,000 Hz refresh rate at 1080p for serious competitive gaming — UltraGear 25G590B to launch in the second half of 2026",
-        "url": "https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1779190238000,
-        "summary": "Unlike previous dual-mode displays that lowered resolution to hit extreme refresh rates, LG’s latest monitor supports native 1,000 Hz gaming at full-HD resolution",
-        "tags": [
-          "gaming monitors",
-          "monitors"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9191
-      },
-      {
-        "id": "4871df22ce6369ee",
-        "title": "LG unveils 'world's first' native 1000 Hz refresh rate at 1080p for serious competitive gaming — UltraGear 25G590B to launch in the second half of 2026",
-        "url": "https://www.tomshardware.com/monitors/gaming-monitors/lg-unveils-worlds-first-native-1000-hz-refresh-rate-at-1080p-for-serious-competitive-gaming-ultragear-25g590b-to-launch-in-the-second-half-of-2026",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1779190238000,
-        "summary": "Unlike previous dual-mode displays that lowered resolution to hit extreme refresh rates, LG’s latest monitor supports native 1000Hz gaming at full-HD resolution",
-        "tags": [
-          "gaming monitors",
-          "monitors"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0239
-      },
-      {
-        "id": "d552fd719eab214e",
-        "title": "Congress Wants You To Pay $130 A Year Just To Drive An Electric Car",
-        "url": "https://www.reddit.com/r/technology/comments/1thjx4z/congress_wants_you_to_pay_130_a_year_just_to/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1779189774000,
-        "summary": "submitted by /u/TripleShotPls [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9115
       }
     ],
     "ai": [
+      {
+        "id": "dc581d30bb38f91a",
+        "title": "Demis Hassabis says companies looking to replace developers with AI may be due to a \"lack of imagination and a lack of understanding\" of the future (Will Knight/Wired)",
+        "url": "https://www.techmeme.com/260519/p47#a260519p47",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779215700000,
+        "summary": "Will Knight / Wired: Demis Hassabis says companies looking to replace developers with AI may be due to a “lack of imagination and a lack of understanding” of the future — The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0745
+      },
+      {
+        "id": "ea2360cfcd6f3a6c",
+        "title": "Google I/O 2026 made one thing clear — Gemini is becoming impossible to avoid",
+        "url": "https://www.techradar.com/ai-platforms-assistants/google-i-o-2026-made-one-thing-clear-gemini-is-becoming-impossible-to-avoid",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1779215604000,
+        "summary": "Google I/O 2026 revealed Gemini evolving from a chatbot into a deeply integrated AI layer spanning Search, shopping, Android, productivity, and persistent AI agents",
+        "tags": [
+          "ai platforms &amp; assistants",
+          "gemini"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9128
+      },
+      {
+        "id": "6237d8efcac4ef2e",
+        "title": "Google's web-based AI Studio now lets users build native Android apps; Google says the apps are for personal use only for now and publishing is on the roadmap (Sarah Perez/TechCrunch)",
+        "url": "https://www.techmeme.com/260519/p46#a260519p46",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779215403000,
+        "summary": "Sarah Perez / TechCrunch: Google's web-based AI Studio now lets users build native Android apps; Google says the apps are for personal use only for now and publishing is on the roadmap — The AI coding boom is now coming directly for Android app development. On Tuesday, Google announced new native Android app creation capabilities …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0728
+      },
+      {
+        "id": "04cce24abd557259",
+        "title": "Google says the Gemini app has 900M+ MAUs across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini (Josh Woodward/The Keyword)",
+        "url": "https://www.techmeme.com/260519/p44#a260519p44",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779214904000,
+        "summary": "Josh Woodward / The Keyword: Google says the Gemini app has 900M+ MAUs across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini — Gemini is becoming a more helpful AI assistant, with an intuitive new UI, proactive daily briefs and Gemini Spark, an agent to help you get things done around the clock.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0699
+      },
       {
         "id": "cec52c3780197d03",
         "title": "Google says Gemini's MAUs grew to 900M+ across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini (Josh Woodward/The Keyword)",
@@ -2187,6 +2244,22 @@
         "score": 0.8047
       },
       {
+        "id": "ce20abadd0ee8b70",
+        "title": "Gemini 3.5 Flash: frontier intelligence with action",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779212990000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:124"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0296
+      },
+      {
         "id": "59c872129fc1cc08",
         "title": "Gemini 3.5: frontier intelligence with action",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
@@ -2246,6 +2319,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8811
+      },
+      {
+        "id": "0326ebf186ff8534",
+        "title": "Gemini Omni",
+        "url": "https://deepmind.google/models/gemini-omni/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779212779000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:33"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0284
       },
       {
         "id": "e7a841e3885ebf87",
@@ -2808,108 +2897,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0928
-      },
-      {
-        "id": "6b0235182792ff75",
-        "title": "Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla (Madison Mills/Axios)",
-        "url": "https://www.techmeme.com/260519/p29#a260519p29",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779207313000,
-        "summary": "Madison Mills / Axios: Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla — Andrej Karpathy, one of the best-known AI researchers in the world and a founding member of OpenAI, announced Tuesday that he's joining rival AI lab Anthropic.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0697
-      },
-      {
-        "id": "6372fbac6dba577b",
-        "title": "Civilization VII finally lets you build a civ that stands the test of time",
-        "url": "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779206401000,
-        "summary": "Civ 7’s devs talk walking back the game's most controversial decision.",
-        "tags": [
-          "gaming",
-          "4x",
-          "civilization",
-          "civilization vii",
-          "ed beach",
-          "firaxis"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9856
-      },
-      {
-        "id": "187a1beca8124b73",
-        "title": "Google I/O 2026: All the news and announcements",
-        "url": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779206400000,
-        "summary": "Google I/O 2026 kicks off today, with the event’s keynote presentation slated for 10AM PT / 1PM ET on May 19th. Gemini is expected to be front-and-center once again at this year’s developer conference, with Google potentially introducing new versions of AI models and more agentic AI features. Google already showed off a bunch of […]",
-        "tags": [
-          "google",
-          "google i/o 2026",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8536
-      },
-      {
-        "id": "a61285849d5c1465",
-        "title": "AI Is Too Expensive",
-        "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779206343000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1314
-      },
-      {
-        "id": "8a7622e6336544db",
-        "title": "An AI announcer mispronounced and skipped names during a graduation",
-        "url": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779205880000,
-        "summary": "The use of AI-powered tools to announce students as they walk on stage during graduation and commencement ceremonies has grown in popularity over the past few years, but it's not always succeeding at the one job it's there for. Many schools have switched to these systems as a way to ensure names are being pronounced […]",
-        "tags": [
-          "ai",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8513
-      },
-      {
-        "id": "aa61b39649a4fa94",
-        "title": "SAP customers warned AI agents could put costs on autopilot",
-        "url": "https://www.theregister.com/saas/2026/05/19/sap-customers-warned-ai-agents-could-put-costs-on-autopilot/5242646",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1779205780000,
-        "summary": "Billing will be based on 'actions,' whatever those are, leaving enterprises to wonder how fast the meter might run",
-        "tags": [
-          "saas"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1039
       }
     ],
     "science": [
+      {
+        "id": "1c5ba7d4922ee3bd",
+        "title": "New chip offers way to make use of quantum system 'imperfections'",
+        "url": "https://phys.org/news/2026-05-chip-quantum-imperfections.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779216188000,
+        "summary": "Quantum technologies promise powerful new kinds of computers, giving scientists new tools to mimic and explore nature at its tiniest scales. At those levels, everything in nature—from atoms and electrons to light itself—follows the strange rules of quantum mechanics. But the real world is never perfectly clean: Signals fade, energy leaks away and systems pick up noise from their surroundings.",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0988
+      },
+      {
+        "id": "cce1b03a569346ec",
+        "title": "Imperfect polymer sequences still control protein function, revealing new design rules",
+        "url": "https://phys.org/news/2026-05-imperfect-polymer-sequences-protein-function.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779216004000,
+        "summary": "What happens when a scientific problem seems too complex to solve precisely, yet understanding it could reshape how researchers design new materials and medicines? For decades, much of the polymer science community has relied on a \"good enough\" approach to a stubborn problem: binding a polymer to a protein in a precise way that reliably controls how the protein behaves.",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0164
+      },
       {
         "id": "e67051bb3c3e9e12",
         "title": "RFK Jr. forced to withdraw charter that opened CDC panel to anti-vaccine quacks",
@@ -3799,37 +3819,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0341
-      },
-      {
-        "id": "ca93c473bea6009d",
-        "title": "M$^2$FedAQI: Multimodal Federated Learning for Air Quality Prediction on Heterogeneous Edge Devices",
-        "url": "https://arxiv.org/abs/2605.16375",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1779163200000,
-        "summary": "arXiv:2605.16375v1 Announce Type: new Abstract: Accurate air quality prediction is essential for public health, environmental monitoring, and industrial safety. However, most existing approaches rely on centralized learning paradigms, which introduce challenges related to scalability, privacy preservation, and communication overhead in distributed Internet of Things (IoT) environments. Moreover, c",
-        "tags": [
-          "cs.lg",
-          "cs.ni"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0341
-      },
-      {
-        "id": "a874c21e7af3b620",
-        "title": "Video: Preparing Smile for space",
-        "url": "https://phys.org/news/2026-05-video-space.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779160803000,
-        "summary": "Before Smile can begin studying how Earth responds to the streams of particles and bursts of radiation from the sun, the spacecraft had to complete an extraordinary journey here on Earth.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0196
       }
     ]
   },
