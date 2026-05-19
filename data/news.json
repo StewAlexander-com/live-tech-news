@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T07:35:55.557631+00:00",
+  "generated_at": "2026-05-19T07:52:12.142899+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -977,6 +977,22 @@
     ],
     "innovation": [
       {
+        "id": "de8384c9e1a8f9c6",
+        "title": "Intel and Qualcomm circle Tenstorrent as the NVIDIA-alternative trade comes due",
+        "url": "https://thenextweb.com/news/tenstorrent-intel-qualcomm-takeover-jim-keller-risc-v",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1779175686000,
+        "summary": "Bloomberg reports early-stage takeover conversations with the Jim Keller-led AI chip startup, which raised $800m at a $3.2bn valuation last year and counts Bezos Expeditions and Samsung among its backers. Tenstorrent, the Jim Keller-led AI chip startup, has held early-stage takeover conversations with Intel and Qualcomm, Bloomberg reported on Monday, citing people familiar with the […] This story ",
+        "tags": [
+          "investors and funding",
+          "insider"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9645
+      },
+      {
         "id": "6a015818d396f2fa",
         "title": "NYC Health + Hospitals says hackers accessed its network from Nov. 2025 to Feb. 2026, exposing personal data, medical records, and fingerprints of 1.8M+ people (Zack Whittaker/TechCrunch)",
         "url": "https://www.techmeme.com/260519/p3#a260519p3",
@@ -1863,29 +1879,87 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9986
-      },
-      {
-        "id": "eb3ce9e410648e1c",
-        "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-        "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779121953000,
-        "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
-        "tags": [
-          "security",
-          "cyberattack",
-          "cybersecurity",
-          "data breach",
-          "healthcare",
-          "new york city"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7052
       }
     ],
     "ai": [
+      {
+        "id": "2c0a5ea2a676b6fb",
+        "title": "Mistral acquires Vienna-based Emmi AI for an undisclosed sum to boost its industrial offerings in Europe; Emmi raised €15M in Austria's largest round in 2025 (Reuters)",
+        "url": "https://www.techmeme.com/260519/p4#a260519p4",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779177001000,
+        "summary": "Reuters: Mistral acquires Vienna-based Emmi AI for an undisclosed sum to boost its industrial offerings in Europe; Emmi raised €15M in Austria's largest round in 2025 — Europe's leading artificial intelligence firm, France's Mistral AI, said on Tuesday it has acquired Vienna-based Emmi AI …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0792
+      },
+      {
+        "id": "f72f9853b26f6c26",
+        "title": "Blackstone takes the majority position in Google’s new TPU cloud",
+        "url": "https://thenextweb.com/news/google-blackstone-tpu-cloud-joint-venture-5bn",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779176248000,
+        "summary": "The two have formed a joint venture to build a US-based AI compute-as-a-service business on Google’s TPUs, with $5bn of Blackstone equity, $25bn total deal value including leverage, and 500 MW of capacity targeted for 2027. Blackstone and Google have formed a joint venture to build a US-based AI compute-as-a-service business on Google’s tensor processing […] This story continues at The Next Web",
+        "tags": [
+          "investors and funding",
+          "next featured",
+          "business"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9674
+      },
+      {
+        "id": "24065e6a13e9b571",
+        "title": "Project Glasswing partners can now share Mythos findings beyond the programme",
+        "url": "https://thenextweb.com/news/anthropic-mythos-glasswing-partners-share-disclosure",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779175145000,
+        "summary": "The Project Glasswing partners can now pass vulnerability findings to other security teams, industry bodies, regulators, open-source maintainers and the press, under responsible-disclosure norms. The defender pool just got wider. Anthropic said on Monday that it is revising its earlier disclosure policy on Mythos, the unreleased cybersecurity-focused AI model deployed under its Project Glasswing c",
+        "tags": [
+          "anthropic",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9617
+      },
+      {
+        "id": "9a866a8116f6716e",
+        "title": "Analog Devices near $1.5bn cash deal for Empower Semiconductor’s AI power chips",
+        "url": "https://thenextweb.com/news/analog-devices-empower-semiconductor-1-5-billion-deal",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779174671000,
+        "summary": "The Milpitas-based vertical-power-delivery firm puts more than 3,000 amps of current directly under the GPU. The deal could be announced as soon as Tuesday. Analog Devices is in advanced talks to acquire Empower Semiconductor, the closely held Californian power-management chip company, for $1.5bn in cash, Bloomberg reported on Tuesday, citing people familiar with the matter. […] This story continu",
+        "tags": [
+          "investors and funding"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9593
+      },
+      {
+        "id": "bdb94bd74e0783c3",
+        "title": "Meta moves 7,000 people into AI roles the same week it cuts 10%",
+        "url": "https://thenextweb.com/news/meta-7000-ai-roles-restructure-layoffs",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779174127000,
+        "summary": "Chief People Officer Janelle Gale’s Monday memo described ‘smaller teams’ and a ‘flatter’ structure built around new AI groups for agents, apps, and infrastructure. Layoffs are due later this week. The Meta Saga continues with layoffs and “reassigning”. Meta Platforms is reassigning 7,000 workers to new artificial-intelligence-focused jobs as part of a broad corporate restructuring, […] This story",
+        "tags": [
+          "meta",
+          "insider",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9565
+      },
       {
         "id": "ea6263d6b5cea100",
         "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
@@ -1900,6 +1974,23 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1189
+      },
+      {
+        "id": "229384debf12a58b",
+        "title": "Mistral buys Vienna’s Emmi AI to put physics into its industrial pitch",
+        "url": "https://thenextweb.com/news/mistral-emmi-ai-physics-vienna-industrial",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779173514000,
+        "summary": "The Paris-based open-weights lab is acquiring an Austrian startup whose models handle airflow, heat transfer, and material stress, targeting aerospace, automotive, and semiconductor customers. Terms were not disclosed. Mistral AI, Europe’s most prominent open-source AI lab, has acquired Vienna-based Emmi AI for an undisclosed sum, Reuters reported on Tuesday. Emmi specialises in models that simula",
+        "tags": [
+          "investors and funding",
+          "artificial intelligence",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9534
       },
       {
         "id": "6db24b6fea048ca9",
@@ -2716,107 +2807,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9825
-      },
-      {
-        "id": "6cecaa65e54d533b",
-        "title": "Jury throws out Elon Musk's lawsuit against OpenAI after less than two hours of deliberation — Unanimous vote that Musk filed the lawsuit too late",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jury-throws-out-elon-musks-lawsuit-against-openai-after-less-than-two-hours-of-deliberation",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779133126000,
-        "summary": "A federal jury in Oakland, California, on Monday unanimously rejected every claim in Elon Musk's lawsuit against OpenAI.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9481
-      },
-      {
-        "id": "7f85ba8f028f6cdd",
-        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-        "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779132472000,
-        "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
-        "tags": [
-          "ai",
-          "anthropic",
-          "stainless"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7957
-      },
-      {
-        "id": "9e04faf1acd0324d",
-        "title": "Roundtables: Inside the Musk v. Altman Trial",
-        "url": "https://www.technologyreview.com/2026/05/18/1137454/roundtables-inside-the-musk-v-altman-trial/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1779131718000,
-        "summary": "Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman broke their promise to keep the company a nonprofit. Join reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, in conversation with editor in chief Mat Honan to go behind the scenes of…",
-        "tags": [
-          "artificial intelligence",
-          "roundtables",
-          "subscriber-only stories"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0469
-      },
-      {
-        "id": "af32529095e9a40e",
-        "title": "OpenClaw creator’s $1.3 million monthly OpenAI bill reveals the real cost of autonomous AI coding at scale",
-        "url": "https://thenextweb.com/news/openclaw-peter-steinberger-1-3-million-openai-token-bill",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779130917000,
-        "summary": "Peter Steinberger, the creator of OpenClaw and an engineer at OpenAI, racked up $1.3 million in API costs in a single month by running approximately 100 Codex instances simultaneously on his open-source project. The bill, which covered 603 billion tokens across 7.6 million requests over 30 days, is the most visible demonstration yet of what […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "artificial intelligence",
-          "openclaw",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9521
-      },
-      {
-        "id": "4642e88d76ed9994",
-        "title": "Galaxy S26 Ultra Review: Privacy Display Proves Hardware Still Matters in an AI World",
-        "url": "https://www.cnet.com/tech/mobile/galaxy-s26-ultra-review/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1779130855000,
-        "summary": "Samsung delivers modest but meaningful upgrades to the Ultra's design, cameras and battery. And yes, the phone is packed with new AI features -- and most of them are actually pretty useful.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8672
-      },
-      {
-        "id": "57b9d15f18a8ba66",
-        "title": "Musk v. Altman proved that AI is led by the wrong people",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779130800000,
-        "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just […]",
-        "tags": [
-          "ai",
-          "analysis",
-          "elon musk",
-          "law",
-          "microsoft",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6711
       }
     ],
     "science": [
