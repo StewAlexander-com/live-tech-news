@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T19:09:05.744611+00:00",
+  "generated_at": "2026-05-19T19:13:09.275845+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3715,6 +3715,54 @@
         "score": 1.0046
       },
       {
+        "id": "3487f893063a282d",
+        "title": "Byzantine-Resilient Federated Learning via QUBO-Based Client Selection on Quantum Annealers",
+        "url": "https://arxiv.org/abs/2605.16438",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779163200000,
+        "summary": "arXiv:2605.16438v1 Announce Type: new Abstract: Federated Learning (FL) trains a global model across decentralized clients while preserving data privacy, but at scale it is vulnerable to malicious updates. Byzantine-resilient aggregation methods such as MultiKrum score gradients against their nearest neighbors and can miss malicious updates that preserve the statistical properties of honest ones. ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.846
+      },
+      {
+        "id": "c764dbd9c33762f9",
+        "title": "Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry",
+        "url": "https://arxiv.org/abs/2605.16325",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779163200000,
+        "summary": "arXiv:2605.16325v1 Announce Type: new Abstract: Phase-transition phenomena in deep learning (grokking, emergent capabilities, and ontological reorganization under context shift) have been studied through several lenses, including representational compression, singular learning theory, and information-theoretic progress measures. Independently, non-equilibrium statistical physics has identified pha",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7833
+      },
+      {
+        "id": "989ebc1ed2741025",
+        "title": "Lost or Hidden? A Concept-Level Forgetting in Supervised Continual Learning",
+        "url": "https://arxiv.org/abs/2605.16374",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779163200000,
+        "summary": "arXiv:2605.16374v1 Announce Type: new Abstract: Continual learning studies how models can adapt to new tasks while retaining previously acquired knowledge. Although a broad spectrum of methods has been proposed to mitigate catastrophic forgetting, the field remains predominantly performance-driven, with limited insight into what forgetting actually corresponds to within the vision model's represen",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7833
+      },
+      {
         "id": "ca93c473bea6009d",
         "title": "M$^2$FedAQI: Multimodal Federated Learning for Air Quality Prediction on Heterogeneous Edge Devices",
         "url": "https://arxiv.org/abs/2605.16375",
@@ -3739,53 +3787,6 @@
         "published_ts": 1779163200000,
         "summary": "arXiv:2605.16844v1 Announce Type: new Abstract: Between the narrow systems we deploy and the general intelligence we speculate about lies an entire regime of machine behavior that has never received its own name. This monograph argues that this regime is not empty: it is where meta-learning, neural architecture search, AutoML, continual learning, evolutionary computation, and physics-informed mode",
         "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1169
-      },
-      {
-        "id": "037fe0dcbd9410a4",
-        "title": "Evidential Information Fusion on Possibilistic Structure",
-        "url": "https://arxiv.org/abs/2605.17038",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1779163200000,
-        "summary": "arXiv:2605.17038v1 Announce Type: new Abstract: Dempster's rule is a fundamental tool for combining belief functions from distinct and reliable sources. However, its intersection-based semantics imposes strong structural restrictions, which limits its flexibility in handling complex source states and diverse information fusion scenarios. To overcome this limitation, we propose a reversible transfo",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1169
-      },
-      {
-        "id": "90fa1c513b9b2cb7",
-        "title": "PIMSM: Physics-Informed Multi-Scale Mamba for Stable Neural Representations under Distribution Shift",
-        "url": "https://arxiv.org/abs/2605.16351",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1779163200000,
-        "summary": "arXiv:2605.16351v1 Announce Type: new Abstract: Scientific foundation models are expected to reuse representations under changes in dataset, acquisition protocol, and deployment domain, yet many sequence backbones treat scientific temporal structure as an unconstrained pattern to be fitted. We argue that this misses a central property of natural dynamical systems: neural and atmospheric time serie",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1169
-      },
-      {
-        "id": "9940b7a43e5088c9",
-        "title": "QuantFPFlow: Quantum Amplitude Estimation for Fokker--Planck Policy Optimisation in Continuous Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2605.16429",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1779163200000,
-        "summary": "arXiv:2605.16429v1 Announce Type: new Abstract: We introduce \\textbf{QuantFPFlow}, a reinforcement learning framework that integrates quantum amplitude estimation into the Fokker--Planck~(FP) formulation of stochastic policy optimisation. Classical continuous-space RL agents must estimate the FP partition function $Z = \\int e^{-V(\\mathbf{x})/D}\\,d\\mathbf{x}$ at cost $\\calO(1/\\varepsilon^{2})$; Qua",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
