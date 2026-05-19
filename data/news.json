@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T13:31:43.338471+00:00",
+  "generated_at": "2026-05-19T13:33:34.316074+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2661,6 +2661,42 @@
         "score": 0.9835
       },
       {
+        "id": "8296b28f303907d9",
+        "title": "Bi-Level Chaotic Fusion Based Graph Convolutional Network for Stock Market Prediction Interval",
+        "url": "https://arxiv.org/abs/2605.16324",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779163200000,
+        "summary": "arXiv:2605.16324v1 Announce Type: new Abstract: Financial market forecasting is inherently uncertain, yet most deep learning approaches rely on point predictions that provide only single-value estimates without quantifying uncertainty. Such predictions are insufficient for risk-aware decision-making, as they fail to capture the range of possible outcomes and the associated confidence of forecasts.",
+        "tags": [
+          "cs.lg",
+          "cs.ce",
+          "q-fin.st"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9434
+      },
+      {
+        "id": "f154444511625cf4",
+        "title": "Augmenting Human Evaluation with LLM Judges: How Many Human Reviews Do You Need?",
+        "url": "https://arxiv.org/abs/2605.16354",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779163200000,
+        "summary": "arXiv:2605.16354v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as automated evaluators of AI systems, including in high-stakes applications. In this role, LLMs are used to generate judgments about the quality, appropriateness, or even safety of model outputs. This approach is motivated by practical constraints. Expert human ratings are costly and difficult to sc",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl",
+          "cs.hc",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9434
+      },
+      {
         "id": "b3983f5f438e0457",
         "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
         "url": "https://arxiv.org/abs/2605.16265",
@@ -2783,37 +2819,6 @@
         "lane": "ai",
         "published_ts": 1779163200000,
         "summary": "arXiv:2605.16318v1 Announce Type: new Abstract: Building and maintaining state to learn policies and value functions is critical for deploying reinforcement learning (RL) agents in the real world. Recurrent neural networks (RNNs) have become a key point of interest for the state-building problem, and several large-scale reinforcement learning agents incorporate recurrent networks. While RNNs have ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1169
-      },
-      {
-        "id": "ebdb9729af57c01e",
-        "title": "AdaGraph: A Graph-Native Clustering Algorithm That Overcomes the Curse of Dimensionality and Enables Scientific Discovery",
-        "url": "https://arxiv.org/abs/2605.16320",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1779163200000,
-        "summary": "arXiv:2605.16320v1 Announce Type: new Abstract: We present AdaGraph, a graph-native clustering algorithm born from the Structure-Centric Machine Learning (SC-ML) paradigm -- a new field of unsupervised learning that replaces geometry-centric (distance-based) computation with structure-centric (topology-based) computation, fundamentally dissolving the curse of dimensionality. AdaGraph operates enti",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1169
-      },
-      {
-        "id": "f6f5eafbcbfac29b",
-        "title": "Language Game: Talking to Non-Human Systems",
-        "url": "https://arxiv.org/abs/2605.16321",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1779163200000,
-        "summary": "arXiv:2605.16321v1 Announce Type: new Abstract: Language carries thought and coordination among humans but rarely reaches further along the spectrum of diverse intelligence. Yet non-neural systems -- from gene regulatory networks and microbial consortia to fungi -- are increasingly recognized as substrates of computation, decision-making and memory, making dialogue with non-human intelligence newl",
         "tags": [
           "cs.lg"
         ],
