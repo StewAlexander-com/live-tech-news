@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T06:35:37.236280+00:00",
+  "generated_at": "2026-05-20T07:37:40.238646+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -965,6 +965,37 @@
     ],
     "innovation": [
       {
+        "id": "9c6c9a3bd5cda53e",
+        "title": "2027 Volvo EX60 first drive: An ultra-smooth SUV for around $60k",
+        "url": "https://www.engadget.com/2175694/2027-volvo-ex60-first-drive/",
+        "source": "Engadget",
+        "lane": "innovation",
+        "published_ts": 1779260400000,
+        "summary": "Volvo's latest EV is its best yet, and best value too, but still comes up a bit short to the competition.",
+        "tags": [
+          "evs and transportation"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6955
+      },
+      {
+        "id": "91ab23424f441cf6",
+        "title": "RemotePass raises $17.4m Series B from EBRD as global employment meets fintech",
+        "url": "https://thenextweb.com/news/remotepass-17-4-million-series-b-ebrd-500-global",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1779259984000,
+        "summary": "The Dubai-founded global employment and payroll platform reached profitability in early 2025 before taking the round. EBRD Venture Capital led; 500 Global is the new strategic name alongside.\\ RemotePass, the global employment, payroll, and spend platform co-founded by Kamal Reggad and Karim Nadi, has raised $17.4m in Series B funding led by EBRD Venture Capital, […] This story continues at The Ne",
+        "tags": [
+          "investors and funding",
+          "fintech and ecommerce"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8872
+      },
+      {
         "id": "166fc7802e7bb76a",
         "title": "Sources: Nvidia's business development group, not its VC arm NVentures, has led much of its ~$90B dealmaking push across 145+ companies over the past 16 months (Financial Times)",
         "url": "https://www.techmeme.com/260520/p9#a260520p9",
@@ -1856,47 +1887,37 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7439
-      },
-      {
-        "id": "2697aa2b19c014f5",
-        "title": "Google adds voice-based prompting to Docs and Keep",
-        "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779212700000,
-        "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update",
-        "tags": [
-          "ai",
-          "apps",
-          "google",
-          "voice ai",
-          "google docs",
-          "google io 2026"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7439
-      },
-      {
-        "id": "e08ed38b1bfde92e",
-        "title": "Plex just tripled its lifetime price to $750 — here's the free alternative that actually works",
-        "url": "https://www.makeuseof.com/plex-just-tripled-its-lifetime-price-to-750-heres-the-free-alternative-that-actually-works/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779212450000,
-        "summary": "You still have time to sign up before the new price kicks in.",
-        "tags": [
-          "streaming",
-          "plex",
-          "jellyfin",
-          "media streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8488
       }
     ],
     "ai": [
+      {
+        "id": "709b7f4f7ed44097",
+        "title": "The AI bots are coming and the young are booing, not applauding",
+        "url": "https://www.reddit.com/r/technology/comments/1tidgd5/the_ai_bots_are_coming_and_the_young_are_booing/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779259200000,
+        "summary": "submitted by /u/sr_local [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0072
+      },
+      {
+        "id": "7c178219135dd9c0",
+        "title": "An analysis based on current valuations of OpenAI and Anthropic suggests ~$370B of philanthropic assets tied to the two AI companies are poised to become liquid (Nan Ransohoff/Nan's Substack)",
+        "url": "https://www.techmeme.com/260520/p13#a260520p13",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779258900000,
+        "summary": "Nan Ransohoff / Nan's Substack: An analysis based on current valuations of OpenAI and Anthropic suggests ~$370B of philanthropic assets tied to the two AI companies are poised to become liquid — AI is about to generate hundreds of billions in new philanthropic funding. We have a huge amount of work to do to make the most of it.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0585
+      },
       {
         "id": "dd10d24a9f980cd1",
         "title": "Q&A with Harvey CEO Winston Weinberg on launching the legal AI startup in 2022, how AI could shake up law firm business models, legal AI competition, and more (George Hammond/Financial Times)",
@@ -2801,45 +2822,69 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9403
-      },
-      {
-        "id": "22fcdfd87c896410",
-        "title": "Google launches Android CLI 1.0 so AI coding agents can tap into Android Studio’s full power",
-        "url": "https://thenextweb.com/news/google-android-cli-agentic-coding-tools-io-2026",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779225525000,
-        "summary": "Google has released Android CLI at a stable version 1.0, giving AI coding agents a direct line into Android Studio’s capabilities without ever opening the IDE. The announcement, made at Google I/O 2026 on 19 May, is a frank acknowledgement that many developers now build for Android using third-party AI agents rather than Google’s own tools. The […] This story continues at The Next Web",
-        "tags": [
-          "android",
-          "google",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.958
-      },
-      {
-        "id": "10df083e532472e4",
-        "title": "How to use Google’s new AI agents to go beyond your standard searches",
-        "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779225385000,
-        "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-        "tags": [
-          "ai",
-          "ai agents",
-          "google",
-          "google io 2026",
-          "google search"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8053
       }
     ],
     "science": [
+      {
+        "id": "e968970d1a2a7da2",
+        "title": "Glowing fungi expose final enzyme that could make bioluminescent tools more efficient",
+        "url": "https://phys.org/news/2026-05-fungi-expose-enzyme-bioluminescent-tools.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779261001000,
+        "summary": "Like fireflies and many deep-sea creatures, certain fungi can naturally emit light through bioluminescence pathways in which specialized enzymes convert chemical energy into visible light. Medical researchers have used fungal light-producing enzymes in the fungal bioluminescence pathway (FBP) to visually track processes like tumor progression and inflammatory responses. New research published in T",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.011
+      },
+      {
+        "id": "2986b279c77729d5",
+        "title": "Universal free school meals may improve student behavior",
+        "url": "https://phys.org/news/2026-05-universal-free-school-meals-student.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779260401000,
+        "summary": "A study published in Economic Inquiry provides new evidence that universal free school meals can meaningfully reduce out-of-school suspensions in both elementary and secondary schools.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0077
+      },
+      {
+        "id": "51893efa25ef0d15",
+        "title": "Webb Discovers One of the Universe's First Galaxies",
+        "url": "https://science.slashdot.org/story/26/05/20/022206/webb-discovers-one-of-the-universes-first-galaxies?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1779260400000,
+        "summary": "Astronomers using the James Webb Space Telescope have identified an ultra-faint galaxy seen just 800 million years after the Big Bang. The galaxy contains almost no heavy elements, shows signs of intense early stellar radiation, and could offer a rare glimpse into the first stages of galaxy formation. Phys.org reports: In a paper published in the journal Nature, a team of scientists led by Kimihik",
+        "tags": [
+          "space"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0374
+      },
+      {
+        "id": "98723e7e9fb23e05",
+        "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
+        "url": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140",
+        "source": "The Register",
+        "lane": "science",
+        "published_ts": 1779258067000,
+        "summary": "Varda hails success of autonomous touchdown tech and celebrates heat data haul",
+        "tags": [
+          "science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0245
+      },
       {
         "id": "4f3c4e4f630229c9",
         "title": "Attention-Guided Reward for Reinforcement Learning-based Jailbreak against Large Reasoning Models",
@@ -3695,67 +3740,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0157
-      },
-      {
-        "id": "e175192124cab416",
-        "title": "Tritium-infused graphene could sharpen the hunt for neutrino mass",
-        "url": "https://phys.org/news/2026-05-tritium-infused-graphene-sharpen-neutrino.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779201603000,
-        "summary": "While neutrinos are some of the most abundant particles in the universe, they remain among the least understood. One of the biggest puzzles is their mass: although experiments have shown that neutrinos must have some mass, pinning down exactly how much has proven extraordinarily difficult.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0157
-      },
-      {
-        "id": "719df4c11cbe54b5",
-        "title": "OSHA probing worker death at SpaceX's Starbase site",
-        "url": "https://www.reddit.com/r/technology/comments/1thopbj/osha_probing_worker_death_at_spacexs_starbase_site/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1779200993000,
-        "summary": "submitted by /u/DonkeyFuel [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9275
-      },
-      {
-        "id": "260601aee3b3efc7",
-        "title": "German firms join forces on space surveillance system",
-        "url": "https://phys.org/news/2026-05-german-firms-space-surveillance.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779200403000,
-        "summary": "German defense tech start-up Helsing and space technology group OHB on Tuesday unveiled a joint venture to develop an AI-powered surveillance and targeting system for use in outer space.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0991
-      },
-      {
-        "id": "680e8d4eac7a4adc",
-        "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
-        "url": "https://phys.org/news/2026-05-scientists-year-puzzle-tobacco-nicotine.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779200401000,
-        "summary": "Scientists have uncovered how tobacco plants naturally make nicotine, solving a mystery that has puzzled researchers for nearly two centuries. The discovery, published in Nature Communications, could lead to safer production of medicines and vaccines using tobacco plants, without the unwanted nicotine.",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
       }
     ]
   },
