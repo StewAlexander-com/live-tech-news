@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T21:14:35.488106+00:00",
+  "generated_at": "2026-05-20T21:37:17.296506+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -991,6 +991,45 @@
     ],
     "innovation": [
       {
+        "id": "3de246cea093126d",
+        "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+        "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1779312182000,
+        "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+        "tags": [
+          "startups",
+          "tc",
+          "venture",
+          "openai",
+          "y combinator"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7446
+      },
+      {
+        "id": "0b4646e46b4072b6",
+        "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+        "url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1779312082000,
+        "summary": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially when ARK had already been burned by a company operating in the same space. On this episode of TechCru",
+        "tags": [
+          "startups",
+          "ai startup",
+          "ark invest",
+          "cathie wood",
+          "equity podcast",
+          "lucra"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8037
+      },
+      {
         "id": "9332a1dda6e1ac2c",
         "title": "If you only do 3 things for your lawn each year, make sure they're these (and at the right time)",
         "url": "https://www.makeuseof.com/3-step-healthy-lawn-each-year/",
@@ -1940,46 +1979,60 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8047
-      },
-      {
-        "id": "a0972400403b0e04",
-        "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-        "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779285600000,
-        "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
-        "tags": [
-          "tc",
-          "startups",
-          "climate",
-          "fintech",
-          "biotech & health",
-          "venture"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7451
-      },
-      {
-        "id": "cfb7487b0f56428f",
-        "title": "This is my full Adobe replacement kit after quitting Creative Cloud",
-        "url": "https://www.makeuseof.com/full-adobe-replacement-kit-quitting-creative-cloud/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779283819000,
-        "summary": "My wallet likes this setup way more.",
-        "tags": [
-          "creative",
-          "open source",
-          "adobe"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8387
       }
     ],
     "ai": [
+      {
+        "id": "b24bfad7581027ca",
+        "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+        "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1779312562000,
+        "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+        "tags": [
+          "ai",
+          "anthropic",
+          "colossus",
+          "data centers",
+          "spacex",
+          "xai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8058
+      },
+      {
+        "id": "fa5b09bf27fa5bd7",
+        "title": "NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’",
+        "url": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1779312023000,
+        "summary": "Tripp Mickle, Kate Conger, and Brian X. Chen, opening The New York Times’s report on yesterday’s Google I/O keynote (gift link): For 25 years, Google’s iconic search box was a long, slender bar where people typed in keywords like “World Cup.” But over the past three years, artificial intelligence allowed people to type in longer, more complex questions like “Who are the top 24 teams in the World C",
+        "tags": [
+          "outlets:2"
+        ],
+        "paywall": true,
+        "impact": "normal",
+        "score": 0.8056
+      },
+      {
+        "id": "875a8a85c2a4fe86",
+        "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+        "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779311515000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0415
+      },
       {
         "id": "012b1ce8a8d7b3b2",
         "title": "Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B (Robbie Whelan/Wall Street Journal)",
@@ -2272,6 +2325,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9803
+      },
+      {
+        "id": "94b6b77ef848c621",
+        "title": "I Spent Months with an AI Companion. It Was Worse than Being Alone",
+        "url": "https://www.reddit.com/r/technology/comments/1tivii0/i_spent_months_with_an_ai_companion_it_was_worse/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779303940000,
+        "summary": "submitted by /u/LongTrackBravo [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9773
       },
       {
         "id": "7f0a16c1fc625fed",
@@ -2871,80 +2939,72 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7669
-      },
-      {
-        "id": "e58413452ba9b01c",
-        "title": "Google's AI Studio Now Lets Anyone Build Android Apps In Minutes",
-        "url": "https://tech.slashdot.org/story/26/05/20/0224236/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779289200000,
-        "summary": "An anonymous reader quotes a report from TechCrunch: The AI coding boom is now coming directly for Android app development. On Tuesday at Google IO 2026, the company announced new native Android app creation capabilities in its web-based Google AI Studio, shrinking a process that takes weeks of setup and coding down to minutes. The company also said that consumers will be able to use Gemini AI to ",
-        "tags": [
-          "android"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1246
-      },
-      {
-        "id": "4ffa0fbed5b98243",
-        "title": "Stability AI releases a new audio model that can create six-minute songs",
-        "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779289200000,
-        "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
-        "tags": [
-          "ai",
-          "audio creation",
-          "music",
-          "stability ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8012
-      },
-      {
-        "id": "df29d9e0bc49f150",
-        "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-        "url": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779288640000,
-        "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-        "tags": [
-          "policy",
-          "donald trump",
-          "first amendment",
-          "meme",
-          "online censorship"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9653
-      },
-      {
-        "id": "f79d7f3904318a1e",
-        "title": "Man wins $835K after sheriff jailed him for a month over Charlie Kirk post",
-        "url": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779288640000,
-        "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-        "tags": [
-          "policy",
-          "donald trump",
-          "first amendment",
-          "meme",
-          "online censorship"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9888
       }
     ],
     "science": [
+      {
+        "id": "9b512a644caf3632",
+        "title": "SpaceX just filed for what could be the biggest IPO ever",
+        "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1779312545000,
+        "summary": "Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever when it lists on the Nasdaq stock exchange with the ticker SPCX. According to the filing, SpaceX generated $18.67 billion in revenue […]",
+        "tags": [
+          "business",
+          "elon musk",
+          "news",
+          "science",
+          "space",
+          "spacex"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7899
+      },
+      {
+        "id": "f12f5cf7085e582f",
+        "title": "Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B (New York Times)",
+        "url": "https://www.techmeme.com/260520/p48#a260520p48",
+        "source": "Techmeme",
+        "lane": "science",
+        "published_ts": 1779312302000,
+        "summary": "New York Times: Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B — Mr. Musk's rocket and satellite maker disclosed its financial performance for the first time, as it prepares to go public in what is set to be one of the largest offerings to date.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0758
+      },
+      {
+        "id": "94d501fc49b809cc",
+        "title": "Optoelectronic synapse shows exceptional photoresponse for neuromorphic vision",
+        "url": "https://phys.org/news/2026-05-optoelectronic-synapse-exceptional-photoresponse-neuromorphic.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779312003000,
+        "summary": "Like so much else in nature, the human visual system has both a complex structure and functional efficiency that is difficult for scientists to replicate. The system is both a sensor and a processor, with the eyes and the brain working together to resolve images with less energy use than anything people have invented.",
+        "tags": [
+          "condensed matter"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0955
+      },
+      {
+        "id": "37cdaf4cf9a22188",
+        "title": "How economic growth in low-income countries can also protect biodiversity",
+        "url": "https://phys.org/news/2026-05-economic-growth-income-countries-biodiversity.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779312001000,
+        "summary": "For decades, environmental debates have been framed around a stark trade-off: economic growth lifts people out of poverty but comes at the expense of forests, wildlife, and climate stability. More people and richer diets mean more farmland and less nature.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0144
+      },
       {
         "id": "eed3ef2a3a96115c",
         "title": "Extreme weather events may leave rivers unable to rebound",
@@ -3007,6 +3067,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7467
+      },
+      {
+        "id": "572a3909bb43017d",
+        "title": "SpaceX S-1",
+        "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1779310199000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:47"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0342
       },
       {
         "id": "9742811bb543fd42",
@@ -3780,81 +3856,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0385
-      },
-      {
-        "id": "ec648ce30836f886",
-        "title": "Could future Mars settlers print their own tools?",
-        "url": "https://phys.org/news/2026-05-future-mars-settlers-tools.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779276003000,
-        "summary": "If humans one day settle Mars, they will need tools and parts to build structures on the planet. Carrying heavy, bulky supplies 34 million miles from Earth would be impractical. A better plan, says Zane Mebruer, a recent graduate of the U of A, would be 3D printing items on the Red Planet. His new research, completed while he was an honors undergraduate in mechanical engineering at the U of A, sug",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "fa93de83a5e5aa5a",
-        "title": "Argentine researchers collect rodents for hantavirus tests",
-        "url": "https://phys.org/news/2026-05-argentine-rodents-hantavirus.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779276001000,
-        "summary": "Argentine scientists on Tuesday began collecting rodents in the woods around Ushuaia to search for carriers of hantavirus in the area from which the virus-stricken MV Hondius set sail.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "2ba8e5c135250dec",
-        "title": "Zoo reaches historic milestone for Puerto Rican crested toad conservation efforts with more than 12,000 tadpoles",
-        "url": "https://phys.org/news/2026-05-zoo-historic-milestone-puerto-rican.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779275754000,
-        "summary": "Behind the scenes at Brookfield Zoo Chicago, a record-breaking conservation milestone is helping secure the future of one of the world's most imperiled amphibians. Months of meticulous care and coordination enabled Brookfield Zoo Chicago to successfully breed and raise 12,244 Puerto Rican crested toad tadpoles to be released in the wild, supporting species recovery efforts.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
-      },
-      {
-        "id": "7d9c87f31a993efc",
-        "title": "Sky bridges, citizen science protect endangered Malaysia monkeys",
-        "url": "https://phys.org/news/2026-05-sky-bridges-citizen-science-endangered.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779272401000,
-        "summary": "A graceful black monkey edges across a swaying red rope bridge strung over a busy residential road in Malaysia's Penang, watched by local conservationists who carefully record her movements.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0033
-      },
-      {
-        "id": "d3012673769b69b2",
-        "title": "SpaceX's IPO moonshot draws some doubters on Wall Street",
-        "url": "https://phys.org/news/2026-05-spacex-ipo-moonshot-doubters-wall.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779270001000,
-        "summary": "Elon Musk wants to take SpaceX public—and he's asking investors to believe the rocket and AI company is worth almost $1.75 trillion.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0949
       }
     ]
   },
