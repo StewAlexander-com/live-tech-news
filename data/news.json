@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T14:12:11.243050+00:00",
+  "generated_at": "2026-05-20T14:12:50.246110+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2764,82 +2764,83 @@
         "score": 1.0786
       },
       {
-        "id": "2573f4e377887587",
-        "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-        "url": "https://arxiv.org/abs/2605.18818",
+        "id": "2252ad21cbe1b86c",
+        "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
+        "url": "https://arxiv.org/abs/2605.19587",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1779249600000,
-        "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large lan",
+        "summary": "arXiv:2605.19587v1 Announce Type: new Abstract: Indoor scene synthesis underpins embodied AI, robotic manipulation, and simulation-based policy evaluation, where a useful scene must specify not only what the environment looks like, but also how its objects are structured. Existing pipelines, however, typically represent generated content as static meshes and inherit articulation only from curated ",
         "tags": [
-          "cs.ai",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9315
+      },
+      {
+        "id": "86323d1519187457",
+        "title": "Robust Basis Spline Decoupling for the Compression of Transformer Models",
+        "url": "https://arxiv.org/abs/2605.18794",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779249600000,
+        "summary": "arXiv:2605.18794v1 Announce Type: new Abstract: Decoupling is a powerful modeling paradigm for representing multivariate functions as compositions of linear transformations and univariate nonlinear functions. A single-layer decoupling can be viewed as a fully connected neural network with a single hidden layer and flexible activation functions, providing a direct link with neural networks. Because",
+        "tags": [
           "cs.lg",
-          "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1154
-      },
-      {
-        "id": "70513954e27c213c",
-        "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-        "url": "https://arxiv.org/abs/2605.18937",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779249600000,
-        "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data",
-        "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1154
+        "score": 0.9315
       },
       {
-        "id": "952e0835ca53c34b",
-        "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
-        "url": "https://arxiv.org/abs/2605.19093",
-        "source": "arXiv cs.AI",
+        "id": "9fa8bc8900dec8e2",
+        "title": "Adaptive Multi-Scale Goodness Aggregation for Forward-Forward Learning",
+        "url": "https://arxiv.org/abs/2605.18804",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1779249600000,
-        "summary": "arXiv:2605.19093v1 Announce Type: new Abstract: System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user populations. Yet they are difficult to tune when feedback is available only as aggregate metrics rather than per-example labels, failures, or critiques. We study this aggregate feedback setting as sample-constrained black-box op",
+        "summary": "arXiv:2605.18804v1 Announce Type: new Abstract: We propose Adaptive Multi-Scale Goodness Aggregation (AMSGA), a novel extension of the Forward-Forward (FF) algorithm designed to improve stability, robustness, and generalization in local-learning neural networks. AMSGA addresses several limitations of the original FF framework by introducing multi-scale goodness aggregation across local, intermedia",
         "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1154
-      },
-      {
-        "id": "a9a96dca7abd2259",
-        "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
-        "url": "https://arxiv.org/abs/2605.19229",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779249600000,
-        "summary": "arXiv:2605.19229v1 Announce Type: new Abstract: Survey research faces mounting structural challenges: declining response rates, sample bias, block-wise missingness among at-risk respondents, and AI-assisted fraudulent completions in online panels. Large language models (LLMs) have been proposed as a remedy, yet rigorous evaluations across the full survey workflow remain scarce, particularly in dis",
-        "tags": [
+          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1154
+        "score": 0.9315
       },
       {
-        "id": "fbbf1fe1669755fa",
-        "title": "Generative Recursive Reasoning",
-        "url": "https://arxiv.org/abs/2605.19376",
-        "source": "arXiv cs.AI",
+        "id": "e7353caff4bae6e4",
+        "title": "Symmetry in the Wild: The Role of Equivariance in Neural Fluid Surrogates",
+        "url": "https://arxiv.org/abs/2605.18816",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1779249600000,
-        "summary": "arXiv:2605.19376v1 Announce Type: new Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with shared transition functions. Yet existing RRMs are largely deterministic, following a single latent trajectory and convergi",
+        "summary": "arXiv:2605.18816v1 Announce Type: new Abstract: Neural surrogates enable orders-of-magnitude acceleration of computational fluid dynamics (CFD) simulations, with the potential to transform engineering and healthcare workflows. Neural surrogate use in real-world applications requires addressing scalability to large, high-resolution surface and volume meshes, as well as to bespoke architectures, and",
         "tags": [
+          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1154
+        "score": 0.9315
+      },
+      {
+        "id": "196a59db42d653e8",
+        "title": "Quantum Adversarial Machine Learning: From Classical Adaptations to Quantum-Native Methods",
+        "url": "https://arxiv.org/abs/2605.18821",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779249600000,
+        "summary": "arXiv:2605.18821v1 Announce Type: new Abstract: Machine learning has revolutionized numerous industrial domains. Despite recent advances, machine learning models remain vulnerable to adversarial threats. Adversarial machine learning is a field that studies these vulnerabilities to build robust machine learning models. Quantum machine learning is an interdisciplinary field that bridges quantum comp",
+        "tags": [
+          "cs.lg",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9315
       }
     ],
     "science": [
