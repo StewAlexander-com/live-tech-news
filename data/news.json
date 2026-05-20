@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T00:05:42.753292+00:00",
+  "generated_at": "2026-05-20T00:11:06.418383+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1087,6 +1087,21 @@
         "score": 0.9947
       },
       {
+        "id": "3ad8732bf3962bec",
+        "title": "Google accused of pushing 'free for life' G Suite users onto paid plans",
+        "url": "https://www.theregister.com/applications/2026/05/19/google-accused-of-pushing-free-for-life-g-suite-users-onto-paid-plans/5242567",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1779228900000,
+        "summary": "Users claim personal family domains are being falsely flagged for commercial use, leaving long-time G Suite Legacy customers facing a pay-up-or-lose-access ultimatum",
+        "tags": [
+          "applications"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0116
+      },
+      {
         "id": "ad83e0afe8ecd6fb",
         "title": "Lifetime Plex Pass subscriptions are tripling in price from $249.99 to $749.99, starting July 1, 2026",
         "url": "https://www.reddit.com/r/technology/comments/1ti249m/lifetime_plex_pass_subscriptions_are_tripling_in/",
@@ -1132,6 +1147,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0188
+      },
+      {
+        "id": "0ef745c0c1468152",
+        "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+        "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1779227778000,
+        "summary": "'Thousands' of US victims, including 12+ machines owned and operated by Redmond",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0055
       },
       {
         "id": "5c57531c8220153f",
@@ -1877,42 +1907,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7451
-      },
-      {
-        "id": "598916b5c082d489",
-        "title": "Relay, which builds banking and money management software for small businesses, raised $50M; it previously raised ~$51.5M, including a $32.2M Series B in 2024 (Ryan Lawler/Axios)",
-        "url": "https://www.techmeme.com/260519/p25#a260519p25",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779204602000,
-        "summary": "Ryan Lawler / Axios: Relay, which builds banking and money management software for small businesses, raised $50M; it previously raised ~$51.5M, including a $32.2M Series B in 2024 — Relay, which builds banking and money management software for small businesses, raised $50 million, CEO Yoseph West tells Axios exclusively.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0749
-      },
-      {
-        "id": "50148698ca31f975",
-        "title": "Biofeedback Butterfly Beats With a Pulse",
-        "url": "https://hackaday.com/2026/05/19/biofeedback-butterfly-beats-with-a-pulse/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779204600000,
-        "summary": "Biofeedback is the idea of making one conscious of a biological process or feature, and then using this to try and exert control over the very same. [Mariia Hruntes] demonstrates …read more",
-        "tags": [
-          "medical hacks",
-          "robots hacks",
-          "3d printed",
-          "arduino uno",
-          "biofeedback",
-          "butterfly"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0749
       }
     ],
     "ai": [
+      {
+        "id": "837a01db8f12d27b",
+        "title": "New study finds most Americans think the pace of AI development is moving too fast — and they also don't believe everyone will truly benefit from it",
+        "url": "https://www.techradar.com/pro/new-study-finds-most-americans-think-the-pace-of-ai-development-is-moving-too-fast-and-they-also-dont-believe-everyone-will-truly-benefit-from-it",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1779235500000,
+        "summary": "Most Americans are worried about the rapid pace of AI innovation – are regulators struggling to keep up now?",
+        "tags": [
+          "pro",
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9162
+      },
       {
         "id": "7a3a70ddef9f7d03",
         "title": "Google updates Project Genie, its interactive world builder, with Street View integration, and expands access to the tool to AI Ultra subscribers globally (Jessica Conditt/Engadget)",
@@ -1956,6 +1969,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8688
+      },
+      {
+        "id": "9deb24e37c844400",
+        "title": "Anthropic’s Stainless steal tightens grip on AI dev tooling",
+        "url": "https://www.theregister.com/ai-ml/2026/05/20/anthropics-stainless-steal-tightens-grip-on-ai-dev-tooling/5243053",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1779231918000,
+        "summary": "Claude maker nabs SDK and MCP tooling biz, plans to sunset platform",
+        "tags": [
+          "ai + ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1103
       },
       {
         "id": "383991485e9dcca4",
@@ -2857,37 +2885,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9631
-      },
-      {
-        "id": "44f1a23d330df11e",
-        "title": "RAM makers are drowning in debt to keep up with AI's chip appetite",
-        "url": "https://www.reddit.com/r/technology/comments/1thxz44/ram_makers_are_drowning_in_debt_to_keep_up_with/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779219755000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0074
-      },
-      {
-        "id": "cda16100b66ea71f",
-        "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-        "url": "https://openai.com/index/advancing-content-provenance/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779219270000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3029
       }
     ],
     "science": [
