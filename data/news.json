@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T14:12:50.246110+00:00",
+  "generated_at": "2026-05-20T14:18:24.699034+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -967,6 +967,19 @@
     ],
     "innovation": [
       {
+        "id": "436e9e852be60255",
+        "title": "Mercury, which provides banking services to startups, raised a $200M Series D led by TCV at a $5.2B valuation, up from $3.5B in March 2025 (Hugh Son/CNBC)",
+        "url": "https://www.techmeme.com/260520/p29#a260520p29",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779286502000,
+        "summary": "Hugh Son / CNBC: Mercury, which provides banking services to startups, raised a $200M Series D led by TCV at a $5.2B valuation, up from $3.5B in March 2025 — Mercury, a fintech firm that provides banking services to startups, has raised $200 million in funding at a $5.2 billion valuation, CNBC has learned exclusively.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9989
+      },
+      {
         "id": "e6bf317931539af6",
         "title": "Socket, which helps companies safeguard open-source code against hackers, raised $60M led by Thrive Capital at a $1B valuation (Dina Bass/Bloomberg)",
         "url": "https://www.techmeme.com/260520/p28#a260520p28",
@@ -1894,22 +1907,44 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0753
-      },
-      {
-        "id": "d48666b02def5f4c",
-        "title": "Samsung Electronics rejects a labor union-accepted mediation proposal, raising the prospect of a workers' strike; a general work stoppage will proceed on May 21 (Bloomberg)",
-        "url": "https://www.techmeme.com/260520/p2#a260520p2",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779252602000,
-        "summary": "Bloomberg: Samsung Electronics rejects a labor union-accepted mediation proposal, raising the prospect of a workers' strike; a general work stoppage will proceed on May 21 — Talks between Samsung Electronics Co. and its largest labor union broke down, raising the prospect of a workers' strike …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9995
       }
     ],
     "ai": [
+      {
+        "id": "e3203438d6c1321e",
+        "title": "Google is making your AI inbox even smarter - and letting you talk to your most important work files",
+        "url": "https://www.techradar.com/pro/google-is-making-your-ai-inbox-even-smarter-and-letting-you-talk-to-your-most-important-work-files",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1779286446000,
+        "summary": "Talk to your Google Docs or Gmail, or just ask your AI Inbox a question.",
+        "tags": [
+          "pro",
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9167
+      },
+      {
+        "id": "7f44f17c739144d9",
+        "title": "It’s make or break time for AI labeling systems",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1779286374000,
+        "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the […]",
+        "tags": [
+          "ai",
+          "analysis",
+          "google",
+          "report",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8538
+      },
       {
         "id": "2a4177144e009630",
         "title": "'It's ok to use AI to help you write, but your posts and comments need to represent your voice and your perspectives': LinkedIn is finally set to crack down on AI slop — and save our collective sanity",
@@ -2319,6 +2354,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1099
+      },
+      {
+        "id": "14cf07af6010f76d",
+        "title": "Sam Altman says OpenAI offered to invest $2M in tokens in each startup in the current YC batch; a source says the offer is in exchange for equity via a SAFE (Jemima McEvoy/The Information)",
+        "url": "https://www.techmeme.com/260520/p16#a260520p16",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779271282000,
+        "summary": "Jemima McEvoy / The Information: Sam Altman says OpenAI offered to invest $2M in tokens in each startup in the current YC batch; a source says the offer is in exchange for equity via a SAFE — OpenAI cofounder and CEO Sam Altman late Tuesday offered to invest $2 million in every startup currently in the Y Combinator startup …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9208
       },
       {
         "id": "e35c98eed53fd4a5",
@@ -2764,83 +2812,36 @@
         "score": 1.0786
       },
       {
-        "id": "2252ad21cbe1b86c",
-        "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
-        "url": "https://arxiv.org/abs/2605.19587",
+        "id": "2573f4e377887587",
+        "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+        "url": "https://arxiv.org/abs/2605.18818",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1779249600000,
-        "summary": "arXiv:2605.19587v1 Announce Type: new Abstract: Indoor scene synthesis underpins embodied AI, robotic manipulation, and simulation-based policy evaluation, where a useful scene must specify not only what the environment looks like, but also how its objects are structured. Existing pipelines, however, typically represent generated content as static meshes and inherit articulation only from curated ",
+        "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large lan",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9299
+      },
+      {
+        "id": "70513954e27c213c",
+        "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+        "url": "https://arxiv.org/abs/2605.18937",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779249600000,
+        "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9315
-      },
-      {
-        "id": "86323d1519187457",
-        "title": "Robust Basis Spline Decoupling for the Compression of Transformer Models",
-        "url": "https://arxiv.org/abs/2605.18794",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1779249600000,
-        "summary": "arXiv:2605.18794v1 Announce Type: new Abstract: Decoupling is a powerful modeling paradigm for representing multivariate functions as compositions of linear transformations and univariate nonlinear functions. A single-layer decoupling can be viewed as a fully connected neural network with a single hidden layer and flexible activation functions, providing a direct link with neural networks. Because",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9315
-      },
-      {
-        "id": "9fa8bc8900dec8e2",
-        "title": "Adaptive Multi-Scale Goodness Aggregation for Forward-Forward Learning",
-        "url": "https://arxiv.org/abs/2605.18804",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1779249600000,
-        "summary": "arXiv:2605.18804v1 Announce Type: new Abstract: We propose Adaptive Multi-Scale Goodness Aggregation (AMSGA), a novel extension of the Forward-Forward (FF) algorithm designed to improve stability, robustness, and generalization in local-learning neural networks. AMSGA addresses several limitations of the original FF framework by introducing multi-scale goodness aggregation across local, intermedia",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9315
-      },
-      {
-        "id": "e7353caff4bae6e4",
-        "title": "Symmetry in the Wild: The Role of Equivariance in Neural Fluid Surrogates",
-        "url": "https://arxiv.org/abs/2605.18816",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1779249600000,
-        "summary": "arXiv:2605.18816v1 Announce Type: new Abstract: Neural surrogates enable orders-of-magnitude acceleration of computational fluid dynamics (CFD) simulations, with the potential to transform engineering and healthcare workflows. Neural surrogate use in real-world applications requires addressing scalability to large, high-resolution surface and volume meshes, as well as to bespoke architectures, and",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9315
-      },
-      {
-        "id": "196a59db42d653e8",
-        "title": "Quantum Adversarial Machine Learning: From Classical Adaptations to Quantum-Native Methods",
-        "url": "https://arxiv.org/abs/2605.18821",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1779249600000,
-        "summary": "arXiv:2605.18821v1 Announce Type: new Abstract: Machine learning has revolutionized numerous industrial domains. Despite recent advances, machine learning models remain vulnerable to adversarial threats. Adversarial machine learning is a field that studies these vulnerabilities to build robust machine learning models. Quantum machine learning is an interdisciplinary field that bridges quantum comp",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9315
+        "score": 0.9299
       }
     ],
     "science": [
@@ -3313,6 +3314,19 @@
         "score": 1.006
       },
       {
+        "id": "f6155a23bb1765eb",
+        "title": "Author Correction: Inactivating <i>SnRK1β1A</i> promotes broad-spectrum disease resistance in rice",
+        "url": "https://www.nature.com/articles/s41586-026-10659-5",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1779235200000,
+        "summary": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10659-5Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8731
+      },
+      {
         "id": "30c95338668de25c",
         "title": "Three scientists pushing chemistry in new directions",
         "url": "https://www.nature.com/articles/d41586-026-00430-1",
@@ -3723,21 +3737,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0161
-      },
-      {
-        "id": "a77f59a33ceb0309",
-        "title": "How traffic makes cities warmer",
-        "url": "https://phys.org/news/2026-05-traffic-cities-warmer.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779219607000,
-        "summary": "More than half the world's population now lives in cities that are often much hotter than their rural surroundings. Roads, buildings and paved surfaces absorb and store heat during the day, then release it slowly after sunset. This is known as the urban heat island effect.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
       }
     ]
   },
