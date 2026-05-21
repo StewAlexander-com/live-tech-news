@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:17:44.597122+00:00",
+  "generated_at": "2026-05-21T18:28:09.845749+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -946,6 +946,19 @@
       }
     ],
     "innovation": [
+      {
+        "id": "bb327c7a8b9550ca",
+        "title": "Sources: the EU will propose temporarily lifting sanctions, imposed in April, on a major Chinese semiconductor supplier after automakers warned of shortages (Alberto Nardelli/Bloomberg)",
+        "url": "https://www.techmeme.com/260521/p34#a260521p34",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779387900000,
+        "summary": "Alberto Nardelli / Bloomberg: Sources: the EU will propose temporarily lifting sanctions, imposed in April, on a major Chinese semiconductor supplier after automakers warned of shortages — The European Union will propose temporarily lifting sanctions on a major Chinese semiconductor supplier after automakers warned …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0789
+      },
       {
         "id": "2ca3908bb49f9f26",
         "title": "August Robotics, which makes autonomous robots for construction and industrial applications, raised $30M led by Big Pi Ventures (Kyt Dotson/SiliconANGLE)",
@@ -1901,21 +1914,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8979
-      },
-      {
-        "id": "71933aed5b17e20c",
-        "title": "Minecraft-streaming gran swatted while raising cash for grandson's cancer care",
-        "url": "https://www.theregister.com/cyber-crime/2026/05/21/swatting-hoax-sees-cops-raid-elderly-minecraft-players-home/5244120",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1779367260000,
-        "summary": "Sue Jacquot said she had a great time, despite the rude awakening",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0409
       }
     ],
     "ai": [
@@ -2891,6 +2889,36 @@
     ],
     "science": [
       {
+        "id": "e2b4589a94d82bf7",
+        "title": "Fertilizer: The forgotten history linking the agricultural commodity and empire in wartime",
+        "url": "https://phys.org/news/2026-05-fertilizer-forgotten-history-linking-agricultural.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779387603000,
+        "summary": "Fertilizers are not just an agricultural input: they are a strategic resource hidden at the center of geopolitical conflict. The US and Israel's war on Iran and the related disruption of shipping through the Strait of Hormuz are sending shockwaves through the global farming system. A large share of the world's traded chemical fertilizers normally pass through this strategic chokepoint, alongside k",
+        "tags": [
+          "agriculture"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
+      {
+        "id": "6f73561439f481cf",
+        "title": "Bacteria found in artisan cheeses may ease disease",
+        "url": "https://phys.org/news/2026-05-bacteria-artisan-cheeses-ease-disease.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779387602000,
+        "summary": "Blessed are the tiny cheesemakers: scientists have mapped out the bacteria responsible for giving three British cheeses their distinct flavor, which may also be beneficial to human health. Scientists in the Food Microbial Sciences Unit at the University of Reading, identified the microbial and biochemical profiles of three artisan cheeses made locally in Oxfordshire across their maturation process",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
+      {
         "id": "cf8655f66f4b261f",
         "title": "Musk's SpaceX bonus comes with unique condition: Colonize Mars",
         "url": "https://phys.org/news/2026-05-musk-spacex-bonus-unique-condition.html",
@@ -3772,37 +3800,6 @@
         "summary": "arXiv:2605.19485v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have demonstrated remarkable capabilities in solving complex problems by generating structured, step-by-step reasoning content. However, exposing a model's internal reasoning process introduces additional safety risks; for example, recent studies show that LRMs are more vulnerable to jailbreak attacks than standard LLMs.",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0316
-      },
-      {
-        "id": "71762e18e879a171",
-        "title": "Modality-Decoupled Online Recursive Editing",
-        "url": "https://arxiv.org/abs/2605.20273",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1779336000000,
-        "summary": "arXiv:2605.20273v1 Announce Type: new Abstract: Online model editing for multimodal large language models (MLLMs) requires assimilating a stream of corrections under tight compute and memory budgets. Yet editors developed for text-only LLMs often degrade on MLLMs: visually dominant activations skew the statistics that shape updates, causing cross-modal conflict, while sequential writes become enta",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0316
-      },
-      {
-        "id": "ff9e15c6e60d8a1e",
-        "title": "WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning",
-        "url": "https://arxiv.org/abs/2605.20311",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1779336000000,
-        "summary": "arXiv:2605.20311v1 Announce Type: new Abstract: Guided-wave structural health monitoring enables damage localization in composite plates using sparse networks of bonded piezoelectric transducers. However, inferring the spatial location of defects from pitch-catch measurements remains weakly constrained when only a limited set of damage locations is available for training. As a result, models train",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
