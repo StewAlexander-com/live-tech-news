@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-05-21T03:39:14.953837+00:00",
+  "generated_at": "2026-05-21T04:55:05.726547+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c81bdbb771cf57b3",
+        "title": "Gigabyte’s latest OLED gaming monitor looks like a dream, but living with it was more complicated",
+        "url": "https://www.techradar.com/computing/monitors/gigabyte-mo27u2-gaming-monitor-review",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779336555000,
+        "summary": "The Gigabyte MO27U2 is fast and colorful, but its HDR issues and high price hold it back.",
+        "tags": [
+          "monitors",
+          "computing",
+          "peripherals &amp; accessories"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8376
+      },
+      {
+        "id": "b4f88f9fc229fbf1",
+        "title": "Residual Paving: Diagnosing the Routing Bottleneck in Selective Refusal Editing",
+        "url": "https://arxiv.org/abs/2605.20262",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20262v1 Announce Type: new Abstract: We study selective refusal editing as a three-way control problem: induce non-refusal on designated edit prompts while preserving benign behavior and harmful refusals outside the edit set. We introduce Residual Paving, a routed residual editing method for frozen instruction-tuned transformers that separates route selectivity, whether to intervene, fr",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0316
+      },
       {
         "id": "92b9bbe76f808295",
         "title": "I've covered EOFY sales for years — these are the only tech deals worth your money right now",
@@ -937,40 +970,70 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0343
-      },
-      {
-        "id": "a3613fa468037e33",
-        "title": "Ditch the $60k MBA: 8 audiobooks to master business for $62.93",
-        "url": "https://www.techradar.com/collection/pro/ditch-the-usd60k-mba-8-audiobooks-to-master-business-for-usd62-93",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779295877000,
-        "summary": "8 audiobooks to listen to for the ultimate business education",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8362
-      },
-      {
-        "id": "3cb2fcc6b3b39525",
-        "title": "Ryzen 7 5800X3D AM4 10th Anniversary Edition surfaces online for $310 — return of iconic gaming CPU for budget builders seems imminent",
-        "url": "https://www.tomshardware.com/pc-components/cpus/ryzen-7-5800x3d-am4-10th-anniversary-edition-surfaces-online-for-usd310-return-of-iconic-gaming-cpu-for-budget-builders-seems-imminent",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1779295789000,
-        "summary": "Indian retailer lists AMD's Ryzen 7 5800X3D AM4 10th Anniversary Edition processor for $310.",
-        "tags": [
-          "cpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0089
       }
     ],
     "innovation": [
+      {
+        "id": "6d6cbdbc564458b9",
+        "title": "Ofcom says Meta, Snap, and Roblox will adopt stronger anti-grooming measures, while TikTok and YouTube \"failed to commit to any significant changes\" (Ofcom)",
+        "url": "https://www.techmeme.com/260521/p1#a260521p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779336093000,
+        "summary": "Ofcom: Ofcom says Meta, Snap, and Roblox will adopt stronger anti-grooming measures, while TikTok and YouTube “failed to commit to any significant changes” — - Snap, Meta and Roblox to adopt further safety measures to protect children from stranger danger online",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.983
+      },
+      {
+        "id": "3e1c2f3d38644b68",
+        "title": "MagBridge-Battery: A Synthetic Bridge Dataset for Li-ion Magnetometry and State-of-Health Diagnostics",
+        "url": "https://arxiv.org/abs/2605.20240",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20240v1 Announce Type: new Abstract: Battery health diagnostics today rely overwhelmingly on electrochemical signals measured at the cell terminals. A parallel literature has shown that magnetic sensing can resolve information that terminal-only measurements miss, but method development is limited by the absence, to the best of our knowledge, of public battery magnetic-measurement datas",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "0026ef13cc77acb7",
+        "title": "Neural Collapse by Design: Learning Class Prototypes on the Hypersphere",
+        "url": "https://arxiv.org/abs/2605.20302",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20302v1 Announce Type: new Abstract: Supervised classification has a theoretical optimum, Neural Collapse (NC), yet neither of its two dominant paradigms reaches it in practice. Cross entropy (CE) leaves radial degrees of freedom unconstrained and converges to a degenerate geometry, while supervised contrastive learning (SCL) drives features toward NC during pretraining but discards thi",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "e013a13f64ef3e77",
+        "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+        "url": "https://arxiv.org/abs/2605.19008",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.19008v1 Announce Type: new Abstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggressive learning-rate, scale, and runtime-stress conditions. This paper introduces Learn-by-Wire Guard (LBW-Guard), a bounded autonomous training-control governance layer that operates above AdamW. Rather than replacing the op",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0316
+      },
       {
         "id": "eb93e00e49da3d35",
         "title": "Investigating the Health Impacts of UFPs and VOCs from FDM Printers",
@@ -988,6 +1051,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0769
+      },
+      {
+        "id": "704e3ada9d76bb0a",
+        "title": "To study how chips really work, MIT researchers built their own operating system",
+        "url": "https://www.reddit.com/r/technology/comments/1tj2zo3/to_study_how_chips_really_work_mit_researchers/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1779320145000,
+        "summary": "submitted by /u/Hrmbee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8575
       },
       {
         "id": "209515cc52bba9c9",
@@ -1881,96 +1959,227 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9902
-      },
-      {
-        "id": "65e36dd3a73cd768",
-        "title": "Your Android's Theft Detection Lock is useless until you change these 3 things",
-        "url": "https://www.makeuseof.com/your-androids-theft-detection-lock-useless-until-change-these-things/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779292819000,
-        "summary": "Future you will be very glad you spent two minutes doing this today.",
-        "tags": [
-          "android",
-          "android tips",
-          "security tips",
-          "password tips"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.839
-      },
-      {
-        "id": "9980aaed83b3a04b",
-        "title": "I've been working on Microsoft's 13-inch Surface Pro 12th Gen for Business running Intel Core Ultra Series 3, and am surprised by its speed and battery life, but oh that fan",
-        "url": "https://www.techradar.com/computing/windows-laptops/microsoft-13-inch-surface-pro-12th-gen-intel-core-ultra-series-3-hands-on",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1779292800000,
-        "summary": "Surface Pro comes roaring back with a powerful Intel mobile CPU in an unchanged design.",
-        "tags": [
-          "windows laptops",
-          "pro",
-          "computing",
-          "laptops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9061
-      },
-      {
-        "id": "42e6a9ee0c814809",
-        "title": "Plex appeal fades as Lifetime Pass jumps to $750",
-        "url": "https://www.theregister.com/saas/2026/05/20/plex-appeal-fades-as-lifetime-pass-jumps-to-750/5243480",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1779292298000,
-        "summary": "How many times would you have to watch Lord of the Rings to cover that?",
-        "tags": [
-          "saas"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0336
-      },
-      {
-        "id": "05d6f42697723b73",
-        "title": "Primer secures $100M Series C to fuel US expansion and autonomous AI payments",
-        "url": "https://thenextweb.com/news/primer-secures-100m-series-c-autonomous-ai-payments",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1779291498000,
-        "summary": "Primer, a London-based payment startup, has announced a €86.2 million Series C funding round to expand its AI payments and finance platform. The capital will also support its market development in the US, where the company plans to grow revenue to more than a third of total revenue by 2028, supported by plans to hire […] This story continues at The Next Web",
-        "tags": [
-          "startups and technology",
-          "fintech and ecommerce"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9527
-      },
-      {
-        "id": "ddfa5b3d211d72e1",
-        "title": "Put the Moon on Your Desk",
-        "url": "https://hackaday.com/2026/05/20/put-the-moon-on-your-desk/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779291026000,
-        "summary": "Most people take the Moon for granted, not considering its slow cycle where the sun gradually illuminates different parts of it. A recent project from [Karsten Mueller] helps you keep …read more",
-        "tags": [
-          "clock hacks",
-          "astronomy",
-          "circular display",
-          "esp32",
-          "esp32-s3",
-          "moon"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0775
       }
     ],
     "ai": [
+      {
+        "id": "852936ba3780d9be",
+        "title": "Commure, which offers AI, revenue cycle management, and workflow automation tools for healthcare providers, raised $70M led by GC at a $7B post-money valuation (Paige Minemyer/Fierce Healthcare)",
+        "url": "https://www.techmeme.com/260521/p2#a260521p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779338102000,
+        "summary": "Paige Minemyer / Fierce Healthcare: Commure, which offers AI, revenue cycle management, and workflow automation tools for healthcare providers, raised $70M led by GC at a $7B post-money valuation — Commure investment Artificial Intelligence General Catalyst — Healthcare AI company Commure has banked $70 million in fresh funding, reaching a $7 billion valuation.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0731
+      },
+      {
+        "id": "2573f4e377887587",
+        "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+        "url": "https://arxiv.org/abs/2605.18818",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates pipelines of multiple models for classification, optical character recognition (OCR), and large lan",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "70513954e27c213c",
+        "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+        "url": "https://arxiv.org/abs/2605.18937",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.18937v1 Announce Type: new Abstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information in the record is complex, potentially hindering insights. In this study, we assess the potential of large language models (LLMs, Gemini 3.0 Flash) to provide helpful answers to user health queries, when provided clinical data",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "952e0835ca53c34b",
+        "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+        "url": "https://arxiv.org/abs/2605.19093",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.19093v1 Announce Type: new Abstract: System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user populations. Yet they are difficult to tune when feedback is available only as aggregate metrics rather than per-example labels, failures, or critiques. We study this aggregate feedback setting as sample-constrained black-box op",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "a9a96dca7abd2259",
+        "title": "Can Large Language Models Revolutionize Survey Research? Experiments with Disaster Preparedness Responses",
+        "url": "https://arxiv.org/abs/2605.19229",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.19229v1 Announce Type: new Abstract: Survey research faces mounting structural challenges: declining response rates, sample bias, block-wise missingness among at-risk respondents, and AI-assisted fraudulent completions in online panels. Large language models (LLMs) have been proposed as a remedy, yet rigorous evaluations across the full survey workflow remain scarce, particularly in dis",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "fbbf1fe1669755fa",
+        "title": "Generative Recursive Reasoning",
+        "url": "https://arxiv.org/abs/2605.19376",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.19376v2 Announce Type: new Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with shared transition functions. Yet existing RRMs are largely deterministic, following a single latent trajectory and convergi",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "2252ad21cbe1b86c",
+        "title": "SceneCode: Executable World Programs for Editable Indoor Scenes with Articulated Objects",
+        "url": "https://arxiv.org/abs/2605.19587",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.19587v1 Announce Type: new Abstract: Indoor scene synthesis underpins embodied AI, robotic manipulation, and simulation-based policy evaluation, where a useful scene must specify not only what the environment looks like, but also how its objects are structured. Existing pipelines, however, typically represent generated content as static meshes and inherit articulation only from curated ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "aa2f54e44f20d3f6",
+        "title": "Neural Estimation of Pairwise Mutual Information in Masked Discrete Sequence Models",
+        "url": "https://arxiv.org/abs/2605.20187",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20187v1 Announce Type: new Abstract: Understanding dependencies between variables is critical for interpretability and efficient generation in masked diffusion models (MDMs), yet these models primarily expose marginal conditional distributions and do not explicitly represent inter-variable dependence. We propose a neural framework for estimating pairwise conditional mutual information (",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "70b33166485e4f5e",
+        "title": "GraphDiffMed: Knowledge-Constrained Differential Attention with Pharmacological Graph Priors for Medication Recommendation",
+        "url": "https://arxiv.org/abs/2605.20188",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20188v1 Announce Type: new Abstract: Recommending safe and effective medication combinations from electronic health records (EHRs) is a core clinical AI problem, yet it remains difficult because patient trajectories are long, noisy, and clinically heterogeneous. Existing methods typically excel at either temporal modeling across visits or pharmacological knowledge integration (e.g., dru",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "84752bf9ae0de7ce",
+        "title": "Closed-form predictive coding via hierarchical Gaussian filters",
+        "url": "https://arxiv.org/abs/2605.20293",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20293v1 Announce Type: new Abstract: Predictive coding (PC) offers a local and biologically grounded alternative to backpropagation in the training of artificial neural networks, yet to date, it remains slower, and performance degrades sharply as network depth increases. We trace both problems to a single simplification: current PC networks fix the precision matrix to the identity, disc",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "1461c444488acb48",
+        "title": "Quant.npu: Enabling Efficient Mobile NPU Inference for on-device LLMs via Fully Static Quantization",
+        "url": "https://arxiv.org/abs/2605.20295",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20295v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed on mobile devices, where Neural Processing Units (NPUs) necessitate fully static quantization for optimal inference efficiency. However, existing post-training quantization (PTQ) methods predominantly rely on dynamic activation quantization, rendering them incompatible with NPU hardware constrain",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "4c961912ca6a6380",
+        "title": "Symmetrization of Loss Functions for Robust Training of Neural Networks in the Presence of Noisy Labels",
+        "url": "https://arxiv.org/abs/2605.20347",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20347v1 Announce Type: new Abstract: Labeling a training set is often expensive and susceptible to errors, making the design of robust loss functions for label noise an important problem. The symmetry condition provides theoretical guarantees for robustness to such noise. In this work, we study a symmetrization method arising from the unique decomposition of any multi-class loss functio",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "1fe1b9a5c616e112",
+        "title": "TabPFN-MT: A Natively Multitask In-Context Learner for Tabular Data",
+        "url": "https://arxiv.org/abs/2605.20234",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20234v1 Announce Type: new Abstract: Prior-Data Fitted networks (PFNs) have been very successful in tabular contexts, handling prediction tasks in context. However, they are designed for single-task inference, meaning that predicting several target values within a context requires repeated forward calls and precludes inter-task information sharing. We propose TabPFN-MT, which is trained",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0316
+      },
+      {
+        "id": "3388def5b1b0dbcf",
+        "title": "AMD says its Mac Mini-sized Ryzen AI Halo PC starts at $3,999 with Ryzen AI Max 300 chips, for pre-order in June, and unveils AI Max 400 chips, available in Q3 (Devindra Hardawar/Engadget)",
+        "url": "https://www.techmeme.com/260520/p57#a260520p57",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779334802000,
+        "summary": "Devindra Hardawar / Engadget: AMD says its Mac Mini-sized Ryzen AI Halo PC starts at $3,999 with Ryzen AI Max 300 chips, for pre-order in June, and unveils AI Max 400 chips, available in Q3 — They're direct shots at NVIDIA's AI systems — AMD's big pitch for 2026 seems to be: “Who needs cloud AI processing when you can do it all locally?”",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0543
+      },
       {
         "id": "dd4148604a0e928a",
         "title": "Cohere releases Command A+, a sparse MoE open model built for agentic tasks, with 218B total and 25B active parameters, its first under the Apache 2.0 license (Carl Franzen/VentureBeat)",
@@ -2239,6 +2448,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0791
+      },
+      {
+        "id": "358d8eb843c6aa55",
+        "title": "Linus Torvalds admits he has a 'love-hate relationship with AI'",
+        "url": "https://www.reddit.com/r/technology/comments/1tj2gjz/linus_torvalds_admits_he_has_a_lovehate/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779318841000,
+        "summary": "submitted by /u/yourbasicgeek [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9196
       },
       {
         "id": "4472fb2d8144e84a",
@@ -2668,250 +2892,157 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9533
-      },
-      {
-        "id": "efa05cad2116a6a8",
-        "title": "A city at the center of an AI data center frenzy just voted to ban them",
-        "url": "https://www.reddit.com/r/technology/comments/1tix1x6/a_city_at_the_center_of_an_ai_data_center_frenzy/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779307088000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0011
-      },
-      {
-        "id": "0b69b330efaac1b7",
-        "title": "Leaving the V8 in the past: The all-electric Mercedes-AMG GT 4-Door",
-        "url": "https://arstechnica.com/cars/2026/05/leaving-the-v8-in-the-past-the-all-electric-mercedes-amg-gt-4-door/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779306814000,
-        "summary": "The 0–60 time is impressive, the miles/kWh number even more so.",
-        "tags": [
-          "cars",
-          "axial flux motor",
-          "mercedes-amg gt 4-door coupe"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9798
-      },
-      {
-        "id": "192e59dd82b054a8",
-        "title": "OpenAI floats buy-before-your-try AI availability guarantee",
-        "url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1779306688000,
-        "summary": "Nice AI workloads you have going, it'd be a shame we ran out of stock",
-        "tags": [
-          "ai + ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1103
-      },
-      {
-        "id": "44866c43b8ac3b07",
-        "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-        "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779306440000,
-        "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-        "tags": [
-          "ai",
-          "andrew ng",
-          "google brain",
-          "irisgo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8013
-      },
-      {
-        "id": "7ef7e982c7aa9e53",
-        "title": "The 5 Google I/O Announcements That Actually Matter",
-        "url": "https://www.cnet.com/tech/services-and-software/google-io-announcements-that-actually-matter/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1779306420000,
-        "summary": "AI was front and center in nearly every announcement at Google I/O, but some features are more useful than others.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8658
-      },
-      {
-        "id": "443566be6fb6b989",
-        "title": "Google is bringing new AI-powered ad formats to search",
-        "url": "https://www.engadget.com/2178075/google-is-bringing-new-ai-powered-ad-formats-to-search/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1779305975000,
-        "summary": "Finally, the Google I/O announcement you've been waiting for.",
-        "tags": [
-          "ai",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7523
-      },
-      {
-        "id": "81f1a2f87a52334f",
-        "title": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon",
-        "url": "https://www.macrumors.com/2026/05/20/ios-27-ai-voice-control-hints-at-siri-revamp/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1779304858000,
-        "summary": "Every May, Apple previews new accessibility features coming to devices like the iPhone, iPad, and Mac. The announcement typically occurs a few days before Global Accessibility Awareness Day, and it offers a glimpse into what will be included in the next major releases of Apple's software platforms, such as iOS, iPadOS, and macOS. This year, one of the new capabilities shown off by Apple is natural",
-        "tags": [
-          "featured",
-          "ios 27",
-          "accessibility",
-          "apple intelligence",
-          "siri"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.079
-      },
-      {
-        "id": "4501852ff323b393",
-        "title": "Google publishes exploit code threatening millions of Chromium users",
-        "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779304236000,
-        "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
-        "tags": [
-          "biz & it",
-          "security",
-          "chromium",
-          "exploits",
-          "vulnerabilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9803
-      },
-      {
-        "id": "94b6b77ef848c621",
-        "title": "I Spent Months with an AI Companion. It Was Worse than Being Alone",
-        "url": "https://www.reddit.com/r/technology/comments/1tivii0/i_spent_months_with_an_ai_companion_it_was_worse/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779303940000,
-        "summary": "submitted by /u/LongTrackBravo [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9773
-      },
-      {
-        "id": "7f0a16c1fc625fed",
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779303930000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:10"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2846
-      },
-      {
-        "id": "ac162b4dd4e7c02e",
-        "title": "OpenAI may go public as soon as September",
-        "url": "https://www.engadget.com/2178018/openai-may-go-public-as-soon-as-september/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1779303492000,
-        "summary": "OpenAI's potential IPO would come after a jury sided with CEO Sam Altman in a legal battle with Elon Musk.",
-        "tags": [
-          "big tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6983
-      },
-      {
-        "id": "943f9b44e69e24e5",
-        "title": "Lyft driver caught blatantly using Gemini AI (with watermark) to fake damage to his car and charge riders extra for cleaning fees",
-        "url": "https://www.reddit.com/r/technology/comments/1tiuozz/lyft_driver_caught_blatantly_using_gemini_ai_with/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779302275000,
-        "summary": "submitted by /u/IndicaOatmeal [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.01
-      },
-      {
-        "id": "efe14cb590cc9879",
-        "title": "Granta and the Commonwealth Foundation say they can't determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use (The Guardian)",
-        "url": "https://www.techmeme.com/260520/p42#a260520p42",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779301806000,
-        "summary": "The Guardian: Granta and the Commonwealth Foundation say they can't determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use — Granta publisher says ‘perhaps we never will know’ true authorship of work that won Commonwealth prize",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0796
-      },
-      {
-        "id": "ed95282fceaf7fe7",
-        "title": "Minnesota prohibits prediction markets, promptly gets sued by Trump admin",
-        "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-prohibits-prediction-markets-promptly-gets-sued-by-trump-admin/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779301256000,
-        "summary": "State law makes it a felony to create, operate, or advertise prediction markets.",
-        "tags": [
-          "policy",
-          "cftc",
-          "prediction markets"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9648
-      },
-      {
-        "id": "ee16b5c1cd4b4a99",
-        "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-        "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779300844000,
-        "summary": "Airbnb will soon let you book luggage storage and car rental services on its app",
-        "tags": [
-          "apps",
-          "airbnb",
-          "customer support",
-          "hotel bookings"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8034
       }
     ],
     "science": [
+      {
+        "id": "caa293ebc49b8abb",
+        "title": "Who reports wildlife the most? 300,000 citizen science records uncover participation bias",
+        "url": "https://phys.org/news/2026-05-wildlife-citizen-science-uncover-bias.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779336005000,
+        "summary": "In recent years, citizen science methodology has gained significant momentum and is becoming increasingly important in large-scale ecological and conservation research. By involving volunteers, it enables a level of spatial and temporal coverage that would often be unattainable within traditional research frameworks.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0022
+      },
+      {
+        "id": "cc8e28d15e22e190",
+        "title": "Capturing an elusive step in molecular sandwich making",
+        "url": "https://phys.org/news/2026-05-capturing-elusive-molecular-sandwich.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779336003000,
+        "summary": "Since their discovery in the 1950s, metallocenes—chemical compounds where a metal atom sits \"sandwiched\" between two carbon rings—have been at the heart of organometallic chemistry research, finding applications in catalysis, materials design, energy, sensing, drug delivery and more. Yet knowledge of their formation has been limited, due to the transient nature of their unstable intermediates.",
+        "tags": [
+          "analytical chemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0021
+      },
+      {
+        "id": "3bbfd0887f883b13",
+        "title": "Physics-informed convolutional neural networks for fluid flow through porous media",
+        "url": "https://arxiv.org/abs/2605.20250",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20250v1 Announce Type: new Abstract: Accurate simulation of fluid flow in porous media is challenging due to complex pore-space geometries and the computational cost of solving the Navier-Stokes equations. This difficulty is particularly important when repeated simulations are required, as standard numerical solvers may converge slowly in intricate porous domains. We present a neural-ne",
+        "tags": [
+          "cs.lg",
+          "physics.comp-ph",
+          "physics.flu-dyn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "1f1200e6a1f6fb5b",
+        "title": "FusionCell: Cross-Attentive Fusion of Layout Geometry and Netlist Topology for Standard-Cell Performance Prediction",
+        "url": "https://arxiv.org/abs/2605.20287",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20287v1 Announce Type: new Abstract: Standard cells form the building blocks of digital circuits, so their delay and power critically influence chip-level performance; yet characterization still relies on slow simulation sweeps, and many fast predictors ignore layout geometry, missing coupling and layout-dependent effects. The challenge is to jointly represent layout geometry and netlis",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1141
+      },
+      {
+        "id": "4f3c4e4f630229c9",
+        "title": "Attention-Guided Reward for Reinforcement Learning-based Jailbreak against Large Reasoning Models",
+        "url": "https://arxiv.org/abs/2605.19485",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.19485v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) have demonstrated remarkable capabilities in solving complex problems by generating structured, step-by-step reasoning content. However, exposing a model's internal reasoning process introduces additional safety risks; for example, recent studies show that LRMs are more vulnerable to jailbreak attacks than standard LLMs.",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0316
+      },
+      {
+        "id": "71762e18e879a171",
+        "title": "Modality-Decoupled Online Recursive Editing",
+        "url": "https://arxiv.org/abs/2605.20273",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20273v1 Announce Type: new Abstract: Online model editing for multimodal large language models (MLLMs) requires assimilating a stream of corrections under tight compute and memory budgets. Yet editors developed for text-only LLMs often degrade on MLLMs: visually dominant activations skew the statistics that shape updates, causing cross-modal conflict, while sequential writes become enta",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0316
+      },
+      {
+        "id": "ff9e15c6e60d8a1e",
+        "title": "WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning",
+        "url": "https://arxiv.org/abs/2605.20311",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779336000000,
+        "summary": "arXiv:2605.20311v1 Announce Type: new Abstract: Guided-wave structural health monitoring enables damage localization in composite plates using sparse networks of bonded piezoelectric transducers. However, inferring the spatial location of defects from pitch-catch measurements remains weakly constrained when only a limited set of damage locations is available for training. As a result, models train",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0316
+      },
+      {
+        "id": "d4f25a793df69e5e",
+        "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+        "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1779336000000,
+        "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+        "tags": [
+          "startups",
+          "biotech & health",
+          "venture",
+          "biotech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7937
+      },
+      {
+        "id": "a1644d825f64ee5f",
+        "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+        "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1779334965000,
+        "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track of. This is evident […]",
+        "tags": [
+          "ai",
+          "business",
+          "electric cars",
+          "elon musk",
+          "news",
+          "science"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7738
+      },
       {
         "id": "67e4c1d997fd8d89",
         "title": "Colossal Biosciences Is Growing Chickens In a 3D-Printed Artificial Eggshell",
@@ -2941,6 +3072,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0123
+      },
+      {
+        "id": "292177644f66a328",
+        "title": "SpaceX pitches itself as integrated interplanetary proto-monopolist in IPO filing",
+        "url": "https://www.theregister.com/systems/2026/05/21/spacex-pitches-itself-as-integrated-interplanetary-proto-monopolist-in-ipo-filing/5243891",
+        "source": "The Register",
+        "lane": "science",
+        "published_ts": 1779331426000,
+        "summary": "Aims for the stars while burning cash and blowing deadlines on Earth",
+        "tags": [
+          "systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0067
       },
       {
         "id": "d43ba3436166b5b1",
@@ -3695,156 +3841,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0099
-      },
-      {
-        "id": "367dd9ae7437b156",
-        "title": "Cows can recognize familiar human faces and match them to voices",
-        "url": "https://phys.org/news/2026-05-cows-familiar-human-voices.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779300009000,
-        "summary": "Cows show a visual preference for new human faces over a familiar one and can match a known handler's voice to their face, according to a study published in the open-access journal PLOS One by Océane Amichaud of INRAE in Nouzilly, France, and colleagues.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0098
-      },
-      {
-        "id": "df4e75d37664eb98",
-        "title": "Scientists improve knowledge on sea level rise—and confirm it has been accelerating since 1960",
-        "url": "https://phys.org/news/2026-05-scientists-knowledge-sea.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779300007000,
-        "summary": "Sea level rise is a direct consequence of human-induced climate change: global warming. It is relentless and very hard to stop. It arises from human-induced warming and the consequential expansion of the ocean, plus the addition of more and more water from melting glaciers and ice sheets. It will continue long into the future.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0098
-      },
-      {
-        "id": "58ee0aa4e3361906",
-        "title": "Disability compounds employment woes for people with criminal records, and vice versa",
-        "url": "https://phys.org/news/2026-05-disability-compounds-employment-woes-people.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779298810000,
-        "summary": "Justice-impacted individuals with disabilities (JIID) are nearly 11 percentage points less likely to be employed than people with disabilities who have not interacted with the criminal justice system, according to a study out of Cornell's Yang-Tan Institute on Employment and Disability.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
-      },
-      {
-        "id": "58eb3622e43765b0",
-        "title": "Insects in the city: Flowers alone may not be enough to sustain them",
-        "url": "https://phys.org/news/2026-05-insects-city-sustain.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779298804000,
-        "summary": "What renders a city garden attractive to insects such as solitary bees, bumblebees and hoverflies? And how well do they pollinate plants in urban areas? A study by the Federal Research Institute for Forest, Snow and Landscape shows that insects can pollinate plants in the entire city. However, they still require more insect-friendly green spaces. The findings are published in the Journal of Applie",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "beabdc6d89e0e291",
-        "title": "Flying sick: One in three pilots reported working despite illness",
-        "url": "https://phys.org/news/2026-05-flying-sick-illness.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779298077000,
-        "summary": "Many pilots and cabin crew members go to work despite suffering from mental or physical health issues. This is shown in a new doctoral thesis by Filippa Folke at Karolinska Institutet.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0154
-      },
-      {
-        "id": "0ada20a24320c347",
-        "title": "Overturning a 200-year belief: New surface design enables two distinct wetting states on a single substrate",
-        "url": "https://phys.org/news/2026-05-overturning-year-belief-surface-enables.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779297603000,
-        "summary": "NIMS discovered a phenomenon in which droplets on a single solid surface exhibit both a \"sticky\" and \"repellent\" state simultaneously. Namely, the wetting behavior branches into two states. This is a discovery that overturns interface chemistry scientists' belief held for over 200 years that, on a non-textured surface, the wetting state is uniquely determined by solid/liquid combinations. Furtherm",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0128
-      },
-      {
-        "id": "4d9b798b81c7a2c8",
-        "title": "Why millions of Europeans vote one way nationally, and the opposite in Brussels",
-        "url": "https://phys.org/news/2026-05-millions-europeans-vote-nationally-brussels.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779297602000,
-        "summary": "Millions of voters deliberately back one party in national elections and another in European elections to better match their views, according to new research from the University of Surrey. In a study published in Politics and Governance, researchers argue that this behavior is not random and that it is a strategic response when voters feel their usual party does not fully reflect their beliefs.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0128
-      },
-      {
-        "id": "bb9210b692dda726",
-        "title": "New insights into how the human hand evolved from our ape-like ancestors",
-        "url": "https://phys.org/news/2026-05-insights-human-evolved-ape-ancestors.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779297001000,
-        "summary": "The human hand is an evolutionary marvel. While other primates rely on their hands for locomotion and basic grasping, ours can shape tools, manipulate objects, and perform detailed tasks requiring great dexterity and precision. The evolutionary basis of this unique ability has long been debated, but a new anatomical clue to its origin has just been revealed in a paper published in the journal Proc",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0095
-      },
-      {
-        "id": "9d1cdc74647d9589",
-        "title": "How city life changes bird song and why many species do not adapt",
-        "url": "https://phys.org/news/2026-05-city-life-bird-song-species.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779295205000,
-        "summary": "Urbanization is rapidly transforming natural habitats and poses growing challenges for wildlife. One lesser-known consequence is its potential impact on bird song, which plays a crucial role in communication, reproduction, and survival.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "8278301273f78e4c",
-        "title": "Teaching children to be better, more critical internet users",
-        "url": "https://phys.org/news/2026-05-children-critical-internet-users.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779295203000,
-        "summary": "A digital literacy program for elementary school students designed by researchers at McGill University was successful in improving students' ability to evaluate websites and their content.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
       }
     ]
   },
