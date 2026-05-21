@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-21T19:05:56.547096+00:00",
+  "generated_at": "2026-05-21T19:14:46.206663+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d60b84eb805eae11",
+        "title": "Spotify launching a NotebookLM-competitor wasn't on our 2026 bingo card",
+        "url": "https://www.androidpolice.com/spotify-studio-notebook-lm-competitor/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1779390293000,
+        "summary": "Your calendar and emails, but as podcasts",
+        "tags": [
+          "spotify",
+          "entertainment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9968
+      },
       {
         "id": "eea199f80297fd9f",
         "title": "One of Meta’s big legal reckonings just ended in a settlement",
@@ -934,27 +950,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8461
-      },
-      {
-        "id": "1f605fb3242227ff",
-        "title": "The new Flipper One is a pocket-sized Linux computer",
-        "url": "https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1779369515000,
-        "summary": "It's been nearly six years since Flipper Devices introduced the Zero, its popular but controversial wireless hacking multi-tool. The company's latest creation (following a slight departure with a device that lets co-workers know when you're too busy to chat) is the new Flipper One. It's a similarly pocketable electronic multi-tool but also a tiny open […]",
-        "tags": [
-          "gadgets",
-          "linux",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7867
       }
     ],
     "innovation": [
+      {
+        "id": "35769c04bbe54fcb",
+        "title": "Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup",
+        "url": "https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1779390836000,
+        "summary": "Apple Newsroom: Apple Sports — the free app for iPhone that gives fans access to real-time scores, stats, and more — is now available to download on the App Store in more than 170 countries and regions around the world, including more than 90 newly added markets. Designed for speed and simplicity, the app delivers a personalized experience, putting fans’ favorite teams and leagues front and center",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0797
+      },
       {
         "id": "260afc6cc484c04b",
         "title": "US To Award $2 Billion To Quantum Companies, Take Equity Stakes",
@@ -1899,21 +1910,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7438
-      },
-      {
-        "id": "bebb17beee38f904",
-        "title": "AWS parades orgs that took up its offer for Euro Sovereign Cloud",
-        "url": "https://www.theregister.com/paas-and-iaas/2026/05/21/aws-parades-orgs-that-took-up-its-offer-for-euro-sovereign-cloud/5244197",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1779371580000,
-        "summary": "Customers want their data kept and processed strictly within the EU",
-        "tags": [
-          "paas and iaas"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0418
       }
     ],
     "ai": [
@@ -3791,21 +3787,21 @@
         "score": 1.0021
       },
       {
-        "id": "3bbfd0887f883b13",
-        "title": "Physics-informed convolutional neural networks for fluid flow through porous media",
-        "url": "https://arxiv.org/abs/2605.20250",
+        "id": "1f1200e6a1f6fb5b",
+        "title": "FusionCell: Cross-Attentive Fusion of Layout Geometry and Netlist Topology for Standard-Cell Performance Prediction",
+        "url": "https://arxiv.org/abs/2605.20287",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1779336000000,
-        "summary": "arXiv:2605.20250v1 Announce Type: new Abstract: Accurate simulation of fluid flow in porous media is challenging due to complex pore-space geometries and the computational cost of solving the Navier-Stokes equations. This difficulty is particularly important when repeated simulations are required, as standard numerical solvers may converge slowly in intricate porous domains. We present a neural-ne",
+        "summary": "arXiv:2605.20287v1 Announce Type: new Abstract: Standard cells form the building blocks of digital circuits, so their delay and power critically influence chip-level performance; yet characterization still relies on slow simulation sweeps, and many fast predictors ignore layout geometry, missing coupling and layout-dependent effects. The challenge is to jointly represent layout geometry and netlis",
         "tags": [
           "cs.lg",
-          "physics.comp-ph",
-          "physics.flu-dyn"
+          "cs.ai",
+          "cs.cv"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8479
+        "score": 0.8455
       }
     ]
   },
