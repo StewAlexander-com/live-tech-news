@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T19:02:09.822140+00:00",
+  "generated_at": "2026-05-21T19:05:56.547096+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -84,6 +84,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8452
+      },
+      {
+        "id": "d1ad6024e53e866b",
+        "title": "Fitness-Tracking Strava App Upgrades Its Strength Training Feature",
+        "url": "https://www.cnet.com/health/fitness/strava-app-strength-training-feature-overhaul/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1779386040000,
+        "summary": "You can track your runs, rides and lifts all in one place. This is when you can expect the update.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8013
       },
       {
         "id": "0c437b281846cbac",
@@ -939,24 +952,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7867
-      },
-      {
-        "id": "f74595e41a1e5f03",
-        "title": "'A Turtle in a shiny plastic shell': Bizarre $270 Amazon laptop pairs 16GB of RAM with a tech Stone Age CPU — so slow your smartphone's probably faster",
-        "url": "https://www.techradar.com/pro/a-turtle-in-a-shiny-plastic-shell-bizarre-usd270-amazon-laptop-pairs-16gb-of-ram-with-a-tech-stone-age-cpu-so-slow-your-smartphones-probably-faster",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779369386000,
-        "summary": "Desperate times call for desperate measures, but buying an obsolete, unsupported laptop for the upcoming school year is a step too far.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8437
       }
     ],
     "innovation": [
+      {
+        "id": "260afc6cc484c04b",
+        "title": "US To Award $2 Billion To Quantum Companies, Take Equity Stakes",
+        "url": "https://yro.slashdot.org/story/26/05/21/1758205/us-to-award-2-billion-to-quantum-companies-take-equity-stakes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1779390000000,
+        "summary": "An anonymous reader quotes a report from the Quantum Insider: The Trump administration is preparing a new round of industrial policy aimed at quantum computing, with roughly $2 billion in grants expected to go to nine companies developing quantum hardware and related technologies. According to Reuters, citing a Wall Street Journal report, the U.S. Department of Commerce plans to distribute the fun",
+        "tags": [
+          "government"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1318
+      },
       {
         "id": "027eadea63c9de30",
         "title": "I wasted money on the wrong ESP board because nobody explained this upfront",
@@ -1901,26 +1914,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0418
-      },
-      {
-        "id": "1b2335304eb4de9e",
-        "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
-        "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779371167000,
-        "summary": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
-        "tags": [
-          "transportation",
-          "wayve",
-          "stellantis"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7405
       }
     ],
     "ai": [
+      {
+        "id": "5c530b2427051aae",
+        "title": "Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025 (Deepa Seetharaman/Reuters)",
+        "url": "https://www.techmeme.com/260521/p37#a260521p37",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779390302000,
+        "summary": "Deepa Seetharaman / Reuters: Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025 — AI startup Modal raised $355 million in a new round of financing, valuing the company at $4.65 billion, CEO Erik Bernhardsson told Reuters.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0797
+      },
       {
         "id": "0b0b52f502d27029",
         "title": "Gemini’s new token limits are just as bad as Claude’s, and maybe even a little dumber",
@@ -2880,22 +2889,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1314
-      },
-      {
-        "id": "c8b3bb97d0f4d1c4",
-        "title": "I don’t get why everyone’s ignoring Claude’s most useful feature",
-        "url": "https://www.makeuseof.com/i-dont-get-why-everyones-ignoring-claudes-most-useful-feature/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779368417000,
-        "summary": "The fix for every \"ugh, not this again\" moment with Claude",
-        "tags": [
-          "productivity",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8479
       }
     ],
     "science": [
@@ -3798,20 +3791,21 @@
         "score": 1.0021
       },
       {
-        "id": "71762e18e879a171",
-        "title": "Modality-Decoupled Online Recursive Editing",
-        "url": "https://arxiv.org/abs/2605.20273",
+        "id": "3bbfd0887f883b13",
+        "title": "Physics-informed convolutional neural networks for fluid flow through porous media",
+        "url": "https://arxiv.org/abs/2605.20250",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1779336000000,
-        "summary": "arXiv:2605.20273v1 Announce Type: new Abstract: Online model editing for multimodal large language models (MLLMs) requires assimilating a stream of corrections under tight compute and memory budgets. Yet editors developed for text-only LLMs often degrade on MLLMs: visually dominant activations skew the statistics that shape updates, causing cross-modal conflict, while sequential writes become enta",
+        "summary": "arXiv:2605.20250v1 Announce Type: new Abstract: Accurate simulation of fluid flow in porous media is challenging due to complex pore-space geometries and the computational cost of solving the Navier-Stokes equations. This difficulty is particularly important when repeated simulations are required, as standard numerical solvers may converge slowly in intricate porous domains. We present a neural-ne",
         "tags": [
           "cs.lg",
-          "cs.ai"
+          "physics.comp-ph",
+          "physics.flu-dyn"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7861
+        "score": 0.8479
       }
     ]
   },
