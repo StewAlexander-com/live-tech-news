@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T21:38:49.898380+00:00",
+  "generated_at": "2026-05-21T21:48:53.767361+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -455,8 +455,8 @@
         "summary": "Google's annual developer conference kicked off with a keynote Tuesday. We'll be bringing you updates throughout the conference.",
         "tags": [],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7939
+        "impact": "high",
+        "score": 0.8065
       },
       {
         "id": "9a7bf3f556c44c75",
@@ -951,6 +951,35 @@
     ],
     "innovation": [
       {
+        "id": "077b2d4b78efa3ef",
+        "title": "Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis (Rachel Metz/Bloomberg)",
+        "url": "https://www.techmeme.com/260521/p45#a260521p45",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779399901000,
+        "summary": "Rachel Metz / Bloomberg: Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis — Cursor's annualized revenue hit $3 billion in late April, according to a person familiar with the matter, indicating growing demand …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
+        "id": "8e2ba0c4d6a956ab",
+        "title": "The Clicks Communicator is getting a serious battery boost and Android 17 right out of the box",
+        "url": "https://www.androidpolice.com/clicks-communicator-battery-android-17/",
+        "source": "Android Police",
+        "lane": "innovation",
+        "published_ts": 1779399536000,
+        "summary": "Can't wait for Q4",
+        "tags": [
+          "phones",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0766
+      },
+      {
         "id": "0361bab08a2e0cac",
         "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
         "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
@@ -968,6 +997,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7466
+      },
+      {
+        "id": "66af8de8d73f09c2",
+        "title": "Flipper Unveils New Flipper One Modular Linux Cyberdeck: Flipper One hacking multitool offers 5G, Wi-Fi 6E and Linux on ARM",
+        "url": "https://www.reddit.com/r/technology/comments/1tjy3rf/flipper_unveils_new_flipper_one_modular_linux/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1779397970000,
+        "summary": "submitted by /u/InvestigatorSoft5764 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9391
       },
       {
         "id": "c87586778741f126",
@@ -1837,65 +1881,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0782
-      },
-      {
-        "id": "ce9e19144d3e0cf5",
-        "title": "Transforming Lamp Built With LED Filaments",
-        "url": "https://hackaday.com/2026/05/21/transforming-lamp-built-with-led-filaments/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779377459000,
-        "summary": "[Nick Electronics] had an idea to build a stylish lamp that could transform its shape while lit. This goal was achieved beautifully with the aid of many, many filament LEDs. …read more",
-        "tags": [
-          "led hacks",
-          "filament led",
-          "lamp",
-          "led"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0779
-      },
-      {
-        "id": "e671de54029ae344",
-        "title": "The best period drama on Amazon Prime isn't an Amazon show — ITV made all six seasons of it",
-        "url": "https://www.makeuseof.com/best-period-drama-amazon-prime-six-seasons-downton-abbey/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779377420000,
-        "summary": "If you want to sink yourself into a historical fantasy with beautiful costumes and low-stakes plots, you can't do better than Downton Abbey.",
-        "tags": [
-          "streaming",
-          "downton abbey",
-          "prime video",
-          "television"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8482
-      },
-      {
-        "id": "3ad8ef954ecb6f40",
-        "title": "Spotify takes on Google’s NotebookLM with its new app",
-        "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779377220000,
-        "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
-        "tags": [
-          "tc",
-          "ai",
-          "apps",
-          "spotify",
-          "podcasts",
-          "ai generated podcasts"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7456
       }
     ],
     "ai": [
+      {
+        "id": "8caea411b20d229b",
+        "title": "Widespread AI misuse forces higher education to rethink assessment",
+        "url": "https://phys.org/news/2026-05-widespread-ai-misuse-higher-rethink.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1779399606000,
+        "summary": "Large numbers of college students are now using artificial intelligence to complete—and cheat on—their assignments, suggesting that colleges and universities need to change how they are evaluating students, finds new Cornell research. An analysis of survey responses from more than 95,000 students at 20 public research universities in the U.S. finds about one-third regularly used generative AI (Gen",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0985
+      },
       {
         "id": "967cef5b6d49b2be",
         "title": "Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40% (Samantha Subin/CNBC)",
@@ -2838,27 +2841,44 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0776
-      },
-      {
-        "id": "dfd736efa1224ef7",
-        "title": "AI video is moving beyond clip slop",
-        "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779377400000,
-        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated clips of Daniel Craig riding a Vespa […]",
-        "tags": [
-          "ai",
-          "column",
-          "entertainment",
-          "lowpass"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8534
       }
     ],
     "science": [
+      {
+        "id": "01162bf331f3cc0a",
+        "title": "A new light-based sensor could help make ultrasensitive disease testing more portable",
+        "url": "https://phys.org/news/2026-05-based-sensor-ultrasensitive-disease-portable.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779399601000,
+        "summary": "When we think about highly sensitive medical testing, we often imagine a hospital laboratory filled with large instruments, trained technicians, and carefully controlled conditions. This is especially true for optical biosensing, where scientists try to detect extremely small changes caused by biomolecules binding to a sensor surface.",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0985
+      },
+      {
+        "id": "c60ffb7219dc71d1",
+        "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+        "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1779399543000,
+        "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+        "tags": [
+          "tc",
+          "transportation",
+          "antonio gracias",
+          "elon musk",
+          "spacex",
+          "spacex ipo"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7456
+      },
       {
         "id": "72e7dda754e77ef9",
         "title": "Why promising CO₂-to-fuel catalysts keep falling short of copper",
@@ -3751,36 +3771,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0306
-      },
-      {
-        "id": "9d246a0acd1e90be",
-        "title": "New eruption discovered in the Bismarck Sea",
-        "url": "https://phys.org/news/2026-05-eruption-bismarck-sea.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779364801000,
-        "summary": "It's a truism among oceanographers that there is more accurate mapping of the surface of the moon and Mars than of the deep-ocean floor. That's especially true for the Bismarck Sea, a relatively deep body of water north of Papua New Guinea. It's an ocean basin with a geologically complex seafloor rife with faults, volcanic features, rifts, scarps, and active subduction and spreading zones at depth",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0112
-      },
-      {
-        "id": "4ec1094af6609c2b",
-        "title": "The Lancet MedZero: A single platform for carbon data across every product in health care",
-        "url": "https://phys.org/news/2026-05-lancet-medzero-platform-carbon-product.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779363601000,
-        "summary": "If health care were a country, it would be the fifth largest carbon emitter on the planet—between the European Union and the Russian Federation, with CO2 emissions in the sector higher than all of aviation and shipping combined.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
       }
     ]
   },
