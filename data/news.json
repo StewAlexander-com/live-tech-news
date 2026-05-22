@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-22T03:47:00.626278+00:00",
+  "generated_at": "2026-05-22T04:49:49.639675+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2e6ef317fb6cb30a",
+        "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
+        "url": "https://arxiv.org/abs/2605.20577",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20577v1 Announce Type: new Abstract: Riichi Mahjong is a multi-player, imperfect-information game characterized by stochasticity and high-dimensional state spaces. These attributes present a unique combination of challenges that mirror complex real-world decision-making problems in reinforcement learning. While prior research has heavily relied on supervised learning from human play log",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
       {
         "id": "d4fe51795fce068a",
         "title": "AT&T Sues California In Bid To Stop Offering Traditional Phone Service",
@@ -16,6 +32,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0492
+      },
+      {
+        "id": "5c7c164f85f044b5",
+        "title": "The T1 Trump Phone Is the Same Color as Scrooge McDuck's Gold Coins",
+        "url": "https://www.cnet.com/pictures/the-t1-trump-phone-is-the-same-color-as-scrooge-mcducks-gold-coins/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1779419251000,
+        "summary": "The T1 phone has a gold back with two Trump Mobile logos, one of which kind of resembles the American flag.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7935
       },
       {
         "id": "f97609eba7df481d",
@@ -225,6 +254,23 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8067
+      },
+      {
+        "id": "817e58995e9a3ffe",
+        "title": "I created my own Android gestures, and it changed how I use my phone",
+        "url": "https://www.makeuseof.com/android-custom-gesture-macrodroid/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1779400819000,
+        "summary": "My phone finally does what I want with one swipe",
+        "tags": [
+          "android",
+          "gesture control",
+          "android tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7453
       },
       {
         "id": "671021ee4ece2c02",
@@ -902,57 +948,88 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8399
-      },
-      {
-        "id": "5b6b7037611cf8d0",
-        "title": "GitHub faces a fight for its survival at Microsoft",
-        "url": "https://www.theverge.com/tech/935250/microsoft-github-struggles-notepad",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1779379200000,
-        "summary": "When Microsoft announced it was acquiring GitHub in a $7.5 billion deal in 2018, developers were nervous. Some were concerned about Microsoft controlling GitHub, and others were taking a wait-and-see approach. Nearly eight years later, GitHub is now fighting for its survival, amid a surge of outages, security issues, and pressure from competitors. In the […]",
-        "tags": [
-          "microsoft",
-          "notepad",
-          "security",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7826
-      },
-      {
-        "id": "241f4ac33f7eb53b",
-        "title": "Spotify Offers Advance Concert Tickets to Premium Users",
-        "url": "https://www.cnet.com/tech/services-and-software/spotify-offers-advance-concert-tickets-to-premium-users/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1779378840000,
-        "summary": "Paying users will get two tickets reserved for them as well as a host of other upgrades.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8056
-      },
-      {
-        "id": "cda532576f1b9ba6",
-        "title": "Spotify is going to reserve concert tickets for ‘real fans’",
-        "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1779378463000,
-        "summary": "As part of a new \"Reserved\" program, Spotify is going to start offering concert tickets for \"real fans\" of participating bands that are going on tour. The idea with the Reserved program is to give people an option to buy tickets without the hassle and stress that often comes with securing a spot for a […]",
-        "tags": [
-          "entertainment",
-          "news",
-          "spotify"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7904
       }
     ],
     "innovation": [
+      {
+        "id": "7082a1b1b0663b0c",
+        "title": "Alike Parts: A Feature-Informed Approach to Local and Global Prototype Explanations",
+        "url": "https://arxiv.org/abs/2605.21646",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21646v1 Announce Type: new Abstract: Prototype-based explanations offer an intuitive, example-based approach to support the interpretability of machine learning black box classifiers but often lack feature-level granularity. We introduce a framework that integrates feature importance at two levels to address this gap. First, for local explanations, we propose \\textit{alike parts}: a met",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "57767f69ead2e8f1",
+        "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+        "url": "https://arxiv.org/abs/2605.20189",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20189v1 Announce Type: new Abstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-world settings with primary challenges being concept drift and the high cost of gradient-based adaptation. Traditional fine-tuning (FT) struggles to adapt to non-stationary data streams without resulting in catastrophic for get",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
+      {
+        "id": "9f9fc2cd303a6a47",
+        "title": "PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models",
+        "url": "https://arxiv.org/abs/2605.20873",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20873v1 Announce Type: new Abstract: Planning is a fundamental capability for large language models (LLMs) because such complex tasks require models to coordinate goals, constraints, resources, and long-term consequences into executable and verifiable solutions. Existing planning benchmarks, however, usually treat planning data as fixed collections of instances rather than controllable ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
+      {
+        "id": "10f46512bfac9cf8",
+        "title": "ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving",
+        "url": "https://arxiv.org/abs/2605.21168",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21168v1 Announce Type: new Abstract: Safety-critical scenarios are central to evaluating autonomous driving systems, yet their rarity in naturalistic logs makes simulation-based stress testing indispensable. Most scenario generation methods treat surrounding agents as adversaries, but they either (i) induce failures without explicitly modeling vehicle-road physical limits, yielding visu",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
+      {
+        "id": "ea4c41e94040ced5",
+        "title": "Mind the Sim-to-Real Gap & Think Like a Scientist",
+        "url": "https://arxiv.org/abs/2605.21458",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21458v1 Announce Type: new Abstract: Suppose a planner has a pre-trained simulator of a sequential decision problem and the option to run real experiments in the field. The simulator is cheap to query but inherits confounding and drift from its calibration data. Experimentation is unbiased but consumes one real unit per trial. We study when, and how, the planner should supplement the si",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "stat.me"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
       {
         "id": "0afb45123ecdf706",
         "title": "Socket: TeamPCP, the gang claiming GitHub's repositories breach, also executed 20 \"waves\" of supply chain attacks recently, compromising 500+ pieces of software (Wired)",
@@ -1800,93 +1877,225 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8807
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "0aa52265fbac9f9b",
-        "title": "Waymo Pauses Atlanta Service As Its Robotaxis Keep Driving Into Floods",
-        "url": "https://tech.slashdot.org/story/26/05/21/170236/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1779382920000,
-        "summary": "Waymo has paused service in Atlanta after one of its driverless cars entered a flooded street and got stuck. It follows a similar pause in San Antonio that prompted a recent software recall (PDF) over flood avoidance. TechCrunch reports: Waymo admitted that it hadn't finished developing a \"final remedy\" for avoiding flooded areas when it issued its software recall last week. Instead, the company s",
-        "tags": [
-          "transportation",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "8308d21a23a18abe",
-        "title": "Apple plans to broadcast an MLS game on Saturday shot entirely on 15 iPhone 17 Pros, the first major live sports event to be captured using only smartphones (Todd Spangler/Variety)",
-        "url": "https://www.techmeme.com/260521/p32#a260521p32",
+        "id": "24a09f8b16015bd2",
+        "title": "Sources: last-minute calls with Elon Musk, Mark Zuckerberg, David Sacks, and others helped persuade President Trump not to sign the highly anticipated AI EO (Washington Post)",
+        "url": "https://www.techmeme.com/260522/p1#a260522p1",
         "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779382848000,
-        "summary": "Todd Spangler / Variety: Apple plans to broadcast an MLS game on Saturday shot entirely on 15 iPhone 17 Pros, the first major live sports event to be captured using only smartphones — Apple has frequently touted the use of professional-grade iPhones by filmmakers to make shorts, commercials and even feature-length movies.",
+        "lane": "ai",
+        "published_ts": 1779425104000,
+        "summary": "Washington Post: Sources: last-minute calls with Elon Musk, Mark Zuckerberg, David Sacks, and others helped persuade President Trump not to sign the highly anticipated AI EO — Industry leaders warned in last-minute calls to the president that the proposed safety vetting system could inhibit development of the pivotal technology.",
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9985
+        "score": 1.0784
       },
       {
-        "id": "321d1dbac7f1f112",
-        "title": "The internet's creepiest radio mystery is live on shortwave, and you can hear it for yourself",
-        "url": "https://www.makeuseof.com/internets-creepiest-radio-mystery-is-live-on-shortwave/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779382818000,
-        "summary": "I went looking for radio broadcasts with online radios and stumbled upon some truly weird stuff with interesting history.",
+        "id": "65eb2ea63e83128f",
+        "title": "High Quality Embeddings for Horn Logic Reasoning",
+        "url": "https://arxiv.org/abs/2605.20467",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20467v1 Announce Type: new Abstract: Neural networks can be trained to rank the choices made by logical reasoners, resulting in more efficient searches for answers. A key step in this process is creating useful embeddings, i.e., numeric representations of logical statements. This paper introduces and evaluates several approaches to creating embeddings that result in better downstream re",
         "tags": [
-          "technology explained",
-          "internet radio",
-          "browser",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "1d20bff1f203c913",
+        "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+        "url": "https://arxiv.org/abs/2605.20520",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20520v1 Announce Type: new Abstract: Benchmark-based evaluation remains important for tracking frontier AI progress. But it can both overstate and understate deployed capability because it privileges tasks that can be precisely specified, automatically graded, easy to optimize for, and run with low budgets and short time horizons. We advocate for a complementary class of evaluations, wh",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "ce648b3aafc2bc53",
+        "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
+        "url": "https://arxiv.org/abs/2605.20554",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20554v1 Announce Type: new Abstract: According to canonical negotiation theory, people's success in a negotiation depends on how well they balance competing demands--empathizing and asserting, demonstrating concern for other and concern for self, being soft on the people and hard on the problem. Yet people struggle to manage these tensions, so researchers have lacked the ability to rigo",
+        "tags": [
+          "cs.ai",
+          "cs.hc",
+          "cs.si"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "084bc51799ddc8f3",
+        "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+        "url": "https://arxiv.org/abs/2605.20630",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20630v1 Announce Type: new Abstract: Industrial asset operations workflows are latency-sensitive because a single user query may require coordination over sensor data, work orders, failure modes, forecasting tools, and domain-specific agents. We evaluate this problem on AssetOpsBench (AOB), an industrial agent benchmark whose plan-execute pipeline exposes repeated overhead from tool dis",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "ce5658f7388b0b75",
+        "title": "VBFDD-Agent for Electric Vehicle Battery Fault Detection and Diagnosis: Descriptive Text Modeling of Battery Digital Signals",
+        "url": "https://arxiv.org/abs/2605.20742",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20742v1 Announce Type: new Abstract: With the rapid proliferation of electric vehicles, the safety and reliability of lithium-ion batteries have become critical concerns. Effective anomaly detection is essential for ensuring safe battery operation. However, as battery systems and operating scenarios become increasingly complex, battery fault diagnosis and maintenance require stronger cr",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "94dcc58c819aeb23",
+        "title": "Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G",
+        "url": "https://arxiv.org/abs/2605.21395",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21395v1 Announce Type: new Abstract: The proliferation of emerging applications, such as autonomous driving and immersive experiences, demands cellular networks that are not only faster, but fundamentally more resilient and autonomous. This paper presents a BlueSky vision on how Artificial Intelligence will be natively integrated into 6G, shifting the paradigm from \\underline{Network fo",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "8ded4c3f6238ac17",
+        "title": "Teaching Language Models to Forecast Research Success Through Comparative Idea Evaluation",
+        "url": "https://arxiv.org/abs/2605.21491",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21491v1 Announce Type: new Abstract: As language models accelerate scientific research by automating hypothesis generation and implementation, a new bottleneck emerges: evaluating and filtering hundreds of AI-generated ideas without exhaustive experimentation. We ask whether LMs can learn to forecast the empirical success of research ideas before any experiments are run. We study compar",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "5910be15e99f487b",
+        "title": "Don't Collapse Your Features: Why CenterLoss Hurts OOD Detection and Multi-Scale Mahalanobis Wins",
+        "url": "https://arxiv.org/abs/2605.21493",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21493v1 Announce Type: new Abstract: The ability to detect out-of-distribution (OOD) inputs is fundamental to safe deployment of machine learning systems. Yet, current methods often rely on feature representations that are optimised solely for classification accuracy, neglecting the distinct requirements of epistemic uncertainty. We introduce GOEN (Geometry-Optimised Epistemic Network),",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "6b4a5203b493139c",
+        "title": "A Reproducible Log-Driven AutoML Framework for Interpretable Pipeline Optimization in Healthcare Risk Prediction",
+        "url": "https://arxiv.org/abs/2605.21528",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21528v1 Announce Type: new Abstract: Accurate and reproducible disease risk prediction remains challenging due to heterogeneous features, limited samples, and severe class imbalance. This study introduces yvsoucom-iterkit, a deterministic and log-driven automated machine learning framework that formulates pipeline optimization as a fully reproducible, configuration-level system. Each pi",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "d646e16a26f63e86",
+        "title": "Discovering Entity-Conditioned Lag Heterogeneity: A Lag-Gated Neural Audit Framework for Panel Time Series",
+        "url": "https://arxiv.org/abs/2605.21542",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21542v1 Announce Type: new Abstract: Country-level temporal panels are widely used in empirical analysis. Researchers often need to audit how different entities respond to historical signals over different time horizons. Current approaches typically do not provide directly auditable entity-specific lag summaries. We formulate entity-conditioned heterogeneous lag discovery as a temporal ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "41c969404e26e876",
+        "title": "AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2605.21560",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21560v1 Announce Type: new Abstract: Deploying neural networks on microcontroller units (MCUs) is critical for edge intelligence but remains challenging due to tight memory, storage, and computation constraints. Existing approaches, such as model compression and hardware-aware neural architecture search (HW-NAS), often depend on proxy metrics, incur high search cost, and do not fully br",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "31159accdecd9059",
+        "title": "Calibration, Uncertainty Communication, and Deployment Readiness in CKD Risk Prediction: A Framework Evaluation Study",
+        "url": "https://arxiv.org/abs/2605.21566",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21566v1 Announce Type: new Abstract: Machine learning models for chronic kidney disease (CKD) risk prediction often post strong discrimination scores on internal test sets. Calibration and uncertainty quantification get far less attention, leaving clinicians without reliable information about whether the probability outputs are accurate. We trained five classifiers on the UCI CKD datase",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.116
+      },
+      {
+        "id": "b39131eb62ca852e",
+        "title": "Why new grads are booing commencement speakers: There's an 'ambient anxiety that AI is going to make things dramatically worse'",
+        "url": "https://www.reddit.com/r/technology/comments/1tk720e/why_new_grads_are_booing_commencement_speakers/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779420691000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+        "tags": [
           "technology"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8486
+        "score": 1.0005
       },
-      {
-        "id": "ccacc99b38e0e59a",
-        "title": "Tech in Plain Sight: The Mechanics of String Trimmers",
-        "url": "https://hackaday.com/2026/05/21/tech-in-plain-sight-the-mechanics-of-string-trimmers/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779382800000,
-        "summary": "My old friend Jeff was always vocally upset that he didn’t come up with the idea of a string trimmer, commonly known as a Weed Eater or Weed Whacker. On …read more",
-        "tags": [
-          "engineering",
-          "hackaday columns",
-          "string trimmer",
-          "weed eater"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0781
-      },
-      {
-        "id": "96a8d531cd7bde1e",
-        "title": "Uber is deploying its own self-driving cars again, just not as robotaxis",
-        "url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1779382785000,
-        "summary": "Uber is putting its own autonomous vehicles back on the road as part of its new AV Lab project to collect data for its dozens of robotaxi partners. The cars will be fitted with all the sensors typical of self-driving cars, like cameras, lidar, and radar. But notably the vehicles will not be operating as […]",
-        "tags": [
-          "autonomous cars",
-          "news",
-          "ride-sharing",
-          "transportation",
-          "uber"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7905
-      }
-    ],
-    "ai": [
       {
         "id": "3706856051120508",
         "title": "Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI — actual intelligence'",
@@ -2615,229 +2824,74 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1217
-      },
-      {
-        "id": "5c530b2427051aae",
-        "title": "Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025 (Deepa Seetharaman/Reuters)",
-        "url": "https://www.techmeme.com/260521/p37#a260521p37",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779390302000,
-        "summary": "Deepa Seetharaman / Reuters: Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025 — AI startup Modal raised $355 million in a new round of financing, valuing the company at $4.65 billion, CEO Erik Bernhardsson told Reuters.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0797
-      },
-      {
-        "id": "0b0b52f502d27029",
-        "title": "Gemini’s new token limits are just as bad as Claude’s, and maybe even a little dumber",
-        "url": "https://www.makeuseof.com/geminis-new-token-limits-are-just-as-bad-as-claudes-and-maybe-even-a-little-dumber/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779390051000,
-        "summary": "New usage limits has the internet in an uproar.",
-        "tags": [
-          "productivity",
-          "google",
-          "google gemini"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8496
-      },
-      {
-        "id": "bee4134bb1668b35",
-        "title": "Gavin Newsom signs an EO mandating state agencies work with the AI industry and others to study subsidies for companies that don't replace workers with AI (Cecilia Kang/New York Times)",
-        "url": "https://www.techmeme.com/260521/p36#a260521p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779390036000,
-        "summary": "Cecilia Kang / New York Times: Gavin Newsom signs an EO mandating state agencies work with the AI industry and others to study subsidies for companies that don't replace workers with AI — Gov. Gavin Newsom issued an executive order to explore an overhaul of labor policies to deal with potential mass job displacement from artificial intelligence.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
-      },
-      {
-        "id": "688d5918de540863",
-        "title": "Sources: OpenAI generated ~$5.7B in revenue in Q1, ~$1B more than Anthropic; its adjusted operating income margin was -122%, and ChatGPT user growth stalled (Sri Muppidi/The Information)",
-        "url": "https://www.techmeme.com/260521/p35#a260521p35",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779388802000,
-        "summary": "Sri Muppidi / The Information: Sources: OpenAI generated ~$5.7B in revenue in Q1, ~$1B more than Anthropic; its adjusted operating income margin was -122%, and ChatGPT user growth stalled — OpenAI generated about $5.7 billion in revenue in the first quarter, nearly $1 billion more than archrival Anthropic generated in the same period …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9558
-      },
-      {
-        "id": "f48f078e5137f842",
-        "title": "Dell launches record-shattering server with 9.8PB of flash storage in just 2U — paving the way for massive $75 million 200PB+ AI data center racks",
-        "url": "https://www.techradar.com/pro/dell-launches-record-shattering-server-with-9-8pb-of-flash-storage-in-just-2u-paving-the-way-for-massive-usd75-million-200pb-ai-data-center-racks",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779388800000,
-        "summary": "Dell and KIOXIA unveiled a 9.8PB flash server targeting hyperscale AI workloads with extreme density and lower power consumption.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9115
-      },
-      {
-        "id": "dd376eaa315646ab",
-        "title": "Zillow loses thousands of listings in fight over “hidden” homes",
-        "url": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779388538000,
-        "summary": "Zillow asked for a preliminary injunction as real estate industry fight heats up.",
-        "tags": [
-          "policy",
-          "chicago",
-          "real estate",
-          "us housing",
-          "zillow"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9915
-      },
-      {
-        "id": "7859503acbf21bbc",
-        "title": "AI can design cities, but can it understand what matters to people? 10 ways to keep humans in control",
-        "url": "https://phys.org/news/2026-05-ai-cities-people-ways-humans.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1779385203000,
-        "summary": "Generative AI (GenAI) is a type of artificial intelligence that creates new content—like text, images, or ideas—by learning patterns from existing data. GenAI, particularly through large language models (LLMs) such as ChatGPT and DeepSeek, is rapidly becoming part of everyday urban design research and practice.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0986
-      },
-      {
-        "id": "74c8a9e0cf7a8956",
-        "title": "Spotify is adding more AI gunk for podcasts and audiobooks",
-        "url": "https://www.engadget.com/2178788/spotify-is-adding-more-ai-gunk-for-podcasts-and-audiobooks/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1779384919000,
-        "summary": "Spotify podcasts are getting the personalized AI slop treatment.",
-        "tags": [
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7571
-      },
-      {
-        "id": "6b6ff5f4e431ad0c",
-        "title": "AI is getting expensive, but relief is on the way - just not for you",
-        "url": "https://www.theregister.com/ai-ml/2026/05/21/ai-is-getting-pricey-but-relief-is-coming-but-not-for-you/5244358",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1779384911000,
-        "summary": "New hardware promises greater efficiency, user experiences, and most importantly larger margins",
-        "tags": [
-          "ai + ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1028
-      },
-      {
-        "id": "771951a230145df3",
-        "title": "Deus ex machina: Half of US Christians trust AI's spiritual advice",
-        "url": "https://www.reddit.com/r/technology/comments/1tjrr8g/deus_ex_machina_half_of_us_christians_trust_ais/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779384821000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0116
-      },
-      {
-        "id": "a4258600a137c243",
-        "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-        "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779384645000,
-        "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-        "tags": [
-          "ai",
-          "government & policy",
-          "ai executive order",
-          "trump"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7355
-      },
-      {
-        "id": "d72dff5510a7f812",
-        "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
-        "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779384645000,
-        "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-        "tags": [
-          "ai",
-          "government & policy",
-          "ai executive order",
-          "trump"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8071
-      },
-      {
-        "id": "e5eb0bfa891584f4",
-        "title": "I thought NotebookLM was enough — then I tried Claude Projects.",
-        "url": "https://www.makeuseof.com/i-thought-notebooklm-was-enough-then-i-tried-claude-projects/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779384617000,
-        "summary": "The instructions field alone changed how I work with uploaded documents and get better responses.",
-        "tags": [
-          "productivity",
-          "notebooklm",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
-      },
-      {
-        "id": "944429625b7ed991",
-        "title": "HHS launches AI initiative to detect fraud and waste in federal health programmes",
-        "url": "https://thenextweb.com/news/hhs-ai-fraud-detection-federal-health-programs",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779384587000,
-        "summary": "The Department of Health and Human Services is moving from “pay and chase” to real-time AI screening across Medicare, Medicaid, CHIP and the Marketplace. The US Department of Health and Human Services has launched an artificial intelligence initiative aimed at detecting fraud and waste across federal health programmes, building on a strategy first outlined in […] This story continues at The Next W",
-        "tags": [
-          "united states",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9572
       }
     ],
     "science": [
+      {
+        "id": "80ecd23b67233814",
+        "title": "SpaceX not the behemoth everyone thought",
+        "url": "https://www.axios.com/2026/05/21/spacex-ipo-musk-ai",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1779422616000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:25",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0345
+      },
+      {
+        "id": "be99517c29dee27b",
+        "title": "Seagrass found to produce new genetic individuals rather than clone itself, offering hope for 'underwater meadows'",
+        "url": "https://phys.org/news/2026-05-seagrass-genetic-individuals-clone-underwater.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779422401000,
+        "summary": "In many underwater ecosystems, seagrass meadows act as a food source, a safe haven, and an ecological lynchpin. But until now, very little was known about how these plants reproduce—critical information for conserving the meadows.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0038
+      },
+      {
+        "id": "8b101568a7878ba8",
+        "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
+        "url": "https://arxiv.org/abs/2605.20834",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.20834v1 Announce Type: new Abstract: Direct Preference Optimization (DPO) has emerged as a popular alternative to Reinforcement Learning from Human Feedback (RLHF), offering theoretical equivalence with simpler implementation. We prove this equivalence is conditional rather than universal, depending on an implicit assumption frequently violated in practice: the RLHF-optimal policy must ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
+      {
+        "id": "ee8c03ce4bde5c84",
+        "title": "Playing Devil's Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
+        "url": "https://arxiv.org/abs/2605.21006",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779422400000,
+        "summary": "arXiv:2605.21006v1 Announce Type: new Abstract: We study the effect of different persona on \\textbf{sycophancy}: model's agreement with users even when the user is incorrect. The standard mitigation, Contrastive Activation Addition (CAA), derives a steering direction from labelled pairs of sycophantic and honest responses. This study evaluates whether off-the-shelf persona steering vectors, origin",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
+      },
       {
         "id": "ae73db82c7fd0783",
         "title": "'Seed Transfer Zones' could help restore vast areas of degraded land in Brazil",
@@ -3706,66 +3760,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.019
-      },
-      {
-        "id": "9d4e41ad2b8dada0",
-        "title": "Women experience extreme heat differently to men, and they're adapting to it in creative ways",
-        "url": "https://phys.org/news/2026-05-women-extreme-differently-men-theyre.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779378008000,
-        "summary": "Right now, an unusual April and May heat wave is scorching large parts of India.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
-      },
-      {
-        "id": "4bd31155c47b2da1",
-        "title": "Flint reveals changes in human mobility in the southern Pyrenees during the Upper Paleolithic",
-        "url": "https://phys.org/news/2026-05-flint-reveals-human-mobility-southern.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779378004000,
-        "summary": "Analysis of more than 3,000 lithic artifacts from the Cova Gran de Santa Linya site (Les Avellanes-Santa Linya, Lleida) shows that anatomically modern human communities occupying the southern Pyrenees during the Upper Paleolithic used flint (chert) exclusively for tool production. The findings, published in the journal Quaternary International, indicate that raw-material selection was closely link",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0967
-      },
-      {
-        "id": "e2124ba6729b7cbd",
-        "title": "Rare 567‑million‑year‑old fossils refine our understanding of early animal evolution",
-        "url": "https://phys.org/news/2026-05-rare-567millionyearold-fossils-refine-early.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779376803000,
-        "summary": "From butterflies to blue whales, corals and worms, Earth is home to an incredible diversity of animals. How all of these animals evolved from earlier, simpler ancestors is one of the most exciting stories in the history book of life on our 4.5 billion-year-old planet.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0145
-      },
-      {
-        "id": "af8fae39dd5f0f4a",
-        "title": "Saturn-sized exoplanet with Earth-like temperature reveals methane-rich atmosphere",
-        "url": "https://phys.org/news/2026-05-saturn-sized-exoplanet-earth-temperature.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779376801000,
-        "summary": "A planet that is about the size of Saturn, but with a temperature more like Earth's, has an atmosphere rich in methane, according to a new study using NASA's James Webb Space Telescope (JWST).",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0144
       }
     ]
   },
