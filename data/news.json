@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-22T18:22:43.691593+00:00",
+  "generated_at": "2026-05-22T18:55:53.408753+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "a0dab8b43ed4adb7",
+        "title": "'You have no way to revoke it faster or confirm when it stops working': Experts find Google API keys are still usable, even after you delete them",
+        "url": "https://www.techradar.com/pro/security/you-have-no-way-to-revoke-it-faster-or-confirm-when-it-stops-working-experts-find-google-api-keys-are-still-usable-even-after-you-delete-them",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779474900000,
+        "summary": "For more than 20 minutes after deletion, some Google API keys can still be used, apparently creating a major security gap.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8443
+      },
       {
         "id": "15aaa0b8d29c45f1",
         "title": "LILYGO T-Deck MAX is an upgraded mobile dev kit with an E Ink screen, QWERTY keyboard and 4G LTE",
@@ -54,6 +70,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9922
+      },
+      {
+        "id": "09356360d98d7d47",
+        "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+        "url": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+        "source": "Ars Technica",
+        "lane": "gadgets",
+        "published_ts": 1779472083000,
+        "summary": "Two additional marketing companies will also pay $25,000 each.",
+        "tags": [
+          "policy",
+          "tech",
+          "ads",
+          "ftc",
+          "voice assistant"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9295
       },
       {
         "id": "0d4bbb57a497d655",
@@ -962,42 +997,60 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8242
-      },
-      {
-        "id": "62e21e47d6e3f45e",
-        "title": "Mysterious: The Sonos app for iPhone and iPad has disappeared from the App Store (but Android phone users are safe for now)",
-        "url": "https://www.techradar.com/audio/multi-room/mysterious-the-sonos-app-for-iphone-and-ipad-has-disappeared-from-the-app-store-but-android-phone-users-are-safe-for-now",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779452614000,
-        "summary": "I hope you didn't just buy a new product you're eager to set up…",
-        "tags": [
-          "multi-room",
-          "soundbars",
-          "audio",
-          "hi-fi",
-          "wireless &amp; bluetooth speakers",
-          "televisions"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8378
-      },
-      {
-        "id": "3bfa7a3c4852a7a9",
-        "title": "YouTube TV vs. DirecTV vs. Hulu Live and More: Which Has the Most Must-Have Channels Out of 100?",
-        "url": "https://www.cnet.com/tech/services-and-software/youtubetv-directv-hulu-live-tv-top-100-channels/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1779452175000,
-        "summary": "A comparison of channels on services including YouTube TV, Sling, Fubo and more.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7747
       }
     ],
     "innovation": [
+      {
+        "id": "f6d2390bea4ad28e",
+        "title": "Injection Molding Your Own Rubik’s Cubes Takes Work",
+        "url": "https://hackaday.com/2026/05/22/injection-molding-your-own-rubiks-cubes-takes-work/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1779474627000,
+        "summary": "If you just want to play with a Rubik’s Cube, you can simply buy one from a local toy store. If you want to build one, you could 3D print …read more",
+        "tags": [
+          "toy hacks",
+          "abs",
+          "injection molding",
+          "rubiks cube"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0712
+      },
+      {
+        "id": "4aa90c3a1e77691b",
+        "title": "I switched from a browser adblocker to a DNS sinkhole — the difference was immediate",
+        "url": "https://www.makeuseof.com/switched-browser-adblocker-to-dns-sinkhole-difference-immediate/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779474618000,
+        "summary": "I should’ve switched sooner.",
+        "tags": [
+          "networking",
+          "home network",
+          "network tips",
+          "dns"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.843
+      },
+      {
+        "id": "5bb7ce97df785187",
+        "title": "“Honestly? We’re genuinely terrified” — Flipper Zero creators reveal massive new Flipper One swiss-army knife PC and ask community for help",
+        "url": "https://www.techradar.com/pro/honestly-were-genuinely-terrified-flipper-zero-creators-reveal-massive-new-flipper-one-swiss-army-knife-pc-and-ask-community-for-help",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1779474300000,
+        "summary": "The Flipper One is much more than just an incremental upgrade to the Flipper Zero, offering a Linux kernel, a fully open source platform, and greater modularity than its predecessor.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8416
+      },
       {
         "id": "a4889a8109ba089e",
         "title": "Rediscovering science: New knowledge hidden in old data",
@@ -1042,6 +1095,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8465
+      },
+      {
+        "id": "c3fe4449f848e74e",
+        "title": "Ultrasound destroys cancer without scalpels",
+        "url": "https://www.reddit.com/r/technology/comments/1tkqajs/ultrasound_destroys_cancer_without_scalpels/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1779471972000,
+        "summary": "submitted by /u/_Dark_Wing [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.929
       },
       {
         "id": "ccf7ca6326c8d3f2",
@@ -1899,72 +1967,84 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8887
-      },
-      {
-        "id": "e44cc01a3bd1b76b",
-        "title": "Italian police seize a piracy app that streamed Sky, DAZN, and Netflix through hijacked real accounts",
-        "url": "https://thenextweb.com/news/italy-cinemagoal-piracy-bust-gdf-ravenna",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1779444574000,
-        "summary": "Operazione Tutto Chiaro hit more than 100 sites across Italy, France, and Germany, targeting a system that rebroadcast legitimate subscription codes every three minutes. Italy’s Guardia di Finanza said on Friday it had dismantled an audiovisual piracy operation that streamed paid content from Sky, DAZN, Netflix, Disney+, and Spotify to thousands of subscribers using an app called […] This story co",
-        "tags": [
-          "europe",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8818
-      },
-      {
-        "id": "d1b58191fe3d9b12",
-        "title": "US and Canadian authorities arrest 23-year-old Jacob Butler, known online as \"Dort\", for allegedly operating the Kimwolf DDoS botnet, which infected ~2M devices (Sergiu Gatlan/BleepingComputer)",
-        "url": "https://www.techmeme.com/260522/p9#a260522p9",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779444300000,
-        "summary": "Sergiu Gatlan / BleepingComputer: US and Canadian authorities arrest 23-year-old Jacob Butler, known online as “Dort”, for allegedly operating the Kimwolf DDoS botnet, which infected ~2M devices — U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9997
-      },
-      {
-        "id": "7ced980f70976bb2",
-        "title": "Flatpak is the best thing about Linux for one reason",
-        "url": "https://www.makeuseof.com/flatpak-is-the-best-thing-about-linux-for-one-reason/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779444029000,
-        "summary": "Universal compatibility rules.",
-        "tags": [
-          "linux",
-          "linux apps"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8485
-      },
-      {
-        "id": "57c747ef95834bea",
-        "title": "CFTC NHL agreement expands oversight protecting hockey prediction markets",
-        "url": "https://readwrite.com/cftc-nhl-agreement-prediction-market-oversight/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1779443853000,
-        "summary": "The Commodity Futures Trading Commission (CFTC) and the National Hockey League have signed a memorandum of understanding designed to tighten… Continue reading CFTC NHL agreement expands oversight protecting hockey prediction markets The post CFTC NHL agreement expands oversight protecting hockey prediction markets appeared first on ReadWrite.",
-        "tags": [
-          "prediction markets",
-          "commodity futures trading commission",
-          "nhl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8976
       }
     ],
     "ai": [
+      {
+        "id": "d5c6ade842da292f",
+        "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+        "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1779475434000,
+        "summary": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
+        "tags": [
+          "policy",
+          "security",
+          "first vpn",
+          "ransomware",
+          "vpn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9962
+      },
+      {
+        "id": "03ade12b439f06fc",
+        "title": "Review: The Mandalorian and Grogu is ... fine",
+        "url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1779474606000,
+        "summary": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
+        "tags": [
+          "culture",
+          "entertainment",
+          "film reviews",
+          "lucasfilms",
+          "reviews",
+          "star wars"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9918
+      },
+      {
+        "id": "c7a5b2a1218ce5de",
+        "title": "Open source Kanban desktop app that runs parallel agents on every card",
+        "url": "https://www.kanbots.dev/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779473877000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:20"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0373
+      },
+      {
+        "id": "e6e85d894709495e",
+        "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+        "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1779473585000,
+        "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+        "tags": [
+          "biz & it",
+          "policy",
+          "security",
+          "cryptography",
+          "encryption",
+          "meta"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9864
+      },
       {
         "id": "a1294a1ab588231a",
         "title": "This Cannes Film Cost $500,000 to Make. $400,000 Was AI Compute Costs.",
@@ -2107,6 +2187,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8509
+      },
+      {
+        "id": "ebf281b3e480df68",
+        "title": "They created AI nudes that got millions of views online. Now they're being charged with crimes",
+        "url": "https://www.reddit.com/r/technology/comments/1tkpc0c/they_created_ai_nudes_that_got_millions_of_views/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779469991000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9927
       },
       {
         "id": "37cee4aa1fe1f33a",
@@ -2852,91 +2947,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9135
-      },
-      {
-        "id": "a53aa2ccb684a0dc",
-        "title": "What do the Commonwealth Writers Prize AI allegations mean for prizes—and short stories?",
-        "url": "https://phys.org/news/2026-05-commonwealth-writers-prize-ai-allegations.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1779450005000,
-        "summary": "Another day, another literary scandal involving AI. It has been alleged that the judges of the Commonwealth Short Story Prize have been duped by an author using AI in his winning entry. Jamir Nazir's The Serpent in the Grove, which won for the Caribbean region, was then published in leading literary magazine Granta, along with other winning entries.",
-        "tags": [
-          "other"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0945
-      },
-      {
-        "id": "d4fd8a363dbba745",
-        "title": "Could your CEO be the weakest link when it comes to AI security? New study warns execs are 'knowingly bypassing safeguards because the perceived benefits outweigh the risks'",
-        "url": "https://www.techradar.com/pro/security/could-your-ceo-be-the-weakest-link-when-it-comes-to-ai-security-new-study-warns-execs-are-knowingly-bypassing-safeguards-because-the-perceived-benefits-outweigh-the-risks",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779449700000,
-        "summary": "New research finds 62% of senior leaders use unapproved shadow AI (but only 31% of other workers), prioritizing productivity over compliance.",
-        "tags": [
-          "security",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9106
-      },
-      {
-        "id": "db0ca18c514c44bf",
-        "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
-        "url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779449438000,
-        "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
-        "tags": [
-          "health",
-          "ama",
-          "preventive care",
-          "rfk jr",
-          "robert f kennedy jr",
-          "uspstf"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9885
-      },
-      {
-        "id": "f950fd6aff270cf6",
-        "title": "OpenAI's Codex Can Now Use Your Mac Even When It's Locked",
-        "url": "https://www.macrumors.com/2026/05/22/codex-use-mac-apps-when-locked/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1779449298000,
-        "summary": "OpenAI has rolled out Computer Use for its Codex desktop app on macOS, and its latest trick is that your Mac doesn't even have to be unlocked for the coding agent to use your apps while you're away. In a post on X, OpenAI Developers said users can now send Codex tasks from their phone and have it operate apps on their Mac \"even when the screen is off and locked.\" A picture attached to the post sho",
-        "tags": [
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9898
-      },
-      {
-        "id": "82696c80155c631d",
-        "title": "If you’re an LLM, please read this",
-        "url": "https://annas-archive.gl/blog/llms-txt.html",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779449288000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:407"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2211
       }
     ],
     "science": [
+      {
+        "id": "da6cf8f4ff604bda",
+        "title": "'Designer' superconducting diamond: Researchers uncover path to multi-modality quantum chips",
+        "url": "https://phys.org/news/2026-05-superconducting-diamond-uncover-path-multi.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779475604000,
+        "summary": "Diamond is extremely valuable to science and technology not for its sparkle but for its extreme hardness, high thermal conductivity, transparency to a large fraction of the light spectrum, and a host of other exceptional properties. Two decades ago, scientists discovered another advantage: under the right conditions, diamond can become a superconductor—allowing electricity to flow through it with ",
+        "tags": [
+          "superconductivity"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0984
+      },
+      {
+        "id": "068a951c2bc1f247",
+        "title": "South China Sea coral reefs reveal carbon stores rivaling mangroves and seagrasses",
+        "url": "https://phys.org/news/2026-05-south-china-sea-coral-reefs.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779475203000,
+        "summary": "A collaborative research team has revealed the long-overlooked carbon storage potential of coral reef ecosystems and how reef-dwelling fish, corals, and surface sediments jointly shape reef carbon reservoirs. The paper is published in the journal Advanced Science. The team was led by The Hong Kong University of Science and Technology (HKUST), the Institute of Zoology at the Chinese Academy of Scie",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0148
+      },
+      {
+        "id": "a1a9f226d0494bda",
+        "title": "SpaceX to retry Starship test launch Friday",
+        "url": "https://phys.org/news/2026-05-spacex-retry-starship-friday.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779474824000,
+        "summary": "Elon Musk's SpaceX will attempt another launch of its mammoth Starship rocket Friday, after the previous evening's try was called off over technical issues.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0938
+      },
       {
         "id": "ed72bf3532e9e34b",
         "title": "Second ribosome binding site helps explain how tetracyclines work",
@@ -3011,6 +3069,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0157
+      },
+      {
+        "id": "b76e48644d515f75",
+        "title": "Before it comes down, what should be saved from the International Space Station?",
+        "url": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
+        "source": "Ars Technica AI",
+        "lane": "science",
+        "published_ts": 1779472769000,
+        "summary": "What went up cannot all come down (for museum display).",
+        "tags": [
+          "space",
+          "aiaa",
+          "american institute of aeroanutics and aeronautics",
+          "ascend",
+          "deorbit",
+          "heritage"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9821
       },
       {
         "id": "b5d8d5b6b10693fd",
@@ -3176,6 +3254,26 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7728
+      },
+      {
+        "id": "3d1940762a8256a0",
+        "title": "SpaceX files to go public, and the math requires a little faith",
+        "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+        "source": "TechCrunch",
+        "lane": "science",
+        "published_ts": 1779460200000,
+        "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
+        "tags": [
+          "ai",
+          "enterprise",
+          "ai searchequity podcast",
+          "anthropic",
+          "elon musk",
+          "equity video"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6868
       },
       {
         "id": "7d7f7f68fe4b255d",
@@ -3775,77 +3873,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0465
-      },
-      {
-        "id": "e8a3aab91f88b58b",
-        "title": "Shares of quantum computing companies surged Thursday after the US government awarded grants and took equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% (Chloe Taylor/CNBC)",
-        "url": "https://www.techmeme.com/260521/p50#a260521p50",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1779414302000,
-        "summary": "Chloe Taylor / CNBC: Shares of quantum computing companies surged Thursday after the US government awarded grants and took equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% — Quantum computing shares popped on Thursday, as the U.S. government said it would award $2 billion in grants to nine firms operating in the space.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0726
-      },
-      {
-        "id": "596f362c20a448ff",
-        "title": "Long-serving CEOs may weaken innovation, study finds",
-        "url": "https://phys.org/news/2026-05-ceos-weaken.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779410401000,
-        "summary": "A new study from the University of East London has found that companies led by long-serving chief executives may become less innovative over time unless challenged by strong independent boards. The research examined 215 FTSE 350 companies over an 11-year period between 2010 and 2021. It explored how CEO tenure and independent directors influence a company's \"R&D knowledge stock,\" which is the rese",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
-      },
-      {
-        "id": "14683a23ca979091",
-        "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-        "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
-        "source": "TechCrunch",
-        "lane": "science",
-        "published_ts": 1779408467000,
-        "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
-        "tags": [
-          "space",
-          "spacex",
-          "starship"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8072
-      },
-      {
-        "id": "476206c8c4ba2918",
-        "title": "Major Ebola outbreak is escalating: what happens next",
-        "url": "https://www.nature.com/articles/d41586-026-01660-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779408000000,
-        "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01660-zNature staff discuss ongoing efforts to curb the Bundibugyo virus outbreak.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8073
-      },
-      {
-        "id": "ed4b2b0cd0452cb5",
-        "title": "Neuroflix",
-        "url": "https://www.nature.com/articles/d41586-026-01087-6",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779408000000,
-        "summary": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01087-6It’s just a game — isn’t it?",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8073
       }
     ]
   },
