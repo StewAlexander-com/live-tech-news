@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-22T22:59:15.509629+00:00",
+  "generated_at": "2026-05-22T23:02:12.519789+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d0e03a4b8fe49a13",
+        "title": "I switched back to wired headphones, and I’m not going back",
+        "url": "https://www.makeuseof.com/why-switch-back-to-wired-headphones/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1779490818000,
+        "summary": "The cable can be annoying. but everything else makes up for it.",
+        "tags": [
+          "entertainment",
+          "headphones",
+          "earphones",
+          "wireless"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8495
+      },
       {
         "id": "2cab91a3612b3ed8",
         "title": "I've found 12 top-rated soundbars and speakers from Sonos to upgrade your home audio — get up to $200 off",
@@ -975,29 +993,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9392
-      },
-      {
-        "id": "ad59d3bb0910f8ae",
-        "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-        "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-        "source": "TechCrunch",
-        "lane": "gadgets",
-        "published_ts": 1779460252000,
-        "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it needs to notify customers.",
-        "tags": [
-          "security",
-          "cybersecurity",
-          "data exposure",
-          "data leak",
-          "donald trump",
-          "exclusive"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7379
       }
     ],
     "innovation": [
+      {
+        "id": "aeb7332248af1072",
+        "title": "China's Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses (Reuters)",
+        "url": "https://www.techmeme.com/260522/p29#a260522p29",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1779490842000,
+        "summary": "Reuters: China's Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses — China's Wingtech Technology (600745.SS) has filed a lawsuit with a subsidiary against Nexperia B.V. and five other entities …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9995
+      },
+      {
+        "id": "4e334c34f75eddb6",
+        "title": "Low Head Turbine Generates Plenty of Power",
+        "url": "https://hackaday.com/2026/05/22/low-head-turbine-generates-plenty-of-power/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1779490807000,
+        "summary": "Engineering design makes all kinds of tradeoffs. Power trades off with torque, strength trades off with weight, and cost can trade off with quality. For designing a hydroelectric turbine, one …read more",
+        "tags": [
+          "green hacks",
+          "dam",
+          "fan",
+          "generator",
+          "hoverboard",
+          "hydro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0793
+      },
       {
         "id": "08287a14497cf345",
         "title": "The US Ambassador to Canada accuses Canada of imposing trade barriers by requiring that US streamers contribute 15% of Canadian revenue to local programming (Paul Vieira/Wall Street Journal)",
@@ -1942,34 +1973,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7452
-      },
-      {
-        "id": "7ff5ba4ab1b68c56",
-        "title": "Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax (Karen Tian/South China Morning Post)",
-        "url": "https://www.techmeme.com/260522/p16#a260522p16",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779456901000,
-        "summary": "Karen Tian / South China Morning Post: Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax — Funding for China's artificial-intelligence-related start-ups jumped nearly threefold year on year in the first quarter, as investors poured capital …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0714
-      },
-      {
-        "id": "1cbfea285a14df9c",
-        "title": "Instagram, X and others blocking Saudi dissidents’ accounts",
-        "url": "https://www.reddit.com/r/technology/comments/1tkigex/instagram_x_and_others_blocking_saudi_dissidents/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1779455192000,
-        "summary": "submitted by /u/SkankHuntThreeFiddy [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8816
       }
     ],
     "ai": [
@@ -2399,6 +2402,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0937
+      },
+      {
+        "id": "788137d8a2d33b7a",
+        "title": "Searching for 'Disregard' Breaks Google [Updated]",
+        "url": "https://www.macrumors.com/2026/05/22/google-search-disregard/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1779472001000,
+        "summary": "On Tuesday, Google held its I/O developer event, and introduced an AI-forward version of Google Search that the company described as an \"intelligent search box\" powered by the newest version of Gemini. It turns out Google's all-new version of search semi-breaks when you search for the word \"disregard.\" Typing \"disregard\" into Google Search results in Google's AI interpreting it as a system-style i",
+        "tags": [
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.976
       },
       {
         "id": "49c52e58c643e8a8",
@@ -2925,22 +2943,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9878
-      },
-      {
-        "id": "5eeddd29eb803ec0",
-        "title": "The literary world isn’t prepared for AI",
-        "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779460200000,
-        "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks […]",
-        "tags": [
-          "ai",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8436
       }
     ],
     "science": [
