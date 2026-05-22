@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:23:44.217175+00:00",
+  "generated_at": "2026-05-22T20:26:02.943094+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3856,20 +3856,21 @@
         "score": 1.0038
       },
       {
-        "id": "8b101568a7878ba8",
-        "title": "Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment",
-        "url": "https://arxiv.org/abs/2605.20834",
+        "id": "ee8c03ce4bde5c84",
+        "title": "Playing Devil's Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
+        "url": "https://arxiv.org/abs/2605.21006",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1779422400000,
-        "summary": "arXiv:2605.20834v1 Announce Type: new Abstract: Direct Preference Optimization (DPO) has emerged as a popular alternative to Reinforcement Learning from Human Feedback (RLHF), offering theoretical equivalence with simpler implementation. We prove this equivalence is conditional rather than universal, depending on an implicit assumption frequently violated in practice: the RLHF-optimal policy must ",
+        "summary": "arXiv:2605.21006v1 Announce Type: new Abstract: We study the effect of different persona on \\textbf{sycophancy}: model's agreement with users even when the user is incorrect. The standard mitigation, Contrastive Activation Addition (CAA), derives a steering direction from labelled pairs of sycophantic and honest responses. This study evaluates whether off-the-shelf persona steering vectors, origin",
         "tags": [
           "cs.ai",
+          "cs.cl",
           "cs.lg"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.0333
+        "impact": "normal",
+        "score": 0.7652
       }
     ]
   },
