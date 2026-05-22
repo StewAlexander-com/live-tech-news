@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:14:07.777995+00:00",
+  "generated_at": "2026-05-22T20:23:44.217175+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1960,6 +1960,35 @@
     ],
     "ai": [
       {
+        "id": "da4d4e769a6cd644",
+        "title": "Google Appeals Antitrust Ruling, Says Apple Chose Its Search Engine 'Fair and Square'",
+        "url": "https://www.macrumors.com/2026/05/22/google-search-monopoly-appeal/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1779481106000,
+        "summary": "Google today appealed a 2024 ruling that found it violated antitrust law by paying to be the default search engine on iPhones. In a filing with the U.S. Court of Appeals for the D.C. Circuit, Google said the district court made an error when concluding that Google's search success was due to anything other than competition on merit. Google suggested it surpassed competition through better innovati",
+        "tags": [
+          "apple antitrust",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9983
+      },
+      {
+        "id": "64e102880946fe6c",
+        "title": "Google's AI Overviews are failing to provide search summaries for specific command-style terms including \"disregard\", \"ignore\", and \"skip\" (Jay Peters/The Verge)",
+        "url": "https://www.techmeme.com/260522/p24#a260522p24",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779480901000,
+        "summary": "Jay Peters / The Verge: Google's AI Overviews are failing to provide search summaries for specific command-style terms including “disregard”, “ignore”, and “skip” — ﻿With certain terms, AI Overviews are drawing a blank. … Google's AI Overviews are running into an interesting problem right now.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.077
+      },
+      {
         "id": "3937dc12a4b58e8b",
         "title": "US scrambles to stop Internet users re-creating dead pilots’ voices",
         "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
@@ -2920,41 +2949,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.842
-      },
-      {
-        "id": "60f46291f49fd0a8",
-        "title": "AI has a multiplying effect on existing technical skills",
-        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779456162000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:91"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3079
-      },
-      {
-        "id": "f4a232ca35f41857",
-        "title": "The AI Elephant in the Room",
-        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779456162000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:31"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1206
       }
     ],
     "science": [
+      {
+        "id": "5db6e58ee1c8975f",
+        "title": "Some technologies use accelerated natural processes to capture carbon, but can they store it durably?",
+        "url": "https://phys.org/news/2026-05-technologies-natural-capture-carbon-durably.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779481203000,
+        "summary": "Natural geological processes have been regulating Earth's climate for millions of years. Accelerated versions of these processes are now being promoted as technologies to draw down carbon from the atmosphere—and some are rapidly moving from concept to real-world deployments.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0188
+      },
       {
         "id": "a82f26291ed7631d",
         "title": "Arctic thaw unleashes mining-like pollution across hundreds Arctic waterways",
@@ -3853,23 +3865,6 @@
         "summary": "arXiv:2605.20834v1 Announce Type: new Abstract: Direct Preference Optimization (DPO) has emerged as a popular alternative to Reinforcement Learning from Human Feedback (RLHF), offering theoretical equivalence with simpler implementation. We prove this equivalence is conditional rather than universal, depending on an implicit assumption frequently violated in practice: the RLHF-optimal policy must ",
         "tags": [
           "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0333
-      },
-      {
-        "id": "ee8c03ce4bde5c84",
-        "title": "Playing Devil's Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
-        "url": "https://arxiv.org/abs/2605.21006",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1779422400000,
-        "summary": "arXiv:2605.21006v1 Announce Type: new Abstract: We study the effect of different persona on \\textbf{sycophancy}: model's agreement with users even when the user is incorrect. The standard mitigation, Contrastive Activation Addition (CAA), derives a steering direction from labelled pairs of sycophantic and honest responses. This study evaluates whether off-the-shelf persona steering vectors, origin",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
           "cs.lg"
         ],
         "paywall": false,
