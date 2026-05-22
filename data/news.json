@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:26:02.943094+00:00",
+  "generated_at": "2026-05-22T20:48:44.267678+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -994,6 +994,19 @@
     ],
     "innovation": [
       {
+        "id": "7999fc96bbbc8b46",
+        "title": "★ The Fonts of the U.S. Federal Courts",
+        "url": "https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1779481818000,
+        "summary": "The Supreme Court’s typographic style has been stunningly consistent for — no pun intended — well over a century.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0736
+      },
+      {
         "id": "eba45e4086fb13a7",
         "title": "I read thousands of books for free with this one app",
         "url": "https://www.makeuseof.com/read-books-for-free-with-libby/",
@@ -1943,22 +1956,61 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9982
-      },
-      {
-        "id": "905b761e4537a1c2",
-        "title": "Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading (Justin Papp/CNBC)",
-        "url": "https://www.techmeme.com/260522/p12#a260522p12",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779450601000,
-        "summary": "Justin Papp / CNBC: Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading — Rep. James Comer, R-Ky., chair of the House Oversight and Government Reform Committee, announced Friday on CNBC's “Squawk Box” …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9967
       }
     ],
     "ai": [
+      {
+        "id": "b18abf66a19868e5",
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1779482448000,
+        "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+        "tags": [
+          "ai",
+          "startups",
+          "venture",
+          "annual recurring revenue",
+          "exclusive",
+          "valuations"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8058
+      },
+      {
+        "id": "ceb94b50b1bfa62f",
+        "title": "Google is currently struggling to define words like disregard, stop and ignore",
+        "url": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1779481761000,
+        "summary": "The search engine's definitions have been replaced with AI Overviews.",
+        "tags": [
+          "ai",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7556
+      },
+      {
+        "id": "256be1d862d689f7",
+        "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+        "url": "https://github.com/anomalyco/models.dev",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779481567000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:8"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1258
+      },
       {
         "id": "da4d4e769a6cd644",
         "title": "Google Appeals Antitrust Ruling, Says Apple Chose Its Search Engine 'Fair and Square'",
@@ -2897,61 +2949,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0234
-      },
-      {
-        "id": "052d44c4e82c85ee",
-        "title": "The post-search Google era begins",
-        "url": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779457661000,
-        "summary": "Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Without even telling you about it? In the world Google imagines, in which so much of the […]",
-        "tags": [
-          "google",
-          "google i/o 2026",
-          "podcasts",
-          "tech",
-          "vergecast"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.852
-      },
-      {
-        "id": "fd6f0c564dfc86ed",
-        "title": "The AI Superstars Who Say a ‘Vibe Slop’ Crisis Is Coming",
-        "url": "https://www.reddit.com/r/technology/comments/1tkj5ht/the_ai_superstars_who_say_a_vibe_slop_crisis_is/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779456795000,
-        "summary": "submitted by /u/pstbo [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9614
-      },
-      {
-        "id": "8c2f0a74c3ce2d94",
-        "title": "Someone left Claude Code running overnight, and it cost $6,000",
-        "url": "https://www.makeuseof.com/someone-left-claude-code-running-overnight-and-it-cost-6000/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779456617000,
-        "summary": "Claude Code worked overtime and billed like a senior consultant.",
-        "tags": [
-          "productivity",
-          "artificial intelligence",
-          "claude",
-          "productivity tips"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.842
       }
     ],
     "science": [
+      {
+        "id": "ce97fe1ba95b6973",
+        "title": "Nickelate reveals nodeless gap, providing key clue to high-temperature superconductivity",
+        "url": "https://phys.org/news/2026-05-nickelate-reveals-nodeless-gap-key.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779482402000,
+        "summary": "The mechanism of high-temperature (TC) superconductivity is a key challenge in condensed matter physics. Recently, Chinese scientists made significant progress in the study of high-TC nickelate superconductors.",
+        "tags": [
+          "condensed matter"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0172
+      },
       {
         "id": "5db6e58ee1c8975f",
         "title": "Some technologies use accelerated natural processes to capture carbon, but can they store it durably?",
@@ -3854,23 +3869,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0038
-      },
-      {
-        "id": "ee8c03ce4bde5c84",
-        "title": "Playing Devil's Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
-        "url": "https://arxiv.org/abs/2605.21006",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1779422400000,
-        "summary": "arXiv:2605.21006v1 Announce Type: new Abstract: We study the effect of different persona on \\textbf{sycophancy}: model's agreement with users even when the user is incorrect. The standard mitigation, Contrastive Activation Addition (CAA), derives a steering direction from labelled pairs of sycophantic and honest responses. This study evaluates whether off-the-shelf persona steering vectors, origin",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7652
       }
     ]
   },
