@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:02:12.519789+00:00",
+  "generated_at": "2026-05-22T23:07:35.683535+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -19,6 +19,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8495
+      },
+      {
+        "id": "49df0af6f1e2f636",
+        "title": "Google API Keys Remain Active After Deletion",
+        "url": "https://tech.slashdot.org/story/26/05/22/1827258/google-api-keys-remain-active-after-deletion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "gadgets",
+        "published_ts": 1779490800000,
+        "summary": "Aikido Security found that deleted Google API keys can continue authenticating for a median of about 16 minutes and as long as 23 minutes, despite Google Cloud's UI claiming that once a key is deleted it can no longer make API requests. Dark Reading reports: Joe Leon, researcher at Belgian startup Aikido Security, recently analyzed the revocation window -- the time between a key's deletion and its",
+        "tags": [
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
       },
       {
         "id": "2cab91a3612b3ed8",
@@ -976,23 +991,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7852
-      },
-      {
-        "id": "c4e96ad69be4edaf",
-        "title": "After a year, Firefox finally stops crashing on Intel's Raptor Lake CPUs — Mozilla releases new version patch critical flaw on Intel 13th-gen and 14th-gen CPUs",
-        "url": "https://www.tomshardware.com/software/mozilla-firefox/after-a-year-firefox-finally-stops-crashing-on-intels-raptor-lake-cpus-mozilla-releases-new-version-patch-critical-flaw-on-intel-13th-gen-and-14th-gen-cpus",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1779460649000,
-        "summary": "Mozilla spent more than a year investigating widespread browser crashes on Intel 13th-gen and 14th-gen systems.",
-        "tags": [
-          "mozilla firefox",
-          "software",
-          "browsers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9392
       }
     ],
     "innovation": [
@@ -1977,6 +1975,25 @@
     ],
     "ai": [
       {
+        "id": "c7dc06b2d0f9fdcd",
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1779491013000,
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "tags": [
+          "ai",
+          "transportation",
+          "crash",
+          "flight",
+          "ntsb"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8068
+      },
+      {
         "id": "d0e5f90ba136a5de",
         "title": "AI chatbots got election information wrong 90% of the time in a new study — including ChatGPT rivals",
         "url": "https://www.techradar.com/ai-platforms-assistants/ai-chatbots-got-election-information-wrong-90-percent-of-the-time-in-a-new-study-including-chatgpt-rivals",
@@ -2930,19 +2947,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.127
-      },
-      {
-        "id": "7f5abe4ec622212f",
-        "title": "Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year (Todd Bishop/GeekWire)",
-        "url": "https://www.techmeme.com/260522/p18#a260522p18",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779460501000,
-        "summary": "Todd Bishop / GeekWire: Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year — Yusuf Mehdi, one of Microsoft's best-known and longest-serving business leaders, whose tenure has spanned 35 years from Windows 3.1 to Copilot …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9878
       }
     ],
     "science": [
