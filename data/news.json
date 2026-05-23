@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-23T15:26:56.584938+00:00",
+  "generated_at": "2026-05-23T15:39:05.614317+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "3c1b7adfe935e668",
+        "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
+        "url": "https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1779550301000,
+        "summary": "The lower prices could be aimed at undercutting the competition.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7023
+      },
       {
         "id": "94deb7a992dad433",
         "title": "The Galaxy Z Fold 8 Wide leak reveals Samsung's answer to Apple's foldable problem",
@@ -938,24 +953,44 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0453
-      },
-      {
-        "id": "1dd48b1f06dc96ef",
-        "title": "'We know that fans will love them' — Assassin's Creed Black Flag Resynced creative director says Ubisoft changed the music's execution in the remake and added new scores for some 'emotional moments' of the game",
-        "url": "https://www.techradar.com/gaming/we-know-that-fans-will-love-them-assassins-creed-black-flag-resynced-creative-director-says-ubisoft-changed-the-musics-execution-in-the-remake-and-added-new-scores-for-some-emotional-moments-of-the-game",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779480000000,
-        "summary": "The music in Assassin's Creed Black Flag Resynced has been tweaked, and new scores have been added to complement some of the more significant story quests.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8462
       }
     ],
     "innovation": [
+      {
+        "id": "020bee0d6f758174",
+        "title": "Linux Kernel Flaw Lets Unprivileged Users Access Root-Only Files, Execute Arbitrary Commands as Root",
+        "url": "https://linux.slashdot.org/story/26/05/23/0727241/linux-kernel-flaw-lets-unprivileged-users-access-root-only-files-execute-arbitrary-commands-as-root?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1779550440000,
+        "summary": "Qualys's Threat Research Unit (TRU) has discovered and published a logic flaw in Linux kernel \"that permits an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major distributions.\" Friday their blog pointed out \"The bug has resided in mainline Linux since November 2016 (v4.10-rc1).\" \"Upstream patches and distribution up",
+        "tags": [
+          "linux"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0483
+      },
+      {
+        "id": "4d409114472d9da3",
+        "title": "4 crime dramas that hit harder after The Sopranos",
+        "url": "https://www.makeuseof.com/4-crime-dramas-hit-harder-after-the-sopranos/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779550219000,
+        "summary": "No crime drama may ever equal The Sopranos, but the shows that came in its wake are still more than worth watching.",
+        "tags": [
+          "streaming",
+          "the sopranos",
+          "the wire",
+          "peaky blinders",
+          "breaking bad",
+          "better call saul"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8476
+      },
       {
         "id": "93c19c383d5b8d03",
         "title": "Delivery Hero says it received a takeover offer from Uber for €33 per share, a discount of 1.76% from Delivery Hero's close on Friday (Anusha Shah/Reuters)",
@@ -985,6 +1020,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.847
+      },
+      {
+        "id": "9c013f1de9d15716",
+        "title": "Palantir’s access to identifiable NHS England patient data is ‘dangerous’, MPs say | NHS",
+        "url": "https://www.reddit.com/r/technology/comments/1tlimu5/palantirs_access_to_identifiable_nhs_england/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1779548034000,
+        "summary": "submitted by /u/Goldenmentis [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9363
       },
       {
         "id": "b10244b844085168",
@@ -1862,47 +1912,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8416
-      },
-      {
-        "id": "a4889a8109ba089e",
-        "title": "Rediscovering science: New knowledge hidden in old data",
-        "url": "https://phys.org/news/2026-05-rediscovering-science-knowledge-hidden.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1779474005000,
-        "summary": "What if the knowledge that could fuel the next scientific breakthrough has simply been forgotten in an old graph or table? Valuable scientific insights may already exist across decades of published experiments, yet remain buried in old research papers, waiting to be rediscovered.",
-        "tags": [
-          "materials science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0196
-      },
-      {
-        "id": "0ba5dcc36b388894",
-        "title": "Google rolls out a Google Wallet redesign, including \"dynamic quick access\" for favorites, a \"View more\" floating action button, and more (Abner Li/9to5Google)",
-        "url": "https://www.techmeme.com/260522/p21#a260522p21",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779473101000,
-        "summary": "Abner Li / 9to5Google: Google rolls out a Google Wallet redesign, including “dynamic quick access” for favorites, a “View more” floating action button, and more — At I/O 2026, Google Wallet quietly announced and completed its big Android redesign. There are also new features for Google Pay …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9399
-      },
-      {
-        "id": "0d55f239cf4d764b",
-        "title": "Google rolls out a Google Wallet redesign, including \"dynamic quick access\" for favourites, a \"View more\" floating action button, and more (Abner Li/9to5Google)",
-        "url": "https://www.techmeme.com/260522/p21#a260522p21",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779473101000,
-        "summary": "Abner Li / 9to5Google: Google rolls out a Google Wallet redesign, including “dynamic quick access” for favourites, a “View more” floating action button, and more — At I/O 2026, Google Wallet quietly announced and completed its big Android redesign. There are also new features for Google Pay …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9974
       }
     ],
     "ai": [
