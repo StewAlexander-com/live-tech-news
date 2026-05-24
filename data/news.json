@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:12:24.955336+00:00",
+  "generated_at": "2026-05-24T16:36:18.652356+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -964,6 +964,37 @@
     ],
     "innovation": [
       {
+        "id": "91969aa5e61d743e",
+        "title": "Turn this setting off the moment you unbox a new TV — every filmmaker will thank you",
+        "url": "https://www.makeuseof.com/turn-setting-off-you-unbox-new-tv-every-filmmaker-will-thank-you/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779640217000,
+        "summary": "Motion smoothing is the absolute worst. Disable it immediately.",
+        "tags": [
+          "technology explained",
+          "video"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8484
+      },
+      {
+        "id": "db58be67a4ef571a",
+        "title": "Scientists Discover Low-Cost Route To Clean Hydrogen Production",
+        "url": "https://www.reddit.com/r/technology/comments/1tmgay9/scientists_discover_lowcost_route_to_clean/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1779638846000,
+        "summary": "submitted by /u/_Dark_Wing [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9412
+      },
+      {
         "id": "69dbb6913532f521",
         "title": "TechCrunch Mobility: Robotaxi reality check",
         "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
@@ -1032,6 +1063,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7886
+      },
+      {
+        "id": "9f4cfd5a1dc80e17",
+        "title": "This Zurich startup built a four-armed robot for space stations. Each astronaut hour it saves is worth $140,000.",
+        "url": "https://thenextweb.com/news/orbit-robotics-helios-four-armed-space-robot",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1779636136000,
+        "summary": "Orbit Robotics, a Zurich-based startup, has unveiled Helios, a four-armed robot designed to work inside space stations. In microgravity, legs are useless. Helios replaces them with two extra arms that serve as both mobility aids and working hands. The design logic is simple. Two arms anchor the robot to the station interior while the other […] This story continues at The Next Web",
+        "tags": [
+          "deep tech",
+          "space",
+          "robots",
+          "ecosystems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9492
       },
       {
         "id": "b67ca708e58c0621",
@@ -1878,56 +1927,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.846
-      },
-      {
-        "id": "31f206e0d146dafe",
-        "title": "This Home Assistant upgrade may have the most impact I've made to my smart home",
-        "url": "https://www.makeuseof.com/using-home-assistant-green-in-my-home/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779553819000,
-        "summary": "Home Assistant is powerful, and this takes it to the next level",
-        "tags": [
-          "smart home",
-          "smart hubs",
-          "open source"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
-      },
-      {
-        "id": "473c118bd379bf23",
-        "title": "Hunting paedophiles online: the legal grey area occupied by internet vigilantes",
-        "url": "https://www.reddit.com/r/technology/comments/1tlju24/hunting_paedophiles_online_the_legal_grey_area/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1779550838000,
-        "summary": "submitted by /u/InvestigatorSoft5764 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9177
-      },
-      {
-        "id": "020bee0d6f758174",
-        "title": "Linux Kernel Flaw Lets Unprivileged Users Access Root-Only Files, Execute Arbitrary Commands as Root",
-        "url": "https://linux.slashdot.org/story/26/05/23/0727241/linux-kernel-flaw-lets-unprivileged-users-access-root-only-files-execute-arbitrary-commands-as-root?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1779550440000,
-        "summary": "Qualys's Threat Research Unit (TRU) has discovered and published a logic flaw in Linux kernel \"that permits an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major distributions.\" Friday their blog pointed out \"The bug has resided in mainline Linux since November 2016 (v4.10-rc1).\" \"Upstream patches and distribution up",
-        "tags": [
-          "linux"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.05
       }
     ],
     "ai": [
+      {
+        "id": "dae01df3800e4686",
+        "title": "Mathematicians solve decades-old mystery about the hidden order in high-dimensional randomness",
+        "url": "https://phys.org/news/2026-05-mathematicians-decades-mystery-hidden-high.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1779639601000,
+        "summary": "Three mathematicians have laid out proof that solves a long-standing problem in mathematics. Even the mathematician—an Abel prize winner—that first posed the problem didn't believe it would ever be solved. The solution provides insight into high-dimensional random structures that could potentially impact data science, machine learning and optimization.",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0959
+      },
+      {
+        "id": "d521d16cc83eaf37",
+        "title": "The US blacklisted Anthropic as a security threat. Its spy agencies are using Claude anyway.",
+        "url": "https://thenextweb.com/news/us-government-chip-shortage-anthropic-nsa-9-billion",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779638020000,
+        "summary": "The US government has a problem it cannot publicly resolve. The Pentagon has officially blacklisted Anthropic as a national security supply chain threat. The NSA is using Anthropic’s AI anyway because there is no alternative. White House chief of staff Susie Wiles authorised the National Security Agency to continue using an advanced Anthropic model, the […] This story continues at The Next Web",
+        "tags": [
+          "anthropic",
+          "artificial intelligence",
+          "government and policy",
+          "defence"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9588
+      },
       {
         "id": "476599f33a93042e",
         "title": "Ansel Adams' trust says AI-colorized version of his work was exhibited without permission | The AI-generated version of ‘Moonrise, Hernandez, New Mexico’ was on display at AIPAD’s The Photography show",
@@ -2827,38 +2862,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9168
-      },
-      {
-        "id": "615802ecdf29a4ca",
-        "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
-        "url": "https://horace.io/brrr_intro.html",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779537022000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:117"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0112
-      },
-      {
-        "id": "471953280404aa33",
-        "title": "Making Deep Learning Go Brrrr from First Principles",
-        "url": "https://horace.io/brrr_intro.html",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779537022000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:13"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0354
       }
     ],
     "science": [
