@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T20:14:55.414646+00:00",
+  "generated_at": "2026-05-24T20:31:14.841113+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1970,6 +1970,23 @@
         "score": 1.0207
       },
       {
+        "id": "b6a65d747869a803",
+        "title": "The AI security gap nobody wants to admit is already here",
+        "url": "https://thenextweb.com/news/ai-security-gap-claude-code-leak",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779650419000,
+        "summary": "On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the public npm registry. Around 512,000 lines of TypeScript across 1,906 files, including 44 hidden feature flags and references to an unreleased model codenamed Mythos, sat openly accessible on a Cloudflare storage bucket until a security researcher found it and posted […] This story continues at The Next W",
+        "tags": [
+          "artificial intelligence",
+          "security",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9501
+      },
+      {
         "id": "29c0862643bf70c9",
         "title": "New 'AI scientists' are improving—but reveal their fundamental limits",
         "url": "https://phys.org/news/2026-05-ai-scientists-reveal-fundamental-limits.html",
@@ -2285,7 +2302,7 @@
         ],
         "paywall": true,
         "impact": "high",
-        "score": 0.8321
+        "score": 0.9406
       },
       {
         "id": "2001957e8c45a77b",
@@ -2862,21 +2879,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0082
-      },
-      {
-        "id": "32a552b3bcbe8cbf",
-        "title": "MPs demand AI ‘kill switch’ to defend against ‘catastrophe’ - Politicians and campaigners call for power to turn off data centres as fears around artificial intelligence grow",
-        "url": "https://www.reddit.com/r/technology/comments/1tlkpmt/mps_demand_ai_kill_switch_to_defend_against/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779552875000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0158
       }
     ],
     "science": [
