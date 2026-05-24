@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T07:28:30.394081+00:00",
+  "generated_at": "2026-05-24T08:16:11.614279+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -957,6 +957,23 @@
     ],
     "innovation": [
       {
+        "id": "f19a67298c52ba93",
+        "title": "Designing a Printable Cyclone Dust Separator for 99.95% Efficiency",
+        "url": "https://hackaday.com/2026/05/24/designing-a-printable-cyclone-dust-separator-for-99-95-efficiency/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1779609600000,
+        "summary": "Filtering sawdust out of an airflow is easy until you try to do it with cyclone separation, but the obvious appeal here is of course not spending a fortune on …read more",
+        "tags": [
+          "3d printer hacks",
+          "cyclone separator",
+          "dust separator"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0744
+      },
+      {
         "id": "a17d438cc54e0641",
         "title": "DeepSeek says it will lower V4 Pro API prices by 75% to $0.435/1M input and $0.87/1M output tokens, making permanent the discount prices set to expire on May 31 (Bloomberg)",
         "url": "https://www.techmeme.com/260524/p2#a260524p2",
@@ -1900,27 +1917,41 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0499
-      },
-      {
-        "id": "b6369387097f8dd1",
-        "title": "Xiaomi’s CEO admitted his SUV wasn’t cheap enough to beat Tesla. Then he launched one that is.",
-        "url": "https://thenextweb.com/news/xiaomi-yu7-standard-tesla-model-y-price-range",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1779524799000,
-        "summary": "Most CEOs would not go on stage and admit their product was not competitively priced against a rival. Lei Jun did exactly that on Wednesday evening, and then launched a model that fixes it. At Xiaomi’s “Human x Car x Home” launch event on 21 May, the founder and CEO unveiled the YU7 True Standard […] This story continues at The Next Web",
-        "tags": [
-          "china",
-          "electric vehicle",
-          "xiaomi",
-          "tesla"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9571
       }
     ],
     "ai": [
+      {
+        "id": "90cec451edb329fb",
+        "title": "DeepSeek made its 75% discount permanent. The AI price war just escalated.",
+        "url": "https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779608922000,
+        "summary": "DeepSeek has made permanent the 75% price discount on its flagship V4 Pro model. The promotion was originally scheduled to expire on 31 May. The Chinese AI startup’s pricing now ranges from $0.003625 to $0.87 per million tokens, down from $0.0145 to $3.48. The price points are striking in context. OpenAI’s GPT-5 charges $2.50 per […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "business",
+          "china"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9635
+      },
+      {
+        "id": "041bb1ad8d49f834",
+        "title": "'Underminr' CDN Vulnerability Hides Malicious Traffic Behind Trusted Domains",
+        "url": "https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1779608040000,
+        "summary": "Slashdot reader wiredmikey writes: Threat actors are exploiting a vulnerability in shared content delivery network (CDN) infrastructure to hide connections to malicious domains. Researchers say the vulnerability could impact roughly 88 million domains and can bypass DNS filtering and protective DNS controls, potentially enabling stealthy command-and-control communications and other evasive attacks",
+        "tags": [
+          "internet"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0359
+      },
       {
         "id": "58124c19cb53fffb",
         "title": "Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating (Paige Smith/Bloomberg)",
@@ -2808,37 +2839,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9963
-      },
-      {
-        "id": "40fe4a97f29ead41",
-        "title": "I started using Gemini with WhatsApp and it's been a game-changer",
-        "url": "https://www.androidpolice.com/started-using-gemini-with-whatsapp-and-its-game-changer/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1779497473000,
-        "summary": "Gemini meets WhatsApp",
-        "tags": [
-          "google gemini",
-          "utilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9992
-      },
-      {
-        "id": "592500772c6c7dd9",
-        "title": "You should think twice before buying a Google Nest speaker right now",
-        "url": "https://www.androidpolice.com/dont-buy-nest-right-now/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1779496507000,
-        "summary": "Cheaper Gemini speakers could change everything",
-        "tags": [
-          "smart home"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9941
       }
     ],
     "science": [
