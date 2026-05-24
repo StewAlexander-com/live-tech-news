@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T14:17:24.444852+00:00",
+  "generated_at": "2026-05-24T14:23:55.881716+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -988,6 +988,22 @@
         "score": 1.074
       },
       {
+        "id": "26aa7ba6d3177367",
+        "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+        "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1779628593000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:6"
+        ],
+        "paywall": true,
+        "impact": "high",
+        "score": 0.7707
+      },
+      {
         "id": "471df993665bf754",
         "title": "Google Appeals 2024 Antitrust Ruling, Says Apple Chose Its Search Engine \"Fair and Square\"",
         "url": "https://www.reddit.com/r/technology/comments/1tmbwk4/google_appeals_2024_antitrust_ruling_says_apple/",
@@ -1893,27 +1909,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0757
-      },
-      {
-        "id": "dea38478d5cb06e8",
-        "title": "I turned my Obsidian vault into an automatic project tracker with one free plugin",
-        "url": "https://www.makeuseof.com/turned-obsidian-vault-into-automatic-project-tracker-with-one-plugin/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779543017000,
-        "summary": "Stop hunting through thousands of Obsidian notes — this free plugin builds a live dashboard instead.",
-        "tags": [
-          "productivity",
-          "obsidian",
-          "note-taking apps",
-          "windows apps"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8479
       }
     ],
     "ai": [
+      {
+        "id": "1d0964653652aa6f",
+        "title": "After $2.5 billion Supermicro smuggling bust, Nvidia CEO urges company to fix export control compliance — Taiwan also begins to crack down on AI GPU chip smuggling to China",
+        "url": "https://www.tomshardware.com/tech-industry/jensen-huang-urges-super-micro-to-tighten-compliance",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1779632429000,
+        "summary": "Huang told reporters at Songshan Airport that Nvidia insists its partners follow U.S. trade rules.",
+        "tags": [
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0249
+      },
       {
         "id": "2001957e8c45a77b",
         "title": "Hotels strive to be found as AI models conduct travel search",
@@ -1946,6 +1959,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9138
+      },
+      {
+        "id": "5e23257430ab6843",
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779627726000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:7"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0228
+      },
+      {
+        "id": "f31621cc274745ed",
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779627353000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0207
       },
       {
         "id": "b1e133455cdd7ca3",
@@ -2798,61 +2843,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9168
-      },
-      {
-        "id": "0c8b51e5aa755bff",
-        "title": "China’s shark finning could lead to US seafood sanctions",
-        "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779534025000,
-        "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
-        "tags": [
-          "policy",
-          "science",
-          "deep sea fishing",
-          "illegal fishing",
-          "overfishing",
-          "seafood"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9885
-      },
-      {
-        "id": "227e8b6c2997b930",
-        "title": "Google’s new anything-to-anything AI model is wild",
-        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779534000000,
-        "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]",
-        "tags": [
-          "ai",
-          "google",
-          "google i/o 2026",
-          "hands-on",
-          "reviews",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.854
-      },
-      {
-        "id": "9b4d108fc64486a2",
-        "title": "Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend",
-        "url": "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1779533940000,
-        "summary": "Or is it just life today, with AI constantly digging through code repositories in search of security holes?",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1318
       }
     ],
     "science": [
