@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T14:45:47.188947+00:00",
+  "generated_at": "2026-05-25T14:51:07.959823+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -963,6 +963,23 @@
     ],
     "innovation": [
       {
+        "id": "6d46569a2cd07b1f",
+        "title": "California moves to exempt Linux from its upcoming age-verification law after backlash over forcing operating systems to collect users’ ages — amendment proposed by the same lawmaker who wrote the original law",
+        "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+        "source": "Tom's Hardware",
+        "lane": "innovation",
+        "published_ts": 1779720373000,
+        "summary": "California lawmakers introduced a new amendment that could exempt most Linux distributions from the state’s upcoming Digital Age Assurance Act after privacy backlash and concerns that the law would force open-source operating systems to become age-verification platforms.",
+        "tags": [
+          "linux",
+          "software",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9485
+      },
+      {
         "id": "3ca1ef625358e993",
         "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
         "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
@@ -1901,23 +1918,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9247
-      },
-      {
-        "id": "b4e4e5fe19ca5d75",
-        "title": "6 red flags that tell you to avoid a Linux distro before you install it",
-        "url": "https://www.makeuseof.com/red-flags-tell-you-avoid-linux-distro-before-you-install-it/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779649221000,
-        "summary": "Experienced Linux users judge distros very differently from most beginners.",
-        "tags": [
-          "linux",
-          "linux distro",
-          "linux tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8492
       }
     ],
     "ai": [
@@ -2699,6 +2699,68 @@
         "score": 1.0681
       },
       {
+        "id": "566bdf878c02bcbe",
+        "title": "WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems",
+        "url": "https://arxiv.org/abs/2605.22876",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22876v1 Announce Type: new Abstract: Existing neural solvers for Multi-Objective Combinatorial Optimization Problems (MOCOPs) commonly adopt decomposition-based strategies that scalarize an MOCOP into multiple subproblems associated with distinct weight vectors. However, they either inject weights only once during decoding, limiting weight-conditioned context modeling, or primarily duri",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9202
+      },
+      {
+        "id": "a7f707095ee8492c",
+        "title": "From Residuals to Reasons: LLM-Guided Mechanism Inference from Tabular Data",
+        "url": "https://arxiv.org/abs/2605.22897",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22897v1 Announce Type: new Abstract: A persistent challenge in machine learning for scientific applications is jointly achieving prediction and understanding. Statistical models excel on structured data but operate as black boxes, while existing interpretability methods are largely inspective: they answer \"which features matter?\" but do not articulate how features interact or refine exp",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9202
+      },
+      {
+        "id": "fb99a6512c9460db",
+        "title": "Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning",
+        "url": "https://arxiv.org/abs/2605.22940",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22940v1 Announce Type: new Abstract: Deep learning is increasingly viewed as a dynamical process in parameter space, yet many existing theories still treat training as a closed optimization system. This view is limited for real-world AI, where models operate under uncertainty, resource constraints, distribution shift, downstream decision risks, and human feedback. We propose Human-Cente",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9202
+      },
+      {
+        "id": "01728051a3d2013e",
+        "title": "Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization",
+        "url": "https://arxiv.org/abs/2605.22964",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22964v1 Announce Type: new Abstract: As state-of-the-art neural networks are deployed on reasoning and algorithmic tasks, exactness guarantees become increasingly important. However, high average-case accuracy can still mask inconsistent behaviors. This motivates exact certification, which asks for the smallest set of labeled examples needed to certify that a learned hypothesis equals t",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9202
+      },
+      {
         "id": "34762d658b743fab",
         "title": "A mathematical theory of balancing relational generalization and memorization",
         "url": "https://arxiv.org/abs/2605.22972",
@@ -2759,77 +2821,6 @@
           "cs.cl",
           "cs.ir",
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1125
-      },
-      {
-        "id": "8de4382062b6f722",
-        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2605.22883",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779681600000,
-        "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementat",
-        "tags": [
-          "cs.ai",
-          "cs.lg",
-          "cs.pf"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1125
-      },
-      {
-        "id": "7ba10f937dd2ff8f",
-        "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
-        "url": "https://arxiv.org/abs/2605.22885",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779681600000,
-        "summary": "arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data quality for neural provers. However, scalable proof optimization is hindered by heterogeneous and heuristically specified objectives, scarce data, and high training and inference costs. To overcome t",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lg",
-          "cs.lo"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1125
-      },
-      {
-        "id": "13db2f7423c57a6d",
-        "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
-        "url": "https://arxiv.org/abs/2605.23024",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779681600000,
-        "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into design rules. Its flagship result proves an accuracy ceiling set by architecture alo",
-        "tags": [
-          "cs.ai",
-          "cs.cc",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1125
-      },
-      {
-        "id": "a92a53450467cd38",
-        "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
-        "url": "https://arxiv.org/abs/2605.23109",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779681600000,
-        "summary": "arXiv:2605.23109v1 Announce Type: new Abstract: AI agents increasingly excel at generating, testing, and refining code. However, they fall short on tasks requiring formal guarantees of full coverage that testing alone cannot provide. Distributed systems are a prime example: properties such as consistency between reads and writes must hold under every possible interleaving of events. Mechanized for",
-        "tags": [
-          "cs.ai",
-          "cs.dc",
-          "cs.lo",
-          "cs.pl"
         ],
         "paywall": false,
         "impact": "high",
