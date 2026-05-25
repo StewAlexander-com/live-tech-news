@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T15:47:35.012903+00:00",
+  "generated_at": "2026-05-25T15:55:38.155808+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2791,56 +2791,57 @@
         "score": 1.0681
       },
       {
-        "id": "5476c72563526805",
-        "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-        "url": "https://arxiv.org/abs/2605.22866",
+        "id": "8de4382062b6f722",
+        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2605.22883",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1779681600000,
-        "summary": "arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints",
+        "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementat",
         "tags": [
           "cs.ai",
-          "cs.lg"
+          "cs.lg",
+          "cs.pf"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9037
+        "score": 0.9013
       },
       {
-        "id": "0f1911b7ef898f7c",
-        "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-        "url": "https://arxiv.org/abs/2605.22878",
+        "id": "7ba10f937dd2ff8f",
+        "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+        "url": "https://arxiv.org/abs/2605.22885",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1779681600000,
-        "summary": "arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic ret",
+        "summary": "arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data quality for neural provers. However, scalable proof optimization is hindered by heterogeneous and heuristically specified objectives, scarce data, and high training and inference costs. To overcome t",
         "tags": [
           "cs.ai",
           "cs.cl",
-          "cs.ir",
+          "cs.lg",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9013
+      },
+      {
+        "id": "13db2f7423c57a6d",
+        "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+        "url": "https://arxiv.org/abs/2605.23024",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into design rules. Its flagship result proves an accuracy ceiling set by architecture alo",
+        "tags": [
+          "cs.ai",
+          "cs.cc",
+          "cs.cl",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9037
-      },
-      {
-        "id": "a92a53450467cd38",
-        "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
-        "url": "https://arxiv.org/abs/2605.23109",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1779681600000,
-        "summary": "arXiv:2605.23109v1 Announce Type: new Abstract: AI agents increasingly excel at generating, testing, and refining code. However, they fall short on tasks requiring formal guarantees of full coverage that testing alone cannot provide. Distributed systems are a prime example: properties such as consistency between reads and writes must hold under every possible interleaving of events. Mechanized for",
-        "tags": [
-          "cs.ai",
-          "cs.dc",
-          "cs.lo",
-          "cs.pl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9037
+        "score": 0.9013
       }
     ],
     "science": [
