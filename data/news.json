@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-25T22:16:16.573900+00:00",
+  "generated_at": "2026-05-25T22:31:16.558910+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "483f251fc0b2469f",
+        "title": "The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting (Adi Robertson/The Verge)",
+        "url": "https://www.techmeme.com/260525/p21#a260525p21",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1779747622000,
+        "summary": "Adi Robertson / The Verge: The FTC settles with Cox, MindSift, and 1010 Digital Works for $930K over claims they falsely said they could use phone mics to spy on users for ad targeting — More specifically, it was fined for allegedly lying by claiming that it could. … An exceptionally weird controversy has come …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9965
+      },
       {
         "id": "9e084258f1f3dcee",
         "title": "Sennheiser's Momentum 5 headphones are all about the audio and ANC upgrades",
@@ -930,24 +943,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8479
-      },
-      {
-        "id": "d8e53eb5de77fb47",
-        "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD On Laptop",
-        "url": "https://tech.slashdot.org/story/26/05/24/213229/freebsd-foundation-executive-director-tries-daily-driving-freebsd-on-laptop?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "gadgets",
-        "published_ts": 1779660660000,
-        "summary": "Phoronix reports on a presentation about trying FreeBSD on modern Framework laptop from last week's Open Source Summit hosted by the Linux Foundation: With FreeBSD having worked on improving its laptop support over the past two years with some big changes and ongoing efforts for making a nice KDE desktop experience on FreeBSD, FreeBSD Foundation's Executive Director has been trying to daily drive ",
-        "tags": [
-          "unix"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.047
       }
     ],
     "innovation": [
+      {
+        "id": "0a21a2af32a0b053",
+        "title": "I’ve driven the smallest Kia EV yet and there’s a lot to love about the baby of the bunch",
+        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ive-driven-the-smallest-kia-ev-yet-and-theres-a-lot-to-love-about-the-baby-of-the-bunch",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1779748200000,
+        "summary": "Small, spacious and styled to start conversations, Kia’s baby EV is actually the grown-up urban EV choice.",
+        "tags": [
+          "hybrid &amp; electric vehicles",
+          "vehicle tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8497
+      },
+      {
+        "id": "d567ec9d58db1f9b",
+        "title": "'Security of your network is essential to security of your robot': Industrial robots targeted by malware, which could open them up to hacking — is this how the revolution begins?",
+        "url": "https://www.techradar.com/pro/security/security-of-your-network-is-essential-to-security-of-your-robot-industrial-robots-targeted-by-malware-which-could-open-them-up-to-hacking-is-this-how-the-revolution-begins",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1779747300000,
+        "summary": "A critical Universal Robots vulnerability allows attackers to remotely execute commands and potentially compromise industrial robots and factory networks.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9132
+      },
       {
         "id": "c4e1df2ed2fa9cb2",
         "title": "I left Windows to escape preinstalled bloat, and then I found it on Linux",
@@ -1895,40 +1925,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9158
-      },
-      {
-        "id": "be07e37162e31948",
-        "title": "Uber goes after Delivery Hero in full, with an offer that sits below the close",
-        "url": "https://thenextweb.com/news/uber-delivery-hero-takeover-offer-confirmed",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1779695734000,
-        "summary": "The €33-per-share proposal lands at a slight discount to Friday’s price, but with Uber already sitting on a quarter of the company and DoorDash circling, the bid is the start of the negotiation, not the end of it. Delivery Hero confirmed on Saturday that Uber has tabled a formal takeover offer for the Berlin-based food-delivery […] This story continues at The Next Web",
-        "tags": [
-          "investors and funding",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8924
-      },
-      {
-        "id": "2e629fec975531a1",
-        "title": "It's Like the Olympics - But Steroids Are Allowed",
-        "url": "https://science.slashdot.org/story/26/05/25/023251/its-like-the-olympics---but-steroids-are-allowed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1779694440000,
-        "summary": "\"Think Olympics on steroids. Literally,\" quips the BBC, describing Sunday's controversial Enhanced Games event in Las Vegas featuring dozens of athletes \"using performance-enhancing drugs to try and break world records in track, weightlifting and swimming. Some $25m (£18.6m) in prize money is up for grabs — with cash prizes for winners... The drugs they use must be legal, and approved by the Feder",
-        "tags": [
-          "biotech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0388
       }
     ],
     "ai": [
+      {
+        "id": "0e5e505df8bed6f9",
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779745557000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:22"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0348
+      },
       {
         "id": "b0e37d62154fc6de",
         "title": "FBI warns of Kali phishing scam hitting Microsoft OAuth tokens — warns 'Kali365 lowers the barrier of entry, providing less-technical attackers access to AI-generated phishing lures'",
@@ -2853,19 +2868,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1312
-      },
-      {
-        "id": "ade7ddc653777c2a",
-        "title": "Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV's first AI encyclical (Océane Herrero/Politico)",
-        "url": "https://www.techmeme.com/260525/p6#a260525p6",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779701720000,
-        "summary": "Océane Herrero / Politico: Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV's first AI encyclical — As Leo XIV prepares his first encyclical, technology firms and Western diplomats have worked to make their case inside the Vatican.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0764
       }
     ],
     "science": [
