@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T03:46:32.405645+00:00",
+  "generated_at": "2026-05-25T04:59:31.564174+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -967,6 +967,38 @@
     ],
     "innovation": [
       {
+        "id": "6c587fbf3e8acf36",
+        "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+        "url": "https://arxiv.org/abs/2605.22874",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22874v1 Announce Type: new Abstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for reliability; neural methods achieve fluency but provide no correctness guarantees. We present NeuroNL",
+        "tags": [
+          "cs.ai",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "5a03f06547078b0a",
+        "title": "Open Multimodal Datasets and Open-Source Software for Data-Driven Modeling of Multiphase Transport and Thermal Systems",
+        "url": "https://arxiv.org/abs/2605.23037",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23037v1 Announce Type: new Abstract: Data-driven modeling is becoming central to multiphase transport, electronics cooling, acoustic diagnostics, and thermal-fluid digital twins, but progress is limited by fragmented datasets and raw instrument files that are difficult to decode, reuse, or benchmark. This paper presents an open ecosystem of multimodal datasets and open-source software p",
+        "tags": [
+          "cs.lg",
+          "physics.flu-dyn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
         "id": "a71b9b8c3842e2b6",
         "title": "At an IEEE conference, Huawei proposed a new chip scaling law and said it aims to design chips with transistor density equivalent to 1.4nm by 2031 (Nikkei Asia)",
         "url": "https://www.techmeme.com/260524/p16#a260524p16",
@@ -1884,42 +1916,249 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0795
-      },
-      {
-        "id": "027ddd53d40c566e",
-        "title": "Southern California chemical tank at risk of exploding as 40,000 residents are ordered to evacuate",
-        "url": "https://www.reddit.com/r/technology/comments/1tm7zy2/southern_california_chemical_tank_at_risk_of/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1779616913000,
-        "summary": "submitted by /u/Steap-Edit [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9417
-      },
-      {
-        "id": "843b5ca2244edb8c",
-        "title": "I listened to air traffic control while watching the planes live, and now I can’t stop",
-        "url": "https://www.makeuseof.com/listened-air-traffic-control-while-watching-planes-live-cant-stop/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779616829000,
-        "summary": "Public SDR receivers turned watching planes moving on a map into something interactive.",
-        "tags": [
-          "creative",
-          "internet radio",
-          "open source intelligence",
-          "browser"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.849
       }
     ],
     "ai": [
+      {
+        "id": "265bf3405f101c3d",
+        "title": "A look at DeepSeek's model optimization to reduce HBM use, potentially enabling domestic memory, ASIC, and CPU makers to create a Chinese AI hardware ecosystem (@bookwormengr)",
+        "url": "https://www.techmeme.com/260525/p2#a260525p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779684601000,
+        "summary": "@bookwormengr: A look at DeepSeek's model optimization to reduce HBM use, potentially enabling domestic memory, ASIC, and CPU makers to create a Chinese AI hardware ecosystem — Have you ever wondered, how DeepSeek may make money, and lot of it? They didn't come up with competitive coding plans like GLM, MoonShot and MiniMax.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0767
+      },
+      {
+        "id": "43f81710ea605552",
+        "title": "California Executive Order Directs Businesses and State Agencies to Prepare for AI-Driven Workforce Disruption",
+        "url": "https://yro.slashdot.org/story/26/05/25/0128243/california-executive-order-directs-businesses-and-state-agencies-to-prepare-for-ai-driven-workforce-disruption?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1779683640000,
+        "summary": "Thursday California's governor issued an executive order \"directing state agencies to prepare workers and businesses for AI-driven workforce disruption,\" reports San Francisco's KQED. In a statement the governor said \"This moment demands that we reimagine the entire system — how we work, how we govern, how we prepare people for the future.\" The order mandates agencies to explore a range of policy ",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1247
+      },
+      {
+        "id": "79e05b679e27c552",
+        "title": "The UK, outpaced by the US and China in AI, is turning to experimental technologies like neuromorphic computing in search of computing sovereignty (Charles Clover/Financial Times)",
+        "url": "https://www.techmeme.com/260525/p1#a260525p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779683102000,
+        "summary": "Charles Clover / Financial Times: The UK, outpaced by the US and China in AI, is turning to experimental technologies like neuromorphic computing in search of computing sovereignty — Military capability depends increasingly on data centres. Now governments outpaced in AI are looking to experimental technologies.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0681
+      },
+      {
+        "id": "5476c72563526805",
+        "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+        "url": "https://arxiv.org/abs/2605.22866",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "0f1911b7ef898f7c",
+        "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+        "url": "https://arxiv.org/abs/2605.22878",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic ret",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.ir",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "8de4382062b6f722",
+        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2605.22883",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementat",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.pf"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "7ba10f937dd2ff8f",
+        "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+        "url": "https://arxiv.org/abs/2605.22885",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data quality for neural provers. However, scalable proof optimization is hindered by heterogeneous and heuristically specified objectives, scarce data, and high training and inference costs. To overcome t",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "13db2f7423c57a6d",
+        "title": "The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems",
+        "url": "https://arxiv.org/abs/2605.23024",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from curiosities into design rules. Its flagship result proves an accuracy ceiling set by architecture alo",
+        "tags": [
+          "cs.ai",
+          "cs.cc",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "a92a53450467cd38",
+        "title": "Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems",
+        "url": "https://arxiv.org/abs/2605.23109",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23109v1 Announce Type: new Abstract: AI agents increasingly excel at generating, testing, and refining code. However, they fall short on tasks requiring formal guarantees of full coverage that testing alone cannot provide. Distributed systems are a prime example: properties such as consistency between reads and writes must hold under every possible interleaving of events. Mechanized for",
+        "tags": [
+          "cs.ai",
+          "cs.dc",
+          "cs.lo",
+          "cs.pl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "566bdf878c02bcbe",
+        "title": "WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems",
+        "url": "https://arxiv.org/abs/2605.22876",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22876v1 Announce Type: new Abstract: Existing neural solvers for Multi-Objective Combinatorial Optimization Problems (MOCOPs) commonly adopt decomposition-based strategies that scalarize an MOCOP into multiple subproblems associated with distinct weight vectors. However, they either inject weights only once during decoding, limiting weight-conditioned context modeling, or primarily duri",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "a7f707095ee8492c",
+        "title": "From Residuals to Reasons: LLM-Guided Mechanism Inference from Tabular Data",
+        "url": "https://arxiv.org/abs/2605.22897",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22897v1 Announce Type: new Abstract: A persistent challenge in machine learning for scientific applications is jointly achieving prediction and understanding. Statistical models excel on structured data but operate as black boxes, while existing interpretability methods are largely inspective: they answer \"which features matter?\" but do not articulate how features interact or refine exp",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "fb99a6512c9460db",
+        "title": "Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning",
+        "url": "https://arxiv.org/abs/2605.22940",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22940v1 Announce Type: new Abstract: Deep learning is increasingly viewed as a dynamical process in parameter space, yet many existing theories still treat training as a closed optimization system. This view is limited for real-world AI, where models operate under uncertainty, resource constraints, distribution shift, downstream decision risks, and human feedback. We propose Human-Cente",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "01728051a3d2013e",
+        "title": "Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization",
+        "url": "https://arxiv.org/abs/2605.22964",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22964v1 Announce Type: new Abstract: As state-of-the-art neural networks are deployed on reasoning and algorithmic tasks, exactness guarantees become increasingly important. However, high average-case accuracy can still mask inconsistent behaviors. This motivates exact certification, which asks for the smallest set of labeled examples needed to certify that a learned hypothesis equals t",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "34762d658b743fab",
+        "title": "A mathematical theory of balancing relational generalization and memorization",
+        "url": "https://arxiv.org/abs/2605.22972",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22972v1 Announce Type: new Abstract: Humans, animals, and modern machine learning models exhibit impressive abilities to learn complex behaviors and generalize these behaviors to unseen situations. This ability requires us to learn rules and regularities that allow for such generalizations. At the same time, in most complex environments, any rule will have its exceptions. How do learnin",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "1f5d515ca1da1308",
+        "title": "Smoothed Elicitation Complexity for Approximate $\\Gamma$-calibration of Discrete Classification Tasks",
+        "url": "https://arxiv.org/abs/2605.23017",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23017v1 Announce Type: new Abstract: One prominent method of evaluating machine learning model trustworthiness is the notion of calibration. In the binary outcome setting, a probabilistic predictor is calibrated if outcomes are realized according to a model's distributional prediction, conditioned on this prediction. Straightforward extensions of binary calibration definitions to probab",
+        "tags": [
+          "cs.lg",
+          "cs.gt"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
       {
         "id": "d888ec482d9321ce",
         "title": "AI 'Crashes the Party' at This Year's Cannes Film Festival - Including Multi-Year Meta Partnership",
@@ -2635,236 +2874,104 @@
         "paywall": false,
         "impact": "high",
         "score": 0.967
-      },
-      {
-        "id": "e662bc48e7e9774f",
-        "title": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case",
-        "url": "https://www.reddit.com/r/technology/comments/1tm6hwc/taiwan_raids_12_locations_in_its_first_formal/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779611807000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
-      },
-      {
-        "id": "c85b4ad461aa05aa",
-        "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI [video]",
-        "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779611378000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:126"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9211
-      },
-      {
-        "id": "c94b7586f5248d53",
-        "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-        "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779611378000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:9"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.012
-      },
-      {
-        "id": "90cec451edb329fb",
-        "title": "DeepSeek made its 75% discount permanent. The AI price war just escalated.",
-        "url": "https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779608922000,
-        "summary": "DeepSeek has made permanent the 75% price discount on its flagship V4 Pro model. The promotion was originally scheduled to expire on 31 May. The Chinese AI startup’s pricing now ranges from $0.003625 to $0.87 per million tokens, down from $0.0145 to $3.48. The price points are striking in context. OpenAI’s GPT-5 charges $2.50 per […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "business",
-          "china"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9635
-      },
-      {
-        "id": "041bb1ad8d49f834",
-        "title": "'Underminr' CDN Vulnerability Hides Malicious Traffic Behind Trusted Domains",
-        "url": "https://tech.slashdot.org/story/26/05/24/0043256/underminr-cdn-vulnerability-hides-malicious-traffic-behind-trusted-domains?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779608040000,
-        "summary": "Slashdot reader wiredmikey writes: Threat actors are exploiting a vulnerability in shared content delivery network (CDN) infrastructure to hide connections to malicious domains. Researchers say the vulnerability could impact roughly 88 million domains and can bypass DNS filtering and protective DNS controls, potentially enabling stealthy command-and-control communications and other evasive attacks",
-        "tags": [
-          "internet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0359
-      },
-      {
-        "id": "58124c19cb53fffb",
-        "title": "Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating (Paige Smith/Bloomberg)",
-        "url": "https://www.techmeme.com/260524/p4#a260524p4",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779600638000,
-        "summary": "Paige Smith / Bloomberg: Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating — Moment, the financial-technology company founded by a cohort of former Citadel Securities quantitative traders and researchers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0655
-      },
-      {
-        "id": "7ef9e75ebd274128",
-        "title": "Newsom signs order aimed at tackling AI job displacement",
-        "url": "https://www.reddit.com/r/technology/comments/1tm2xuw/newsom_signs_order_aimed_at_tackling_ai_job/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779600091000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0093
-      },
-      {
-        "id": "4c511a7eb4e75a03",
-        "title": "Hands-on with a pre-release build of Google Docs Live, an AI-powered voice tool for drafting documents, rolling out this summer to AI Pro and Ultra subscribers (Nicole Nguyen/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260524/p3#a260524p3",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779599732000,
-        "summary": "Nicole Nguyen / Wall Street Journal: Hands-on with a pre-release build of Google Docs Live, an AI-powered voice tool for drafting documents, rolling out this summer to AI Pro and Ultra subscribers — An exclusive look at Docs Live, Google's new speech-powered AI project manager and writing partner — Microsoft Word brought word processing to the masses.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0604
-      },
-      {
-        "id": "ba36ff42e07dedd5",
-        "title": "Linus Torvalds on How AI is Impacting the Hunt for Linux Kernel Bugs",
-        "url": "https://linux.slashdot.org/story/26/05/23/2041253/linus-torvalds-on-how-ai-is-impacting-the-hunt-for-linux-kernel-bugs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779586440000,
-        "summary": "Linus Torvalds spoke this week at the Linux Foundation's Open Source Summit North America, reports ZDNet — and described how AI is impacting Linux kernel development: \"In the last six months, we've seen a lot more commits,\" Torvalds noted, estimating that \"the last two releases, it's been about 20% more commits than we had in the previous releases over many years.... The real change that happened ",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1252
-      },
-      {
-        "id": "4020450ccccc346b",
-        "title": "Insider Says Ubisoft Is Testing Gen AI In Far Cry 7, And It \"Looks Like S**t\"",
-        "url": "https://www.reddit.com/r/technology/comments/1tluwn0/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779577274000,
-        "summary": "submitted by /u/esporx [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0082
-      },
-      {
-        "id": "b867e2e96b396d55",
-        "title": "For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down (Alexandra Alter/New York Times)",
-        "url": "https://www.techmeme.com/260523/p13#a260523p13",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779574201000,
-        "summary": "Alexandra Alter / New York Times: For publishers, pirated audiobooks made with AI on YouTube are a growing issue: removal is cumbersome, and some are hiring tech companies to take them down — Illegal, synthetically narrated copies of “The Hunger Games,” hit self-help books and everything in between are increasingly common on the platform.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0794
-      },
-      {
-        "id": "3e4a9e5339f2c607",
-        "title": "I’ve tested both of Anker's new feature-packed Soundcore earbuds, which offer everything from personalized sound to Dolby Atmos to AI translation — one is clearly better, but I’d actually recommend buying the other one",
-        "url": "https://www.techradar.com/audio/earbuds-airpods/ive-tested-both-of-ankers-new-feature-packed-soundcore-earbuds",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779573600000,
-        "summary": "Anker's Soundcore brand has released two new earbuds; I've tested both, and have the lowdown on how they're different.",
-        "tags": [
-          "earbuds &amp; airpods",
-          "audio",
-          "headphones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9173
-      },
-      {
-        "id": "58f375c5323682b3",
-        "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
-        "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1779572491000,
-        "summary": "Apple is readying the subdomain genai.apple.com, according to MacRumors contributor Aaron Perris, but it does not yet lead to a live web page. This comes a few weeks ahead of Apple's annual developers conference WWDC, where the company has promised to announce \"AI advancements\" across its software platforms. Apple's website already has an Apple Intelligence page, so it is unclear what the company'",
-        "tags": [
-          "wwdc",
-          "apple intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0775
-      },
-      {
-        "id": "e2433735797357c1",
-        "title": "Starbucks scraps AI inventory tool across North America: Reuters",
-        "url": "https://www.reddit.com/r/technology/comments/1tlsca4/starbucks_scraps_ai_inventory_tool_across_north/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779570718000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9505
-      },
-      {
-        "id": "b232a933294bd4f6",
-        "title": "US Layoffs Haven't Increased, and New Tech Industry Hiring Balances Firings",
-        "url": "https://it.slashdot.org/story/26/05/23/064223/us-layoffs-havent-increased-and-new-tech-industry-hiring-balances-firings?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779568440000,
-        "summary": "\"The numbers show that layoffs in the U.S. are roughly at or below levels from before the pandemic,\" reports the Washington Post, \"although they are higher than in 2022 when businesses snapped up workers as the economy roared back to life... \"A different measure that accounts for the growing U.S. workforce shows that layoffs affected about 1.2% of employed people in March, a number that has been s",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.044
       }
     ],
     "science": [
+      {
+        "id": "2cac34efc49b9d11",
+        "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
+        "url": "https://arxiv.org/abs/2605.22900",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22900v1 Announce Type: new Abstract: Mediative Fuzzy Logic was conceived as a practical scheme for reconciling hesitant or conflicting assessments in fuzzy control and decision-making. However, its logical and semantic foundations remain underdeveloped, especially beyond operational type-1 settings. This article develops a unified account of the type-1 core together with interval type-2",
+        "tags": [
+          "cs.ai",
+          "cs.lo",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "55e9232331d47384",
+        "title": "FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence",
+        "url": "https://arxiv.org/abs/2605.22868",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22868v1 Announce Type: new Abstract: Autonomous systems and smart-industry deployments increasingly split computation across near-sensor, edge, and cloud resources, where tight energy, latency, and reliability budgets demand run-time adaptivity. In practice, deciding what to compute and transmit at each point is pivotal; yet as multimodal sensor suites (cameras, LiDAR/depth, etc.) proli",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1125
+      },
+      {
+        "id": "590533477f583e22",
+        "title": "Solving the Aircraft Disassembly Scheduling Problem",
+        "url": "https://arxiv.org/abs/2605.23592",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23592v1 Announce Type: new Abstract: Dismantling aircrafts reaching their end of life is a complex endeavour that is necessary in terms of sustainability but yields small income margins for air transport companies. An efficient scheduling of the disassembly procedure is thus crucial to ensure the profitability of the process and incentivize practice. This is a large scheduling problem t",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0301
+      },
+      {
+        "id": "704ce6980458f22a",
+        "title": "Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment",
+        "url": "https://arxiv.org/abs/2605.23780",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.23780v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) need efficient mechanisms to update knowledge without degrading existing capabilities. While intrinsic multimodal knowledge editing achieves strong reliability and locality, it often exhibits limited generality, failing to propagate edits across semantically equivalent visual and linguistic variations. This is",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0301
+      },
+      {
+        "id": "98408132dff7532e",
+        "title": "Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity",
+        "url": "https://arxiv.org/abs/2605.22871",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22871v1 Announce Type: new Abstract: Machine unlearning is a fundamental mechanism that enforces the right to be forgotten. Existing unlearning studies that rely on label manipulation or task-gradient reversal often deliver limited unlearning effectiveness. Moreover, they can undermine the original learning objective and typically do not guarantee equivalence to standard unlearning by r",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0301
+      },
+      {
+        "id": "79d68b5179749801",
+        "title": "Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems",
+        "url": "https://arxiv.org/abs/2605.22891",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779681600000,
+        "summary": "arXiv:2605.22891v1 Announce Type: new Abstract: Evaluation in scientific reconstruction is dominated by pointwise metrics - RMSE, MAE, per-event resolution - under the implicit assumption that lower error means better reconstruction. We show that this assumption fails structurally for inverse problems with multimodal posteriors. By the law of total variance, point estimators trained to minimize MS",
+        "tags": [
+          "cs.lg",
+          "hep-ex"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0301
+      },
       {
         "id": "e6ea4c0332b67524",
         "title": "Expedition to Hess Rise in the Northwest Pacific begins",
@@ -3698,98 +3805,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9478
-      },
-      {
-        "id": "82ceae1347a15d53",
-        "title": "SpaceX launched Starship V3 three weeks before its IPO. The booster exploded.",
-        "url": "https://thenextweb.com/news/spacex-starship-v3-flight-12-ipo-superheavy-failure",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1779530163000,
-        "summary": "SpaceX launched the 12th test flight of its Starship rocket on Friday evening from Starbase, Texas, marking the debut of the upgraded Version 3 vehicle. The flight successfully deployed 20 mock Starlink satellites and beamed live video from space, but the Super Heavy booster was destroyed after separation, failing to achieve a controlled descent. The […] This story continues at The Next Web",
-        "tags": [
-          "google",
-          "space",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9593
-      },
-      {
-        "id": "8cc4fd367c866ea8",
-        "title": "SpaceX Starship V3's first test flight was largely successful",
-        "url": "https://www.engadget.com/2180020/spacex-starship-v3-first-test-flight-success/",
-        "source": "Engadget",
-        "lane": "science",
-        "published_ts": 1779529220000,
-        "summary": "SpaceX achieved most of the goals it set out for Starship V3's first test flight.",
-        "tags": [
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6998
-      },
-      {
-        "id": "4c5998842fca1478",
-        "title": "China set for latest space launch, with Hong Kong astronaut aboard",
-        "url": "https://phys.org/news/2026-05-china-latest-space-hong-kong.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779528027000,
-        "summary": "A Hong Kong astronaut will join a Chinese space mission for the first time as part of a three-person crew launching on Sunday, as Beijing edges closer to its goal of landing people on the moon.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1014
-      },
-      {
-        "id": "1268aaf6bb5c2d75",
-        "title": "SpaceX launches its biggest, most beefed-up Starship yet on a test flight",
-        "url": "https://phys.org/news/2026-05-spacex-biggest-beefed-starship-flight.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779527972000,
-        "summary": "SpaceX launched its biggest, most powerful Starship yet on a test flight Friday, an upgraded version that NASA is counting on to land astronauts on the moon.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "7c50dd531429be47",
-        "title": "Caltech Could Lose Control of JPL For First Time In Decades",
-        "url": "https://science.slashdot.org/story/26/05/23/038238/caltech-could-lose-control-of-jpl-for-first-time-in-decades?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1779519600000,
-        "summary": "NASA plans to open competition for the contract to operate JPL for the first time in nearly a century, meaning Caltech's historic role managing the iconic deep-space lab could come to an end when its current agreement expires in 2028. According to JPL, Caltech has managed the lab since the its inception in the 1930s, and has done so for NASA since the agency was established in 1958. Space.com repo",
-        "tags": [
-          "nasa"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0469
-      },
-      {
-        "id": "46d64e8300d3b593",
-        "title": "Pentagon Releases Second Batch of UFO Videos, First-Hand Testimony",
-        "url": "https://entertainment.slashdot.org/story/26/05/23/0039205/pentagon-releases-second-batch-of-ufo-videos-first-hand-testimony?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1779507000000,
-        "summary": "The Pentagon released a second batch of UAP files, including 50 videos and documents showing unexplained objects over the Middle East, Syria, Iran, and in NASA recordings. Despite the reports, the agency stresses that it has found no evidence of extraterrestrial origin. The Guardian reports: In one video from the Middle East in 2019, taken \"likely from an infrared sensor aboard a US military platf",
-        "tags": [
-          "scifi"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1293
       }
     ]
   },
