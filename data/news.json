@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-25T17:49:48.710305+00:00",
+  "generated_at": "2026-05-25T17:58:11.698730+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "5bbba61d0b6a7150",
+        "title": "Annoying YouTube Music glitch stops playback after one song",
+        "url": "https://www.androidpolice.com/new-youtube-music-bug-prevents-users-from-playing-the-next-track/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1779731512000,
+        "summary": "But there's an easy fix",
+        "tags": [
+          "youtube music",
+          "entertainment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.998
+      },
       {
         "id": "e1c1bfbaaa5dd014",
         "title": "The 6 Android Focus mode combinations I use to stay sane and reachable",
@@ -934,24 +950,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7033
-      },
-      {
-        "id": "ed68f30c22f6a937",
-        "title": "I stopped doomscrolling after building my own feed with NotebookLM",
-        "url": "https://www.androidpolice.com/stopped-doomscrolling-after-building-feed-notebooklm/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1779636435000,
-        "summary": "Here’s how I escaped my endless scrolling habit",
-        "tags": [
-          "notebooklm",
-          "best reads",
-          "productivity",
-          "android police's best reads"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9954
       }
     ],
     "innovation": [
@@ -1920,6 +1918,21 @@
     ],
     "ai": [
       {
+        "id": "2b2db3f0aef8dc61",
+        "title": "AI promised cost savings, but Microsoft and Uber say it’s costing more than human workers | Company Business News",
+        "url": "https://www.reddit.com/r/technology/comments/1tngegf/ai_promised_cost_savings_but_microsoft_and_uber/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779731178000,
+        "summary": "submitted by /u/jackiethesage [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0221
+      },
+      {
         "id": "af1e82964d49698d",
         "title": "Wikipedia may have built the best AI writing detection guide",
         "url": "https://www.makeuseof.com/wikipedia-best-ai-writing-detection-guide/",
@@ -2823,19 +2836,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0642
-      },
-      {
-        "id": "c4ec52dd5d0e4fae",
-        "title": "A profile of Meta CTO Andrew \"Boz\" Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company (Meghan Bobrowsky/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260525/p3#a260525p3",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779686700000,
-        "summary": "Meghan Bobrowsky / Wall Street Journal: A profile of Meta CTO Andrew “Boz” Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company — Andrew Bosworth, Meta's outspoken chief technology officer, has a new mission: transforming the company's workforce using AI",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0557
       }
     ],
     "science": [
@@ -3744,19 +3744,21 @@
         "score": 0.9886
       },
       {
-        "id": "247e7dd47dd5175c",
-        "title": "Commercial satellite supplying intel to Ukraine is cornered by four Russian spacecraft — US Space Force can only watch as Russia threatens 'quasi-civilian' targets",
-        "url": "https://www.tomshardware.com/tech-industry/russia-moves-four-satellites-to-close-gap-with-commercial-radar-satellite-delivering-intelligence-to-ukraine-while-fifth-satellite-makes-similar-move-us-officials-believe-some-of-them-to-be-part-of-an-anti-satellite-weapons-program",
-        "source": "Tom's Hardware",
+        "id": "0a0f646078707268",
+        "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+        "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+        "source": "The Verge",
         "lane": "science",
         "published_ts": 1779620400000,
-        "summary": "These Russian satellites are getting uncomfortably close to a U.S.- and European-operated radar satellite, particularly in Ukraine, used for reconnaissance missions. While their intentions are unclear, these maneuvers consume a lot of fuel and are not typically undertaken by other satellites.",
+        "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better? Nuro, the […]",
         "tags": [
-          "tech industry"
+          "autonomous cars",
+          "report",
+          "transportation"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.0197
+        "impact": "normal",
+        "score": 0.4363
       }
     ]
   },
