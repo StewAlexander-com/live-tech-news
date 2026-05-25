@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:59:31.564174+00:00",
+  "generated_at": "2026-05-25T05:09:37.747254+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -967,6 +967,25 @@
     ],
     "innovation": [
       {
+        "id": "c7d84af36c51fd5e",
+        "title": "Hacking a Video Walkie Talkie’s TXW818 MCU and Running DOOM",
+        "url": "https://hackaday.com/2026/05/24/hacking-a-video-walkie-talkies-txw818-mcu-and-running-doom/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1779685200000,
+        "summary": "Recently cheapo video walkie-talkies popped up on everyone’s favorite online retailers, which naturally lured in the usual gaggle of reverse-engineering enthusiasts of cheap tat to see what’s inside these devices, …read more",
+        "tags": [
+          "games",
+          "microcontrollers",
+          "reverse engineering",
+          "does it run doom",
+          "walkie talkie"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0767
+      },
+      {
         "id": "6c587fbf3e8acf36",
         "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
         "url": "https://arxiv.org/abs/2605.22874",
@@ -1899,26 +1918,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9955
-      },
-      {
-        "id": "b194789f985e6f4c",
-        "title": "Meet the Raven: an Atari Clone Computer Based on the Motorola 68060",
-        "url": "https://hackaday.com/2026/05/24/meet-the-raven-an-atari-clone-computer-based-on-the-motorola-68060/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779620400000,
-        "summary": "Some people who have a hankering to run GEM/TOS applications might just fire up an emulator, or maybe coax an old Motorola 68k-based Atari ST system back to life. Then …read more",
-        "tags": [
-          "retrocomputing",
-          "68060",
-          "atari"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
       }
     ],
     "ai": [
+      {
+        "id": "f1a0845c00a62b1a",
+        "title": "Can you tell a bot from a human online? Surfshark's new experiment says nearly half of us cannot",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/can-you-tell-a-bot-from-a-human-online-surfsharks-new-experiment-says-nearly-half-of-us-cannot",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1779685200000,
+        "summary": "Surfshark's \"Bot or Not\" experiment found that 47% of participants failed to tell AI bots from humans on simulated social platforms. And you can try, too.",
+        "tags": [
+          "vpn privacy &amp; security",
+          "vpn"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9152
+      },
       {
         "id": "265bf3405f101c3d",
         "title": "A look at DeepSeek's model optimization to reduce HBM use, potentially enabling domestic memory, ASIC, and CPU makers to create a Chinese AI hardware ecosystem (@bookwormengr)",
@@ -2857,23 +2875,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9568
-      },
-      {
-        "id": "80db31098440c726",
-        "title": "Former Citadel quants raised $78M for the AI operating system Wall Street’s wealth managers didn’t have",
-        "url": "https://thenextweb.com/news/moment-78-million-citadel-quants-ai-trading-wealth-management",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779613324000,
-        "summary": "Moment, the fintech company founded by a cohort of former Citadel Securities quantitative traders and researchers, has raised $78 million. The round was led by Index Ventures with participation from existing investors Andreessen Horowitz and Avra. The company last raised $36 million in July 2025. Moment builds infrastructure that allows wealth management firms to deploy […] This story continues at",
-        "tags": [
-          "artificial intelligence",
-          "fintech and ecommerce",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.967
       }
     ],
     "science": [
