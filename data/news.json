@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T16:23:08.642310+00:00",
+  "generated_at": "2026-05-25T16:36:31.175093+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -960,6 +960,22 @@
     ],
     "innovation": [
       {
+        "id": "82e350f34760d48a",
+        "title": "I kept my power tool batteries in the wrong place for years — here's where they actually belong",
+        "url": "https://www.makeuseof.com/never-store-lithium-ion-batteries-in-these-5-places/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779726618000,
+        "summary": "Be smart about it and you'll have nothing to worry about.",
+        "tags": [
+          "home",
+          "batteries"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8483
+      },
+      {
         "id": "23b64fe4c6229a8f",
         "title": "Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference (Tristan Bove/Fortune)",
         "url": "https://www.techmeme.com/260525/p16#a260525p16",
@@ -1903,21 +1919,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.946
-      },
-      {
-        "id": "0d20f754d18cec26",
-        "title": "Canonical Is Shutting Down Ubuntu Pastebin",
-        "url": "https://news.slashdot.org/story/26/05/24/2042245/canonical-is-shutting-down-ubuntu-pastebin?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1779657060000,
-        "summary": "\"Canonical says Ubuntu Pastebin will be decommissioned at the end of May 2026,\" writes Slashdot reader BrianFagioli, \"as part of an infrastructure modernization effort.\" The announcement only appeared this week, giving the Linux community barely any warning before a service that has been tied to Ubuntu support culture for years suddenly disappears. Ubuntu Pastebin has long been used for sharing lo",
-        "tags": [
-          "ubuntu"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0487
       }
     ],
     "ai": [
@@ -2156,7 +2157,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1083
+        "score": 1.3277
       },
       {
         "id": "b0e845fed6b2d46a",
@@ -2818,20 +2819,22 @@
         "score": 1.0681
       },
       {
-        "id": "5476c72563526805",
-        "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
-        "url": "https://arxiv.org/abs/2605.22866",
+        "id": "0f1911b7ef898f7c",
+        "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+        "url": "https://arxiv.org/abs/2605.22878",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1779681600000,
-        "summary": "arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints",
+        "summary": "arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic ret",
         "tags": [
           "cs.ai",
+          "cs.cl",
+          "cs.ir",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8934
+        "score": 0.8896
       }
     ],
     "science": [
