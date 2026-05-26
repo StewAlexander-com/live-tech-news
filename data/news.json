@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T19:45:22.083838+00:00",
+  "generated_at": "2026-05-26T19:49:30.467608+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3804,6 +3804,37 @@
         "score": 1.004
       },
       {
+        "id": "f2c5d172b3158ccb",
+        "title": "MAPLE: Multi-State Aggregated Policy Evaluation for AlphaZero in Imperfect-Information Games",
+        "url": "https://arxiv.org/abs/2605.24139",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779768000000,
+        "summary": "arXiv:2605.24139v1 Announce Type: new Abstract: Imperfect-information games (IIGs) are challenging, as players must make decisions without fully observing the true game state. While AlphaZero has achieved remarkable success in perfect-information games, extending it to IIGs remains difficult. Existing search-based approaches, such as Perfect Information Monte Carlo (PIMC), suffer from strategy fus",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7742
+      },
+      {
+        "id": "d869e75f0ded6700",
+        "title": "Interdomain Attention: Beyond Token-Level Key-Value Memory",
+        "url": "https://arxiv.org/abs/2605.24330",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779768000000,
+        "summary": "arXiv:2605.24330v1 Announce Type: new Abstract: Transformers and deep state space models (SSMs) sit at opposite ends of a basic design choice: attention routes each query through a growing key-value (KV) cache by content-based matching at quadratic cost, while deep SSMs compress context into a fixed-size recurrent state that is not directly addressed by query-key matching. We propose Interdomain A",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7742
+      },
+      {
         "id": "bf67eb20f6334ed0",
         "title": "Spacetime Formation under Requirements: Contextual Realization and Form-Dependent Probability",
         "url": "https://arxiv.org/abs/2605.23943",
@@ -3836,36 +3867,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1162
-      },
-      {
-        "id": "74692dbcdbff981d",
-        "title": "Fourier Feature Pyramids for Physics-Informed Neural Networks",
-        "url": "https://arxiv.org/abs/2605.24278",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1779768000000,
-        "summary": "arXiv:2605.24278v1 Announce Type: new Abstract: We present an improved neural field architecture for solving partial differential equations (PDEs). Current physics-informed neural networks (PINNs) provide a flexible framework for solving PDEs, but they struggle to achieve highly accurate solutions and require computation that scales poorly with parameter count. Our model, which we call beignet (Ba",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1162
-      },
-      {
-        "id": "d703b056d6407cd7",
-        "title": "A Dynamical Framework for Cognitive Processes Based on Transformations and Semantic Equivalence",
-        "url": "https://arxiv.org/abs/2605.23942",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1779768000000,
-        "summary": "arXiv:2605.23942v1 Announce Type: new Abstract: This paper proposes a structural and dynamical framework for modeling cognitive processes within a cybernetic perspective. Cognitive states are represented as elements of a state space evolving through an iterative update rule of the form \\[ X_{t+1} = \\pi\\big(F(f(X_t))\\big), \\] where $f$ describes internal transformations, $F$ represents interpretati",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0335
       }
     ]
   },
