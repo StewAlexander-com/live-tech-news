@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-05-26T10:15:58.921784+00:00",
+  "generated_at": "2026-05-26T10:30:36.300323+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "bd02e7115b2a2772",
+        "title": "Foreign-brand phone shipments to China rose 1.8% in April, CAICT data shows",
+        "url": "https://thenextweb.com/news/foreign-phone-shipments-china-april-2026-caict",
+        "source": "The Next Web",
+        "lane": "gadgets",
+        "published_ts": 1779790445000,
+        "summary": "Foreign-branded smartphone shipments to China, a category dominated by Apple, rose 1.8% year-on-year in April to 3.59 million handsets, according to Reuters calculations based on figures published by the China Academy of Information and Communications Technology, the government-run research body that tracks domestic handset shipments. The number is a meaningful deceleration. Foreign-brand shipment",
+        "tags": [
+          "china",
+          "apple"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8952
+      },
       {
         "id": "a986f8fc9a41d20c",
         "title": "Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump (Bloomberg)",
@@ -924,26 +940,27 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8455
-      },
-      {
-        "id": "a3f7be32fc4f5a41",
-        "title": "Your motherboard has more M.2 slots than your CPU can actually handle at full speed",
-        "url": "https://www.makeuseof.com/more-nvme-ssds-can-make-your-pc-slower-if-you-ignore-this/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1779714018000,
-        "summary": "Your SSD may be running at half its speed if you're not smart with its placement.",
-        "tags": [
-          "technology explained",
-          "pcie",
-          "computer memory"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8424
       }
     ],
     "innovation": [
+      {
+        "id": "9072e1c32acf1fd8",
+        "title": "Nationalists promise Malta veto against proposed European Union online gambling tax",
+        "url": "https://readwrite.com/maltas-nationalists-veto-european-union-online-gambling-tax/",
+        "source": "ReadWrite",
+        "lane": "innovation",
+        "published_ts": 1779790729000,
+        "summary": "Malta’s opposition Nationalist Party says it would block any attempt to introduce a European Union-wide online gambling tax, arguing the… Continue reading Nationalists promise Malta veto against proposed European Union online gambling tax The post Nationalists promise Malta veto against proposed European Union online gambling tax appeared first on ReadWrite.",
+        "tags": [
+          "gambling",
+          "european union",
+          "gambling legislation",
+          "malta"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8966
+      },
       {
         "id": "a986f8fc9a41d20c",
         "title": "Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump (Bloomberg)",
@@ -1892,22 +1909,53 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9937
-      },
-      {
-        "id": "cd0026cd1fd35691",
-        "title": "The History of ‘OK’",
-        "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1779729536000,
-        "summary": "Merriam-Webster: The 1820s and 1830s shared another linguistic fad with today: an appreciation for deliberate misspellings. (Kewl, rite?) This trend, which had humorists adopting now-cringey bumpkin personas with ignorance manifested in uneducated spellings, turned no go into know go and no use into know yuse (lol). Abbreviations were not immune, and no go became K.G.. So too all right became O.W.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0769
       }
     ],
     "ai": [
+      {
+        "id": "03abf438f78ecdcf",
+        "title": "Spotify co-CEO Alex Norström defends the company's expansion into AI-generated music, arguing that \"controlled\" products are superior to unregulated AI \"slop\" (Financial Times)",
+        "url": "https://www.techmeme.com/260526/p7#a260526p7",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779791101000,
+        "summary": "Financial Times: Spotify co-CEO Alex Norström defends the company's expansion into AI-generated music, arguing that “controlled” products are superior to unregulated AI “slop” — Streaming app strikes deal with Universal allowing subscribers to create ‘controlled’ covers and remixes",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0781
+      },
+      {
+        "id": "d0d138b131f81a06",
+        "title": "How .BRANDs improve domain security and user trust – even in an AI world",
+        "url": "https://www.techradar.com/pro/how-brands-improve-domain-security-and-user-trust-even-in-an-ai-world",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1779790952000,
+        "summary": ".BRAND gTLDs bolster domain security against phishing, fraud and other AI-generated threats.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9156
+      },
+      {
+        "id": "a50ec6c046d38028",
+        "title": "AI shrinks zero-day exploit time from a year to a single day, heading toward one minute — Zero-Day Clock warns security window has collapsed",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1779790800000,
+        "summary": "Zero-Day clock visualizes the effect of AI on software security and predicts that exploits will happen one minute after disclosure in 2027.",
+        "tags": [
+          "cybersecurity",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0225
+      },
       {
         "id": "57a1addf3e48db1e",
         "title": "'ChatGPT kind of sucked' — Former Assassin's Creed director says he used AI to help him learn to code, but it was 'brutal'",
@@ -1974,6 +2022,23 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.85
+      },
+      {
+        "id": "82d1b17a13d6e084",
+        "title": "China extends AI travel curbs from DeepSeek to other private firms",
+        "url": "https://thenextweb.com/news/china-expands-travel-curbs-private-ai-talent",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1779789064000,
+        "summary": "Top researchers at private Chinese AI companies are being asked to surrender passports, in a quiet expansion of the controls that began at DeepSeek earlier this year. China is widening its informal travel restrictions on senior AI researchers, extending controls that began at DeepSeek earlier this year to a broader group of private-sector firms working at the […] This story continues at The Next W",
+        "tags": [
+          "china",
+          "next featured",
+          "government and policy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9597
       },
       {
         "id": "250b5b583090873e",
@@ -2800,70 +2865,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9969
-      },
-      {
-        "id": "4e87c19f97dce2eb",
-        "title": "Ubers COO says its getting harder to justify the money spent on AI tokenmaxxing",
-        "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779727489000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:30"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1249
-      },
-      {
-        "id": "7c3eb32a1886c7dd",
-        "title": "Megalibraries could reshape AI-driven materials discovery faster than self-driving labs",
-        "url": "https://phys.org/news/2026-05-megalibraries-reshape-ai-driven-materials.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1779724805000,
-        "summary": "Scientists may soon stop hunting for new materials—and start designing them to order. For the first time, Northwestern University scientists have demonstrated that megalibraries—tools that dramatically accelerate materials discovery—can do more than uncover promising new materials. They can also help scientists intentionally engineer those new materials with specific properties.",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0935
-      },
-      {
-        "id": "8f7a17131d3bcc34",
-        "title": "What ClickUp’s mass layoff tells us about the future of work",
-        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779724800000,
-        "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-        "tags": [
-          "startups",
-          "ai",
-          "layoff",
-          "clickup"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8019
-      },
-      {
-        "id": "0fa01f0fc5edf400",
-        "title": "Pope Leo presents 'Magnifica humanitas’ calling for disarmament of AI - Vatican News",
-        "url": "https://www.reddit.com/r/technology/comments/1tnd5uv/pope_leo_presents_magnifica_humanitas_calling_for/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779724294000,
-        "summary": "submitted by /u/Haunterblademoi [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0005
       }
     ],
     "science": [
