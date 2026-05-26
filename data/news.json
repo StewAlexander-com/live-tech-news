@@ -1,7 +1,54 @@
 {
-  "generated_at": "2026-05-26T18:11:36.232495+00:00",
+  "generated_at": "2026-05-26T18:33:40.629946+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "4e23a8959deb35f2",
+        "title": "I turned off GPU shared memory in BIOS and my PC finally felt like 16GB again",
+        "url": "https://www.makeuseof.com/turned-off-gpu-shared-memory-in-bios-pc-finally-felt-like-16gb/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1779820219000,
+        "summary": "Your system is hoarding your RAM, reserving it for the iGPU you don't even need.",
+        "tags": [
+          "technology explained",
+          "computer memory"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8491
+      },
+      {
+        "id": "9ef7f5bd49600fbe",
+        "title": "iOS 26.6 Will Alert You When You've Maxed Out Blocked Contacts",
+        "url": "https://www.macrumors.com/2026/05/26/ios-26-6-contact-blocking-alert/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1779820015000,
+        "summary": "Apple's iOS 26.6 update appears to add new wording around blocked contact limits, though it is unclear if the actual limits have changed. Code in the beta suggests users will get a warning if they exceed the maximum number of blocked contacts. \"You've reached the maximum number of blocked contacts. To block additional callers, remove a blocked contact in Settings,\" reads the alert, which is titled",
+        "tags": [
+          "ios 26"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9978
+      },
+      {
+        "id": "3ee026d319bcc30e",
+        "title": "Kash Patel's 'BasedApparel' website is apparently hosting ClickFix malware",
+        "url": "https://www.techradar.com/pro/security/kash-patels-basedapparel-website-is-apparently-hosting-clickfix-malware",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779819600000,
+        "summary": "The malware targets macOS users only and serves commodity infostealers.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8463
+      },
       {
         "id": "3ba30e00df28e7fe",
         "title": "Google Play is about to warn you before apps disappear",
@@ -936,55 +983,60 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9986
-      },
-      {
-        "id": "91579d45534cbfce",
-        "title": "GoPro Mission 1 Pro review: The best action cam video quality comes at a high price",
-        "url": "https://www.engadget.com/2180965/gopro-mission-1-pro-review/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1779801004000,
-        "summary": "GoPro's Mission 1 Pro action cam has a big 1-inch sensor that offers sharp, color accurate 8K 60 fps and 4K 240 fps video.",
-        "tags": [
-          "photography"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7544
-      },
-      {
-        "id": "99c28e6e747e66c6",
-        "title": "Ghost CMS flaw hijacked to target hundreds of websites with ClickFix attacks — here's how to stay safe",
-        "url": "https://www.techradar.com/pro/security/ghost-cms-flaw-hijacked-to-target-hundreds-of-websites-with-clickfix-attacks-heres-how-to-stay-safe",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779800700000,
-        "summary": "A critical-level flaw in a popular CMS, patched months ago, is now being abused.",
-        "tags": [
-          "security",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.842
-      },
-      {
-        "id": "e08124d52b4c3173",
-        "title": "'It's something we've never done before': Logitech's newest flagship mouse and keyboard comes with something you might never expect - a cushion",
-        "url": "https://www.techradar.com/pro/its-something-weve-never-done-before-logitechs-newest-flagship-mouse-and-keyboard-comes-with-something-you-might-never-expect-a-cushion",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779800619000,
-        "summary": "The Logitech Signature Comfort Plus wants to add some comfort to your most vital office kit.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8416
       }
     ],
     "innovation": [
+      {
+        "id": "cf46f86bc634a481",
+        "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+        "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1779820381000,
+        "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+        "tags": [
+          "ai",
+          "startups",
+          "tc",
+          "ai gateway",
+          "capitalg",
+          "openrouter"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8077
+      },
+      {
+        "id": "970b968d1ecc5e00",
+        "title": "Polymer strategy boosts lithium battery safety and performance by making plasticizers compatible",
+        "url": "https://phys.org/news/2026-05-polymer-strategy-boosts-lithium-battery.html",
+        "source": "Phys.org",
+        "lane": "innovation",
+        "published_ts": 1779819607000,
+        "summary": "The performance and safety profile of lithium batteries has improved immensely over the years, but new technologies are constantly demanding even better performance and increased safety demands due to higher energy densities. Now, a study, published in the Journal of the American Chemical Society, reports on a new method that improves the way plasticizers work with poly(vinylidene fluoride) (PVDF)",
+        "tags": [
+          "polymers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0968
+      },
+      {
+        "id": "2903aff68259086a",
+        "title": "4 NVIDIA App improvements we want to see now that the Control Panel is gone",
+        "url": "https://www.makeuseof.com/nvidia-control-panel-retired-nvidia-app-new-features/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1779819558000,
+        "summary": "The classic dashboard is finally being laid to rest after 20 long years.",
+        "tags": [
+          "windows",
+          "nvidia"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8461
+      },
       {
         "id": "16372a1672506448",
         "title": "I found a hidden Android list of every app I haven't touched in months, and it freed up gigs of storage",
@@ -1930,61 +1982,40 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8573
-      },
-      {
-        "id": "029023c66a78f0a2",
-        "title": "GitHub Actions lock-in is why developers won't switch to Gitea or Forgejo despite record outages",
-        "url": "https://www.makeuseof.com/github-keeps-breaking-and-almost-no-one-is-leaving-the-reason-is-one-feature/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779793218000,
-        "summary": "GitHub Actions is why developers can't leave GitHub despite dozens of outages — and why Microsoft stopped pretending it was independent.",
-        "tags": [
-          "productivity",
-          "github",
-          "programming",
-          "git",
-          "microsoft"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8089
-      },
-      {
-        "id": "335284cb9655910d",
-        "title": "How Mars can help us understand 'marginal' exoplanets",
-        "url": "https://phys.org/news/2026-05-mars-marginal-exoplanets.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1779793204000,
-        "summary": "Mars holds a special place in the solar system. It represents marginal habitability. This means it transitioned from warm and wet and potentially hospitable, to cold and dry and inhospitable.",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9707
-      },
-      {
-        "id": "64494ee3bd3ed169",
-        "title": "Federal casino fraud indictment targets Sacramento man over fake cannabis investment",
-        "url": "https://readwrite.com/federal-casino-fraud-indictment-targets-sacramento-man-fake-cannabis/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1779792020000,
-        "summary": "Federal prosecutors say a Sacramento man collected more than $500,000 through a bogus cannabis investment operation that targeted people he… Continue reading Federal casino fraud indictment targets Sacramento man over fake cannabis investment The post Federal casino fraud indictment targets Sacramento man over fake cannabis investment appeared first on ReadWrite.",
-        "tags": [
-          "casino",
-          "california",
-          "crime",
-          "illegal gambling"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8511
       }
     ],
     "ai": [
+      {
+        "id": "793b6158e1e36951",
+        "title": "Tiny C64 PSU Rejects Tradition, Embraces USB",
+        "url": "https://hackaday.com/2026/05/26/tiny-c64-psu-rejects-tradition-embraces-usb/",
+        "source": "Hackaday",
+        "lane": "ai",
+        "published_ts": 1779820240000,
+        "summary": "The Commodore 64 has, by modern standards, the interesting power requirement of needing both 5 VDC and 9 VAC. Traditionally, one would use an iron-core transformer to step-down the wall …read more",
+        "tags": [
+          "retrocomputing",
+          "commodore 64",
+          "diy psu",
+          "usb-pd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.079
+      },
+      {
+        "id": "764e1363a57bb0b1",
+        "title": "Q&A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more (Nilay Patel/The Verge)",
+        "url": "https://www.techmeme.com/260526/p27#a260526p27",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1779820200000,
+        "summary": "Nilay Patel / The Verge: Q&A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more — Today, I'm talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
       {
         "id": "8a7a7761cf2b8c6f",
         "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
@@ -2035,6 +2066,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0212
+      },
+      {
+        "id": "ecb9e7b3050b942a",
+        "title": "Stack Overflow's forum is dead thanks to AI",
+        "url": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1779815832000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1065
       },
       {
         "id": "d6f0a37fe605e4cf",
@@ -2897,56 +2944,54 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9156
-      },
-      {
-        "id": "a50ec6c046d38028",
-        "title": "AI shrinks zero-day exploit time from a year to a single day, heading toward one minute — Zero-Day Clock warns security window has collapsed",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/zero-day-clock-visualizes-and-quantifies-the-effects-of-ai-on-software-security-time-until-exploit-went-from-one-year-to-one-day-and-projected-to-be-one-minute-soon-enough",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1779790800000,
-        "summary": "Zero-Day clock visualizes the effect of AI on software security and predicts that exploits will happen one minute after disclosure in 2027.",
-        "tags": [
-          "cybersecurity",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0225
-      },
-      {
-        "id": "57a1addf3e48db1e",
-        "title": "'ChatGPT kind of sucked' — Former Assassin's Creed director says he used AI to help him learn to code, but it was 'brutal'",
-        "url": "https://www.techradar.com/gaming/gaming-industry/chatgpt-kind-of-sucked-former-assassins-creed-director-says-he-used-ai-to-help-him-learn-to-code-but-it-was-brutal",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779790298000,
-        "summary": "Former Assassin's Creed Hexe director Clint Hocking has admitted to using AI in the past to help him learn to code, but found the process to be \"brutal.\"",
-        "tags": [
-          "gaming industry",
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9171
-      },
-      {
-        "id": "afc0234f67810bba",
-        "title": "Anthropic Demolished Legacy SaaS Stocks. Now It's Coming for Palantir.",
-        "url": "https://www.reddit.com/r/technology/comments/1to2f9e/anthropic_demolished_legacy_saas_stocks_now_its/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779789852000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.888
       }
     ],
     "science": [
+      {
+        "id": "7b5a9aa9075d1b04",
+        "title": "Liquid gold: The potential and risks of turning human urine into sustainable fertilizer",
+        "url": "https://phys.org/news/2026-05-liquid-gold-potential-human-urine.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779819605000,
+        "summary": "A new research review led by Griffith University suggests using human urine as a fertilizer could significantly boost sustainable agriculture—but key health risks and knowledge gaps must be addressed before it could be widely adopted. The review, led by a multi-disciplinary research team from Griffith, analyzed 35 global studies examining microbial risks associated with urine-derived fertilizers (",
+        "tags": [
+          "agriculture"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0156
+      },
+      {
+        "id": "0ac7b003d752dcf7",
+        "title": "Protein shape mapping could detect diseases before symptoms appear",
+        "url": "https://phys.org/news/2026-05-protein-diseases-symptoms.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779819601000,
+        "summary": "A University of Mississippi professor and his team have developed a technology that may one day lead to the early diagnosis of juvenile diabetes and CTE caused by traumatic brain injuries. The technology allows researchers to see and label protein shapes and interactions in mammal blood that can possibly lead to an earlier diagnosis of disease before a person even shows symptoms.",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0155
+      },
+      {
+        "id": "4122ed275cb8b774",
+        "title": "SpaceX reportedly pressured the Pentagon into paying more for Starlink access",
+        "url": "https://www.engadget.com/2181419/spacex-reportedly-pressured-the-pentagon-into-paying-more-for-starlink-access/",
+        "source": "Engadget",
+        "lane": "science",
+        "published_ts": 1779819173000,
+        "summary": "SpaceX is reportedly jacking up Starlink prices for the Pentagon.",
+        "tags": [
+          "news"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6993
+      },
       {
         "id": "c838046f3b2d0ca7",
         "title": "Stretching and squeezing drive the timing of glacial meltwater release",
@@ -3812,45 +3857,6 @@
         "lane": "science",
         "published_ts": 1779753600000,
         "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01665-8Conservation gains should not be at the mercy of political changes",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9437
-      },
-      {
-        "id": "94043919d3e0aa21",
-        "title": "A cautious voice on the closure of China’s journal ranking list",
-        "url": "https://www.nature.com/articles/d41586-026-01663-w",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779753600000,
-        "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01663-wA cautious voice on the closure of China’s journal ranking list",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9437
-      },
-      {
-        "id": "a0d0c24035d6121c",
-        "title": "Iran’s Internet blackout: a scholar’s month in the dark",
-        "url": "https://www.nature.com/articles/d41586-026-01666-7",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779753600000,
-        "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01666-7Iran’s Internet blackout: a scholar’s month in the dark",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9437
-      },
-      {
-        "id": "50f759532cc8c103",
-        "title": "Innovation starts in schools — lessons from China",
-        "url": "https://www.nature.com/articles/d41586-026-01620-7",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1779753600000,
-        "summary": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01620-7Countries that want successful innovation systems must invest in science education and science teachers.",
         "tags": [],
         "paywall": false,
         "impact": "high",
