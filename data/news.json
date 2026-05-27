@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-05-27T03:45:26.273950+00:00",
+  "generated_at": "2026-05-27T04:56:45.865941+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1fa5a25865ebb475",
+        "title": "Xreal's New Budget Display Glasses Can Change Their Look on the Fly",
+        "url": "https://www.cnet.com/tech/computing/xreals-new-budget-display-glasses-can-change-their-look-on-the-fly/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1779854470000,
+        "summary": "X by Xreal is arriving in July for $299, and they look to compete with TCL's budget glasses.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8055
+      },
       {
         "id": "5876d9991a5b89d1",
         "title": "Initial benchmarks show Nvidia's Vera CPU, which features 88 in-house-designed Olympus cores, packs a heavy-hitting punch, beating Intel's and AMD's x86_64 CPUs (Michael Larabel/Phoronix)",
@@ -935,28 +948,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.999
-      },
-      {
-        "id": "4bc2c6798daa3ad9",
-        "title": "Why I'm drawn to the Fitbit Air, a device that goes against everything I thought I loved about technology",
-        "url": "https://www.androidpolice.com/tempted-by-fitbit-air-signals-change-in-my-tech-habits/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1779812110000,
-        "summary": "I didn't expect to crave a device with no screen, and it told me something important about how I use tech",
-        "tags": [
-          "fitbit",
-          "google",
-          "best reads",
-          "smartwatches & wearables",
-          "android police's best reads"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9974
       }
     ],
     "innovation": [
+      {
+        "id": "18f8c9ab900d5072",
+        "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
+        "url": "https://arxiv.org/abs/2605.26340",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26340v1 Announce Type: new Abstract: Autonomous research agents produce competitive solutions and professional-looking manuscripts, yet their outputs contain verifiability failures undetectable by surface-level evaluation: fabricated citations, unreproducible scores, and method descriptions that diverge from the implementation. We address this through three contributions. First, Chain-o",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
+      {
+        "id": "9aa2a7c5d8b8f03e",
+        "title": "Cisco making SONiC available to all customers – not just hyperscalers",
+        "url": "https://www.theregister.com/networks/2026/05/27/cisco-making-sonic-available-to-all-customers-not-just-hyperscalers/5246733",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1779853318000,
+        "summary": "Hardened version of open-source NOS coming to Nexus 9000s",
+        "tags": [
+          "networks"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0251
+      },
       {
         "id": "8f9f881bae5c518b",
         "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
@@ -997,6 +1023,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0597
+      },
+      {
+        "id": "c2a98b0358e6149c",
+        "title": "Alibaba gets Android 16 running on RISC-V",
+        "url": "https://www.theregister.com/systems/2026/05/27/alibaba-gets-android-16-running-on-risc-v/5246710",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1779848367000,
+        "summary": "Beijing’s sovereign stack ambitions strengthen",
+        "tags": [
+          "systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9983
       },
       {
         "id": "9fc96901b9736c43",
@@ -1862,59 +1903,231 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0053
-      },
-      {
-        "id": "52626dd40b4616af",
-        "title": "Android Brands May Copy Apple's New Split iPhone Launch Strategy",
-        "url": "https://www.macrumors.com/2026/05/26/android-brands-may-copy-iphone-launch-strategy/",
-        "source": "Mac Rumors",
-        "lane": "innovation",
-        "published_ts": 1779813775000,
-        "summary": "Android manufacturers are planning to adopt Apple's split launch strategy, releasing high-end and standard models in separate windows rather than simultaneously, according to the leaker known as \"Digital Chat Station.\" The leaker made the claim in a new post on Weibo this week, saying the \"Android camp may repeat this style of play\" with Pro series and standard models launching separately in a mov",
-        "tags": [
-          "android",
-          "digital chat station"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0735
-      },
-      {
-        "id": "5da886d8d7526d29",
-        "title": "The Netherlands just blocked a US company from buying the cloud provider that runs Dutch digital identity",
-        "url": "https://thenextweb.com/news/the-netherlands-just-blocked-a-us-company-from-buying-the-cloud-provider-that-runs-dutch-digital-identity",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1779813625000,
-        "summary": "The Dutch government has imposed a “complete prohibition” on the acquisition of Solvinity, a Dutch cloud provider, by Kyndryl, the American IT infrastructure company spun out of IBM in 2021. The deal, valued at roughly €100 million, would have given a US-headquartered firm control over the platform that runs DigiD, the digital identity system used […] This story continues at The Next Web",
-        "tags": [
-          "data and security",
-          "privacy",
-          "europe",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8838
-      },
-      {
-        "id": "f035222fbde7ee9d",
-        "title": "Spider silk-inspired process turns corn protein into tougher plastic-like material",
-        "url": "https://phys.org/news/2026-05-spider-silk-corn-protein-tougher.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1779813602000,
-        "summary": "When it comes to technology and innovation, we have a lot to thank Mother Nature for. Learning from the natural world has led to a range of useful products, including Velcro, self-cleaning paint, and ultra-strong body armor. And now, a study published in the journal Nature Communications reports that scientists have developed a way to turn a corn protein into a plastic-like material using a method",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0939
       }
     ],
     "ai": [
+      {
+        "id": "17cea1ad1a4779ea",
+        "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+        "url": "https://arxiv.org/abs/2605.26252",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26252v1 Announce Type: new Abstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of past decisions. Current agent memory systems and database paradigms treat memory as storage. They localize correctness at records, embeddings, or edges. Each supplies only some of the capabilities that l",
+        "tags": [
+          "cs.ai",
+          "cs.db"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "3d37d056727f8d09",
+        "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+        "url": "https://arxiv.org/abs/2605.26302",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26302v1 Announce Type: new Abstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how long does an agent remain reliable after deployment? Even when model weights are frozen, an agent's effective state keeps changing as it compresses intera",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "f0be624848ad318c",
+        "title": "Experiments in Agentic AI for Science",
+        "url": "https://arxiv.org/abs/2605.26305",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26305v1 Announce Type: new Abstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remote Brain architecture via Google Colab, utilizing Python-based local orchestrators to invoke large language model (LLM) cloud backends. The first agent, DeepTS/DeepCollector, automates the large-scale c",
+        "tags": [
+          "cs.ai",
+          "cs.sy",
+          "eess.sy",
+          "hep-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "ba2abbd1788938e6",
+        "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+        "url": "https://arxiv.org/abs/2605.26321",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26321v1 Announce Type: new Abstract: AI agents are beginning to complete valuable, long-horizon business operations tasks, but training and evaluation environments for enterprise work still struggle to balance realism, verifiability, and scale. Environment and task creation frequently suffers from a failure mode we call artifact drift: when instructions, environments, oracles, and verif",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "f649a6fbd566511d",
+        "title": "JobBench: Aligning Agent Work With Human Will",
+        "url": "https://arxiv.org/abs/2605.26329",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26329v1 Announce Type: new Abstract: Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce JobBench, which evaluates AI agents on the workflows that experts identify as high-priority for delegation, empowering humans based on their needs instead of replacing them with GDP value. JobBench covers 130 agentic tasks ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "f91cc63dc8a311fb",
+        "title": "Which Changes Matter? Towards Trustworthy Legal AI via Relevance-Sensitive Evaluation and Solver-Grounded Reasoning",
+        "url": "https://arxiv.org/abs/2605.26530",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26530v1 Announce Type: new Abstract: Legal reasoning requires distinguishing changes that matter from those that do not. Legal AI should remain stable under legally irrelevant perturbations, but should change when perturbations alter legally material points. We formulate this requirement as a legal-relevance-sensitive evaluation problem: LLMs should only be sensitive to the legally rele",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "4dfce9c82e00393c",
+        "title": "Neural Bayesian Sequential Routing",
+        "url": "https://arxiv.org/abs/2605.26147",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26147v1 Announce Type: new Abstract: Human decision-making is sequential and uncertainty-aware, yet standard neural networks often rely on static, dense forward computation with limited visibility into evidence acquisition, uncertainty evolution, or when computation should stop. We introduce \\textbf{Neural Bayesian Sequential Routing (NBSR)}, a framework that models neural inference as ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "6a711e5e597c3ba2",
+        "title": "Planning Neural Dynamics with Lie Group Embedding through Supervised Projective Manifold Learning",
+        "url": "https://arxiv.org/abs/2605.26167",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26167v1 Announce Type: new Abstract: We propose Lie group embedded dynamical neural networks (LieEDNN) and the corresponding learning algorithms based on gradient descent and metric projection on smooth manifold, where we treat Lie group as an intrinsic representation for continuous symmetry of manifold geometry. Thereby we achieve learnable and stable dynamics on the underlying manifol",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "math.ds",
+          "math.ra"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "a9658b3a65d0a244",
+        "title": "From Privacy to Generalization: Linear Max-Information Bounds for DP-SGD",
+        "url": "https://arxiv.org/abs/2605.26222",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26222v1 Announce Type: new Abstract: Understanding the relationship between generalization and privacy remains a central challenge in modern machine learning theory, particularly for deep networks trained by variants of differentially private stochastic gradient descent (DP-SGD). In this work we make progress on this persistent open problem by proving a finite-sample bound on the approx",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "29b547d922f274e0",
+        "title": "Provably Communication-Efficient and Privacy-Preserving Federated Graph Neural Networks",
+        "url": "https://arxiv.org/abs/2605.26243",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26243v1 Announce Type: new Abstract: Graph neural networks (GNNs) achieve strong performance on relational data, but real-world graphs are often distributed across organizations that cannot share raw data due to privacy and policy constraints. Existing federated GNN methods either ignore cross-client links, leading to degraded accuracy, or require frequent embedding exchanges, incurring",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "f102007c046d0545",
+        "title": "Unified Neural Scaling Laws",
+        "url": "https://arxiv.org/abs/2605.26248",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26248v1 Announce Type: new Abstract: We present a functional form (that we refer to as a Unified Neural Scaling Law (UNSL)) that accurately models and extrapolates the scaling behaviors of deep neural networks as multiple dimensions all vary simultaneously (i.e. how the evaluation metric of interest varies as one simultaneously varies the number of model parameters, training dataset siz",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "fe232cf4311c85f4",
+        "title": "Dynamic Link Prediction with Temporally Enhanced Signed Graph Neural Networks",
+        "url": "https://arxiv.org/abs/2605.26290",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26290v1 Announce Type: new Abstract: Temporal signed networks (TSNs) model the time evolution of cooperative and adversarial relationships that arise in applications such as social media analysis, trust and reputation systems, and financial transaction networks. While graph neural networks (GNNs) perform well for static or unsigned link prediction, effective learning in temporal signed ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1135
+      },
+      {
+        "id": "c0e74183e7c33f59",
+        "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself'",
+        "url": "https://www.reddit.com/r/technology/comments/1totvwg/parents_of_openai_whistleblower_intensify_dispute/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779853442000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9281
+      },
+      {
+        "id": "de35a780ed082a43",
+        "title": "Protesters rally against planned AI data centres in Vancouver",
+        "url": "https://www.reddit.com/r/technology/comments/1toten9/protesters_rally_against_planned_ai_data_centres/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1779852114000,
+        "summary": "submitted by /u/ubcstaffer123 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9952
+      },
       {
         "id": "534916aa02ad95d2",
         "title": "Sources: Fireworks AI, which helps companies run AI models, is in talks to raise funding at a $15B valuation after being valued at $4B in October 2025 (Rebecca Torrence/Bloomberg)",
@@ -1927,6 +2140,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0697
+      },
+      {
+        "id": "e427cc4902da49a5",
+        "title": "Anthropic cofounder hallucinates ghost in the machine after hearing the Pope speak about AI",
+        "url": "https://www.theregister.com/ai-ml/2026/05/27/anthropic-cofounder-hallucinates-ghost-in-the-machine-after-hearing-the-pope-speak-about-ai/5246671",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1779842337000,
+        "summary": "The nature of AI is unnatural. It's not intelligent. It's not human.",
+        "tags": [
+          "ai + ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
       },
       {
         "id": "c2b72c384ea56495",
@@ -2622,255 +2850,106 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9957
-      },
-      {
-        "id": "37b8a2e925a0eadf",
-        "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-        "url": "https://www.reddit.com/r/technology/comments/1to9xz4/us_law_enforcement_warns_of_antitech_extremism_as/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779808466000,
-        "summary": "submitted by /u/Helicase21 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0132
-      },
-      {
-        "id": "5d2f1cbd3865c316",
-        "title": "Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 4.48% (Ian King/Bloomberg)",
-        "url": "https://www.techmeme.com/260526/p22#a260526p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779807973000,
-        "summary": "Ian King / Bloomberg: Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 4.48% — Qualcomm Inc. reached a deal with TikTok owner ByteDance Ltd. to supply chips for artificial intelligence data centers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9635
-      },
-      {
-        "id": "c3f2fcd1bfb21539",
-        "title": "Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 5%+ (Ian King/Bloomberg)",
-        "url": "https://www.techmeme.com/260526/p22#a260526p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779807973000,
-        "summary": "Ian King / Bloomberg: Sources: Qualcomm reached a deal with ByteDance to supply millions of ASICs for AI data centers to support AI agents in the Doubao chatbot; QCOM jumps 5%+ — Qualcomm Inc. reached a deal with TikTok owner ByteDance Ltd. to supply chips for artificial intelligence data centers …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0637
-      },
-      {
-        "id": "14560ff582892108",
-        "title": "What to look for in an enterprise-grade smart dash cam",
-        "url": "https://www.techradar.com/pro/what-to-look-for-in-an-enterprise-grade-smart-dash-cam",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779807711000,
-        "summary": "From edge AI and sensor fusion to fleet integrations, here's what to evaluate when choosing an enterprise-grade smart dash cam for your fleet.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9029
-      },
-      {
-        "id": "29489c26e71e94a1",
-        "title": "Researchers develop Bayesian inference for hidden dependence structures in multi-group high-dimensional data",
-        "url": "https://phys.org/news/2026-05-bayesian-inference-hidden-multi-group.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1779807607000,
-        "summary": "In today's scientific and industrial fields, high-dimensional data in which numerous variables are observed simultaneously, such as genomic, climate, financial, and sensor data, are rapidly increasing. In such data, it is important to learn the dependent structures connecting the variables and to identify a \"dependence map\" that reveals hidden information in massive data sets.",
-        "tags": [
-          "mathematics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0828
-      },
-      {
-        "id": "d2acb4c918478973",
-        "title": "Pope Leo Warns of Risks From AI In 42,300-Word Encyclical",
-        "url": "https://slashdot.org/story/26/05/26/0441241/pope-leo-warns-of-risks-from-ai-in-42300-word-encyclical?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779807600000,
-        "summary": "An anonymous reader quotes a report from the New York Times: Pope Leo XIV on Monday set out a sweeping vision for corporate executives, politicians and individuals who will shape and be shaped by the future of artificial intelligence, warning leaders to safeguard humanity from A.I.'s most disruptive effects. Leo's declaration came in the form of a papal encyclical, an open letter to \"all people of",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1147
-      },
-      {
-        "id": "afd8b6d460211ef0",
-        "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-        "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779807305000,
-        "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
-        "tags": [
-          "ai",
-          "apps",
-          "media & entertainment",
-          "tiktok",
-          "universal music group"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8073
-      },
-      {
-        "id": "373515a43a3b7fa2",
-        "title": "Rethinking organizational design in the age of agentic AI",
-        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1779807250000,
-        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows. The sticky…",
-        "tags": [
-          "artificial intelligence",
-          "sponsored"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1329
-      },
-      {
-        "id": "e3e7ac007135b135",
-        "title": "xAI told staff to stop mingling with Cursor employees, weeks after they started working together",
-        "url": "https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779807007000,
-        "summary": "Elon Musk’s xAI has told employees to limit their contact with staff from Cursor , the AI coding startup that SpaceX has an option to acquire for $60 billion. The directive came from James Burnham, xAI’s general counsel and former chief lawyer at the Department of Government Efficiency, according to Bloomberg. Burnham sent guidelines to […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "artificial intelligence",
-          "next featured",
-          "government and policy",
-          "xai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9524
-      },
-      {
-        "id": "df644b0a5751df6d",
-        "title": "Leaker Pushes Back on Rumors of Pro iPhone's Return to Titanium",
-        "url": "https://www.macrumors.com/2026/05/26/leaker-pushes-back-on-titanium-iphone-return/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1779806861000,
-        "summary": "The Pro iPhone models are unlikely to return to titanium in the near future due to the heat dissipation demands of local AI, according to a known Weibo leaker. The claim comes from the leaker known as \"Fixed Focus Digital,\" and pushes back on an earlier report from \"Instant Digital,\" who suggested Apple was weighing up the use of liquid metal or an improved titanium alloy as a longer-term replacem",
-        "tags": [
-          "fixed focus digital"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0767
-      },
-      {
-        "id": "89f9ff06df872d94",
-        "title": "Spotify now lets you stream narrated magazine articles, too",
-        "url": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779806285000,
-        "summary": "Spotify is adding narrated magazine articles to its app as it expands beyond music into audiobooks, podcasts, AI audio, and more.",
-        "tags": [
-          "apps",
-          "media & entertainment",
-          "audio",
-          "spotify",
-          "streaming",
-          "streaming service"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8029
-      },
-      {
-        "id": "1cb46e52aee68bad",
-        "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
-        "url": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779806113000,
-        "summary": "Top-notch ensemble cast, smart writing, and an engrossing supernatural mystery make for a winning combo.",
-        "tags": [
-          "culture",
-          "duffer brothers",
-          "entertainment",
-          "netflix",
-          "reviews",
-          "streaming television"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9728
-      },
-      {
-        "id": "01ba9be9a02db7c9",
-        "title": "A global brand but local cars is Audi's future, says CEO",
-        "url": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1779805293000,
-        "summary": "We talk with Gernot Döllner, CEO of Audi AG, about where he's taking the company.",
-        "tags": [
-          "cars",
-          "audi",
-          "audi r8",
-          "station wagon"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9686
-      },
-      {
-        "id": "d61c1f024404736b",
-        "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-        "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779804000000,
-        "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year […]",
-        "tags": [
-          "ai",
-          "decoder",
-          "google",
-          "google i/o 2026",
-          "podcasts",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8467
-      },
-      {
-        "id": "37feaa6596a287c6",
-        "title": "How AI startups like Altur are using chatbots to help automate debt collection; YC incubated six debt collection and settlement startups in the past six years (Kate Knibbs/Wired)",
-        "url": "https://www.techmeme.com/260526/p19#a260526p19",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779803101000,
-        "summary": "Kate Knibbs / Wired: How AI startups like Altur are using chatbots to help automate debt collection; YC incubated six debt collection and settlement startups in the past six years — There's a mad dash to automate the world's most hated calls. Have an unpaid bill? You'll hear from an AI debt collector sometime soon.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0783
       }
     ],
     "science": [
+      {
+        "id": "cae60d171c1007e2",
+        "title": "Completion vs Optimality: Policy Gradient in Long-Horizon Cumulative-Damage Problems",
+        "url": "https://arxiv.org/abs/2605.26657",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26657v1 Announce Type: new Abstract: Long-horizon decision problems with cumulative damage couple locally attractive actions to globally adverse outcomes. We identify two orthogonal failure modes for policy-gradient methods on this class and propose a decomposition that separates them: \\emph{completion} (reaching the terminal horizon rather than exiting via an implicit terminal constrai",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
+      {
+        "id": "38482538c4cd6f25",
+        "title": "LiveK12Bench: Have Large Multimodal Models Truly Conquered High School-level Examinations?",
+        "url": "https://arxiv.org/abs/2605.26781",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26781v1 Announce Type: new Abstract: Advanced Large Multimodal Models (LMMs) have demonstrated impressive performance in K-12 reasoning tasks, exhibiting great promise as intelligent tutors. Realizing this potential requires models to navigate real-world examinations effectively, yet most existing benchmarks fail to capture the complexity of authentic testing environments. Specifically,",
+        "tags": [
+          "cs.ai",
+          "cs.mm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
+      {
+        "id": "7f428fa607f4178c",
+        "title": "SilIF: Silhouette-Augmented Isolation Forest for Unsupervised Transaction Fraud Detection",
+        "url": "https://arxiv.org/abs/2605.26135",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26135v1 Announce Type: new Abstract: Unsupervised anomaly detection is widely used in transaction fraud detection where labels are scarce. Isolation Forest (IF) is among the most popular classical methods due to its scalability and ease of deployment. We propose SilIF, an augmentation of Isolation Forest that adds a silhouette-based scoring layer computed in a representation space induc",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
+      {
+        "id": "0501700a70774105",
+        "title": "On the Push-Based Asynchronous Federated Learning: A Bias-Correction Aggregation Approach",
+        "url": "https://arxiv.org/abs/2605.26162",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26162v1 Announce Type: new Abstract: Asynchronous decentralized federated learning (ADFL) eliminates central coordination and global synchronization, making it attractive for large-scale and heterogeneous systems. However, frequent peer-to-peer communication, asynchronous updates on directed topologies, and non-IID data jointly lead to excessive communication overhead, biased aggregatio",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
+      {
+        "id": "a058eea90baaea77",
+        "title": "Two-Parameter Flows for Learning Population Dynamics of Physical Systems",
+        "url": "https://arxiv.org/abs/2605.26285",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26285v1 Announce Type: new Abstract: This work addresses the problem of learning the dynamics of high-dimensional probability densities over time using unlabeled samples, without assuming access to trajectory information. We introduce two-parameter flows that learn only sampling-time transports from a base distribution to each marginal and then extract a physics-time velocity by regress",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
+      {
+        "id": "09fc0ca37d2fc3b4",
+        "title": "Semigroup Consistency as a Diagnostic for Learned Physics Simulators",
+        "url": "https://arxiv.org/abs/2605.26324",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1779854400000,
+        "summary": "arXiv:2605.26324v1 Announce Type: new Abstract: Learned physics simulators are often evaluated by one-step or short-horizon prediction error, but these metrics can miss failures in temporal composition and long-horizon rollout. For autonomous, state-complete systems, exact solution maps satisfy a semigroup law: direct evolution over $s+t$ should agree with evolution over $s$ followed by $t$. We pr",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.031
+      },
       {
         "id": "f4bcc2bfb8a72b0f",
         "title": "Autistic Australians three times more likely to be homeless, research reveals",
@@ -2945,6 +3024,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0006
+      },
+      {
+        "id": "7aecb7ed9e52f972",
+        "title": "NASA to pull an IKEA by dropping tons of plastic, metal, and glass on the Moon",
+        "url": "https://www.theregister.com/science/2026/05/27/nasa-plans-moon-base-buildout-with-rovers-drones-cargo-landers/5246638",
+        "source": "The Register",
+        "lane": "science",
+        "published_ts": 1779840257000,
+        "summary": "Astronauts will get to self-assemble lunar base",
+        "tags": [
+          "science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9559
       },
       {
         "id": "9fbecc231ca85566",
@@ -3694,107 +3788,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.788
-      },
-      {
-        "id": "8d5fcca687034b1f",
-        "title": "Trophic rewilding by large herbivores supports insect diversity, scientists find",
-        "url": "https://phys.org/news/2026-05-trophic-rewilding-large-herbivores-insect.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779811206000,
-        "summary": "Insects are declining across Europe. Czech scientists have determined this decline can be mitigated by returning large ungulates—horses, aurochs cattle, and wisents—to landscapes. This has been shown by a recent study by a group of researchers from the Biology Centre of the Czech Academy of Sciences (BC CAS), who surveyed five insect groups across eleven sites rewilded by large ungulates in Czechi",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
-      },
-      {
-        "id": "ea4f36d74b06ee10",
-        "title": "How dual-comb spectroscopy works and why it could reshape precision sensing",
-        "url": "https://phys.org/news/2026-05-dual-spectroscopy-reshape-precision.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779811204000,
-        "summary": "Spectroscopy has many applications, ranging from fundamental tests of quantum electrodynamics and investigations of molecular structure to environmental sensing, biomedical diagnostics and industrial monitoring. A highly promising spectroscopic instrument that has the potential to transform the field has emerged over the years: the dual-comb spectrometer, which relies on the interference of two mo",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1013
-      },
-      {
-        "id": "6c0960ec29f30aed",
-        "title": "SpaceX filing: X's ad revenue was $1.8B in 2025, $1.7B in 2024, and $2.3B in 2023, below Twitter's $4B in 2021; X and Grok now have 6.3M active paid subscribers (Alex Weprin/The Hollywood Reporter)",
-        "url": "https://www.techmeme.com/260526/p24#a260526p24",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1779810303000,
-        "summary": "Alex Weprin / The Hollywood Reporter: SpaceX filing: X's ad revenue was $1.8B in 2025, $1.7B in 2024, and $2.3B in 2023, below Twitter's $4B in 2021; X and Grok now have 6.3M active paid subscribers — SpaceX's IPO filing reveals ad revenue for X is still below what it was when Musk acquired Twitter, but it is growing again.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9973
-      },
-      {
-        "id": "03e8099c8fb0a39e",
-        "title": "Ancient DNA rewrites the story of a historical Sámi burial",
-        "url": "https://phys.org/news/2026-05-ancient-dna-rewrites-story-historical.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779810003000,
-        "summary": "A new study by the University of Turku and partners provides fresh insights into an individual buried near Lake Kitka in Kuusamo, Finland, at the turn of the 17th century. DNA and isotope analyses show that the individual, whose grave has been linked to Sámi cultural heritage, had a genetic connection to present-day Sámi populations and spent part of his life outside Finland.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0156
-      },
-      {
-        "id": "55d73197ebaa41ff",
-        "title": "American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others (Leslie Josephs/CNBC)",
-        "url": "https://www.techmeme.com/260526/p23#a260526p23",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1779809701000,
-        "summary": "Leslie Josephs / CNBC: American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others — American Airlines plans to outfit more than 500 of its narrow-body aircraft with Starlink, handing another win to Elon Musk's SpaceX unit …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.994
-      },
-      {
-        "id": "55d0fc20e07add53",
-        "title": "When Quiet Undersea Volcanoes Turn Disruptive",
-        "url": "https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/",
-        "source": "Quanta Magazine",
-        "lane": "science",
-        "published_ts": 1779809366000,
-        "summary": "Earth’s largest volcanic system, hidden in mountain chains under the sea, has long been assumed to erupt only quietly. The shallow seafloor off Iceland tells another story. The post When Quiet Undersea Volcanoes Turn Disruptive first appeared on Quanta Magazine",
-        "tags": [
-          "physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1411
-      },
-      {
-        "id": "734e4436ea624ec0",
-        "title": "Low pH outside cells rewires transport network and displaces Golgi apparatus, study finds",
-        "url": "https://phys.org/news/2026-05-ph-cells-rewires-network-displaces.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779808802000,
-        "summary": "A new study led by the Universidad Carlos III de Madrid (UC3M) describes the mechano-chemical mechanism by which the acidity of the cellular environment destabilizes microtubules, the \"avenues\" that organize internal cellular traffic. This finding is key to understanding pathologies such as cancer, diabetes, or certain infectious processes, where extracellular acidosis is a distinctive feature in ",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0091
       }
     ]
   },
