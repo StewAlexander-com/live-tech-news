@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-05-27T23:13:03.624518+00:00",
+  "generated_at": "2026-05-27T23:24:40.117292+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "a454d2c2b0eb6a01",
+        "title": "Google employee accused of making $1 million from insider trading on Polymarket",
+        "url": "https://www.engadget.com/2182614/google-employee-accused-of-making-1-million-from-insider-trading-on-polymarket/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1779923396000,
+        "summary": "Who could have seen this coming?",
+        "tags": [
+          "apps"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7007
+      },
       {
         "id": "77d524575db2db5e",
         "title": "Wired headphones are making a comeback, and I totally get why",
@@ -959,21 +974,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7029
-      },
-      {
-        "id": "b1b4e6cd3c6d7877",
-        "title": "Roku updates its UI for the first time in a decade",
-        "url": "https://www.engadget.com/2182099/roku-updates-its-ui-for-the-first-time-in-a-decade/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1779896858000,
-        "summary": "Roku's homescreen update is its first in a decade/",
-        "tags": [
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7002
       }
     ],
     "innovation": [
@@ -1952,6 +1952,22 @@
     ],
     "ai": [
       {
+        "id": "b426ffcd1a614f8d",
+        "title": "'Threat actors are adapting social engineering and monetization strategies to modern user behavior': Microsoft warns AI chatbots may be sending victims to malicious websites — so be on your guard when clicking",
+        "url": "https://www.techradar.com/pro/security/threat-actors-are-adapting-social-engineering-and-monetization-strategies-to-modern-user-behavior-microsoft-warns-ai-chatbots-may-be-sending-victims-to-malicious-websites-so-be-on-your-guard-when-clicking",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1779924000000,
+        "summary": "What happens when an AI recommends a tool, and that tool ends up being malicious?",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9166
+      },
+      {
         "id": "6a0687e4406f2cf7",
         "title": "Meta To Start Testing AI Subscription Services",
         "url": "https://news.slashdot.org/story/26/05/27/2142239/meta-to-start-testing-ai-subscription-services?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -2897,25 +2913,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9935
-      },
-      {
-        "id": "8764f61e7cde5aa9",
-        "title": "Training our own AI models",
-        "url": "https://posthog.com/blog/training-ai-models",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779898122000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:136"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3394
       }
     ],
     "science": [
+      {
+        "id": "9c9de283bab61673",
+        "title": "Expanded susceptibility and transmission in circulating avian influenza viruses reshape wild bird mortality",
+        "url": "https://phys.org/news/2026-05-susceptibility-transmission-circulating-avian-influenza.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779924004000,
+        "summary": "Johanna Harvey, an assistant professor of wildlife disease ecology at the University of Rhode Island, has described bird flu in public presentations as a quiet virus with loud consequences. Now, she's published a new paper in Wildlife Monographs, describing how circulating avian influenza viruses (HPAIV) show an expanded set of susceptible hosts, including many migratory wild birds, and higher tra",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0185
+      },
+      {
+        "id": "b45b6c54efd91104",
+        "title": "Temporary carbon removal could help support climate goals, if used correctly",
+        "url": "https://phys.org/news/2026-05-temporary-carbon-climate-goals.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779924001000,
+        "summary": "Persistent methane emissions from sectors such as agriculture and growing debates over the credibility of carbon offsets are creating new challenges for governments and companies pursuing net-zero commitments. New research suggests that temporary carbon storage may have a scientifically valid role in helping support climate goals, if used in the right way.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0185
+      },
       {
         "id": "12709395ee33b5bd",
         "title": "Newly discovered 'thunder' of Atlantic sturgeons inspires awe",
@@ -3810,36 +3840,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0168
-      },
-      {
-        "id": "e303e6c966fe8fdd",
-        "title": "Fake predator eyes scare off seabirds until they learn they're not real",
-        "url": "https://phys.org/news/2026-05-fake-predator-eyes-seabirds-theyre.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779887766000,
-        "summary": "In Danish fisheries, fish-eating seabirds are a menace. They often swoop down and feed on fish trapped in nets, which can hit profits and also sometimes lead to the accidental death of the birds. So scientists deployed an unusual-looking, non-lethal method to deter them. It worked, but not for long, as they discuss in a paper published in the journal Royal Society Open Science.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
-      },
-      {
-        "id": "549dd95605c206d2",
-        "title": "'Hook-up culture' on dating apps harming men's body image",
-        "url": "https://phys.org/news/2026-05-culture-dating-apps-men-body.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779886801000,
-        "summary": "Gay dating apps are exposing men to intense pressure to look sexually desirable, fueling body dissatisfaction and low self-esteem, with some users describing the experience as feeling like they are \"selling their body\" rather than forming genuine connections.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0102
       }
     ]
   },
