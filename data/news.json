@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-28T17:57:28.963082+00:00",
+  "generated_at": "2026-05-28T18:08:55.258720+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c4d84cd73850905a",
+        "title": "The line between games and movies keeps getting blurrier",
+        "url": "https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1779991431000,
+        "summary": "The most memorable part of 007 First Light is something that's typically pretty boring: the tutorial. In many games, you're forced through a series of tedious lessons in how to play, presented in a way that feels disconnected from the story itself and at a plodding pace. But First Light does something different. Because the […]",
+        "tags": [
+          "analysis",
+          "entertainment",
+          "gaming",
+          "report"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7907
+      },
+      {
+        "id": "4360c1d37224895a",
+        "title": "I asked ChatGPT to build me a realistic weekly workout for a 54-year-old body — and I actually kept doing it",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-to-build-me-a-realistic-weekly-workout-for-a-54-year-old-body-and-i-actually-kept-doing-it",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1779991200000,
+        "summary": "I asked ChatGPT to create a realistic home workout for a middle-aged body, and after two weeks, I’m surprised by how effective and sustainable it’s been.",
+        "tags": [
+          "chatgpt",
+          "ai platforms &amp; assistants",
+          "health &amp; fitness",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8476
+      },
       {
         "id": "2a7a120737707898",
         "title": "The LG C6 OLED TV is my dark horse pick for a World Cup winner — I said it ‘sets the bar for TVs in 2026’ in my review — and it’s already been discounted",
@@ -954,42 +990,40 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9813
-      },
-      {
-        "id": "fc0eeaa57f32b9c8",
-        "title": "Researchers say they can spy on your browsing by measuring SSD activity through a browser API — claim FROST attack requires no permissions or user interaction to identify which apps and websites you're using",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/researchers-say-they-can-spy-on-your-browsing-by-measuring-ssd-activity-through-a-browser-api",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1779973838000,
-        "summary": "FROST exploits the Origin Private File System (OPFS), a browser API that lets websites create and store files on a user's local disk.",
-        "tags": [
-          "cybersecurity",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9307
-      },
-      {
-        "id": "2fba71f5d9795de3",
-        "title": "Intel challenges AMD’s handheld dominance with new Arc G3 chips — Panther Lake silicon brings up to 14 cores, Arc B390 graphics to handhelds",
-        "url": "https://www.tomshardware.com/video-games/handheld-gaming/intel-challenges-amds-handheld-dominance-with-new-arc-g3-chips-panther-lake-silicon-brings-up-to-14-cores-arc-b390-graphics-to-handhelds",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1779973813000,
-        "summary": "Intel has revealed the Arc G3 and G3 Extreme chips, which are built on Panther Lake dies with up to an Arc B390 iGPU. The chips will show up in devices from partners like Acer and OneXPlayer.",
-        "tags": [
-          "handheld gaming",
-          "video games",
-          "console gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9306
       }
     ],
     "innovation": [
+      {
+        "id": "c383aa6499b74269",
+        "title": "Microsoft Allegedly Leaked Dutch Civil Servants' Data To the US",
+        "url": "https://yro.slashdot.org/story/26/05/28/1652241/microsoft-allegedly-leaked-dutch-civil-servants-data-to-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1779991200000,
+        "summary": "An anonymous reader quotes a report from Cybernews: The technology giant Microsoft has been accused of leaking the data of civil servants working for the Netherlands' regulatory agencies to the US House of Representatives. The civil servants affected by the leak work at the Authority for Consumers and Markets (ACM) and the Dutch Data Protection Authority (AP), according to the NL Times. They are i",
+        "tags": [
+          "privacy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.047
+      },
+      {
+        "id": "31db50fb809291ef",
+        "title": "A security lapse at prison payphone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+        "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1779991200000,
+        "summary": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
+        "tags": [
+          "security",
+          "exclusive"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7459
+      },
       {
         "id": "d083514f98c253e8",
         "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
@@ -1939,37 +1973,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9939
-      },
-      {
-        "id": "b07bb59752a31f11",
-        "title": "ReactOS brings its Windows NT tribute act to ARM64",
-        "url": "https://www.theregister.com/oses/2026/05/28/reactos-brings-its-windows-nt-tribute-act-to-arm64/5247768",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1779967800000,
-        "summary": "Experimental build boots on Raspberry Pi 5, but for now the joy is mostly in getting there",
-        "tags": [
-          "oses"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0435
-      },
-      {
-        "id": "42b2e0113882db52",
-        "title": "Samsung's Securities, SDS, and Card units say they will acquire a 4% stake in Dunamu, which operates South Korea's largest crypto exchange, for ~$446M in cash (Choi Yeon-jae/The Korea Herald)",
-        "url": "https://www.techmeme.com/260528/p26#a260528p26",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1779966601000,
-        "summary": "Choi Yeon-jae / The Korea Herald: Samsung's Securities, SDS, and Card units say they will acquire a 4% stake in Dunamu, which operates South Korea's largest crypto exchange, for ~$446M in cash — Samsung Securities, Samsung SDS and Samsung Card said Thursday they will jointly acquire a 4 percent stake in Dunamu …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9396
       }
     ],
     "ai": [
+      {
+        "id": "58c4dcbe30d5041f",
+        "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+        "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1779991717000,
+        "summary": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
+        "tags": [
+          "biotech & health",
+          "fundraising",
+          "startups",
+          "cvs health ventures",
+          "h1",
+          "health data"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8078
+      },
       {
         "id": "64d3a952bf432527",
         "title": "YouTube's AI Is Ready to Customize Your Scrolling",
@@ -2920,28 +2946,71 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9433
-      },
-      {
-        "id": "69c5ef65e0eebe88",
-        "title": "iOS 27's New Siri App and 'Search or Ask' Feature Leaked in Screenshots",
-        "url": "https://www.macrumors.com/2026/05/28/ios-27-siri-app-and-search-or-ask-leaked/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1779971307000,
-        "summary": "Bloomberg's Mark Gurman today shared a series of re-created screenshots that reveal iOS 27's all-new Siri app and \"Search or Ask\" functionality. The images are renders that were created based on information obtained by Bloomberg. With the Siri app, iPhone, iPad, and Mac users will be able to interact with Apple's assistant in both text and voice modes. The app will allow for back-and-forth convers",
-        "tags": [
-          "featured",
-          "ios 27",
-          "bloomberg",
-          "mark gurman",
-          "siri"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9913
       }
     ],
     "science": [
+      {
+        "id": "673f449968f648f3",
+        "title": "4 Windows 11 settings to turn on immediately: clipboard history, snap assist, storage sense, and more",
+        "url": "https://www.makeuseof.com/these-4-windows-11-settings-are-buried-by-default/",
+        "source": "MakeUseOf",
+        "lane": "science",
+        "published_ts": 1779991217000,
+        "summary": "Master window snapping, free up storage space, control audio output and more.",
+        "tags": [
+          "windows",
+          "windows tips",
+          "windows 11"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8476
+      },
+      {
+        "id": "2ec202b8af87c0ac",
+        "title": "Electromagnetic noise can send migrating bats off course, with effects lasting hours",
+        "url": "https://phys.org/news/2026-05-electromagnetic-noise-migrating-effects-hours.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779991208000,
+        "summary": "New research has unearthed new insights into the disruptive and detrimental effects that human-produced electromagnetic noise can have on the ability of bats to migrate effectively. The study, published in the journal Science, and led by researchers at Bangor University, the University of Latvia and the University of Oldenburg, in Germany, has revealed unexpected effects of exposure to electromagn",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0171
+      },
+      {
+        "id": "1aee2e337b371205",
+        "title": "Pigeons navigate using magnetic sensors in their livers, say researchers",
+        "url": "https://phys.org/news/2026-05-pigeons-magnetic-sensors-livers.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779991206000,
+        "summary": "How pigeons fly hundreds of kilometers and still find their way home has long fascinated people. Now, researchers say a surprising answer may be hidden, not in the brain or eyes of birds, but in the liver.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0171
+      },
+      {
+        "id": "8fcff2f4eb992e02",
+        "title": "Is my brain wired to never see a ghost? A psychologist on three factors that make a paranormal experience more likely",
+        "url": "https://phys.org/news/2026-05-brain-wired-ghost-psychologist-factors.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1779991203000,
+        "summary": "Around 1 in 5 Americans say they've seen a ghost. I'm not one of them, and I probably never will be. I blame my brain.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0171
+      },
       {
         "id": "80d57b416097fca1",
         "title": "Hailstorms could grow more dangerous and damaging with climate change",
@@ -3777,71 +3846,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0152
-      },
-      {
-        "id": "d4202e2cc59e13f1",
-        "title": "Analysis of more than 10,000 cities reveals hidden details governments can use to better support their people",
-        "url": "https://phys.org/news/2026-05-analysis-cities-reveals-hidden-people.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779916201000,
-        "summary": "The world's urban population increased by 785 million people between 2000 and 2020, but that tells only part of the story. Now, a research team including an expert from the University of Michigan has dug into the demographics of more than 10,000 individual cities to obtain insights that can be lost in the aggregate. The findings are published in the journal Nature Cities.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0174
-      },
-      {
-        "id": "128b50771637f24a",
-        "title": "Corn Belt groundwater and irrigation boost thunderstorm complexes by 24–35%, simulations show",
-        "url": "https://phys.org/news/2026-05-corn-belt-groundwater-irrigation-boost.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779915605000,
-        "summary": "An international team of scientists has demonstrated how powerful thunderstorm complexes over the U.S. Corn Belt are fueled by moisture rising from the region's fertile fields or just beneath them. The findings can lead to better and longer-term weather forecasts for this critical farming area as well as giving researchers new insights into improving computer models needed to better understand atm",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "2ad09a5999acd292",
-        "title": "FAA grounds SpaceX’s Starship after another launch mishap",
-        "url": "https://www.theregister.com/offbeat/2026/05/27/faa-grounds-spacexs-starship-after-another-launch-mishap/5247446",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1779915458000,
-        "summary": "IPO? More like IP-uh-oh",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0964
-      },
-      {
-        "id": "a8b494f64d3e5100",
-        "title": "Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities",
-        "url": "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1779914634000,
-        "summary": "NASA science satellites show dual use in locating sources of GPS interference.",
-        "tags": [
-          "space",
-          "tech",
-          "cygnss",
-          "gnss",
-          "gps",
-          "gps jamming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9891
       }
     ]
   },
