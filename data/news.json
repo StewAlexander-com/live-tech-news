@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T22:58:31.944089+00:00",
+  "generated_at": "2026-05-28T23:14:07.824680+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -17,6 +17,32 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7032
+      },
+      {
+        "id": "5018fe25bb60c7bc",
+        "title": "6 Continuous Glucose Monitors That Are Doctor-Recommended",
+        "url": "https://www.cnet.com/health/medical/best-continuous-glucose-monitors-doctor-approved/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1780005600000,
+        "summary": "If your glucose levels concern you, these are the CGM monitors you may want to consider.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8007
+      },
+      {
+        "id": "33bd726b2bbac045",
+        "title": "Apple WWDC 2026: What We Expect From This Year's Keynote and How to Watch",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-wwdc-2026-what-we-expect-from-this-years-keynote-and-how-to-watch/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1780005030000,
+        "summary": "Don't expect any new hardware in the coming weeks, but the rumored software updates may surprise you.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8621
       },
       {
         "id": "8afcd1931efc9c4a",
@@ -950,44 +976,77 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8418
-      },
-      {
-        "id": "2e7a451fbd3bcad7",
-        "title": "‘Nothing in its class comes close’: the Xiaomi 17T Pro is being called ‘the telephoto master’, but how does its 5x zoom perform in reality? I took over 500 photos to find out",
-        "url": "https://www.techradar.com/phones/xiaomi-phones/the-xiaomi-17t-pro-is-being-called-the-telephoto-master-but-how-does-its-5x-zoom-perform-in-reality-i-took-over-500-photos-to-find-out",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1779980400000,
-        "summary": "The Xiaomi 17T Pro has launched with a Leica-tuned 5x telephoto camera, and I went to Vienna to put this zoom lens to the test.",
-        "tags": [
-          "xiaomi phones",
-          "android",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8418
-      },
-      {
-        "id": "8ee194bafbe0855e",
-        "title": "Waymo to begin passenger rides in its new Ojai robotaxi",
-        "url": "https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1779980400000,
-        "summary": "After several months of testing, Waymo is finally ready to invite non-employee passengers into its newest vehicle, the Zeekr RT minivan, which has been rebranded as Ojai. Waymo says it will begin offering \"select riders\" access in San Francisco, Los Angeles, and Phoenix, before \"gradually\" expanding to more riders and cities. Trips will be free […]",
-        "tags": [
-          "autonomous cars",
-          "news",
-          "transportation",
-          "waymo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7843
       }
     ],
     "innovation": [
+      {
+        "id": "4480df2998bb8bc5",
+        "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+        "url": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1780009312000,
+        "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+        "tags": [
+          "startups",
+          "startup battlefield",
+          "startup battlefield 200",
+          "techcrunch disrupt"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7451
+      },
+      {
+        "id": "c1caec0e259d1174",
+        "title": "Recycling Two XBox One Consoles into a 10 GB USB Flash Drive",
+        "url": "https://hackaday.com/2026/05/28/recycling-two-xbox-one-consoles-into-a-10-gb-usb-flash-drive/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1780009231000,
+        "summary": "Amidst the ongoing RAM & storage apocalypses, Mad Max-esque scenes are unsurprisingly developing, with the eMMC recycling project by [Chase Fournier] from a pair of XBox One S (‘XBone’) mainboards …read more",
+        "tags": [
+          "xbox hacks",
+          "emmc controller",
+          "recycling",
+          "xbox one"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0753
+      },
+      {
+        "id": "26275bd481a7ad4c",
+        "title": "Your HDMI cable probably isn't the bottleneck — this setting inside your TV is",
+        "url": "https://www.makeuseof.com/hdmi-cable-not-bottleneck-setting-inside-your-tv-is/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780009218000,
+        "summary": "Change these settings on your smart TV before swapping out HDMI cables.",
+        "tags": [
+          "entertainment",
+          "hdmi"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8462
+      },
+      {
+        "id": "30b95f09a289b526",
+        "title": "Europe Told To Cool Its Datacenter Boom Before Water, Power Run Short",
+        "url": "https://hardware.slashdot.org/story/26/05/28/2022251/europe-told-to-cool-its-datacenter-boom-before-water-power-run-short?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1780009200000,
+        "summary": "A new Grundfos report warns that Europe's datacenter boom could strain water supplies and power grids unless regulators bake water and energy efficiency into planning, reporting, and incentives for new facilities. The Register reports: According to the report, the EU-wide server farm IT load is about 10 GW today, and is expected to rise to 35 GW by 2030 -- just four years away. These facilities ac",
+        "tags": [
+          "eu",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0453
+      },
       {
         "id": "2f3aae0f64b093bc",
         "title": "California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US (Jaimie Ding/Associated Press)",
@@ -1896,75 +1955,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9374
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "0c8e20c4b063fff3",
-        "title": "Rivian under investigation over rear suspension failures on R1 models",
-        "url": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779979316000,
-        "summary": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.",
-        "tags": [
-          "transportation",
-          "electric vehicles",
-          "evs",
-          "rivian"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7365
-      },
-      {
-        "id": "e5267b26aef2c4c9",
-        "title": "Platform fast-tracks microbial design for high-temp manufacturing",
-        "url": "https://phys.org/news/2026-05-platform-fast-tracks-microbial-high.html",
+        "id": "187c8dcc20388697",
+        "title": "AI and drones can help improve early warning systems for Vibrio bacteria in the Baltic Sea",
+        "url": "https://phys.org/news/2026-05-ai-drones-early-vibrio-bacteria.html",
         "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1779979205000,
-        "summary": "Scientists at the Department of Energy's Oak Ridge National Laboratory have developed a platform that engineers heat-loving microbes for industrial-scale manufacturing in a matter of weeks compared with previous approaches that can take months to years. This biotechnology tool strengthens American manufacturing capacity, supporting long-term energy security and global competitiveness.",
+        "lane": "ai",
+        "published_ts": 1780009201000,
+        "summary": "The presence of the marine bacterium Vibrio vulnificus, which is potentially dangerous to humans, can now be predicted up to five weeks in advance in the Baltic Sea using artificial intelligence (AI). A research team led by the Leibniz Institute for Baltic Sea Research Warnemünde (IOW) has reached this conclusion by combining high-resolution environmental, satellite, and microbiome data in an AI-b",
         "tags": [
           "cell & microbiology"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0037
+        "score": 1.0966
       },
-      {
-        "id": "ae94ba4a267668d4",
-        "title": "These Fire TV apps and tricks won't work on Amazon's new Vega OS devices",
-        "url": "https://www.makeuseof.com/these-fire-tv-apps-tricks-wont-work-on-amazons-new-vega-os-devices/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1779978618000,
-        "summary": "Vega OS killed everything I loved about Fire TV and replaced it with ads; and now it's like owning a billboard made for Amazon's stockholders.",
-        "tags": [
-          "entertainment",
-          "amazon fire tv",
-          "amazon fire tv stick 4k plus",
-          "smart tv"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8338
-      },
-      {
-        "id": "ea927012f6bf8ead",
-        "title": "Three in ten HP customers still clinging to Windows 10",
-        "url": "https://www.theregister.com/personal-tech/2026/05/28/three-in-ten-hp-customers-still-clinging-to-windows-10/5247884",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1779977700000,
-        "summary": "Refresh cycle sluggishness is a tailwind, insists PC giant's money people",
-        "tags": [
-          "personal tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0249
-      }
-    ],
-    "ai": [
       {
         "id": "9b44edc22a5b6cb5",
         "title": "Quote of the day by AMD CEO Lisa Su: \"The age of traditional computing is dead\" — marking the start of the heterogeneous computing era",
@@ -1994,6 +2002,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0732
+      },
+      {
+        "id": "1c8898894690997a",
+        "title": "2027 Audi RS5 first drive: A performance PHEV with split personalities",
+        "url": "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1780005662000,
+        "summary": "Audi has developed an entirely new electric torque-vectoring rear differential.",
+        "tags": [
+          "cars",
+          "audi rs5 sportback",
+          "car review",
+          "first drive"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9768
       },
       {
         "id": "22f4d6b7675c676f",
@@ -2911,41 +2937,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8533
-      },
-      {
-        "id": "283deebd7e17fbba",
-        "title": "Dynamic Workflows in Claude Code",
-        "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779987141000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0449
-      },
-      {
-        "id": "dda12b2732920657",
-        "title": "Claude Opus 4.8",
-        "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1779986954000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:116"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2841
       }
     ],
     "science": [
+      {
+        "id": "65cfb6ce5c711924",
+        "title": "Heron-like, fish-eating dinosaur from 70 million years ago discovered in Argentina",
+        "url": "https://phys.org/news/2026-05-heron-fish-dinosaur-million-years.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780009806000,
+        "summary": "A new raptor-like dinosaur from some 70 million years ago that ate fish and behaved like modern herons has been unearthed from southern Patagonia. The new species, which has been named Kank australis, was identified based on the discovery of fossil remains including teeth, vertebrae, and toe bones.",
+        "tags": [
+          "paleontology & fossils"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0187
+      },
       {
         "id": "8f16ff9f807f34a4",
         "title": "Quantum entanglement provides a new framework for understanding chemical bonding",
@@ -3050,6 +3059,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0183
+      },
+      {
+        "id": "d1b9e01fda0d71c3",
+        "title": "SpaceX's Starship V3 Can't Fly Again Until a 'Mishap' Is Addressed, Says FAA",
+        "url": "https://www.cnet.com/science/space/faa-spacex-starship-v3-mishap/",
+        "source": "CNET",
+        "lane": "science",
+        "published_ts": 1780006023000,
+        "summary": "The investigation is being led by SpaceX, but it needs approval from the FAA before the Starship can launch again.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8667
       },
       {
         "id": "c341d0b3705ee929",
@@ -3819,36 +3841,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1473
-      },
-      {
-        "id": "10a6834a6baccead",
-        "title": "Ripples in fire-ant collectives suggest motions are driven by neighbor alignments",
-        "url": "https://phys.org/news/2026-05-ripples-ant-motions-driven-neighbor.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779976807000,
-        "summary": "Researchers in Spain have discovered that in collectives of moving fire ants, rippling \"waves\" of density and activity are likely triggered by local regions where ants collectively travel in the same direction as their neighbors.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0153
-      },
-      {
-        "id": "561d22187b7b849e",
-        "title": "New study shows atmospheric compounds formed from tire wear may pose human health risk",
-        "url": "https://phys.org/news/2026-05-atmospheric-compounds-pose-human-health.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779976803000,
-        "summary": "Tire rubber contains antioxidant chemicals, most notably 6PPD and DPPD, that are released into the air as tiny particles during normal driving. A single compound formed from 6PPD, known as 6PPD-quinone was previously shown to be implicated in the death of coho salmon in urban waterways, but the broader atmospheric chemistry and potential human health impacts of these compounds have remained largel",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0153
       }
     ]
   },
