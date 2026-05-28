@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T21:46:12.242044+00:00",
+  "generated_at": "2026-05-28T22:07:42.026329+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -992,6 +992,23 @@
     ],
     "innovation": [
       {
+        "id": "cd7119adc2373d7f",
+        "title": "Most people use Google Maps wrong because they use it alone",
+        "url": "https://www.makeuseof.com/most-people-use-google-maps-wrong-because-they-use-it-alone/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780005619000,
+        "summary": "Collaborate inside Google Maps to unlock its best features.",
+        "tags": [
+          "android",
+          "google maps",
+          "maps"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.848
+      },
+      {
         "id": "1f7b622ee35528fc",
         "title": "Sources: Airwallex raised new funding led by Lee Fixel's Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October (Axios)",
         "url": "https://www.techmeme.com/260528/p59#a260528p59",
@@ -1956,29 +1973,55 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9254
-      },
-      {
-        "id": "3054761052b71087",
-        "title": "Linux Fu: Fake Webcams Have Many Uses",
-        "url": "https://hackaday.com/2026/05/28/linux-fu-fake-webcams-have-many-uses/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779976830000,
-        "summary": "Dealing with text streams is a fundamental skill for the Linux power user. You can sort, merge, and search text files easily from the command line. What if you could …read more",
-        "tags": [
-          "linux hacks",
-          "video hacks",
-          "ffmpeg",
-          "linux",
-          "video",
-          "video4linux"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0752
       }
     ],
     "ai": [
+      {
+        "id": "22f4d6b7675c676f",
+        "title": "Anthropic Releases Opus 4.8 With New 'Dynamic Workflow' Tool",
+        "url": "https://slashdot.org/story/26/05/28/2013200/anthropic-releases-opus-48-with-new-dynamic-workflow-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1780005600000,
+        "summary": "Anthropic has released Claude Opus 4.8 with stronger performance and better handling of uncertain or flawed data, including a greater tendency to flag issues rather than make unsupported claims. The update also introduces a \"Dynamic Workflows\" research preview for coordinating complex tasks across many subagents. TechCrunch reports: Opus 4.8 comes with the expected best-in-class benchmark results,",
+        "tags": [
+          "ai",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0474
+      },
+      {
+        "id": "829ccdbc0ecff061",
+        "title": "CFTC wants to reverse course on penalty against Winklevoss twins' crypto business",
+        "url": "https://www.engadget.com/2183352/cftc-wants-to-reverse-course-on-penalty-against-winklevoss-twins-crypto-business/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1780005381000,
+        "summary": "The Gemini exchange already paid a $5 million fine following the agency's lawsuit.",
+        "tags": [
+          "big tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7014
+      },
+      {
+        "id": "b062ab8055a2bc7e",
+        "title": "AI Is Eroding Critical Thinking At Work. The Window Is Closing.",
+        "url": "https://www.reddit.com/r/technology/comments/1tqhc2d/ai_is_eroding_critical_thinking_at_work_the/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1780004202000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
       {
         "id": "d017dfbf48b03bf6",
         "title": "Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks (Rafe Rosner-Uddin/Financial Times)",
@@ -2914,58 +2957,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.988
-      },
-      {
-        "id": "695e41e353c5879d",
-        "title": "I started asking ChatGPT one extra question — and its answers suddenly became far more useful",
-        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-started-asking-chatgpt-one-extra-question-and-its-answers-suddenly-became-far-more-useful",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1779984594000,
-        "summary": "Adding one simple question to ChatGPT prompts helps the AI better understand what you actually need",
-        "tags": [
-          "chatgpt",
-          "ai platforms &amp; assistants",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9054
-      },
-      {
-        "id": "15ad718832f78523",
-        "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-        "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1779984525000,
-        "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make […]",
-        "tags": [
-          "ai",
-          "entertainment",
-          "film"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8433
-      },
-      {
-        "id": "a821db5a740e0a55",
-        "title": "Robinhood Now Lets Your AI Agents Trade Stocks",
-        "url": "https://tech.slashdot.org/story/26/05/28/067216/robinhood-now-lets-your-ai-agents-trade-stocks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1779984000000,
-        "summary": "Robinhood is launching beta support for a new feature that will let AI agents make payments and trade stocks on users' behalf. The company is also rolling out a virtual credit card for AI agents, with spending limits and approval controls. TechCrunch reports: Robinhood said users on its platform can now create a separate account for their AI agents and connect them to a dedicated wallet. While the",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1149
       }
     ],
     "science": [
+      {
+        "id": "c341d0b3705ee929",
+        "title": "No single path makes youth champions, review of 60 sports analyses shows",
+        "url": "https://phys.org/news/2026-05-path-youth-champions-sports-analyses.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780005604000,
+        "summary": "How do you create the top athletes of the future? A large-scale study by researchers from the VUB's SPLISS research group shows that there is no ready-made recipe. The road to the podium is non-linear and requires a holistic approach in which fun, health and the environment are central.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0175
+      },
+      {
+        "id": "07c29c66442fa211",
+        "title": "Electrical 'knob' can switch light on, off and tune intensity at the nanoscale",
+        "url": "https://phys.org/news/2026-05-electrical-knob-tune-intensity-nanoscale.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780005001000,
+        "summary": "Physicists from Emory University have led work to develop a microscopic, nonlinear light source that can be switched on, off or tuned to a particular intensity by an electrical \"knob.\" The paper is published in the journal Optica, and could aid in the design of smaller, more flexible technologies for communications, sensing and quantum computing.",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0954
+      },
       {
         "id": "3a2660711d1cd558",
         "title": "Oceanic regime shifts affect subarctic moth communities—impacts divide species into winners and losers",
@@ -3837,34 +3861,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0878
-      },
-      {
-        "id": "12c319dd21f7ff42",
-        "title": "New fences can save restored saltmarsh, research suggests",
-        "url": "https://phys.org/news/2026-05-saltmarsh.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779966001000,
-        "summary": "Saltmarsh is disappearing from coastlines around the world, and while brushwood fencing can help bring it back, a new study has found it only works if the fences are kept in good repair. Around 46% of the world's saltmarsh has been lost or damaged, and restoring it is not always straightforward. Sedimentation fields, which use rows of brushwood fencing to trap mud and encourage marsh plants to tak",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.004
-      },
-      {
-        "id": "3e7b79d9c20cd1d2",
-        "title": "UK researchers win access to Google's Willow quantum chip, which it says completes a calculation in five minutes that takes supercomputers 10 septillion years (Chris Vallance/BBC)",
-        "url": "https://www.techmeme.com/260528/p18#a260528p18",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1779963602000,
-        "summary": "Chris Vallance / BBC: UK researchers win access to Google's Willow quantum chip, which it says completes a calculation in five minutes that takes supercomputers 10 septillion years — Scientists from King's College London have become the first UK academic research team to gain access to Google's cutting-edge …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0761
       }
     ]
   },
