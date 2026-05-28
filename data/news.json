@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T21:25:55.566195+00:00",
+  "generated_at": "2026-05-28T21:33:41.160333+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1992,6 +1992,25 @@
     ],
     "ai": [
       {
+        "id": "c156a12116673f80",
+        "title": "LLMs believe false statements even after explicit warnings that they're false",
+        "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1780003783000,
+        "summary": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+        "tags": [
+          "ai",
+          "falsehoods",
+          "llms",
+          "research",
+          "training"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9987
+      },
+      {
         "id": "f356d69c1e3d435e",
         "title": "The internet is being rebuilt for machines",
         "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
@@ -2024,6 +2043,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1246
+      },
+      {
+        "id": "f3499226bcb86072",
+        "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+        "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1780000193000,
+        "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+        "tags": [
+          "ai",
+          "biz & it",
+          "security",
+          "ai agents",
+          "prompt injections",
+          "vibe coding"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0581
       },
       {
         "id": "ce2610da23d57a7a",
@@ -2950,38 +2989,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7451
-      },
-      {
-        "id": "fa978248f5518717",
-        "title": "YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an \"Auto speed\" setting, and a new on-the-go listening mode (Aisha Malik/TechCrunch)",
-        "url": "https://www.techmeme.com/260528/p43#a260528p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779981601000,
-        "summary": "Aisha Malik / TechCrunch: YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an “Auto speed” setting, and a new on-the-go listening mode — YouTube announced on Thursday it's introducing new podcast features for Premium users, including an AI-powered recommendation tool …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0764
-      },
-      {
-        "id": "5b016917260f48e4",
-        "title": "Anthropic’s Milan office lands with Generali, Pirelli and Enel as named Italian customers",
-        "url": "https://thenextweb.com/news/anthropic-milan-office-italy-enterprise-customers",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1779981549000,
-        "summary": "The formal opening of Anthropic’s sixth European office lands the same week as Pope Leo’s AI encyclical, with the company naming a roster of Italian enterprise deployments. nthropic formally opened its Milan office on Wednesday, the sixth European location for the US AI lab after London, Dublin, Paris, Zurich and Munich. The opening completes the […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "europe"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9668
       }
     ],
     "science": [
+      {
+        "id": "7e5795f298e18caa",
+        "title": "Silver nanoparticles enable assembly of a theorized, previously unobserved crystal metallic structure",
+        "url": "https://phys.org/news/2026-05-silver-nanoparticles-enable-theorized-previously.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780003801000,
+        "summary": "Using finely tuned nanoscale building blocks, researchers from Brown University and the University of Michigan College of Engineering have stabilized a fleeting structural phase of matter that had been predicted theoretically but never before stabilized in a physical material.",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1003
+      },
       {
         "id": "cf9f586599e7172f",
         "title": "Something just passed between us and a distant star",
@@ -3868,21 +3893,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1226
-      },
-      {
-        "id": "b4c9f8fb28d54c99",
-        "title": "Happy, who taught researchers that elephants can recognize themselves, is euthanized at Bronx Zoo",
-        "url": "https://phys.org/news/2026-05-happy-taught-elephants-euthanized-bronx.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779959402000,
-        "summary": "Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched animal rights case, has been euthanized at age 55, the zoo said Wednesday.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9937
       }
     ]
   },
