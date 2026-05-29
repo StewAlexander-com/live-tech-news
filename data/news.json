@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T21:59:09.340089+00:00",
+  "generated_at": "2026-05-29T22:15:48.455353+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -996,6 +996,24 @@
     ],
     "innovation": [
       {
+        "id": "0c5a9d89c2e0d255",
+        "title": "Waze is not better than Google Maps, and I’m tired of people pretending it is",
+        "url": "https://www.makeuseof.com/waze-is-not-better-than-google-maps/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780092019000,
+        "summary": "Google Maps is Waze, but better.",
+        "tags": [
+          "android",
+          "waze",
+          "google maps",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8458
+      },
+      {
         "id": "90b7b80c63d7fa59",
         "title": "EV Stupidity Checklist",
         "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
@@ -1955,22 +1973,40 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9367
-      },
-      {
-        "id": "cc93ecb6763b19b1",
-        "title": "Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation (Kate Park/TechCrunch)",
-        "url": "https://www.techmeme.com/260529/p17#a260529p17",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780058106000,
-        "summary": "Kate Park / TechCrunch: Xcena, whose MX1 chip performs data orchestration and KV cache management directly within memory modules, raised a $135M Series B at a $570M valuation — Every time you ask ChatGPT a question, your request triggers a data relay race. Information leaves memory, passes through a CPU for preprocessing …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0793
       }
     ],
     "ai": [
+      {
+        "id": "c66010a1c65d63b6",
+        "title": "Coders are refusing to work without AI — and that could come back to bite them",
+        "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1780092862000,
+        "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+        "tags": [
+          "ai",
+          "tc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8075
+      },
+      {
+        "id": "c3e7559e9367f505",
+        "title": "The owner of 110 Pizza Huts is suing the chain, claiming $100 million in losses from the botch adaption of an AI tool",
+        "url": "https://www.reddit.com/r/technology/comments/1trgu8w/the_owner_of_110_pizza_huts_is_suing_the_chain/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1780091458000,
+        "summary": "submitted by /u/Anchor_Aways [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0179
+      },
       {
         "id": "3f09f7a00d3316e2",
         "title": "Google's 24/7 AI agent Spark finally rolls out to Ultra subscribers",
@@ -2921,40 +2957,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0992
-      },
-      {
-        "id": "a0a8304f96436779",
-        "title": "Closing the AI literacy gap is the real gender equalizer in tech",
-        "url": "https://www.techradar.com/pro/closing-the-ai-literacy-gap-is-the-real-gender-equalizer-in-tech",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1780063489000,
-        "summary": "AI literacy empowers women to build, innovate and close tech's gender gap.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9115
-      },
-      {
-        "id": "738edcecc9bb5d11",
-        "title": "Australia’s workplace tribunal says AI-assisted claims have helped drive a 70% workload increase in three years",
-        "url": "https://thenextweb.com/news/australias-workplace-tribunal-says-ai-assisted-claims-have-helped-drive-a-70-workload-increase-in-three-years",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780063394000,
-        "summary": "Australia’s Fair Work Commission has announced a review of its processes to cope with what it described as an estimated 70% workload increase over three years, driven in part by the proliferation of generative AI assistance tools. The commission, which handles unfair dismissal claims, wage disputes, discrimination, bullying, and workplace sexual harassment, said the surge […] This story continues ",
-        "tags": [
-          "artificial intelligence",
-          "australia"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9586
       }
     ],
     "science": [
+      {
+        "id": "762c51a792029f2c",
+        "title": "New technology to transform professional development in schools",
+        "url": "https://phys.org/news/2026-05-technology-professional-schools.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780092001000,
+        "summary": "Professional learning and student assessment in schools is set to be transformed, thanks to a first of its kind advance in education technology led by the University of Glasgow.",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0148
+      },
       {
         "id": "967cfd7f7c384e4e",
         "title": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
@@ -3860,21 +3880,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.018
-      },
-      {
-        "id": "d466e0b7e2d71dc9",
-        "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test",
-        "url": "https://phys.org/news/2026-05-blue-rocket-pad.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780043401000,
-        "summary": "A rocket belonging to Jeff Bezos' Blue Origin exploded during a test at the launch pad Thursday night, shaking nearby homes and briefly painting the sky orange.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.092
       }
     ]
   },
