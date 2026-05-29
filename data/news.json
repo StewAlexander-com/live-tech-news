@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:24:59.242440+00:00",
+  "generated_at": "2026-05-29T06:32:22.558159+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -971,6 +971,21 @@
     ],
     "innovation": [
       {
+        "id": "efe2bf07c2a29b03",
+        "title": "Russian oligarch's financial network crashed thanks to a crank and a cleaner",
+        "url": "https://www.theregister.com/networks/2026/05/29/russian-oligarchs-financial-network-crashed-thanks-to-a-crank-and-a-cleaner/5243167",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1780036320000,
+        "summary": "What a wind-up!",
+        "tags": [
+          "networks"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0499
+      },
+      {
         "id": "b72721ee5a945e3a",
         "title": "EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY (Katrina Bianca Cuaresma/DealStreetAsia)",
         "url": "https://www.techmeme.com/260529/p7#a260529p7",
@@ -1900,27 +1915,38 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1313
-      },
-      {
-        "id": "68e869b70c731bef",
-        "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
-        "url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779987168000,
-        "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
-        "tags": [
-          "transportation",
-          "autonomous vehicles",
-          "robotaxi",
-          "waymo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.806
       }
     ],
     "ai": [
+      {
+        "id": "6daff31f486157ad",
+        "title": "A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense (Jo Constantz/Bloomberg)",
+        "url": "https://www.techmeme.com/260529/p8#a260529p8",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780036202000,
+        "summary": "Jo Constantz / Bloomberg: A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense — To win a coveted role, candidates shouldn't outsource their thinking to AI — and should be prepared to talk about their worldview.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0792
+      },
+      {
+        "id": "602a08d53cbbeb66",
+        "title": "Gemini’s restrictive usage limits are getting another overhaul",
+        "url": "https://www.androidpolice.com/geminis-restrictive-usage-limits-are-getting-another-overhaul/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1780036192000,
+        "summary": "All to make your usage quota last longer",
+        "tags": [
+          "google gemini",
+          "ai & machine learning"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9992
+      },
       {
         "id": "4c4445818e7c9136",
         "title": "Tencent bets on smaller AI models in the race with Chinese rivals, as EVP Dowson Tong says AI now contributes 20%+ of its revenue and 95%+ of new internal code (Cissy Zhou/Nikkei Asia)",
@@ -2822,36 +2848,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9778
-      },
-      {
-        "id": "0911647aa2ac8dae",
-        "title": "AI can mass-produce finance research papers indistinguishable from human work, reports study",
-        "url": "https://phys.org/news/2026-05-ai-mass-papers-indistinguishable-human.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1779996601000,
-        "summary": "Artificial intelligence (AI) and large language models (LLMs) tools are capable of mass-producing academic finance papers that are nearly indistinguishable from human-authored research, according to a new study published in the Journal of Economic Literature.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0942
-      },
-      {
-        "id": "e70226d6a629e51d",
-        "title": "Anthropic secures $965 billion valuation after raising $65 billion",
-        "url": "https://www.reddit.com/r/technology/comments/1tqdcku/anthropic_secures_965_billion_valuation_after/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779995714000,
-        "summary": "submitted by /u/tscher16 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9391
       }
     ],
     "science": [
