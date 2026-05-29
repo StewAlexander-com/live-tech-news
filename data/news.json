@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T01:23:22.873166+00:00",
+  "generated_at": "2026-05-29T02:11:03.758337+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -106,6 +106,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8621
+      },
+      {
+        "id": "d63c36ff174794a2",
+        "title": "Troops’ phones gave away location data to foreign adversaries",
+        "url": "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108",
+        "source": "The Register",
+        "lane": "gadgets",
+        "published_ts": 1780004136000,
+        "summary": "Lawmakers push DoD to tighten smartphone controls after adversaries exploited commercial tracking data",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9612
       },
       {
         "id": "8afcd1931efc9c4a",
@@ -959,27 +974,40 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9952
-      },
-      {
-        "id": "4c0112e98c6d48ac",
-        "title": "CapCut's tablet app changes the game for Android video editors, at no cost",
-        "url": "https://www.androidpolice.com/capcuts-tablet-app-changes-the-game-for-android-video-editors-at-no-cost/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1779981036000,
-        "summary": "CapCut Pad is available now",
-        "tags": [
-          "capcut",
-          "video editing",
-          "productivity",
-          "video editing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9937
       }
     ],
     "innovation": [
+      {
+        "id": "de2b4f5c59b5f2aa",
+        "title": "How to Let Everyone Keep a Secret",
+        "url": "https://hackaday.com/2026/05/28/how-to-let-everyone-keep-a-secret/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1780020042000,
+        "summary": "Someone calls you at work and says, “Don’t tell anyone, but…” If you are like most people, there are one or two people you will pass it along to with …read more",
+        "tags": [
+          "security hacks",
+          "software development",
+          "adi shamir",
+          "secret sharing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0764
+      },
+      {
+        "id": "69243ca9ebc68553",
+        "title": "Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists (Bloomberg)",
+        "url": "https://www.techmeme.com/260528/p67#a260528p67",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780019402000,
+        "summary": "Bloomberg: Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists — Music has been core to TikTok's identity since its inception. What started as a lipsyncing app called Musical.ly morphed …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9933
+      },
       {
         "id": "d89cc979e58e5c4f",
         "title": "Flock cameras divide New York city over safety vs. privacy",
@@ -1917,47 +1945,48 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8046
-      },
-      {
-        "id": "e89ff853ac21c832",
-        "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
-        "url": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1779982450000,
-        "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
-        "tags": [
-          "transportation",
-          "electric vehicles",
-          "evs",
-          "slate auto"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7476
-      },
-      {
-        "id": "cb0960c77cca0da7",
-        "title": "Bring Back Your Bose with an ESP32",
-        "url": "https://hackaday.com/2026/05/28/bring-back-your-bose-with-an-esp32/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1779982246000,
-        "summary": "It’s become a familiar theme over the last couple of decades — hardware is rendered useless when its manufacturer pulls the cloud service on which it depends. This is particularly …read more",
-        "tags": [
-          "home entertainment hacks",
-          "microcontrollers",
-          "bose",
-          "cloud",
-          "esp32",
-          "soundtouch"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0783
       }
     ],
     "ai": [
+      {
+        "id": "fff930223ef3c37a",
+        "title": "AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded zero crime, while Gemini 3 Flash had the most at 683 (Jake Angelo/Fortune)",
+        "url": "https://www.techmeme.com/260528/p66#a260528p66",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780018501000,
+        "summary": "Jake Angelo / Fortune: AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded zero crime, while Gemini 3 Flash had the most at 683 — Imagine a world run by AI agents. What does it look like? What are the values or societal priorities? Is it a safer or more dangerous world?",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0676
+      },
+      {
+        "id": "b9c402baffc45926",
+        "title": "AI-Generated Film About Iranian Protest Violence Heads to Tribeca Film Festival",
+        "url": "https://www.cnet.com/culture/entertainment/ai-generated-film-dreams-of-violets-iran-tribeca-film-festival/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1780018062000,
+        "summary": "Dreams of Violets, a 75-minute docudrama from first-time filmmakers Ash and Prooya Koosha, was made entirely with AI tools.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8734
+      },
+      {
+        "id": "34588453193d4309",
+        "title": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit",
+        "url": "https://www.cnet.com/tech/services-and-software/perplexity-ai-cnn-copyright-suit/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1780016979000,
+        "summary": "More than 100 copyright lawsuits have been filed against AI companies as of early 2026.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8683
+      },
       {
         "id": "caa74dd2cb9a9320",
         "title": "Dell reports Q1 AI server revenue up 757% YoY to $16.1B and raises its FY 2027 AI server revenue forecast to $60B, up from its prior projection of $50B (Mike Wheatley/SiliconANGLE)",
@@ -1970,6 +1999,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.075
+      },
+      {
+        "id": "d7d5d08de0d5533f",
+        "title": "How to Tell if Google Chrome Secretly Downloaded a 4GB AI Model to Your Device",
+        "url": "https://www.cnet.com/tech/services-and-software/if-you-use-google-chrome-your-device-may-have-secretly-downloaded-a-4gb-ai-model/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1780015519000,
+        "summary": "Don't want it? Here's how to delete it.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8616
       },
       {
         "id": "9b24d2cc8169745f",
@@ -2859,74 +2901,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9477
-      },
-      {
-        "id": "3295f5e7d1fa2177",
-        "title": "Why Paris may be the most important AI city outside Silicon Valley",
-        "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1779989730000,
-        "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
-        "tags": [
-          "startups",
-          "venture",
-          "startup battlefield 200",
-          "techcrunch disrupt 2026",
-          "vivatech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8022
-      },
-      {
-        "id": "100304488e9d6652",
-        "title": "Anthropic releases Claude Opus 4.8, promising a more honest model",
-        "url": "https://www.reddit.com/r/technology/comments/1tqafhz/anthropic_releases_claude_opus_48_promising_a/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1779989569000,
-        "summary": "submitted by /u/VindtUMijTeLang [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9245
-      },
-      {
-        "id": "5a4899385a02d3d5",
-        "title": "These Google apps work better together than most people realize",
-        "url": "https://www.makeuseof.com/these-google-apps-work-better-together-than-most-people-realize/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1779989418000,
-        "summary": "I discovered how combining Google apps like Gemini, Gmail, and Google Docs can dramatically reduce tedious tasks and enhance my workflow.",
-        "tags": [
-          "productivity",
-          "products",
-          "google drive",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8426
-      },
-      {
-        "id": "ff0c8f62d126a748",
-        "title": "Anthropic launches Opus 4.8, saying it's \"more likely to flag uncertainties about its work and less likely to make unsupported claims\", at the same price as 4.7 (Russell Brandom/TechCrunch)",
-        "url": "https://www.techmeme.com/260528/p48#a260528p48",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1779988439000,
-        "summary": "Russell Brandom / TechCrunch: Anthropic launches Opus 4.8, saying it's “more likely to flag uncertainties about its work and less likely to make unsupported claims”, at the same price as 4.7 — On Thursday, Anthropic released Opus 4.8, the newest version of its most advanced publicly available model.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9861
       }
     ],
     "science": [
+      {
+        "id": "011b78854fbf1142",
+        "title": "NASA develops sensor to improve firefighter safety",
+        "url": "https://phys.org/news/2026-05-nasa-sensor-firefighter-safety.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780020003000,
+        "summary": "With peak wildfire season approaching, scientists with NASA's FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0977
+      },
+      {
+        "id": "287a32077561044b",
+        "title": "Settling down vs. settling: New study proves being single beats a bad relationship",
+        "url": "https://phys.org/news/2026-05-bad-relationship.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780018801000,
+        "summary": "While society often assumes that finding a romantic partner is the ultimate key to happiness, tracking relationship changes over time reveals a distinctly different reality. A massive longitudinal study proves that individuals actually experience higher emotional well-being when they are single compared to when they are enduring a poor- or moderate-quality relationship. Ultimately, while a high-qu",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0099
+      },
       {
         "id": "7c8438bf68c14bd3",
         "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
@@ -3801,36 +3808,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.078
-      },
-      {
-        "id": "04f86d22aa6ac799",
-        "title": "Cobalt honeycombs open a new path to quantum computing",
-        "url": "https://phys.org/news/2026-05-cobalt-honeycombs-path-quantum.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779981605000,
-        "summary": "Honeycombs are famous for their elegant design, but now they may have found a new application: quantum computing. To collect knowledge from subatomic particles, quantum computers require carefully designed materials capable of performing necessary, complex functions. However, the metals used, such as ruthenium and iridium, are often rare and expensive, limiting the potential to build new technolog",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.098
-      },
-      {
-        "id": "27216a205db87666",
-        "title": "Bare supercontinent may have tipped ancient Earth into 'Snowball' phase",
-        "url": "https://phys.org/news/2026-05-supercontinent-ancient-earth-snowball-phase.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1779981604000,
-        "summary": "About a billion years ago, Earth started to come into its own. It was past the awkwardness of its younger years full of growing pains and turmoil: comet strikes and slimy water, including the Great Oxidation Event that flipped the world upside down. Roughly a billion years ago, the planet began to advance and mature, with plant life developing about 700 million years ago, but still with the occasi",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0166
       }
     ]
   },
