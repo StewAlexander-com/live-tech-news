@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T13:45:28.249235+00:00",
+  "generated_at": "2026-05-29T13:52:24.037147+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -100,6 +100,32 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8444
+      },
+      {
+        "id": "362a225dc027c892",
+        "title": "Acer Says Hey, We Can Do Smart Glasses Too",
+        "url": "https://www.cnet.com/tech/computing/acer-smart-glasses-augmented-reality-ai-assistant/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1780059697000,
+        "summary": "The PC maker will enter a hectic scene for smart glasses with two models planned for later this year.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8067
+      },
+      {
+        "id": "9270a1ee2c31f5d0",
+        "title": "Acer Blaze Link Handheld May Solve Your Remote Play From Your Laptop Problem",
+        "url": "https://www.cnet.com/tech/gaming/acer-nitro-blaze-link-remote-play-handheld-acers-computex-launches/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1780059694000,
+        "summary": "Among the raft of refreshes, a few novelties stand out from the company's Computex product announcements.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8067
       },
       {
         "id": "768bdf5b5db4b0ef",
@@ -950,36 +976,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0577
-      },
-      {
-        "id": "72787c3b9e0a1ce4",
-        "title": "23andMe Sued by California Over Massive 2023 Data Breach",
-        "url": "https://www.cnet.com/tech/services-and-software/23andme-sued-by-california-over-massive-2023-data-breach/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1780022345000,
-        "summary": "Attorney general calls the company's security measures \"lax\" and says the company failed to adequately investigate warnings its systems had been compromised.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8082
-      },
-      {
-        "id": "7d31a38fb4fa838a",
-        "title": "This new super-slim adapter adds aptX Lossless and LDAC Bluetooth to iPhones — upgrade your wireless music for cheaper than you might expect (and it doesn't stop you from charging at the same time, mercifully)",
-        "url": "https://www.techradar.com/audio/this-new-super-slim-adapter-adds-aptx-lossless-and-ldac-bluetooth-to-iphones-upgrade-your-wireless-music-for-cheaper-than-you-might-expect-and-it-doesnt-stop-you-from-charging-at-the-same-time-mercifully",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780016400000,
-        "summary": "The Acoustune ATX001 plugs into your iPhone, iPad or any other device via USB-C, and upgrades your music with certain audio codecs.",
-        "tags": [
-          "audio",
-          "iphone",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8447
       }
     ],
     "innovation": [
@@ -1935,6 +1931,35 @@
     ],
     "ai": [
       {
+        "id": "fe4ffe446b9c1e86",
+        "title": "Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost (The Information)",
+        "url": "https://www.techmeme.com/260529/p19#a260529p19",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780062641000,
+        "summary": "The Information: Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq's LPUs, which are built to run AI models at low cost — TikTok owner ByteDance is developing a new chip to run artificial intelligence models as part of an aggressive expansion of its homegrown AI infrastructure.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0794
+      },
+      {
+        "id": "4eb38db8b55b73f5",
+        "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+        "url": "https://github.com/scanaislop/aislop",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780061858000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1286
+      },
+      {
         "id": "0f8c54adb30860cf",
         "title": "From AI laptops to AR glasses, Acer's Computex lineup is trying to do everything at once",
         "url": "https://www.makeuseof.com/acer-computex-lineup-ar-glasses-ai-laptops/",
@@ -2788,105 +2813,65 @@
         "score": 1.0376
       },
       {
-        "id": "12fa8ea287f69399",
-        "title": "Governing Technical Debt in Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2605.29129",
+        "id": "1706dcf7ce636a58",
+        "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
+        "url": "https://arxiv.org/abs/2605.28994",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1780027200000,
-        "summary": "arXiv:2605.29129v1 Announce Type: new Abstract: Agentic AI systems are increasingly being explored as production infrastructure: they reason over multiple steps, call tools, act through workflows, and adapt through memory and feedback. These systems create governance challenges that are not fully captured by traditional software or predictive ML technical debt. We define Agentic Technical Debt as ",
+        "summary": "arXiv:2605.28994v1 Announce Type: new Abstract: AI tools to support real world decision making must be able to build simulation models that inform their recommendations and render them interpretable. Tools that can automate aspects of modeling practice must complement human expertise, not replace it. The BEAMS Initiative aims to guide the development of AI tools for modeling and simulation toward ",
         "tags": [
-          "cs.ai",
-          "cs.cy",
-          "econ.gn",
-          "q-fin.ec"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9398
-      },
-      {
-        "id": "64e95f437ea74b3b",
-        "title": "Conf-Gen: Conformal Uncertainty Quantification for Generative Models",
-        "url": "https://arxiv.org/abs/2605.28920",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28920v1 Announce Type: new Abstract: Conformal prediction (CP) and its extension, conformal risk control (CRC), are established frameworks for quantifying uncertainty in supervised machine learning through formal guarantees. However, recent breakthroughs in artificial intelligence (AI) have been driven by unsupervised generative models, such as large language models (LLMs) and image gen",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9398
-      },
-      {
-        "id": "37394f061d819f96",
-        "title": "Comparing Post-Hoc Explainable AI Methods for Interpreting Black-Box EEG Models in Depression Detection",
-        "url": "https://arxiv.org/abs/2605.28977",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28977v1 Announce Type: new Abstract: Recent advances in deep learning have enabled increasingly accurate electroencephalography (EEG)-based classification of Major Depressive Disorder (MDD), but the decision-making processes of high-capacity models remain difficult to interpret. This study investigates multiple post-hoc explainability methods applied to an InceptionTime architecture tra",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9398
+        "score": 0.9377
       },
       {
-        "id": "3fab4e84424605b0",
-        "title": "The Hamilton-Jacobi Theory of Deep Learning",
-        "url": "https://arxiv.org/abs/2605.28983",
-        "source": "arXiv cs.LG",
+        "id": "b910bcb11fd4b301",
+        "title": "Practitioner Beliefs and Behaviors in AI-Enhanced Education: DOT Framework Survey Evidence",
+        "url": "https://arxiv.org/abs/2605.29041",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28983v1 Announce Type: new Abstract: In this paper, training a neural network is identified, exactly, as a search through Hamilton--Jacobi initial-value problems: each gradient step selects the initial data of a viscous Hamilton--Jacobi equation whose Hopf--Cole propagator best fits the observations; at inference, the input is the spatial point at which that solution is evaluated and th",
+        "summary": "arXiv:2605.29041v1 Announce Type: new Abstract: This study reports findings from a cross-sectional survey (n = 72) of higher education practitioners examining beliefs, behaviors, and institutional conditions related to artificial intelligence (AI) integration in teaching and learning. Grounded in the DOT Framework, which integrates design thinking and open systems theory, the study investigates AI",
         "tags": [
-          "cs.lg",
-          "cs.ai",
-          "math.ds",
-          "math.rt",
-          "physics.comp-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9398
-      },
-      {
-        "id": "21a9492ea692e601",
-        "title": "LoRe: Adaptive Interaction-Evaluation Routing with Per-Step Interaction Budgets for Iterative Graph Solvers",
-        "url": "https://arxiv.org/abs/2605.29005",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1780027200000,
-        "summary": "arXiv:2605.29005v1 Announce Type: new Abstract: Diffusion-based neural solvers for combinatorial optimization repeatedly re-evaluate dense edge/factor interactions, making inference expensive in wall-clock time and often memory-bound at scale. Inspired by the computational methodologies of many-body physics, we introduce LoRe, a training-free, inference-time drop-in wrapper that enforces per-step ",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9398
+        "score": 0.9377
       },
       {
-        "id": "3b1f1ea55156947e",
-        "title": "Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data",
-        "url": "https://arxiv.org/abs/2605.29058",
-        "source": "arXiv cs.LG",
+        "id": "d19bf0dd25d978bc",
+        "title": "Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching",
+        "url": "https://arxiv.org/abs/2605.29055",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1780027200000,
-        "summary": "arXiv:2605.29058v1 Announce Type: new Abstract: Bayesian Networks (BNs) are of interest from an explainable AI viewpoint, offering transparent probabilistic models for decision support. Baymex is a recently introduced multi-objective evolutionary algorithm for learning discretized BNs, enabling experts to trade-off different objectives of interest, such as likelihood, model complexity, and prior b",
+        "summary": "arXiv:2605.29055v1 Announce Type: new Abstract: Hallucination remains a major reliability barrier for production LLM systems, particularly in multi-agent pipelines where unsupported claims can propagate unchecked across stages. This paper adapts a HOPE-inspired Nested Learning architecture with Continuum Memory Systems (CMS) and semantic similarity caching to a hybrid benchmark of 310 prompts comb",
         "tags": [
-          "cs.lg"
+          "cs.ai",
+          "cs.ma"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9458
+        "score": 0.9377
+      },
+      {
+        "id": "d02994e69a7a3013",
+        "title": "The Importance of Out-of-Band Metadata for Safe Autonomous Agents: The Redpanda Agentic Data Plane",
+        "url": "https://arxiv.org/abs/2605.29082",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780027200000,
+        "summary": "arXiv:2605.29082v1 Announce Type: new Abstract: AI agents are increasingly expected to operate as digital employees: accessing enterprise data, making decisions, and taking actions autonomously. But agents are simultaneously less predictable than humans -- prone to hallucination, misinterpretation, and adversarial manipulation -- and more technically capable: with deep system knowledge and high-th",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9377
       }
     ],
     "science": [
@@ -2949,6 +2934,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0182
+      },
+      {
+        "id": "e0abe1131195dfbe",
+        "title": "Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site",
+        "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
+        "source": "Ars Technica AI",
+        "lane": "science",
+        "published_ts": 1780059826000,
+        "summary": "A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.",
+        "tags": [
+          "science",
+          "space",
+          "blue origin",
+          "cape canaveral space force station",
+          "china",
+          "falcon 9"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0633
       },
       {
         "id": "8d983cfddaecfec4",
@@ -3770,19 +3775,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0183
-      },
-      {
-        "id": "d1b9e01fda0d71c3",
-        "title": "SpaceX's Starship V3 Can't Fly Again Until a 'Mishap' Is Addressed, Says FAA",
-        "url": "https://www.cnet.com/science/space/faa-spacex-starship-v3-mishap/",
-        "source": "CNET",
-        "lane": "science",
-        "published_ts": 1780006023000,
-        "summary": "The investigation is being led by SpaceX, but it needs approval from the FAA before the Starship can launch again.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8667
       }
     ]
   },
