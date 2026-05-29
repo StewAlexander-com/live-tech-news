@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T21:15:08.960266+00:00",
+  "generated_at": "2026-05-29T21:39:07.359501+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -999,6 +999,21 @@
     ],
     "innovation": [
       {
+        "id": "b1a6f2abb4f1973f",
+        "title": "'Just imagine what could get done' — How this US startup is building a 'cheap' fab-in-a-box to do for microchips what IBM did for PCs",
+        "url": "https://www.techradar.com/pro/just-imagine-what-could-get-done-how-this-us-startup-is-building-a-cheap-fab-in-a-box-to-do-for-microchips-what-ibm-did-for-pcs",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1780089300000,
+        "summary": "InchFab developed compact semiconductor fabrication systems using smaller wafers to reduce manufacturing costs, simplify workforce training, and support specialized industries.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9109
+      },
+      {
         "id": "61b303de7b82e710",
         "title": "I 3D printed cable organizers and my messy desk suddenly looked like I knew what I was doing",
         "url": "https://www.makeuseof.com/i-3d-printed-custom-cable-organizers-and-my-desk-finally-looks-intentional/",
@@ -1959,24 +1974,60 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8983
-      },
-      {
-        "id": "98543d8fa906fc20",
-        "title": "FCC warns US broadcasters their licenses are a privilege, not a right",
-        "url": "https://www.theregister.com/offbeat/2026/05/29/fcc-warns-us-broadcasters-their-licenses-are-a-privilege-not-a-right/5248393",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1780057800000,
-        "summary": "TV and radio stations told to review current practices to align with public interest obligations",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0315
       }
     ],
     "ai": [
+      {
+        "id": "bd308206c024e980",
+        "title": "Could Microsoft kill the web browser at Build? Everything developers need to know about the NLWeb Protocol",
+        "url": "https://www.techradar.com/pro/could-microsoft-kill-the-web-browser-at-build-everything-developers-need-to-know-about-the-nlweb-protocol",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780089900000,
+        "summary": "NLWeb is Microsoft's open protocol for turning any website into a conversational AI app. Here's what developers need to know before Build 2026",
+        "tags": [
+          "pro",
+          "tech events"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9138
+      },
+      {
+        "id": "4e6e1c60d1925197",
+        "title": "Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there",
+        "url": "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1780089429000,
+        "summary": "The US has previously built specialized facilities just for this purpose.",
+        "tags": [
+          "health",
+          "drc",
+          "ebola",
+          "kenya",
+          "outbreak",
+          "trump administration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.993
+      },
+      {
+        "id": "b4e9224b077974b2",
+        "title": "AI billionaires brace for pitchforks",
+        "url": "https://www.reddit.com/r/technology/comments/1trfy7w/ai_billionaires_brace_for_pitchforks/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1780089422000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0188
+      },
       {
         "id": "603315685079a393",
         "title": "Wix Is the Latest To Cut 20% of Jobs While Citing AI",
@@ -2907,57 +2958,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.3922
-      },
-      {
-        "id": "4eb38db8b55b73f5",
-        "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-        "url": "https://github.com/scanaislop/aislop",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1780061858000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1286
-      },
-      {
-        "id": "a31759eadfe00f14",
-        "title": "Expertise in the Age of AI",
-        "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1780061713000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1083
-      },
-      {
-        "id": "0f8c54adb30860cf",
-        "title": "From AI laptops to AR glasses, Acer's Computex lineup is trying to do everything at once",
-        "url": "https://www.makeuseof.com/acer-computex-lineup-ar-glasses-ai-laptops/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1780059618000,
-        "summary": "A little bit of everything, all of the time",
-        "tags": [
-          "windows",
-          "artificial intelligence",
-          "computex 2026",
-          "pc gaming",
-          "acer"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9106
       }
     ],
     "science": [
