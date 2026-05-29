@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T18:15:10.024947+00:00",
+  "generated_at": "2026-05-29T18:20:49.142196+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1020,6 +1020,21 @@
     ],
     "innovation": [
       {
+        "id": "e1dc3a389f0372e5",
+        "title": "Lidl launches super-cheap solar balcony battery — as home backups become new energy crisis essential",
+        "url": "https://www.techradar.com/home/lidl-launches-super-cheap-solar-balcony-battery-as-home-backups-become-new-energy-crisis-essential",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1780078463000,
+        "summary": "Lidl's new balcony battery lets you store solar energy to use later or in an emergency, potentially saving you money or keeping the lights on.",
+        "tags": [
+          "home"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9161
+      },
+      {
         "id": "5c6fa36f4ff69b24",
         "title": "Designing catalysts during synthesis could speed cleaner fuels and greener industry",
         "url": "https://phys.org/news/2026-05-catalysts-synthesis-cleaner-fuels-greener.html",
@@ -1992,21 +2007,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8973
-      },
-      {
-        "id": "7538daf3e4013f2f",
-        "title": "ShinyHunters adds Charter to trophy shelf after 4.9M customer records leak",
-        "url": "https://www.theregister.com/cyber-crime/2026/05/29/shinyhunters-adds-charter-to-trophy-shelf-after-49m-customer-records-leak/5248281",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1780050151000,
-        "summary": "Telco giant says no sensitive data was taken, though names, addresses, phones, and emails are now out there",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0247
       }
     ],
     "ai": [
@@ -2980,6 +2980,21 @@
     ],
     "science": [
       {
+        "id": "cdf912b6ead93785",
+        "title": "Are taxpayers being gaslighted by street lamp charm?",
+        "url": "https://phys.org/news/2026-05-taxpayers-gaslighted-street-lamp-charm.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780078805000,
+        "summary": "Gas streetlights might look quaint, but researchers at the University of Cincinnati say they are costly, wasteful and release toxic pollutants into the air. In two studies examining their use in Boston, Massachusetts, and Cincinnati, UC researchers found that each lamp releases many times the amount of methane and carbon monoxide of other appliances such as gas stoves and water heaters.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
+      {
         "id": "8311e59bee6f90d5",
         "title": "Freeze-dried reagents and hand-powered hardware bring biomanufacturing to remote labs",
         "url": "https://phys.org/news/2026-05-dried-reagents-powered-hardware-biomanufacturing.html",
@@ -3844,66 +3859,51 @@
         "score": 0.9857
       },
       {
-        "id": "49e43a5042446d0c",
-        "title": "Sequential Physics-Constrained Neural Operator Forward Modeling for the $\\textit{Norne}$ Reservoir System",
-        "url": "https://arxiv.org/abs/2605.28909",
+        "id": "6dd75d596e40be79",
+        "title": "Balancing Multimodal Learning through Label Space Reshaping",
+        "url": "https://arxiv.org/abs/2605.28869",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28909v1 Announce Type: new Abstract: We develop a comprehensive mathematical and computational framework for sequential surrogate modeling of three-phase black-oil reservoir dynamics using neural operators, with particular emphasis on Fourier Neural Operators (FNO) and their physics-informed variant (PINO). The application focus is the Norne benchmark reservoir, defined on a heterogeneo",
+        "summary": "arXiv:2605.28869v1 Announce Type: new Abstract: Multimodal learning often suffers from modality imbalance, where modalities that converge faster dominate optimization while others remain undertrained. Existing approaches typically mitigate this issue by strengthening the weak modality or adjusting optimization gradients. However, such strategies mainly compensate for optimization rate discrepancie",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7966
+      },
+      {
+        "id": "055978eb6606b961",
+        "title": "FedQHD: Closed-Form Function-Space Federated Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2605.29002",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780027200000,
+        "summary": "arXiv:2605.29002v1 Announce Type: new Abstract: Federated reinforcement learning enables decentralized agents to collaboratively improve policies or value estimates without exchanging raw trajectories. However, FedAvg-style parameter averaging is not function-space consistent: when clients use heterogeneous encoders or even identical nonlinear networks, averaged parameters need not correspond to t",
+        "tags": [
+          "cs.lg",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7966
+      },
+      {
+        "id": "9589428c067c77fa",
+        "title": "Designing Active Tether-Net Systems for Space Debris Capture with Graph-Learning-Aided Mixed-Combinatorial Optimization",
+        "url": "https://arxiv.org/abs/2605.29021",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780027200000,
+        "summary": "arXiv:2605.29021v1 Announce Type: new Abstract: Active tether-net systems are a promising solution for capturing large non-cooperative targets, such as space debris, by deploying a flexible net manipulated by maneuverable units (MUs). However, concurrent systematic explorations of design and control choices of the tether-net system to understand its full potential remain limited, partly due to the",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.114
-      },
-      {
-        "id": "28a7dd61347eed6f",
-        "title": "Cycle-Space Informed Detection of Autoencoded Blind False Data Injection Attacks on Power Systems",
-        "url": "https://arxiv.org/abs/2605.28912",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28912v1 Announce Type: new Abstract: The rapid growth of AI-driven data centers and large-scale energy storage systems is increasing the reliance of power system operation on real-time measurement data and automated decision-making. However, many existing detection methods rely on statistical or data-driven analysis of measurements and can fail when attackers exploit the same data struc",
-        "tags": [
-          "cs.lg",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.114
-      },
-      {
-        "id": "fa7d1e9a11eec3ff",
-        "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-        "url": "https://arxiv.org/abs/2605.28855",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28855v1 Announce Type: new Abstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD through an auxiliary covariance correction, and TDRC further regularizes this correction in a single-timescale recursion. This paper studies a behavior-aware replacement of the auxiliary covariance geometry in the linear pr",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0315
-      },
-      {
-        "id": "010b0a51c6d9a936",
-        "title": "PrismFlow: Residual Dynamics for Flow Matching in Time-Series Generation",
-        "url": "https://arxiv.org/abs/2605.28867",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780027200000,
-        "summary": "arXiv:2605.28867v1 Announce Type: new Abstract: Generating high-quality time-series data is challenging because real-world signals often exhibit multimodal patterns and multiscale dynamics, including oscillations and high-frequency variations. Flow Matching (FM) offers an efficient alternative to diffusion models, but practical implementations typically rely on a single finite-capacity global vect",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0315
+        "impact": "normal",
+        "score": 0.7966
       }
     ]
   },
