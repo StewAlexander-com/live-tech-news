@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-31T13:25:09.951526+00:00",
+  "generated_at": "2026-05-31T13:47:41.884092+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "5e3db54b6bb8d1c0",
+        "title": "A meteor exploded off the coast of Boston",
+        "url": "https://www.theverge.com/science/940467/meteor-exploded-new-england",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1780235086000,
+        "summary": "On Saturday, at around 2:06 pm ET, a meteor streaked over the northeastern US and exploded north of Cape Cod Bay. The fireball was caught on camera by several people, shook houses, and can even be seen clearly in satellite imagery, lighting up the sky. Some residents initially thought that the shaking and boom may […]",
+        "tags": [
+          "news",
+          "science",
+          "space"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8546
+      },
+      {
+        "id": "a701a8e8d9d7755b",
+        "title": "I abandoned Samsung for a Google Pixel, but I still desperately miss these One UI tools",
+        "url": "https://www.androidpolice.com/after-using-pixel-i-wish-google-copied-these-samsung-features/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1780234211000,
+        "summary": "Small and big things that make a Galaxy phone better than a Pixel",
+        "tags": [
+          "samsung one ui",
+          "android",
+          "best reads",
+          "operating systems",
+          "android police's best reads"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9944
+      },
       {
         "id": "42b0b8ed1ef99526",
         "title": "Microsoft veteran recalls the last time Nvidia and Arm was the future of Windows — shares a video of ‘the first time Windows ran on Nvidia Tegra Arm’ from 2010",
@@ -925,43 +961,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9981
-      },
-      {
-        "id": "0b29ae02dea806d4",
-        "title": "I tracked how Google and Amazon push stealth updates, and it completely explained my broken phone apps",
-        "url": "https://www.androidpolice.com/installing-updates-is-suddenly-a-really-bad-idea/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1780147810000,
-        "summary": "I stopped installing updates after seeing what they're doing to my apps",
-        "tags": [
-          "android",
-          "amazon",
-          "google",
-          "operating systems",
-          "amazon"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9952
-      },
-      {
-        "id": "186a1667cbe64cc5",
-        "title": "5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription",
-        "url": "https://www.engadget.com/2183305/fitness-trackers-no-subscription/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1780147800000,
-        "summary": "The Fitbit Air isn't the only Whoop alternative that you can buy without a subscription.",
-        "tags": [
-          "wearables"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.4442
       }
     ],
     "innovation": [
+      {
+        "id": "e61d26152c8a9e75",
+        "title": "LG Electronics stock jumped 24% in a day after unveiling Google-based car tech that cuts automaker costs",
+        "url": "https://thenextweb.com/news/lg-electronics-stock-surge-google-android-automotive",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1780233898000,
+        "summary": "LG Electronics shares surged as much as 23.95% after the company announced a range of automotive solutions built on Google’s Android Automotive operating system. The stock last traded at 279,500 won. It was one of the largest single-day moves for the company in recent years. The core product is a multi-display system that uses a […] This story continues at The Next Web",
+        "tags": [
+          "business",
+          "google",
+          "cars"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8935
+      },
       {
         "id": "1421d673c9af7bf8",
         "title": "Pocket-sized device rivals bulky lab machinery in disease and environmental testing",
@@ -1923,26 +1942,27 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0976
-      },
-      {
-        "id": "681a305b88c687b8",
-        "title": "This tool lets two people type in the same Linux terminal at the same time",
-        "url": "https://www.makeuseof.com/this-tool-lets-two-people-type-in-same-linux-terminal-at-the-same-time/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1780153217000,
-        "summary": "A second cursor moving beside yours, controlling the same terminal.",
-        "tags": [
-          "linux",
-          "linux tips",
-          "linux apps"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8458
       }
     ],
     "ai": [
+      {
+        "id": "b2bd63ebbbc88af7",
+        "title": "I stopped using OpenClaw — this is the better agent that the mainstream hasn't caught up to yet",
+        "url": "https://www.makeuseof.com/stopped-using-openclaw-better-agent-mainstream-hasnt-caught-up/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1780234218000,
+        "summary": "It's a bigger upgrade than you think it can be.",
+        "tags": [
+          "productivity",
+          "artificial intelligence",
+          "large language models (llm)",
+          "chatgpt"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8453
+      },
       {
         "id": "205cd639381d43d3",
         "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
@@ -2878,25 +2898,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9159
-      },
-      {
-        "id": "0b4199ae0299e28a",
-        "title": "Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking",
-        "url": "https://thenextweb.com/news/inherent-ai-50-million-seed-deepmind-faraday-science",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780140757000,
-        "summary": "London-based AI lab Inherent emerged from stealth on Wednesday with a $50 million seed round co-led by Index Ventures and Radical Ventures. Nvidia’s venture arm NVentures also participated, alongside Ex/Ante, Metaplanet, Macroscopic Ventures, and Mythos Ventures. It is among Europe’s largest AI stealth-to-launch rounds in 2026. The founding team comes from DeepMind, Microsoft, and Reka […] This st",
-        "tags": [
-          "artificial intelligence",
-          "deep tech",
-          "next featured",
-          "ecosystems",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9687
       }
     ],
     "science": [
