@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T17:12:28.759994+00:00",
+  "generated_at": "2026-05-31T17:30:29.515388+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -283,6 +283,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9474
+      },
+      {
+        "id": "b3b36d8c7497552a",
+        "title": "I put a datacenter GPU in my gaming PC",
+        "url": "https://blog.tymscar.com/posts/v100localllm/",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1780235596000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:150"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2241
       },
       {
         "id": "4aae1312c75744d6",
@@ -938,24 +954,27 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8478
-      },
-      {
-        "id": "3e8b257640eb7b6f",
-        "title": "Lamine Yamal Teases Upcoming Beats Over-Ear Headphones",
-        "url": "https://www.macrumors.com/2026/05/30/lamine-yamal-teases-upcoming-beats-headphones/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1780165185000,
-        "summary": "Ahead of the upcoming World Cup, football superstar Lamine Yamal has arrived at training camp for the Spanish national team sporting what seems to be the unreleased over-ear headphones that appeared in a U.S. Federal Communications Commission database last week. As suspected, the new headphones are a Beats product rather than an Apple product. In a post on his Instagram account, Yamal shared sever",
-        "tags": [
-          "beats"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9973
       }
     ],
     "innovation": [
+      {
+        "id": "8d45ef286e3a185d",
+        "title": "I uninstalled ShareX after finding this tiny screenshot tool that does everything I actually used it for",
+        "url": "https://www.makeuseof.com/i-ditched-sharex-for-oddsnap/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780248619000,
+        "summary": "Everything ShareX, minus the excess.",
+        "tags": [
+          "creative",
+          "screenshots",
+          "windows apps",
+          "open source"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.85
+      },
       {
         "id": "7231e823d9d6e72f",
         "title": "4-bit Relay Logic Counter Begs To Have Its Buttons Pushed",
@@ -1922,21 +1941,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.078
-      },
-      {
-        "id": "ada9d47d8866cdf7",
-        "title": "Microsoft Criticized for Threatening Legal Action Against Security Researcher",
-        "url": "https://it.slashdot.org/story/26/05/30/0559243/microsoft-criticized-for-threatening-legal-action-against-security-researcher?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1780169640000,
-        "summary": "\"A security researcher published a series of unpatched bugs in Microsoft products,\" reports TechCrunch, \"along with code to exploit them.\" Microsoft's response to the researcher? \"Threatening to take legal action and call the cops on them.\" On Wednesday, Microsoft published a blog post criticizing the researcher, who goes by the handle \"Nightmare Eclipse,\" for publicly disclosing a series of bugs,",
-        "tags": [
-          "bug"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0486
       }
     ],
     "ai": [
