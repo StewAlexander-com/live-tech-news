@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T20:57:46.729323+00:00",
+  "generated_at": "2026-05-31T21:09:18.271713+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -955,6 +955,41 @@
     ],
     "innovation": [
       {
+        "id": "9c95b18b3a5fb3b9",
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1780261514000,
+        "summary": "Environmental activist Erin Brockovich has a new mission.",
+        "tags": [
+          "ai",
+          "government & policy",
+          "data centers",
+          "erin brockovich"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.747
+      },
+      {
+        "id": "4f2780c5d9f9f79e",
+        "title": "Your sensitive files really shouldn't be in Google Drive",
+        "url": "https://www.makeuseof.com/sensitive-files-not-safe-google-drive/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780261220000,
+        "summary": "Google Drive isn't safe for sensitive files",
+        "tags": [
+          "productivity",
+          "google drive",
+          "encryption"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8476
+      },
+      {
         "id": "0e16f4ee3e3c6e57",
         "title": "I've been using NotebookLM's Audio Overview wrong — this is what it's actually good for",
         "url": "https://www.makeuseof.com/ive-been-using-notebooklms-audio-overview-wrong-this-is-what-its-actually-good-for/",
@@ -1898,39 +1933,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0794
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "cb8a1128a6f869e7",
-        "title": "Why you should always buy the 4K Roku or streaming stick — even without a 4K TV",
-        "url": "https://www.makeuseof.com/4k-streaming-stick-choices/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1780182019000,
-        "summary": "If you don't pick the right streaming device, you're not getting the fastest experience possible.",
-        "tags": [
-          "entertainment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8495
-      },
-      {
-        "id": "ee6564b9c921a2a1",
-        "title": "Some Flock Surveillance Cameras Are Getting the Trash-Bag Treatment",
-        "url": "https://www.reddit.com/r/technology/comments/1tse1mk/some_flock_surveillance_cameras_are_getting_the/",
+        "id": "8db6793e0f7db85a",
+        "title": "The Feeling of Control Slipping Away - AI is causing a crisis of agency.",
+        "url": "https://www.reddit.com/r/technology/comments/1tt6rc4/the_feeling_of_control_slipping_away_ai_is/",
         "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1780181523000,
-        "summary": "submitted by /u/hobyvh [link] [comments]",
+        "lane": "ai",
+        "published_ts": 1780259923000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
         "tags": [
           "technology"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9386
-      }
-    ],
-    "ai": [
+        "score": 1.016
+      },
       {
         "id": "9d2533d1309e653e",
         "title": "MSI's Claw 8 EX AI+ handheld comes out on June 23",
@@ -2872,27 +2892,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0769
-      },
-      {
-        "id": "23d7d27037d4ecb0",
-        "title": "I built a private LLM on my home PC using a USB drive — it only knows what I put on it",
-        "url": "https://www.makeuseof.com/built-private-llm-on-home-pc-using-usb-drive-only-knows-what-put-on-it/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1780167619000,
-        "summary": "I run my own AI on a USB drive and my data never leaves my PC, always private — here's how to build one.",
-        "tags": [
-          "productivity",
-          "machine learning",
-          "artificial intelligence",
-          "usb"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9178
       }
     ],
     "science": [
+      {
+        "id": "7489ab1197d78751",
+        "title": "What 'biodegradable' packaging really means—and three key questions to ask about it",
+        "url": "https://phys.org/news/2026-05-biodegradable-packaging-key.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780261202000,
+        "summary": "\"Biodegradable\" has become one of the most reassuring words in modern packaging. It appears on coffee cups, shopping bags and food containers, implying a promise: this product is better for the environment because nature will eventually take care of it.",
+        "tags": [
+          "materials science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.017
+      },
       {
         "id": "5610b4e413d01347",
         "title": "Bacteria uncover distinct strategy to import rare sugar polymers, crystal structures show",
@@ -3800,25 +3817,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0148
-      },
-      {
-        "id": "967cfd7f7c384e4e",
-        "title": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
-        "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
-        "source": "The Verge",
-        "lane": "science",
-        "published_ts": 1780091332000,
-        "summary": "The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites for President Donald Trump's planned \"Golden Dome\" defense system, as reported earlier by Bloomberg. In an announcement on Friday, the US Space Force says the sensor-equipped satellites will allow it to detect and track targets from space. The Elon Musk-owned SpaceX - which […]",
-        "tags": [
-          "policy",
-          "politics",
-          "science",
-          "space",
-          "spacex"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8525
       }
     ]
   },
