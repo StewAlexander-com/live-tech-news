@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:53:46.745577+00:00",
+  "generated_at": "2026-06-01T12:54:59.793399+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1836,19 +1836,20 @@
         "score": 0.9977
       },
       {
-        "id": "5b0bc22cabb49ca8",
-        "title": "AMD unveils the $329 Ryzen 7 7700X3D, brings back the 5800X3D for $349",
-        "url": "https://www.engadget.com/2183930/amd-unveils-the-dollar329-ryzen-7-7700x3d-brings-back-the-5800x3d-for-dollar349/",
-        "source": "Engadget",
+        "id": "401dbdfb8c50bd83",
+        "title": "AMD brings back Ryzen 7 5800X3D, launches Ryzen 7 7700X3D to combat rising component prices — eight-core X3D CPUs arrive under $350 for AM4 or AM5, DDR4 or DDR5",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-brings-back-ryzen-7-5800x3d-launches-ryzen-7-7700x3d-to-combat-rising-component-prices-eight-core-x3d-cpus-arrive-under-usd350-for-am4-or-am5-ddr4-or-ddr5",
+        "source": "Tom's Hardware",
         "lane": "innovation",
         "published_ts": 1780272000000,
-        "summary": "AMD has some new gaming-focused chips for the economy we all live in.",
+        "summary": "AMD is rereleasing the Ryzen 7 5800X3D and introducing the Ryzen 7 7700X3D, both eight-core chips with 3DV-Cache targeting midrange gamers who’ve been under the thumb of rising component prices.",
         "tags": [
-          "computing"
+          "cpus",
+          "pc components"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6839
+        "score": 0.7408
       }
     ],
     "ai": [
@@ -2600,6 +2601,36 @@
         "score": 0.8781
       },
       {
+        "id": "bdeb44c11da9d6c2",
+        "title": "Can Subgraph Explanations Be Weaponized to Steal Graph Neural Networks?",
+        "url": "https://arxiv.org/abs/2605.30470",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780286400000,
+        "summary": "arXiv:2605.30470v1 Announce Type: new Abstract: Graph Machine Learning as a Service (GMLaaS) platforms increasingly implement explainability interfaces to meet regulatory transparency requirements. However, this transparency creates exploitable vulnerabilities for model extraction attacks. We present the first model extraction attack specifically designed for graph classification under strict blac",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9551
+      },
+      {
+        "id": "f6f5e940b3bf958a",
+        "title": "Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability",
+        "url": "https://arxiv.org/abs/2605.30482",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780286400000,
+        "summary": "arXiv:2605.30482v1 Announce Type: new Abstract: Machine learning is increasingly used in mathematical discovery, but in mathematics the desired output is often not a prediction itself, but an explicit construction that can be checked independently. We study this setting through the zeta map on Dyck paths, a classical bijection in the combinatorics of the q,t-Catalan numbers. We train a deliberatel",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9551
+      },
+      {
         "id": "ff192824da270dc7",
         "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
         "url": "https://arxiv.org/abs/2605.30542",
@@ -2721,39 +2752,6 @@
         "tags": [
           "cs.lg",
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1063
-      },
-      {
-        "id": "f91122ce4a6fc3ef",
-        "title": "A Unified Framework for Gradient Aggregation in Multi-Objective Optimization",
-        "url": "https://arxiv.org/abs/2605.30452",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1780286400000,
-        "summary": "arXiv:2605.30452v1 Announce Type: new Abstract: Many machine learning problems involve multiple inherent trade-offs that are best addressed by gradient-based multi-objective optimization (MOO) algorithms. Existing methods are often proposed with various motivations, analyzed case by case, and differ algorithmically in how the component gradients are aggregated at each step. In this work, we develo",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "math.oc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1063
-      },
-      {
-        "id": "34bad4a30c9cbc6e",
-        "title": "DisjunctiveNet: Neural Symbolic Learning via Differentiable Convexified Optimization Layers",
-        "url": "https://arxiv.org/abs/2605.30456",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1780286400000,
-        "summary": "arXiv:2605.30456v1 Announce Type: new Abstract: Many learning tasks in science and engineering are characterized by sparse datasets, which limits the effectiveness of purely data-driven approaches. At the same time, these problems are often accompanied by rich domain knowledge derived from physical laws, operational requirements, and expert heuristics. Such knowledge is frequently expressed as rul",
-        "tags": [
-          "cs.lg",
-          "math.oc"
         ],
         "paywall": false,
         "impact": "high",
@@ -3004,6 +3002,45 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0028
+      },
+      {
+        "id": "353c2bbb8afdd795",
+        "title": "Science fiction: nine lab-life novels for your holiday reading",
+        "url": "https://www.nature.com/articles/d41586-026-01730-2",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1780272000000,
+        "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01730-2With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8968
+      },
+      {
+        "id": "8568418d7c6dbedc",
+        "title": "Why it’s time to bin recommendation letters in science job applications",
+        "url": "https://www.nature.com/articles/d41586-026-00507-x",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1780272000000,
+        "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-00507-xIf hiring organizations must ask for references, they should do so closer to the end of the process, argues Bibek Aryal.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8968
+      },
+      {
+        "id": "f9a863922bbd8686",
+        "title": "Poor supervision is pushing young researchers out of academia",
+        "url": "https://www.nature.com/articles/d41586-026-01693-4",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1780272000000,
+        "summary": "Nature, Published online: 01 June 2026; doi:10.1038/d41586-026-01693-4A survey finds that academic supervisors can have a huge impact on their students’ mental health.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8968
       },
       {
         "id": "fc64f0b2548e7bdc",
@@ -3622,51 +3659,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7021
-      },
-      {
-        "id": "186fde94e925cb9c",
-        "title": "SpaceX lands a $4 billion contract to help build Trump's Golden Dome",
-        "url": "https://www.engadget.com/2184272/spacex-lands-a-4-billion-contract-to-help-build-trump-golden-dome/",
-        "source": "Engadget",
-        "lane": "science",
-        "published_ts": 1780158029000,
-        "summary": "That's on top of another $2 billion contract awarded to SpaceX earlier this week.",
-        "tags": [
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6999
-      },
-      {
-        "id": "c33f038ba6df1de7",
-        "title": "A 'supereruption' transformed NZ 350,000 years ago—we now know how it happened",
-        "url": "https://phys.org/news/2026-05-supereruption-nz-years.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780153201000,
-        "summary": "Some 350,000 years ago, the center of New Zealand's North Island appeared much different than the mountainous, scrub-covered landscape it is today. Amid a glacial period, temperatures were colder and conditions harsher. Vast beech and podocarp forests blanketed the region, providing habitat for abundant native birdlife.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
-      },
-      {
-        "id": "a32729f79cbacfb6",
-        "title": "Pulsar wind nebula inside supernova remnant explored with Chandra",
-        "url": "https://phys.org/news/2026-05-pulsar-nebula-supernova-remnant-explored.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780152002000,
-        "summary": "Astronomers from the George Washington University (GWU) in Washington, DC, and elsewhere have employed NASA's Chandra X-ray spacecraft to observe a pulsar wind nebula inside a supernova remnant known as CTA 1. Results of the observational campaign, presented in a research paper published May 20 on the arXiv preprint server, shed more light on the morphology and properties of this nebula.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0187
       }
     ]
   },
