@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T07:03:04.116420+00:00",
+  "generated_at": "2026-06-01T07:18:01.989212+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -170,6 +170,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8884
+      },
+      {
+        "id": "e5bed3958d211577",
+        "title": "Surface Laptop Ultra: Made for World Makers",
+        "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1780288365000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9958
       },
       {
         "id": "2934f8f71a0274d5",
@@ -943,25 +959,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7872
-      },
-      {
-        "id": "f7b7dd4c71d8fbfa",
-        "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
-        "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-        "source": "Hacker News",
-        "lane": "gadgets",
-        "published_ts": 1780236636000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0041
       }
     ],
     "innovation": [
+      {
+        "id": "ae44931796c0f88b",
+        "title": "Nvidia unveils DGX Station, a desktop Windows PC powered by its GB300 Grace Blackwell chip with up to 748 GB of memory, capable of running 1T-parameter models (Mike Wheatley/SiliconANGLE)",
+        "url": "https://www.techmeme.com/260601/p12#a260601p12",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780298113000,
+        "summary": "Mike Wheatley / SiliconANGLE: Nvidia unveils DGX Station, a desktop Windows PC powered by its GB300 Grace Blackwell chip with up to 748 GB of memory, capable of running 1T-parameter models — Nvidia Corp. says it's uprooting supercomputers from the vast, sprawling data center complexes they normally live inside and squeezing …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.079
+      },
       {
         "id": "2c0bded51d2a34cb",
         "title": "Nvidia says its Vera Rubin computing platform is ramping into \"full production\", with first systems expected to ship in the fall, after a March announcement (Mike Wheatley/SiliconANGLE)",
@@ -1872,24 +1885,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8449
-      },
-      {
-        "id": "30ee62c4eb4063e8",
-        "title": "These 3 Android Auto apps still work even when the internet gets spotty",
-        "url": "https://www.makeuseof.com/these-3-android-auto-apps-still-work-even-when-internet-gets-spotty/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1780236018000,
-        "summary": "Dead zones stopped being a problem for me.",
-        "tags": [
-          "android",
-          "android auto",
-          "android apps",
-          "internet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8479
       }
     ],
     "ai": [
@@ -2316,6 +2311,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1659
+      },
+      {
+        "id": "36a25d09ea6b5b92",
+        "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
+        "url": "https://github.com/pssah4/vault-operator",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780272191000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:18"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9132
       },
       {
         "id": "05617a5522f5b5d8",
@@ -2812,23 +2823,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0177
-      },
-      {
-        "id": "68b3cbfda289561c",
-        "title": "New AI-compute cryptocurrency Pearl sparks a GPU mining rush but profitability is already sliding — RTX 5090 daily revenue has halved to $17.19 since April",
-        "url": "https://www.tomshardware.com/tech-industry/cryptomining/new-ai-compute-cryptocurrency-pearl-sparks-a-gpu-mining-rush-but-profitability-is-sliding",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1780231200000,
-        "summary": "A new cryptocurrency called Pearl has set off a short-lived GPU mining rush.",
-        "tags": [
-          "cryptomining",
-          "tech industry",
-          "cryptocurrency"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0243
       }
     ],
     "science": [
