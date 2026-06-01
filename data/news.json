@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-01T02:28:07.398317+00:00",
+  "generated_at": "2026-06-01T03:31:18.061735+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2a3e5e85c5283208",
+        "title": "Intel Xeon 6+ ‘Clearwater Forest’ puts 18A in the data center with up to 288 cores, 576 MB of L3 cache — new Xeon 6990E+ is 30% faster per thread than 192-core AMD Epyc 9965, says Intel",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-clearwater-forest-puts-18a-in-the-data-center-with-up-to-288-cores-576-mb-of-l3-cache-new-xeon-6990e-is-30-percent-faster-per-thread-than-192-core-amd-epyc-9965-says-intel",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1780282800000,
+        "summary": "Intel is putting its 18A node into the data center with new Xeon 6+ Clearwater Forest CPUs, which pack up to 288 E-cores for dense compute.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9405
+      },
+      {
+        "id": "cfa57ea683187689",
+        "title": "Intel Xeon 7 ‘Diamond Rapids’ CPUs officially launching in 2027 on Intel 18A-P — next-gen P-core Xeon features PCIe 6.0, 50% higher core counts, and twice the memory bandwidth",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-xeon-7-diamond-rapids-cpus-officially-launching-in-2027-on-intel-18a-p-next-gen-p-core-xeon-features-pcie-6-0-50-percent-higher-core-counts-and-twice-the-memory-bandwidth",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1780282800000,
+        "summary": "Intel has officially confirmed its next-gen Xeon 7 Diamond Rapids CPUs are coming in 2027, featuring 50% higher core counts and twice the memory bandwidth of Xeon 6 in a bid to compete against AMD’s upcoming EPYC Venice CPUs.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9405
+      },
       {
         "id": "d253b451aae728e5",
         "title": "Nvidia Computex 2026 keynote live - will the GPU maker announce a new Arm-based chip to take on Apple, Intel, and Qualcomm?",
@@ -930,42 +962,65 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7995
-      },
-      {
-        "id": "078ddec1315e5f8f",
-        "title": "I'm jealous of this Pixel calling feature that saves hours of phone call frustration",
-        "url": "https://www.androidpolice.com/jealous-googles-hold-for-me-feature-pixel-phones/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1780228810000,
-        "summary": "I need this on my Samsung, pronto",
-        "tags": [
-          "google pixel",
-          "google",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9992
-      },
-      {
-        "id": "2915b9f59b387e80",
-        "title": "‘The performance is otherworldly’: I’ve driven the Porsche Cayenne Turbo Electric — and it’s a serious amount of car for the money",
-        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-performance-is-otherworldly-ive-driven-the-porsche-cayenne-turbo-electric-and-its-a-serious-amount-of-car-for-the-money",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780228800000,
-        "summary": "After driving the Cayenne Coupe Electric for a few days, Porsche continues to make a very convincing case for ditching the combustion engine.",
-        "tags": [
-          "hybrid &amp; electric vehicles",
-          "vehicle tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8451
       }
     ],
     "innovation": [
+      {
+        "id": "a2249f2287db0965",
+        "title": "China issues new investment rules, expanding regulator powers to scrutinize overseas deals involving Chinese investors, tech, and data, effective from July 1 (Eduardo Baptista/Reuters)",
+        "url": "https://www.techmeme.com/260531/p18#a260531p18",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780283401000,
+        "summary": "Eduardo Baptista / Reuters: China issues new investment rules, expanding regulator powers to scrutinize overseas deals involving Chinese investors, tech, and data, effective from July 1 — China issued sweeping new rules on Monday, widening regulators' powers to scrutinise overseas deals involving Chinese investors …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9932
+      },
+      {
+        "id": "cdb253d1a9c56d08",
+        "title": "Erin Brockovich says people are angry because data centers are being 'shoved down their throats' in secrecy",
+        "url": "https://www.reddit.com/r/technology/comments/1ttfsiq/erin_brockovich_says_people_are_angry_because/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780283355000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9433
+      },
+      {
+        "id": "de62adf2bda5da99",
+        "title": "Intel Diamond Rapids to boost core counts to 192, but RIP Hyperthreading",
+        "url": "https://www.theregister.com/systems/2026/06/01/intels-next-gen-xeons-to-pack-192-cores-abandon-smt/5248940",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1780282800000,
+        "summary": "Threads on a half shell, Intel power!",
+        "tags": [
+          "systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0395
+      },
+      {
+        "id": "c7d57d6d9fb20763",
+        "title": "Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users (Bloomberg)",
+        "url": "https://www.techmeme.com/260531/p17#a260531p17",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780281301000,
+        "summary": "Bloomberg: Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users — Vast, a 3D-modeling startup founded by a 29-year-old gamer, raised nearly $200 million to become the latest Chinese AI outfit to achieve a valuation of $1 billion.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0607
+      },
       {
         "id": "412abd96ab5534f3",
         "title": "Something Made Earth's Molten Core Reverse Direction In 2010",
@@ -1861,74 +1916,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9382
-      },
-      {
-        "id": "7f9c00742e8a9151",
-        "title": "A look at contrasting China playbooks of AMD CEO Lisa Su and Nvidia CEO Jensen Huang, with Su keeping a lower profile; China accounts for ~20% of AMD's revenue (Reuters)",
-        "url": "https://www.techmeme.com/260531/p7#a260531p7",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780228814000,
-        "summary": "Reuters: A look at contrasting China playbooks of AMD CEO Lisa Su and Nvidia CEO Jensen Huang, with Su keeping a lower profile; China accounts for ~20% of AMD's revenue — When AMD CEO Lisa Su arrived in China last week just days after Nvidia's CEO left, she kept a much lower profile than Jensen Huang …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9382
-      },
-      {
-        "id": "9af2488f6f9568e9",
-        "title": "A look at AMD CEO Lisa Su's and Nvidia CEO Jensen Huang's contrasting China playbooks, with Su keeping a lower profile; China accounts for ~20% of AMD's revenue (Reuters)",
-        "url": "https://www.techmeme.com/260531/p7#a260531p7",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780228814000,
-        "summary": "Reuters: A look at AMD CEO Lisa Su's and Nvidia CEO Jensen Huang's contrasting China playbooks, with Su keeping a lower profile; China accounts for ~20% of AMD's revenue — When AMD CEO Lisa Su arrived in China last week just days after Nvidia's CEO left, she kept a much lower profile than Jensen Huang …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9992
-      },
-      {
-        "id": "26882b12bfc3b207",
-        "title": "Ebike Display Uses Reflective LCD",
-        "url": "https://hackaday.com/2026/05/31/ebike-display-uses-reflective-lcd/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1780225238000,
-        "summary": "Although LCD displays have been used in almost every type of consumer electronics display over the last two decades, many of these screens have a few downsides that limit their …read more",
-        "tags": [
-          "transportation hacks",
-          "bike",
-          "display",
-          "ebike",
-          "esp32",
-          "lcd"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0752
-      },
-      {
-        "id": "49a222ad56f12c6b",
-        "title": "I stopped obsessing over my Pixel's battery after switching to these 3 habits",
-        "url": "https://www.androidpolice.com/replaced-pixel-battery-anxiety-with-simple-habits/",
-        "source": "Android Police",
-        "lane": "innovation",
-        "published_ts": 1780225212000,
-        "summary": "Small changes, much better Pixel battery life",
-        "tags": [
-          "google pixel",
-          "battery",
-          "google",
-          "phones",
-          "battery"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0751
       }
     ],
     "ai": [
+      {
+        "id": "9de6ee29ea015922",
+        "title": "Intel details long-awaited Crescent Island AI GPU at Computex, boasts up to 480 GB of LPDDR5X to combat memory shortages — company shares more details of its Xe3P inference accelerator at Computex",
+        "url": "https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1780282800000,
+        "summary": "Intel revealed more details of its next-gen Data Center GPU, code-named Crescent Island, at Computex 2026. This inference-optimized chip will feature up to 480GB of LPDDR5X memory for efficient handling of massive AI contexts.",
+        "tags": [
+          "gpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0157
+      },
+      {
+        "id": "b01a619f2360f4d5",
+        "title": "MSI Claw 8 EX AI+ with Intel Arc G3 Extreme inside revealed at Computex 2026",
+        "url": "https://www.techradar.com/computing/gaming-pcs/msi-claw-8-ex-ai-plus-announced",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780282800000,
+        "summary": "The MSI Claw 8 EX AI+ has been announced at Computex 2026 to take on the Steam Deck.",
+        "tags": [
+          "gaming pcs",
+          "computing",
+          "gaming computers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9088
+      },
       {
         "id": "3652cdaa586c4410",
         "title": "exe.dev",
@@ -2850,34 +2873,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0223
-      },
-      {
-        "id": "b086d1a271c781d4",
-        "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI: “With your permission, your child’s teacher may wear a small teacher-worn camera that captures the teacher's approximate first-person perspective, and/or we may place a fixed video camera in the classroom,” document given to parents",
-        "url": "https://www.reddit.com/r/technology/comments/1tsd84s/researchers_wanted_preschool_teachers_to_wear/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780179385000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0123
-      },
-      {
-        "id": "6ca2d0a35d213403",
-        "title": "PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year (Kate Clark/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260530/p14#a260530p14",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1780179300000,
-        "summary": "Kate Clark / Wall Street Journal: PitchBook: VC investment in global robotics and physical AI jumped to $26B in 2025 from $4.2B in 2019, and has already topped $23B as of May 20 this year — Investors bet big on infrastructure and ‘physical AI,’ enticed by prospect of revenue opportunities",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0742
       }
     ],
     "science": [
