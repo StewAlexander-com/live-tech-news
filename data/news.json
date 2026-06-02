@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:30:13.356831+00:00",
+  "generated_at": "2026-06-02T23:54:25.169825+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -64,6 +64,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0441
+      },
+      {
+        "id": "176fd85286e4dfb2",
+        "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+        "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+        "source": "Ars Technica",
+        "lane": "gadgets",
+        "published_ts": 1780440670000,
+        "summary": "One hardware announcement and several software highlights from Microsoft Build.",
+        "tags": [
+          "tech",
+          "copilot",
+          "microsoft",
+          "nvidia",
+          "rtx spark",
+          "windows 11"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0054
       },
       {
         "id": "b31fb6168b646257",
@@ -939,28 +959,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9914
-      },
-      {
-        "id": "03fc9b9312458591",
-        "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-        "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1780423200000,
-        "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang […]",
-        "tags": [
-          "ai",
-          "android",
-          "google",
-          "google pixel",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8479
       }
     ],
     "innovation": [
+      {
+        "id": "c69bb98883f4e111",
+        "title": "New Tennessee law requires data centers to pay for their own electricity infrastructure",
+        "url": "https://www.reddit.com/r/technology/comments/1tv84pf/new_tennessee_law_requires_data_centers_to_pay/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780443534000,
+        "summary": "submitted by /u/Severus-Snape-DaGod [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9453
+      },
       {
         "id": "a739e720e6fa0e9e",
         "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
@@ -1050,6 +1066,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8135
+      },
+      {
+        "id": "a8cb4e0b6ed3f628",
+        "title": "GameStop reports 14% rise in quarterly revenue, unveils $2 billion share buyback",
+        "url": "https://www.reddit.com/r/technology/comments/1tv64u1/gamestop_reports_14_rise_in_quarterly_revenue/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780438732000,
+        "summary": "submitted by /u/talkingatoms [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9213
       },
       {
         "id": "ad0c8383d8f4e1f8",
@@ -1891,49 +1922,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7302
-      },
-      {
-        "id": "9dece601b4cdbba2",
-        "title": "Password manager Dashlane says hackers stole some customers’ password vaults",
-        "url": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1780414811000,
-        "summary": "The password manager giant said hackers were able to 'brute-force' its two-factor system, allowing them to access customer accounts and download their password vaults.",
-        "tags": [
-          "security",
-          "cyberattack",
-          "cybersecurity",
-          "dashlane",
-          "lastpass",
-          "password manager"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7479
-      },
-      {
-        "id": "1416eecfb12e0d0f",
-        "title": "6 sci-fi and fantasy shows to get deliriously excited about in June",
-        "url": "https://www.makeuseof.com/6-new-sci-fi-fantasy-shows-june-house-of-the-dragon-vampire-lestat/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1780414219000,
-        "summary": "Brace for vampires and dragons and supermen and alien detectives.",
-        "tags": [
-          "streaming",
-          "the legend of vox machina",
-          "fantasy",
-          "sci-fi",
-          "interview with the vampire",
-          "my adventures with superman"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
       }
     ],
     "ai": [
+      {
+        "id": "8a28cac9aea67715",
+        "title": "'Stop duct-taping human email into machine workflows' — Hostinger unleashes Agentic Mail to fix the biggest bottleneck in AI automation",
+        "url": "https://www.techradar.com/pro/stop-duct-taping-human-email-into-machine-workflows-hostinger-unleashes-agentic-mail-to-fix-the-biggest-bottleneck-in-ai-automation",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780443000000,
+        "summary": "Hostinger introduces Agentic Mail, reworking email infrastructure to support AI agents through real-time automation, webhook triggers, and controlled workflows.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9108
+      },
       {
         "id": "4eda544c206920a0",
         "title": "'A new approach': Microsoft CEO claims its \"AI Superfactory\" will use the same amount of water each year as a neighborhood restaurant",
@@ -1991,6 +1997,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9981
+      },
+      {
+        "id": "4a1cce38c171a17f",
+        "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+        "url": "https://github.com/getpaseo/paseo",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780439682000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0235
       },
       {
         "id": "3a708355025546da",
@@ -2851,43 +2873,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0174
-      },
-      {
-        "id": "c6096d1a25762449",
-        "title": "Trump Signs AI Executive Order Asking Companies To Give Government Early Access To Models",
-        "url": "https://yro.slashdot.org/story/26/06/02/1658231/trump-signs-ai-executive-order-asking-companies-to-give-government-early-access-to-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1780423200000,
-        "summary": "An anonymous reader quotes a report from CNBC: President Donald Trump on Tuesday signed an executive order asking artificial intelligence companies to provide models to the federal government to assess their capabilities ahead of a full release. The order asks companies, on a voluntary basis, to participate in a benchmarking process to assess a model's \"advanced cyber capabilities\" and determine w",
-        "tags": [
-          "government"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.02
-      },
-      {
-        "id": "6a88364213e11620",
-        "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-        "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1780423200000,
-        "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-        "tags": [
-          "ai",
-          "apps",
-          "android",
-          "deepfakes",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.727
       }
     ],
     "science": [
+      {
+        "id": "ef03ece7c0c8ea94",
+        "title": "Biomaterial made from jackfruit latex is a promising treatment for periodontitis",
+        "url": "https://phys.org/news/2026-06-biomaterial-jackfruit-latex-treatment-periodontitis.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780443603000,
+        "summary": "Researchers from the Faculty of Medical and Health Sciences (FCMS) at the Pontifical Catholic University of São Paulo (PUC-SP) in Sorocaba, in the interior of the state of São Paulo, Brazil, have developed a biomaterial containing jackfruit latex, pomegranate peel extract, and simvastatin (a statin-based medication) that shows promising efficacy in treating periodontitis.",
+        "tags": [
+          "biochemistry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0153
+      },
+      {
+        "id": "4e848726498f16c8",
+        "title": "Strain creates moiré 2D materials without twisting or stacking, opening more scalable route",
+        "url": "https://phys.org/news/2026-06-strain-moir-2d-materials-stacking.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780443602000,
+        "summary": "Cornell researchers have developed a new way to create moiré patterns—atomic-scale structures that can give materials unusual quantum behaviors—without relying on the traditionally used difficult-to-control twisting and stacking methods. The study is published in the Proceedings of the National Academy of Sciences.",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0965
+      },
       {
         "id": "bb00da11e9492292",
         "title": "Climate-based tool predicts coral bleaching months in advance, offering critical lead time for reef protection",
@@ -3789,36 +3807,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9137
-      },
-      {
-        "id": "f63720cea1c7d2e3",
-        "title": "Budget-friendly, lab-grown steak with realistic texture",
-        "url": "https://phys.org/news/2026-06-friendly-lab-grown-steak-realistic.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780413612000,
-        "summary": "A team of Israeli scientists at the Hebrew University of Jerusalem has developed a novel method to significantly lower the production costs of cultivated meat. The new study demonstrates that preloading plant-derived cellulose scaffolds with growth factors supports the cost-efficient proliferation and differentiation of bovine stem cells. By binding these vital proteins directly to an anisotropic,",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0145
-      },
-      {
-        "id": "182cb15bf642b27d",
-        "title": "From flat moss to forests and flowers: Protein discovery may explain how plants conquered land",
-        "url": "https://phys.org/news/2026-06-flat-moss-forests-protein-discovery.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780413608000,
-        "summary": "If plants had never learned to grow in multiple directions, our world would look very different. No trees, flowers, or other complex plants—and therefore no animals or humans. New research from the University of Copenhagen now suggests that a specific protein in moss may have been crucial for this key step in plant evolution—a step that made life on land possible.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0145
       }
     ]
   },
