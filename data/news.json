@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T00:18:07.571731+00:00",
+  "generated_at": "2026-06-02T00:47:51.981403+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1003,6 +1003,32 @@
     ],
     "innovation": [
       {
+        "id": "6c5303563099602f",
+        "title": "Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it's the smartest open US model but trails the Chinese model Kimi K2.6 (Maximilian Schreiner/The Decoder)",
+        "url": "https://www.techmeme.com/260601/p57#a260601p57",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780361102000,
+        "summary": "Maximilian Schreiner / The Decoder: Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it's the smartest open US model but trails the Chinese model Kimi K2.6 — It has roughly 550 billion total parameters, with about 55 billion active at any given time. On the Artificial Analysis …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9991
+      },
+      {
+        "id": "b1610db1c2eba0df",
+        "title": "Salesforce is acquiring CMS provider Contentful; source: Salesforce paid between $1B and $1.5B, a steep discount from Contentful's $3B valuation in 2021 (The Information)",
+        "url": "https://www.techmeme.com/260601/p56#a260601p56",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780360398000,
+        "summary": "The Information: Salesforce is acquiring CMS provider Contentful; source: Salesforce paid between $1B and $1.5B, a steep discount from Contentful's $3B valuation in 2021 — Salesforce is acquiring Contentful, a provider of content management software for businesses, in the latest sign of its efforts …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.075
+      },
+      {
         "id": "efcb0b4ecb923238",
         "title": "AMD Radeon RX 9070 GRE review: thoroughly midrange",
         "url": "https://www.tomshardware.com/pc-components/gpus/amd-radeon-rx-9070-gre-review",
@@ -1927,39 +1953,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8044
-      },
-      {
-        "id": "9856a2facc0741ad",
-        "title": "New study has shone a new light on searching for habitable worlds",
-        "url": "https://phys.org/news/2026-06-shone-habitable-worlds.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1780324802000,
-        "summary": "When astronomers discovered the first planet outside our solar system, it was orbiting a pulsar, one of the most extreme, radiation-blasted environments imaginable. Not exactly the kind of place you'd expect to find a planet, let alone a representative one. The first confirmed exoplanet was an oddity, a product of the fact that pulsar timing is extraordinarily sensitive, not a reflection of what p",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0136
-      },
-      {
-        "id": "8f31ea7673a5ed56",
-        "title": "I started using Podman instead of Docker Desktop and it's way faster than I imagined",
-        "url": "https://www.makeuseof.com/started-using-podman-instead-docker-desktop-faster-than-imagined/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1780324220000,
-        "summary": "I replaced Docker Desktop and discovered silence is a performance metric.",
-        "tags": [
-          "productivity",
-          "linux",
-          "virtualization",
-          "open source"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8421
       }
     ],
     "ai": [
@@ -1977,6 +1970,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0183
+      },
+      {
+        "id": "4a2cd9c45d835a09",
+        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780357546000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": true,
+        "impact": "normal",
+        "score": 0.772
       },
       {
         "id": "8e089abb13b41968",
@@ -2933,22 +2942,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9673
-      },
-      {
-        "id": "d000abc756a2ffc3",
-        "title": "Amazon Made AI Podcasts for Products",
-        "url": "https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1780332111000,
-        "summary": "Katie Notopoulos, a month ago at Business Insider: Amazon has launched a new feature that uses AI to generate a short, podcast-like audio segment where two “hosts” discuss the merits and reviews of a specific product. I think it could be one of the funniest, closest endpoints to human civilization we’ve seen yet in our new AI-enabled world. If this sounds a little confusing, here’s an example. I t",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1601
       }
     ],
     "science": [
+      {
+        "id": "eb5d81c51be441d4",
+        "title": "ESA selects two new scout-class missions",
+        "url": "https://phys.org/news/2026-06-esa-scout-class-missions.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780360802000,
+        "summary": "When it comes to understanding Earth and our changing environment, space is the place. Not only does it give us an overall holistic view of the planet below, but satellite-based imagery can transcend national boundaries and give us an understanding of key changes that often go unseen at ground level.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0988
+      },
+      {
+        "id": "433133861725a585",
+        "title": "‘The Metaverse Fever Dream’",
+        "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
+        "source": "Daring Fireball",
+        "lane": "science",
+        "published_ts": 1780359879000,
+        "summary": "Nick Heer, at Pixel Envy, last week published a remarkable essay surveying — with copious receipts — the rise and fall of “metaverse” hype: The obsession with the metaverse seems to have solidified in Silicon Valley after Matthew Ball published an essay in January 2020 in which he forecasted that, at the very least… …it is likely to produce trillions in value as a new computing platform or content",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.072
+      },
       {
         "id": "cb1a546db66e92bb",
         "title": "Rovers, regolith, robots: The blueprint for the moon",
@@ -2963,6 +2987,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0152
+      },
+      {
+        "id": "484d5b2e73b869fa",
+        "title": "Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo | Amid a raging Ebola outbreak, officials “urgently accelerate development” of vaccines.",
+        "url": "https://www.reddit.com/r/technology/comments/1tua1jl/moderna_gets_50_million_to_develop_mrna_ebola/",
+        "source": "Reddit r/technology",
+        "lane": "science",
+        "published_ts": 1780357711000,
+        "summary": "submitted by /u/ControlCAD [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9321
       },
       {
         "id": "32db081e248a8ab9",
@@ -3836,49 +3875,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0026
-      },
-      {
-        "id": "a3eb8e89e3a81770",
-        "title": "NASA’s X-59 is about to break the sound barrier for the first time",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
-        "source": "ScienceDaily Tech",
-        "lane": "science",
-        "published_ts": 1780314494000,
-        "summary": "NASA’s futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-supersonic speeds, engineers are preparing to fly it faster than Mach 1 and eventually up to Mach 1.6 at 60,000 feet. The sleek experimental aircraft is designed to replace the thunderous sonic boom with a m",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9792
-      },
-      {
-        "id": "b2ed0f3310c68ed9",
-        "title": "Negative time experiment clears peer review as photons appear to leave an atom cloud before entering — groundbreaking quantum 'negative time' proven after 1 million test runs",
-        "url": "https://www.tomshardware.com/tech-industry/negative-time-experiment-clears-peer-review-as-photons-appear-to-leave-an-atom-cloud-before-entering",
-        "source": "Tom's Hardware",
-        "lane": "science",
-        "published_ts": 1780313400000,
-        "summary": "A University of Toronto experiment showing that photons can spend a negative amount of time inside a cloud of atoms has been published in Physical Review Letters.",
-        "tags": [
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9988
-      },
-      {
-        "id": "5b3ceb5a7c3acee0",
-        "title": "A giant star may have destroyed itself in one of the universe's rarest explosions",
-        "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780309801000,
-        "summary": "Astronomers may have discovered one of the clearest examples yet of a rare \"pair-instability\" supernova. It is a catastrophic explosion thought to completely destroy some of the most massive stars in the universe, leaving behind no remnant. The paper outlining the properties of this rare explosion was posted to the arXiv preprint server on May 15.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0116
       }
     ]
   },
