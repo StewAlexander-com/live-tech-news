@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-02T03:49:29.106106+00:00",
+  "generated_at": "2026-06-02T04:16:04.179677+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2f0b65bd4bdc9afb",
+        "title": "Adaptive data selection improves wearable prediction under low baseline performance",
+        "url": "https://arxiv.org/abs/2606.00141",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00141v1 Announce Type: new Abstract: Adaptive sensing strategies that selectively sample data are increasingly used in wearable health systems to improve prediction performance under limited data budgets, yet their benefits across individuals remain poorly understood. Here, we evaluate adaptive selection of time windows for model training under fixed measurement budgets across multiple ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "d39f87955c74f20b",
+        "title": "BudgetDraft: Acceptance-Aware Multi-View Training for Sparse-KV Speculative Decoding",
+        "url": "https://arxiv.org/abs/2606.00144",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00144v1 Announce Type: new Abstract: Speculative decoding speeds up autoregressive decoding by using a drafter to propose multiple tokens that a verifier validates in parallel. In resource-constrained deployments, the drafter uses a sparse KV cache to limit peak GPU memory and end-to-end latency under a fixed KV budget, while the verifier keeps a full KV cache. Mid-to-long context infer",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
       {
         "id": "50162640eaad68e7",
         "title": "Watch Intel's Computex 2026 keynote here — CEO Lip-Bu Tan takes the stage in Taipei at 10:30pm PT on June 1",
@@ -970,41 +1002,71 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8411
-      },
-      {
-        "id": "3ae8b16e3ba2213e",
-        "title": "JCB Toughphone E10 review: This rugged phone has the raw performance of an abandoned bulldozer, but the price tag of something much better",
-        "url": "https://www.techradar.com/pro/phone-communications/jcb-toughphone-e10-rugged-phone-review",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780331000000,
-        "summary": "The JCB Toughphone E10 is a robust device with average battery life, but the price is high for an entry-level device.",
-        "tags": [
-          "phone &amp; communications",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9077
-      },
-      {
-        "id": "b7083104766e1dc9",
-        "title": "Apple Shares WWDC26 Wallpaper, Playlist, 'Get Ready' Video, and More",
-        "url": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1780330677000,
-        "summary": "In addition to teasing WWDC 2026 with a new tagline today, Apple has shared a wallpaper, playlist, and a \"Get Ready\" video ahead of the event. iPhone, iPad, and Mac versions of the wallpaper are available to download on Apple's website. The wallpaper features a dark color scheme with a glowing Apple logo, which likely hints at Siri's rumored new design coming with iOS 27. The wallpaper page has a ",
-        "tags": [
-          "featured",
-          "wwdc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.987
       }
     ],
     "innovation": [
+      {
+        "id": "435f2106ced56330",
+        "title": "Crunchbase: SF startups hit a record of 1,404 seed deals in 2025, while the number of NYC seed deals has dropped over the past three years, to 666 in 2025 (Yuliya Chernova/Wall Street Journal)",
+        "url": "https://www.techmeme.com/260602/p1#a260602p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780372848000,
+        "summary": "Yuliya Chernova / Wall Street Journal: Crunchbase: SF startups hit a record of 1,404 seed deals in 2025, while the number of NYC seed deals has dropped over the past three years, to 666 in 2025 — 'You can't ignore San Francisco right now,' says one New York venture capitalist — New York venture firms are broadening their geographic reach.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9951
+      },
+      {
+        "id": "a43c85486b0573ff",
+        "title": "Product-Aware Deep Autoencoders for Robust Process Monitoring in Multi-Product Cyber-Physical Systems",
+        "url": "https://arxiv.org/abs/2606.00052",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00052v1 Announce Type: new Abstract: As Industry 4.0 accelerates the integration of Cyber-Physical Systems (CPS) in manufacturing, robust anomaly detection has become critical for ensuring process safety and security. Current data-driven approaches typically employ \"product-agnostic\" or global models trained on the aggregate of all normal operating data. However, modern industrial facil",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "845f31f9d88434c9",
+        "title": "From Noise to Control: Parameterized Diffusion Policies",
+        "url": "https://arxiv.org/abs/2606.00336",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00336v1 Announce Type: new Abstract: We propose Parameterized Diffusion Policy (PDP), a framework for learning diffusion policies conditioned on low-dimensional, continuous parameters embedded in a learned behavior manifold. By constructing this manifold so that distances between latent representations reflect the semantic similarity between physical trajectories, we transform diffusion",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "5a785d7cca0623f3",
+        "title": "From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models",
+        "url": "https://arxiv.org/abs/2606.00083",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00083v1 Announce Type: new Abstract: Reinforcement learning relies on accurate reward functions, which are often hand-crafted or even unavailable in real-world applications, such as robotics. Recent work has explored the zero-shot reasoning capabilities of pre-trained Vision-Language Models (VLMs) as reward models. However, without careful prompt engineering, these approaches tend to pr",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
       {
         "id": "23f013929a5a79ca",
         "title": "Wise confirms it is under investigation by Belgian prosecutors over suspicions its accounts were used for money laundering involving €500M in transactions (Simon Lock/TBIJ)",
@@ -1890,69 +1952,201 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9298
-      },
-      {
-        "id": "77c20dd03f165f61",
-        "title": "New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A (Ben Weiss/Fortune)",
-        "url": "https://www.techmeme.com/260601/p44#a260601p44",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780329001000,
-        "summary": "Ben Weiss / Fortune: New York City-based Mecka AI, which trains robots with human data sourced from body sensors and iPhones, raised $60M, including a $25M Series A — Data is the oil of the AI boom—and the startup Mecka AI hopes to tap the vast reservoir of hand gestures, walking gaits, and immense collection …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0565
-      },
-      {
-        "id": "4ee4a4b7ef4ca09b",
-        "title": "Like a Wire Bender, But For Pop Tubes",
-        "url": "https://hackaday.com/2026/06/01/like-a-wire-bender-but-for-pop-tubes/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1780327814000,
-        "summary": "Are you familiar with pop tubes? Resembling the corrugated section of a bendy straw, they are at the core of PopTuber, an intriguing research project from the Actuated Experience Lab …read more",
-        "tags": [
-          "robots hacks",
-          "3d printed",
-          "pop tube",
-          "research",
-          "servo"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0498
-      },
-      {
-        "id": "b7521774d9ecaf84",
-        "title": "Sekai, which lets users create mini apps through text prompts, raised a $20M Series A co-led by Khosla Ventures and Connect Ventures, after a $6M seed in 2025 (Kerry Flynn/Axios)",
-        "url": "https://www.techmeme.com/260601/p43#a260601p43",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780327808000,
-        "summary": "Kerry Flynn / Axios: Sekai, which lets users create mini apps through text prompts, raised a $20M Series A co-led by Khosla Ventures and Connect Ventures, after a $6M seed in 2025 — Sekai has raised a $20 million Series A to grow a platform for creating mini apps through text prompts, founder and CEO Lucky Zhang exclusively tells Axios.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.972
-      },
-      {
-        "id": "7db4ed989e3f3896",
-        "title": "Famous wildlife coexistence scheme is slipping due to frozen funding",
-        "url": "https://phys.org/news/2026-06-famous-wildlife-coexistence-scheme-due.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1780327205000,
-        "summary": "A celebrated scheme for human-wildlife coexistence is now at risk of failing due to lack of long-term government investment, new research has found.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9882
       }
     ],
     "ai": [
+      {
+        "id": "8559811f409dd664",
+        "title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+        "url": "https://arxiv.org/abs/2606.00005",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00005v1 Announce Type: new Abstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than error. The protocol assigns engineered cognitive personas to language models -- separating what a model is from how it reasons -- and introduces an In-Sampl",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "e1ac5a8a8cbb9f08",
+        "title": "Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases",
+        "url": "https://arxiv.org/abs/2606.00007",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00007v1 Announce Type: new Abstract: As AI agents transition from isolated tools to collaborative participants in shared knowledge ecosystems, governing collective knowledge curation becomes a critical challenge. Human platform governance mechanisms do not transfer directly: agent statelessness undermines deterrence-based sanctions, model homogeneity violates independence assumptions un",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "028abe02d0ff3d40",
+        "title": "Universal Quantum Transformer",
+        "url": "https://arxiv.org/abs/2606.00045",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00045v1 Announce Type: new Abstract: Classical continuous-space neural networks fundamentally struggle to lock into exact mathematical symmetries, such as modular arithmetic and non-commutative algebra. To approximate these discrete logical rules, they often rely on massive parameter scaling, resulting in stochastic instability even after delayed generalization phenomena known as grokki",
+        "tags": [
+          "cs.ai",
+          "cs.et",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "1b20f8e4c1f438e2",
+        "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
+        "url": "https://arxiv.org/abs/2606.00138",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00138v1 Announce Type: new Abstract: Finite element analysis (FEA) is the most important numerical approach for solid mechanics. Challenges of FEA include a steep learning curve for entry-level users and potential false simulations due to incorrect definitions of key simulation components, such as boundary conditions, load cases, and solution variables. Years of engineering experience a",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "f56360a5ebb5d156",
+        "title": "MindZero: Learning Online Mental Reasoning With Zero Annotations",
+        "url": "https://arxiv.org/abs/2606.00240",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00240v1 Announce Type: new Abstract: Effective real-world assistance requires AI agents with robust Theory of Mind (ToM): inferring human mental states from their behavior. Despite recent advances, several key challenges remain, including (1) online inference with robust uncertainty updates over multiple hypotheses; (2) efficient reasoning suitable for real-time assistance; and (3) the ",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "110db3883c1457c3",
+        "title": "Closed-Loop Neural Activation Control in Vision-Language-Action Models",
+        "url": "https://arxiv.org/abs/2606.00269",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00269v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models can be steered at test time by intervening on semantically meaningful internal directions, but existing methods use a fixed steering coefficient, effectively operating in open loop. This is poorly suited to embodied control, where task state and concept error evolve over time, often causing overcorrection, oscillat",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "b62e84b56cc6bace",
+        "title": "A Shared Valence Axis Across Modern LLMs and Human EEG: The Saturation Regularity",
+        "url": "https://arxiv.org/abs/2606.00129",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00129v1 Announce Type: new Abstract: Large language models (LLMs) have emerged as powerful representation learners whose internal features increasingly align with human cognition. We study whether modern LLMs can serve as a lens for understanding neural representations in the human brain, focusing on emotional valence in EEG. We first build a one-dimensional valence direction, the V-axi",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "797fe46e30efcd38",
+        "title": "Automatically Differentiable Nonlinear Tensor Networks (ADNTNs) for Exponential Compression of Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2606.00130",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00130v1 Announce Type: new Abstract: We study Automatically Differentiable Nonlinear Tensor Networks (ADNTNs), a family of structured weight generators whose compact core tensors are trained end-to-end by reverse-mode automatic differentiation (AD). The approach can be viewed as a natural extension of low-rank adaptation and tensor factorisation: instead of using one low-rank matrix upd",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "560b005d7bdf0f39",
+        "title": "Generative AI and Digital Ecosystem Resilience: A Proactive Lifecycle-Based Survey",
+        "url": "https://arxiv.org/abs/2606.00136",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00136v1 Announce Type: new Abstract: The proliferation of adversarial synthetic content, accelerated by Generative AI (GenAI) is rendering traditional reactive detection methods ineffective. This survey synthesizes emerging research to demonstrate a paradigm shift toward the proactive detection of emerging inauthentic narratives. In this survey, we adopt a unified, lifecycle-based taxon",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl",
+          "cs.cr",
+          "cs.si"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "67d11d57d5fcf874",
+        "title": "ChurnNet: A Optimized Modern AI for Churn Prediction",
+        "url": "https://arxiv.org/abs/2606.00169",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00169v1 Announce Type: new Abstract: Increased competition and the growing similarity of products and services offered by retailers have lowered the barriers for customers to switch to competitors. Accurate churn prediction can be a valuable tool for driving effective personalized marketing campaigns and helping to reduce customer attrition. This study evaluates the performance of tradi",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "d00fc541149a67fb",
+        "title": "AI-Guided Design and Optimization of Graphite-Based Anodes via Iterative Experimental Feedback",
+        "url": "https://arxiv.org/abs/2606.00187",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00187v1 Announce Type: new Abstract: This study presents an iterative AI-guided workflow that accelerates graphite-based anode development by improving both formulation feasibility and process robustness. Sequential learning via AI/ML-guided multiobjective inverse design for anode optimization was implemented using the Citrine Platform. Starting from a noisy, incomplete dataset, the Cit",
+        "tags": [
+          "cs.lg",
+          "cond-mat.mtrl-sci"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "c25653619bf50598",
+        "title": "From Rashomon Theory to PRAXIS: Efficient Decision Tree Rashomon Sets",
+        "url": "https://arxiv.org/abs/2606.00202",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00202v1 Announce Type: new Abstract: Standard machine learning pipelines often admit many near-optimal models. These \"Rashomon sets\" pose a range of challenges and opportunities for uncertainty-aware, robust decision making. They allow users to incorporate domain knowledge and preferences that would otherwise be difficult to specify directly in an objective, and they quantify diversity ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
       {
         "id": "e87cc67f34707184",
         "title": "Remote Work, Not AI, Has Sidelined Recent College Graduates, Research Finds",
@@ -2065,8 +2259,8 @@
           "points:5"
         ],
         "paywall": true,
-        "impact": "normal",
-        "score": 0.772
+        "impact": "high",
+        "score": 0.9026
       },
       {
         "id": "8e089abb13b41968",
@@ -2725,208 +2919,150 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8016
-      },
-      {
-        "id": "325aad4626b5dfed",
-        "title": "Bernie Sanders AI bill would give public half of the AI industry",
-        "url": "https://www.reddit.com/r/technology/comments/1tu1ba7/bernie_sanders_ai_bill_would_give_public_half_of/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780338759000,
-        "summary": "submitted by /u/Unusual-State1827 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0175
-      },
-      {
-        "id": "b4ad3cadfb2e1645",
-        "title": "Anthropic, now atop the AI bubble, files for its IPO",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/01/anthropic-now-atop-the-ai-bubble-files-for-its-ipo/5249753",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1780337542000,
-        "summary": "First it tops OpenAI's valuation, then it beats Altman to the IPO punch",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0841
-      },
-      {
-        "id": "9f8f4b2524da080a",
-        "title": "Anthropic’s IPO filing means Salesforce’s early AI bet is about to become its most profitable investment",
-        "url": "https://thenextweb.com/news/salesforce-anthropic-investment-5-billion-ipo",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780337468000,
-        "summary": "Salesforce has a stake in Anthropic worth approximately $5 billion after investing repeatedly in the Claude developer since early 2023, Bloomberg reported on Monday. The software company first participated in Anthropic’s fundraising with roughly $50 million and has continued investing in every subsequent round. With Anthropic’s confidential IPO filing also landing on Monday, Salesforce is position",
-        "tags": [
-          "anthropic",
-          "artificial intelligence",
-          "business",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9573
-      },
-      {
-        "id": "ce1d01039ffe4b5e",
-        "title": "Young and unemployed? Remote work, not AI, may be the problem, study finds",
-        "url": "https://phys.org/news/2026-06-young-unemployed-remote-ai-problem.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780337292000,
-        "summary": "The rise of remote work since the pandemic has made businesses more reluctant to hire young, inexperienced workers and is the key driver of higher unemployment rates for recent college graduates, a study released Monday has found.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0839
-      },
-      {
-        "id": "e08b12d157a8aabe",
-        "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
-        "url": "https://spectrum.ieee.org/ieee-presidents-note-june-2026",
-        "source": "IEEE Spectrum",
-        "lane": "ai",
-        "published_ts": 1780336802000,
-        "summary": "Children born after 2013 are the first generation to grow up fully immersed in digital systems, which weren’t designed with them in mind. One‑third of the world’s Internet users are younger than 18, according to UNICEF, yet these systems shaping their daily lives were built for adults. They were optimized for engagement and designed long before people understood how profoundly digital environments",
-        "tags": [
-          "ieee-news",
-          "ieee-presidents-column",
-          "ieee-president",
-          "ieee-standards-association",
-          "standards"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0795
-      },
-      {
-        "id": "9e3f239b8e8e7cfb",
-        "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-        "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1780335707000,
-        "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
-        "tags": [
-          "ai",
-          "cars",
-          "general motors",
-          "gm",
-          "machine learning"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0224
-      },
-      {
-        "id": "502947eb482c0a55",
-        "title": "Scientists develop virtual tomato training arena for agricultural robots",
-        "url": "https://phys.org/news/2026-06-scientists-virtual-tomato-arena-agricultural.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780335604000,
-        "summary": "Researchers at Osaka Metropolitan University have developed a method for creating realistic virtual tomato farms that automatically generate data for training agricultural AI systems. Their approach offers a way to overcome one of the most labor-intensive tasks in farming: harvesting the crops.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0742
-      },
-      {
-        "id": "10bd5507dbcb5b7b",
-        "title": "Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts, amid a wave of high-profile account takeovers; Meta fixed the issue (Jason Koebler/404 Media)",
-        "url": "https://www.techmeme.com/260601/p50#a260601p50",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1780335302000,
-        "summary": "Jason Koebler / 404 Media: Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts, amid a wave of high-profile account takeovers; Meta fixed the issue — The exploit shows the extreme risk of offloading technical support to AI. — Hackers say that they used Meta's AI support chatbot …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0202
-      },
-      {
-        "id": "49c48bb8ab63e756",
-        "title": "Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts amid a wave of high-profile account takeovers; Meta fixed the issue (Jason Koebler/404 Media)",
-        "url": "https://www.techmeme.com/260601/p50#a260601p50",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1780335302000,
-        "summary": "Jason Koebler / 404 Media: Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts amid a wave of high-profile account takeovers; Meta fixed the issue — The exploit shows the extreme risk of offloading technical support to AI. — Hackers say that they used Meta's AI support chatbot …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0514
-      },
-      {
-        "id": "69d82a8a97044636",
-        "title": "Anthropic files confidentially for an IPO, potentially beating OpenAI to Wall Street after eclipsing it in valuation",
-        "url": "https://thenextweb.com/news/anthropic-ipo-confidential-filing-openai-race-965-billion",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780334583000,
-        "summary": "Anthropic has confidentially submitted draft registration paperwork for an initial public offering with the Securities and Exchange Commission, the company announced in a blog post on Monday. The number of shares to be offered and the price have not been set. The filing positions Anthropic to potentially reach the public market as soon as this fall, […] This story continues at The Next Web",
-        "tags": [
-          "business",
-          "next featured",
-          "finance",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8728
-      },
-      {
-        "id": "2670968ab84c3165",
-        "title": "Florida becomes the first state to sue OpenAI, naming Altman personally and calling ChatGPT a defective product",
-        "url": "https://thenextweb.com/news/florida-sues-openai-altman-chatgpt-safety-children",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780334063000,
-        "summary": "Florida has sued OpenAI and CEO Sam Altman in what appears to be the first lawsuit by a US state against the maker of ChatGPT. The civil complaint, filed Monday in state court by Attorney General James Uthmeier, accuses OpenAI of violating product liability laws, engaging in deceptive trade practices, and releasing ChatGPT while knowing it […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "privacy",
-          "security",
-          "united states",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8704
-      },
-      {
-        "id": "b1bab4d36f1b7489",
-        "title": "MSI introduces Cubi NUC WCG mini PC with Intel Wildcat Lake",
-        "url": "https://liliputing.com/msi-introduces-cubi-nuc-wcg-mini-pc-with-intel-wildcat-lake/",
-        "source": "Liliputing",
-        "lane": "ai",
-        "published_ts": 1780333905000,
-        "summary": "The MSI Cubi NUC WCG is a mini PC with a compact design, but support for up to three displays, dual Ethernet ports, and user-replaceable memory and storage. Powered by an Intel Wildcat Lake processor, the little computer will likely be positioned as a cheaper alternative to the Panther Lake-powered Cubi NUC AI+ 3MG that launched earlier […] The post MSI introduces Cubi NUC WCG mini PC with Intel W",
-        "tags": [
-          "news",
-          "computex 2026",
-          "mini-pc",
-          "msi",
-          "msi cubi nuc wcg",
-          "wildcat lake"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1874
       }
     ],
     "science": [
+      {
+        "id": "593f18d59c10d90e",
+        "title": "Biodiversity offsetting shows promise in pollinator conservation",
+        "url": "https://phys.org/news/2026-06-biodiversity-offsetting-pollinator.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780373401000,
+        "summary": "Newly created grassland habitats that compensate for nature lost to development can effectively support wild pollinators like bees and hoverflies, according to a first of its kind study in the Netherlands. The findings are published in the Journal of Applied Ecology.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.018
+      },
+      {
+        "id": "c850d425cf601202",
+        "title": "Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts",
+        "url": "https://arxiv.org/abs/2606.00009",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00009v1 Announce Type: new Abstract: Bayesian Optimization (BO) is widely and successfully adopted for solving optimization problems having an expensive-to-evaluate, black-box, and non-convex objective function. However, the vanilla BO algorithm is not able to exploit possible symmetries characterizing the target problem. An intuitive case is given by optimal location problems, whose de",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "f1cfa80396c4ff85",
+        "title": "Coupling Language Models with Physics-based Simulation for Synthesis of Inorganic Materials",
+        "url": "https://arxiv.org/abs/2606.00315",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00315v1 Announce Type: new Abstract: Modern generative machine learning (ML) models can propose novel inorganic crystalline materials with targeted properties; however, synthesis planning of these materials remains difficult due to the complexity of the associated physical processes and limited availability of computational tools. We introduce a novel hybrid framework to evaluate Large ",
+        "tags": [
+          "cs.ai",
+          "cond-mat.mtrl-sci"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "cf103f8ec125c895",
+        "title": "EnergyMamba: An Uncertainty-Aware Graph-Enhanced Selective State Space Model for Energy Consumption Prediction",
+        "url": "https://arxiv.org/abs/2606.00506",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00506v1 Announce Type: new Abstract: Energy consumption prediction is essential for efficient grid management, demand-side optimization, and sustainable energy planning. Although advanced machine learning methods have been employed for better prediction performance, existing works have two key limitations: (1) they usually formulate this task as a purely time-series prediction problem w",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "3d6bff5e5bffc4f5",
+        "title": "LithoGRPO: Fast Inverse Lithography via GRPO Reinforced Flow Matching",
+        "url": "https://arxiv.org/abs/2606.00228",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00228v1 Announce Type: new Abstract: In semiconductor manufacturing, lithography projects circuit layouts onto silicon wafers through an optical mask. As circuit features shrink below the wavelength of light, optical diffraction causes the printed patterns to deviate from their intended layouts. Inverse Lithography Technology (ILT) addresses this challenge by generating optimized masks ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1282
+      },
+      {
+        "id": "4381d331f9aca991",
+        "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
+        "url": "https://arxiv.org/abs/2606.00002",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00002v1 Announce Type: new Abstract: Mixed-Integer Linear Programming (MILP) decision engines routinely output nominally optimal plans for high-stakes industrial systems. Yet deployment rarely matches solve-time assumptions: small perturbations in costs, demands, or resource availability can invalidate feasibility or trigger discontinuous shifts to qualitatively different solutions. We ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "a0f5b5719bf4fe87",
+        "title": "The Deterministic Horizon: When Extended Reasoning Fails and Tool Delegation Becomes Necessary",
+        "url": "https://arxiv.org/abs/2606.00376",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00376v1 Announce Type: new Abstract: Extended chain-of-thought reasoning can degrade performance on deterministic state-tracking tasks, not due to preference biases, but limits rooted in the information-theoretic capacity of decoder-only attention. We establish: (1) an Attention Bottleneck Theorem with a complementary achievability construction, bounding state-tracking capacity as $O(H ",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "b5695234068dd580",
+        "title": "RAFT: Data Refinement and Adaptive Distillation for Domain Fine-Tuning with Alleviated Forgetting",
+        "url": "https://arxiv.org/abs/2606.00147",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00147v1 Announce Type: new Abstract: Domain-specific supervised fine-tuning (SFT) often improves in-domain performance at the cost of degrading a model's general capabilities. We view this degradation through two practical gaps in domain SFT: a supervision-compatibility gap, where domain targets differ in style and reasoning format from the original model's natural responses, and a traj",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
+      {
+        "id": "d9fe928f7ccd399e",
+        "title": "Perturbative methods for non-parametric instrumental variable",
+        "url": "https://arxiv.org/abs/2606.00322",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780372800000,
+        "summary": "arXiv:2606.00322v1 Announce Type: new Abstract: We introduce a perturbative approach for nonparametric instrumental variable (NPIV) estimation. By drawing inspiration from perturbation theory in physics, we extend standard kernel ridge methods with systematic higher perturbation order corrections that significantly improve estimation accuracy. Spectrally, the perturbation introduces mixing between",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0446
+      },
       {
         "id": "7c694c895dd127ec",
         "title": "Making climate-neutral plastics and cosmetics using bacteria",
@@ -3725,142 +3861,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1003
-      },
-      {
-        "id": "8377afd9e409d7f9",
-        "title": "Mediating students' empathy development through play",
-        "url": "https://phys.org/news/2026-06-students-empathy-play.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780326006000,
-        "summary": "Playing a card game can support empathy development in college classrooms, according to a new study led by researchers in Penn State University Libraries' Teaching and Learning with Technology (TLT).",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
-      },
-      {
-        "id": "6bea0e1e7dacb853",
-        "title": "QTREX is betting on the layer beneath quantum computing",
-        "url": "https://thenextweb.com/news/qtrex-quantum-computing-interconnect-bottleneck",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1780325470000,
-        "summary": "The quantum computing industry has spent the last three years measured almost entirely in qubits. Willow’s 105. Nighthawk’s 120. The 540-qubit superconducting platform that integrated nearly 700 control lines into a single cryostat last year. The qubit count is the headline number, and for good reason. But inside the labs trying to push superconducting systems past […] This story continues at The ",
-        "tags": [
-          "deep tech",
-          "quantum tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.933
-      },
-      {
-        "id": "3c1d01ed1be6a94e",
-        "title": "Longest-period young transiting exoplanets discovered",
-        "url": "https://phys.org/news/2026-06-longest-period-young-transiting-exoplanets.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780325437000,
-        "summary": "It's 2234, you're on your annual class field trip touring exoplanets, and your teacher informs everyone they can pick one more exoplanetary system to explore before heading back to Earth. You and your classmates are exhausted from the day's activities and you're hungry. However, you get really excited because you already know what everyone will want. You and your classmates all shout in unison, \"T",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0171
-      },
-      {
-        "id": "41bc1acb01a7455f",
-        "title": "The Dirt That Refused To Die",
-        "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-        "source": "Quanta Magazine",
-        "lane": "science",
-        "published_ts": 1780325097000,
-        "summary": "Lifelike biochemistry continued to unfold in sterilized soil for six years, pointing to a metabolic theory for how biology began. The post The Dirt That Refused To Die first appeared on Quanta Magazine",
-        "tags": [
-          "biology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1446
-      },
-      {
-        "id": "232f6b974cfc3403",
-        "title": "Atmospheric wave theory falls short in explaining rising extreme weather, study suggests",
-        "url": "https://phys.org/news/2026-06-atmospheric-theory-falls-short-extreme.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780324801000,
-        "summary": "Across much of the northern hemisphere, extreme weather events like heat waves and heavy precipitation have increased in frequency and severity over the last several decades. A new study from the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) shows that one proposed partial explanation, so-called \"quasiresonant amplification of quasistationary Rossby waves,\" may not be c",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0136
-      },
-      {
-        "id": "a297f1284fdcb2e6",
-        "title": "Bad for health and the environment: Lung experts highlight environmental impact of tobacco product waste",
-        "url": "https://phys.org/news/2026-06-bad-health-environment-lung-experts.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780323601000,
-        "summary": "Ahead of World No Tobacco Day May 31, the American Thoracic Society and our Forum of International Respiratory Societies (FIRS) partners reiterate the need for countries to urgently implement decisions made at the 11th Conference of the Parties (COP11) to the WHO Framework Convention on Tobacco Control.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0072
-      },
-      {
-        "id": "a7dc43162c42f365",
-        "title": "Researchers use phylogenomics to identify cyanobacteria in Shenandoah River",
-        "url": "https://phys.org/news/2026-06-phylogenomics-cyanobacteria-shenandoah-river.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780322404000,
-        "summary": "You've probably seen slimy mats of brownish green clinging to rocks in streams or on lake beds, and perhaps not given it another thought. But George Mason University's Rosalina Stancheva Christova has. For more than 20 years, Christova, an assistant professor in the College of Science, has been researching Microcoleus, a common mat-forming cyanobacterium found in streams and lakes worldwide. The t",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0007
-      },
-      {
-        "id": "0cb9fd934b90310b",
-        "title": "Ancient land plant reveals the evolution of a 400‑million‑year‑old UV‑B protection system",
-        "url": "https://phys.org/news/2026-06-ancient-reveals-evolution-400millionyearold-uvb.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780321203000,
-        "summary": "Sunlight provides the energy necessary for photosynthesis and growth, but it also exposes plants to harmful ultraviolet-B (UV-B) radiation. Plants must therefore strike a delicate balance between growth and protection. By studying Marchantia polymorpha, a plant similar to some of the earliest land plants, an international team led by scientists from the University of Geneva (UNIGE) sheds light on ",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9943
-      },
-      {
-        "id": "450b55176e31f4bf",
-        "title": "New study sheds light on Victoria's future rainfall",
-        "url": "https://phys.org/news/2026-06-victoria-future-rainfall.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780321202000,
-        "summary": "New research led by Monash University sheds a new perspective on forecasts of future rainfall in Victoria, showing that recent dry conditions may not fully reflect long-term climate change signals.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9943
       }
     ]
   },
