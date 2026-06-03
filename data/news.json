@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:40:12.850710+00:00",
+  "generated_at": "2026-06-03T23:58:18.374929+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1929,6 +1929,21 @@
     ],
     "ai": [
       {
+        "id": "35fc574903fd4458",
+        "title": "Huawei's fiercest competitor just launched the world's first Wi-Fi 8 access point, and it uses a cutting-edge US chip",
+        "url": "https://www.techradar.com/pro/huaweis-fiercest-competitor-just-launched-the-worlds-first-wi-fi-8-access-point-and-it-uses-a-cutting-edge-us-chip",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780530600000,
+        "summary": "H3C launches Wi-Fi 8 enterprise access point focused on stability, AI optimization, roaming improvements, and Broadcom-powered network performance upgrades.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9156
+      },
+      {
         "id": "05ce997d0fa9a8dd",
         "title": "Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B (Bloomberg)",
         "url": "https://www.techmeme.com/260603/p61#a260603p61",
@@ -1955,6 +1970,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0185
+      },
+      {
+        "id": "d2f2e37344ea4f2c",
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1780527411000,
+        "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "tags": [
+          "ai",
+          "startups",
+          "anthropic",
+          "google cloud",
+          "lovable"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7334
       },
       {
         "id": "648cfd9d49202940",
@@ -2017,6 +2051,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0951
+      },
+      {
+        "id": "7db2565d82a99e32",
+        "title": "Martin Scorsese gets backlash after endorsing 'creatively freeing' AI",
+        "url": "https://www.reddit.com/r/technology/comments/1tw4ua9/martin_scorsese_gets_backlash_after_endorsing/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1780525599000,
+        "summary": "submitted by /u/Mayrodz01 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9963
       },
       {
         "id": "51dd5978f38c998a",
@@ -2828,54 +2877,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0638
-      },
+      }
+    ],
+    "science": [
       {
-        "id": "224c5bb42b901d43",
-        "title": "HETDEX opens massive Cosmic Noon dataset to scientists, novices and AI",
-        "url": "https://phys.org/news/2026-06-hetdex-massive-cosmic-noon-dataset.html",
+        "id": "3f983e2e597c768d",
+        "title": "Monitoring reveals elevated antidepressant levels in some waterways",
+        "url": "https://phys.org/news/2026-06-reveals-elevated-antidepressant-waterways.html",
         "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780504405000,
-        "summary": "The Hobby-Eberly Telescope Dark Energy Experiment (HETDEX)—which recently completed the largest survey ever taken of the early universe—has released all of its immense, information-rich database to the public. Built from more than half a petabyte of raw and processed data, it will allow astronomers to study how the first galaxies formed and evolved, measure how gas and stars were distributed withi",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0811
-      },
-      {
-        "id": "d9ab7126578986d5",
-        "title": "UN calculates nation-sized environmental footprints for AI and data centers",
-        "url": "https://phys.org/news/2026-06-nation-sized-environmental-footprints-ai.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780504201000,
-        "summary": "The environmental footprint of data centers already rivals some of the world's largest countries, according to a United Nations University report, which also predicts their water and energy use and pollution will double in just four years as use of artificial intelligence grows.",
+        "lane": "science",
+        "published_ts": 1780530003000,
+        "summary": "Depression, anxiety and sleep disorders are among the conditions often treated with antidepressant drugs. Yet, up to 90% of these drugs pass through the body into wastewater. They're also difficult to remove during water treatment, presenting a possible risk of environmental contamination and threats to ecological and human health. Now, researchers reporting in Environmental Science & Technology h",
         "tags": [
           "environment"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0799
+        "score": 1.014
       },
       {
-        "id": "f29cc51272b9213c",
-        "title": "Dalio Sees AI Bubble Bursting as Wealth Is Converted Into Money",
-        "url": "https://www.reddit.com/r/technology/comments/1tvumcp/dalio_sees_ai_bubble_bursting_as_wealth_is/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780504180000,
-        "summary": "submitted by /u/joe4942 [link] [comments]",
+        "id": "ced4c31ee030b681",
+        "title": "Dynamic nanogates let longer molecules pass faster through flexible pores",
+        "url": "https://phys.org/news/2026-06-dynamic-nanogates-longer-molecules-faster.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780530001000,
+        "summary": "A research team led by Professor Shuichi Hiraoka at the University of Tokyo and Professor Masanori Tachikawa at Yokohama City University has quantitatively analyzed how molecules pass through dynamic nanoscale pores using self-assembled molecular \"nanocubes\" in water. The researchers discovered an unexpected phenomenon: For linear alkane molecules, longer molecules passed through the molecular gat",
         "tags": [
-          "technology"
+          "nanomaterials"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9578
-      }
-    ],
-    "science": [
+        "score": 1.014
+      },
       {
         "id": "c436be3d6e9d1f08",
         "title": "Q&A: Why scientists are studying a microbe they found in a sink",
@@ -3762,38 +3796,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0176
-      },
-      {
-        "id": "2a4d709047f16ace",
-        "title": "Applied Aerospace & Defense raises $650M in an IPO the market wanted ten times over",
-        "url": "https://thenextweb.com/news/applied-aerospace-defense-650m-ipo",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1780476024000,
-        "summary": "The appetite was the story. Applied Aerospace & Defense priced its initial public offering on Tuesday at $20 a share, raising $650M, and by the time the book closed the deal was said to be about ten times oversubscribed. A company that makes fuselage sections and solid rocket motor cases does not usually inspire that […] This story continues at The Next Web",
-        "tags": [
-          "investors and funding",
-          "defence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9659
-      },
-      {
-        "id": "d63fc62ff055e21e",
-        "title": "France’s Quobly raises €115M to put a quantum computer on a silicon chip",
-        "url": "https://thenextweb.com/news/quobly-115m-series-a-silicon-quantum",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1780474222000,
-        "summary": "Most quantum-computing startups ask the world to build them an entirely new industry: exotic materials, bespoke fabrication, supply chains that do not yet exist. Quobly is making a quieter bet. The Grenoble company thinks the path to a useful quantum machine runs through the silicon chip industry that already exists, and on Wednesday it raised […] This story continues at The Next Web",
-        "tags": [
-          "startups and technology",
-          "quantum tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9566
       }
     ]
   },
