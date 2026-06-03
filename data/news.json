@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T22:58:32.023603+00:00",
+  "generated_at": "2026-06-03T23:00:47.922733+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -986,6 +986,22 @@
     ],
     "innovation": [
       {
+        "id": "7822011c5a85570b",
+        "title": "The only PC controller I’ll ever need definitely isn’t the Steam Controller",
+        "url": "https://www.makeuseof.com/only-pc-controller-ever-need-definitely-isnt-the-steam-controller/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780527619000,
+        "summary": "The DualSense Edge is my favorite gamepad ever for very specific reasons.",
+        "tags": [
+          "entertainment",
+          "pc gaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8499
+      },
+      {
         "id": "691424b34685239d",
         "title": "Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022 (The Information)",
         "url": "https://www.techmeme.com/260603/p59#a260603p59",
@@ -1914,21 +1930,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0131
-      },
-      {
-        "id": "8dffe27dc1c8709d",
-        "title": "The ModRetro M64 looks like the perfect modern way to play your classic Nintendo 64 games",
-        "url": "https://www.techradar.com/gaming/the-modretro-m64-looks-like-the-perfect-modern-way-to-play-your-classic-nintendo-64-games",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1780498663000,
-        "summary": "The ModRetro M64 has just been announced, offering a modern way to play all of your favorite classic Nintendo 64 games when it launches in July.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8364
       }
     ],
     "ai": [
@@ -2884,6 +2885,36 @@
     ],
     "science": [
       {
+        "id": "2beb4c88a1479443",
+        "title": "Tanzania's iconic heritage sites face damage from state-backed tourism",
+        "url": "https://phys.org/news/2026-05-tanzania-iconic-heritage-sites-state.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780527604000,
+        "summary": "Assessment of four heritage sites in Tanzania finds that all are under threat from the institutions meant to steward them, prioritizing income from tourism over the sites' preservation and refusing to engage with community protection initiatives.",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
+      {
+        "id": "715b95791f71b706",
+        "title": "How methane policy will make or break the climate crisis",
+        "url": "https://phys.org/news/2026-06-methane-policy-climate-crisis.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780527603000,
+        "summary": "There's no sign that methane emissions are declining globally.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
+      {
         "id": "2b5b8c3b8d230d4c",
         "title": "How Jupiter may have redirected life's ingredients toward Earth 4.5 billion years ago",
         "url": "https://phys.org/news/2026-06-jupiter-redirected-life-ingredients-earth.html",
@@ -3766,37 +3797,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0182
-      },
-      {
-        "id": "c68907396fd6c188",
-        "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-        "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1780466676000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1085
-      },
-      {
-        "id": "4fc9f9b34fc67874",
-        "title": "Testing the Test: Score-Direction Instability in Class-Split Anomaly Detection",
-        "url": "https://arxiv.org/abs/2606.02601",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780459200000,
-        "summary": "arXiv:2606.02601v1 Announce Type: new Abstract: Within-dataset class-split evaluation is widely used as a proxy for fully unconditional out-of-distribution anomaly detection. We show that this protocol can become ill-posed when the held-out anomaly class overlaps the normal mixture in representation space. In this regime, anomaly scores may collapse toward chance or even invert, and the preferred ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7286
       }
     ]
   },
