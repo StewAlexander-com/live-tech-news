@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T22:14:30.691402+00:00",
+  "generated_at": "2026-06-03T22:28:56.190994+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1025,7 +1025,7 @@
           "system monitor"
         ],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.8463
       },
       {
@@ -1070,7 +1070,7 @@
           "windows 11"
         ],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.846
       },
       {
@@ -1945,6 +1945,19 @@
     ],
     "ai": [
       {
+        "id": "51dd5978f38c998a",
+        "title": "Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory (Carl Franzen/VentureBeat)",
+        "url": "https://www.techmeme.com/260603/p58#a260603p58",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780525503000,
+        "summary": "Carl Franzen / VentureBeat: Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory — While many AI open source model providers are pursuing larger and more powerful models, Google is still giving attention to the smaller, more local side of the market.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
         "id": "fa01e60b961d9bff",
         "title": "Broadcom reports Q2 revenue up 48% YoY to $22.19B, vs. $22.27B est., and forecasts Q3 semiconductor revenue from AI below estimates; AVGO drops 12%+ after hours (Reuters)",
         "url": "https://www.techmeme.com/260603/p56#a260603p56",
@@ -2150,7 +2163,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8563
+        "score": 0.871
       },
       {
         "id": "ac7211d6b9d2edad",
@@ -2884,26 +2897,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8036
-      },
-      {
-        "id": "bd118ca8228e007c",
-        "title": "Samsung shows first HBM5 mockup with Heat Path Block cooling — thermal race with SK hynix shaping up",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1780500651000,
-        "summary": "Samsung displayed its first physical mockup of HBM5 memory at Computex 2026 in Taipei, pairing the eighth-generation AI memory with a new in-package cooling structure.",
-        "tags": [
-          "semiconductors",
-          "tech industry",
-          "manufacturing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0204
       }
     ],
     "science": [
+      {
+        "id": "e75f4e2ce4fd3ed1",
+        "title": "Research could pave the way for more resilient winter cereals in warmer climates",
+        "url": "https://phys.org/news/2026-06-pave-resilient-winter-cereals-warmer.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780525201000,
+        "summary": "The arrival of winter marks not only a change in weather, temperature, and day length, but also a change in our activity and behavior. The social outdoor events and trips to the beach over summer soon become a distant memory, and we ready ourselves for more solitary evenings indoors with a hot drink and a good book. Things slow down.",
+        "tags": [
+          "molecular & computational biology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0171
+      },
       {
         "id": "9aed84b4b361ec9e",
         "title": "World's smallest space laser station is changing global connectivity by bypassing 'vulnerabilities associated with terrestrial and subsea cables'",
@@ -2916,8 +2927,23 @@
           "pro"
         ],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.9169
+      },
+      {
+        "id": "fdd571829502ae4e",
+        "title": "Japan's new seafloor record could sharpen megathrust earthquake warnings in Nankai Trough",
+        "url": "https://phys.org/news/2026-06-japan-seafloor-sharpen-megathrust-earthquake.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780524006000,
+        "summary": "Off the southern coast of Japan, the Philippine Sea Plate lies underneath the Japanese mainland. The locked tectonic plates threaten to unleash a catastrophic megathrust earthquake, likely within the next few decades. Given the potential devastation a large quake could evoke, constant developments in predictive technology must be sought. However, predicting the unpredictable movement of the seaflo",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0106
       },
       {
         "id": "eaef12c30399fbd3",
@@ -3792,37 +3818,6 @@
         "published_ts": 1780459200000,
         "summary": "arXiv:2606.03303v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit strong informal mathematical reasoning but struggle to generate mechanically verifiable proofs in formal languages like Lean. We present LEAP, an agentic framework that enables general-purpose foundation models to achieve state-of-the-art performance on automated formal theorem proving. LEAP leverages foundation m",
         "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "4fc9f9b34fc67874",
-        "title": "Testing the Test: Score-Direction Instability in Class-Split Anomaly Detection",
-        "url": "https://arxiv.org/abs/2606.02601",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780459200000,
-        "summary": "arXiv:2606.02601v1 Announce Type: new Abstract: Within-dataset class-split evaluation is widely used as a proxy for fully unconditional out-of-distribution anomaly detection. We show that this protocol can become ill-posed when the held-out anomaly class overlaps the normal mixture in representation space. In this regime, anomaly scores may collapse toward chance or even invert, and the preferred ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "2baf1551a9072457",
-        "title": "Auditable Climate Risk Intelligence from Fragmented ESG Data: Deterministic Orchestration and Imbalance-Aware Learning for Scope 1-3 Validation",
-        "url": "https://arxiv.org/abs/2606.02604",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780459200000,
-        "summary": "arXiv:2606.02604v1 Announce Type: new Abstract: ESG and climate risk data remain fragmented across heterogeneous Scope 1, Scope 2, and Scope 3 reporting environments, while conventional validation pipelines lack provenance aware auditability, hidden drift detection, and reproducibility oriented governance. This paper proposes a deterministic climate risk intelligence framework integrating single s",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
