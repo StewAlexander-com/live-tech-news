@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-06-04T13:28:50.727185+00:00",
+  "generated_at": "2026-06-04T13:32:22.409016+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "870a5ff9b6a1ad99",
+        "title": "Windows hides these CPU boost settings deep in the registry — here's how to unlock them",
+        "url": "https://www.makeuseof.com/windows-hides-cpu-boost-settings-in-registry-how-to-unlock/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1780579877000,
+        "summary": "Your CPU can do a lot more than what Windows allows it to by default.",
+        "tags": [
+          "technology explained",
+          "cpu"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8497
+      },
+      {
+        "id": "4e8c137c8c2db958",
+        "title": "I had no idea what my phone's hidden sensors could do until this app unlocked them",
+        "url": "https://www.androidpolice.com/phone-hidden-sensors-could-do-until-this-app-unlocked-them/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1780579812000,
+        "summary": "I finally learned what my phone sensors are actually good for",
+        "tags": [
+          "sensors",
+          "best reads",
+          "utilities",
+          "android police's best reads"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9993
+      },
       {
         "id": "9371917eb28df78c",
         "title": "Silicon Motion increases sales of SSD controllers amid NAND shortage, but expects NAND shortages to get worse in 2027 — 'supply conditions will become even worse'",
@@ -923,36 +957,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8091
-      },
-      {
-        "id": "df5a76445fbaa052",
-        "title": "California moves to ban the sale of 3D printers without a \"firearm blueprint detection algorithm.\"",
-        "url": "https://www.techradar.com/pro/california-moves-to-ban-the-sale-of-3d-printers-without-a-firearm-blueprint-detection-algorithm",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780533000000,
-        "summary": "3D printers could soon be mandated to include a 'blocking' feature to prevent the printing of firearms",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9012
-      },
-      {
-        "id": "54e14fdb91064f7a",
-        "title": "US soldier's personal phones allowed enemies to track positions and target troops in real time, Pentagon reveals",
-        "url": "https://www.techradar.com/pro/us-soldiers-personal-phones-allowed-enemies-to-track-positions-and-target-troops-in-real-time-pentagon-reveals",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780533000000,
-        "summary": "The disclosure comes at a time when lawmakers are already pushing the US DoD to make significant overhauls to its posture on smartphone security.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8344
       }
     ],
     "innovation": [
@@ -2696,102 +2700,101 @@
         "score": 1.0791
       },
       {
-        "id": "28ef686d8552a279",
-        "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-        "url": "https://arxiv.org/abs/2606.04037",
-        "source": "arXiv cs.AI",
+        "id": "d8e3e369290bcd9e",
+        "title": "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset",
+        "url": "https://arxiv.org/abs/2606.03995",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04037v1 Announce Type: new Abstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benchmarking and production deployment. Post-deployment monitoring, human-in-the-loop controls, and prompt-level guardrails offer limited assurance once an agent is operating in production. We propose an o",
+        "summary": "arXiv:2606.03995v1 Announce Type: new Abstract: Background: Alzheimer's disease (AD) affects over 55 million people worldwide. Accurate, interpretable detection of normal cognition (NC), mild cognitive impairment (MCI), and AD from routine clinical assessments remains a critical unmet need. Methods: An XGBoost classifier was developed for three-class detection using eight clinical features from th",
         "tags": [
-          "cs.ai",
           "cs.lg",
-          "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1026
-      },
-      {
-        "id": "804876c1a7e7a673",
-        "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-        "url": "https://arxiv.org/abs/2606.04150",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04150v1 Announce Type: new Abstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a dedicated companion chatbot. In this paper, we draw on emerging empirical evidence and argue that this picture is inaccurate on two accounts, both in how AI emotional support arises and how it shapes fu",
-        "tags": [
           "cs.ai",
-          "cs.hc"
+          "q-bio.qm"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1026
+        "score": 0.9437
       },
       {
-        "id": "ae07e195071b2cb5",
-        "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-        "url": "https://arxiv.org/abs/2606.04152",
-        "source": "arXiv cs.AI",
+        "id": "45db6ace89756e49",
+        "title": "Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning",
+        "url": "https://arxiv.org/abs/2606.04028",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04152v1 Announce Type: new Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics an",
+        "summary": "arXiv:2606.04028v1 Announce Type: new Abstract: The IEEE P3109 draft standard defines a parameterized family of binary floating-point formats and associated operations, with a focus on facilitating machine learning. These formats allow efficient and consistent representation of values in a small number of bits. The defined formats are parameterized over width and precision in bits, signedness, and",
         "tags": [
-          "cs.ai",
-          "cs.cy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1026
-      },
-      {
-        "id": "e7cf3c6693a26293",
-        "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-        "url": "https://arxiv.org/abs/2606.04202",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04202v1 Announce Type: new Abstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in isolation. Effective coordination in these settings requires agents to communicate, share information and make decisions under uncertainty. We introduce SMAC-Talk, a natural language extension of the StarCraft Multi-Agent Cha",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1026
-      },
-      {
-        "id": "28ccbce36aba2fce",
-        "title": "Can Generalist Agents Automate Data Curation?",
-        "url": "https://arxiv.org/abs/2606.04261",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04261v1 Announce Type: new Abstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement, evaluate, and revise data policies against noisy benchmark feedback. We ask whether generalist coding agents can automate this data-curation loop. We introduce *Curation-Bench*, an agent-centric benc",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.cv",
-          "cs.et",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1026
+        "score": 0.9437
       },
       {
-        "id": "deda84546a409524",
-        "title": "Characterizing initial human-AI proof formalization workflows",
-        "url": "https://arxiv.org/abs/2606.04273",
-        "source": "arXiv cs.AI",
+        "id": "99f27a39dd0b63ef",
+        "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04273v1 Announce Type: new Abstract: For centuries, human mathematicians have written proofs to substantiate their mathematical arguments; yet, the ability to automatically verify the validity of proofs has long been a challenge. Advances in AI systems' ability to generate code and engage in increasingly high-level mathematical reasoning promise to transform people's ability to formaliz",
+        "summary": "arXiv:2606.04032v1 Announce Type: new Abstract: Transformers have become the standard solution for various AI tasks, with the query, key, and value (QKV) attention formulation playing a central role. However, the individual contribution of these three projections and the impact of omitting some remain poorly understood. We systematically evaluate three projection sharing constraints: a) Q-K=V (sha",
         "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl",
+          "cs.pf"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9437
+      },
+      {
+        "id": "bf87d6daed8dd55c",
+        "title": "Inverse Critical Experiment Design via Gradient Optimization and a Multigroup Attention-Based Neural Network Architecture",
+        "url": "https://arxiv.org/abs/2606.04033",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780545600000,
+        "summary": "arXiv:2606.04033v1 Announce Type: new Abstract: The validation of advanced nuclear reactor designs and fuel concepts requires critical experiments with high neutronic similarity to the target technology. Neutronic similarity is quantified by the correlation coefficient $c_k$, which captures the shared bias in $k_\\text{eff}$ induced by uncertainties in nuclear data. Generally, a $c_k\\geq0.9$ is nee",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9437
+      },
+      {
+        "id": "1ea6a15481850c90",
+        "title": "Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials",
+        "url": "https://arxiv.org/abs/2606.04100",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780545600000,
+        "summary": "arXiv:2606.04100v1 Announce Type: new Abstract: Machine learning interatomic potentials (MLIPs) enable efficient and accurate atomistic simulations but depend critically on the quality and diversity of the training data. We introduce Stein kernelized molecular dynamics (SKMD), an enhanced sampling method that uses interacting particle dynamics to acquire informative training configurations for the",
+        "tags": [
+          "cs.lg",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9437
+      },
+      {
+        "id": "d5ec0afc9fdec0d4",
+        "title": "Building The Ph(ysical)AI Layer Of Machine Intelligence",
+        "url": "https://arxiv.org/abs/2606.04106",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780545600000,
+        "summary": "arXiv:2606.04106v1 Announce Type: new Abstract: Foundation models achieve generalization through massive-scale training on diverse data, but have limitations with transfer to truly unseen domains without paired training data. We propose principle-driven foundation models that encode signal-theoretic principles (Fourier decomposition, energy conservation, symmetry) rather than learn untethered stat",
+        "tags": [
+          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1026
+        "score": 0.9437
       }
     ],
     "science": [
