@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-04T19:19:23.718482+00:00",
+  "generated_at": "2026-06-04T19:27:28.655578+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "9f4c2e12115dc640",
+        "title": "AMD's Frank Azor pushes back against claim that FSR 4.1 won't be ported to RDNA 3.5 GPUs — says 'no such decision' has been made",
+        "url": "https://www.tomshardware.com/pc-components/gpus/amds-frank-azor-pushes-back-against-claim-that-fsr-4-1-wont-be-ported-to-rdna-3-5-gpus-says-no-such-decision-has-been-made",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1780600706000,
+        "summary": "AMD's Frank Azor hits back against allegations suggesting AMD will skip RDNA 3.5 integration with FSR 4.1.",
+        "tags": [
+          "gpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9472
+      },
       {
         "id": "5ab7ea3c5641f602",
         "title": "Samsung is slashing prices on its best-rated TVs ahead of the World Cup — here are my top recommendations from $229.99",
@@ -949,27 +965,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7972
-      },
-      {
-        "id": "29c02c3dcd6f6806",
-        "title": "I found an app that finally gives Android the one productivity feature I miss from my Mac",
-        "url": "https://www.androidpolice.com/this-app-gives-android-one-productivity-feature-i-miss-mac/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1780574411000,
-        "summary": "Spotlight-like search powers",
-        "tags": [
-          "google play",
-          "search app",
-          "productivity",
-          "google play"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9952
       }
     ],
     "innovation": [
+      {
+        "id": "bb5aeb7be3da9053",
+        "title": "Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025 (CJ Haddad/CNBC)",
+        "url": "https://www.techmeme.com/260604/p41#a260604p41",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780600801000,
+        "summary": "CJ Haddad / CNBC: Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025 — Vibe coding needs infrastructure. Supabase is trying to provide it. — The startup, which makes back-end tools …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0774
+      },
       {
         "id": "5b901af28685664a",
         "title": "I installed macOS on a Wii U because nobody stopped me — somehow it worked",
@@ -1905,22 +1916,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9904
-      },
-      {
-        "id": "d17ad8679d8a85ea",
-        "title": "Flourish, which is building Cortex AI, a brain-like synthetic intelligence system that uses less power than LLMs, raised $500M, including $100M from Jeff Bezos (Steven Levy/Wired)",
-        "url": "https://www.techmeme.com/260604/p22#a260604p22",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780572902000,
-        "summary": "Steven Levy / Wired: Flourish, which is building Cortex AI, a brain-like synthetic intelligence system that uses less power than LLMs, raised $500M, including $100M from Jeff Bezos — With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0662
       }
     ],
     "ai": [
+      {
+        "id": "584ffe6477e0b78a",
+        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+        "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1780600858000,
+        "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+        "tags": [
+          "ai",
+          "apps",
+          "tc",
+          "ai agent",
+          "apple",
+          "poke"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8062
+      },
+      {
+        "id": "2b01c31e44c08db3",
+        "title": "Teaching AI to design optical surfaces using real-world imperfections",
+        "url": "https://phys.org/news/2026-06-ai-optical-surfaces-real-world.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1780600805000,
+        "summary": "Designing surfaces that precisely control how light behaves at the nanoscale is tricky. Optical Fourier surfaces, which are nanostructured gratings that redistribute light into specific directions and wavelengths, hold enormous potential for compact spectrometers, augmented-reality displays, and advanced sensors. However, their standard design process relies on computer simulations that assume ide",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.099
+      },
       {
         "id": "5a0163790bbb9c00",
         "title": "OpenAI's agent chained decade-old DoS attacks to crash web servers in seconds",
@@ -2844,39 +2877,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0124
-      },
-      {
-        "id": "3218df4ac6977ade",
-        "title": "Google Employees Internally Share Memes About How Its AI Sucks",
-        "url": "https://www.reddit.com/r/technology/comments/1twnsbr/google_employees_internally_share_memes_about_how/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780579897000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0091
-      },
-      {
-        "id": "399609e3c1b195ca",
-        "title": "Ring has been collecting visitor's facial biometrics without consent, class action lawsuit alleges",
-        "url": "https://www.techradar.com/pro/ring-has-been-collecting-visitors-facial-biometrics-without-consent-class-action-lawsuit-alleges",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1780579200000,
-        "summary": "Familiar Faces uses AI to scan facial biometrics from anyone who comes within the camera's field of view.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9154
       }
     ],
     "science": [
+      {
+        "id": "fe5b33f0a35ca16d",
+        "title": "Climate vulnerable residents in Nigeria are creating makeshift adaptation systems",
+        "url": "https://phys.org/news/2026-06-climate-vulnerable-residents-nigeria-makeshift.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780600802000,
+        "summary": "Residents in informal settlements in Lagos—who are among the most vulnerable to climate change—have developed sophisticated, multi-scale climate adaptation systems and are earning a living from climate action, a new study by Brianna Castro, assistant professor of urban sustainability at the Yale School of the Environment, found.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0176
+      },
       {
         "id": "c90c1362ad9e8a84",
         "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
@@ -3790,21 +3808,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9981
-      },
-      {
-        "id": "cd69e56db4d5cd2b",
-        "title": "Hybrid work is not always the golden compromise employees expect—even as more companies implement it",
-        "url": "https://phys.org/news/2026-06-hybrid-golden-compromise-employees-companies.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780531202000,
-        "summary": "A truce of sorts has quelled the return-to-office wars that have raged in the post-pandemic workplace.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
       }
     ]
   },
