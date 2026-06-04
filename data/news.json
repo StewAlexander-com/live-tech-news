@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T16:38:26.385538+00:00",
+  "generated_at": "2026-06-04T16:46:44.269797+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -966,6 +966,19 @@
     ],
     "innovation": [
       {
+        "id": "391d3f61246c274d",
+        "title": "Cloudflare acquires VoidZero, the company behind Vite, Vitest, Rolldown, Oxc, and Vite+ frameworks, and says the projects will stay open source (Cloudflare)",
+        "url": "https://www.techmeme.com/260604/p35#a260604p35",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780591201000,
+        "summary": "Cloudflare: Cloudflare acquires VoidZero, the company behind Vite, Vitest, Rolldown, Oxc, and Vite+ frameworks, and says the projects will stay open source — VoidZero, the company behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. As part of this change, all team members of VoidZero are joining Cloudflare, too.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9978
+      },
+      {
         "id": "1c54166905e0c44b",
         "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
         "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
@@ -1920,25 +1933,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8115
-      },
-      {
-        "id": "a2bd8630e54fd645",
-        "title": "Amazon develops a warehouse robot workers can speak to",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1780565474000,
-        "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign […]",
-        "tags": [
-          "ai",
-          "amazon",
-          "news",
-          "robot",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8481
       }
     ],
     "ai": [
@@ -1988,6 +1982,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0771
+      },
+      {
+        "id": "d4cebe70a5c0e1fb",
+        "title": "When AI Builds Itself",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780590017000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:9"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1244
       },
       {
         "id": "f02dbf6d60c4ef26",
@@ -2101,6 +2111,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1138
+      },
+      {
+        "id": "3577af5f5812a83b",
+        "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
+        "url": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780587283000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:28"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.026
       },
       {
         "id": "dc62fa3865ed798b",
@@ -2861,37 +2887,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0442
-      },
-      {
-        "id": "b961a5bd2d57b5bf",
-        "title": "TSMC CEO C.C. Wei says the company won't be able to fulfill demand led by US customers even as more capacity comes online in the US over the next few years (Debby Wu/Bloomberg)",
-        "url": "https://www.techmeme.com/260604/p16#a260604p16",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1780569005000,
-        "summary": "Debby Wu / Bloomberg: TSMC CEO C.C. Wei says the company won't be able to fulfill demand led by US customers even as more capacity comes online in the US over the next few years — Taiwan Semiconductor Manufacturing Co.'s global chip supply will fall short of AI-fueled demand for years to come …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0666
-      },
-      {
-        "id": "00fc29156ceebd62",
-        "title": "Samsung's updated Health app unsurprisingly comes with new AI-powered features",
-        "url": "https://www.engadget.com/2187297/samsung-updates-health-app-with-gen-ai/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1780568795000,
-        "summary": "Samsung will roll out an update for its Health app before launching its new Galaxy Watches.",
-        "tags": [
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.75
       }
     ],
     "science": [
+      {
+        "id": "ef1bf6e71f23e1b6",
+        "title": "What network science can tell us about the 2026 World Cup",
+        "url": "https://phys.org/news/2026-06-network-science-world-cup.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780591206000,
+        "summary": "Team Australia kicked it long from the goalkeeper. Switzerland took a slower approach and preferred short passes over long drives. Spain, on the other hand, tended to string the ball with sharp, sideways passes across the field. Those are a few of the takeaways from passing-style graphics that Northeastern University's Network Science Institute developed of the top soccer teams at the FIFA World C",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0178
+      },
+      {
+        "id": "11eaf3d4fbd20010",
+        "title": "DNA repair enzyme uses one-dimensional sliding to detect key sites, researchers reveal",
+        "url": "https://phys.org/news/2026-06-dna-enzyme-dimensional-key-sites.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780591205000,
+        "summary": "DNA is the blueprint of the human body. However, tens of thousands of DNA lesions occur in our bodies every day. In particular, if \"apurinic/apyrimidinic sites\" (AP sites, damaged sites where one letter of DNA information has been erased) are not properly repaired, they can lead to cancer and aging.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0178
+      },
       {
         "id": "cc3b759aadcc65bf",
         "title": "'Out-of-place' rocks reveal how a young ocean formed",
@@ -3772,36 +3800,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0198
-      },
-      {
-        "id": "715b95791f71b706",
-        "title": "How methane policy will make or break the climate crisis",
-        "url": "https://phys.org/news/2026-06-methane-policy-climate-crisis.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780527603000,
-        "summary": "There's no sign that methane emissions are declining globally.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "2b5b8c3b8d230d4c",
-        "title": "How Jupiter may have redirected life's ingredients toward Earth 4.5 billion years ago",
-        "url": "https://phys.org/news/2026-06-jupiter-redirected-life-ingredients-earth.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780527001000,
-        "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published in Science Advances, examines this history by looking at the ratio of phosphorus to nitrogen in iron mete",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0172
       }
     ]
   },
