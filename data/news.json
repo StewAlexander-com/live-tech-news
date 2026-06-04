@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:17:13.310933+00:00",
+  "generated_at": "2026-06-04T20:35:40.376058+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1938,6 +1938,65 @@
     ],
     "ai": [
       {
+        "id": "2f846bb1321f968b",
+        "title": "‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1780604727000,
+        "summary": "Hayden Field and Tom Warren, writing for The Verge (gift link) This year’s Build had the vibe of a freshly single divorcée posting a thirst trap on Instagram. “It’s always fun to be at developer conferences in times of great change,” Microsoft CEO Satya Nadella said onstage Tuesday, adding that events like this are about “coming to grips with the new opportunity.” AI chief Mustafa Suleyman, in an ",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0231
+      },
+      {
+        "id": "5c248df38a272308",
+        "title": "ChatGPT's memory is getting better, especially if you're on the free tier",
+        "url": "https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1780604539000,
+        "summary": "OpenAI has significantly improved the chatbot's \"dreaming\" architecture.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.701
+      },
+      {
+        "id": "99246d2d23f0afc3",
+        "title": "Many US tech firms are turning to China's DeepSeek as the bill for homegrown AI bites – American AI companies could learn a thing or two",
+        "url": "https://www.techradar.com/pro/many-us-tech-firms-are-turning-to-chinas-deepseek-as-the-bill-for-homegrown-ai-bites-american-ai-companies-could-learn-a-thing-or-two",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780604400000,
+        "summary": "American models are simply too expensive – US firms are now turning to DeepSeek for cheaper costs and portability.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9134
+      },
+      {
+        "id": "e5974234fc634a94",
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780603880000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:24"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1252
+      },
+      {
         "id": "7ff2a67c1aed0162",
         "title": "OpenAI’s Codex helps discover HTTP/2 Bomb DoS attack that can nuke over 30GB of RAM within seconds, knocking web servers offline before they can react",
         "url": "https://www.techradar.com/pro/security/openais-codex-helps-discover-http-2-bomb-dos-attack-that-can-nuke-over-30gb-of-ram-within-seconds-knocking-web-servers-offline-before-they-can-react",
@@ -2827,75 +2886,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9538
-      },
-      {
-        "id": "a24635b999120529",
-        "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-        "url": "https://boxes.dev",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1780583915000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:29"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0104
-      },
-      {
-        "id": "417fca3cac24c7ad",
-        "title": "US tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs",
-        "url": "https://www.reddit.com/r/technology/comments/1twpdze/us_tech_layoffs_record_singlehighest_month_in_two/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780583477000,
-        "summary": "submitted by /u/Turbostrider27 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9739
-      },
-      {
-        "id": "b6e1890ee0e80df9",
-        "title": "US tech layoffs record single-highest month in two years, and more than any other sector — nearly 40,000 get the axe, AI the most cited reason for layoffs",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tech-sector-cut-us-jobs-by-38242-in-may",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1780583315000,
-        "summary": "U.S. tech companies announced 38,242 job cuts in May, more than any other sector and the industry's heaviest month of reductions in nearly two years.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0223
-      },
-      {
-        "id": "eab6ea70f8d85cac",
-        "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
-        "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1780582544000,
-        "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on […]",
-        "tags": [
-          "ai",
-          "business",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8532
       }
     ],
     "science": [
+      {
+        "id": "6036ac5e7ec025b1",
+        "title": "Fossil fishes buried in the desert reveal a missing chapter in marine history",
+        "url": "https://phys.org/news/2026-06-fossil-fishes-reveal-chapter-marine.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780604403000,
+        "summary": "When an asteroid struck Earth about 66 million years ago, it ended the age of dinosaurs and transformed life across the planet. The effects of that catastrophe are visible in the fossil record on land, but scientists know far less about what happened to fishes in the seas during the first few million years after the extinction.",
+        "tags": [
+          "paleontology & fossils"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0149
+      },
+      {
+        "id": "b8f6885d71966fdb",
+        "title": "What makes 15-minute cities work? More nearby jobs and connected streets",
+        "url": "https://phys.org/news/2026-06-minute-cities-nearby-jobs-streets.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780604401000,
+        "summary": "The concept of the \"15-Minute City\" has gained global traction as a blueprint for more livable, sustainable communities by placing daily essentials—such as grocery stores, schools, restaurants and parks—within easy reach of residents. The idea envisions neighborhoods where people can meet most of their daily needs within a 15-minute walk, bike ride or transit trip from home, reducing automobile de",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0149
+      },
+      {
+        "id": "cec350fc83c6e1cf",
+        "title": "I taught Gemini my learning style to understand quantum physics 10x faster with custom analogies and daily quizzes",
+        "url": "https://www.techradar.com/ai-platforms-assistants/i-taught-gemini-my-learning-style-to-understand-quantum-physics-10x-faster-with-custom-analogies-and-daily-quizzes",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1780604400000,
+        "summary": "Find out how Google Gemini can adapt to your learning style with personalized analogies, simplified explanations, and daily quizzes to make any topic easier to understand.",
+        "tags": [
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9134
+      },
       {
         "id": "c86ea7797dbe3260",
         "title": "Bison restoration efforts and grazing rights hinge on one question: Are bison wildlife?",
@@ -3781,53 +3819,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0209
-      },
-      {
-        "id": "96f6190e228bcf68",
-        "title": "A Goal-Set Characterization of Task Composition in the Boolean Task Algebra",
-        "url": "https://arxiv.org/abs/2606.04053",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04053v1 Announce Type: new Abstract: The Boolean Task Algebra (BTA) provides a principled framework for zero-shot task composition in reinforcement learning by equipping goal-reaching tasks with Boolean operations. We revisit its structural assumptions and formalize a collapse in the space of optimal extended Q-value functions: in deterministic MDPs, every such function is fully determi",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0209
-      },
-      {
-        "id": "1949e0b69e8cdb27",
-        "title": "Smart Transportation Without Neurons -- Fair Metro Network Expansion with Tabular Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2606.04167",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780545600000,
-        "summary": "arXiv:2606.04167v1 Announce Type: new Abstract: We tackle the Metro Network Expansion Problem (MNEP), a subset of the Transport Network Design Problem (TNDP), which focuses on expanding metro systems to satisfy travel demand. Traditional methods rely on exact and heuristic approaches that require expert-defined constraints to reduce the search space. Recently, deep reinforcement learning (Deep RL)",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0209
-      },
-      {
-        "id": "979df64f3a21f4d0",
-        "title": "Microsoft is killing Windows 11's web app slop, encourages devs to build native apps using WinUI",
-        "url": "https://www.reddit.com/r/technology/comments/1twakzv/microsoft_is_killing_windows_11s_web_app_slop/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1780540247000,
-        "summary": "submitted by /u/Quantum-Coconut [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9984
       }
     ]
   },
