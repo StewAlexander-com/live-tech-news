@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:01:17.200088+00:00",
+  "generated_at": "2026-06-04T22:13:15.802431+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -985,6 +985,36 @@
     ],
     "innovation": [
       {
+        "id": "10fe7eeef108b9d3",
+        "title": "Google just added another layer to Search results, and we're running out of room to scroll",
+        "url": "https://www.makeuseof.com/google-just-added-new-search-results-creator-profiles-explained/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780610786000,
+        "summary": "I just want to see the Search results",
+        "tags": [
+          "technology explained",
+          "internet",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8481
+      },
+      {
+        "id": "1e61629c31f4c42d",
+        "title": "The Talk Show Live From WWDC 2026: Tuesday June 9",
+        "url": "https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1780610705000,
+        "summary": "Location: The California Theatre, San Jose Showtime: Tuesday, 9 June 2026, 7pm PT (Doors open 6pm) Special Guest(s): For sure Price: $45 The annual live audience episode of The Talk Show during the week of WWDC. If you can make it, you should come. You’ll even enjoy the prelude, mingling with fellow DF readers and listeners. ★",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0772
+      },
+      {
         "id": "dd84aff3e3370bab",
         "title": "The safest password is the one you never type",
         "url": "https://www.makeuseof.com/safest-password-is-the-one-you-never-type/",
@@ -1907,42 +1937,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.072
-      },
-      {
-        "id": "a9c3627b37e263d6",
-        "title": "Europe wants to make sure no one has a kill switch over its technology",
-        "url": "https://thenextweb.com/news/eu-tech-sovereignty-cloud-chips-act",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1780580653000,
-        "summary": "When the Trump administration sanctioned the International Criminal Court’s top prosecutor earlier this year, Microsoft cancelled his email account. The incident was brief and bureaucratic. It was also, for European policymakers, clarifying. If a single American company could cut off a senior international official’s communications at the stroke of a pen, what else could be […] This story continue",
-        "tags": [
-          "artificial intelligence",
-          "deep tech",
-          "europe",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8887
-      },
-      {
-        "id": "41036a573f75a950",
-        "title": "Microsoft Office 2019 for Mac will no longer edit documents after July 13",
-        "url": "https://www.reddit.com/r/technology/comments/1two05s/microsoft_office_2019_for_mac_will_no_longer_edit/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1780580395000,
-        "summary": "submitted by /u/venice_mcgangbang [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9319
       }
     ],
     "ai": [
+      {
+        "id": "db8c80c373e685fe",
+        "title": "New IronWorm Malware Hits 36 Packages In npm Supply-Chain Attack",
+        "url": "https://it.slashdot.org/story/26/06/04/1948205/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1780610400000,
+        "summary": "A new npm supply-chain attack has infected 36 packages with Rust-based infostealer malware called IronWorm. According to BleepingComputer, the malware \"targets 86 environment variables (key-value pairs) and 20 credential files that may contain OpenAI, AWS, Anthropic, and npm credentials, vault configuration files, SSH keys, and Exodus cryptocurrency wallet files.\" From the report: According to res",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0455
+      },
       {
         "id": "43bc83d3aa297a1b",
         "title": "Quote of the day by Sam Altman: \"I cannot imagine having gone through figuring out how to raise a newborn without ChatGPT\" — opening up on how reliant we are on chatbots",
@@ -2864,22 +2876,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1138
-      },
-      {
-        "id": "3577af5f5812a83b",
-        "title": "The LLM warnings Google fired Timnit Gebru over have all come true",
-        "url": "https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1780587283000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:28"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.026
       }
     ],
     "science": [
