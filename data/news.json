@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T20:16:48.653615+00:00",
+  "generated_at": "2026-06-05T20:31:11.900994+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1002,6 +1002,21 @@
     ],
     "innovation": [
       {
+        "id": "4beaebbc345d27b2",
+        "title": "Illinois Gov. JB Pritzker to suspend tax breaks offered to data centers",
+        "url": "https://www.reddit.com/r/technology/comments/1txvxu2/illinois_gov_jb_pritzker_to_suspend_tax_breaks/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780690047000,
+        "summary": "submitted by /u/NicolasCageFan492 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9428
+      },
+      {
         "id": "9521cc0658f07d0d",
         "title": "As It Turns Out, There’s More Than One Cassette Mechanism Being Made After All",
         "url": "https://hackaday.com/2026/06/05/as-it-turns-out-theres-more-than-one-cassette-mechanism-being-made-after-all/",
@@ -1932,25 +1947,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0469
-      },
-      {
-        "id": "ce0b13f9c421c690",
-        "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-        "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1780656288000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:15"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.031
       }
     ],
     "ai": [
+      {
+        "id": "42105a82bc39fc13",
+        "title": "Elon Musk’s X Is a Freak Show",
+        "url": "https://www.natesilver.net/p/social-media-has-become-a-freak-show",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1780691098000,
+        "summary": "Nate Silver, back in April, under the headline “Social Media Is Turning Into a Freak Show”, where by “social media” he mostly discusses Twitter/X: But what does that remaining traffic consist of? I recently came across a bubble chart depicting the Twitter accounts that had received the most “engagement” in February 2026. It was depressing: most of the top accounts were extremely low-quality and hi",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0778
+      },
       {
         "id": "15188191dd38a35c",
         "title": "US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92% (Noel Randewich/Reuters)",
@@ -2903,25 +2915,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0094
-      },
-      {
-        "id": "591bcd385e2dc221",
-        "title": "Mira Murati resurfaces after 18 months with a warning about AI governance and a product no one expected",
-        "url": "https://thenextweb.com/news/mira-murati-resurfaces-after-18-months-with-a-warning-about-ai-governance-and-a-product-no-one-expected",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780667120000,
-        "summary": "For someone who helped ship ChatGPT, DALL-E, and Codex, Mira Murati has been remarkably quiet. On Thursday, she broke the silence. Sitting down with Bloomberg’s Emily Chang in San Francisco, the CEO of Thinking Machines Lab gave her first major media appearance in roughly 18 months, a carefully managed re-entry into a conversation that has moved at […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "startups and technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.963
       }
     ],
     "science": [
+      {
+        "id": "8c6f1803c8b92694",
+        "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+        "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+        "source": "Hacker News",
+        "lane": "science",
+        "published_ts": 1780689996000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:15"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0417
+      },
       {
         "id": "d8137cff007a0966",
         "title": "Light pulses uncover Higgs mode that reshapes perovskite crystal symmetry",
@@ -3783,6 +3795,21 @@
         "score": 1.0017
       },
       {
+        "id": "11af9dfbe5d8892e",
+        "title": "PJ-RoPE: A Fourier-Jet-Affine Position Space for Relative Attention",
+        "url": "https://arxiv.org/abs/2606.05345",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780632000000,
+        "summary": "arXiv:2606.05345v1 Announce Type: new Abstract: We unify RoPE's Fourier phase, Jordan-RoPE's finite jets, and ALiBi's affine recency into a single learnable relative-position space, and study which regions of this space are selected by different tasks. PJ-RoPE is a Fourier-Jet-Affine formulation for relative attention, with an optional Poincare-type reading as the affine completion of a homogeneou",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7639
+      },
+      {
         "id": "c50feeabd929352b",
         "title": "Learning Manifold and It\\^o Dynamics with Branched Neural Rough Differential Equations",
         "url": "https://arxiv.org/abs/2606.05272",
@@ -3807,37 +3834,6 @@
         "summary": "arXiv:2606.04579v1 Announce Type: new Abstract: While Process Reward Models (PRMs) have achieved remarkable success in mathematical reasoning, their application in complex scientific domains-such as biology, chemistry, and physics remains largely unexplored. Scientific problems demand not only logical rigor but also factual consistency and the precise usage of domain-specific tools, areas where cu",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0312
-      },
-      {
-        "id": "f05edd2dfd0ecc1b",
-        "title": "PyCC.id: A package for hypothesis-driven equation discovery with structural identifiability",
-        "url": "https://arxiv.org/abs/2606.05191",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780632000000,
-        "summary": "arXiv:2606.05191v1 Announce Type: new Abstract: Data-driven equation discovery is fundamentally an inverse problem that seeks to infer the governing differential equations of a system directly from time-series measurements. A known issue is the ill-conditioned nature of the inverse problem, which frequently produces multiple mathematical models that fit the data similarly well. One path to address",
-        "tags": [
-          "cs.lg",
-          "eess.sp"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0312
-      },
-      {
-        "id": "83a151222f4bfcee",
-        "title": "State commitment learning: training language models to distinguish computation from memory",
-        "url": "https://arxiv.org/abs/2606.05201",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780632000000,
-        "summary": "arXiv:2606.05201v1 Announce Type: new Abstract: Reasoning language models do not distinguish tokens used for computation from tokens that constitute persistent state: once generated, all hidden thoughts remain in context and influence future predictions. As a result, downstream reasoning may depend on failed attempts, dead ends, and private scratch work that should not be safely relied on later. W",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
