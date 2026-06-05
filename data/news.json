@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-06-05T20:50:02.645935+00:00",
+  "generated_at": "2026-06-05T20:57:05.971044+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d1bea9f3ae50689a",
+        "title": "Summer Game Fest Live 2026: The biggest news, trailers, and announcements",
+        "url": "https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1780692000000,
+        "summary": "Geoff Keighley’s annual June celebration of games is here. Summer Game Fest Live, the big live show that will feature a whole bunch of gaming news and announcements, begins at 5PM ET and is set to run for two hours. The event itself will take place in person at the Dolby Theatre in Los Angeles, […]",
+        "tags": [
+          "entertainment",
+          "gaming",
+          "news"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7877
+      },
       {
         "id": "8c4530f9546bb805",
         "title": "Galaxy Watch 9 and Ultra 2 likely won't charge any faster than their predecessors",
@@ -972,24 +989,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9946
-      },
-      {
-        "id": "924f51001f00cff5",
-        "title": "Samsung's Galaxy Buds 4 Pro are now dirt cheap as they drop to their lowest price yet",
-        "url": "https://www.androidpolice.com/samsung-galaxy-buds-4-pro-170-deal/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1780669186000,
-        "summary": "The 32% discount comes with one caveat",
-        "tags": [
-          "samsung galaxy buds 4 pro",
-          "under $300",
-          "accessories",
-          "best deals under $300"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9932
       }
     ],
     "innovation": [
@@ -1094,6 +1093,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9439
+      },
+      {
+        "id": "023b41c3493c7ea4",
+        "title": "ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status | ICE plans to give potentially more than a thousand agencies access to a facial recognition app that verifies a person's immigration status.",
+        "url": "https://www.reddit.com/r/technology/comments/1txvg2z/ices_plan_to_let_cops_around_the_country_scan/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780688970000,
+        "summary": "submitted by /u/ControlCAD [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9296
       },
       {
         "id": "9d0b8e0610481f3e",
@@ -1930,21 +1944,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0657
-      },
-      {
-        "id": "cc4b980c6d4ee9e4",
-        "title": "Jensen Huang says 'every edge device will become autonomous' — Nvidia maps one computing pattern from the cloud to robotics",
-        "url": "https://www.tomshardware.com/tech-industry/jensen-huang-says-every-edge-device-will-become-autonomous",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1780657200000,
-        "summary": "\"There's a new computing pattern,\" the Nvidia CEO told reporters at a press gaggle the day after his GTC Taipei keynote.",
-        "tags": [
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9374
       }
     ],
     "ai": [
@@ -3801,35 +3800,34 @@
         "score": 1.0017
       },
       {
-        "id": "f05edd2dfd0ecc1b",
-        "title": "PyCC.id: A package for hypothesis-driven equation discovery with structural identifiability",
-        "url": "https://arxiv.org/abs/2606.05191",
+        "id": "c50feeabd929352b",
+        "title": "Learning Manifold and It\\^o Dynamics with Branched Neural Rough Differential Equations",
+        "url": "https://arxiv.org/abs/2606.05272",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1780632000000,
-        "summary": "arXiv:2606.05191v1 Announce Type: new Abstract: Data-driven equation discovery is fundamentally an inverse problem that seeks to infer the governing differential equations of a system directly from time-series measurements. A known issue is the ill-conditioned nature of the inverse problem, which frequently produces multiple mathematical models that fit the data similarly well. One path to address",
-        "tags": [
-          "cs.lg",
-          "eess.sp"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7593
-      },
-      {
-        "id": "83a151222f4bfcee",
-        "title": "State commitment learning: training language models to distinguish computation from memory",
-        "url": "https://arxiv.org/abs/2606.05201",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780632000000,
-        "summary": "arXiv:2606.05201v1 Announce Type: new Abstract: Reasoning language models do not distinguish tokens used for computation from tokens that constitute persistent state: once generated, all hidden thoughts remain in context and influence future predictions. As a result, downstream reasoning may depend on failed attempts, dead ends, and private scratch work that should not be safely relied on later. W",
+        "summary": "arXiv:2606.05272v1 Announce Type: new Abstract: Neural rough differential equations (NRDEs) stay accurate under irregular sampling while taking far fewer integration steps than standard neural differential equations, summarising a finely sampled driver by its log-signature and advancing the hidden state over coarse intervals using the log-ODE method. This efficiency rests on the shuffle algebra, t",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7593
+        "score": 0.8182
+      },
+      {
+        "id": "d9e5081224a48e9a",
+        "title": "SCI-PRM: A Tool Aware Process Reward Model for Scientific Reasoning Verification",
+        "url": "https://arxiv.org/abs/2606.04579",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780632000000,
+        "summary": "arXiv:2606.04579v1 Announce Type: new Abstract: While Process Reward Models (PRMs) have achieved remarkable success in mathematical reasoning, their application in complex scientific domains-such as biology, chemistry, and physics remains largely unexplored. Scientific problems demand not only logical rigor but also factual consistency and the precise usage of domain-specific tools, areas where cu",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7576
       }
     ]
   },
