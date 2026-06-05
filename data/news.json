@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T09:08:59.140955+00:00",
+  "generated_at": "2026-06-05T09:24:03.204698+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -990,6 +990,21 @@
     ],
     "innovation": [
       {
+        "id": "b541ab850dd294f2",
+        "title": "UK's top crime agency hamstrung by legacy IT, watchdog warns",
+        "url": "https://www.theregister.com/public-sector/2026/06/05/uks-top-crime-agency-hamstrung-by-legacy-it-watchdog-warns/5251155",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1780650900000,
+        "summary": "Regulator says NCA's aging tech drags down productivity, forces officers to juggle hardware and do manual workarounds",
+        "tags": [
+          "public sector"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.047
+      },
+      {
         "id": "d4d626508a2d39ac",
         "title": "Nvidia’s Jensen Huang flags robotics as Korea’s next growth engine",
         "url": "https://thenextweb.com/news/nvidia-huang-robotics-south-korea",
@@ -1903,22 +1918,56 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7428
-      },
-      {
-        "id": "ede2149ec8a2ba60",
-        "title": "Belkin's Pricey New Battery Grip Makes My Switch 2 Feel Like a Steam Deck",
-        "url": "https://www.cnet.com/tech/gaming/belkins-pricey-new-battery-grip-makes-my-switch-2-feel-like-a-steam-deck/",
-        "source": "CNET",
-        "lane": "innovation",
-        "published_ts": 1780588951000,
-        "summary": "The $100 accessory includes a snap-on battery and large grips, but it makes the Switch 2 a bulky boy.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8656
       }
     ],
     "ai": [
+      {
+        "id": "59799e1db53fbe69",
+        "title": "Anthropic proposes a global slowdown of AI development",
+        "url": "https://www.engadget.com/2188066/anthropic-proposes-global-ai-development-slowdown/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1780651140000,
+        "summary": "Anthropic warns that AIs will soon be able to build their own successor, and it's suggesting that companies may have to slow down development.",
+        "tags": [
+          "news"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7591
+      },
+      {
+        "id": "5ed56f9562ae8954",
+        "title": "AI without regret: Enabling speed, insight, and automation while maintaining control",
+        "url": "https://www.techradar.com/pro/ai-without-regret-enabling-speed-insight-and-automation-while-maintaining-control",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780651061000,
+        "summary": "Sovereign cloud promises questioned: can hyperscalers truly guarantee data independence?",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9161
+      },
+      {
+        "id": "62d94e8cd4ce8011",
+        "title": "Are AI chatbots making us lose control of our brains?",
+        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+        "source": "MIT Technology Review",
+        "lane": "ai",
+        "published_ts": 1780650000000,
+        "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+        "tags": [
+          "biotechnology and health",
+          "app",
+          "summary"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1253
+      },
       {
         "id": "7764310b323840e1",
         "title": "Indiana mayor secretly recorded saying AI data center protestors only live in 'sh***y' houses — office issues statement of clarification over controversial comments",
@@ -1991,6 +2040,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0914
+      },
+      {
+        "id": "762d754fc88d8d57",
+        "title": "Satya Nadella ‘not sure’ who said Microsoft wanted to make addictive AI, is looking for guy who did this",
+        "url": "https://www.reddit.com/r/technology/comments/1txevk9/satya_nadella_not_sure_who_said_microsoft_wanted/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1780648043000,
+        "summary": "submitted by /u/marketrent [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0075
       },
       {
         "id": "3bac306796d8066e",
@@ -2777,74 +2841,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.006
-      },
-      {
-        "id": "5c248df38a272308",
-        "title": "ChatGPT's memory is getting better, especially if you're on the free tier",
-        "url": "https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1780604539000,
-        "summary": "OpenAI has significantly improved the chatbot's \"dreaming\" architecture.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.701
-      },
-      {
-        "id": "99246d2d23f0afc3",
-        "title": "Many US tech firms are turning to China's DeepSeek as the bill for homegrown AI bites – American AI companies could learn a thing or two",
-        "url": "https://www.techradar.com/pro/many-us-tech-firms-are-turning-to-chinas-deepseek-as-the-bill-for-homegrown-ai-bites-american-ai-companies-could-learn-a-thing-or-two",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1780604400000,
-        "summary": "American models are simply too expensive – US firms are now turning to DeepSeek for cheaper costs and portability.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9134
-      },
-      {
-        "id": "e5974234fc634a94",
-        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-        "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1780603880000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:24"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3534
-      },
-      {
-        "id": "7ff2a67c1aed0162",
-        "title": "OpenAI’s Codex helps discover HTTP/2 Bomb DoS attack that can nuke over 30GB of RAM within seconds, knocking web servers offline before they can react",
-        "url": "https://www.techradar.com/pro/security/openais-codex-helps-discover-http-2-bomb-dos-attack-that-can-nuke-over-30gb-of-ram-within-seconds-knocking-web-servers-offline-before-they-can-react",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1780603800000,
-        "summary": "A new attack technique affects HTTP/2 configurations of major web servers, but some have released patches already.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.848
       }
     ],
     "science": [
+      {
+        "id": "6e10d121e5799063",
+        "title": "North Atlantic spring storms have grown more common since 1940, analysis reveals",
+        "url": "https://phys.org/news/2026-06-north-atlantic-storms-grown-common.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780651054000,
+        "summary": "Storm Dave, which swept across northern Europe over the Easter weekend, is an example of what new research from the University of Gothenburg has revealed. Spring storms forming over the North Atlantic have become more common than they were 80 years ago, and this is due to climate change.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0179
+      },
       {
         "id": "198e4f1218323c50",
         "title": "How 'asymmetric alloying' is creating the next generation of luminescent materials",
@@ -3746,21 +3760,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.976
-      },
-      {
-        "id": "cc3b759aadcc65bf",
-        "title": "'Out-of-place' rocks reveal how a young ocean formed",
-        "url": "https://phys.org/news/2026-06-reveal-young-ocean.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780590004000,
-        "summary": "Deep below the Tyrrhenian Sea offshore Italy, scientists drilled into what they thought would be dark mantle rock—and found pieces of granite that seemingly had no business being there. Those unexpected intrusions turned out to offer a rare glimpse of how a massive fault rapidly pulled deep Earth rocks toward the surface during the opening of a young ocean basin.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.014
       }
     ]
   },
