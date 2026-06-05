@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T10:44:49.892410+00:00",
+  "generated_at": "2026-06-05T10:54:20.137040+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -951,6 +951,24 @@
         "score": 0.9888
       },
       {
+        "id": "cf1e977320b75cc7",
+        "title": "Windows is back on the Microsoft menu",
+        "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1780588800000,
+        "summary": "I can't remember the last time Microsoft kicked off a Build keynote with Windows front and center, but that's exactly what CEO Satya Nadella did this week. Nadella didn't address the issues Microsoft is trying to fix in Windows 11 but chose to woo the audience with Microsoft's slick Surface RTX Spark Dev Kit instead, […]",
+        "tags": [
+          "microsoft",
+          "microsoft build",
+          "notepad",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.5503
+      },
+      {
         "id": "22b692bfe3af8f04",
         "title": "Marshall Milton ANC review: Making the rare case for premium on-ear headphones",
         "url": "https://www.engadget.com/2187478/marshall-milton-anc-review/",
@@ -964,26 +982,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.4907
-      },
-      {
-        "id": "68d9da10403171fa",
-        "title": "Cash App made a magic wand for contactless payments",
-        "url": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1780588800000,
-        "summary": "The convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an NFC-enabled, iridescent, star-topped wand that allows users to make on-the-go payments without pulling out their phone or card. This plays on a popular […]",
-        "tags": [
-          "gadgets",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7823
       }
     ],
     "innovation": [
+      {
+        "id": "a3eafb7668b1c48d",
+        "title": "Capita £370M bid 40% under UK.gov estimate for Oracle HR and finance system project, court case reveals",
+        "url": "https://www.theregister.com/saas/2026/06/05/capita-370m-bid-40-under-ukgov-estimate-for-oracle-hr-and-finance-system-project-court-case-reveals/5251226",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1780656300000,
+        "summary": "Cost model designed to protect against low-cost bid bias, claims rival",
+        "tags": [
+          "saas"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0469
+      },
       {
         "id": "e682427809e724a8",
         "title": "Illinois Governor JB Pritzker plans to temporarily halt tax breaks for data centers from July 1, calling on state lawmakers to create a development framework (Natasha Korecki/NBC News)",
@@ -1897,22 +1913,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9354
-      },
-      {
-        "id": "9a17b46d5388e137",
-        "title": "Arizona Public Service, the state's largest utility, proposes a 45% electricity-rate increase for data centers to ensure \"that they are paying their fair share\" (Jennifer Hiller/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260604/p38#a260604p38",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780594200000,
-        "summary": "Jennifer Hiller / Wall Street Journal: Arizona Public Service, the state's largest utility, proposes a 45% electricity-rate increase for data centers to ensure “that they are paying their fair share” — State's largest utility is proposing a 45% electricity-rate increase for data centers and a 14.5% hike for households.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9979
       }
     ],
     "ai": [
+      {
+        "id": "a43469a59b165cf7",
+        "title": "Sources say a months-long dispute between the White House and Anthropic is showing signs of easing across the US government as the company prepares for its IPO (Reuters)",
+        "url": "https://www.techmeme.com/260605/p8#a260605p8",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780656610000,
+        "summary": "Reuters: Sources say a months-long dispute between the White House and Anthropic is showing signs of easing across the US government as the company prepares for its IPO — A months-long dispute between Trump administration officials and AI firm Anthropic is showing signs of easing across parts …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0786
+      },
+      {
+        "id": "fc09941dba8d9080",
+        "title": "Google experiments with sending Chrome searches straight to AI",
+        "url": "https://www.engadget.com/2188080/chrome-canary-reportedly-sending-search-straight-to-ai/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1780656488000,
+        "summary": "Google seems to be testing a new feature that will take you to AI Mode by default when you do a search in Chrome.",
+        "tags": [
+          "news",
+          "google"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7588
+      },
       {
         "id": "e15d9b8602b9eab2",
         "title": "OpenAI's Sam Altman Meets With Trump in Wake of Executive Order on AI",
@@ -2791,41 +2823,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8496
-      },
-      {
-        "id": "28eb8e2afb4b9442",
-        "title": "Canada wants to make its own AI, break free from US bots",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/04/canada-wants-its-own-ai-less-reliance-on-us-tech/5251404",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1780610218000,
-        "summary": "Another ally questions reliance on American AI",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1095
-      },
-      {
-        "id": "708cd32289c716ee",
-        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-        "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1780608600000,
-        "summary": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo. Investors, founders, and tech leaders will gather for an evening of conversations exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot h",
-        "tags": [
-          "tc",
-          "startups",
-          "security",
-          "space",
-          "venture",
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8052
       }
     ],
     "science": [
