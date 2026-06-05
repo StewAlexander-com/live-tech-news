@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:22:49.945873+00:00",
+  "generated_at": "2026-06-05T22:39:39.875226+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -16,6 +16,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7026
+      },
+      {
+        "id": "03168f972249f18f",
+        "title": "Resident Evil: Code Veronica Finally Gets a Remake",
+        "url": "https://www.cnet.com/tech/gaming/resident-evil-code-veronica-remake/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1780697220000,
+        "summary": "The next Resident Evil remake is coming next year.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8115
       },
       {
         "id": "0919117bedc6bbc4",
@@ -961,25 +974,28 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7916
-      },
-      {
-        "id": "aa674b495bfbd1d7",
-        "title": "The Future Game Show Summer Showcase airs tomorrow and will offer an extended look at Exodus, plus new trailers and big game announcements — here's when you can tune in",
-        "url": "https://www.techradar.com/gaming/gaming-industry/the-future-game-show-summer-showcase-airs-tomorrow-and-will-offer-an-extended-look-at-exodus-as-well-reveal-new-trailers-and-game-announcements-heres-when-you-can-tune-in",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780672894000,
-        "summary": "It's almost time for the annual Future Game Show Summer Showcase. Here's how you can watch and what to expect.",
-        "tags": [
-          "gaming industry",
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8397
       }
     ],
     "innovation": [
+      {
+        "id": "0e48e8ac055a3930",
+        "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
+        "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1780698901000,
+        "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+        "tags": [
+          "tc",
+          "venture",
+          "manus ai",
+          "microsoft",
+          "reid hoffman"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8066
+      },
       {
         "id": "c30caf9f15668c4b",
         "title": "I found the Linux app store nobody mentions and it has more packages than Flathub",
@@ -1921,24 +1937,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8467
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "218721d2f4f16685",
-        "title": "Netflix Stock Nears 52-Week Low as Ad Growth and Cash Flow Strength Spark Buy Debate",
-        "url": "https://www.reddit.com/r/technology/comments/1txkeu0/netflix_stock_nears_52week_low_as_ad_growth_and/",
+        "id": "3abea5dcc80da1fe",
+        "title": "'At some point you've got to make money': Goldman's top AI skeptic warns the clock is running out ahead of OpenAI and Anthropic IPOs",
+        "url": "https://www.reddit.com/r/technology/comments/1txyxd5/at_some_point_youve_got_to_make_money_goldmans/",
         "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1780664659000,
-        "summary": "submitted by /u/yourfavchoom [link] [comments]",
+        "lane": "ai",
+        "published_ts": 1780696983000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
         "tags": [
           "technology"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9357
-      }
-    ],
-    "ai": [
+        "score": 1.014
+      },
       {
         "id": "6c804dabb765461e",
         "title": "Marvell and Flex, a contract manufacturer for electronics, will join the S&P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off (Kif Leswing/CNBC)",
@@ -2863,21 +2879,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9115
-      },
-      {
-        "id": "eb5bb2575ebd9c80",
-        "title": "China Mobile Jiangsu and ZTE unveil intelligent complaint analysis agent to reshape core network O&M",
-        "url": "https://www.theregister.com/networks/2026/06/05/china-mobile-jiangsu-and-zte-unveil-intelligent-complaint-analysis-agent-to-reshape-core-network-om/5251564",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1780671229000,
-        "summary": "PARTNER CONTENT: Leveraging multi-modal LLMs and agent technology to automate signaling analysis and shift core network O&M from experience to knowledge-driven",
-        "tags": [
-          "networks"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0006
       }
     ],
     "science": [
