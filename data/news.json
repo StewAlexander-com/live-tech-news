@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T22:42:50.176004+00:00",
+  "generated_at": "2026-06-06T22:57:39.908159+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -967,6 +967,36 @@
     ],
     "innovation": [
       {
+        "id": "e6f242b22cbd4c0f",
+        "title": "Jeff Bezos says it's 'absurd' to tax someone making $50K — and wants their tax bill dropped to zero",
+        "url": "https://www.reddit.com/r/technology/comments/1tyv6r8/jeff_bezos_says_its_absurd_to_tax_someone_making/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780786002000,
+        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9467
+      },
+      {
+        "id": "dcc78527d85d1897",
+        "title": "EU's Tech Sovereignty Package Includes 29 Pages on Open Source, Says Open Source Initiative",
+        "url": "https://news.slashdot.org/story/26/06/06/0618217/eus-tech-sovereignty-package-includes-29-pages-on-open-source-says-open-source-initiative?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1780785600000,
+        "summary": "Friday the Open Source Initiative welcomed the EU's new tech sovereignty package, noting that \"over a third of the 29-page document is devoted to Open Source.\" The nonprofit OSI — maintainers of the Open Source definition — submitted their official feedback in February, and notes that \"many\" of their key requests were addressed, \"as well as some exciting new announcements!\" One of the biggest barr",
+        "tags": [
+          "eu"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0441
+      },
+      {
         "id": "3443cf97ebf27683",
         "title": "I turned off 5 default Windows 11 features and freed up nearly 1GB of RAM immediately",
         "url": "https://www.makeuseof.com/turned-off-default-windows-11-features-freed-up-nearly-2gb-ram/",
@@ -1900,39 +1930,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0784
-      },
-      {
-        "id": "87991ba5151984d6",
-        "title": "Nintendo Confirms EU‑Only Switch 2 Revision With User‑Replaceable Batteries",
-        "url": "https://www.reddit.com/r/technology/comments/1ty3wtf/nintendo_confirms_euonly_switch_2_revision_with/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1780710128000,
-        "summary": "submitted by /u/Ephoenix6 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9205
-      },
-      {
-        "id": "e4eb872327a57423",
-        "title": "Elizabeth Warren And Other Democrats Press Treasury Secretary Scott Bessent For Foreign Ownership Review Of Paramount-Warner Bros. Discovery Merger",
-        "url": "https://www.reddit.com/r/technology/comments/1ty37z4/elizabeth_warren_and_other_democrats_press/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1780708156000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.933
       }
     ],
     "ai": [
+      {
+        "id": "4b1366f52e1adc38",
+        "title": "Report: in May, supply of unsecured bonds from hyperscalers passed $155B, up over 45% from 2025's total issuance; some AI-infra bond sales are 4x oversubscribed (Caleb Mutua/Bloomberg)",
+        "url": "https://www.techmeme.com/260606/p11#a260606p11",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780786501000,
+        "summary": "Caleb Mutua / Bloomberg: Report: in May, supply of unsecured bonds from hyperscalers passed $155B, up over 45% from 2025's total issuance; some AI-infra bond sales are 4x oversubscribed — Credit heavyweights like DoubleLine Capital LP and Oaktree Capital Management are buying debt now that can perform …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0791
+      },
       {
         "id": "6b8ac0ee73c94f36",
         "title": "Quote of the day by Nvidia CEO, Jensen Huang: \"I appreciate that many of us grew up and enjoyed science fiction, but it's not helpful\" — on quantifying the existential risks posed by AI",
@@ -2832,6 +2845,38 @@
         "score": 1.076
       },
       {
+        "id": "1dccbc36d7ccee11",
+        "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+        "url": "https://arxiv.org/abs/2606.05357",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780718400000,
+        "summary": "arXiv:2606.05357v1 Announce Type: new Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from the Osteoarthritis Initiative (OAI). Materials and Methods: We first developed a deep learning frame",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7872
+      },
+      {
+        "id": "a644847bf57f0c33",
+        "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
+        "url": "https://arxiv.org/abs/2606.05400",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780718400000,
+        "summary": "arXiv:2606.05400v1 Announce Type: new Abstract: Long-horizon autoformalization of research mathematics fails not only at hard lemmas, but at scale: statements drift, dependencies tangle, context decays, and local repairs corrupt distant work. We present LeanMarathon, a multi-agent harness for reliable research-level Lean autoformalization. Its core abstraction is an evolving blueprint: a Lean file",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7872
+      },
+      {
         "id": "145931a803e876be",
         "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
         "url": "https://arxiv.org/abs/2606.05256",
@@ -2845,53 +2890,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7909
-      },
-      {
-        "id": "68b80bc370508ed8",
-        "title": "Harnessing Generalist Agents for Contextualized Time Series",
-        "url": "https://arxiv.org/abs/2606.05404",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05404v1 Announce Type: new Abstract: Time series are often embedded in rich contexts that are essential for holistic modeling. Moreover, real-world practitioners often require end-to-end workflows for analyzing temporal dynamics, where widely studied tasks such as forecasting are only one step in a broader solution loop. While generalist AI agents offer a promising interface for such wo",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7909
-      },
-      {
-        "id": "a5632717bc7242d5",
-        "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-        "url": "https://arxiv.org/abs/2606.05334",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support deg",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7936
-      },
-      {
-        "id": "5deb028a31d853ee",
-        "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-        "url": "https://arxiv.org/abs/2606.05342",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wrong approach for many long-running tasks, which are better served by a strategy of",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7936
       }
     ],
     "science": [
