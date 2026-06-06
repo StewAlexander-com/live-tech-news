@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-06-06T19:58:26.661122+00:00",
+  "generated_at": "2026-06-06T20:03:04.524942+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d5da14e28e601bbe",
+        "title": "I stopped fighting with my roommates the moment I started using these apps",
+        "url": "https://www.androidpolice.com/i-stopped-fighting-with-my-roommates-the-moment-i-started-using-these-apps/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1780776012000,
+        "summary": "All it took was some creative thinking and a handful of free apps",
+        "tags": [
+          "delivery",
+          "lists",
+          "smart thermostat",
+          "productivity",
+          "lists"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9991
+      },
+      {
+        "id": "93e4f261223933ed",
+        "title": "Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones",
+        "url": "https://www.reddit.com/r/technology/comments/1tyqpvb/meta_silently_added_facerecognition_code_for_its/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1780774757000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9428
+      },
       {
         "id": "98477c64a408e58b",
         "title": "‘We crossed that about 3 months ago': A16z's Marc Andreessen drops huge bombshell about AGI on Joe Rogan's podcast",
@@ -670,7 +704,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0287
+        "score": 1.143
       },
       {
         "id": "5964b9cff094326e",
@@ -930,40 +964,45 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8477
-      },
-      {
-        "id": "6152dbf6d8bf04f5",
-        "title": "‘Communities across the UK are paying the price for this criminal behaviour': Openreach teams up with metal recycling giant to tackle UK's £4bn a decade cable theft problem",
-        "url": "https://www.techradar.com/pro/communities-across-the-uk-are-paying-the-price-for-this-criminal-behaviour-openreach-teams-up-with-metal-recycling-giant-to-tackle-uks-gbp4bn-a-decade-cable-theft-problem",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780726800000,
-        "summary": "Openreach is fighting the escalating £500m yearly cable theft problem with new partnerships, DNA tracing and grid alarms.",
-        "tags": [
-          "pro",
-          "phone &amp; communications"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8342
-      },
-      {
-        "id": "62494ba14dc56946",
-        "title": "LaCie 8big Pro5 review: I tested LaCie’s huge 256TB DAS solution, and it's ideal for 8K video editing but it comes with a price tag that's just as big",
-        "url": "https://www.techradar.com/pro/lacie-8big-pro5-das-review",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1780726200000,
-        "summary": "The LaCie 8big Pro5 is a RAID-ready DAS solution that offers huge amounts of storage that’s easy to manage and use, both in the studio and on set.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8315
       }
     ],
     "innovation": [
+      {
+        "id": "cf984eb2f51001ca",
+        "title": "Pi Pico Puts Bluetooth Keyboards on the I2C Bus",
+        "url": "https://hackaday.com/2026/06/06/pi-pico-puts-bluetooth-keyboards-on-the-i2c-bus/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1780776045000,
+        "summary": "If you’ve ever worked with I2C, you know its one of those things that makes working with modern microcontrollers such a pleasure. With a few wires and not many more …read more",
+        "tags": [
+          "microcontrollers",
+          "peripherals hacks",
+          "blackberry keyboard",
+          "bluetooth",
+          "bluetooth keyboard",
+          "i2c"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0792
+      },
+      {
+        "id": "808e5f5f83eab2e2",
+        "title": "I added one attachment to my UV printer and it became a completely different machine",
+        "url": "https://www.makeuseof.com/i-added-one-attachment-to-my-uv-printer-and-it-became-a-completely-different-machine/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1780776020000,
+        "summary": "It's like being able to print on things that don't fit in the printer",
+        "tags": [
+          "creative",
+          "printing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8493
+      },
       {
         "id": "6d44e91356fcb1a5",
         "title": "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
@@ -1896,36 +1935,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0766
-      },
-      {
-        "id": "087443a44c76ef8c",
-        "title": "The US Military Quietly Turned GPS Into a Global 'Numbers Station,' Evidence Suggests",
-        "url": "https://tech.slashdot.org/story/26/06/05/211249/the-us-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1780700400000,
-        "summary": "A security researcher says evidence suggests the U.S. military has been using an obscure GPS message field for nearly 20 years to broadcast encrypted key-distribution data, effectively turning GPS satellites into a global \"numbers station.\" The hidden-looking 176-bit messages appear tied to the Pentagon's Over-the-Air Distribution system for remotely updating cryptographic keys, meaning ordinary G",
-        "tags": [
-          "communications"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0466
-      },
-      {
-        "id": "ca1bd0774c36085b",
-        "title": "Start spreading the news: Datacenters may face one-year ban in NY",
-        "url": "https://www.theregister.com/legal/2026/06/05/new-york-advances-one-year-datacenter-permit-moratorium/5251911",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1780698916000,
-        "summary": "The bill awaits Gov. Hochul's signature after passing the state legislature",
-        "tags": [
-          "legal"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9815
       }
     ],
     "ai": [
@@ -2887,6 +2896,21 @@
     ],
     "science": [
       {
+        "id": "4798486cbd29a3e3",
+        "title": "Infrastructure for African mines destroying forests at 34 times the rate of the mines themselves",
+        "url": "https://phys.org/news/2026-06-infrastructure-african-destroying-forests.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780776003000,
+        "summary": "Industrial-scale mining in Africa to support global supply chains is leading to unprecedented deforestation across the continent, with 34 hectares of forest removed for every single hectare of active mine site.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.019
+      },
+      {
         "id": "d0cd99df29a58026",
         "title": "Previously unknown detoxification pathway for chloromethane revealed",
         "url": "https://phys.org/news/2026-06-previously-unknown-detoxification-pathway-chloromethane.html",
@@ -3765,21 +3789,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0188
-      },
-      {
-        "id": "43064d180563acd1",
-        "title": "Portsmouth's wartime Railwaywomen: Postcard documents women who kept railways running during WWI",
-        "url": "https://phys.org/news/2026-06-portsmouth-wartime-railwaywomen-postcard-documents.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780675201000,
-        "summary": "A newly discovered photographic postcard showing women who kept Portsmouth's railways running during the First World War has been revealed by a researcher at the University of Portsmouth—and he is appealing to local people to help identify those in the image.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0123
       }
     ]
   },
