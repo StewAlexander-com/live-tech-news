@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T20:14:02.390400+00:00",
+  "generated_at": "2026-06-06T20:35:06.098790+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1016,6 +1016,19 @@
         "score": 0.8493
       },
       {
+        "id": "c56ad5de3ddca0cd",
+        "title": "Therabody Launches CryoTherm Palm for Faster Recovery During Your Workouts",
+        "url": "https://www.cnet.com/health/therabody-cryotherm-palm/",
+        "source": "CNET",
+        "lane": "innovation",
+        "published_ts": 1780776000000,
+        "summary": "The 3-in-1 handheld device offers cooling and heating therapy elements.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8108
+      },
+      {
         "id": "6d44e91356fcb1a5",
         "title": "Trump Lawyer Argues Trump Can Tear Down Statue of Liberty",
         "url": "https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer",
@@ -1911,27 +1924,41 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7908
-      },
-      {
-        "id": "a0734bb9b92cb628",
-        "title": "The best historical drama on Netflix has no action scenes — and it's a masterpiece",
-        "url": "https://www.makeuseof.com/masterpiece-historical-drama-netflix-the-dig-no-action/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1780700418000,
-        "summary": "The Dig is a quietly thrilling period piece that deserves a lot more eyes on it.",
-        "tags": [
-          "streaming",
-          "netflix",
-          "drama",
-          "history"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8474
       }
     ],
     "ai": [
+      {
+        "id": "33c9a31a825745ec",
+        "title": "Ladybird Browser Stops Accepting Public Pull Requests",
+        "url": "https://news.slashdot.org/story/26/06/06/2025214/ladybird-browser-stops-accepting-public-pull-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1780778040000,
+        "summary": "The Ladybird browser isn't opposed to AI coding tools, but it's just brought a new change to their code-contributing policies. February 23: \"Ladybird adopts Rust, with help from AI.\" I used Claude Code and Codex for the translation. This was human-directed, not autonomous code generation. I decided what to port, in what order, and what the Rust code should look like. It was hundreds of small promp",
+        "tags": [
+          "opensource"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1336
+      },
+      {
+        "id": "8fa2b64c623c531d",
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1780777944000,
+        "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+        "tags": [
+          "ai",
+          "security",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7474
+      },
       {
         "id": "285d52d290d2b9e8",
         "title": "The Trump administration is reportedly in talks about taking a stake in OpenAI",
@@ -2855,37 +2882,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9056
-      },
-      {
-        "id": "153b1b672889b0cf",
-        "title": "Google To Pay SpaceX $920 Million Per Month For Massive AI Compute Power",
-        "url": "https://www.reddit.com/r/technology/comments/1ty5y4s/google_to_pay_spacex_920_million_per_month_for/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780716036000,
-        "summary": "submitted by /u/DerpiDanger [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9994
-      },
-      {
-        "id": "69719023263d1233",
-        "title": "Scientists map more than 200 years of nature's progress",
-        "url": "https://phys.org/news/2026-06-scientists-years-nature.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780713601000,
-        "summary": "Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and Clark's legendary journey to see how America's wildlife has changed over the past 200 years.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0068
       }
     ],
     "science": [
