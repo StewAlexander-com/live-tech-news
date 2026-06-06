@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T22:32:14.373489+00:00",
+  "generated_at": "2026-06-06T22:42:50.176004+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -999,6 +999,21 @@
         "score": 1.0455
       },
       {
+        "id": "09918e148b01bd6b",
+        "title": "US-backed microreactor reaches criticality in major nuclear step",
+        "url": "https://www.reddit.com/r/technology/comments/1tytcld/usbacked_microreactor_reaches_criticality_in/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1780781262000,
+        "summary": "submitted by /u/_Dark_Wing [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9274
+      },
+      {
         "id": "c69e78dc2153fd25",
         "title": "Audi’s 1,001 PS Nuvolari is its fastest car ever, and it’s not electric",
         "url": "https://thenextweb.com/news/audi-nuvolari-supercar-hybrid-1001ps",
@@ -1915,19 +1930,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.933
-      },
-      {
-        "id": "1974f45fb52cd154",
-        "title": "Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting (Akash Girimath/Decrypt)",
-        "url": "https://www.techmeme.com/260605/p35#a260605p35",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780705801000,
-        "summary": "Akash Girimath / Decrypt: Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting — Zcash plunged double digits overnight after developers disclosed a critical vulnerability in the protocol's Orchard shielded pool …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9851
       }
     ],
     "ai": [
@@ -2830,6 +2832,38 @@
         "score": 1.076
       },
       {
+        "id": "145931a803e876be",
+        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+        "url": "https://arxiv.org/abs/2606.05256",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780718400000,
+        "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7909
+      },
+      {
+        "id": "68b80bc370508ed8",
+        "title": "Harnessing Generalist Agents for Contextualized Time Series",
+        "url": "https://arxiv.org/abs/2606.05404",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780718400000,
+        "summary": "arXiv:2606.05404v1 Announce Type: new Abstract: Time series are often embedded in rich contexts that are essential for holistic modeling. Moreover, real-world practitioners often require end-to-end workflows for analyzing temporal dynamics, where widely studied tasks such as forecasting are only one step in a broader solution loop. While generalist AI agents offer a promising interface for such wo",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7909
+      },
+      {
         "id": "a5632717bc7242d5",
         "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
         "url": "https://arxiv.org/abs/2606.05334",
@@ -2858,38 +2892,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7936
-      },
-      {
-        "id": "1dccbc36d7ccee11",
-        "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-        "url": "https://arxiv.org/abs/2606.05357",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05357v1 Announce Type: new Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from the Osteoarthritis Initiative (OAI). Materials and Methods: We first developed a deep learning frame",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7937
-      },
-      {
-        "id": "a644847bf57f0c33",
-        "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
-        "url": "https://arxiv.org/abs/2606.05400",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05400v1 Announce Type: new Abstract: Long-horizon autoformalization of research mathematics fails not only at hard lemmas, but at scale: statements drift, dependencies tangle, context decays, and local repairs corrupt distant work. We present LeanMarathon, a multi-agent harness for reliable research-level Lean autoformalization. Its core abstraction is an evolving blueprint: a Lean file",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7937
       }
     ],
     "science": [
