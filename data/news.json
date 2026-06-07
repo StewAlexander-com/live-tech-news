@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-07T18:48:28.480999+00:00",
+  "generated_at": "2026-06-07T19:10:28.320585+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "86f32ce2caa9a8b8",
+        "title": "The Scuf Omega is a great PS5 controller, but its price and some annoying design quirks make it difficult to fully recommend",
+        "url": "https://www.techradar.com/gaming/scuf-omega-review",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1780858800000,
+        "summary": "The Scuf Omega excels at providing a premium gaming experience, but I can’t help but lurch at the price and some of its design choices.",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8471
+      },
+      {
+        "id": "cfcadfb22d2e3b0c",
+        "title": "Persona 4 Revival gets an official release date for February 2027",
+        "url": "https://www.engadget.com/2189066/persona-4-revival-gets-an-official-release-date-for-february-2027/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1780858249000,
+        "summary": "The pre-order trailer also revealed new voice actors.",
+        "tags": [
+          "xbox"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6996
+      },
       {
         "id": "d9dc4083d0924201",
         "title": "The 7 biggest storylines from Summer Game Fest 2026",
@@ -925,38 +955,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9964
-      },
-      {
-        "id": "f3b495f3b855f0e8",
-        "title": "Russia’s new ‘Starlink‑Style’ Rassvet fleet loses its first satellite after weeks — Object 4 drops out of orbit but 15 others remain",
-        "url": "https://www.tomshardware.com/tech-industry/russias-rassvet-constellation-loses-its-first-satellite-to-orbital-decay",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1780833600000,
-        "summary": "Object 4, one of 16 satellites in the first operational batch of Russia's Rassvet broadband network, re-entered Earth's atmosphere on approximately June 6th.",
-        "tags": [
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0223
-      },
-      {
-        "id": "10271e93a9185d31",
-        "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95 — proves 2007 phones can just about match 1998 PCs",
-        "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1780831989000,
-        "summary": "Argentine developer Dante Leoncini has gotten the original Half-Life running at 30 FPS on a Nokia N95, the Symbian slider phone that launched in 2007.",
-        "tags": [
-          "handheld gaming",
-          "video games",
-          "console gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9488
       }
     ],
     "innovation": [
@@ -1930,6 +1928,72 @@
     ],
     "ai": [
       {
+        "id": "084631b5f1d047e4",
+        "title": "‘Access to education across different cultures and languages needs to be improved’: IEEE award winner’s best work came from identifying issues, and fixing them",
+        "url": "https://www.techradar.com/pro/access-to-education-across-different-cultures-and-languages-needs-to-be-improved-ieee-award-winners-best-work-came-from-identifying-issues-and-fixing-them",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780859100000,
+        "summary": "Karen Panetta’s uses technology to solve the world’s most pressing problems – more citizens need access to STEM education and AI training.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9164
+      },
+      {
+        "id": "0f5b80fec9a53802",
+        "title": "Gemini lied to me about my hobby, and that showed me what its real problem is",
+        "url": "https://www.androidpolice.com/gemini-lied-about-my-hobby-taught-me-valuable-lesson/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1780858815000,
+        "summary": "Everyone's a gangster until the chatbot starts making up special rules",
+        "tags": [
+          "google gemini",
+          "google",
+          "productivity"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9967
+      },
+      {
+        "id": "6687d9d25ce3f7ed",
+        "title": "Everyone treats Claude Code like one agent, but it can be an army",
+        "url": "https://www.makeuseof.com/everyone-treats-claude-code-like-one-agent-but-it-can-be-an-army/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1780858814000,
+        "summary": "Avengers, assemble.",
+        "tags": [
+          "productivity",
+          "claude",
+          "artificial intelligence",
+          "coding tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8472
+      },
+      {
+        "id": "70404efc15bfd131",
+        "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+        "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780857396000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:11"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0386
+      },
+      {
         "id": "c423fdbd646f8736",
         "title": "KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing (Wall Street Journal)",
         "url": "https://www.techmeme.com/260607/p8#a260607p8",
@@ -2797,72 +2861,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.3489
-      },
-      {
-        "id": "629ff909fce8145b",
-        "title": "Trump's latest memo puts 'most advanced AI in the world' into the military's hands",
-        "url": "https://www.engadget.com/2188929/trump-latest-memo-puts-most-advanced-ai-in-the-world-into-military-hands/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1780769666000,
-        "summary": "The memo also prevents companies from altering AI models being used by the military without prior approval.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7557
-      },
-      {
-        "id": "6b0c675696c05ac8",
-        "title": "‘Chasing every model release is a fool's errand and a fast track to AI fatigue inside your organisation’: GoodData.AI CTO says businesses should focus on automation use cases over every single new release",
-        "url": "https://www.techradar.com/pro/chasing-every-model-release-is-a-fools-errand-and-a-fast-track-to-ai-fatigue-inside-your-organisation-gooddata-ai-cto-says-businesses-should-focus-on-automation-use-cases-over-every-single-new-release",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1780768800000,
-        "summary": "GoodData.AI CTO Peter Fedorocko says AI is an efficiency amplifier that won't replace humans, but businesses must focus on real automation use cases.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9159
-      },
-      {
-        "id": "63c501bcbd93380b",
-        "title": "Anthropic is blacklisted by the Pentagon and being used by the NSA at the same time",
-        "url": "https://www.reddit.com/r/technology/comments/1tynzoc/anthropic_is_blacklisted_by_the_pentagon_and/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780768396000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9458
-      },
-      {
-        "id": "c6547736947cf7a0",
-        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1780767735000,
-        "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-        "tags": [
-          "ai",
-          "government & policy",
-          "donald trump",
-          "sriram krishnan"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8067
       }
     ],
     "science": [
+      {
+        "id": "be09b31781d0c4ea",
+        "title": "'Flawless on the outside, flipped within': Detecting hidden defects in 2D dielectrics with light",
+        "url": "https://phys.org/news/2026-06-flawless-flipped-hidden-defects-2d.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780858801000,
+        "summary": "A material may appear flawless on the surface yet fail to function properly. The cause lies in structural defects hidden within two-dimensional thin films, which are considered key materials for next-generation semiconductor devices. Recently, a Korean research team developed an optical analysis method that can identify these invisible defects using light.",
+        "tags": [
+          "nanomaterials"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0979
+      },
       {
         "id": "b481995abc3519bf",
         "title": "Wonderwerk Cave bones reveal possible fire use by human ancestors 1.79 million years ago",
@@ -3754,21 +3770,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8067
-      },
-      {
-        "id": "b7fa36a2de9755b4",
-        "title": "Did this star eat its planets? A new study offers clues on 'chemical paradox' of a binary system",
-        "url": "https://phys.org/news/2026-06-star-planets-clues-chemical-paradox.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780692001000,
-        "summary": "Astronomers have investigated a puzzling binary star system in which two stars that may have formed together now show dramatically different chemical compositions. The new study, uploaded to the arXiv preprint server on May 29, hints at the possibility that one of the stars may have swallowed its own planets.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
       }
     ]
   },
