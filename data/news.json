@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:00:32.669201+00:00",
+  "generated_at": "2026-06-07T00:18:55.143988+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1937,6 +1937,19 @@
     ],
     "ai": [
       {
+        "id": "f578fcda0810bb04",
+        "title": "Report: in May, supply of unsecured bonds from hyperscalers passed $155B YTD, up 45%+ from 2025's total issuance; some AI-infra bond sales are 4x oversubscribed (Caleb Mutua/Bloomberg)",
+        "url": "https://www.techmeme.com/260606/p11#a260606p11",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780786501000,
+        "summary": "Caleb Mutua / Bloomberg: Report: in May, supply of unsecured bonds from hyperscalers passed $155B YTD, up 45%+ from 2025's total issuance; some AI-infra bond sales are 4x oversubscribed — Credit heavyweights like DoubleLine Capital LP and Oaktree Capital Management are buying debt now that can perform …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0513
+      },
+      {
         "id": "4b1366f52e1adc38",
         "title": "Report: in May, supply of unsecured bonds from hyperscalers passed $155B, up over 45% from 2025's total issuance; some AI-infra bond sales are 4x oversubscribed (Caleb Mutua/Bloomberg)",
         "url": "https://www.techmeme.com/260606/p11#a260606p11",
@@ -2848,51 +2861,34 @@
         "score": 1.076
       },
       {
-        "id": "145931a803e876be",
-        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-        "url": "https://arxiv.org/abs/2606.05256",
+        "id": "a5632717bc7242d5",
+        "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+        "url": "https://arxiv.org/abs/2606.05334",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05256v1 Announce Type: new Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release ",
+        "summary": "arXiv:2606.05334v1 Announce Type: new Abstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support deg",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7714
+        "score": 0.7669
       },
       {
-        "id": "1dccbc36d7ccee11",
-        "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-        "url": "https://arxiv.org/abs/2606.05357",
+        "id": "5deb028a31d853ee",
+        "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+        "url": "https://arxiv.org/abs/2606.05342",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05357v1 Announce Type: new Abstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Score (MOAKS) prediction with interpretable statistical modeling to study structure-pain relationships at scale using data from the Osteoarthritis Initiative (OAI). Materials and Methods: We first developed a deep learning frame",
+        "summary": "arXiv:2606.05342v1 Announce Type: new Abstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior is continuous action: issuing tool calls, refreshing pages, searching for alternatives, or otherwise trying to force progress. This is the wrong approach for many long-running tasks, which are better served by a strategy of",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7714
-      },
-      {
-        "id": "a644847bf57f0c33",
-        "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
-        "url": "https://arxiv.org/abs/2606.05400",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1780718400000,
-        "summary": "arXiv:2606.05400v1 Announce Type: new Abstract: Long-horizon autoformalization of research mathematics fails not only at hard lemmas, but at scale: statements drift, dependencies tangle, context decays, and local repairs corrupt distant work. We present LeanMarathon, a multi-agent harness for reliable research-level Lean autoformalization. Its core abstraction is an evolving blueprint: a Lean file",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7714
+        "score": 0.7669
       }
     ],
     "science": [
