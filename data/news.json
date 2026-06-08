@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-08T03:52:11.016843+00:00",
+  "generated_at": "2026-06-08T05:04:12.728862+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ddc6771386eb9e89",
+        "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+        "url": "https://arxiv.org/abs/2606.06641",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06641v1 Announce Type: new Abstract: We present Accelerated Fourier SAT (AFSAT), a GPU-accelerated solver for pseudo-Boolean satisfiability based on continuous local search (CLS). AFSAT realises the proof-of-concept approach, FastFourierSAT, into a fully-engineered solver supporting any heterogeneous mixture of symmetric constraint types and lengths within a single problem instance. Usi",
+        "tags": [
+          "cs.ai",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0286
+      },
+      {
+        "id": "4ed13205d921b3fd",
+        "title": "TorchKM: A GPU-Oriented Library for Kernel Learning and Model Selection",
+        "url": "https://arxiv.org/abs/2606.06742",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06742v1 Announce Type: new Abstract: TorchKM is an open-source library for kernel machines, including support vector machines, kernel logistic regression, and kernel quantile regression, with GPU acceleration. The library features a scikit-learn-style API and is designed to exploit GPU-friendly linear algebra, accelerating the full training and model-selection pipeline through intellige",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0286
+      },
       {
         "id": "807f6732affd6f70",
         "title": "Police Sued After Imprisoning Innocent Man Placed Near Violent Crime By Flock License Plate Reader",
@@ -911,39 +943,71 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8675
-      },
-      {
-        "id": "d32ec4060dbbaa6b",
-        "title": "Ukraine’s birds adapt to battlefield environment, weaving optical fiber nests for warmth — canny feathered friends repurpose scraps of this spun off insulator material",
-        "url": "https://www.tomshardware.com/networking/ukraines-birds-adapt-to-battlefield-environment-weaving-optical-fiber-nests-for-warmth-canny-feathered-friends-repurpose-scraps-of-this-spun-off-insulator-material",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1780840553000,
-        "summary": "Birds in Donbas have been discovered feathering their nests with optical fiber.",
-        "tags": [
-          "networking"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0224
-      },
-      {
-        "id": "f8a7c44201f4e9df",
-        "title": "Terahertz biophotonics: Understanding the path towards practical applications for biological imaging",
-        "url": "https://phys.org/news/2026-06-terahertz-biophotonics-path-applications-biological.html",
-        "source": "Phys.org",
-        "lane": "gadgets",
-        "published_ts": 1780839601000,
-        "summary": "Biophotonics is a multidisciplinary field that involves the development and application of light-based technologies to study, monitor and treat biological systems. The ability to directly image cells and molecules has led to many fundamental discoveries in the past century. More recently, the terahertz (THz) region of the electromagnetic spectrum has attracted growing interest as a promising front",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0187
       }
     ],
     "innovation": [
+      {
+        "id": "a3c35ddd7239ca98",
+        "title": "Repairing a Apple PowerBook 150 With Serious Issues",
+        "url": "https://hackaday.com/2026/06/07/repairing-a-apple-powerbook-150-with-serious-issues/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1780894858000,
+        "summary": "Sometimes you purchase an old device that is very cheap for a good reason. So too with the 1995 Apple PowerBook 150 that [Hugh Jeffreys] purchased for a single Aussie …read more",
+        "tags": [
+          "repair hacks",
+          "powerbook"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0789
+      },
+      {
+        "id": "c5fb5954da611c00",
+        "title": "Xbox EVP Matt Booty clarifies Microsoft's new exclusivity strategy, saying new games will be reviewed case-by-case and multiplayer games will stay multiplatform (Eddie Makuch/GameSpot)",
+        "url": "https://www.techmeme.com/260608/p1#a260608p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1780893600000,
+        "summary": "Eddie Makuch / GameSpot: Xbox EVP Matt Booty clarifies Microsoft's new exclusivity strategy, saying new games will be reviewed case-by-case and multiplayer games will stay multiplatform — Today's Xbox Games Showcase was the first under the leadership of Xbox CEO Asha Sharma, who has pledged to consider making changes to Xbox's exclusivity strategy.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9923
+      },
+      {
+        "id": "0bd934f56a1e6274",
+        "title": "Texas Grid Flags Risks As Data Centers, Crypto Sites Fail Voltage Tests",
+        "url": "https://hardware.slashdot.org/story/26/06/08/0416216/texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1780893240000,
+        "summary": "Reuters reports: Several large data centers and crypto facilities planning to connect to the Texas power grid ahead of peak summer demand have failed key reliability tests, raising the risk of power outages just as electricity use hits its seasonal high, according to the state grid operator... Unlike traditional industrial customers, which tend to draw electricity steadily and predictably, data ce",
+        "tags": [
+          "power"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0399
+      },
+      {
+        "id": "f11842616e19b906",
+        "title": "A Geometric Gaussian Mixture Representation of Plane Curves",
+        "url": "https://arxiv.org/abs/2606.06505",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06505v1 Announce Type: cross Abstract: We introduce a user defined probabilistic polygonal representation for plane curves. Given a curve, we select vertices on the curve and connect consecutive vertices by line segments to obtain a polygonal approximation. Each segment is equipped with a user defined uncertainty parameter in the normal direction. This yields a collection of thin probab",
+        "tags": [
+          "cs.cg",
+          "cs.ai",
+          "cs.cv",
+          "math.dg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0286
+      },
       {
         "id": "534c29e03ac2c06b",
         "title": "Sources: Spotify has approached concert promoters about licensing music festival livestreams, as it pivots to video to become a one-stop shop for music fans (Lucas Shaw/Bloomberg)",
@@ -1849,67 +1913,248 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0173
+      }
+    ],
+    "ai": [
+      {
+        "id": "5469ad4c3ecaec8a",
+        "title": "Asia tech stocks extend sell-off with SoftBank down over 7% as investors sour on AI-linked names",
+        "url": "https://www.reddit.com/r/technology/comments/1tzx55d/asia_tech_stocks_extend_selloff_with_softbank/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1780891283000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0055
       },
       {
-        "id": "46b5bf2f6f6f5e46",
-        "title": "French carriers Bouygues Telecom, Orange, and Free-iliad sign an MOU with Altice France to acquire SFR for €20.35B, including debt, expected to close in H2 2027 (Reuters)",
-        "url": "https://www.techmeme.com/260607/p2#a260607p2",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780807801000,
-        "summary": "Reuters: French carriers Bouygues Telecom, Orange, and Free-iliad sign an MOU with Altice France to acquire SFR for €20.35B, including debt, expected to close in H2 2027 — Bouygues Telecom (BOUY.PA), Orange (ORAN.PA) and Free-iliad Group said on Saturday they have signed a memorandum …",
-        "tags": [],
+        "id": "35c6157499293ab5",
+        "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
+        "url": "https://arxiv.org/abs/2606.06514",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06514v1 Announce Type: new Abstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry breaking operation: a classifier is fair if its outputs remain invariant under the counterfactual operation of switching a sensitive attribute, with merit features held fixed. We implement loss based regularization as a symm",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9967
+        "score": 1.1109
       },
       {
-        "id": "52b507ecc8a9dc52",
-        "title": "Illinois joins Ohio in ordering pause on data center tax credits",
-        "url": "https://www.reddit.com/r/technology/comments/1tz1kas/illinois_joins_ohio_in_ordering_pause_on_data/",
+        "id": "ab0834918c9f7828",
+        "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+        "url": "https://arxiv.org/abs/2606.06529",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06529v1 Announce Type: new Abstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control is a safety framework for deploying capable but untrusted AI agents under the oversight of a weaker, trusted monitor and a limited human audit budget. Control evaluations stress-test these protocols by pitting a red-team at",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "1b4ae9d00f91a63c",
+        "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+        "url": "https://arxiv.org/abs/2606.06533",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06533v1 Announce Type: new Abstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving processes shaped by data, objectives, architectures, and optimization dynamics. Yet much of AI research treats models as fixed artifacts, analyzing behaviors after training rather than asking why they emerge. This position p",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "930a8f0ec4386e0e",
+        "title": "AEGIS: A Backup Reflex for Physical AI",
+        "url": "https://arxiv.org/abs/2606.06660",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06660v1 Announce Type: new Abstract: Long-horizon robot manipulation tends to fail gradually: one bad step degrades the state, and the policy spirals into a basin from which it cannot recover. The failure is often visible before it happens. We introduce AEGIS (Activation-probe Early-warning, Gated Inference Switching), a selective escalation method that uses a lightweight probe on a wea",
+        "tags": [
+          "cs.ai",
+          "cs.pf",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "95493c5b7aee885e",
+        "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+        "url": "https://arxiv.org/abs/2606.06869",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06869v1 Announce Type: new Abstract: Aim: Existing AI-assisted traditional Chinese medicine diagnostic tools suffer from opaque reasoning processes, passive interaction, and limited treatment plan presentation. This study proposes a knowledge-enhanced visual diagnostic system to improve the transparency and interpretability of syndrome differentiation and treatment. Methods: The system ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "138e861fd1d62530",
+        "title": "Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows",
+        "url": "https://arxiv.org/abs/2606.06923",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06923v1 Announce Type: new Abstract: We study orchestration mechanisms for tool-using AI agents in realistic customer-service workflows over an unstructured knowledge base. We argue that declarative agents -- AI agents equipped with natural-language skill files appended to the system prompt -- are an effective orchestration paradigm. Concretely, we compare (i) a DeclarativeAgent that re",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "9129fcc2a8f7e868",
+        "title": "Explainable Runtime Dependency Tracking for AI-RAN Conflict Monitoring",
+        "url": "https://arxiv.org/abs/2606.06663",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06663v1 Announce Type: new Abstract: Future AI-integrated Radio Access Networks (AI-RAN) will combine open programmability with learning-enabled xApps, rApps, and control functions that act on shared parameters and key performance indicators (KPIs). For conflict monitoring, it is not enough to know which applications are deployed; the system must also know whether the parameter--KPI dep",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "eafb4e5cad780079",
+        "title": "Spatiotemporal Imputation with Graph-Informed Flow Matching",
+        "url": "https://arxiv.org/abs/2606.06682",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06682v1 Announce Type: new Abstract: Missing data is a common challenge in spatiotemporal systems, arising in applications such as air quality monitoring and urban traffic management. Traditional machine learning approaches, like recurrent and graph neural networks, rely on iterative propagation, which tends to accumulate errors over time and space. Recent diffusion-based methods mitiga",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "69236624eb53eaff",
+        "title": "Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous Optimizers",
+        "url": "https://arxiv.org/abs/2606.06687",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06687v1 Announce Type: new Abstract: We investigate cluster formation, involving the number and composition of clusters, in decentralized federated learning (FL) with heterogeneous machine learning (ML) optimizers. While clustering in centralized FL has enabled scalability and resource savings, its value and development in fully decentralized environments have yet to be explored. Optimi",
+        "tags": [
+          "cs.lg",
+          "cs.dc",
+          "cs.ni",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "4027f82eaaf025ca",
+        "title": "ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets",
+        "url": "https://arxiv.org/abs/2606.06717",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06717v1 Announce Type: new Abstract: While generative AI models have demonstrated remarkable success in structure-based drug design, they predominantly rely on deep binding pockets and struggle to sample effective ligands for challenging low-pocketability targets, such as the historically \"undruggable\" oncology targets KRAS and MYC. To address this gap, we introduce ShallowBench, a stri",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.bm",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "472f99a1e6491ab5",
+        "title": "Flatland: The Adventures of Gradient Descent with Large Step Sizes",
+        "url": "https://arxiv.org/abs/2606.06722",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06722v1 Announce Type: new Abstract: The training of neural networks often entails objective functions that are not globally $L$-smooth. For these functions, it is both theoretically and practically difficult to reply to the question: what is the largest possible step size that ensures the convergence of gradient descent (GD)? We address this longstanding open question in deep learning ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "2eef056c97754d67",
+        "title": "Synthics: Synthetic Physics-like Datasets for Machine Learning",
+        "url": "https://arxiv.org/abs/2606.06724",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06724v1 Announce Type: new Abstract: Representative data is fundamental in machine learning, as limited data hinders generalisation. Collecting sufficient real-world samples is often infeasible. Synthetic data generation offers a practical solution, but only if the generated data faithfully reflects the structure of real observations. In this paper, a method for generating synthetic reg",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "386e99da5e71fd03",
+        "title": "In the AI gold rush, everyone is selling the same shovels",
+        "url": "https://www.reddit.com/r/technology/comments/1tzwsnd/in_the_ai_gold_rush_everyone_is_selling_the_same/",
         "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1780804364000,
+        "lane": "ai",
+        "published_ts": 1780890236000,
         "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
         "tags": [
           "technology"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 0.9296
+        "impact": "normal",
+        "score": 0.9999
       },
       {
-        "id": "a81a3a9eb4af541c",
-        "title": "Building a Gifford-McMahon Cryocooler With 3D-Printed Parts",
-        "url": "https://hackaday.com/2026/06/06/building-a-gifford-mcmahon-cryocooler-with-3d-printed-parts/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1780797651000,
-        "summary": "Although cryocoolers are capable of pretty impressive cooling, for many of them the underlying working principle is simple enough that you do not need any special skills or a big …read more",
+        "id": "4973ee49e08f96e8",
+        "title": "SDSU Wired Its Dorms with 1,300 AI Cameras Without Telling Students",
+        "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1780889084000,
+        "summary": "",
         "tags": [
-          "science",
-          "cooling",
-          "cryocooler"
+          "hn",
+          "points:19"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0765
+        "score": 1.0984
       },
-      {
-        "id": "7cdb322c626c2218",
-        "title": "How LinkedIn is transforming into a \"post-cringe\" social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics (Isabella Kwai/New York Times)",
-        "url": "https://www.techmeme.com/260606/p12#a260606p12",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1780797301000,
-        "summary": "Isabella Kwai / New York Times: How LinkedIn is transforming into a “post-cringe” social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics — Celebrities and paid influencers have transformed the career-focused platform, which for some users, has become a job unto itself.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9949
-      }
-    ],
-    "ai": [
       {
         "id": "b3cabf89beddc156",
         "title": "Sources: Beijing-based Moonshot, which makes the Kimi chatbot, is in talks to raise $1B+ that would value it at $30B, up from a $20B valuation in a recent round (Bloomberg)",
@@ -1952,7 +2197,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0381
+        "score": 1.2291
       },
       {
         "id": "66a2c6e751047450",
@@ -2606,252 +2851,104 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8523
-      },
-      {
-        "id": "90370c48a212fa04",
-        "title": "Donald Trump, Bernie Sanders And Sam Altman Are All Talking About Public Ownership In AI",
-        "url": "https://news.slashdot.org/story/26/06/07/0516250/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1780832040000,
-        "summary": "U.S. Senator Bernie Sanders announced a plan for the public to take a 50% ownership stake in AI companies, remembers the Associated Press. And then OpenAI's Sam Altman \"told Sanders that he, too, wants the public to have equity in AI companies.\" Though the CEO said he couldn't support Sanders' threshold of 50%, he nonetheless wanted to work with him to advocate for the general idea, according to p",
-        "tags": [
-          "usa"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1328
-      },
-      {
-        "id": "648db8bc6784e092",
-        "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-        "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1780830510000,
-        "summary": "How accurate does an AI system need to be?",
-        "tags": [
-          "ai",
-          "policy",
-          "gun",
-          "schools"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0701
-      },
-      {
-        "id": "58af57909df1b3ec",
-        "title": "Autonomous AI screening flags unreliable Lyme test results, boosting sensitivity to 95.7%",
-        "url": "https://phys.org/news/2026-06-autonomous-ai-screening-flags-unreliable.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780830001000,
-        "summary": "Computational point-of-care sensors can significantly improve access to diagnostics by enabling rapid patient testing outside centralized medical facilities. These tests rely on machine learning models to make diagnostic predictions, but such inference models are susceptible to hallucinations and may produce erroneous outcomes. As a result, their limited reliability has partially hindered the broa",
-        "tags": [
-          "bio & medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1011
-      },
-      {
-        "id": "103d1ed346949323",
-        "title": "Trump signs memo putting ‘most advanced AI’ into military hands and banning vendors from pulling the plug",
-        "url": "https://thenextweb.com/news/trump-ai-military-memo-autonomous-weapons",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780828453000,
-        "summary": "President Trump signed a national security presidential memorandum on Friday ordering the US military and intelligence agencies to accelerate their adoption of cutting-edge AI. The directive, NSPM-11, establishes a framework for “rapid onboarding of the most advanced AI models from multiple vendors.” It also bars any company from disabling, degrading, or modifying an AI system […] This story conti",
-        "tags": [
-          "artificial intelligence",
-          "security",
-          "next featured",
-          "government and policy",
-          "defence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9525
-      },
-      {
-        "id": "374dfacc6629e618",
-        "title": "‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism",
-        "url": "https://www.reddit.com/r/technology/comments/1tz8cdd/a_driver_of_political_violence_how_the_breakneck/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780827462000,
-        "summary": "submitted by /u/zsreport [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0129
-      },
-      {
-        "id": "7ca011daff99cb88",
-        "title": "Machine learning uncovers 1,750 quakes tracing 250-kilometer edge of Alaska microplate",
-        "url": "https://phys.org/news/2026-06-machine-uncovers-quakes-kilometer-edge.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1780824775000,
-        "summary": "Thousands of small earthquakes, detected for the first time by a machine-learning process, reveal the distinct, razor-sharp edge of the Yakutat microplate as it subducts beneath the North American plate.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0881
-      },
-      {
-        "id": "adc3e0e053f7ba4c",
-        "title": "OpenAI adds Lockdown Mode to ChatGPT to block data theft from prompt injection attacks",
-        "url": "https://thenextweb.com/news/chatgpt-lockdown-mode-prompt-injection",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780823691000,
-        "summary": "OpenAI has begun rolling out Lockdown Mode to ChatGPT, a new security setting designed to block attackers from stealing data through prompt injection attacks. The feature disables live web browsing, agent mode, deep research, image retrieval, Canvas networking, and file downloads. It is available to logged-in users across Free, Go, Plus, Pro, and self-serve ChatGPT […] This story continues at The ",
-        "tags": [
-          "artificial intelligence",
-          "privacy",
-          "security",
-          "next featured",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8838
-      },
-      {
-        "id": "20a6aa6fa10f5154",
-        "title": "Robot dogs, hunter drones, and AI cameras: the tech securing the 2026 World Cup",
-        "url": "https://thenextweb.com/news/world-cup-2026-security-tech-robot-dogs-drones-ai",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780822765000,
-        "summary": "The 2026 World Cup kicks off next week across 16 cities in the US, Mexico, and Canada. It is the largest in history: 48 teams, 104 matches, 39 days. It is also the most technologically surveilled sporting event ever staged, with robot dogs, net-shooting hunter drones, and thousands of AI-powered cameras deployed across venues and […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "security",
-          "robots",
-          "next featured",
-          "drones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9681
-      },
-      {
-        "id": "274ec45e4759ed0a",
-        "title": "Trump’s top AI adviser Sriram Krishnan is stepping down from the White House",
-        "url": "https://thenextweb.com/news/sriram-krishnan-leaves-white-house-ai-adviser",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780821409000,
-        "summary": "Sriram Krishnan, the White House’s senior policy adviser on artificial intelligence, is stepping down. The former Andreessen Horowitz partner was tapped by President Donald Trump to help shape the administration’s AI strategy during his second term. He will leave at the end of June, according to the Washington Post. Krishnan played a central role in […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "politics",
-          "united states",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9611
-      },
-      {
-        "id": "839353ca7c2f375e",
-        "title": "UK exam watchdog frets over smart specs turning GCSEs into Google searches",
-        "url": "https://www.theregister.com/personal-tech/2026/06/07/uk-exam-watchdog-frets-over-smart-specs-turning-gcses-into-google-searches/5251365",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1780821000000,
-        "summary": "Ofqual says smart glasses, hidden earpieces, and AI tools are creating a new generation of cheating headaches",
-        "tags": [
-          "personal tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1188
-      },
-      {
-        "id": "aff713ce1cf0b23a",
-        "title": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons",
-        "url": "https://www.reddit.com/r/technology/comments/1tz5p5g/ai_ceos_from_openai_anthropic_and_microsoft_set/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780818043000,
-        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9964
-      },
-      {
-        "id": "ef22186e24be68e8",
-        "title": "Sam Altman, Dario Amodei urge Congress to guard against AI-enabled bioweapons | Fortune",
-        "url": "https://www.reddit.com/r/technology/comments/1tz50t0/sam_altman_dario_amodei_urge_congress_to_guard/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780815645000,
-        "summary": "submitted by /u/Blueberry_Winter [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0072
-      },
-      {
-        "id": "a72a47311167bb05",
-        "title": "Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-        "url": "https://www.techmeme.com/260607/p5#a260607p5",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1780812042000,
-        "summary": "Dwarkesh Patel / Dwarkesh Podcast: Q&A with Google DeepMind's Director of AGI Economics Alex Imas and Epoch AI's Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more — “One robot now turns into many robots next year, but the number of ballerinas is the same.” — Economics of AGI episode w Alex Imas and Phil Trammell.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.068
-      },
-      {
-        "id": "67332eccfee25f10",
-        "title": "An open-source project [Ladybird Browser] bans public pulls, citing AI-generated code security concerns",
-        "url": "https://www.reddit.com/r/technology/comments/1tz3vo0/an_opensource_project_ladybird_browser_bans/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1780811752000,
-        "summary": "submitted by /u/SymmetricSoles [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9864
-      },
-      {
-        "id": "9df0ef073a78b80a",
-        "title": "I design with Claude more than Figma now",
-        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1780808664000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:42"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1894
       }
     ],
     "science": [
+      {
+        "id": "a2f36ec24ad93a4b",
+        "title": "Solar panels on rewetted peatland could be a climate and nature win–win",
+        "url": "https://phys.org/news/2026-06-solar-panels-rewetted-peatland-climate.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780891801000,
+        "summary": "Researchers in Germany have found that solar panels on rewetted peatland provide a unique habitat for bird species along with generating green energy and potentially locking up carbon. Installing solar panels on rewetted peatlands is a new type of land use, providing a way to generate green energy and reduce greenhouse gas emissions. Now, research from the University of Greifswald has found that t",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0024
+      },
+      {
+        "id": "6639cfaa471a9e14",
+        "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
+        "url": "https://arxiv.org/abs/2606.06531",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06531v1 Announce Type: new Abstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, auditable, and responsibility-bounded repair. Prediction and game-theoretic planners can suggest plausible cooperation, yet they do not return a proof that the repair respects hard rules, right-of-way, cost",
+        "tags": [
+          "cs.ai",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "12084b133d9ae4fd",
+        "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
+        "url": "https://arxiv.org/abs/2606.06941",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06941v1 Announce Type: new Abstract: Large language models (LLMs) now solve a wide range of expert-level exams at or above human level, yet remain brittle on specialised, evidence-intensive domains such as law. On these tasks, errors arise not only from gaps in world knowledge but also from subtle distinctions between pieces of evidence and inconsistent use of supporting evidence. The m",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1109
+      },
+      {
+        "id": "21a8ad08b1211f1a",
+        "title": "Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization",
+        "url": "https://arxiv.org/abs/2606.07033",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.07033v1 Announce Type: new Abstract: Open-vocabulary audio-visual event localization (OV-AVEL) jointly models audio-visual cues to recognize and temporally localize events, including categories unseen during training. Existing methods primarily learn joint audio-visual representations in Euclidean space, but still face two significant challenges. First, the lack of supervision signals f",
+        "tags": [
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0286
+      },
+      {
+        "id": "b339bc70de3c5b3d",
+        "title": "Are you sure? A Comprehensive and Comprehensible Survey of Uncertainty Quantification in Symbolic Regression",
+        "url": "https://arxiv.org/abs/2606.06567",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06567v1 Announce Type: new Abstract: Symbolic regression (SR) is a class of methods that systematically explore the space of mathematical functions to discover models that accurately capture the underlying relationships in a dataset. Despite recent advances in the field, a lack of support for uncertainty quantification (UQ) limits its adoption in real-world decision processes. In regres",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0286
+      },
+      {
+        "id": "0a25f0e9ae567b6e",
+        "title": "Gaussian Process Latent Factor Regression for Low-Data, High-Dimensional Output Problems",
+        "url": "https://arxiv.org/abs/2606.06576",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06576v1 Announce Type: new Abstract: In the sciences, regression tasks often require predicting high-dimensional outputs from few training examples. Multi-output Gaussian processes excel in low-data regimes but typically struggle with high-dimensional outputs. Compress-then-predict pipelines such as PCA-GP (principal component analysis plus Gaussian process regression) handle high dimen",
+        "tags": [
+          "cs.lg",
+          "astro-ph.ep",
+          "astro-ph.im",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0286
+      },
       {
         "id": "3213b5531ece4093",
         "title": "Mysterious signals keep coming from space: Astronomers find their 'Rosetta stone'",
@@ -3679,94 +3776,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0139
-      },
-      {
-        "id": "7838da318feb8518",
-        "title": "Texas governor wants to speed up work on a fly-breeding factory to fight a cattle parasite",
-        "url": "https://phys.org/news/2026-06-texas-governor-fly-factory-cattle.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780744801000,
-        "summary": "Texas Gov. Greg Abbott expressed concern Friday that a new factory isn't expected to start breeding sterile New World screwworm flies for more than a year as a big part of the effort to stop its flesh-eating larvae from threatening the $113 U.S. billion cattle industry.",
-        "tags": [
-          "agriculture"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "c6dcbf01292d6992",
-        "title": "Astronauts briefly take shelter during repair to fix leak on the International Space Station",
-        "url": "https://phys.org/news/2026-06-astronauts-briefly-leak-international-space.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780744791000,
-        "summary": "NASA on Friday temporarily ordered astronauts to take shelter during repairs to fix a fresh leak aboard the International Space Station.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
-      },
-      {
-        "id": "ca62beffeeb3bb98",
-        "title": "Scientists Find Wind Blowing From Our Milky Way's Black Hole",
-        "url": "https://science.slashdot.org/story/26/06/06/0535213/scientists-find-wind-blowing-from-our-milky-ways-black-hole?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1780743600000,
-        "summary": "After 50 years of searching, astronomers say they have finally found evidence of a long-sought \"wind\" blowing from Sagittarius A*, the supermassive black hole at the center of the Milky Way. \"Unless a black hole exists in a perfect vacuum, it must blow a wind somehow. And there is no perfect vacuum in the universe,\" team co-leader and Northwestern University researcher Mark Gorski said in a statem",
-        "tags": [
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0478
-      },
-      {
-        "id": "771d787618a57cbb",
-        "title": "Google will pay SpaceX $920 million a month to use xAI's data centers",
-        "url": "https://www.engadget.com/2188862/google-spacex-xai-data-center-deal-gemini/",
-        "source": "Engadget",
-        "lane": "science",
-        "published_ts": 1780739872000,
-        "summary": "Google has just signed a $30 billion AI computing power deal with SpaceX.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7519
-      },
-      {
-        "id": "853c66e9dbe9ed9a",
-        "title": "A tiny atomic shift gives scientists powerful control over metals",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm",
-        "source": "ScienceDaily Tech",
-        "lane": "science",
-        "published_ts": 1780723657000,
-        "summary": "A team at the University of Minnesota discovered that changing a metal film's thickness by just a few nanometers can dramatically alter how it behaves electronically. The finding reveals a surprising new way to control metals and could help power future advances in electronics, catalysis, and quantum technology.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9174
-      },
-      {
-        "id": "e5979c3fb58182a5",
-        "title": "Americans share the same struggles despite deep political divides, new bipartisan report finds",
-        "url": "https://phys.org/news/2026-06-americans-struggles-deep-political-bipartisan.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780718402000,
-        "summary": "As the United States approaches its 250th anniversary amid deep political division, a major new bipartisan report aims to get consensus on a fundamental question: How are we really doing as a country? The new \"State of the States\" report, released by the State of the Nation Project at Tulane University, has analyzed more than three decades of data for all 50 states and the District of Columbia, to",
-        "tags": [
-          "political science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0062
       }
     ]
   },
