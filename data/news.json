@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-06-08T21:59:07.674397+00:00",
+  "generated_at": "2026-06-08T22:01:03.437080+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0b7c7ed02810bc55",
+        "title": "I found Android's hidden gesture customization and it's surprisingly powerful",
+        "url": "https://www.makeuseof.com/i-found-androids-hidden-gesture-customization-motorola/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1780956018000,
+        "summary": "Every major Android phone brand has a suite of gestures you probably aren't using, but only one stands out.",
+        "tags": [
+          "android",
+          "android tips",
+          "motorola"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8498
+      },
       {
         "id": "f969656cb2452248",
         "title": "Tim Cook Delivers Farewell Remarks at His Last Apple Keynote as CEO",
@@ -935,21 +952,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0182
-      },
-      {
-        "id": "acbff292d415c69e",
-        "title": "Apple expands parental controls to include automatic image filtering",
-        "url": "https://www.engadget.com/2189728/apple-expands-parental-controls-to-include-automatic-image-filtering/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1780940229000,
-        "summary": "Apple is beefing up parental controls to address concerns about child protection.",
-        "tags": [
-          "apple"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7035
       }
     ],
     "innovation": [
@@ -2011,7 +2013,7 @@
         "summary": "The company stuck to using \"Apple Intelligence,\" referencing its own proprietary AI, rather than the two-letter acronym and the negative baggage it carries.",
         "tags": [],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.8729
       },
       {
@@ -2862,6 +2864,49 @@
       }
     ],
     "science": [
+      {
+        "id": "d6bcb7053d9835cb",
+        "title": "Brazilian breadbasket's aquifers are falling, and new satellite maps show where water stress is growing",
+        "url": "https://phys.org/news/2026-06-brazilian-breadbasket-aquifers-falling-satellite.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780956006000,
+        "summary": "A collaboration of scientists from NASA and Brazilian research institutions has produced a detailed picture of groundwater change across Brazil. The images reveal significant declines in some of the aquifers that are critical to one of the world's largest agricultural producers.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1013
+      },
+      {
+        "id": "a08474f78d3c3fda",
+        "title": "Mining companies may soon bypass UN rules and mine the deep sea",
+        "url": "https://phys.org/news/2026-06-companies-bypass-deep-sea.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780956005000,
+        "summary": "A Canadian deep-sea mining company may become the first to commercially mine the international seabed under a controversial U.S. executive order that bypasses United Nations regulations. A recent legal analysis suggests that this could place Canada in violation of international law.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
+      {
+        "id": "c243f77b3853ed34",
+        "title": "Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. (Richard Nieva/Forbes)",
+        "url": "https://www.techmeme.com/260608/p55#a260608p55",
+        "source": "Techmeme",
+        "lane": "science",
+        "published_ts": 1780955927000,
+        "summary": "Richard Nieva / Forbes: Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. — Elon Musk's rocket and AI company is expected to acquire the buzzy AI coding startup shortly after it goes public.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0792
+      },
       {
         "id": "87f994d9ee8c92f5",
         "title": "Hidden geometry explains why kernel methods separate complex data so well",
@@ -3759,55 +3804,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1109
-      },
-      {
-        "id": "21a8ad08b1211f1a",
-        "title": "Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization",
-        "url": "https://arxiv.org/abs/2606.07033",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1780891200000,
-        "summary": "arXiv:2606.07033v1 Announce Type: new Abstract: Open-vocabulary audio-visual event localization (OV-AVEL) jointly models audio-visual cues to recognize and temporally localize events, including categories unseen during training. Existing methods primarily learn joint audio-visual representations in Euclidean space, but still face two significant challenges. First, the lack of supervision signals f",
-        "tags": [
-          "cs.ai",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0286
-      },
-      {
-        "id": "b339bc70de3c5b3d",
-        "title": "Are you sure? A Comprehensive and Comprehensible Survey of Uncertainty Quantification in Symbolic Regression",
-        "url": "https://arxiv.org/abs/2606.06567",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780891200000,
-        "summary": "arXiv:2606.06567v1 Announce Type: new Abstract: Symbolic regression (SR) is a class of methods that systematically explore the space of mathematical functions to discover models that accurately capture the underlying relationships in a dataset. Despite recent advances in the field, a lack of support for uncertainty quantification (UQ) limits its adoption in real-world decision processes. In regres",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0286
-      },
-      {
-        "id": "0a25f0e9ae567b6e",
-        "title": "Gaussian Process Latent Factor Regression for Low-Data, High-Dimensional Output Problems",
-        "url": "https://arxiv.org/abs/2606.06576",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780891200000,
-        "summary": "arXiv:2606.06576v1 Announce Type: new Abstract: In the sciences, regression tasks often require predicting high-dimensional outputs from few training examples. Multi-output Gaussian processes excel in low-data regimes but typically struggle with high-dimensional outputs. Compress-then-predict pipelines such as PCA-GP (principal component analysis plus Gaussian process regression) handle high dimen",
-        "tags": [
-          "cs.lg",
-          "astro-ph.ep",
-          "astro-ph.im",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0286
       }
     ]
   },
