@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:01:03.437080+00:00",
+  "generated_at": "2026-06-08T22:03:16.860422+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -18,6 +18,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8498
+      },
+      {
+        "id": "6bb0eeb82385274e",
+        "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App",
+        "url": "https://yro.slashdot.org/story/26/06/08/1945252/meta-deletes-face-recognition-system-from-its-smart-glasses-app?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "gadgets",
+        "published_ts": 1780956000000,
+        "summary": "Last Thursday, Wired reported that Meta had quietly embedded an unreleased facial recognition system called NameTag into software installed on millions of phones. In a follow-up report, Wired says the tech giant has now removed the face-recognition-related code, while saying \"no final decision\" has been made about whether the feature will launch. From the report: On Thursday, WIRED reported that M",
+        "tags": [
+          "privacy",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1328
       },
       {
         "id": "f969656cb2452248",
@@ -936,22 +952,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7865
-      },
-      {
-        "id": "d007b55a897e4793",
-        "title": "Intel expands new game-boosting iBOT software with seven more games, up to a 27% improvement — Team Blue claims 12% average jump in newly-supported titles",
-        "url": "https://www.tomshardware.com/pc-components/cpus/intel-expands-new-game-boosting-ibot-software-with-seven-more-games-up-to-a-27-percent-improvement-team-blue-claims-12-percent-average-jump-in-newly-supported-titles",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1780940946000,
-        "summary": "Intel is expanding its performance-boosting iBOT feature with seven new games.",
-        "tags": [
-          "cpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0182
       }
     ],
     "innovation": [
@@ -3775,35 +3775,35 @@
         "score": 1.0024
       },
       {
-        "id": "6639cfaa471a9e14",
-        "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
-        "url": "https://arxiv.org/abs/2606.06531",
+        "id": "21a8ad08b1211f1a",
+        "title": "Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization",
+        "url": "https://arxiv.org/abs/2606.07033",
         "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1780891200000,
-        "summary": "arXiv:2606.06531v1 Announce Type: new Abstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction admits a lawful, auditable, and responsibility-bounded repair. Prediction and game-theoretic planners can suggest plausible cooperation, yet they do not return a proof that the repair respects hard rules, right-of-way, cost",
+        "summary": "arXiv:2606.07033v1 Announce Type: new Abstract: Open-vocabulary audio-visual event localization (OV-AVEL) jointly models audio-visual cues to recognize and temporally localize events, including categories unseen during training. Existing methods primarily learn joint audio-visual representations in Euclidean space, but still face two significant challenges. First, the lack of supervision signals f",
         "tags": [
           "cs.ai",
-          "quant-ph"
+          "cs.cv"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.1109
+        "impact": "normal",
+        "score": 0.7417
       },
       {
-        "id": "12084b133d9ae4fd",
-        "title": "Quantum-Inspired Trace-Augmented Evidence Selection for Reasoning over Structured Hypothesis Spaces",
-        "url": "https://arxiv.org/abs/2606.06941",
-        "source": "arXiv cs.AI",
+        "id": "b339bc70de3c5b3d",
+        "title": "Are you sure? A Comprehensive and Comprehensible Survey of Uncertainty Quantification in Symbolic Regression",
+        "url": "https://arxiv.org/abs/2606.06567",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1780891200000,
-        "summary": "arXiv:2606.06941v1 Announce Type: new Abstract: Large language models (LLMs) now solve a wide range of expert-level exams at or above human level, yet remain brittle on specialised, evidence-intensive domains such as law. On these tasks, errors arise not only from gaps in world knowledge but also from subtle distinctions between pieces of evidence and inconsistent use of supporting evidence. The m",
+        "summary": "arXiv:2606.06567v1 Announce Type: new Abstract: Symbolic regression (SR) is a class of methods that systematically explore the space of mathematical functions to discover models that accurately capture the underlying relationships in a dataset. Despite recent advances in the field, a lack of support for uncertainty quantification (UQ) limits its adoption in real-world decision processes. In regres",
         "tags": [
-          "cs.ai"
+          "cs.lg"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.1109
+        "impact": "normal",
+        "score": 0.7417
       }
     ]
   },
