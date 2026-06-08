@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:37:26.941143+00:00",
+  "generated_at": "2026-06-08T14:38:43.606387+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -81,6 +81,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8443
+      },
+      {
+        "id": "8a6adab3bd5bc188",
+        "title": "Life Got So Much Better When I Turned Off My Phone Notifications",
+        "url": "https://www.cnet.com/tech/services-and-software/features/life-got-so-much-better-when-i-turned-off-my-phone-notifications/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1780927543000,
+        "summary": "Apps, emails, promos, DMs and tiny red badges had hijacked my attention. Taking it back forced me to evaluate my relationship with my phone.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8114
       },
       {
         "id": "a0d55200036465f0",
@@ -317,7 +330,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8718
+        "score": 0.8755
       },
       {
         "id": "682d96521e988c52",
@@ -936,22 +949,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9302
-      },
-      {
-        "id": "34e320abf612f2bc",
-        "title": "Ukraine’s birds adapt to battlefield environment, weaving nests out of drone fiber-optic cables — resourceful wildlife adapts to miles of littered drone fibers | Sample nests were found after a Russian glide bomb knocked down a tree in Donbas.",
-        "url": "https://www.reddit.com/r/technology/comments/1tzyrkn/ukraines_birds_adapt_to_battlefield_environment/",
-        "source": "Reddit r/technology",
-        "lane": "gadgets",
-        "published_ts": 1780896397000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.896
       }
     ],
     "innovation": [
@@ -2696,6 +2693,21 @@
         "score": 1.0055
       },
       {
+        "id": "2eef056c97754d67",
+        "title": "Synthics: Synthetic Physics-like Datasets for Machine Learning",
+        "url": "https://arxiv.org/abs/2606.06724",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1780891200000,
+        "summary": "arXiv:2606.06724v1 Announce Type: new Abstract: Representative data is fundamental in machine learning, as limited data hinders generalisation. Collecting sufficient real-world samples is often infeasible. Synthetic data generation offers a practical solution, but only if the generated data faithfully reflects the structure of real observations. In this paper, a method for generating synthetic reg",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9238
+      },
+      {
         "id": "35c6157499293ab5",
         "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
         "url": "https://arxiv.org/abs/2606.06514",
@@ -2853,21 +2865,6 @@
           "cs.ai",
           "q-bio.bm",
           "q-bio.qm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1109
-      },
-      {
-        "id": "472f99a1e6491ab5",
-        "title": "Flatland: The Adventures of Gradient Descent with Large Step Sizes",
-        "url": "https://arxiv.org/abs/2606.06722",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1780891200000,
-        "summary": "arXiv:2606.06722v1 Announce Type: new Abstract: The training of neural networks often entails objective functions that are not globally $L$-smooth. For these functions, it is both theoretically and practically difficult to reply to the question: what is the largest possible step size that ensures the convergence of gradient descent (GD)? We address this longstanding open question in deep learning ",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
