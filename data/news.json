@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T22:08:26.050797+00:00",
+  "generated_at": "2026-06-09T22:15:31.137594+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -998,6 +998,24 @@
     ],
     "innovation": [
       {
+        "id": "0d1d2ec3f5b95e94",
+        "title": "From cars to data centres, GM pushes into energy storage with three new battery deals",
+        "url": "https://thenextweb.com/news/gm-energy-storage-sodium-ion-batteries-peak-energy-redwood-materials",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781042889000,
+        "summary": "General Motors is pushing into energy storage for data centres and the electrical grid, announcing a sodium-ion battery development partnership with Peak Energy, a lithium iron phosphate supply deal with LG Energy Solution, and an expanded relationship with Redwood Materials. The moves mark GM’s clearest signal yet that it sees its $900 million investment in […] This story continues at The Next We",
+        "tags": [
+          "battery",
+          "sustainability",
+          "next featured",
+          "cars"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9697
+      },
+      {
         "id": "c240bdf13f04257d",
         "title": "Salesforce cuts staff amid acquisition spree and $50 billion share buyback",
         "url": "https://www.theregister.com/saas/2026/06/09/salesforce-layoffs-hit-amid-m3ter-acquisition-and-stock-buyback/5253162",
@@ -1043,6 +1061,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0172
+      },
+      {
+        "id": "67703e1398da9cc7",
+        "title": "FCC filings suggest Valve’s Steam Machine could launch before June 29",
+        "url": "https://thenextweb.com/news/valve-steam-machine-fcc-filing-june-29-launch-date",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781041725000,
+        "summary": "Valve’s Steam Machine, the compact gaming PC announced in November 2025, could launch on or before June 29 based on a pattern in the company’s FCC regulatory filings. The theory, first spotted by Notebookcheck and sourced to Reddit user u/wayTooManyBugs, draws on how Valve handled the regulatory paperwork for its Steam Controller, which launched on […] This story continues at The Next Web",
+        "tags": [
+          "gaming",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9637
       },
       {
         "id": "36981a93b7085bfb",
@@ -1911,44 +1945,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0429
-      },
-      {
-        "id": "cd90f48d9874d298",
-        "title": "Apple brings streaming-style subscription bundles to the App Store",
-        "url": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1781016936000,
-        "summary": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages.",
-        "tags": [
-          "apps",
-          "app bundles",
-          "app store",
-          "apple",
-          "developers",
-          "wwdc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7419
-      },
-      {
-        "id": "6cdd75d8150e3df7",
-        "title": "Palantir to sue Sadiq Khan over blocked Met police contract",
-        "url": "https://www.reddit.com/r/technology/comments/1u16oum/palantir_to_sue_sadiq_khan_over_blocked_met/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781015534000,
-        "summary": "submitted by /u/Bitter-Train-5961 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9352
       }
     ],
     "ai": [
+      {
+        "id": "dd69790b481d746d",
+        "title": "Anthropic Launches Claude Fable 5, Its First Public Mythos-Class Model",
+        "url": "https://www.macrumors.com/2026/06/09/anthropic-fable-5/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1781042917000,
+        "summary": "Anthropic today announced the launch of Claude Fable 5, a Mythos-class model that it says is safe for general use. According to Anthropic, Fable 5's capabilities exceed those of any model it has made generally available, and Fable has demonstrated \"exceptional performance\" for software engineering, knowledge work, vision, scientific research, and more. It outperforms Opus models on longer, more co",
+        "tags": [
+          "anthropic",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0776
+      },
       {
         "id": "3aa42fa5d1386b72",
         "title": "Super Micro Computer aims to raise $7B in a series of equity and equity-linked financing transactions to fund its component purchases to satisfy AI orders (Harshita Mary Varghese/Reuters)",
@@ -2169,6 +2184,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9449
+      },
+      {
+        "id": "ecdb066ea02dbf97",
+        "title": "Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for building frontier LLMs (Matthias Bastian/The Decoder)",
+        "url": "https://www.techmeme.com/260609/p38#a260609p38",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781037000000,
+        "summary": "Matthias Bastian / The Decoder: Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for building frontier LLMs — Key Points … Ask about this article... Both models share the same base model. Fable 5 ships with conservative safety guardrails for general use.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9667
       },
       {
         "id": "4fe50dfee5b5140c",
@@ -2864,37 +2892,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9946
-      },
-      {
-        "id": "18e28632a6bc723b",
-        "title": "Apple wants Europe to blink",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781025194000,
-        "summary": "It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to blame the EU. Apple says its new AI-powered Siri will not launch on iPhones and iPads […]",
-        "tags": [
-          "apple",
-          "policy",
-          "report",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8549
-      },
-      {
-        "id": "5dc9b648e8e85dca",
-        "title": "Anthropic releases Claude Fable 5, a \"safe\" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs (Wired)",
-        "url": "https://www.techmeme.com/260609/p28#a260609p28",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781025165000,
-        "summary": "Wired: Anthropic releases Claude Fable 5, a “safe” Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs — Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can't be used for cyberattacks.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9993
       }
     ],
     "science": [
