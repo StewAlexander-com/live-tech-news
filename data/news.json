@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:18:30.876495+00:00",
+  "generated_at": "2026-06-09T01:58:44.686632+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -946,6 +946,23 @@
     ],
     "innovation": [
       {
+        "id": "68f79864ebbd23ba",
+        "title": "Researchers claim EV usage in China may have saved more than 260,000 lives because the air is simply cleaner",
+        "url": "https://www.techradar.com/pro/researchers-claim-ev-usage-in-china-may-have-saved-more-than-260-000-lives-because-the-air-is-simply-cleaner",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1780968000000,
+        "summary": "EVs are effectively helping China deliver on its carbon neutrality pledges and offer cleaner air, but the benefits are more concentrated in urban regions.",
+        "tags": [
+          "pro",
+          "hybrid &amp; electric vehicles",
+          "vehicle tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8395
+      },
+      {
         "id": "1039eb13fb644f31",
         "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
         "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
@@ -1874,29 +1891,86 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9954
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "f67125b218c3cfec",
-        "title": "Apple is tweaking its controversial Liquid Glass design",
-        "url": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
+        "id": "9b04fcea0e6c0f75",
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
         "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1780939473000,
-        "summary": "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's design overhaul from last year to be hard to read.",
+        "lane": "ai",
+        "published_ts": 1780970208000,
+        "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
         "tags": [
-          "apps",
+          "ai",
           "apple",
-          "ios",
-          "liquid glass",
-          "wwdc",
+          "iphone",
+          "siri ai",
           "wwdc 2026"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7444
-      }
-    ],
-    "ai": [
+        "score": 0.8073
+      },
+      {
+        "id": "e2e49e91381632c1",
+        "title": "Sam Altman and Jakub Pachocki claim OpenAI is \"entering the third phase\", aiming to automate AI research, boost the economy, and give everyone a personal AGI (OpenAI)",
+        "url": "https://www.techmeme.com/260608/p62#a260608p62",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1780970101000,
+        "summary": "OpenAI: Sam Altman and Jakub Pachocki claim OpenAI is “entering the third phase”, aiming to automate AI research, boost the economy, and give everyone a personal AGI — Every few generations, a new technology changes everything. — Imagine electricity reaching a rural American town in the 1920s.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
+        "id": "d855ba1c618ee135",
+        "title": "This is how Apple built 'a Siri that’s profoundly more capable' — and yes, it was done with Google and Nvidia's help",
+        "url": "https://www.techradar.com/ai-platforms-assistants/this-is-how-apple-built-a-siri-thats-profoundly-more-capable-and-yes-it-was-done-with-google-and-nvidias-help",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1780969504000,
+        "summary": "Apple Execs sat down for a post-WWDC 2026 keynote chat for a deep and revealing dive on Siri AI architecture and revealed a vast collaboration that stops well short of a Gemini takeover.",
+        "tags": [
+          "ai platforms &amp; assistants",
+          "iphone",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.914
+      },
+      {
+        "id": "b8c9fef127c7694b",
+        "title": "From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1780969047000,
+        "summary": "Mark Gurman, reporting (?) for Bloomberg two short months ago: Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an AI platform. The company is preparing to make the change as part of a Siri overhaul in its upcoming iOS 27 operating system update, according to people with knowledge of the matter. The assistant can already ta",
+        "tags": [],
+        "paywall": true,
+        "impact": "high",
+        "score": 0.8688
+      },
+      {
+        "id": "9194a63d3a23891d",
+        "title": "Uncle Sam considers buying a seat on the Titanic",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/09/uncle-sam-considers-buying-a-seat-on-the-titanic/5252598",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1780967877000,
+        "summary": "L'etat, c'est AI",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1193
+      },
       {
         "id": "576a0c8521d73159",
         "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
@@ -1959,6 +2033,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1004
+      },
+      {
+        "id": "4eba040b198adc07",
+        "title": "Apple courts developers with privacy and context in AI comeback bid",
+        "url": "https://www.theregister.com/devops/2026/06/09/apple-courts-developers-with-privacy-and-context-in-ai-comeback-bid/5252564",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1780961119000,
+        "summary": "Apple Intelligence stumbled through 2024 and 2025. It's starting to look respectable",
+        "tags": [
+          "devops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0795
       },
       {
         "id": "34470bcf06050787",
@@ -2740,115 +2829,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8701
-      },
-      {
-        "id": "186b86708e091ed3",
-        "title": "iOS 27 and Siri AI compatibility explained — confirmed device requirements for Apple's new software updates",
-        "url": "https://www.techradar.com/phones/ios/ios-27-and-siri-ai-compatibility-explained-confirmed-device-requirements-for-apples-new-software-updates",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1780947783000,
-        "summary": "Apple has confirmed the iPhones and iPads that will support iOS 27, Siri AI, and iPadOS 27.",
-        "tags": [
-          "ios",
-          "iphone",
-          "ipad",
-          "phones",
-          "tablets"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9153
-      },
-      {
-        "id": "793dc05157b3794f",
-        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-        "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1780947692000,
-        "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It marks CEO Tim Cook’s last with the company, […]",
-        "tags": [
-          "ai",
-          "apple",
-          "siri",
-          "wwdc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7929
-      },
-      {
-        "id": "f535efabbc2505f5",
-        "title": "Siri AI for iPhones and iPads will be delayed indefinitely in the EU",
-        "url": "https://www.engadget.com/2189932/siri-ai-for-iphones-and-ipads-will-be-delayed-indefinitely-in-the-eu/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1780947414000,
-        "summary": "European Union and Chinese citizens will have to wait even longer before getting their hands on Apple's hotly-anticipated iOS 27 and iPadOS 27 with the new Siri.",
-        "tags": [
-          "apple"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7566
-      },
-      {
-        "id": "0f9b2b172699d7fd",
-        "title": "Apple announces watchOS 27, now with Siri AI",
-        "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1780947250000,
-        "summary": "Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned \"dynamic\" app grid, and improvements to health and fitness tracking. The watchOS 27 update will be available \"this fall,\" according to Apple, though support is notably limited - the new OS will only be […]",
-        "tags": [
-          "apple",
-          "apple event",
-          "gadgets",
-          "news",
-          "tech",
-          "wearable"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8504
-      },
-      {
-        "id": "b08fad35add69776",
-        "title": "Apple to Add AI Video Descriptions and Smarter Notifications to Home App",
-        "url": "https://www.macrumors.com/2026/06/08/apple-adds-ai-descriptions-and-smarter-notifications-to-home/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1780947174000,
-        "summary": "Apple today announced new Apple Intelligence features for the Home app, including AI-generated descriptions of HomeKit Secure Video camera clips and smarter grouping of accessory notifications. The Home app will use ‌Apple Intelligence‌ to analyze recorded clips from compatible cameras and generate text descriptions summarizing what happened in them. Users can search through footage to find specif",
-        "tags": [
-          "apple home",
-          "apple intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0733
-      },
-      {
-        "id": "0950d71059e1839d",
-        "title": "For the second time, Apple Intelligence is delayed in Europe, and this time there is no timeline",
-        "url": "https://thenextweb.com/news/apple-siri-ai-eu-dma-delay-ios-27",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1780947135000,
-        "summary": "Apple announced on Monday that Siri AI, the rebuilt assistant it unveiled hours earlier at WWDC 2026, will not be available on iPhone or iPad in the European Union when iOS 27 and iPadOS 27 ship later this year. The company said EU regulators rejected every proposal Apple put forward over several months to bring […] This story continues at The Next Web",
-        "tags": [
-          "apple",
-          "artificial intelligence",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9557
       }
     ],
     "science": [
+      {
+        "id": "0041aba90e83db9b",
+        "title": "Politicization in humanities scholarship may compromise scholarly standards",
+        "url": "https://phys.org/news/2026-06-politicization-humanities-scholarship-compromise-scholarly.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1780969204000,
+        "summary": "A national report co-authored by a University of Hawaiʻi at Mānoa sociologist has found that while the humanities and social sciences continue to produce rigorous and valuable scholarship, some disciplines are experiencing instances where scholarly standards have been compromised as political considerations shape research and academic evaluation.",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0139
+      },
+      {
+        "id": "bc37711cd7c0162e",
+        "title": "It’s Possible That SpaceX Could Collapse Spectacularly",
+        "url": "https://www.reddit.com/r/technology/comments/1u0qsk2/its_possible_that_spacex_could_collapse/",
+        "source": "Reddit r/technology",
+        "lane": "science",
+        "published_ts": 1780967700000,
+        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9368
+      },
       {
         "id": "b1e5af9e0f755864",
         "title": "NASA's INCUS mission on road to launch, study storms from space",
@@ -3756,36 +3769,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9632
-      },
-      {
-        "id": "3b7b3fac6226d522",
-        "title": "Alien signal claims face stricter verification under updated disclosure rules",
-        "url": "https://phys.org/news/2026-06-alien-stricter-verification-disclosure.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780927204000,
-        "summary": "The IAA SETI Committee has updated rules for evaluating and revealing the detection of extraterrestrial intelligence.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0078
-      },
-      {
-        "id": "536c9bd26f576911",
-        "title": "These horses are unaffected by petting in children's zoo, heart rate monitors reveal",
-        "url": "https://phys.org/news/2026-06-horses-unaffected-petting-children-zoo.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1780926964000,
-        "summary": "The horses at the Children's Zoo in Gothenburg don't mind being petted by children and adults. However, they do get stressed by the noise from an excavator. Researchers at the University of Gothenburg discovered this after fitting heart rate monitors to eight Gotland Russ horses. The research is published in the journal Zoo Biology.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0065
       }
     ]
   },
