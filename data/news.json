@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-06-09T19:29:20.225836+00:00",
+  "generated_at": "2026-06-09T19:44:09.433781+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "7b36f2658fcfa8ee",
+        "title": "A single character could be enough to let hackers crack your Linux kernel",
+        "url": "https://www.techradar.com/pro/security/a-single-character-could-be-enough-to-let-hackers-crack-your-linux-kernel",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781033700000,
+        "summary": "A logic inversion bug was recently found in Linux, caused by a single stray character.",
+        "tags": [
+          "security",
+          "cyber security",
+          "computing security",
+          "pro",
+          "computing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8475
+      },
       {
         "id": "f9bfe3f2e4d5df74",
         "title": "GPD Box mini PC with Intel Panther Lake (and MCIO 8i) to sell for $1452 and up during crowdfunding",
@@ -979,24 +998,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6995
-      },
-      {
-        "id": "7aa349384835e0b4",
-        "title": "Razer announces the Seiren V3 Pro, its first XLR mic",
-        "url": "https://www.engadget.com/2190170/razer-announces-the-seiren-v3-pro-its-first-xlr-mic/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1781017200000,
-        "summary": "A podcast and streaming ready microphone for all skill levels, and yes, it has RGB.",
-        "tags": [
-          "accessories"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6992
       }
     ],
     "innovation": [
+      {
+        "id": "191cfc6240b97a72",
+        "title": "The June Android security update is one of the biggest this year and most users haven't installed it yet",
+        "url": "https://www.makeuseof.com/the-june-android-security-update-is-one-of-the-biggest-this-year-and-most-users-havent-installed-it-yet/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1781033419000,
+        "summary": "One of the flaws is already being used in targeted attacks, and if you're not on a Pixel, you may be waiting weeks for the patch",
+        "tags": [
+          "android",
+          "security"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8462
+      },
       {
         "id": "c63a57f1e8eec4ed",
         "title": "Rem3dy Health raises £14M at £84M valuation to take 3D-printed personalised vitamins global",
@@ -1962,24 +1982,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8889
-      },
-      {
-        "id": "bb48eeeafb5848ff",
-        "title": "Signal says UK plan to scan devices for nude images 'endangers us all'",
-        "url": "https://www.theregister.com/security/2026/06/09/signal-uks-child-nude-block-threat-wont-protect-children/5252761",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781008863000,
-        "summary": "Encrypted messaging app warns device-level checks could be repurposed for censorship",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0369
       }
     ],
     "ai": [
+      {
+        "id": "f91ef69664578f90",
+        "title": "What Happens When Apple and Google Team Up to Build AI? 5 New Models",
+        "url": "https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1781033457000,
+        "summary": "Apple and Google worked together to make new foundational Apple Intelligence models. Here's what's inside them.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8819
+      },
       {
         "id": "6b680318a0c3817f",
         "title": "All the Liquid Glass Changes in macOS Golden Gate",
@@ -2101,6 +2119,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8077
+      },
+      {
+        "id": "b53cd3d72d962ebe",
+        "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+        "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781030759000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:15"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.113
       },
       {
         "id": "1a3fe35486aa899c",
@@ -2895,38 +2929,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9959
-      },
-      {
-        "id": "c5270ea032f5f339",
-        "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
-        "url": "https://www.reddit.com/r/technology/comments/1u1873y/microsoft_ai_chief_walks_back_comments_about_ai/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781018715000,
-        "summary": "submitted by /u/joe4942 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9914
-      },
-      {
-        "id": "61ad1a19ef1402a4",
-        "title": "Meta plans to expand the use of off-platform data, such as e-commerce purchases, from serving ads to personalize content feeds and AI responses (Emma Roth/The Verge)",
-        "url": "https://www.techmeme.com/260609/p22#a260609p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781018702000,
-        "summary": "Emma Roth / The Verge: Meta plans to expand the use of off-platform data, such as e-commerce purchases, from serving ads to personalize content feeds and AI responses — Beginning in July, you may start seeing content related to the games you've played, your online purchases, and more across your feeds.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0796
       }
     ],
     "science": [
+      {
+        "id": "5ef6667138a1d395",
+        "title": "Children's motivation and attitudes towards learning play a key role in academic success, study finds",
+        "url": "https://phys.org/news/2026-06-children-attitudes-play-key-role.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781034005000,
+        "summary": "A major new study led by researchers at Queen Mary University of London has revealed that noncognitive skills—such as motivation, curiosity, academic interest and self-belief—play a key role in translating children's genetic dispositions into academic achievement.",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0187
+      },
       {
         "id": "f26c23969f0142c1",
         "title": "Firefighters face a higher risk of skin cancer, but nano fabrics with tiny, rough fibers can help keep them safer",
@@ -3759,6 +3779,22 @@
         "score": 1.0042
       },
       {
+        "id": "6cc756ebd9fbac78",
+        "title": "Finite Certificates for In-Context Determinacy and a Threshold Theory of Emergence in Language Models",
+        "url": "https://arxiv.org/abs/2606.07623",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1780977600000,
+        "summary": "arXiv:2606.07623v1 Announce Type: new Abstract: This paper develops a model-theoretic framework for verifying context-conditioned language-model behavior by replacing benchmark labels with finite semantic certificates. The first problem is finite determinacy: when do examples in a context force the answer to a query without changing model parameters? In finite-field linear task families, we prove ",
+        "tags": [
+          "cs.lg",
+          "cs.lo"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7755
+      },
+      {
         "id": "213e197eb1725d90",
         "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
         "url": "https://arxiv.org/abs/2606.07780",
@@ -3819,38 +3855,6 @@
           "cs.ai",
           "cs.cv",
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0337
-      },
-      {
-        "id": "3fdb59236e42e90a",
-        "title": "Repetition Mismatch: Why Data Mixture Experiments Don't Scale and How to Fix Them",
-        "url": "https://arxiv.org/abs/2606.07597",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780977600000,
-        "summary": "arXiv:2606.07597v1 Announce Type: new Abstract: Pre-training data mixtures are commonly tuned by running small-scale experiments and extrapolating to the target training budget. When high-quality data is scarce and must be repeated, this extrapolation frequently fails, but the source of the failure has not been isolated. We show that a primary culprit is a repetition mismatch: because high-quality",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0337
-      },
-      {
-        "id": "04f7458c74e71330",
-        "title": "Sample-Efficient Post-Training for LEGO Spatial-Physics Reasoning",
-        "url": "https://arxiv.org/abs/2606.07602",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780977600000,
-        "summary": "arXiv:2606.07602v1 Announce Type: new Abstract: LLM-based LEGO assembly generation requires both semantic grounding and physical feasibility. We identify a data-induced failure mode, PhysHack, in which the assemblies satisfy physical-validity constraints while producing structures that are geometrically misaligned, semantically inconsistent, or poorly calibrated. To address this challenge, we prop",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
