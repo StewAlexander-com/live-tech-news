@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T21:42:20.187142+00:00",
+  "generated_at": "2026-06-09T21:55:27.728983+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1970,6 +1970,22 @@
         "score": 1.1008
       },
       {
+        "id": "51adf06b75de6bf5",
+        "title": "If Claude Fable stops helping you, you'll never know",
+        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781039951000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:12"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0378
+      },
+      {
         "id": "74471d810746dbdd",
         "title": "Anthropic Releases Claude Fable, a 'Safe' Version of Mythos",
         "url": "https://slashdot.org/story/26/06/09/1951259/anthropic-releases-claude-fable-a-safe-version-of-mythos?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -2873,39 +2889,37 @@
         "score": 1.023
       },
       {
-        "id": "eda49284212e1ed8",
-        "title": "Apple's AI Overhaul Signals a Defining Shift for the Smartphone",
-        "url": "https://www.cnet.com/tech/mobile/apples-ai-overhaul-signals-defining-shift-smartphones/",
-        "source": "CNET",
+        "id": "4348037486415f27",
+        "title": "Microsoft Hacked To Deliver Malware To Claude and Gemini Users",
+        "url": "https://it.slashdot.org/story/26/06/09/1657218/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
         "lane": "ai",
         "published_ts": 1781024400000,
-        "summary": "Commentary: Siri AI and Apple Intelligence updates are less about \"catching up\" with competitors and more about a broader mobile evolution.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8629
-      },
-      {
-        "id": "f841382465ac346d",
-        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-        "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781024400000,
-        "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+        "summary": "An anonymous reader quotes a report from 404 Media: Microsoft has shut down a wave of its own repositories on GitHub, including those related to Azure and AI coding agents, as it investigates a data breach, according to research from cybersecurity researchers and a statement given to 404 Media by Microsoft. Hackers planted malware that would harvest peoples' credentials when they opened it in AI c",
         "tags": [
-          "ai",
-          "anthropic",
-          "claude",
-          "cybersecurity",
-          "mythos"
+          "security"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7348
+        "impact": "high",
+        "score": 1.0314
       }
     ],
     "science": [
+      {
+        "id": "4fed2a5f550a9ea2",
+        "title": "New warning system forecasts wildlife heat risk up to nine months ahead",
+        "url": "https://phys.org/news/2026-06-wildlife-months.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781041801000,
+        "summary": "An international group of scientists led by Josep M. Serra-Diaz, researcher at the Botanical Institute of Barcelona (IBB, CSIC-MCNB), has developed the first global early warning system capable of forecasting when and where vertebrate species will be exposed to unprecedented heat up to nine months in advance. The study, published in Nature Climate Change, demonstrates how operational climate predi",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0182
+      },
       {
         "id": "bde4a16c9cf21e4f",
         "title": "Distinctive language reveals likely conspiracy-community users across 500 million Reddit comments",
@@ -3814,21 +3828,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0967
-      },
-      {
-        "id": "5fbdc2fc644a2301",
-        "title": "iOS 27 Lets You Dismiss the 'Now Playing' Lock Screen Widget",
-        "url": "https://www.macrumors.com/2026/06/09/ios-27-dismiss-now-playing-lock-screen-widget/",
-        "source": "Mac Rumors",
-        "lane": "science",
-        "published_ts": 1781002855000,
-        "summary": "Apple in iOS 27 has made a small but significant change to how the Now Playing widget works on your iPhone's Lock Screen – you can now swipe it away to get rid of it. Previously, there was no way to dismiss the Now Playing interface on the Lock Screen. But in the first iOS 27 developer build released yesterday, a leftward swipe on the playback controls slides in a Clear button from the right. Clea",
-        "tags": [
-          "ios 27"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.996
       }
     ]
   },
