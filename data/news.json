@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T20:00:51.185011+00:00",
+  "generated_at": "2026-06-09T20:18:22.982176+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1002,6 +1002,37 @@
     ],
     "innovation": [
       {
+        "id": "7450cafad726a5f8",
+        "title": "Kalshi plans to require users seeking to make bets in some markets linked to material nonpublic information to submit an online form disclosing where they work (Wall Street Journal)",
+        "url": "https://www.techmeme.com/260609/p36#a260609p36",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1781035501000,
+        "summary": "Wall Street Journal: Kalshi plans to require users seeking to make bets in some markets linked to material nonpublic information to submit an online form disclosing where they work — The popular predictions market is putting new guardrails in place for certain bets as concerns about suspicious activity rise",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0754
+      },
+      {
+        "id": "e0f78b563eb223de",
+        "title": "How the 2020s Chip Crisis Led to a Buggy Saleae Analyzer in 2026",
+        "url": "https://hackaday.com/2026/06/09/how-the-2020s-chip-crisis-led-to-a-buggy-saeleae-analyzer-in-2026/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781035226000,
+        "summary": "For those of us old enough to remember the harrowing days of the early 2020s, alongside another major kerfuffle there was a complete breakdown in global supply chains that led …read more",
+        "tags": [
+          "hardware",
+          "repair hacks",
+          "saleae",
+          "saleae logic"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1597
+      },
+      {
         "id": "76c3ee01415a70df",
         "title": "I never knew what those double brackets in Excel meant — now I use them in almost every formula",
         "url": "https://www.makeuseof.com/double-brackets-in-excel/",
@@ -1019,6 +1050,21 @@
         "score": 0.8498
       },
       {
+        "id": "dde8fe9d2f54801e",
+        "title": "High-Severity Vulnerability In Linux Caused By a Single Errant Character",
+        "url": "https://it.slashdot.org/story/26/06/09/181245/high-severity-vulnerability-in-linux-caused-by-a-single-errant-character?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1781035200000,
+        "summary": "An anonymous reader quotes a report from Ars Technica: Researchers have analyzed a high-severity vulnerability in Linux that's able to escalate untrusted users to root by exploiting a bug you don't often see: a single errant character inside the kernel. The vulnerability, tracked as CVE-2026-23111, is located in nf_tables, a subsystem of the Linux kernel that provides packet filtering capabilities",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0438
+      },
+      {
         "id": "9b9c6343a38e250e",
         "title": "Apple says 79% of all iPhones and 86% of iPhones released in the last four years were running iOS 26 as of June 7, vs. 82% and 88% for iOS 18 before WWDC 2025 (Joe Rossignol/MacRumors)",
         "url": "https://www.techmeme.com/260609/p35#a260609p35",
@@ -1030,6 +1076,23 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0745
+      },
+      {
+        "id": "356af50f7dd3ae5c",
+        "title": "Vinted’s CEO says the US is an “enormous opportunity” as the $9B secondhand marketplace plots its Atlantic crossing",
+        "url": "https://thenextweb.com/news/vinted-9-billion-us-expansion-ipo-adam-jay-london-tech-week",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781033668000,
+        "summary": "Vinted, the Lithuanian secondhand marketplace valued at €8 billion after an €880 million secondary share sale in April, is pushing into the United States and sees an “enormous opportunity” in the American resale market, according to marketplace CEO Adam Jay. Speaking at London Tech Week on Sunday, Jay told CNBC that the shift toward secondhand […] This story continues at The Next Web",
+        "tags": [
+          "ecosystems",
+          "fintech and ecommerce",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8874
       },
       {
         "id": "191cfc6240b97a72",
@@ -1046,6 +1109,23 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8462
+      },
+      {
+        "id": "f48be08465769d9d",
+        "title": "MIT’s ultrasound wristband tracks every finger movement and lets you control a robot hand in real time",
+        "url": "https://thenextweb.com/news/mit-ultrasound-wristband-hand-tracking-robot-control",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781032673000,
+        "summary": "Engineers at MIT have built an ultrasound wristband that can track 22 degrees of freedom in the human hand and use that data to control a robotic hand in real time, according to research published in Nature Electronics in March 2026. The device uses a ring of small ultrasound transducers worn around the wrist to […] This story continues at The Next Web",
+        "tags": [
+          "deep tech",
+          "robots",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9533
       },
       {
         "id": "c63a57f1e8eec4ed",
@@ -1885,97 +1965,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9968
+      }
+    ],
+    "ai": [
+      {
+        "id": "17a1cc008846b8d0",
+        "title": "Hands-on with Claude Fable 5: impressive results with complex projects, including a data analysis tool built in just 9.5 hours and an interactive isochrone map (Ethan Mollick/One Useful Thing)",
+        "url": "https://www.techmeme.com/260609/p37#a260609p37",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781035804000,
+        "summary": "Ethan Mollick / One Useful Thing: Hands-on with Claude Fable 5: impressive results with complex projects, including a data analysis tool built in just 9.5 hours and an interactive isochrone map — Claude Fable represents another big jump in AI — I had early access to the first Mythos-class AI model being released to the public, Claude 5 Fable.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0771
       },
       {
-        "id": "5046ac38f432813c",
-        "title": "EcoFlow Stream Ultra X review: This is a balcony solar battery that changes everything for renters",
-        "url": "https://www.techradar.com/pro/ecoflow-stream-ultra-x-balcony-solar-battery-review",
+        "id": "75ed20463d168836",
+        "title": "Huawei just dropped a major AI chip surprise — but Nvidia should really be paying attention to the other big news from its rival",
+        "url": "https://www.techradar.com/pro/huawei-just-dropped-a-major-ai-chip-surprise-but-nvidia-should-be-paying-attention-to-the-other-news",
         "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1781010361000,
-        "summary": "The EcoFlow Stream Ultra X is 3.84 kWh plug-and-play home battery with integrated inverter, four MPPT solar inputs, AI energy management, and IP65 weatherproofing designed for balcony installation.",
+        "lane": "ai",
+        "published_ts": 1781035800000,
+        "summary": "The Ascend 950DT announcement mattered less than Huawei’s rapid development cadence and increasingly embedded artificial intelligence infrastructure ecosystem.",
         "tags": [
           "pro"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9139
+        "score": 0.9155
       },
-      {
-        "id": "630adc4bca919d61",
-        "title": "First Drive: The 2027 Rivian R2 entirely changes the EV game",
-        "url": "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
-        "source": "Ars Technica AI",
-        "lane": "innovation",
-        "published_ts": 1781010046000,
-        "summary": "Rivian's second EV is the sub-$60,000 R2, and it was worth the wait.",
-        "tags": [
-          "cars",
-          "features",
-          "car review",
-          "first drive",
-          "rivian r2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9778
-      },
-      {
-        "id": "a585c7cd80ff96ad",
-        "title": "Your RAM might be running in single-channel mode — here's how to check in 10 seconds",
-        "url": "https://www.makeuseof.com/ram-might-be-running-single-channel-mode-how-to-check/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781010020000,
-        "summary": "Most PCs run slower RAM setups without you realizing it.",
-        "tags": [
-          "technology explained",
-          "computer memory",
-          "performance tweaks"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8446
-      },
-      {
-        "id": "d42213c7ed6219e2",
-        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-        "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1781010000000,
-        "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-        "tags": [
-          "tc",
-          "ai",
-          "vibe coding",
-          "lovable"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8026
-      },
-      {
-        "id": "7f4f2378b77e5d04",
-        "title": "The Rivian R2 is too much fun to let drive itself",
-        "url": "https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1781010000000,
-        "summary": "Rivian may be all in on robotaxis and autonomy, but it's still got human drivers - and EV buyers - to win over. The pricey R1S SUV and R1T pickup brought Rivian A-list media attention and cult-hit status, but the company faces a critical next step. The 2027 R2 is Rivian's bid for mainstream success, […]",
-        "tags": [
-          "autonomous cars",
-          "electric cars",
-          "reviews",
-          "tech",
-          "transportation"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7869
-      }
-    ],
-    "ai": [
       {
         "id": "f91ef69664578f90",
         "title": "What Happens When Apple and Google Team Up to Build AI? 5 New Models",
@@ -2898,34 +2918,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0184
-      },
-      {
-        "id": "164a62eac735c562",
-        "title": "Taiwan weighs criminal ban on AI chip exports to all of China — stricter measures beyond blacklisted firms would make smuggling servers a crime",
-        "url": "https://www.tomshardware.com/tech-industry/taiwan-weighs-criminal-ban-on-ai-chip-exports-to-all-of-china-as-us-trade-talks-continue",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781020419000,
-        "summary": "Taiwan is considering far stricter export controls that would restrict AI chip sales to every customer in China.",
-        "tags": [
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
-      },
-      {
-        "id": "c8664edc6618f585",
-        "title": "If Apple's Siri AI works as it was shown in the WWDC demos, Apple is set to take the lead in consumer AI, with iPhone becoming the first true AI device (M.G. Siegler/Spyglass)",
-        "url": "https://www.techmeme.com/260609/p25#a260609p25",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781020201000,
-        "summary": "M.G. Siegler / Spyglass: If Apple's Siri AI works as it was shown in the WWDC demos, Apple is set to take the lead in consumer AI, with iPhone becoming the first true AI device — As the iPhone becomes the first true AI device... From a pure AI perspective, nothing Apple showcased during their WWDC keynote yesterday was particularly groundbreaking.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0701
       }
     ],
     "science": [
@@ -3806,52 +3798,53 @@
         "score": 1.0042
       },
       {
-        "id": "3fdb59236e42e90a",
-        "title": "Repetition Mismatch: Why Data Mixture Experiments Don't Scale and How to Fix Them",
-        "url": "https://arxiv.org/abs/2606.07597",
+        "id": "213e197eb1725d90",
+        "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+        "url": "https://arxiv.org/abs/2606.07780",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1780977600000,
+        "summary": "arXiv:2606.07780v1 Announce Type: new Abstract: Floods are among the most destructive natural hazards, and their increasing frequency under climate change makes satellite-based inundation mapping essential for disaster response. Geospatial foundation models pretrained on satellite archives offer geographic transferability, but their operational reliability across diverse, unseen events remains unc",
+        "tags": [
+          "cs.ai",
+          "cs.cv",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8284
+      },
+      {
+        "id": "c87dea65ad98052b",
+        "title": "Offline Reinforcement Learning for Plasma Control in Nuclear Fusion: Codebase and Benchmark",
+        "url": "https://arxiv.org/abs/2606.07550",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1780977600000,
-        "summary": "arXiv:2606.07597v1 Announce Type: new Abstract: Pre-training data mixtures are commonly tuned by running small-scale experiments and extrapolating to the target training budget. When high-quality data is scarce and must be repeated, this extrapolation frequently fails, but the source of the failure has not been isolated. We show that a primary culprit is a repetition mismatch: because high-quality",
+        "summary": "arXiv:2606.07550v1 Announce Type: new Abstract: Offline reinforcement learning (RL) offers a promising route for developing plasma controllers from historical tokamak data, since online trial-and-error on real devices is costly and risky. However, progress in this direction remains difficult to measure due to the lack of a standardized offline RL benchmark for realistic multi-actuator, long-horizo",
         "tags": [
           "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7714
+        "score": 0.8284
       },
       {
-        "id": "04f7458c74e71330",
-        "title": "Sample-Efficient Post-Training for LEGO Spatial-Physics Reasoning",
-        "url": "https://arxiv.org/abs/2606.07602",
+        "id": "906bbe7796300562",
+        "title": "Emergence via Phase Transitions: Mechanism Landscapes and Universal Convergence Across Complex Systems",
+        "url": "https://arxiv.org/abs/2606.07563",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1780977600000,
-        "summary": "arXiv:2606.07602v1 Announce Type: new Abstract: LLM-based LEGO assembly generation requires both semantic grounding and physical feasibility. We identify a data-induced failure mode, PhysHack, in which the assemblies satisfy physical-validity constraints while producing structures that are geometrically misaligned, semantically inconsistent, or poorly calibrated. To address this challenge, we prop",
+        "summary": "arXiv:2606.07563v1 Announce Type: new Abstract: Across machine learning, biology, and physics, independently evolving systems often converge toward strikingly similar high-level structures despite radically different microscopic details. Grokking circuits converge across random seeds, evolutionary lineages rediscover similar metabolic solutions, and renormalization flows approach common fixed poin",
         "tags": [
           "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7714
-      },
-      {
-        "id": "6cc756ebd9fbac78",
-        "title": "Finite Certificates for In-Context Determinacy and a Threshold Theory of Emergence in Language Models",
-        "url": "https://arxiv.org/abs/2606.07623",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1780977600000,
-        "summary": "arXiv:2606.07623v1 Announce Type: new Abstract: This paper develops a model-theoretic framework for verifying context-conditioned language-model behavior by replacing benchmark labels with finite semantic certificates. The first problem is finite determinacy: when do examples in a context force the answer to a query without changing model parameters? In finite-field linear task families, we prove ",
-        "tags": [
-          "cs.lg",
-          "cs.lo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7755
+        "score": 0.8284
       }
     ]
   },
