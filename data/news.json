@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-10T19:40:01.337861+00:00",
+  "generated_at": "2026-06-10T19:58:18.726949+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0e77529c609dbefe",
+        "title": "Wing drone delivery might not be a novelty anymore",
+        "url": "https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/",
+        "source": "TechCrunch",
+        "lane": "gadgets",
+        "published_ts": 1781121129000,
+        "summary": "Wing is expanding into seven more U.S. cities through its partnership with Walmart.",
+        "tags": [
+          "commerce",
+          "transportation",
+          "autonomous drones",
+          "commerce",
+          "drone",
+          "e-commerce"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7465
+      },
+      {
+        "id": "f0c2f1dc8dc49fe4",
+        "title": "Potensic just took on the DJI Lito X1 with its new and upgraded Atom 3 beginner drone — but the same US barriers to entry currently apply",
+        "url": "https://www.techradar.com/cameras/drones/potensic-just-took-on-the-dji-lito-x1-with-its-new-and-upgraded-atom-3-beginner-drone-but-the-same-us-barriers-to-entry-currently-apply",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781121000000,
+        "summary": "Potensic unveils the Atom 3, a beginner drone that rivals DJI, thanks to its 1/1.3-inch sensor, 4K 60p video with Log color profile, 50MP stills, 40-minute flight time, upgraded controller and competitive price",
+        "tags": [
+          "drones",
+          "cameras"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9156
+      },
       {
         "id": "383f9b4de9b2e633",
         "title": "This Microsoft Defender zero-day could give hackers unprecedented access to your system",
@@ -933,46 +969,27 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8443
-      },
-      {
-        "id": "b513138ef0c412ef",
-        "title": "We Are Crowd-Sourcing the Panopticon",
-        "url": "https://spectrum.ieee.org/unintended-consequences-video-surveillance",
-        "source": "IEEE Spectrum",
-        "lane": "gadgets",
-        "published_ts": 1781100653000,
-        "summary": "A man raises his phone as police move into a crowd. The video is shaky, loud, immediate. Within minutes, it is online. Within hours, it is everywhere. This is how accountability works now. Something happens, someone records it, and that footage can show what really happened, sometimes contradicting official accounts. It can empower citizens and create consequences for officials.But the footage’s l",
-        "tags": [
-          "surveillance",
-          "surveillance-state",
-          "facial-recognition",
-          "data-protection"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0913
-      },
-      {
-        "id": "22a197bf431d4156",
-        "title": "Valve is phasing out physical Steam gift cards due to scammers",
-        "url": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1781100638000,
-        "summary": "After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run out, citing scammers who \"continue to have an impact on Steam customers and other unsuspecting individuals.\" In its post, […]",
-        "tags": [
-          "gaming",
-          "news",
-          "pc gaming",
-          "security",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7857
       }
     ],
     "innovation": [
+      {
+        "id": "414f759c173925f7",
+        "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike",
+        "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1781121424000,
+        "summary": "North Koreans hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.",
+        "tags": [
+          "security",
+          "cybersecurity",
+          "hackers",
+          "north korean"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7477
+      },
       {
         "id": "d84893e8d2c10254",
         "title": "I switched to mobile Firefox and discovered features desktop Chrome doesn't even have",
@@ -1033,6 +1050,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7006
+      },
+      {
+        "id": "f8c797ed181a8267",
+        "title": "Seattle is close to approving a year-long ban on large data centers",
+        "url": "https://www.reddit.com/r/technology/comments/1u2bcc1/seattle_is_close_to_approving_a_yearlong_ban_on/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781117705000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9309
       },
       {
         "id": "734ae3516f369b9c",
@@ -1902,41 +1934,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9353
-      },
-      {
-        "id": "97de6f39417968bd",
-        "title": "Ivanti tells Sentry customers to patch now as critical bugs hit 10.0 and 9.9",
-        "url": "https://www.theregister.com/patches/2026/06/10/ivanti-urges-sentry-users-to-patch-two-critical-bugs/5253428",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781089493000,
-        "summary": "Remote, unauthenticated RCE with root privileges is about as bad as it gets",
-        "tags": [
-          "patches"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "4794524f10b14036",
-        "title": "BYD to install thousands of 5-minute EV chargers across Europe",
-        "url": "https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1781089472000,
-        "summary": "Chinese EV colossus BYD has announced plans to speed up its conquest of the European auto market with the rollout of superfast Flash Chargers across the continent. BYD has already installed the first new chargers in Germany and the UK, and plans to roll out 3,000 across Europe by the end of next year. At […]",
-        "tags": [
-          "electric cars",
-          "news",
-          "transportation"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7776
       }
     ],
     "ai": [
+      {
+        "id": "171c7f5f7fa78c8f",
+        "title": "Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems (Anthropic)",
+        "url": "https://www.techmeme.com/260610/p53#a260610p53",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781121301000,
+        "summary": "Anthropic: Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems — AI is advancing at exponential speed, and the policymaking process was built for a slower world. — We are sharing two policy proposals to prepare for AI progress.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0789
+      },
+      {
+        "id": "eb9b1e3cf7a5b8d0",
+        "title": "AI model 'hears' Bryde's whale calls in seismic data from South China Sea",
+        "url": "https://phys.org/news/2026-06-ai-bryde-whale-seismic-south.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1781121001000,
+        "summary": "Researchers have repurposed an AI model designed for visual identification tasks to detect Bryde's whale calls contained within seismic data collected in the South China Sea. The detection system precisely identified calls more than 96% of the time and even identified some call events that were missed when the data were examined by hand, according to the study published in Seismological Research L",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0987
+      },
+      {
+        "id": "0c3ade9248250efc",
+        "title": "Hands-On With iOS 27's Siri AI",
+        "url": "https://www.macrumors.com/2026/06/10/ios-27-siri-ai-hands-on/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1781120892000,
+        "summary": "The smarter, more capable version of Siri is finally here, available in iOS 27, iPadOS 27, and macOS Golden Gate. The updates are limited to developers right now, but there's a lot to look forward to this fall. Subscribe to the MacRumors YouTube channel for more videos. Personal Context is a ‌Siri‌ capability that distinguishes ‌Siri‌ AI from other chatbots like Claude and OpenAI. ‌Siri‌ has acces",
+        "tags": [
+          "featured",
+          "ios 27",
+          "siri"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0765
+      },
       {
         "id": "8570d8385630d6a1",
         "title": "Google's latest DiffusionGemma open AI model comes with a 4x speed boost",
@@ -1955,6 +2000,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0763
+      },
+      {
+        "id": "7cf273765a1804b4",
+        "title": "An essay on policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics (Dario Amodei)",
+        "url": "https://www.techmeme.com/260610/p51#a260610p51",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781119201000,
+        "summary": "Dario Amodei: An essay on policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, civil liberties, geopolitics — In one of the side plots to The Lord of the Rings, two of the Hobbits attempt to rouse Treebeard—a wise but ponderous sentient tree …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0668
       },
       {
         "id": "68dafc3d8c8cc0a2",
@@ -2854,77 +2912,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9143
-      },
-      {
-        "id": "e790ad6539da27c1",
-        "title": "Google Gemini outage frustrates users, but status page says everything’s fine (Updated)",
-        "url": "https://www.androidpolice.com/google-gemini-outage-frustrates-users-but-status-page-says-everythings-fine/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1781100049000,
-        "summary": "Users report 1076 and 1099 errors",
-        "tags": [
-          "google gemini",
-          "ai & machine learning"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9401
-      },
-      {
-        "id": "06418c5fd5d5b45e",
-        "title": "Google Gemini outage frustrates users, but status page says everything’s fine",
-        "url": "https://www.androidpolice.com/google-gemini-outage-frustrates-users-but-status-page-says-everythings-fine/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1781100049000,
-        "summary": "Users report 1076 and 1099 errors",
-        "tags": [
-          "google gemini",
-          "ai & machine learning"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9889
-      },
-      {
-        "id": "b215dec44a672aa3",
-        "title": "I’m relieved Siri AI isn’t trying to be a health coach",
-        "url": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781100000000,
-        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's WWDC coverage. You can expect our next issue at its usual time next […]",
-        "tags": [
-          "apple",
-          "apple event",
-          "column",
-          "optimizer",
-          "tech",
-          "wwdc 2026"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8456
-      },
-      {
-        "id": "0269f724cc8c3624",
-        "title": "A €0.01 bank transfer could compromise a banking AI agent",
-        "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781098751000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:18"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1001
       }
     ],
     "science": [
+      {
+        "id": "069ed085ef48d0db",
+        "title": "How ice-age sea-level falls may have turned seafloor volcanoes into ocean fertilizer",
+        "url": "https://phys.org/news/2026-06-ice-age-sea-falls-seafloor.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781120402000,
+        "summary": "Ice-age sea-level declines may have turned seafloor volcanoes into natural iron fertilizer for plankton, potentially enhancing ocean carbon storage, Boston College researchers report in the journal Nature Geoscience.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.014
+      },
       {
         "id": "918bb84016f2368d",
         "title": "'Cool Routes' finds cooler walking paths with hourly forecasts and street-level shade data",
@@ -3837,19 +3842,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.013
-      },
-      {
-        "id": "787866ea5aaec223",
-        "title": "MIT’s new spacecraft engine could send tiny satellites to Mars",
-        "url": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
-        "source": "ScienceDaily Tech",
-        "lane": "science",
-        "published_ts": 1781090655000,
-        "summary": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed with highly efficient long-range propulsion in a single compact system. A NASA-supported CubeSat mission will soon test the technology in orbit.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9881
       }
     ]
   },
