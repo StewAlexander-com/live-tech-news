@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T21:31:07.821922+00:00",
+  "generated_at": "2026-06-10T21:45:12.358997+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -34,6 +34,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0977
+      },
+      {
+        "id": "8a0ccfd397dba1a0",
+        "title": "NBCUniversal Channels Like Telemundo and Bravo Are Returning to Fubo",
+        "url": "https://www.cnet.com/tech/services-and-software/nbcuniversal-channels-are-returning-to-fubo/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1781124840000,
+        "summary": "After a months-long carriage dispute was resolved, missing channels like Telemundo will be restored.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8066
       },
       {
         "id": "d134658212f8e633",
@@ -955,25 +968,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9868
-      },
-      {
-        "id": "a820fe9046370098",
-        "title": "macOS 27 Hints at 'MacBook Ultra' in Three Ways",
-        "url": "https://www.macrumors.com/2026/06/10/macos-27-hints-at-macbook-ultra/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1781104107000,
-        "summary": "Apple this week unveiled macOS 27 Golden Gate, and the upcoming software update hints at the rumored \"MacBook Ultra\" in at least three ways. \"MacBook Ultra\" is the rumored name for a new high-end model above the MacBook Pro. The laptop is rumored to feature an OLED display, touch-screen capabilities, a Dynamic Island, a thinner design, and M6 Pro and M6 Max chips. macOS 27 includes a trio of hints",
-        "tags": [
-          "macos golden gate",
-          "macbook ultra"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0781
       }
     ],
     "innovation": [
+      {
+        "id": "c4f14604f862095d",
+        "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+        "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1781127212000,
+        "summary": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
+        "tags": [
+          "security",
+          "cybercrime",
+          "data breach",
+          "hackers",
+          "hacking",
+          "oracle"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7452
+      },
       {
         "id": "29dda1ce4159085b",
         "title": "Sources: Microsoft's Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas (Jason Schreier/Bloomberg)",
@@ -1921,23 +1938,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0167
-      },
-      {
-        "id": "374519ca1f49adfa",
-        "title": "The Raspberry Pi everyone stopped talking about is still worth buying",
-        "url": "https://www.makeuseof.com/raspberry-pi-stopped-talking-still-worth-buying/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781096419000,
-        "summary": "Everyone moved on. I didn’t.",
-        "tags": [
-          "technology explained",
-          "raspberry pi 3 b+",
-          "single-board computers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8351
       }
     ],
     "ai": [
@@ -2002,6 +2002,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9554
+      },
+      {
+        "id": "ef4b1ada8e909443",
+        "title": "Gemini Is Down? 'Majority of Users' Should Be OK Now, Google Says",
+        "url": "https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1781123820000,
+        "summary": "Many Google users are encountering \"something went wrong\" issues on Wednesday. Here are the latest updates.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8022
       },
       {
         "id": "5417c5e198616d6c",
@@ -2914,22 +2927,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8508
-      },
-      {
-        "id": "8efaa7b1ce755129",
-        "title": "WMG acquires AI attribution startup Sureel, as it seeks to track when its songs and recordings are used in the training of AI models or in AI-generated works (Kristin Robinson/Billboard)",
-        "url": "https://www.techmeme.com/260610/p37#a260610p37",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781103354000,
-        "summary": "Kristin Robinson / Billboard: WMG acquires AI attribution startup Sureel, as it seeks to track when its songs and recordings are used in the training of AI models or in AI-generated works — The deal is designed to help WMG track exactly where its songs are used in AI training and outputs.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0738
       }
     ],
     "science": [
+      {
+        "id": "20c388504a6f8e43",
+        "title": "New combined spore trapping and DNA sequencing technology tracks fungicide resistance in grain crops",
+        "url": "https://phys.org/news/2026-06-combined-spore-dna-sequencing-technology.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781127606000,
+        "summary": "Researchers at the Center for Crop and Disease Management (CCDM) have developed a new system that combines spore trapping with advanced DNA sequencing to confirm fungicide resistance from air samples containing airborne spores.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
+      {
+        "id": "93cd208009470f11",
+        "title": "'Cold insurance' for crops: Researchers unlock 'on-demand' climate resilience",
+        "url": "https://phys.org/news/2026-06-cold-crops-demand-climate-resilience.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781127604000,
+        "summary": "Rapidly intensifying global climate instability is causing increasingly erratic temperature fluctuations. When sudden cold snaps strike during a crop's critical flowering window, they trigger irreversible pollen abortion, slashing yields of staple crops by 20% to 60%. Passive defenses offer minimal protection at a high cost, while breeding for continuous cold resistance often backfires by wasting ",
+        "tags": [
+          "molecular & computational biology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
       {
         "id": "c826f35d7136101a",
         "title": "Cells have a secret power line: How the nucleus gets its own private energy supply from mitochondria",
@@ -3814,43 +3844,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0149
-      },
-      {
-        "id": "76fc70d9a244672a",
-        "title": "NASA Announces Artemis III Crew and Ambitious Goals",
-        "url": "https://hackaday.com/2026/06/10/nasa-announces-artemis-iii-crew-and-ambitious-goals/",
-        "source": "Hackaday",
-        "lane": "science",
-        "published_ts": 1781100054000,
-        "summary": "When the Artemis lunar program was first conceived, the third mission would have seen astronauts step foot on the Moon for the first time since Apollo 17 in 1972. But …read more",
-        "tags": [
-          "current events",
-          "featured",
-          "space",
-          "artemis",
-          "artemis iii",
-          "artemis program"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.068
-      },
-      {
-        "id": "115eec9fd85b10be",
-        "title": "I stopped Windows from keeping old drivers and my PC boot time dropped by half",
-        "url": "https://www.makeuseof.com/stopped-windows-from-keeping-old-drivers-pc-boot-time-dropped-by-half/",
-        "source": "MakeUseOf",
-        "lane": "science",
-        "published_ts": 1781100021000,
-        "summary": "I also reclaimed some storage space in the process.",
-        "tags": [
-          "windows",
-          "drivers",
-          "performance tweaks"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8404
       }
     ]
   },
