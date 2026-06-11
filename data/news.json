@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-11T16:31:08.833335+00:00",
+  "generated_at": "2026-06-11T16:44:41.252581+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ca3539f0238ea01f",
+        "title": "Memory famine compels GPU vendors to re-release 2020 graphics cards — GeForce RTX 3060 and GeForce RTX 3050 return to Asian market",
+        "url": "https://www.tomshardware.com/pc-components/gpus/memory-famine-compels-gpu-vendors-to-re-release-2020-graphics-cards-geforce-rtx-3060-and-geforce-rtx-3050-return-to-asian-market",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1781195630000,
+        "summary": "Graphics card manufacturer Manli adds new GeForce RTX 3060 and GeForce RTX 3050 SKUs to its portfolio.",
+        "tags": [
+          "gpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9467
+      },
       {
         "id": "7260d77679f0e1d1",
         "title": "Hackers are using TikTok videos offering 'free Spotify Premium' to spread malware and steal passwords",
@@ -38,6 +54,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8468
+      },
+      {
+        "id": "8621687bd2b431f9",
+        "title": "Trump phone has HTC guts. Tremendous guts. The best guts",
+        "url": "https://www.theregister.com/personal-tech/2026/06/11/trump-phone-has-htc-guts-tremendous-guts-the-best-guts/5254276",
+        "source": "The Register",
+        "lane": "gadgets",
+        "published_ts": 1781194432000,
+        "summary": "iFixit teardown reveals two-year-old, mid-range, Chinese Android",
+        "tags": [
+          "personal tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0397
       },
       {
         "id": "d123b8b4031116d2",
@@ -959,38 +990,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8088
-      },
-      {
-        "id": "e63e738071805b7c",
-        "title": "Insta360 unveiled its dual-lens Luna Ultra 8K vlogging camera early — here’s how its pricing and handling compares to the DJI Pocket 4",
-        "url": "https://www.techradar.com/cameras/video-cameras/insta360-unveiled-its-dual-lens-luna-ultra-8k-vlogging-camera-early-heres-how-its-pricing-and-handling-compares-to-the-dji-pocket-4",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781179248000,
-        "summary": "Insta360 has entered the vlogging camera market with a bang, with its new Luna Ultra. The compact, dual-lens modular camera shoots 8K video with Log color profile, and has some neat features to rival the DJI Pocket 4",
-        "tags": [
-          "video cameras",
-          "cameras"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8492
-      },
-      {
-        "id": "1a44f0c4fbbb575f",
-        "title": "Does your Apple TV support tvOS 27? These two models have surprisingly been dropped from upgrade support much earlier than expected",
-        "url": "https://www.techradar.com/televisions/streaming-devices/does-your-apple-tv-support-tvos-27-these-two-models-have-surprisingly-been-dropped-from-upgrade-support-much-earlier-than-expected",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781179237000,
-        "summary": "tvOS will come with a handful of performance boosts, but Apple is leaving two models out of the update.",
-        "tags": [
-          "streaming devices",
-          "televisions"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8492
       }
     ],
     "innovation": [
@@ -1073,6 +1072,21 @@
         "score": 1.0429
       },
       {
+        "id": "6a03ebd49fdc898c",
+        "title": "2.4M+ VRChat users’ data accessed following cloud breach",
+        "url": "https://www.theregister.com/security/2026/06/11/24m-vrchat-users-data-accessed-following-cloud-breach/5254246",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1781193660000,
+        "summary": "No disclosure via official channels, no offer of identity theft monitoring, no problem",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0354
+      },
+      {
         "id": "397056806923cb08",
         "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
         "url": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
@@ -1106,6 +1120,36 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7841
+      },
+      {
+        "id": "9732fb12b5b8b67f",
+        "title": "Cost per sample? Try cost per attempt",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/11/cost-per-sample-try-cost-per-attempt/5254313",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1781193236000,
+        "summary": "PARTNER CONTENT Your genomics pipeline is probably failing 30% of the time and you're paying for all of it",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.033
+      },
+      {
+        "id": "b010c4a00a7781f3",
+        "title": "Apple gives Mac devs a WSL-ish thing to call their own",
+        "url": "https://www.theregister.com/devops/2026/06/11/apple-gives-mac-devs-a-wsl-ish-thing-to-call-their-own/5254153",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1781192760000,
+        "summary": "Persistent containers promise native tooling and strong isolation, though docs, features, and memory handling need polish",
+        "tags": [
+          "devops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
       },
       {
         "id": "a74fbe9acfe5d951",
@@ -1905,58 +1949,45 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9961
-      },
-      {
-        "id": "0ccda102294d9665",
-        "title": "Not everything you can bet on is gambling, says CFTC in new prediction markets proposal",
-        "url": "https://readwrite.com/cftc-prediction-markets-proposal/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1781170849000,
-        "summary": "A new proposal from the Commodity Futures Trading Commission (CFTC) is setting the stage for what could become one of… Continue reading Not everything you can bet on is gambling, says CFTC in new prediction markets proposal The post Not everything you can bet on is gambling, says CFTC in new prediction markets proposal appeared first on ReadWrite.",
-        "tags": [
-          "prediction markets",
-          "commodity futures trading commission"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8965
-      },
-      {
-        "id": "f690c9f3ffdfe33b",
-        "title": "South Korea hits Coupang with record $409 million fine over massive data breach",
-        "url": "https://thenextweb.com/news/coupang-409-million-data-breach-fine-south-korea",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781170383000,
-        "summary": "South Korea’s privacy watchdog has slapped e-commerce giant Coupang with a record-breaking 624.7 billion won ($409 million) fine, the largest data breach penalty in the country’s history. The ruling, handed down today by the Personal Information Protection Commission (PIPC), dwarfs the previous record of 134.8 billion won imposed on telecoms firm SK Telecom last year. The […] This story continues ",
-        "tags": [
-          "asia",
-          "privacy",
-          "security",
-          "data and security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8826
-      },
-      {
-        "id": "8df6e7a8afe4067d",
-        "title": "Nottingham Uni says student records raided after ShinyHunters claims cyberattack",
-        "url": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-raids-nottingham-uni-for-student-alumni-data/5253961",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781169634000,
-        "summary": "Crooks claim 40 GB haul as breach database pegs number of exposed email addresses at 455K",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0391
       }
     ],
     "ai": [
+      {
+        "id": "cc377a81bcb78a7c",
+        "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+        "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781195780000,
+        "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+        "tags": [
+          "ai",
+          "apps",
+          "media & entertainment",
+          "ai music",
+          "deezer",
+          "generative ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8057
+      },
+      {
+        "id": "14639a976c35ee3a",
+        "title": "Running Claude Code Offline on an M3 Pro with Qwen3.6",
+        "url": "https://har-ki.github.io/claude-code-sre-handbook/handbook/06-air-gapped/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781195524000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0458
+      },
       {
         "id": "a859ac6ef056e716",
         "title": "AAPL Stock Slides Following WWDC, But Analysts Broadly Raise Targets",
@@ -2885,40 +2916,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0722
-      },
-      {
-        "id": "8700b2a4a62265f8",
-        "title": "Deezer now helps users find AI music on other streaming platforms",
-        "url": "https://www.engadget.com/2192024/deezer-ai-music-detector/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1781172591000,
-        "summary": "Deezer will now help you find AI slop in your music playlists even if you're on another platform.",
-        "tags": [
-          "entertainment"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7545
-      },
-      {
-        "id": "5ea8367daf3ff542",
-        "title": "Deezer just launched a free site to scan your playlists for AI slop — and yes, it works on Spotify, Apple Music and Tidal",
-        "url": "https://www.techradar.com/audio/audio-streaming/deezer-just-launched-a-free-site-to-scan-your-playlists-for-ai-slop-and-yes-it-works-on-spotify-apple-music-and-tidal",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781172567000,
-        "summary": "Deezer's new AI music detector scans playlists on any music streaming service to check for slop — but if you want the tracks named, shamed and nixed, you'll need to make the switch",
-        "tags": [
-          "audio streaming",
-          "audio"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.9108
       }
     ],
     "science": [
+      {
+        "id": "e8658b5c15bf8644",
+        "title": "Ocean glow meets 3D printing with living gels that sense mechanical force",
+        "url": "https://phys.org/news/2026-06-ocean-3d-gels-mechanical.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781196004000,
+        "summary": "The integration of biological organisms into synthetic structures offers a radical new pathway for developing intelligent, self-powered materials. Researchers have pioneered an innovative approach to biomanufacturing by using light-based 3D printing to engineer living material systems capable of localized environmental processing.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1
+      },
+      {
+        "id": "7eb0cc1c6c343939",
+        "title": "Municipal governments are often slow to act, except when FIFA comes to town",
+        "url": "https://phys.org/news/2026-06-municipal-fifa-town.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781196001000,
+        "summary": "With the 2026 FIFA World Cup kicking off, millions of soccer fans around the world will be following the tournament taking place across 16 host cities in Canada, Mexico and the United States.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0185
+      },
       {
         "id": "576e58bb9d7caec7",
         "title": "Novel nanowire device offers rapid, noninvasive cancer detection",
@@ -3026,6 +3056,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0181
+      },
+      {
+        "id": "72d92de3d7f5c47e",
+        "title": "Race against re-entry: Swift's would-be saviour straps itself to a rocket",
+        "url": "https://www.theregister.com/science/2026/06/11/race-against-re-entry-swifts-would-be-saviour-straps-itself-to-a-rocket/5254229",
+        "source": "The Register",
+        "lane": "science",
+        "published_ts": 1781191706000,
+        "summary": "Katalyst's LINK spacecraft is go for integration, with a launch from Kwajalein expected within weeks",
+        "tags": [
+          "science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1066
       },
       {
         "id": "98df9c22fd846300",
@@ -3776,56 +3821,17 @@
         "score": 1.0197
       },
       {
-        "id": "96f7434c71e80551",
-        "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
-        "url": "https://www.nature.com/articles/s41586-026-10784-1",
+        "id": "6f481efb11ab0d16",
+        "title": "‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport",
+        "url": "https://www.nature.com/articles/d41586-026-01865-2",
         "source": "Nature",
         "lane": "science",
         "published_ts": 1781136000000,
-        "summary": "Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+        "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge.",
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.8367
-      },
-      {
-        "id": "e5cf36db6c20e16a",
-        "title": "Tool flags suspicious journals before researchers submit papers",
-        "url": "https://www.nature.com/articles/d41586-026-01707-1",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1781136000000,
-        "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8839
-      },
-      {
-        "id": "4eccfee914e96684",
-        "title": "Whale graveyard discovered 7km under the sea",
-        "url": "https://www.nature.com/articles/d41586-026-01886-x",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1781136000000,
-        "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01886-xThe treasure trove of fossils and bones has already revealed a new species of extinct whale.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8999
-      },
-      {
-        "id": "53f534eb0045ae24",
-        "title": "My diverse academic background is affecting my PhD studies — what do I do?",
-        "url": "https://www.nature.com/articles/d41586-026-01129-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1781136000000,
-        "summary": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01129-zA PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8999
+        "score": 0.8331
       }
     ]
   },
