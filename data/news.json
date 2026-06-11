@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T05:18:33.090708+00:00",
+  "generated_at": "2026-06-11T05:30:51.329898+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1906,6 +1906,22 @@
     ],
     "ai": [
       {
+        "id": "930117385f98d76c",
+        "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+        "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781155002000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:15"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0452
+      },
+      {
         "id": "449fd60575694add",
         "title": "Opendoor says it is shutting down its India operations and laying off nearly 250 employees, replacing them with smaller, AI-enabled teams in the US (Moneycontrol)",
         "url": "https://www.techmeme.com/260611/p1#a260611p1",
@@ -2811,26 +2827,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0731
-      },
-      {
-        "id": "48dc3dc2f7736a3a",
-        "title": "Researchers tricked an OpenClaw AI agent into leaking AWS keys and customer data with a phishing email",
-        "url": "https://thenextweb.com/news/openclaw-ai-agent-phishing-varonis-pinchy",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781118782000,
-        "summary": "Security researchers at Varonis built an OpenClaw email agent, connected it to a Gmail inbox with fake company data, and then phished it. The agent, dubbed Pinchy, handed over AWS credentials, database connection strings, and a customer export without verifying who was asking. It took a single impersonation email. The experiment tested whether AI agents […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "security",
-          "next featured",
-          "data and security",
-          "openclaw",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9636
       }
     ],
     "science": [
