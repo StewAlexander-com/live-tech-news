@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-06-11T18:51:01.005303+00:00",
+  "generated_at": "2026-06-11T18:53:20.193037+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "e76e5ae7d73aa500",
+        "title": "iOS 27 Lets You Add Apple TV Remote to Your iPhone's Home Screen",
+        "url": "https://www.macrumors.com/2026/06/11/ios-27-apple-tv-remote-app/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1781203909000,
+        "summary": "Starting with iOS 27, the virtual Apple TV remote can be added to the iPhone's Home Screen again, rather than being limited to Control Center. To do so, swipe down on the Home Screen and search for \"remote.\" Next, tap and hold on the Remote app and drag it to your Home Screen. Alternatively, you can find it in the App Library. Apple used to offer an Apple TV Remote app in the App Store, but it was",
+        "tags": [
+          "apple tv",
+          "ios 27",
+          "home screen"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9995
+      },
       {
         "id": "8e918c389e5f2e0f",
         "title": "Boox's new Go 6 ereader offers stylus support for note-taking",
@@ -973,19 +990,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8396
-      },
-      {
-        "id": "632e61d6408419de",
-        "title": "Apple's 3D Processing Tricks Are Getting Impressive. I Want More",
-        "url": "https://www.cnet.com/tech/computing/apples-3d-processing-tricks-are-getting-more-impressive-i-want-more/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1781182860000,
-        "summary": "Spatially reframed photos. Panoramas that become whole environments. Maps with more realistic detail. Something's happening around the edges, and I think I know what it is.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8021
       }
     ],
     "innovation": [
@@ -3743,6 +3747,57 @@
         "score": 1.0583
       },
       {
+        "id": "89b31a1257948979",
+        "title": "ProHiFlo: Hierarchical Flow Matching with Functional Guidance for De Novo Protein Generation",
+        "url": "https://arxiv.org/abs/2606.11243",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11243v1 Announce Type: new Abstract: De novo protein generation has transformative potential in therapeutic design, enzyme engineering, and synthetic biology. While diffusion-based and flow matching approaches have achieved progress, they typically operate at single resolution and lack mechanisms for incorporating functional constraints. We introduce ProHiFlo, a hierarchical flow matchi",
+        "tags": [
+          "cs.lg",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7883
+      },
+      {
+        "id": "688e90a402654482",
+        "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+        "url": "https://arxiv.org/abs/2606.11409",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11409v1 Announce Type: new Abstract: Adversarial robustness evaluations of large language models (LLMs) typically report attack success rate (ASR) under fixed query budgets, implicitly treating all attacks as equally costly. In practice, the computational expense of different attack strategies can vary by orders of magnitude. Consequently, ASR at a fixed budget can obscure the true effo",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7883
+      },
+      {
+        "id": "36ea0b272b7ec5a4",
+        "title": "Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems",
+        "url": "https://arxiv.org/abs/2606.11474",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11474v1 Announce Type: new Abstract: In this paper, we study Mahalanobis-guided latent out-of-distribution (OOD) detection for test-time RL controller switching in nonlinear time-varying systems. RL controllers can quickly control high-dimensional systems within the training distribution, but their performance can degrade when time-varying dynamics produce unseen observations. We consid",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy",
+          "physics.acc-ph"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7883
+      },
+      {
         "id": "9d457bac4d4c94b1",
         "title": "Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components",
         "url": "https://arxiv.org/abs/2606.11258",
@@ -3758,55 +3813,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1097
-      },
-      {
-        "id": "ff9977a894dd1748",
-        "title": "Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints",
-        "url": "https://arxiv.org/abs/2606.11341",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781150400000,
-        "summary": "arXiv:2606.11341v1 Announce Type: new Abstract: Modular neural network pipelines suffer from error compounding: noise at any module boundary propagates and potentially amplifies through subsequent modules. We introduce energy conservation as a hard physical constraint on inter-module information flow. Activation energy (the squared L2 norm of feature vectors) is enforced to be exactly preserved at",
-        "tags": [
-          "cs.lg",
-          "cs.ro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1097
-      },
-      {
-        "id": "8badf17986ea582a",
-        "title": "LSTM-Based Detection of Structural Breaks in Property Insurance Loss Reserving: A Climate-Informed Approach",
-        "url": "https://arxiv.org/abs/2606.11463",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781150400000,
-        "summary": "arXiv:2606.11463v1 Announce Type: new Abstract: Accurate loss reserving is foundational to insurer solvency, yet accelerating climate driven catastrophes systematically violate the stability assumptions on which traditional actuarial methods depend. This white paper presents a research program testing whether Long Short Term Memory (LSTM) neural networks can detect and adapt to these structural br",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1097
-      },
-      {
-        "id": "2cd443e8e53c2541",
-        "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
-        "url": "https://arxiv.org/abs/2606.11245",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1781150400000,
-        "summary": "arXiv:2606.11245v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for advancing LLMs toward AGI. The key reason is that the underlying learning mechanism of LLMs is highly analogous ",
-        "tags": [
-          "cs.ai",
-          "cs.ne",
-          "q-bio.nc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0275
       }
     ]
   },
