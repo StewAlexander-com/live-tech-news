@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T06:48:10.291439+00:00",
+  "generated_at": "2026-06-11T07:01:22.741151+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -959,6 +959,21 @@
     ],
     "innovation": [
       {
+        "id": "dfff2c6aac7b0468",
+        "title": "Every employee’s password was stored in a single Excel file",
+        "url": "https://www.theregister.com/security/2026/06/11/every-employees-password-was-stored-in-a-single-excel-file/5253784",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1781161200000,
+        "summary": "The CEO thought this was the best way to deal with some email issues",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0495
+      },
+      {
         "id": "a9a0d248a7caa79c",
         "title": "FSB-orchestrated internet outages in Russia, intermittent but indiscriminate, have made one of the world's most online nations resort to cash and paper maps (Financial Times)",
         "url": "https://www.techmeme.com/260611/p6#a260611p6",
@@ -1870,28 +1885,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0317
-      },
-      {
-        "id": "fb6e6218ac12112a",
-        "title": "FLOSS Weekly Episode 870: Open Source Gardening",
-        "url": "https://hackaday.com/2026/06/10/floss-weekly-episode-870-open-source-gardening/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1781116251000,
-        "summary": "This week Jonathan chats with Alexander Neumann about Restic, a particularly compelling backup and restore solution written in Go. Why did the world need one more backup program? And what’s …read more",
-        "tags": [
-          "hackaday columns",
-          "podcasts",
-          "backups",
-          "floss weekly",
-          "restic"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0768
       }
     ],
     "ai": [
+      {
+        "id": "5cbeff662c1879c6",
+        "title": "Prince William's Homewards programme wants to use big data and AI to stop homelessness before it happens",
+        "url": "https://www.techradar.com/pro/prince-williams-homewards-wants-to-use-big-data-and-ai-to-stop-homelessness-before-it-happens",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1781161200000,
+        "summary": "Salesforce provides AI know-how to help power Homewards' fight against homelessness in the UK.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9176
+      },
       {
         "id": "996a77c13a25472d",
         "title": "OpenAI says fake accounts from China tried to turn Americans against data centers",
@@ -2793,19 +2804,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0765
-      },
-      {
-        "id": "2bff9b7da008031b",
-        "title": "Gemini Is Down? Live Updates on Google Workspace's AI Errors",
-        "url": "https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1781120160000,
-        "summary": "It's not just you. Many Google users are encountering \"something went wrong\" issues on Wednesday.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8381
       }
     ],
     "science": [
