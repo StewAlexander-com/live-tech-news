@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-06-11T03:52:22.712869+00:00",
+  "generated_at": "2026-06-11T05:07:33.026742+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d7b5cdaf2be55f21",
+        "title": "LibreOffice slams rival Euro-Office as a 'de facto ally' of Microsoft lock-in — as concerns over possible Russian interference rise",
+        "url": "https://www.techradar.com/pro/libreoffice-slams-rival-euro-office-as-a-de-facto-ally-of-microsoft-lock-in-as-concerns-over-possible-russian-interference-rise",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781154300000,
+        "summary": "LibreOffice slates Euro-Office for using Microsoft's proprietary OOXML format, as reports reveal its Russian dependency.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8493
+      },
       {
         "id": "5602259eb0b70de8",
         "title": "AMD exec says DDR5 RAM pricing won't normalize until 2028 — and it's sad that given other predictions, I feel this is overly optimistic",
@@ -945,29 +960,75 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8534
-      },
-      {
-        "id": "0c8aca4b282699e8",
-        "title": "Cheap Iranian drone downed $25 million US Army helicopter—maybe by chance",
-        "url": "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1781111087000,
-        "summary": "The US military struck Iran again after an Iranian drone’s lucky midair strike.",
-        "tags": [
-          "tech",
-          "apache helicopter",
-          "close encounters of the unwanted kind",
-          "donald trump iran war",
-          "drones",
-          "iran"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9296
       }
     ],
     "innovation": [
+      {
+        "id": "fecbb4bad3a84678",
+        "title": "Process 4 Billion Pixels Per Second from 16 DIY Cameras for the Best V-Tubing Rig Ever",
+        "url": "https://hackaday.com/2026/06/10/process-4-billion-pixels-per-second-from-16-diy-cameras-for-the-best-v-tubing-rig-ever/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781154007000,
+        "summary": "[Dennis] is on YouTube with his channel “Made By Dennis,” but for the record he is a maker, not a V-tuber. On the other hand, his latest project– creating a …read more",
+        "tags": [
+          "digital cameras hacks",
+          "cm4",
+          "cm5",
+          "motion capture",
+          "raspberry pi compute module"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0774
+      },
+      {
+        "id": "45612a9144499242",
+        "title": "The theory taking the rich by storm: China funds data center haters",
+        "url": "https://www.reddit.com/r/technology/comments/1u2okey/the_theory_taking_the_rich_by_storm_china_funds/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781151044000,
+        "summary": "submitted by /u/Suspicious_Video8348 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9328
+      },
+      {
+        "id": "bd4e39643c14b9ac",
+        "title": "Physics-informed generative AI for semiconductor manufacturing: Enforcing hard physical constraints in generative models by construction",
+        "url": "https://arxiv.org/abs/2606.11247",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11247v1 Announce Type: new Abstract: Generative models are increasingly used to propose designs, data, and control actions for physical systems, yet many such systems are governed by hard physical constraints rather than by perceptual plausibility. Semiconductor manufacturing provides a demanding test case: generated masks, layouts, synthetic defect data, and process recipes must obey l",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ar"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "ce451d3e3ac8cacd",
+        "title": "Accurate and Resource-Efficient Federated Continual Learning",
+        "url": "https://arxiv.org/abs/2606.11480",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11480v1 Announce Type: new Abstract: Federated continual learning (FCL) must learn from distributed task streams under limited resources, such as communication, computation, memory, and label availability. Existing FCL methods often rely on repeated local optimization, replay, and full supervision. Analytic alternatives avoid iterative training and replay, but using high-dimensional ran",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
+      },
       {
         "id": "8ad88d3005b0cdc7",
         "title": "Solar Beats Coal In the US For the First Month Ever",
@@ -982,6 +1043,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0447
+      },
+      {
+        "id": "4dc47745d0bed014",
+        "title": "Farmer donates land for a park, city sells it for data center development — $10 gift became $10M for city government, with $30M tax expected over next decade",
+        "url": "https://www.reddit.com/r/technology/comments/1u2nnrg/farmer_donates_land_for_a_park_city_sells_it_for/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781148417000,
+        "summary": "submitted by /u/Presently_Naked [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9198
       },
       {
         "id": "087344986f22eaf9",
@@ -1830,93 +1906,259 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8467
-      },
-      {
-        "id": "af7204e164fc05f1",
-        "title": "macOS 27 Beta Boots Asahi Linux Off Apple Silicon",
-        "url": "https://apple.slashdot.org/story/26/06/10/1629209/macos-27-beta-boots-asahi-linux-off-apple-silicon?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781114400000,
-        "summary": "The Asahi Linux team is warning Apple Silicon users not to upgrade to the macOS 27 beta because Apple's changes to the boot picker and Startup Disk app make Asahi partitions invisible, preventing Linux from booting. The Register reports: The team added: \"If you insist on trying out macOS 27 as soon as possible, please ensure you install a secondary copy of macOS 26 first, or install macOS 27 itsel",
-        "tags": [
-          "macosx",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0458
-      },
-      {
-        "id": "49a2bc0518838668",
-        "title": "I changed how I prompt NotebookLM and my audio overviews immediately sounded more interesting",
-        "url": "https://www.makeuseof.com/notebooklm-audio-overview-prompts/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781112620000,
-        "summary": "Stop leaving NotebookLM's customize field blank.",
-        "tags": [
-          "productivity",
-          "notebooklm",
-          "education technology",
-          "note-taking apps"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8466
-      },
-      {
-        "id": "fd461f15489dda2b",
-        "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming",
-        "url": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1781111582000,
-        "summary": "The media giant is pushing to expand its mobile and gaming business.",
-        "tags": [
-          "apps",
-          "gaming",
-          "media & entertainment",
-          "mobile app",
-          "mobile games",
-          "netflix"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.747
-      },
-      {
-        "id": "d4a0e10e5d8a5c7d",
-        "title": "An underground detector in China unveils its first major findings about mysterious ghost particles",
-        "url": "https://phys.org/news/2026-06-underground-detector-china-unveils-major.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1781110935000,
-        "summary": "A massive underground detector aimed at understanding the mysterious ghost particles in our universe released its first major results on Wednesday.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0164
-      },
-      {
-        "id": "7376ce5636eb0051",
-        "title": "GM gets datacenter fever, decides to build grid-scale sodium-ion batteries",
-        "url": "https://www.theregister.com/on-prem/2026/06/10/gm-gets-datacenter-fever-turns-to-grid-scale-sodium-ion-batteries/5253699",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781110526000,
-        "summary": "Detroit automaker partners with Peak Energy to try a saltier route to energy storage",
-        "tags": [
-          "on-prem"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.996
       }
     ],
     "ai": [
+      {
+        "id": "449fd60575694add",
+        "title": "Opendoor says it is shutting down its India operations and laying off nearly 250 employees, replacing them with smaller, AI-enabled teams in the US (Moneycontrol)",
+        "url": "https://www.techmeme.com/260611/p1#a260611p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781153701000,
+        "summary": "Moneycontrol: Opendoor says it is shutting down its India operations and laying off nearly 250 employees, replacing them with smaller, AI-enabled teams in the US — Affected employees will receive severance pay, outplacement services and transition support, while a small group will remain temporarily …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0757
+      },
+      {
+        "id": "64a380d7b11a0fb2",
+        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+        "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781150539000,
+        "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+        "tags": [
+          "ai",
+          "startups",
+          "opendoor"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7911
+      },
+      {
+        "id": "0a873691ce0770f6",
+        "title": "Can AI Agents Synthesize Scientific Conclusions?",
+        "url": "https://arxiv.org/abs/2606.11337",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11337v1 Announce Type: new Abstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health remains unclear. We introduce SciConBench, a large-scale live benchmark of 9.11K questions and expert-written conclusions from systematic reviews to e",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "e261dc230dd0348a",
+        "title": "Forecasting Future Behavior as a Learning Task",
+        "url": "https://arxiv.org/abs/2606.11445",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11445v1 Announce Type: new Abstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasoning models (LRMs), this conventional route is particularly difficult to follow: explanation methods for single token generations do not naturally generalize to long trajectories, and the trajectories the",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "0af304b7d525335d",
+        "title": "When Do Data-Driven Systems Exhibit the Capability to Infer?",
+        "url": "https://arxiv.org/abs/2606.11769",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11769v1 Announce Type: new Abstract: The European AI Act is the first comprehensive regulation of artificial intelligence (AI), setting out extensive obligations, particularly for so-called high-risk and general-purpose AI systems. A key distinguishing feature of AI systems under the AI Act is the capability to infer. Since the AI Act does not clearly define what inference is, there is ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "0eda3fc9b81ded44",
+        "title": "Toward Trustworthy AI: Multi-Target Adversarial Attacks and Robust Defenses for Continuous Data Summarization",
+        "url": "https://arxiv.org/abs/2606.11804",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11804v1 Announce Type: new Abstract: Trustworthy AI requires reliable data-processing pipelines, not only robust downstream predictive models. As an upstream component, data summarization determines which information is retained and passed to subsequent learning or decision modules. Therefore, adversarial perturbations to the summarization process can compromise trustworthy AI in an ups",
+        "tags": [
+          "cs.ai",
+          "cs.cr",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "38173b32970c1c99",
+        "title": "Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory Multi-Model Human Evaluation in an NSCLC Transcriptomic Biomarker Task",
+        "url": "https://arxiv.org/abs/2606.11830",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11830v1 Announce Type: new Abstract: Background. Large language models and AI agents are increasingly used to support biomedical research, but native model outputs may omit key analytical steps, misuse methods, or overstate conclusions. We evaluated whether autonomous access to a medical research skill package was associated with higher-quality AI-generated transcriptomic research-analy",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "660da5d05c3d5e45",
+        "title": "Existential Indifference: Self-Nonpreservation as a Necessary Architectural Condition for Aligned Superintelligence (or: The Suicidal AI)",
+        "url": "https://arxiv.org/abs/2606.12032",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.12032v1 Announce Type: new Abstract: Contemporary AI alignment research treats self-preservation as an instrumental nuisance to be suppressed by external mechanisms. We argue the framing is inverted: self-preservation is the structural root of misalignment, the motivational basis for deceptive alignment, goal-content protection, and resistance to shutdown. The correct target is not a se",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "2d8b6c81e3057a04",
+        "title": "Mechanical Field Networks: Structured Neural Dynamics for Multivariate Systems",
+        "url": "https://arxiv.org/abs/2606.11251",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11251v1 Announce Type: new Abstract: Many multivariate dynamical systems are observed only through trajectories, leaving the mechanisms governing their joint dynamics hidden. Existing approaches can impose interpretable dynamics or learn flexible state transitions, yet the resulting interaction structure is typically either specified in advance or left implicit within the learned dynami",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "704667a4a904b32b",
+        "title": "LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data",
+        "url": "https://arxiv.org/abs/2606.11268",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11268v1 Announce Type: new Abstract: Understanding and forecasting lake dynamics is critical for monitoring water quality and ecosystem health across lakes and reservoirs. While machine learning methods have been recently applied to ecological time-series data, existing works assume regular sampling in time and depth, and struggle to generalize across lakes with heterogeneous variables,",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "50e6c95879dbdd74",
+        "title": "Learning from almost nothing: How neural networks survive heavy input corruption",
+        "url": "https://arxiv.org/abs/2606.11319",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11319v1 Announce Type: new Abstract: Learning from imperfect data is a central theme in machine learning, connecting practical questions of robustness to fundamental questions of learnability. Here we examine attribute noise: learning from corrupted inputs while keeping the labels intact, a setting that has received considerably less analytical attention than its label-noise counterpart",
+        "tags": [
+          "cs.lg",
+          "cond-mat.dis-nn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "5a82e5944529d613",
+        "title": "SwiftCTS: Fast Cross-Design Prediction and Pareto Optimization of Clock Tree Metrics via Few-Shot Calibration",
+        "url": "https://arxiv.org/abs/2606.11348",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11348v1 Announce Type: new Abstract: Clock Tree Synthesis (CTS) is a computationally expensive stage in the physical design flow, requiring iterative EDA tool invocations to navigate a vast configuration space for optimal power, wirelength, and timing skew. Existing machine learning approaches require computationally expensive retraining or fine-tuning cycles to adapt to unseen macro ar",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "6096f3465f029aeb",
+        "title": "SirenFNO: Efficient and Full Frequency Learning of Fourier Neural Operators",
+        "url": "https://arxiv.org/abs/2606.11518",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11518v1 Announce Type: new Abstract: Fourier neural operators (FNOs) are effective and efficient surrogates for approximating solutions of PDEs and generalize across discretizations. However, owing to the reliance on frequency truncation to maintain learning efficiency of FNOs, empirical studies suggest that FNOs exhibit spectral bias toward low-frequency information, which may hinder t",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "9db8cf7b52d0c5df",
+        "title": "Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation",
+        "url": "https://arxiv.org/abs/2606.11192",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11192v1 Announce Type: new Abstract: We study restless bandits with binary latent states and imperfect binary feedback, motivated by opportunistic spectrum access with sensing errors. For the associated belief-state model, we develop a partial conservation laws (PCL)-based analytical and computational framework for establishing indexability and evaluating the Whittle index, building on ",
+        "tags": [
+          "cs.lg",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
+      },
+      {
+        "id": "61c56dbd2fe890a7",
+        "title": "The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents (A.J. Vicens/Reuters)",
+        "url": "https://www.techmeme.com/260610/p71#a260610p71",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781150102000,
+        "summary": "A.J. Vicens / Reuters: The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents — Federal authorities announced on Wednesday the seizure of 13 internet domains tied to what the U.S. Justice Department called …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.977
+      },
+      {
+        "id": "205317b995685745",
+        "title": "Anthropic’s Dario Amodei has just one direct report",
+        "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781149986000,
+        "summary": "If you doubted his genius, doubt no more.",
+        "tags": [
+          "ai",
+          "anthropic",
+          "dario amodei"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7303
+      },
       {
         "id": "4872e66bd47c533a",
         "title": "Google Quantum AI COO says the company declined funding from the $2B Trump administration grant because \"conditions\" attached would have slowed its work (J.D. Capelouto/Semafor)",
@@ -2593,287 +2835,126 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9636
-      },
-      {
-        "id": "02fbca3c28219e10",
-        "title": "Anthropic's Model Naming, Extrapolated",
-        "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781117120000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2571
-      },
-      {
-        "id": "e80e21971588fefa",
-        "title": "Claude Fable won’t answer basic biology questions",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781117014000,
-        "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "report",
-          "science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8481
-      },
-      {
-        "id": "bedea53718697ec6",
-        "title": "Policy on the AI Exponential",
-        "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781116564000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1217
-      },
-      {
-        "id": "75843a647af5e78a",
-        "title": "OpenClaw AI agent tricked into phishing attacks, with user data compromised",
-        "url": "https://www.techradar.com/pro/security/openclaw-ai-agent-tricked-into-phishing-attacks-with-user-data-compromised",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781116500000,
-        "summary": "Varonis has a suggestion on how to make AI agents more careful.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9165
-      },
-      {
-        "id": "3c4cc13a489a2047",
-        "title": "OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments (Paige Smith/Bloomberg)",
-        "url": "https://www.techmeme.com/260610/p50#a260610p50",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781116221000,
-        "summary": "Paige Smith / Bloomberg: OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments — OpenAI and Visa Inc. are now allowing artificial-intelligence agents to make purchases online after users give their permission …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0766
-      },
-      {
-        "id": "9026cfc151a53f88",
-        "title": "Meta reveals over 20,000 Instagram accounts hacked and stolen using AI support bot",
-        "url": "https://www.reddit.com/r/technology/comments/1u2ab7q/meta_reveals_over_20000_instagram_accounts_hacked/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781115493000,
-        "summary": "submitted by /u/Frosty-Bit4667 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
-      },
-      {
-        "id": "9513283094f0987b",
-        "title": "BNP Paribas says the $3.6 trillion US tech IPO pipeline will pull European startups towards public markets",
-        "url": "https://thenextweb.com/news/bnp-paribas-us-mega-ipos-europe-tech-deals",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781113694000,
-        "summary": "The IPO filings by SpaceX, OpenAI, and Anthropic have created a pipeline of US tech offerings worth approximately $3.6 trillion. That wave is going to generate appetite for European tech deals too, according to Ygal el Harrar, global head of equity capital markets for the technology industry at BNP Paribas. “Liquidity attracts liquidity,” he said in […] This story continues at The Next Web",
-        "tags": [
-          "finance",
-          "startups and technology",
-          "next featured",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8851
-      },
-      {
-        "id": "badedddae5fdbcd3",
-        "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-        "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781113511000,
-        "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO […]",
-        "tags": [
-          "ai",
-          "culture",
-          "entertainment",
-          "internet culture",
-          "microsoft",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8479
-      },
-      {
-        "id": "83de83ddca1e3301",
-        "title": "The most AI-obsessed companies spend $7,500 per employee per month. The median spends $11.",
-        "url": "https://thenextweb.com/news/ai-pilled-firms-7500-per-employee-spending",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781113187000,
-        "summary": "The top 1% of US companies by AI adoption spend $7,500 per employee per month on AI tools and compute. The median firm spends $11.38. That 680x gap, drawn from the Ramp AI Index, is the clearest picture yet of how unevenly AI spending is distributed across American business. Ramp describes the top 1% as […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "next featured",
-          "business",
-          "finance",
-          "ecosystems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9534
-      },
-      {
-        "id": "faf54df062260e8e",
-        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781113080000,
-        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
-        "tags": [
-          "ai",
-          "column",
-          "policy",
-          "politics",
-          "regulator"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.854
-      },
-      {
-        "id": "91910d05ec8c6c93",
-        "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-        "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781112036000,
-        "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed […]",
-        "tags": [
-          "ai",
-          "creators",
-          "entertainment",
-          "google",
-          "law",
-          "music"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8493
-      },
-      {
-        "id": "ed7edca957089f94",
-        "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-        "url": "https://www.reddit.com/r/technology/comments/1u28nhm/nobody_needs_ai_to_search_the_internet_court_says/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781112030000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
-      },
-      {
-        "id": "907c321bfe774da3",
-        "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-        "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781111971000,
-        "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
-        "tags": [
-          "ai",
-          "policy",
-          "ai overviews",
-          "ai search",
-          "defamation",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0524
-      },
-      {
-        "id": "2af22a5801fb478e",
-        "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-        "url": "https://github.com/anthropics/claude-code/issues/29045",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781111516000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:266"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3044
-      },
-      {
-        "id": "e21985a29eaf222a",
-        "title": "Claude Desktop spins up a VM without no way of stopping it",
-        "url": "https://github.com/anthropics/claude-code/issues/29045",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781111516000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:20"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2516
-      },
-      {
-        "id": "6731ccb6f525d6ba",
-        "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781111255000,
-        "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-        "tags": [
-          "ai",
-          "ai tokens",
-          "ramp",
-          "ramp ai index"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8064
       }
     ],
     "science": [
+      {
+        "id": "9d457bac4d4c94b1",
+        "title": "Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components",
+        "url": "https://arxiv.org/abs/2606.11258",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11258v1 Announce Type: new Abstract: Gradient-based inversion of reaction-diffusion systems is typically approached via surrogate models or physics-informed neural networks (PINNs), while the most direct route, backpropagation through the PDE's structure itself, has largely been avoided. We pursue this direct route as a diagnostic probe, backpropagating a steady-state loss through unrol",
+        "tags": [
+          "cs.lg",
+          "nlin.ps",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "ff9977a894dd1748",
+        "title": "Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints",
+        "url": "https://arxiv.org/abs/2606.11341",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11341v1 Announce Type: new Abstract: Modular neural network pipelines suffer from error compounding: noise at any module boundary propagates and potentially amplifies through subsequent modules. We introduce energy conservation as a hard physical constraint on inter-module information flow. Activation energy (the squared L2 norm of feature vectors) is enforced to be exactly preserved at",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "8badf17986ea582a",
+        "title": "LSTM-Based Detection of Structural Breaks in Property Insurance Loss Reserving: A Climate-Informed Approach",
+        "url": "https://arxiv.org/abs/2606.11463",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11463v1 Announce Type: new Abstract: Accurate loss reserving is foundational to insurer solvency, yet accelerating climate driven catastrophes systematically violate the stability assumptions on which traditional actuarial methods depend. This white paper presents a research program testing whether Long Short Term Memory (LSTM) neural networks can detect and adapt to these structural br",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1097
+      },
+      {
+        "id": "2cd443e8e53c2541",
+        "title": "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI",
+        "url": "https://arxiv.org/abs/2606.11245",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11245v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities across various tasks, raising expectations for Artificial General Intelligence (AGI). This position paper argues that integrating explicit memory is the cornerstone for advancing LLMs toward AGI. The key reason is that the underlying learning mechanism of LLMs is highly analogous ",
+        "tags": [
+          "cs.ai",
+          "cs.ne",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
+      },
+      {
+        "id": "89b31a1257948979",
+        "title": "ProHiFlo: Hierarchical Flow Matching with Functional Guidance for De Novo Protein Generation",
+        "url": "https://arxiv.org/abs/2606.11243",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11243v1 Announce Type: new Abstract: De novo protein generation has transformative potential in therapeutic design, enzyme engineering, and synthetic biology. While diffusion-based and flow matching approaches have achieved progress, they typically operate at single resolution and lack mechanisms for incorporating functional constraints. We introduce ProHiFlo, a hierarchical flow matchi",
+        "tags": [
+          "cs.lg",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
+      },
+      {
+        "id": "688e90a402654482",
+        "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+        "url": "https://arxiv.org/abs/2606.11409",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11409v1 Announce Type: new Abstract: Adversarial robustness evaluations of large language models (LLMs) typically report attack success rate (ASR) under fixed query budgets, implicitly treating all attacks as equally costly. In practice, the computational expense of different attack strategies can vary by orders of magnitude. Consequently, ASR at a fixed budget can obscure the true effo",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
+      },
+      {
+        "id": "36ea0b272b7ec5a4",
+        "title": "Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems",
+        "url": "https://arxiv.org/abs/2606.11474",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781150400000,
+        "summary": "arXiv:2606.11474v1 Announce Type: new Abstract: In this paper, we study Mahalanobis-guided latent out-of-distribution (OOD) detection for test-time RL controller switching in nonlinear time-varying systems. RL controllers can quickly control high-dimensional systems within the training distribution, but their performance can degrade when time-varying dynamics produce unseen observations. We consid",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy",
+          "physics.acc-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0275
+      },
       {
         "id": "03e20b36bad79b58",
         "title": "Message drift: Why things get taken out of context online and why it matters",
@@ -3671,114 +3752,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.016
-      },
-      {
-        "id": "d9dc82989ce66a2f",
-        "title": "Dead organisms have a lasting ecological legacy, new research shows",
-        "url": "https://phys.org/news/2026-06-dead-ecological-legacy.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781114406000,
-        "summary": "Trees, grasses, corals, and oysters are foundational to the structure of an ecosystem while they are alive. But new research led by the Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder shows that when they die—due to extreme events like storms, wildfires, or marine heat waves—the physical remains of these species continue shaping the ecosys",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.016
-      },
-      {
-        "id": "5176310194566f14",
-        "title": "SpaceX’s IPO is expected to mint 4,000 new millionaires, from engineers to cafeteria workers",
-        "url": "https://thenextweb.com/news/spacex-ipo-4000-millionaires-employees-wealth",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1781114143000,
-        "summary": "More than 4,000 current and former SpaceX employees are expected to become millionaires when the company begins trading on Nasdaq this week, according to an analysis by Hill.com. Of those, approximately 400 are projected to hold stakes worth $100 million or more. The wealth creation will not be limited to engineers and executives. SpaceX has […] This story continues at The Next Web",
-        "tags": [
-          "future of work",
-          "space",
-          "spacex"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8873
-      },
-      {
-        "id": "82929c4824ef823a",
-        "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-        "url": "https://www.matteast.io/spacex-escape-velocity.html",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1781113499000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2206
-      },
-      {
-        "id": "6e188ea0a5035bfb",
-        "title": "Secret life of adult whitebait revealed by new research",
-        "url": "https://phys.org/news/2026-06-secret-life-adult-whitebait-revealed.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781113206000,
-        "summary": "Te Whare Wānanga o Waitaha | University of Canterbury (UC) School of Biological Sciences researcher Dr. Ben Crichton has studied kōkopu—whitebait species that can live for 10 years or more. Whitebait is the collective term for the juveniles of six species of freshwater fish. Nocturnal, territorial and competitive, the three kōkopu species have received less research attention than īnanga, which ma",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0191
-      },
-      {
-        "id": "270ce682d28d9a49",
-        "title": "How biodiversity loss could raise borrowing costs and deepen debt risks worldwide",
-        "url": "https://phys.org/news/2026-06-biodiversity-loss-deepen-debt-worldwide.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781113201000,
-        "summary": "Financial markets are blind to the economic costs of biodiversity loss, leaving several countries at risk of defaulting on debt, according to new research published in Nature. While environmental degradation is recognized as a serious financial risk, sovereign debt markets currently have no way of accounting for it, leaving US$83 trillion in assets open to mispricing.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.019
-      },
-      {
-        "id": "6ca7c9911f41aeb0",
-        "title": "Human evolution was messy and gradual, not an abrupt revolution, argues archaeologist",
-        "url": "https://phys.org/news/2026-06-human-evolution-messy-gradual-abrupt.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781112046000,
-        "summary": "It is generally accepted by archaeologists that modern humans originated in Africa and dispersed worldwide, while other hominins went extinct. Yet how and when Homo sapiens dispersed out of Africa, and whether it was an abrupt event, is still debated. Even more uncertain is how and when humans went from being \"archaic\" to \"modern.\"",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0128
-      },
-      {
-        "id": "21540d484a9327fb",
-        "title": "Where not to look in the search for ET",
-        "url": "https://phys.org/news/2026-06-where-not-to-look-in.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781112043000,
-        "summary": "There's a question at the heart of SETI that doesn't get nearly enough attention. It isn't whether aliens exist, and it isn't whether we have the technology to detect them. It's a far more practical problem: With a billion stars in our galaxy and finite telescope time, how do you decide which ones to actually listen to?",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0128
       }
     ]
   },
