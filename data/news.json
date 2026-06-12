@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T21:15:52.816544+00:00",
+  "generated_at": "2026-06-12T21:41:45.226859+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -978,6 +978,22 @@
     ],
     "innovation": [
       {
+        "id": "9f815f691eb81753",
+        "title": "ShinyHunters Hacked 100+ Organizations By Exploiting an Oracle PeopleSoft 0-Day",
+        "url": "https://developers.slashdot.org/story/26/06/12/2117221/shinyhunters-hacked-100-organizations-by-exploiting-an-oracle-peoplesoft-0-day?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1781299200000,
+        "summary": "ShinyHunters claims it exploited a critical Oracle PeopleSoft zero-day to compromise more than 100 organizations, including the University of Nottingham, where it says it stole 40GB of student and billing data. \"ShinyHunters posted the UK university on its data leak site on Tuesday before publishing the stolen files later that same day, presumably because the school refused to pay the extortion de",
+        "tags": [
+          "oracle",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0427
+      },
+      {
         "id": "f5ac1f885fed87c8",
         "title": "4 smart home devices that work much better on Zigbee or Thread than Wi-Fi",
         "url": "https://www.makeuseof.com/smart-home-devices-that-work-better-zigbee-or-thread/",
@@ -1923,27 +1939,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8812
-      },
-      {
-        "id": "9dbdd73c5364fdd2",
-        "title": "The UK is about to ban under-16s from social media. Its own child-safety charities are worried.",
-        "url": "https://thenextweb.com/news/uk-under-16-social-media-ban",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781263087000,
-        "summary": "A UK under-16 social media ban, for years a fringe idea, is now days from becoming government policy. Ministers are expected to outline the plan to Parliament on Monday, ahead of the 18 June Makerfield by-election, according to POLITICO, which cited people familiar with discussions inside the Department for Science, Innovation and Technology and No. […] This story continues at The Next Web",
-        "tags": [
-          "data and security",
-          "privacy",
-          "government and policy",
-          "uk"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8974
       }
     ],
     "ai": [
+      {
+        "id": "8ae3a3e5a94a51e2",
+        "title": "‘Tell Him He’s a Piece of Sh*t’: Meta’s New AI Unit Is a Total Mess",
+        "url": "https://www.reddit.com/r/technology/comments/1u486jd/tell_him_hes_a_piece_of_sht_metas_new_ai_unit_is/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781299635000,
+        "summary": "submitted by /u/dn88 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0212
+      },
+      {
+        "id": "b655aa95f139bcfa",
+        "title": "Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems (Vanity Fair)",
+        "url": "https://www.techmeme.com/260612/p26#a260612p26",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781299203000,
+        "summary": "Vanity Fair: Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems — The engineers who wreaked havoc on Washington are ready for their second act. — Some of Elon Musk's earliest Department of Government Efficiency recruits …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0725
+      },
       {
         "id": "980a9510789f668b",
         "title": "KPMG retracts a report on AI's benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations (Financial Times)",
@@ -2040,6 +2066,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1279
+      },
+      {
+        "id": "c984631f1197a7c2",
+        "title": "AI data centers are taking over. These Americans are fighting back",
+        "url": "https://www.reddit.com/r/technology/comments/1u45k9k/ai_data_centers_are_taking_over_these_americans/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781293529000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9884
       },
       {
         "id": "71041ee36e167b4b",
@@ -2356,7 +2397,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0342
+        "score": 1.2125
       },
       {
         "id": "cb73fb9229a82d62",
@@ -2889,52 +2930,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0775
-      },
-      {
-        "id": "083e118ec27a5f7b",
-        "title": "Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025 (Bloomberg)",
-        "url": "https://www.techmeme.com/260612/p13#a260612p13",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781271301000,
-        "summary": "Bloomberg: Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025 — French startup Mistral AI is in talks to raise around €3 billion ($3.5 billion) at a valuation of roughly €20 billion …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0758
-      },
-      {
-        "id": "09e2925b956797dc",
-        "title": "Craig Federighi Swipes at AI Rivals Who Are 'Racing Forward' Without Regard for Users",
-        "url": "https://www.macrumors.com/2026/06/12/federighi-swipes-at-ai-rivals/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1781269803000,
-        "summary": "Apple software chief Craig Federighi used the WWDC 2026 keynote to draw a pointed contrast between Apple's approach to artificial intelligence and the broader industry, suggesting that some competitors are developing AI without meaningful consideration for the people using it. During Monday's ‌WWDC 2026‌ keynote, Federighi said: AI is incredibly powerful technology. Still, some appear to be racing",
-        "tags": [
-          "craig federighi"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0712
-      },
-      {
-        "id": "bd1a02e2546c553e",
-        "title": "Agentjacking: a fake bug report can hijack your AI coding agent",
-        "url": "https://thenextweb.com/news/agentjacking-ai-coding-agents-sentry",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781269575000,
-        "summary": "Security researchers have found a way to hijack AI coding agents with nothing but a fake bug report. They call it Agentjacking. It needs no malware, no stolen password, and no breach of the target. The attack, disclosed by Tenet Security, turns the coding agent into the weapon. When a developer asks the agent to […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "security",
-          "future of work",
-          "data and security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9629
       }
     ],
     "science": [
@@ -2967,6 +2962,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0127
+      },
+      {
+        "id": "b5d12b32a7051eef",
+        "title": "80 Texas residents are suing SpaceX, saying rocket launches are literally destroying their homes",
+        "url": "https://thenextweb.com/news/spacex-starbase-class-action-homes-damaged-launches",
+        "source": "The Next Web",
+        "lane": "science",
+        "published_ts": 1781296293000,
+        "summary": "Eighty residents of towns near SpaceX’s Starbase facility in South Texas have filed a class-action lawsuit alleging that the company’s constant rocket launches are physically destroying their homes. The lawsuit accuses SpaceX of negligence, gross negligence, and trespass based on the Commercial Space Launch Act of 1984. One plaintiff showed Reuters her home in Port […] This story continues at The ",
+        "tags": [
+          "government and policy",
+          "space",
+          "next featured",
+          "spacex"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9503
       },
       {
         "id": "20204cfc80842b1d",
@@ -3859,21 +3872,6 @@
         "summary": "The emerging infectious bacterium Escherichia albertii has caused outbreaks of severe food poisoning and hospitalized people through contaminated water and foods, such as salad ingredients. Now, a new study from Osaka Metropolitan University (OMU) has gathered evidence from river, animal and genetic samples that suggests a pathway by which invasive raccoons (Procyon lotor) transmit infections to h",
         "tags": [
           "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "5af20c73b18f27f8",
-        "title": "What Amazonian photographs reveal when we look again, and together",
-        "url": "https://phys.org/news/2026-06-amazonian-reveal.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781271601000,
-        "summary": "A new paper by Junia Mortimer, Urban Studies Foundation fellow, explores what happens when photographic archives are revisited through different conceptual frameworks, and with different people in the room. The archive in question belongs to Roberto Monte-Mór, professor at the Federal University of Minas Gerais, architect, economist and urban planner, who worked in and photographed Amazonian front",
-        "tags": [
-          "social sciences"
         ],
         "paywall": false,
         "impact": "high",
