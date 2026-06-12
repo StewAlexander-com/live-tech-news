@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-06-12T13:47:14.412041+00:00",
+  "generated_at": "2026-06-12T13:51:59.151932+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0fcaec0e9714a363",
+        "title": "Crusoe claimed it “paused” a plan to build a Wyoming data center after it failed to win customers including Google",
+        "url": "https://www.techradar.com/pro/crusoe-claimed-it-paused-a-plan-to-build-a-wyoming-data-center-after-it-failed-to-win-customers-including-google",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781271974000,
+        "summary": "The company was pressured to pause development by Google",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8484
+      },
       {
         "id": "bad24f07b856529e",
         "title": "Sorry, the Ooni pizza oven is totally worth it",
@@ -937,23 +952,6 @@
         "summary": "The Meta CEO's pandemic-era predictions on the future of technology failed to materilaize",
         "tags": [
           "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8464
-      },
-      {
-        "id": "54151d0a57d4261f",
-        "title": "MSI’s special edition Titan 18HX gaming laptop is incredibly over the top — and I’m obsessed",
-        "url": "https://www.techradar.com/computing/laptops/msis-special-edition-titan-18hx-gaming-laptop-is-incredibly-over-the-top-and-im-obsessed",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781215200000,
-        "summary": "You’d have to be a dragon fanatic, a maximalist, or a big MSI fan to love the special edition Titan 18HX, so it’s a good thing I’m all three",
-        "tags": [
-          "laptops",
-          "computing components",
-          "computing"
         ],
         "paywall": false,
         "impact": "high",
@@ -2699,6 +2697,53 @@
         "score": 0.7977
       },
       {
+        "id": "5a82e5944529d613",
+        "title": "SwiftCTS: Fast Cross-Design Prediction and Pareto Optimization of Clock Tree Metrics via Few-Shot Calibration",
+        "url": "https://arxiv.org/abs/2606.11348",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11348v1 Announce Type: new Abstract: Clock Tree Synthesis (CTS) is a computationally expensive stage in the physical design flow, requiring iterative EDA tool invocations to navigate a vast configuration space for optimal power, wirelength, and timing skew. Existing machine learning approaches require computationally expensive retraining or fine-tuning cycles to adapt to unseen macro ar",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9378
+      },
+      {
+        "id": "6096f3465f029aeb",
+        "title": "SirenFNO: Efficient and Full Frequency Learning of Fourier Neural Operators",
+        "url": "https://arxiv.org/abs/2606.11518",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11518v1 Announce Type: new Abstract: Fourier neural operators (FNOs) are effective and efficient surrogates for approximating solutions of PDEs and generalize across discretizations. However, owing to the reliance on frequency truncation to maintain learning efficiency of FNOs, empirical studies suggest that FNOs exhibit spectral bias toward low-frequency information, which may hinder t",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9378
+      },
+      {
+        "id": "9db8cf7b52d0c5df",
+        "title": "Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation",
+        "url": "https://arxiv.org/abs/2606.11192",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11192v1 Announce Type: new Abstract: We study restless bandits with binary latent states and imperfect binary feedback, motivated by opportunistic spectrum access with sensing errors. For the associated belief-state model, we develop a partial conservation laws (PCL)-based analytical and computational framework for establishing indexability and evaluating the Whittle index, building on ",
+        "tags": [
+          "cs.lg",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8683
+      },
+      {
         "id": "76cdeb67ce86d3cf",
         "title": "Strategic Decision Support for AI Agents",
         "url": "https://arxiv.org/abs/2606.12587",
@@ -2788,52 +2833,6 @@
         "summary": "arXiv:2606.12767v1 Announce Type: new Abstract: Evaluating procedural reasoning in AI-supported learning systems requires question-answer datasets that are both learner-like and grounded in the instructional knowledge the system is expected to use. We study how TMK-based question generation strategies affect dataset quality for procedural and multi-hop reasoning. We compare three strategies: stric",
         "tags": [
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1091
-      },
-      {
-        "id": "2d8b6c81e3057a04",
-        "title": "Mechanical Field Networks: Structured Neural Dynamics for Multivariate Systems",
-        "url": "https://arxiv.org/abs/2606.11251",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.11251v1 Announce Type: new Abstract: Many multivariate dynamical systems are observed only through trajectories, leaving the mechanisms governing their joint dynamics hidden. Existing approaches can impose interpretable dynamics or learn flexible state transitions, yet the resulting interaction structure is typically either specified in advance or left implicit within the learned dynami",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1091
-      },
-      {
-        "id": "704667a4a904b32b",
-        "title": "LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data",
-        "url": "https://arxiv.org/abs/2606.11268",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.11268v1 Announce Type: new Abstract: Understanding and forecasting lake dynamics is critical for monitoring water quality and ecosystem health across lakes and reservoirs. While machine learning methods have been recently applied to ecological time-series data, existing works assume regular sampling in time and depth, and struggle to generalize across lakes with heterogeneous variables,",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1091
-      },
-      {
-        "id": "50e6c95879dbdd74",
-        "title": "Learning from almost nothing: How neural networks survive heavy input corruption",
-        "url": "https://arxiv.org/abs/2606.11319",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.11319v1 Announce Type: new Abstract: Learning from imperfect data is a central theme in machine learning, connecting practical questions of robustness to fundamental questions of learnability. Here we examine attribute noise: learning from corrupted inputs while keeping the labels intact, a setting that has received considerably less analytical attention than its label-noise counterpart",
-        "tags": [
-          "cs.lg",
-          "cond-mat.dis-nn"
         ],
         "paywall": false,
         "impact": "high",
