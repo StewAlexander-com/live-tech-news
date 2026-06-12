@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:49:37.675006+00:00",
+  "generated_at": "2026-06-12T14:58:27.072018+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2762,98 +2762,98 @@
         "score": 0.7977
       },
       {
-        "id": "830c2ffd70ad2723",
-        "title": "From AGI to ASI",
-        "url": "https://arxiv.org/abs/2606.12683",
+        "id": "76cdeb67ce86d3cf",
+        "title": "Strategic Decision Support for AI Agents",
+        "url": "https://arxiv.org/abs/2606.12587",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781236800000,
-        "summary": "arXiv:2606.12683v1 Announce Type: new Abstract: Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a concrete next-decade target for many of the largest AI organisations. Achieving this goal would have profound and far-reaching impacts on human society, which raises many complex questions for the decade ahead. This report inve",
+        "summary": "arXiv:2606.12587v1 Announce Type: new Abstract: Traditionally, decision support studies how humans use machine learning models to make better decisions. In modern agentic systems, this division of roles is increasingly reversed: AI agents act on behalf of users, while humans and tools becomes support mechanisms around them. This role reversal brings reliability concerns to the forefront, since age",
         "tags": [
           "cs.ai",
-          "cs.cy",
-          "cs.lg"
+          "cs.hc"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9206
+        "score": 0.918
       },
       {
-        "id": "cbdeb09a773fa87c",
-        "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
-        "url": "https://arxiv.org/abs/2606.12736",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.12736v1 Announce Type: new Abstract: AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents rarely capture the complexity, heterogeneity, and extended reasoning required by scientific work, whereas benchmarks for scientific tasks often reduce res",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9206
-      },
-      {
-        "id": "500181ea05f259e8",
-        "title": "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices",
-        "url": "https://arxiv.org/abs/2606.12742",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.12742v1 Announce Type: new Abstract: Wearable healthcare devices are the fastest-growing Internet of Things (IoT) sector. Many automated healthcare services rely on two crucial biological signals, namely ECG and EEG, which reflect the activity of the heart and brain, respectively. Although deep neural networks are considered the primary way to process and analyze these signals, the very",
-        "tags": [
-          "cs.ai",
-          "cs.ar"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9206
-      },
-      {
-        "id": "9f8d4576df64caf7",
-        "title": "Prefill Awareness in Large Language Models",
-        "url": "https://arxiv.org/abs/2606.12747",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.12747v1 Announce Type: new Abstract: Safety-relevant studies of language models, including alignment and jailbreaking evaluations and AI control protocols, often rely on prefilling model outputs. If AI models can recognize and act on the fact their prior assistant messages have been inserted or edited, the effectiveness and validity of these methods could be compromised. We investigate ",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9206
-      },
-      {
-        "id": "0a20959a01eec9ae",
-        "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
-        "url": "https://arxiv.org/abs/2606.12767",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781236800000,
-        "summary": "arXiv:2606.12767v1 Announce Type: new Abstract: Evaluating procedural reasoning in AI-supported learning systems requires question-answer datasets that are both learner-like and grounded in the instructional knowledge the system is expected to use. We study how TMK-based question generation strategies affect dataset quality for procedural and multi-hop reasoning. We compare three strategies: stric",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9206
-      },
-      {
-        "id": "2d8b6c81e3057a04",
-        "title": "Mechanical Field Networks: Structured Neural Dynamics for Multivariate Systems",
-        "url": "https://arxiv.org/abs/2606.11251",
+        "id": "704667a4a904b32b",
+        "title": "LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data",
+        "url": "https://arxiv.org/abs/2606.11268",
         "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1781236800000,
-        "summary": "arXiv:2606.11251v1 Announce Type: new Abstract: Many multivariate dynamical systems are observed only through trajectories, leaving the mechanisms governing their joint dynamics hidden. Existing approaches can impose interpretable dynamics or learn flexible state transitions, yet the resulting interaction structure is typically either specified in advance or left implicit within the learned dynami",
+        "summary": "arXiv:2606.11268v1 Announce Type: new Abstract: Understanding and forecasting lake dynamics is critical for monitoring water quality and ecosystem health across lakes and reservoirs. While machine learning methods have been recently applied to ecological time-series data, existing works assume regular sampling in time and depth, and struggle to generalize across lakes with heterogeneous variables,",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9258
+        "score": 0.918
+      },
+      {
+        "id": "50e6c95879dbdd74",
+        "title": "Learning from almost nothing: How neural networks survive heavy input corruption",
+        "url": "https://arxiv.org/abs/2606.11319",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11319v1 Announce Type: new Abstract: Learning from imperfect data is a central theme in machine learning, connecting practical questions of robustness to fundamental questions of learnability. Here we examine attribute noise: learning from corrupted inputs while keeping the labels intact, a setting that has received considerably less analytical attention than its label-noise counterpart",
+        "tags": [
+          "cs.lg",
+          "cond-mat.dis-nn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.918
+      },
+      {
+        "id": "5a82e5944529d613",
+        "title": "SwiftCTS: Fast Cross-Design Prediction and Pareto Optimization of Clock Tree Metrics via Few-Shot Calibration",
+        "url": "https://arxiv.org/abs/2606.11348",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11348v1 Announce Type: new Abstract: Clock Tree Synthesis (CTS) is a computationally expensive stage in the physical design flow, requiring iterative EDA tool invocations to navigate a vast configuration space for optimal power, wirelength, and timing skew. Existing machine learning approaches require computationally expensive retraining or fine-tuning cycles to adapt to unseen macro ar",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.918
+      },
+      {
+        "id": "6096f3465f029aeb",
+        "title": "SirenFNO: Efficient and Full Frequency Learning of Fourier Neural Operators",
+        "url": "https://arxiv.org/abs/2606.11518",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11518v1 Announce Type: new Abstract: Fourier neural operators (FNOs) are effective and efficient surrogates for approximating solutions of PDEs and generalize across discretizations. However, owing to the reliance on frequency truncation to maintain learning efficiency of FNOs, empirical studies suggest that FNOs exhibit spectral bias toward low-frequency information, which may hinder t",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.918
+      },
+      {
+        "id": "9db8cf7b52d0c5df",
+        "title": "Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation",
+        "url": "https://arxiv.org/abs/2606.11192",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781236800000,
+        "summary": "arXiv:2606.11192v1 Announce Type: new Abstract: We study restless bandits with binary latent states and imperfect binary feedback, motivated by opportunistic spectrum access with sensing errors. For the associated belief-state model, we develop a partial conservation laws (PCL)-based analytical and computational framework for establishing indexability and evaluating the Whittle index, building on ",
+        "tags": [
+          "cs.lg",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.85
       }
     ],
     "science": [
