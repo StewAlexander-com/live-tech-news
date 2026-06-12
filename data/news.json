@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T22:16:20.051770+00:00",
+  "generated_at": "2026-06-12T22:36:01.901013+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -992,6 +992,19 @@
         "score": 0.9996
       },
       {
+        "id": "46cf9b7e485ee6f0",
+        "title": "Roborock's First Robot Lawn Mower Is Here",
+        "url": "https://www.cnet.com/news/roborock-first-robot-lawn-mower/",
+        "source": "CNET",
+        "lane": "innovation",
+        "published_ts": 1781302395000,
+        "summary": "It comes with advanced, wire-free navigation and a promised future AI-powered mapping update.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8791
+      },
+      {
         "id": "e2ab1ab66ac2c7e4",
         "title": "Justice Department Approves Paramount's $111 Billion Acquisition of Warner Bros.",
         "url": "https://slashdot.org/story/26/06/12/2124201/justice-department-approves-paramounts-111-billion-acquisition-of-warner-bros?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1914,29 +1927,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.941
-      },
-      {
-        "id": "fee05f835eb3eb37",
-        "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
-        "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1781264612000,
-        "summary": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
-        "tags": [
-          "government & policy",
-          "security",
-          "cia",
-          "fisa",
-          "foreign intelligence surveillance act",
-          "nsa"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7393
       }
     ],
     "ai": [
+      {
+        "id": "1db34eab311fff9b",
+        "title": "Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, \"soul-crushing\" work, more (Wired)",
+        "url": "https://www.techmeme.com/260612/p28#a260612p28",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781303703000,
+        "summary": "Wired: Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, “soul-crushing” work, more — Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0797
+      },
+      {
+        "id": "b46c1f15a25060b0",
+        "title": "iOS 27: All the New Safari Features",
+        "url": "https://www.macrumors.com/guide/ios-27-safari/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1781303439000,
+        "summary": "Safari is one of the apps that Apple focused on in iOS 27, and it includes multiple new Apple Intelligence features. From automatically organizing tab groups to custom extensions, Safari is getting useful new capabilities. Automatic Tab Organization Safari uses ‌Apple Intelligence‌ to organize your open tabs into relevant topics, grouping like concepts together to make it easier to browse your ope",
+        "tags": [
+          "featured",
+          "ios 27"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9983
+      },
       {
         "id": "e08b2c36cfb1e428",
         "title": "AI was supposed to cut health care costs. One of its first jobs was charging you more, PwC report shows",
@@ -2154,7 +2176,7 @@
         "summary": "The first big tech IPO of the summer includes Starlink, xAI and X. It could set the stage for expected public offerings by Anthropic and OpenAI.",
         "tags": [],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.8135
       },
       {
@@ -2842,7 +2864,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1141
+        "score": 1.2201
       },
       {
         "id": "51b575f0cd5b5981",
@@ -2894,39 +2916,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8476
-      },
-      {
-        "id": "331207a6e97d5b62",
-        "title": "Mistral is in funding talks at a €20bn valuation",
-        "url": "https://thenextweb.com/news/mistral-funding-talks-20-billion-valuation",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781272359000,
-        "summary": "Mistral is in funding talks to raise about €3bn ($3.5bn) at a valuation of roughly €20bn, Bloomberg reported on Friday, citing people familiar with the discussions. That would nearly double the price investors put on Europe’s leading AI startup just months ago. The talks are early, and the terms could change. The valuation may even […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "europe",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9598
-      },
-      {
-        "id": "66043a80db4592ae",
-        "title": "PureVPN has turned ChatGPT into a VPN assistant that handles the tedious manual tasks for you",
-        "url": "https://www.techradar.com/vpn/vpn-services/purevpn-has-turned-chatgpt-into-a-vpn-assistant-that-handles-the-tedious-manual-tasks-for-you",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781271810000,
-        "summary": "PureVPN has launched its integrated ChatGPT-powered assistant, providing a conversational, AI-powered VPN experience. Here's how.",
-        "tags": [
-          "vpn services",
-          "vpn"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9169
       }
     ],
     "science": [
