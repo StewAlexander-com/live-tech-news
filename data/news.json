@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T00:24:39.823063+00:00",
+  "generated_at": "2026-06-13T01:20:44.274759+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -979,6 +979,21 @@
     ],
     "innovation": [
       {
+        "id": "d82249af8fa05f4a",
+        "title": "Amazon data centers used 2.5bn gallons of water in 2025",
+        "url": "https://www.reddit.com/r/technology/comments/1u4c945/amazon_data_centers_used_25bn_gallons_of_water_in/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781310076000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.932
+      },
+      {
         "id": "575a3384e4486137",
         "title": "★ The Talk Show: Live From WWDC 2026",
         "url": "https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026",
@@ -1902,29 +1917,65 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9632
-      },
-      {
-        "id": "182ac410ef2ecc38",
-        "title": "This Week in Security: Microsoft on Microsoft, Register Your Domains, Linux on ARM, and FreeBSD Joins the File Cache Club",
-        "url": "https://hackaday.com/2026/06/12/this-week-in-security-microsoft-on-microsoft-register-your-domains-linux-on-arm-and-freebsd-joins-the-file-cache-club/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1781272818000,
-        "summary": "Supply chain attacks continue, with Microsoft’s own open source Azure repositories being automatically disabled by GitHub following a compromise of the packages by the Miasma worm. OpenSourceMalware reports that the …read more",
-        "tags": [
-          "hackaday columns",
-          "security hacks",
-          "freebsd",
-          "github",
-          "miasma",
-          "microsoft"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0691
       }
     ],
     "ai": [
+      {
+        "id": "0c80dac65fd44afc",
+        "title": "'I find it sycophantic, but it gives me dopamine hits’ — the thing I dislike most about AI is exactly what some users love",
+        "url": "https://www.techradar.com/ai-platforms-assistants/i-find-it-sycophantic-but-it-gives-me-dopamine-hits-the-thing-i-dislike-most-about-ai-is-exactly-what-some-users-love",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1781312400000,
+        "summary": "I quizzed people who turn to AI for reassurance and wasn't expecting their answers.",
+        "tags": [
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9119
+      },
+      {
+        "id": "cc571d67702b0465",
+        "title": "Anthropic says it is disabling Fable 5 and Mythos 5 for all customers after the US government issued an export control order, citing national security concerns (Anthropic)",
+        "url": "https://www.techmeme.com/260612/p31#a260612p31",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781312253000,
+        "summary": "Anthropic: Anthropic says it is disabling Fable 5 and Mythos 5 for all customers after the US government issued an export control order, citing national security concerns — The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9926
+      },
+      {
+        "id": "2893604aeac015b7",
+        "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
+        "url": "https://www.reddit.com/r/technology/comments/1u4c72y/zuckerberg_says_meta_made_mistakes_in_ai/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781309926000,
+        "summary": "submitted by /u/GeneReddit123 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0058
+      },
+      {
+        "id": "7544adb3ccf2dad8",
+        "title": "Source: the US Commerce Department decided to block foreign persons from accessing Fable 5 and Mythos 5 after a company claimed it was able to jailbreak Mythos (Axios)",
+        "url": "https://www.techmeme.com/260612/p30#a260612p30",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781308601000,
+        "summary": "Axios: Source: the US Commerce Department decided to block foreign persons from accessing Fable 5 and Mythos 5 after a company claimed it was able to jailbreak Mythos — The Trump administration is blocking foreign governments, companies and individuals from accessing Anthropic's most advanced AI models.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0513
+      },
       {
         "id": "d22f55d754c5ccf0",
         "title": "Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos (Axios)",
@@ -1937,6 +1988,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0795
+      },
+      {
+        "id": "36c387f8fa288b13",
+        "title": "OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users (Wall Street Journal)",
+        "url": "https://www.techmeme.com/260612/p29#a260612p29",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781306702000,
+        "summary": "Wall Street Journal: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users — Company subpoenaed for documents covering wide range of its activities and impact on users — A coalition of state attorneys general has opened …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9636
       },
       {
         "id": "cc872ea4ffa2937e",
@@ -2823,86 +2887,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1301
-      },
-      {
-        "id": "75a7b98c31b09c65",
-        "title": "Visa Wants to Let You Give ChatGPT Your Credit Card. What Could Go Wrong?",
-        "url": "https://www.cnet.com/tech/services-and-software/visa-openai-credit-card-shopping/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1781279433000,
-        "summary": "AI companies are increasingly excited about giving AI agents control of the shopping cart.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8631
-      },
-      {
-        "id": "b4494c55e4b0d8f2",
-        "title": "KPMG's AI report becomes an accidental demo of AI hallucinations",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1781278733000,
-        "summary": "GPTZero claims only 5 of the report's 45 citations matched their sources, raising questions about how the Big Four's AI study was assembled",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1112
-      },
-      {
-        "id": "33cda392b483c692",
-        "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
-        "url": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781278477000,
-        "summary": "More than 350,000 spectators will watch 62 cars compete, day and night.",
-        "tags": [
-          "cars",
-          "24 hours of le mans",
-          "racing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9608
-      },
-      {
-        "id": "ad85dd93e735011b",
-        "title": "AI tracks missing hydrogen atoms in crystals with 97% success rate",
-        "url": "https://phys.org/news/2026-06-ai-tracks-hydrogen-atoms-crystals.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1781277604000,
-        "summary": "Artificial intelligence is often used to generate images. In research, specialized AI models are used for scientific applications—for example, to predict the positions of atoms in materials. The MatterGen model developed by Microsoft can generate complex crystal structures from just a few pieces of information—which atoms should be present and in what proportions—and researchers can then use these",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0933
-      },
-      {
-        "id": "68d9188a3f9db4b9",
-        "title": "Notion Is Migrating to SwiftUI, Apple Confirms at WWDC",
-        "url": "https://www.macrumors.com/2026/06/12/notion-is-migrating-to-swiftui/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1781277034000,
-        "summary": "Apple this week confirmed that Notion is migrating its user interface to SwiftUI, citing the app's desire for greater performance and UI consistency than its existing web-based stack can deliver. Notion is a productivity app that combines notes, documents, databases, and project management tools in one place. Users can create pages containing text, tables, kanban boards, calendars, and more, and o",
-        "tags": [
-          "wwdc",
-          "swiftui",
-          "wwdc 2026"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9894
       }
     ],
     "science": [
+      {
+        "id": "64afab38f1ec4634",
+        "title": "Faster biological aging consistently linked to poverty and discrimination",
+        "url": "https://phys.org/news/2026-06-faster-biological-aging-linked-poverty.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781312403000,
+        "summary": "By integrating findings from 140 studies and nearly 66,000 individuals, researchers from the Biosocial team at the Max Planck Institute for Human Development in collaboration with Columbia University in New York have shown that lower socioeconomic status and exposure to discrimination are consistently associated with accelerated biological aging, measured in the epigenome.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0133
+      },
       {
         "id": "7d4146591a8edb73",
         "title": "Meet REMORA: The autonomous space fleet built to tag and track asteroids",
@@ -3826,22 +3828,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8452
-      },
-      {
-        "id": "41a4865d8b53cb76",
-        "title": "SpaceX's president is floating a Tesla merger as the company begins trading",
-        "url": "https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1781272041000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:51"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.035
       }
     ]
   },
