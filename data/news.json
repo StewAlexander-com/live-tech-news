@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:19:12.825520+00:00",
+  "generated_at": "2026-06-13T10:56:18.544259+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1921,6 +1921,49 @@
     ],
     "ai": [
       {
+        "id": "0ff383f215c39db3",
+        "title": "Ukraine used 10 AI-controlled ‘Terminator’ drones to kill Russian soldiers two years ago, marking first autonomous killings of humans — autonomous killer quadcopters left ‘everything dead’ says senior Ukrainian defense industry figure",
+        "url": "https://www.tomshardware.com/tech-industry/ukraine-used-10-ai-controlled-terminator-drones-to-kill-russian-soldiers-two-years-ago-marking-first-autonomous-killings-of-humans-senior-ukrainian-defense-industry-figure-confirms-this-autonomous-watershed-was-passed-in-2024",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1781347617000,
+        "summary": "A watershed moment occurred on the battlefields of Ukraine in 2024 when 10 fully autonomous AI-controlled quadcopter drones were sent to the front lines against Russia with ‘Terminator Mode’ engaged.",
+        "tags": [
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0229
+      },
+      {
+        "id": "9fe27b835f5fe9b8",
+        "title": "Luta Security CEO says US government restrictions on Mythos follow a jailbreak report by Amazon researchers and calls the restrictions a \"complete overreaction\" (Amrith Ramkumar/Wall Street Journal)",
+        "url": "https://www.techmeme.com/260613/p5#a260613p5",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781346901000,
+        "summary": "Amrith Ramkumar / Wall Street Journal: Luta Security CEO says US government restrictions on Mythos follow a jailbreak report by Amazon researchers and calls the restrictions a “complete overreaction” — The Trump administration is banning foreign governments, companies and individuals from using Anthropic's …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9932
+      },
+      {
+        "id": "be320955e6e118cb",
+        "title": "AI sorts cell droplets into four shapes, uncovering drug effects in human cells",
+        "url": "https://phys.org/news/2026-06-ai-cell-droplets-uncovering-drug.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1781346001000,
+        "summary": "Researchers at Princeton University have harnessed AI to understand how drugs affect the dynamics of vital structures within the cell, introducing a tool that can map the shape of these structures to functional outcomes and shed light on important markers of health.",
+        "tags": [
+          "molecular & computational biology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0888
+      },
+      {
         "id": "7a047481b9ef95e7",
         "title": "Dev releases ‘unblockable’ ASCII video stream software — delivers 360p video at 30 FPS and acts as a ‘bridge for AI’",
         "url": "https://www.tomshardware.com/software/video-editing-graphic-design/dev-releases-unblockable-ascii-video-stream-software-mode-5-rendering-puts-out-360p-at-30-fps-using-pure-text",
@@ -1936,6 +1979,38 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0234
+      },
+      {
+        "id": "4b7f572b424f7d59",
+        "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+        "url": "https://github.com/Paca-AI/paca",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781343865000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:12"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1081
+      },
+      {
+        "id": "41b4d21fd440212d",
+        "title": "The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
+        "url": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781343597000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1066
       },
       {
         "id": "703b5d4c03bb3081",
@@ -2778,94 +2853,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.975
-      },
-      {
-        "id": "f21232e5bfdb8eea",
-        "title": "Sources: SpaceX decided to rent its Colossus 1 data center to Anthropic after internal teams struggled to use it for Grok development due to latency issues (Edward Ludlow/Bloomberg)",
-        "url": "https://www.techmeme.com/260612/p22#a260612p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781290501000,
-        "summary": "Edward Ludlow / Bloomberg: Sources: SpaceX decided to rent its Colossus 1 data center to Anthropic after internal teams struggled to use it for Grok development due to latency issues — - Musk's firm struggled with latency issues with Colossus 1 — SpaceX has made AI infrastructure a key part of its IPO pitch",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0752
-      },
-      {
-        "id": "61bce18b6aeee16f",
-        "title": "Microsoft Surface Flaw Allowed Unprotected Devices To Be Bricked By a Single Packet",
-        "url": "https://it.slashdot.org/story/26/06/12/1755225/microsoft-surface-flaw-allowed-unprotected-devices-to-be-bricked-by-a-single-packet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1781289000000,
-        "summary": "Longtime Slashdot reader Dotnaught shares a report from The Register: For the past 90 days, Microsoft has been quietly patching a firmware flaw in Surface devices that allowed the hardware to be bricked with a single packet, though only for those who have disabled Secure Core and Secure Boot. And the company's Copilot AI software inadvertently helped identify the faulty firmware. According to Jack",
-        "tags": [
-          "security",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.13
-      },
-      {
-        "id": "e9a3465570202cf8",
-        "title": "Firefox’s AI kill switch exists. Only 1% of users have flipped it.",
-        "url": "https://thenextweb.com/news/mozilla-firefox-ai-kill-switch-1-percent-smart-window-vpn",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781287905000,
-        "summary": "Mozilla built an AI kill switch into Firefox after its users demanded one. Only 1% have used it. Another 3% turned off some AI features selectively. The rest left everything on. CEO Anthony Enzor-DeMeo says the point is not the percentage but the choice. “Our community was pretty vocal, especially during the CEO announcement, that […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "privacy",
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9629
-      },
-      {
-        "id": "ca6e4ef1bb06dfa1",
-        "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
-        "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
-        "source": "IEEE Spectrum",
-        "lane": "ai",
-        "published_ts": 1781287201000,
-        "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo, a computer program with a turtle cursor to help children learn basic coding through hands-on experimentation.It was Kuo’s introduction to programming logic",
-        "tags": [
-          "ieee-member-news",
-          "robots",
-          "artificial-intelligence",
-          "ieee-robotics-and-automation-soc",
-          "careers",
-          "type-ti"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0974
-      },
-      {
-        "id": "2f3616a6c94268a8",
-        "title": "Google sues Chinese cybercrime ring that used Gemini to build phishing sites and send 2.5 million scam texts",
-        "url": "https://thenextweb.com/news/google-sues-outsider-enterprise-ai-scam-texts",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781287031000,
-        "summary": "Google filed a lawsuit on Friday to dismantle the infrastructure behind a Chinese cybercrime operation called Outsider Enterprise. The group used AI, including Google’s own Gemini, to generate phishing websites and send scam text messages impersonating Google and other brands. It sent 2.5 million fraudulent texts to Android users in a two-week period. The operation […] This story continues at The ",
-        "tags": [
-          "china",
-          "google",
-          "security",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9584
       }
     ],
     "science": [
+      {
+        "id": "8b557b6d488ce419",
+        "title": "WhatsApp is the worst app on your Windows 11 PC right now, eating 1.2GB of RAM doing nothing",
+        "url": "https://www.reddit.com/r/technology/comments/1u4nf92/whatsapp_is_the_worst_app_on_your_windows_11_pc/",
+        "source": "Reddit r/technology",
+        "lane": "science",
+        "published_ts": 1781346507000,
+        "summary": "submitted by /u/Quantum-Coconut [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0169
+      },
       {
         "id": "eb1cba6950f9dbab",
         "title": "SpaceX: Five key moments, from first launch to Starship megarocket",
@@ -3777,26 +3782,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0134
-      },
-      {
-        "id": "a27eb1c17f03a70f",
-        "title": "SpaceX IPO: Everything you need to know",
-        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-        "source": "TechCrunch",
-        "lane": "science",
-        "published_ts": 1781273334000,
-        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-        "tags": [
-          "ai",
-          "space",
-          "transportation",
-          "elon musk",
-          "spacex",
-          "spacex ipo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7445
       }
     ]
   },
