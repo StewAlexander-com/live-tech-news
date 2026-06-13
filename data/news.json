@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T11:37:11.995622+00:00",
+  "generated_at": "2026-06-13T11:42:15.149439+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1021,7 +1021,7 @@
           "cyberattacks"
         ],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.7454
       },
       {
@@ -2640,6 +2640,19 @@
         "score": 1.0425
       },
       {
+        "id": "888a14479c09ffac",
+        "title": "SpaceX IPO Live: Elon Musk Is a Trillionaire, and the Rest of Us Aren't",
+        "url": "https://www.cnet.com/news-live/spacex-ipo-live-starlink-xai-going-public/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1781301085000,
+        "summary": "The first big tech IPO of the summer included Starlink, xAI and X. It sets the stage for expected public offerings by Anthropic and OpenAI.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6281
+      },
+      {
         "id": "e08b2c36cfb1e428",
         "title": "AI was supposed to cut health care costs. One of its first jobs was charging you more, PwC report shows",
         "url": "https://www.reddit.com/r/technology/comments/1u48f3b/ai_was_supposed_to_cut_health_care_costs_one_of/",
@@ -2826,25 +2839,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0795
-      },
-      {
-        "id": "41b30b7d25b637a3",
-        "title": "SpaceX rented Colossus 1 to Anthropic because it couldn’t make the data centre work for Grok",
-        "url": "https://thenextweb.com/news/spacex-colossus-1-technical-problems-rented-anthropic",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781292256000,
-        "summary": "SpaceX rented its Colossus 1 data centre to Anthropic not because it had surplus capacity, but because it could not make the facility work for its own AI models. Bloomberg reported on Friday that SpaceX encountered latency issues when trying to connect the Memphis site to two other data centre campuses located more than 10 […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "artificial intelligence",
-          "space",
-          "next featured",
-          "spacex"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9661
       }
     ],
     "science": [
