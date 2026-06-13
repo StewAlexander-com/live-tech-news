@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T22:17:49.631502+00:00",
+  "generated_at": "2026-06-13T22:38:16.938334+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -974,6 +974,24 @@
     ],
     "innovation": [
       {
+        "id": "2ca3e6cc1d4aeafe",
+        "title": "A Tesla on Autopilot swerved into someone’s garage door in Washington. Police are investigating.",
+        "url": "https://thenextweb.com/news/tesla-autopilot-garage-door-crash-redmond",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781388925000,
+        "summary": "A Tesla driver in Redmond, Washington, claims the car’s self-driving mode malfunctioned before it swerved into a residential garage door on Monday. The car smashed the door open and ended up lodged inside the garage. Police responded around 11 AM and are investigating. No injuries were reported. There were no indications of impairment. The driver […] This story continues at The Next Web",
+        "tags": [
+          "cars",
+          "next featured",
+          "self-driving",
+          "tesla"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8934
+      },
+      {
         "id": "f0c34e35cc98991a",
         "title": "This free Windows launcher makes the Start menu completely irrelevant",
         "url": "https://www.makeuseof.com/free-windows-launcher-makes-start-menu-completely-irrelevant/",
@@ -1910,27 +1928,35 @@
         "paywall": false,
         "impact": "high",
         "score": 0.934
-      },
-      {
-        "id": "4049e15ce1502633",
-        "title": "I don't get why anyone would pay for YouTube Premium when this cheaper subscription exists",
-        "url": "https://www.makeuseof.com/why-pay-for-youtube-premium-when-lite-exists/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781305220000,
-        "summary": "YouTube Premium doesn't tempt me, but YouTube Premium Lite is the perfect sweet spot.",
-        "tags": [
-          "entertainment",
-          "youtube",
-          "youtube premium",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8488
       }
     ],
     "ai": [
+      {
+        "id": "5252d9dc56dc6ab1",
+        "title": "Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it (Reed Albergotti/Semafor)",
+        "url": "https://www.techmeme.com/260613/p13#a260613p13",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781389406000,
+        "summary": "Reed Albergotti / Semafor: Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it — THE SCOOP — The White House imposed export controls on Anthropic's powerful Mythos AI model partly over suspicions that a China-linked group had accessed it, a person familiar with the matter said.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0749
+      },
+      {
+        "id": "043f7e9a05e9f877",
+        "title": "How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet's planned ~$85B in equity offerings for AI (Robert Armstrong/Financial Times)",
+        "url": "https://www.techmeme.com/260613/p14#a260613p14",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781389406000,
+        "summary": "Robert Armstrong / Financial Times: How the AI boom is revolutionizing US stock markets, as hyperscalers cut buybacks and boost capex, including Alphabet's planned ~$85B in equity offerings for AI — Big Tech no longer prints money; it needs it. What will that mean when confidence dips? Artificial intelligence will change …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0749
+      },
       {
         "id": "f415a76e0558d8ef",
         "title": "'Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place' - quote of the day by ex-OpenAI CTO Mira Murati",
@@ -2844,41 +2870,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0234
-      },
-      {
-        "id": "4b7f572b424f7d59",
-        "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-        "url": "https://github.com/Paca-AI/paca",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781343865000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:12"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1081
-      },
-      {
-        "id": "41b4d21fd440212d",
-        "title": "The Fable 5 Jailbreak Shows Why AI Guardrails Alone Are Not Enough",
-        "url": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781343597000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1066
       }
     ],
     "science": [
+      {
+        "id": "f30b82f253ea777d",
+        "title": "Ocean monitoring is in trouble: It's up to Europe and Asia to avoid losing sight of the world's deep‑sea ecosystems",
+        "url": "https://phys.org/news/2026-06-ocean-europe-asia-sight-world.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781389805000,
+        "summary": "The world relies on a modest number of countries to keep watch over the ocean. That arrangement is starting to fail. Europe and Asia must now decide whether to let the system unravel, or to take it up together.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
       {
         "id": "96977c2735d2367c",
         "title": "Could leaves help feed humanity after disaster?",
@@ -3795,19 +3804,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9021
-      },
-      {
-        "id": "e7c8364fdbdd30a4",
-        "title": "SpaceX closes up 19% at $160.95 in its debut, with a ~$2.1T market value, after opening at $150, up 11% from its IPO price; Musk becomes the first trillionaire (Alex Harring/CNBC)",
-        "url": "https://www.techmeme.com/260612/p19#a260612p19",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1781280449000,
-        "summary": "Alex Harring / CNBC: SpaceX closes up 19% at $160.95 in its debut, with a ~$2.1T market value, after opening at $150, up 11% from its IPO price; Musk becomes the first trillionaire — SpaceX shares soared on Friday, propelling the rocket company's valuation above $2 trillion, as trading commenced on the Nasdaq …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9489
       }
     ]
   },
