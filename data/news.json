@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T06:54:30.824855+00:00",
+  "generated_at": "2026-06-13T07:54:03.540143+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1913,6 +1913,56 @@
     ],
     "ai": [
       {
+        "id": "d329ecd19b4b4357",
+        "title": "OpenAI is facing investigation from a group of state attorneys general",
+        "url": "https://www.engadget.com/2193666/openai-investigation-state-attorneys-general/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1781334844000,
+        "summary": "A coalition of state attorneys general is asking OpenAI for documents about its activities.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.695
+      },
+      {
+        "id": "1cb0c4521ffe105f",
+        "title": "Anthropic 'Suspends' All Mythos and Fable Access After US Order Limiting Foreign Access",
+        "url": "https://news.slashdot.org/story/26/06/13/0546258/anthropic-suspends-all-mythos-and-fable-access-after-us-order-limiting-foreign-access?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1781334000000,
+        "summary": "\"Anthropic said on Friday it will 'abruptly disable' its most advanced AI models for all users,\" reports Reuters, \"after the U.S. government ordered it to suspend access to the models for foreign nationals, citing national security concerns. The company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of",
+        "tags": [
+          "usa"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1145
+      },
+      {
+        "id": "fb460b4ce687fbba",
+        "title": "US government orders Anthropic to kill Fable 5 and Mythos 5 in unprecedented AI model recall",
+        "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1781333825000,
+        "summary": "The US government has ordered Anthropic to suspend access to its two most capable AI models, Fable 5 and Mythos 5, in what appears to be the first time Washington has forced a commercial AI product offline. The directive, which Anthropic says it received at 5:21pm ET on 12 June, cites national security authorities and demands […] This story continues at The Next Web",
+        "tags": [
+          "anthropic",
+          "security",
+          "artificial intelligence",
+          "next featured",
+          "government and policy",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9544
+      },
+      {
         "id": "dc7db3c57c107f03",
         "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
         "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
@@ -2795,64 +2845,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8792
-      },
-      {
-        "id": "af96d8985f3fc46e",
-        "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-        "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781285168000,
-        "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-        "tags": [
-          "security",
-          "ai",
-          "android",
-          "artificial intelligence",
-          "cybercrime",
-          "cybersecurity"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8044
-      },
-      {
-        "id": "776cec5873a602f5",
-        "title": "From AI deals to streaming fraud, the music industry is wrestling with four existential battles at once",
-        "url": "https://thenextweb.com/news/music-industry-ai-deals-streaming-fraud-royalties-pro-crackdown",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781284943000,
-        "summary": "The music industry descended on New York this week for Indie Week and a flurry of parallel gatherings. The conversations kept circling back to the same handful of anxieties: generative AI, streaming fraud, underpaid songwriters, and the organisations meant to protect them. Four issues, in particular, dominated the agenda. Each one carries the potential to […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "next featured",
-          "media",
-          "music"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9667
-      },
-      {
-        "id": "11d873d09669e046",
-        "title": "$130 billion in data center projects blocked by protests so far this year",
-        "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781284729000,
-        "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-        "tags": [
-          "ai",
-          "policy",
-          "ai data center",
-          "artificial intelligence",
-          "data center moratoriums",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0729
       }
     ],
     "science": [
