@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T19:20:14.898093+00:00",
+  "generated_at": "2026-06-13T19:43:30.592725+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -975,6 +975,19 @@
     ],
     "innovation": [
       {
+        "id": "f625100d95615d84",
+        "title": "Report: opponents blocked or delayed at least 75 US data center projects in Q1 2026 worth ~$130B; data center opposition groups doubled to 833 across 49 states (Allan Smith/NBC News)",
+        "url": "https://www.techmeme.com/260613/p10#a260613p10",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1781378702000,
+        "summary": "Allan Smith / NBC News: Report: opponents blocked or delayed at least 75 US data center projects in Q1 2026 worth ~$130B; data center opposition groups doubled to 833 across 49 states — The authors found that data center opponents blocked or delayed at least 75 projects nationwide from January through March.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9941
+      },
+      {
         "id": "40a7ff03709b447a",
         "title": "I stopped using idle games for focus and switched to a desktop pet that actually helps",
         "url": "https://www.makeuseof.com/stopped-using-idle-games-for-focus-switched-to-desktop-pet-that-helps/",
@@ -1905,22 +1918,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9189
-      },
-      {
-        "id": "46cf9b7e485ee6f0",
-        "title": "Roborock's First Robot Lawn Mower Is Here",
-        "url": "https://www.cnet.com/news/roborock-first-robot-lawn-mower/",
-        "source": "CNET",
-        "lane": "innovation",
-        "published_ts": 1781302395000,
-        "summary": "It comes with advanced, wire-free navigation and a promised future AI-powered mapping update.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8791
       }
     ],
     "ai": [
+      {
+        "id": "671a36acfe7390a6",
+        "title": "Vim Classic 8.3 Launched as an AI-Free Vim Fork",
+        "url": "https://news.slashdot.org/story/26/06/13/0524209/vim-classic-83-launched-as-an-ai-free-vim-fork?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1781379240000,
+        "summary": "This month saw the release of Vim Classic 8.3, the first stable version of a new long-term support fork of Vim maintained without generative AI tools. Linuxiac reports: The release is based on Vim 8.2.0148 and includes selected bug fixes and patches backported from later upstream Vim releases. Vim Classic was first announced by [SourceHut's CEO/founder] Drew DeVault in March 2026 after he objected",
+        "tags": [
+          "opensource"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1305
+      },
       {
         "id": "305cf83adb2d2a5e",
         "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
@@ -2862,24 +2877,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0605
-      },
-      {
-        "id": "b1c3081a47aa7df8",
-        "title": "Anthropic blocks all customers' access to Fable 5 and Mythos 5",
-        "url": "https://www.engadget.com/2193656/anthropic-blocks-access-fable-5-mythos-5/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1781324499000,
-        "summary": "Anthropic has suspended all access to its new AI models Fable 5 and Mythos 5 to comply with a government order citing national security concerns.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7508
       }
     ],
     "science": [
+      {
+        "id": "70fa4d8aedbf0ec2",
+        "title": "Cellulose films match plastic performance while enabling recycling or biodegradation",
+        "url": "https://phys.org/news/2026-06-cellulose-plastic-enabling-recycling-biodegradation.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781379003000,
+        "summary": "A new cellulose-based material platform developed in Finland responds to tightening regulatory requirements and industry pressure to both replace and reduce plastic in packaging, including emerging thresholds such as limiting plastic content to below 5 wt% in fiber-based materials. The technology enables transparent, high-performance films and coatings that match the functionality of plastics whil",
+        "tags": [
+          "materials science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0969
+      },
       {
         "id": "355a8e25cd96bdb0",
         "title": "When motion prevents order in active matter systems",
@@ -3788,21 +3803,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.068
-      },
-      {
-        "id": "0f42952288968454",
-        "title": "SpaceX makes Nasdaq debut at $150 after pricing its shares at $135, giving it a market cap of $1.9T; Elon Musk becomes the world's first trillionaire (CNBC)",
-        "url": "https://www.techmeme.com/260612/p19#a260612p19",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1781280449000,
-        "summary": "CNBC: SpaceX makes Nasdaq debut at $150 after pricing its shares at $135, giving it a market cap of $1.9T; Elon Musk becomes the world's first trillionaire — SpaceX shares soared on Friday as trading commenced on the Nasdaq, driving the rocket company's valuation above $2 trillion.",
-        "tags": [
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0789
       }
     ]
   },
