@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-06-15T07:28:21.019055+00:00",
+  "generated_at": "2026-06-15T08:26:24.185378+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "09558b5abeb0a8fe",
+        "title": "Under-16 social media ban announced by UK government",
+        "url": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1781511549000,
+        "summary": "The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from early next year, will be joined by wider measures that will also prevent children from talking to strangers in online games, livestreaming, […]",
+        "tags": [
+          "news",
+          "policy",
+          "politics",
+          "regulation",
+          "social media",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7902
+      },
+      {
+        "id": "77bc5f4f734a1543",
+        "title": "Chinese e-tailer claimed 14-inch box stretched the size of a 9-inch tablet",
+        "url": "https://www.theregister.com/offbeat/2026/06/15/chinese-e-tailer-claimed-14-inch-box-stretched-the-size-of-a-9-inch-tablet/5252632",
+        "source": "The Register",
+        "lane": "gadgets",
+        "published_ts": 1781508600000,
+        "summary": "This is why you don’t let junior staff ‘save the company a few dollars’",
+        "tags": [
+          "offbeat"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0312
+      },
       {
         "id": "5a99812a3f79d303",
         "title": "Nintendo's Switch 2 price is increasing to AU$769.95 come Sep 1 — which makes this AU$629 deal for EOFY all the more tempting",
@@ -927,40 +962,91 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8392
-      },
-      {
-        "id": "3c68414dc2e858ff",
-        "title": "Best Weekend Ever? Playing Pokemon Go With 717,000 Fans of the Game",
-        "url": "https://www.cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1781430057000,
-        "summary": "Pokemon Go Fest gave me and my far-flung family members a great excuse to play a game together that we'd all been enjoying separately. We had a lot of company.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7994
-      },
-      {
-        "id": "69bd8e28697f6ee9",
-        "title": "Double the VRAM of an RTX 3070",
-        "url": "https://hackaday.com/2026/06/14/double-the-vram-of-an-rtx-3070/",
-        "source": "Hackaday",
-        "lane": "gadgets",
-        "published_ts": 1781424043000,
-        "summary": "Modern games are quite often limited by the amount of volatile memory available to the GPU. Games can require many gigabytes of data during the rasterization process. So the obvious …read more",
-        "tags": [
-          "computer hacks",
-          "nvidia",
-          "rtx",
-          "rtx 3070"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0731
       }
     ],
     "innovation": [
+      {
+        "id": "cf5b4127bc70865d",
+        "title": "President Trump says he warned Emmanuel Macron to drop France's 3% digital services tax on US tech giants, or face a 100% tariff on French champagne and wine (James Franey/New York Post)",
+        "url": "https://www.techmeme.com/260615/p6#a260615p6",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1781511601000,
+        "summary": "James Franey / New York Post: President Trump says he warned Emmanuel Macron to drop France's 3% digital services tax on US tech giants, or face a 100% tariff on French champagne and wine — See more of our coverage in your search results. — Add The New York Post on Google — President Trump warned that France …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.998
+      },
+      {
+        "id": "efa5e1bb309a69f0",
+        "title": "UK Introduces Full Social Media Ban For Under 16s - Including X, YouTube, TikTok",
+        "url": "https://www.reddit.com/r/technology/comments/1u6a7hu/uk_introduces_full_social_media_ban_for_under_16s/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781510523000,
+        "summary": "submitted by /u/ChiefLeef22 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9426
+      },
+      {
+        "id": "4c5af6514d70a02f",
+        "title": "The Y2K Bug in BSD 2.11 that Survived 2000",
+        "url": "https://hackaday.com/2026/06/15/the-y2k-bug-in-bsd-2-11-that-survived-2000/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781510417000,
+        "summary": "A year before the arrival of the brand-new 21st millennium, the Year 2000 Bug was predicted to grind modern society to a halt and ensure that at the dawn of …read more",
+        "tags": [
+          "retrocomputing",
+          "software development",
+          "2.1bsd",
+          "pdp-11",
+          "y2k"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.071
+      },
+      {
+        "id": "35ce68cdda1b9d17",
+        "title": "Google is about to disable uBlock Origin and every other Manifest V2 extension in Chrome",
+        "url": "https://thenextweb.com/news/chrome-manifest-v3-ublock-origin-content-blockers-disabled",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781508898000,
+        "summary": "Google is weeks away from permanently disabling every Manifest V2 browser extension in Chrome, a change that will kill uBlock Origin and fundamentally limit what content blockers can do inside the world’s most popular browser. Chrome 150, scheduled to reach the stable channel on June 30, will remove the ExtensionManifestV2Disabled flag, the last mechanism that […] This story continues at The Next ",
+        "tags": [
+          "artificial intelligence",
+          "google",
+          "next featured",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8853
+      },
+      {
+        "id": "4211aebf4d19e0ee",
+        "title": "The scam economy is now bigger than Denmark’s GDP, and it is accelerating",
+        "url": "https://thenextweb.com/news/global-scam-economy-442-billion-ai-fraud-yahoo-boys",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1781507880000,
+        "summary": "Global financial fraud cost victims an estimated $442 billion in 2025, roughly equivalent to the economic output of Denmark, according to Interpol’s 2026 Global Financial Fraud Threat Assessment. The figure, corroborated by the Global Anti-Scam Alliance’s own survey data, reflects what Interpol Secretary General Valdecy Urquiza described as “the industrialisation of fraud,” driven by artificial […",
+        "tags": [
+          "artificial intelligence",
+          "next featured",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8805
+      },
       {
         "id": "c26d3fcf54763726",
         "title": "IKEA Storage Box Just Happens To Make Great Printer Cover",
@@ -1833,81 +1919,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8498
-      },
-      {
-        "id": "b9790e4cb1af51e8",
-        "title": "Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices (Wall Street Journal)",
-        "url": "https://www.techmeme.com/260614/p6#a260614p6",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1781439000000,
-        "summary": "Wall Street Journal: Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices — The company is expanding its capacity for Ajinomoto Build-up Film, with production expected to begin in 2032",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0774
-      },
-      {
-        "id": "af7c1d8fc8762e85",
-        "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
-        "url": "https://www.reddit.com/r/technology/comments/1u5j8g5/palantir_loses_legal_challenge_to_force_swiss/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781438236000,
-        "summary": "submitted by /u/Naurgul [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9308
-      },
-      {
-        "id": "7feb1ea8eecbc091",
-        "title": "Bitcoin Has Lost Nearly Half Its Value in 11 Months",
-        "url": "https://slashdot.org/story/26/06/14/0817238/bitcoin-has-lost-nearly-half-its-value-in-11-months?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781436840000,
-        "summary": "The price of bitcoin dropped 13% down to $64,394 just in June — but there's more bad news, reports CNBC.\" \"Bitcoin has lost nearly half its value since reaching a record high above $123,000 in July 2025.\" While previous bitcoin selloffs were often followed by large rebounds in price, the latest decline may prompt some investors to revisit why they own bitcoin in the first place, [says Daniel Sotir",
-        "tags": [
-          "bitcoin"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0487
-      },
-      {
-        "id": "67a644fd0eafcfa5",
-        "title": "Skoda’s Peaq is a seven-seat electric SUV built to undercut the Kia EV9 and Ioniq 9 on price",
-        "url": "https://thenextweb.com/news/skoda-peaq-seven-seat-electric-suv-flagship",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781435616000,
-        "summary": "Skoda has revealed the Peaq, its first seven-seat all-electric SUV and the most expensive car in the Czech automaker’s 130-year history. Built on the Volkswagen Group’s MEB platform at Skoda’s home plant in Mladá Boleslav, the Peaq stretches nearly 4.9 metres long and is designed to compete directly with the Kia EV9, Hyundai Ioniq 9, […] This story continues at The Next Web",
-        "tags": [
-          "cars",
-          "next featured",
-          "electric vehicle"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.894
-      },
-      {
-        "id": "52c9a5176cdfa7ae",
-        "title": "Battery-free artificial photosynthesis keeps solar fuel production stable under shifting sunlight",
-        "url": "https://www.reddit.com/r/technology/comments/1u5huv3/batteryfree_artificial_photosynthesis_keeps_solar/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781433778000,
-        "summary": "submitted by /u/striketheviol [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9529
       }
     ],
     "ai": [
@@ -2846,6 +2857,34 @@
     ],
     "science": [
       {
+        "id": "654a50cceb3e2f59",
+        "title": "Greek fishermen struggle to keep up with pufferfish invaders",
+        "url": "https://phys.org/news/2026-06-greek-fishermen-struggle-pufferfish-invaders.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781509878000,
+        "summary": "On his fishing boat moored in the Greek port of Ierapetra in southwestern Crete, Alexis Charlambakis pries open the mouth of a freshly caught pufferfish to reveal two massive teeth on each jaw.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0086
+      },
+      {
+        "id": "8da55531af570a26",
+        "title": "Oxford physicists just made Schrödinger’s cat even stranger",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+        "source": "ScienceDaily Tech",
+        "lane": "science",
+        "published_ts": 1781508586000,
+        "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for more resilient quantum computers and deeper insights into the strange rules that govern the quantum universe.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0605
+      },
+      {
         "id": "a8889e442c3ee4c3",
         "title": "Causal Object-Centric Models for Planning with Monte Carlo Tree Search",
         "url": "https://arxiv.org/abs/2606.14418",
@@ -3725,36 +3764,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0156
-      },
-      {
-        "id": "71c4b755d7562fbd",
-        "title": "Heat-surviving cyanobacteria switch to respiration when photosynthesis falters, 48-hour test reveals",
-        "url": "https://phys.org/news/2026-06-surviving-cyanobacteria-respiration-photosynthesis-falters.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781366403000,
-        "summary": "A new study challenges a long-standing assumption about how cyanobacteria survive environmental stress. The study, led by researchers at the Israel Oceanographic and Limnological Research (IOLR)—the Kinneret Limnological Institute (KLI), shows that survival under prolonged heat stress is not determined solely by the ability to protect photosynthesis. Instead, survival may depend on a remarkable sh",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0172
-      },
-      {
-        "id": "c4811cb6865648af",
-        "title": "Water molecule unlocks faster interfacial polymerization by lowering energy barrier",
-        "url": "https://phys.org/news/2026-06-molecule-faster-interfacial-polymerization-lowering.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781364601000,
-        "summary": "Researchers at The Hong Kong University of Science and Technology (HKUST) have achieved two major breakthroughs in interfacial polymerization, a key technique for preparing advanced functional materials. By integrating quantum mechanics with machine learning, the team has elucidated the mechanism by which water molecules facilitate reactions at the molecular level. At the same time, it has transfo",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0979
       }
     ]
   },
