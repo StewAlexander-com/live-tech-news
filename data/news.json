@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-06-15T03:48:01.213896+00:00",
+  "generated_at": "2026-06-15T04:03:36.834355+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d19069cb5c98eb47",
+        "title": "A fully GPU-based workflow for building physics emulators of hypersonic flows",
+        "url": "https://arxiv.org/abs/2606.13742",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13742v1 Announce Type: new Abstract: The ability to resolve complex physical phenomena with high fidelity and at low computational cost is central to addressing key challenges in modern engineering. A prime example lies in hypersonic flows, where the precise prediction of the full flowfield topology, in particular with respect to shock wave location and intensity, is critical. Yet super",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "physics.comp-ph",
+          "physics.flu-dyn",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
+        "id": "aeedcd06a6e7c206",
+        "title": "Beyond LoRA: Is Sparsity-Induced Adaptation Better?",
+        "url": "https://arxiv.org/abs/2606.13767",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13767v1 Announce Type: new Abstract: Low-rank adaptation (LoRA) and its variants provide a memory- and compute-efficient alternative to full fine-tuning of pre-trained models. However, questions remain about the comparative generalizability of these approaches and how the structural restrictions on low-rank updates preserve effective adaptation performance. We present a historical frami",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
+        "id": "706bfe50da201d62",
+        "title": "A Stationarity-and-Coupling Criterion for Training-Free Time-Lagged Spectral Embeddings of Multivariate Time Series",
+        "url": "https://arxiv.org/abs/2606.13823",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13823v1 Announce Type: new Abstract: We study training-free fixed-length descriptors for multivariate time series and ask not merely whether such a descriptor performs well, but when it can be expected to work at all. Our object of study is $D(\\tau)$, built from a time-lagged correlation matrix truncated at the Marchenko-Pastur edge so that only signal-bearing eigenvalues survive and cl",
+        "tags": [
+          "cs.lg",
+          "eess.sp",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
       {
         "id": "d974ec823b07967c",
         "title": "Is using a VPN legal in the USA, Canada and Mexico? What World Cup travelers need to know",
@@ -900,55 +954,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9753
-      },
-      {
-        "id": "82b87d595cda6df7",
-        "title": "Building a serial and VGA \"everything console\"",
-        "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-        "source": "Hacker News",
-        "lane": "gadgets",
-        "published_ts": 1781404275000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0294
-      },
-      {
-        "id": "b875449d6e454f5a",
-        "title": "Antonee Robinson Shows Off Unreleased Two-Tone Beats Over-Ear Headphones at the World Cup",
-        "url": "https://www.macrumors.com/2026/06/13/antonee-robinson-beats-headphones/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1781388802000,
-        "summary": "Several players involved in the World Cup have been spotted wearing unreleased Beats over-ear headphones over the past couple of weeks, and U.S. men's national soccer team star Antonee Robinson is the latest to be spotted with them. Robinson was captured in a photo on his Instagram account wearing a two-tone version that appears to feature a white headband and housings but with royal blue ear cups",
-        "tags": [
-          "beats"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9998
-      },
-      {
-        "id": "81b3d12d3d58ebe0",
-        "title": "Russia wrapped a whole building in an anti-drone cage, satellite imagery shows. Ukraine fired on it with cruise missiles.",
-        "url": "https://www.reddit.com/r/technology/comments/1u532n4/russia_wrapped_a_whole_building_in_an_antidrone/",
-        "source": "Reddit r/technology",
-        "lane": "gadgets",
-        "published_ts": 1781387098000,
-        "summary": "submitted by /u/esporx [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0181
       }
     ],
     "innovation": [
+      {
+        "id": "364c24071b643891",
+        "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+        "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1781496060000,
+        "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
+        "tags": [
+          "startups",
+          "venture",
+          "enterprise",
+          "ai",
+          "agents"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7474
+      },
+      {
+        "id": "15c141ffe56d6d68",
+        "title": "Sorries Are Not the Hard Part: An Expert-Review Case Study of a Semi-Autonomous Formalization",
+        "url": "https://arxiv.org/abs/2606.13925",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13925v1 Announce Type: new Abstract: Large language models can often close proof gaps in interactive theorem provers, but a verified theorem is not the same thing as a reusable library contribution. We study this distinction through a detailed case study: a semi-autonomous formalization of Grothendieck's vanishing theorem. The initial version compiles with no sorries, but an expert revi",
+        "tags": [
+          "cs.ai",
+          "math.ag"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
       {
         "id": "a7f27ba63cda6d29",
         "title": "US-Iran Peace Agreement Prompts Stock Rally, Leaves Some Investors Skeptical and Questions on Speed of Resuming Oil Production",
@@ -1863,39 +1906,206 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9277
-      },
-      {
-        "id": "efd5244ff573d477",
-        "title": "Tesla on Autopilot Smashes Straight Through Garage Door, Driver Says",
-        "url": "https://www.reddit.com/r/technology/comments/1u5exkp/tesla_on_autopilot_smashes_straight_through/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781423130000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9394
-      },
-      {
-        "id": "6d4ceb3944acc436",
-        "title": "Four LTS Java Versions Get End-of-Support in a Three-Year Window (2029-2032)",
-        "url": "https://developers.slashdot.org/story/26/06/14/0534214/four-lts-java-versions-get-end-of-support-in-a-three-year-window-2029-2032?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781422440000,
-        "summary": "Simon Ritter joined Sun Microsystems in 1996 and spent time working in both Java development and consultancy. He's now written an opinion piece for InfoWorld warning that \"Between 2029 and 2032, every currently supported long-term support (LTS) version of Java will reach end-of-support within a single three-year window.\" That's Java 17 in 2029, Java 8 in 2030, Java 21 in 2031, and Java 11 in 2032.",
-        "tags": [
-          "java"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0344
       }
     ],
     "ai": [
+      {
+        "id": "572964fb341157be",
+        "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+        "url": "https://arxiv.org/abs/2606.13710",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open-ended research tasks, yet it is constrained by the static parametric deep research capabilities of a",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "138a680aa5ba6efb",
+        "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+        "url": "https://arxiv.org/abs/2606.13722",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13722v1 Announce Type: new Abstract: This paper introduces YeasierAgent, an application-building paradigm based on symbiotic agents, narrative worlds, and scene-aware interaction. It challenges the conventional device-coupled model of software by redefining applications as collaborative spaces among users, agents, and worlds. We present a system architecture that achieves two primary co",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "2b7be959b12036c3",
+        "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
+        "url": "https://arxiv.org/abs/2606.13734",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13734v1 Announce Type: new Abstract: Recent evidence reported by Tully, Longoni, and Appel (2025) suggests that lower artificial intelligence (AI) literacy predicts greater receptivity toward AI. We revisit this claim using the public data from Study 3 of that article, which measures past usage of five AI tool categories on a five-point frequency scale. We first reproduce the negative a",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "618c155c97bd16e6",
+        "title": "A Multi-Agent AI System for Automated High School Transcript Processing: Collaborative Document Analysis at Scale",
+        "url": "https://arxiv.org/abs/2606.13916",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13916v1 Announce Type: new Abstract: Each year, college admissions offices face an overwhelming challenge: processing millions of high school transcripts, each with unique formats, grading systems, and layouts. This manual process creates operational bottlenecks that delay admissions decisions and consume valuable resources. We present a transformative solution through a multi-agent AI ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "bbdd89828b7aa028",
+        "title": "FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories",
+        "url": "https://arxiv.org/abs/2606.14119",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14119v1 Announce Type: new Abstract: Fault diagnostics and recovery in smart factories is challenging because critical information is dispersed across manuals of multiple machines which are interconnected through the manufacturing process. Large Language Models (LLMs) can provide a promising approach. In this paper, we propose FactoryLLM, a safe and open-source AI playground designed fo",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "1450ee253b26fd29",
+        "title": "VeriGeo: Controllable Geometry Question Generation with Numerical and Analytical Verification",
+        "url": "https://arxiv.org/abs/2606.14176",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14176v1 Announce Type: new Abstract: Geometry problem generation is useful for AI-assisted education and multimodal mathematical reasoning, but reliable synthesis remains difficult because the problem statement, diagram, constraints, and solution should be mutually consistent. Existing methods often trade off controllability and reliability: seed-based rewriting is flexible but weakly v",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "485060cfb29766a4",
+        "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
+        "url": "https://arxiv.org/abs/2606.13740",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13740v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) accelerate generation by denoising multiple tokens in parallel, making them attractive for latency-sensitive mobile inference. However, repeated denoising introduces substantial computation on smartphones. Mobile neural processing units (NPUs) offer high-throughput dense matrix computation, but efficiently expl",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "7fa2c2f403f9e3a0",
+        "title": "The Weight Norm Sets the Grokking Timescale: A Causal Delay Law",
+        "url": "https://arxiv.org/abs/2606.13753",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13753v1 Announce Type: new Abstract: Grokking is the delayed onset of generalization in neural networks, arising long after they fit the training data. Whether the weight norm causes this delay is disputed: some studies report a critical norm at the transition, others observe grokking with no fixed norm at all. We settle this by intervening on the norm during training rather than only o",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "2e175a2a7fc0664e",
+        "title": "D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection",
+        "url": "https://arxiv.org/abs/2606.13754",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13754v1 Announce Type: new Abstract: Anomaly detection is a fundamental component of intelligent systems with applications in healthcare, cybersecurity, smart grids, and IoT environments. Although conventional machine learning and deep learning methods have demonstrated effectiveness in identifying anomalies, they often rely on large labeled datasets, incur high computational costs, and",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "00c864d636e1cf4f",
+        "title": "Neural Variability Enhances Artificial Network Robustness",
+        "url": "https://arxiv.org/abs/2606.13801",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13801v1 Announce Type: new Abstract: Neural responses in cortex exhibit substantial trial-to-trial variability in response to repeated stimuli, while peripheral sensory neurons respond far more consistently, leading many to wonder whether stochasticity may carry meaning. Existing work has argued that noise and signal correlations may be optimized for discrimination in animals, whereas a",
+        "tags": [
+          "cs.lg",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "cd7991d342460905",
+        "title": "Neural Slack Variables for Shape Constraints",
+        "url": "https://arxiv.org/abs/2606.13803",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13803v1 Announce Type: new Abstract: Enforcing functional inequality constraints such as monotonicity and convexity in neural networks is a fundamental challenge in many industrial and scientific applications. Classical one-sided penalty methods, along with primal-dual methods gated by complementary slackness, provide constraint gradients only at violated locations, resulting in fragile",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "00db5441919081c6",
+        "title": "Uncertainty Estimation and Generalization Bounds for Modern Deep Learning",
+        "url": "https://arxiv.org/abs/2606.13818",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13818v1 Announce Type: new Abstract: This thesis investigates how Bayesian principles can deepen our understanding of modern deep learning systems. While neural networks achieve remarkable predictive performance, their ability to generalize and to quantify uncertainty remains only partly understood. This thesis approaches this challenge from both methodological and theoretical angles: u",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "7f3bcda94e9e6bd4",
+        "title": "Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase AI inference GPUs, and is also considering a deal to buy Baidu's Kunlunxin chips (Reuters)",
+        "url": "https://www.techmeme.com/260614/p23#a260614p23",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781495402000,
+        "summary": "Reuters: Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase AI inference GPUs, and is also considering a deal to buy Baidu's Kunlunxin chips — Chinese technology company ByteDance is in talks with Shanghai-based Iluvatar CoreX (9903.HK) to purchase AI chips for inference work …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0753
+      },
       {
         "id": "0cb2f93fd7b13f88",
         "title": "Interpretable AI in materials discovery: Uncovering how models make predictions",
@@ -2633,213 +2843,135 @@
         "paywall": false,
         "impact": "high",
         "score": 1.3655
-      },
-      {
-        "id": "4c7bddb402832821",
-        "title": "EU Commission looking at practical consequences of Anthropic decision",
-        "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781447591000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:9"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9106
-      },
-      {
-        "id": "14a6789ff866c7ae",
-        "title": "The lawyer who won a $6 million verdict against Meta says AI let him do 30 hours of work in 10",
-        "url": "https://thenextweb.com/news/texas-lawyer-ai-meta-social-media-addiction-trial",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781446710000,
-        "summary": "Mark Lanier, the Texas trial lawyer who won a landmark $6 million verdict against Meta and Google in a social media addiction case in March, says AI was central to his preparation and execution throughout the five-week trial. Lanier told Business Insider that the technology let him compress 30 hours of work into 10, describing […] This story continues at The Next Web",
-        "tags": [
-          "meta",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9612
-      },
-      {
-        "id": "317b3729e38fa5a2",
-        "title": "Microsoft is reportedly testing Copilot+ AI features with discrete GPUs instead of NPUs — a feature available on Windows App SDK with a Windows Insider Experimental Channel build and Developer Mode turned on",
-        "url": "https://www.tomshardware.com/software/windows/microsoft-is-reportedly-testing-copilot-ai-features-with-discrete-gpus-instead-of-npus-a-feature-available-on-windows-app-sdk-with-a-windows-insider-experimental-channel-build-and-developer-mode-turned-on",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781442000000,
-        "summary": "Microsoft is experimenting with Windows AI features on non-Copilot devices, finally allowing AI features to run on discrete GPUs. This move expands its user base and gives more users access to Windows 11 local AI capabilities.",
-        "tags": [
-          "windows",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0251
-      },
-      {
-        "id": "f339d25dbe1d8e0a",
-        "title": "I was bored of my usual fitness apps, but comprehensive fitness tracker BetterMe dwarfs them in terms of scale",
-        "url": "https://www.techradar.com/health-fitness/fitness-apps/i-was-bored-of-my-usual-fitness-apps-but-comprehensive-fitness-tracker-betterme-dwarfs-them-in-terms-of-scale",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781442000000,
-        "summary": "In the AI fitness race, BetterMe is doing things a little differently.",
-        "tags": [
-          "fitness apps",
-          "health &amp; fitness"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9177
-      },
-      {
-        "id": "3484ef293015ef6a",
-        "title": "Zuckerberg says Meta made 'mistakes' in AI workforce shift",
-        "url": "https://www.reddit.com/r/technology/comments/1u5k5zr/zuckerberg_says_meta_made_mistakes_in_ai/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781440946000,
-        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0199
-      },
-      {
-        "id": "19f51e936d11409a",
-        "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-        "url": "https://www.reddit.com/r/technology/comments/1u5k5rf/a_year_after_meta_tapped_alexandr_wang_to_build_a/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781440926000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
-      },
-      {
-        "id": "1c682d9a1bb3f314",
-        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-        "url": "https://www.reddit.com/r/technology/comments/1u5jxft/metas_monthsold_ai_unit_is_a_soulcrushing_gulag/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781440263000,
-        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "173adb7f148d03c7",
-        "title": "AI is code – and can't be prompted into being smarter",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1781440200000,
-        "summary": "From Java tests to Shai-Hulud, bots keep proving they'll swallow anything you feed them",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1228
-      },
-      {
-        "id": "70433f5541ad37fe",
-        "title": "OpenAI hit with sweeping probe from massive coalition of 42 US state attorneys general just days after reported IPO filing — subpoena targets ChatGPT maker’s ads, data practices, handling of minors, model sycophancy, and safety policies",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-hit-with-sweeping-probe-from-massive-coalition-of-42-us-state-attorneys-general-just-days-after-reported-ipo-filing-subpoena-targets-chatgpt-makers-ads-data-practices-handling-of-minors-model-sycophancy-and-safety-policies",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781440200000,
-        "summary": "State attorneys general have opened a broad investigation into OpenAI, subpoenaing documents on ads, user retention, data handling, minors, health data, model behavior, and safety policies.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9406
-      },
-      {
-        "id": "2d18f842e1ca3224",
-        "title": "Light-programmed system projects 28-layer 3D images in single shot",
-        "url": "https://phys.org/news/2026-06-layer-3d-images-shot.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1781439601000,
-        "summary": "Researchers at the UCLA Samueli School of Engineering and CNSI (California NanoSystems Institute), led by Professor Aydogan Ozcan, introduced a snapshot 3D image projection system that integrates a digital encoder with a passive diffractive optical decoder, jointly optimized end-to-end through deep learning. The hybrid architecture projects multiple distinct images onto closely spaced axial planes",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
-      },
-      {
-        "id": "7b721083314f37a2",
-        "title": "US government warned Anthropic that Chinese group had accessed model, but firm 'refused' to fix Fable 5 jailbreak before US export controls — Anthropic defended its decision by saying the jailbreak isn’t serious",
-        "url": "https://www.reddit.com/r/technology/comments/1u5j55x/us_government_warned_anthropic_that_chinese_group/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781437948000,
-        "summary": "submitted by /u/rkhunter_ [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9424
-      },
-      {
-        "id": "2e62d8e2ed9765d5",
-        "title": "AI cryptomining network's 320,000 RTX 3090-class GPUs allegedly burn 112 megawatts of power on ‘zero useful AI computation’ — GPU rental costs jump 38%, but Pearl’s cards are doing random matrix math, study claims",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-networks-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts-of-power-on-zero-useful-ai-computation-pearls-gpus-are-doing-random-matrix-math-study-claims",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781436600000,
-        "summary": "A preprint claims Pearl’s AI mining network consumes 320,000 GPU-equivalents and 112 MW while producing no verified useful AI computation.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0245
-      },
-      {
-        "id": "0ada9eb2ebf16b88",
-        "title": "China’s universities cut 12,000 ‘obsolete’ degrees amid race to embrace AI era",
-        "url": "https://www.reddit.com/r/technology/comments/1u5i8dn/chinas_universities_cut_12000_obsolete_degrees/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781435053000,
-        "summary": "submitted by /u/Saltedline [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.015
       }
     ],
     "science": [
+      {
+        "id": "a8889e442c3ee4c3",
+        "title": "Causal Object-Centric Models for Planning with Monte Carlo Tree Search",
+        "url": "https://arxiv.org/abs/2606.14418",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14418v1 Announce Type: new Abstract: We introduce COMET (Causal Object-centric Model for Efficient Tree search), a model-based reinforcement learning algorithm that performs Monte Carlo Tree Search in a slot-structured latent space. COMET pairs a frozen unsupervised object-centric encoder with a transformer-based world model, in which actions are bound to objects through a novel action-",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "09e04b13e7894844",
+        "title": "Can Machine Learning Forecast Rice Yields in Data-Constrained Settings? Satellite Climate Data, National Crop Statistics, and Lessons from Sierra Leone",
+        "url": "https://arxiv.org/abs/2606.13959",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13959v1 Announce Type: new Abstract: Sierra Leone's agriculture operates with almost no data-driven decision support, and no published machine learning study has examined the country's crop yields. We ask whether rice yield can be forecast from data Sierra Leone currently has. Using 25 years of FAOSTAT production data (2000-2024) for nine major crops, we train XGBoost, Gradient Boosting",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "ccff0e70d15ee9bc",
+        "title": "Deep Spectral Learning of Embedded Latent Transfer Operators for Stochastic Dynamical Systems",
+        "url": "https://arxiv.org/abs/2606.14079",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14079v1 Announce Type: new Abstract: We propose a spectral learning method for stochastic nonlinear dynamical systems represented with embedded latent transfer operators in deep feature spaces. We instantiate the method as Deep Spectral Encoder (DSE), an operator-based latent state-space model in which a time-invariant neural encoder implements learnable nonlinear feature maps from obse",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1327
+      },
+      {
+        "id": "231e6c8554412562",
+        "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+        "url": "https://arxiv.org/abs/2606.13720",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13720v1 Announce Type: new Abstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the residual stream, recoverable by a difference-in-means (DiM) of harmful and harmless activations. We compare DiM-based interventions (activation addition and directional ablation) with two interventions derived from Iterative Nu",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
+        "id": "65587006e0ee2d64",
+        "title": "Smoothing Dark Areas in Molecular Latent Diffusion",
+        "url": "https://arxiv.org/abs/2606.13955",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13955v1 Announce Type: new Abstract: Latent diffusion is a promising framework for scalable 3D molecular generation, but it requires a latent space that remains smooth, valid, and navigable beyond posterior samples. Existing molecular VAEs, however, are typically learned through reconstruction-based objectives, which do not guarantee such a latent space. We show that this leads to dark ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
+        "id": "828756d81244fd96",
+        "title": "Lyapunov-Based Sample Complexity Analysis for Weakly-Coupled MDPs",
+        "url": "https://arxiv.org/abs/2606.14095",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14095v1 Announce Type: new Abstract: We study the sample complexity of learning in average-reward weakly-coupled Markov decision processes (WCMDPs) and Restless Bandits (RBs) under a generative model. Naive reduction to a tabular MDP leads to high complexity bounds as the state-action space is exponentially large in the number of arms $N$. By exploiting the weakly coupled structure, we ",
+        "tags": [
+          "cs.lg",
+          "math.oc",
+          "math.pr",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
+        "id": "1ac106fdefcd50a8",
+        "title": "Recovering Stranded Discrimination in Knowledge Tracing: Per-Item Bias Correction via Empirical-Bayes Shrinkage",
+        "url": "https://arxiv.org/abs/2606.14123",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14123v1 Announce Type: new Abstract: Deployed knowledge-tracing models are typically frozen after training, yet systematic per-item logit bias arises, from limited per-item expressivity in backbone architectures and from post-deployment shifts in item properties, degrading prediction quality. Global post-hoc calibrators such as Platt scaling, temperature scaling, and isotonic regression",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
+      {
+        "id": "f302f04d211341e9",
+        "title": "Decoupled Latent Optimization of Diffusion Models for Full Waveform Inversion",
+        "url": "https://arxiv.org/abs/2606.14139",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.14139v1 Announce Type: new Abstract: Full waveform inversion (FWI) recovers subsurface velocity from seismic recordings by solving a severely ill-posed, nonconvex PDE-constrained optimization. Classical regularizers stabilize the inversion but fail to reproduce realistic geological structures; recent diffusion-prior methods improve realism at the cost of a fragile trade-off between data",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0488
+      },
       {
         "id": "ab4a44f3ada04cdb",
         "title": "Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit's struggles and low consumer hardware margins (David Wainer/Wall Street Journal)",
@@ -3624,131 +3756,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0979
-      },
-      {
-        "id": "80c18beede4ae48b",
-        "title": "Bidirectional manipulation of gate-free quantum electronic states via semiconductor interface engineering",
-        "url": "https://phys.org/news/2026-06-bidirectional-gate-free-quantum-electronic.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781362804000,
-        "summary": "A recent study published in Nature Communications demonstrates precise control over electron spatial arrangement in two directions simultaneously—without any applied voltage—through interface engineering between semimetal bismuth (Bi) thin films and two-dimensional semiconductor MoS₂.",
-        "tags": [
-          "condensed matter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1012
-      },
-      {
-        "id": "f2b6b18217954980",
-        "title": "Forecast flags 210 antimicrobial resistance traits that could spread by 2050",
-        "url": "https://phys.org/news/2026-06-flags-antimicrobial-resistance-traits.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781362801000,
-        "summary": "Antimicrobial resistance (AMR) is considered one of the most urgent global public health threats, with experts predicting that AMR could cause 39 million deaths between 2025 and 2050. AMR is not a single problem, but instead involves many different genes, pathogens, hosts and environmental factors.",
-        "tags": [
-          "molecular & computational biology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0197
-      },
-      {
-        "id": "51c3943f51bddb8e",
-        "title": "Chandra resolves NGC 6540's mysterious X-ray flare into three separate sources",
-        "url": "https://phys.org/news/2026-06-chandra-ngc-mysterious-ray-flare.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781359801000,
-        "summary": "Using NASA's Chandra X-ray spacecraft, astronomers have performed deep X-ray observations of a galactic globular cluster known as NGC 6540. The new observational campaign, described June 1 on the preprint server arXiv, focused on disentangling the nature of a peculiar X-ray flare emitted by the cluster about two decades ago.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
-      },
-      {
-        "id": "9fbc849f983c0c08",
-        "title": "What happens to microplastics when swallowed? In earthworms, they do not leave the digestive tract",
-        "url": "https://phys.org/news/2026-06-microplastics-swallowed-earthworms-digestive-tract.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781359201000,
-        "summary": "Globally, humanity now produces a staggering 450 million tonnes of plastic every year. From food and drink containers to cosmetics packaging, sewage pipes, window frames and polyester clothing, we use plastics in almost every area of life. And nearly one-quarter of them end up in the environment, where they very slowly degrade into microscopic pieces.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0146
-      },
-      {
-        "id": "87e2e9a9f98b814e",
-        "title": "Patterns Everywhere",
-        "url": "https://hackaday.com/2026/06/13/patterns-everywhere/",
-        "source": "Hackaday",
-        "lane": "science",
-        "published_ts": 1781359200000,
-        "summary": "I studied physics in college, and I’m always surprised how fundamental some of the concepts are. Take waves for example. You really wouldn’t expect the same underlying concept to be …read more",
-        "tags": [
-          "hackaday columns",
-          "rants",
-          "control theory",
-          "deep thoughts",
-          "horses",
-          "newsletter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0742
-      },
-      {
-        "id": "11ffe967bddcfae4",
-        "title": "Family wealth reaches further: Grandparents' income links to grandchildren's college access",
-        "url": "https://phys.org/news/2026-06-family-wealth-grandparents-income-links.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781357401000,
-        "summary": "It has long been understood that parents' income plays a major role in children's access to higher education. But a new study published in Canadian Studies in Population suggests that grandparents' income matters, too. By analyzing multigenerational tax data, researchers at Université de Montréal found a direct and significant correlation between grandparents' earnings and the likelihood that thei",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0174
-      },
-      {
-        "id": "83793e3cb7612c81",
-        "title": "Harmonic radar tags reveal how mosquitoes move through fields and parkland",
-        "url": "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781355602000,
-        "summary": "It's an insect everybody loves to hate. Pesky mosquitoes will be out in swarms as the weather warms up across the U.S.—and their bites aren't just itchy. They can transmit pathogens that can cause diseases like West Nile virus, Zika virus and malaria, to name a few.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0113
-      },
-      {
-        "id": "72e22b8b77e2983f",
-        "title": "The Ghosts of the Mediterranean: What a rare great white shark sighting could reveal about a changing ocean",
-        "url": "https://phys.org/news/2026-06-ghosts-mediterranean-rare-great-white.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781353801000,
-        "summary": "Headlines were made this week when scuba divers removing abandoned ghost nets from a shipwreck between Tunisia and Sicily filmed an adult great white shark. The footage quickly made global news, yet the real story is not that a great white was seen in the Mediterranean, but that many people were surprised by its presence at all.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0137
       }
     ]
   },
