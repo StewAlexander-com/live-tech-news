@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-06-15T20:06:22.503793+00:00",
+  "generated_at": "2026-06-15T20:11:07.774321+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "99383c65518f9674",
+        "title": "Google is spending $50 million on 'growing the next generation of American workers' — but at $166 per worker, surely it's not going to get very far?",
+        "url": "https://www.techradar.com/pro/google-is-spending-usd50-million-on-growing-the-next-generation-of-american-workers-but-at-usd166-per-worker-surely-its-not-going-to-get-very-far",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781554200000,
+        "summary": "The search engine giant has committed to spending at least $50 million on training that it says will impact as many as 300,000 workers across America.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8497
+      },
       {
         "id": "939074e2d0ea16f7",
         "title": "Fox wants to take over your TV — and the tech inside it",
@@ -991,22 +1006,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8324
-      },
-      {
-        "id": "3b36e8c10477bd8e",
-        "title": "Cancelled Xbox 360 version of GoldenEye 007 gets recompiled for PC — ‘No emulator, the game runs as a real native executable,’ insists dev",
-        "url": "https://www.tomshardware.com/video-games/retro-gaming/cancelled-xbox-360-version-of-goldeneye-007-gets-recompiled-for-pc-no-emulator-the-game-runs-as-a-real-native-executable-insists-dev",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1781531010000,
-        "summary": "GoldenEye Recomp v1.0 has been released, providing 'a native PC port of GoldenEye 007 built by statically recompiling the original game into C++' with no emulation involved.",
-        "tags": [
-          "retro gaming",
-          "video games"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9271
       }
     ],
     "innovation": [
@@ -3779,67 +3778,67 @@
         "score": 1.1788
       },
       {
-        "id": "1ac106fdefcd50a8",
-        "title": "Recovering Stranded Discrimination in Knowledge Tracing: Per-Item Bias Correction via Empirical-Bayes Shrinkage",
-        "url": "https://arxiv.org/abs/2606.14123",
+        "id": "ccff0e70d15ee9bc",
+        "title": "Deep Spectral Learning of Embedded Latent Transfer Operators for Stochastic Dynamical Systems",
+        "url": "https://arxiv.org/abs/2606.14079",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1781496000000,
-        "summary": "arXiv:2606.14123v1 Announce Type: new Abstract: Deployed knowledge-tracing models are typically frozen after training, yet systematic per-item logit bias arises, from limited per-item expressivity in backbone architectures and from post-deployment shifts in item properties, degrading prediction quality. Global post-hoc calibrators such as Platt scaling, temperature scaling, and isotonic regression",
+        "summary": "arXiv:2606.14079v1 Announce Type: new Abstract: We propose a spectral learning method for stochastic nonlinear dynamical systems represented with embedded latent transfer operators in deep feature spaces. We instantiate the method as Deep Spectral Encoder (DSE), an operator-based latent state-space model in which a time-invariant neural encoder implements learnable nonlinear feature maps from obse",
         "tags": [
-          "cs.lg",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8304
+      },
+      {
+        "id": "231e6c8554412562",
+        "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+        "url": "https://arxiv.org/abs/2606.13720",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13720v1 Announce Type: new Abstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the residual stream, recoverable by a difference-in-means (DiM) of harmful and harmless activations. We compare DiM-based interventions (activation addition and directional ablation) with two interventions derived from Iterative Nu",
+        "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.77
+        "score": 0.7689
       },
       {
-        "id": "f302f04d211341e9",
-        "title": "Decoupled Latent Optimization of Diffusion Models for Full Waveform Inversion",
-        "url": "https://arxiv.org/abs/2606.14139",
+        "id": "65587006e0ee2d64",
+        "title": "Smoothing Dark Areas in Molecular Latent Diffusion",
+        "url": "https://arxiv.org/abs/2606.13955",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1781496000000,
-        "summary": "arXiv:2606.14139v1 Announce Type: new Abstract: Full waveform inversion (FWI) recovers subsurface velocity from seismic recordings by solving a severely ill-posed, nonconvex PDE-constrained optimization. Classical regularizers stabilize the inversion but fail to reproduce realistic geological structures; recent diffusion-prior methods improve realism at the cost of a fragile trade-off between data",
+        "summary": "arXiv:2606.13955v1 Announce Type: new Abstract: Latent diffusion is a promising framework for scalable 3D molecular generation, but it requires a latent space that remains smooth, valid, and navigable beyond posterior samples. Existing molecular VAEs, however, are typically learned through reconstruction-based objectives, which do not guarantee such a latent space. We show that this leads to dark ",
         "tags": [
           "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.77
+        "score": 0.7689
       },
       {
-        "id": "a8889e442c3ee4c3",
-        "title": "Causal Object-Centric Models for Planning with Monte Carlo Tree Search",
-        "url": "https://arxiv.org/abs/2606.14418",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1781496000000,
-        "summary": "arXiv:2606.14418v1 Announce Type: new Abstract: We introduce COMET (Causal Object-centric Model for Efficient Tree search), a model-based reinforcement learning algorithm that performs Monte Carlo Tree Search in a slot-structured latent space. COMET pairs a frozen unsupervised object-centric encoder with a transformer-based world model, in which actions are bound to objects through a novel action-",
-        "tags": [
-          "cs.ai",
-          "cs.lg",
-          "cs.ro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "09e04b13e7894844",
-        "title": "Can Machine Learning Forecast Rice Yields in Data-Constrained Settings? Satellite Climate Data, National Crop Statistics, and Lessons from Sierra Leone",
-        "url": "https://arxiv.org/abs/2606.13959",
+        "id": "828756d81244fd96",
+        "title": "Lyapunov-Based Sample Complexity Analysis for Weakly-Coupled MDPs",
+        "url": "https://arxiv.org/abs/2606.14095",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1781496000000,
-        "summary": "arXiv:2606.13959v1 Announce Type: new Abstract: Sierra Leone's agriculture operates with almost no data-driven decision support, and no published machine learning study has examined the country's crop yields. We ask whether rice yield can be forecast from data Sierra Leone currently has. Using 25 years of FAOSTAT production data (2000-2024) for nine major crops, we train XGBoost, Gradient Boosting",
+        "summary": "arXiv:2606.14095v1 Announce Type: new Abstract: We study the sample complexity of learning in average-reward weakly-coupled Markov decision processes (WCMDPs) and Restless Bandits (RBs) under a generative model. Naive reduction to a tabular MDP leads to high complexity bounds as the state-action space is exponentially large in the number of arms $N$. By exploiting the weakly coupled structure, we ",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "math.oc",
+          "math.pr",
+          "stat.ml"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.1327
+        "impact": "normal",
+        "score": 0.7689
       }
     ]
   },
