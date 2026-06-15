@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T13:40:24.044495+00:00",
+  "generated_at": "2026-06-15T13:42:06.961583+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2710,6 +2710,67 @@
         "score": 1.0772
       },
       {
+        "id": "2e175a2a7fc0664e",
+        "title": "D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection",
+        "url": "https://arxiv.org/abs/2606.13754",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13754v1 Announce Type: new Abstract: Anomaly detection is a fundamental component of intelligent systems with applications in healthcare, cybersecurity, smart grids, and IoT environments. Although conventional machine learning and deep learning methods have demonstrated effectiveness in identifying anomalies, they often rely on large labeled datasets, incur high computational costs, and",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9408
+      },
+      {
+        "id": "00c864d636e1cf4f",
+        "title": "Neural Variability Enhances Artificial Network Robustness",
+        "url": "https://arxiv.org/abs/2606.13801",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13801v1 Announce Type: new Abstract: Neural responses in cortex exhibit substantial trial-to-trial variability in response to repeated stimuli, while peripheral sensory neurons respond far more consistently, leading many to wonder whether stochasticity may carry meaning. Existing work has argued that noise and signal correlations may be optimized for discrimination in animals, whereas a",
+        "tags": [
+          "cs.lg",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9408
+      },
+      {
+        "id": "cd7991d342460905",
+        "title": "Neural Slack Variables for Shape Constraints",
+        "url": "https://arxiv.org/abs/2606.13803",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13803v1 Announce Type: new Abstract: Enforcing functional inequality constraints such as monotonicity and convexity in neural networks is a fundamental challenge in many industrial and scientific applications. Classical one-sided penalty methods, along with primal-dual methods gated by complementary slackness, provide constraint gradients only at violated locations, resulting in fragile",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9408
+      },
+      {
+        "id": "00db5441919081c6",
+        "title": "Uncertainty Estimation and Generalization Bounds for Modern Deep Learning",
+        "url": "https://arxiv.org/abs/2606.13818",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781496000000,
+        "summary": "arXiv:2606.13818v1 Announce Type: new Abstract: This thesis investigates how Bayesian principles can deepen our understanding of modern deep learning systems. While neural networks achieve remarkable predictive performance, their ability to generalize and to quantify uncertainty remains only partly understood. This thesis approaches this challenge from both methodological and theoretical angles: u",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9408
+      },
+      {
         "id": "572964fb341157be",
         "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
         "url": "https://arxiv.org/abs/2606.13710",
@@ -2770,70 +2831,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1327
-      },
-      {
-        "id": "bbdd89828b7aa028",
-        "title": "FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories",
-        "url": "https://arxiv.org/abs/2606.14119",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781496000000,
-        "summary": "arXiv:2606.14119v1 Announce Type: new Abstract: Fault diagnostics and recovery in smart factories is challenging because critical information is dispersed across manuals of multiple machines which are interconnected through the manufacturing process. Large Language Models (LLMs) can provide a promising approach. In this paper, we propose FactoryLLM, a safe and open-source AI playground designed fo",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "1450ee253b26fd29",
-        "title": "VeriGeo: Controllable Geometry Question Generation with Numerical and Analytical Verification",
-        "url": "https://arxiv.org/abs/2606.14176",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781496000000,
-        "summary": "arXiv:2606.14176v1 Announce Type: new Abstract: Geometry problem generation is useful for AI-assisted education and multimodal mathematical reasoning, but reliable synthesis remains difficult because the problem statement, diagram, constraints, and solution should be mutually consistent. Existing methods often trade off controllability and reliability: seed-based rewriting is flexible but weakly v",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "485060cfb29766a4",
-        "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
-        "url": "https://arxiv.org/abs/2606.13740",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781496000000,
-        "summary": "arXiv:2606.13740v1 Announce Type: new Abstract: Diffusion large language models (dLLMs) accelerate generation by denoising multiple tokens in parallel, making them attractive for latency-sensitive mobile inference. However, repeated denoising introduces substantial computation on smartphones. Mobile neural processing units (NPUs) offer high-throughput dense matrix computation, but efficiently expl",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
-      },
-      {
-        "id": "7fa2c2f403f9e3a0",
-        "title": "The Weight Norm Sets the Grokking Timescale: A Causal Delay Law",
-        "url": "https://arxiv.org/abs/2606.13753",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781496000000,
-        "summary": "arXiv:2606.13753v1 Announce Type: new Abstract: Grokking is the delayed onset of generalization in neural networks, arising long after they fit the training data. Whether the weight norm causes this delay is disputed: some studies report a critical norm at the transition, others observe grokking with no fixed norm at all. We settle this by intervening on the norm during training rather than only o",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1327
       }
     ],
     "science": [
+      {
+        "id": "371a33ffeaa96dc0",
+        "title": "Passive quantum error correction doubles qubit lifetime, reaching break-even point",
+        "url": "https://phys.org/news/2026-06-passive-quantum-error-qubit-lifetime.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781530808000,
+        "summary": "A team of U.S. researchers has designed a passive quantum error correction technique that enables qubits to correct their own errors. Demonstrated by Shruti Shirol and colleagues at the University of Massachusetts Amherst, the protocol transforms the inevitable dissipation of energy in qubit systems from a hindrance into an advantage, offering a promising route toward practical quantum computing o",
+        "tags": [
+          "quantum physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1009
+      },
+      {
+        "id": "dd512159763b0acd",
+        "title": "Higher tax burden, less corruption: Researchers examine civic engagement",
+        "url": "https://phys.org/news/2026-06-higher-tax-burden-corruption-civic.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781530804000,
+        "summary": "When citizens feel a bigger tax pinch, political corruption goes down and voter turnout rises. That's a key finding from new research led by Washington State University, which found that a higher tax burden is associated with increased civic engagement and citizen monitoring of public officials.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0193
+      },
       {
         "id": "4f994c263f08cba0",
         "title": "Australia must tackle unemployment to reduce suicide rates",
@@ -3710,34 +3740,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0157
-      },
-      {
-        "id": "66f9ee7694b0f272",
-        "title": "South African telescope detects record‑breaking signal from the early universe",
-        "url": "https://phys.org/news/2026-06-south-african-telescope-recordbreaking-early.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781397001000,
-        "summary": "Astronomers using the MeerKAT radio telescope in South Africa have discovered the most distant hydroxyl megamaser ever detected, opening a new radio astronomy frontier. A hydroxyl megamaser is a natural space laser, and this one is located in a violently merging galaxy more than 8 billion light-years away.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0821
-      },
-      {
-        "id": "69b1239c71b8c9c6",
-        "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
-        "url": "https://www.nature.com/articles/d41586-026-01834-9",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1781395200000,
-        "summary": "Nature, Published online: 14 June 2026; doi:10.1038/d41586-026-01834-9Lung cancer risk was higher in people who took up electronic cigarettes than in those who quit smoking completely.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7769
       }
     ]
   },
