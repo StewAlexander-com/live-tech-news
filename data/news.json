@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-16T03:51:50.418740+00:00",
+  "generated_at": "2026-06-16T05:35:32.305202+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "858fcee710bc8be9",
+        "title": "Separable Neural Architectures as Physical World Models: from Mathematical Theory to Applications",
+        "url": "https://arxiv.org/abs/2606.14934",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14934v1 Announce Type: new Abstract: This work introduces the Separable Neural Architecture (SNA), a function representational class combining neural approximation with tensor decomposition. The SNA decouples localized coordinate functions (atoms) from global interactions governed by a sparse, low-rank interaction object. This architecture possesses a compact and smooth inductive bias w",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "3f429cbe84dff22c",
+        "title": "Rational Sparse Autoencoder",
+        "url": "https://arxiv.org/abs/2606.14990",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14990v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are standard tools for mechanistic interpretability, but current SAE families are constrained by fixed encoder nonlinearities such as ReLU, JumpReLU, and TopK. This hard-codes a particular sparsity mechanism into the model and can distort the reconstruction-versus-sparsity trade-off. We introduce the Rational Sparse Autoenc",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
       {
         "id": "5563bcf01af66e17",
         "title": "This Ultraslim Portable Power Station Keeps Your Fridge Running During Outages",
@@ -946,43 +978,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8495
-      },
-      {
-        "id": "f464b9970ada8bcc",
-        "title": "Fox acquires Roku to \"reshape\" streaming and some customers are ready to flee",
-        "url": "https://www.androidpolice.com/fox-corporation-to-acquire-roku/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1781537689000,
-        "summary": "The deal is valued at $22 billion",
-        "tags": [
-          "roku",
-          "fox",
-          "utilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9775
-      },
-      {
-        "id": "f49469d2718415cc",
-        "title": "Fox acquires Roku with aims to \"reshape\" streaming",
-        "url": "https://www.androidpolice.com/fox-corporation-to-acquire-roku/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1781537689000,
-        "summary": "The deal is valued at $22 billion",
-        "tags": [
-          "roku",
-          "fox",
-          "utilities"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9988
       }
     ],
     "innovation": [
+      {
+        "id": "d042d8d4455c97c6",
+        "title": "Sources: DeepSeek closed a $7.4B round at a $50B valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng (The Information)",
+        "url": "https://www.techmeme.com/260616/p4#a260616p4",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1781586900000,
+        "summary": "The Information: Sources: DeepSeek closed a $7.4B round at a $50B valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng — Chinese AI lab DeepSeek has closed its first funding round that raised more than 50 billion yuan ($7.4 billion) under an unusual deal structure …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0729
+      },
+      {
+        "id": "8735cd570e1904f9",
+        "title": "Learning About Ground Loop Isolators thanks to a Scam Product",
+        "url": "https://hackaday.com/2026/06/15/learning-about-ground-loop-isolators-thanks-to-a-scam-product/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781586035000,
+        "summary": "When [Denki Otaku] bought a ¥1,200 (roughly €6.5) XLR ground loop isolator off Japanese Amazon, he initially didn’t suspect that anything was off. Since they’re fairly simple devices, with basically …read more",
+        "tags": [
+          "teardown",
+          "fake hardware",
+          "ground loops",
+          "scam",
+          "xlr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.068
+      },
       {
         "id": "70899321299bc881",
         "title": "Filing: the US DOJ asks court to dismiss an NAACP suit over xAI's gas turbines, saying xAI is integral to US' military operations, including the Iran War (Molly Taft/Wired)",
@@ -1913,39 +1943,252 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8458
-      },
-      {
-        "id": "c9a1e227f551dc83",
-        "title": "The Y2K bug is back! Dutch dev digs up untimely flaw in old BSD build",
-        "url": "https://www.theregister.com/offbeat/2026/06/15/the-y2k-bug-is-back-dutch-dev-digs-up-untimely-flaw-in-old-bsd-build/5255645",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781541000000,
-        "summary": "26 years late and no threat unless you still run a PDP-11/70 and rely on short-wave timekeeping broadcasts",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0133
-      },
-      {
-        "id": "3ba7ba5a89a641a1",
-        "title": "The Y2K bug is back! Danish dev digs up untimely flaw in old BSD build",
-        "url": "https://www.theregister.com/offbeat/2026/06/15/the-y2k-bug-is-back-danish-dev-digs-up-untimely-flaw-in-old-bsd-build/5255645",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781541000000,
-        "summary": "26 years late and no threat unless you still run a PDP-11/70 and rely on short-wave timekeeping broadcasts",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0447
       }
     ],
     "ai": [
+      {
+        "id": "41ac0ba03fa0ae0f",
+        "title": "Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing (Financial Times)",
+        "url": "https://www.techmeme.com/260616/p3#a260616p3",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781586014000,
+        "summary": "Financial Times: Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing — Audited figures reveal mounting costs from model development, infrastructure and rapid expansion",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9887
+      },
+      {
+        "id": "1c9422cf06719bde",
+        "title": "Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues (Ashley Stewart/Business Insider)",
+        "url": "https://www.techmeme.com/260616/p2#a260616p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781584800000,
+        "summary": "Ashley Stewart / Business Insider: Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues — Microsoft is turning to its biggest cloud rival, Amazon, to help address capacity issues on its GitHub coding platform following a series of AI-driven outages …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0609
+      },
+      {
+        "id": "e31f862aa0bf7f78",
+        "title": "Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion",
+        "url": "https://www.reddit.com/r/technology/comments/1u72y4s/exclusive_openai_losses_increased_nearly_8x_in/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781582653000,
+        "summary": "submitted by /u/beepboopburn [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9226
+      },
+      {
+        "id": "8f0913311cf74ff0",
+        "title": "Memo: CTO Andrew Bosworth said Meta did \"an atrocious job\" sharing Applied AI's vision, promising employees better communication, career growth, and more perks (Wired)",
+        "url": "https://www.techmeme.com/260616/p1#a260616p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781582449000,
+        "summary": "Wired: Memo: CTO Andrew Bosworth said Meta did “an atrocious job” sharing Applied AI's vision, promising employees better communication, career growth, and more perks — In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0477
+      },
+      {
+        "id": "c806844a991b7680",
+        "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+        "url": "https://arxiv.org/abs/2606.14838",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14838v1 Announce Type: new Abstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context of AI outputs. Explainability is crucial for AI adoption in many contexts, but in order to produce good explanations of AI systems, we must first have an understanding of what good explanations are. In this paper we propose ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "002e0757d379f5fa",
+        "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+        "url": "https://arxiv.org/abs/2606.14885",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14885v1 Announce Type: new Abstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discovery. While effective at ranking relevant documents, these interfaces expose evidence only as ranked results or bounded document views, limiting agents' ability to reorganize material and verify constraints across documents. D",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "c8d11f7ef60da65f",
+        "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+        "url": "https://arxiv.org/abs/2606.14923",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14923v1 Announce Type: new Abstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fa",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "b096bdabf2a2ed04",
+        "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+        "url": "https://arxiv.org/abs/2606.14997",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14997v1 Announce Type: new Abstract: Memory formation is fundamental to intelligence, yet whether deep neural networks preserve identifiable memory traces analogous to biological memory units remains an open question. This work introduces a geometric framework to identify such \"AI engrams\" by formalizing the neuroscientific criteria of specificity, reactivation, sufficiency, and necessi",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "7b26d99fa2d42419",
+        "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
+        "url": "https://arxiv.org/abs/2606.15077",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15077v1 Announce Type: new Abstract: We present an LLM-driven framework for retrieving remote sensing data from cloud-based geospatial catalogues using natural language queries. The system converts user intent into structured API calls, enabling efficient access to satellite imagery and environmental datasets. The architecture integrates three agents: Guardrail for safety and policy enf",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "4994affac98351fe",
+        "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
+        "url": "https://arxiv.org/abs/2606.15078",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15078v1 Announce Type: new Abstract: We develop a formal theory of cognitive debt: the stock of unverified reasoning obligations that accumulates when individuals use AI as a substitute rather than a complement for first-principles cognition. The model features two state variables per agent, cognitive capital and cognitive debt, and a multiplicative production technology in which cognit",
+        "tags": [
+          "cs.ai",
+          "cs.gt",
+          "physics.soc-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "b269bb1004e2bbca",
+        "title": "GRASP: Gradient-Aligned Sequential Parameter Transfer for Memory-Efficient Multi-Source Learning",
+        "url": "https://arxiv.org/abs/2606.14900",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14900v1 Announce Type: new Abstract: Multi-source transfer learning faces a fundamental scalability bottleneck: existing approaches require either loading all K source models into memory simultaneously during parameter fusion, requiring O(K) memory, or deploying all models at inference time, making production deployment infeasible. We propose GRASP (Gradient-Aligned Sequential Parameter",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "f154d6b02a6633a9",
+        "title": "A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction",
+        "url": "https://arxiv.org/abs/2606.14956",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14956v1 Announce Type: new Abstract: Autonomous driving systems rely on precise trajectory prediction to plan safe and efficient movement. Graph Neural Networks (GNNs) have become a promising approach for modelling spatiotemporal interactions among road agents. However, designing GNN architectures for trajectory prediction remains non-standardized, with little guidance on which graph la",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "5636e4f817f9e4c5",
+        "title": "Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning",
+        "url": "https://arxiv.org/abs/2606.14960",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14960v1 Announce Type: new Abstract: This study investigates the application of machine learning models to predict exam outcomes using physiological data collected during examination sessions. Physiological stress indicators, including electrodermal activity, heart rate, and skin temperature, were analyzed to uncover their association with academic performance. A variety of machine lear",
+        "tags": [
+          "cs.lg",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "aabaa2d1df6ef5ff",
+        "title": "How Should World Models Be Evaluated? A Decision-Making-Centric Position",
+        "url": "https://arxiv.org/abs/2606.15032",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15032v1 Announce Type: new Abstract: World models have rapidly become one of the central abstractions in modern AI. Yet the term now refers to several different objects: action-conditioned environment models, latent imagination models, future-video predictors, interactive neural simulators, latent predictive representations, and synthetic-data engines. Evaluation has broadened with the ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "85683894bbfbe60f",
+        "title": "Machine Learning and the Random Walk Puzzle: Forecasting the CAD/USD Exchange Rate with Expanding Window Evaluation and SHAP Interpretability",
+        "url": "https://arxiv.org/abs/2606.15058",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15058v1 Announce Type: new Abstract: This study examines whether machine learning (ML) models can outperform the naive random walk benchmark in forecasting the monthly USD/CAD exchange rate. Using daily data from the Bank of Canada spanning January 2017 to May 2026, resampled into 113 monthly observations, five ML models are evaluated: linear regression, random forest, gradient boosting",
+        "tags": [
+          "cs.lg",
+          "stat.ap"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "16bcea2fe07bd00d",
+        "title": "Beyond Accuracy: Measuring Bias Acknowledgment in Chain-of-Thought Reasoning for Responsible AI Evaluation",
+        "url": "https://arxiv.org/abs/2606.15127",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15127v1 Announce Type: new Abstract: Reasoning models are increasingly used in settings where the final answer is not the only object of review: educational tools may show students intermediate steps, decision-support systems may require human oversight, and audit workflows may inspect traces for misleading or biased input. In such settings, two responses can receive the same final-answ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
       {
         "id": "1138701a0f20c9c8",
         "title": "FBI gives first peek inside 22,000-square-foot town it’s built for digital crime training — the ‘one of a kind’ facility has a gas station, houses, and a data center with 200 hackable servers",
@@ -2635,262 +2878,87 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9894
-      },
-      {
-        "id": "b5c253d3012fb013",
-        "title": "Samsung’s $2,100 Galaxy Book6 Edge ships with 16GB of RAM in 2026",
-        "url": "https://thenextweb.com/news/samsung-galaxy-book6-edge-snapdragon-x2-elite-16gb-ram-controversy",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781553560000,
-        "summary": "Samsung has launched the Galaxy Book6 Edge, the first laptop to ship with Qualcomm’s Snapdragon X2 Elite processor. The chip delivers 80 trillion operations per second from its neural processing unit, double the 45 TOPS that defined the first generation of Copilot+ PCs. It is also the thinnest Galaxy Book Samsung has ever made, at […] This story continues at The Next Web",
-        "tags": [
-          "microsoft",
-          "next featured",
-          "samsung"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9571
-      },
-      {
-        "id": "b64450f49c5d873a",
-        "title": "Anthropic reserves right to check ID for Claude subs",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/15/anthropic-reserves-right-to-check-id-for-claude-subs/5255804",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1781552382000,
-        "summary": "How can I help you today? Present your papers to begin",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0076
-      },
-      {
-        "id": "2249f9fd25d739e4",
-        "title": "Could data center growth halt by 2030? Report claims power demands may halt AI advances within the next few years",
-        "url": "https://www.techradar.com/pro/could-data-center-growth-halt-by-2030-report-claims-power-demands-may-halt-ai-advances-within-the-next-few-years",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781551200000,
-        "summary": "Gartner report indicates that the AI bottleneck might not be a silicon-based limit, but actual access to power by 2030.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9111
-      },
-      {
-        "id": "369dd5512fc40ad2",
-        "title": "YouTube’s AI slop purge is punishing the human creators who never showed their faces",
-        "url": "https://thenextweb.com/news/youtube-ai-slop-crackdown-faceless-creators-collateral-damage",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781551077000,
-        "summary": "YouTube has a growing AI slop problem, and its efforts to fix it are catching legitimate creators in the crossfire. In January 2026, the platform terminated 16 channels with a combined 35 million subscribers and 4.7 billion lifetime views under its inauthentic content policy, a quiet rename of the old “repetitious content” rules. The channels […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9641
-      },
-      {
-        "id": "88cf9a8db198c91c",
-        "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-        "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781550422000,
-        "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
-        "tags": [
-          "ai",
-          "nvidia",
-          "syndication"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0675
-      },
-      {
-        "id": "b01cfa8b747e7569",
-        "title": "All the news about Anthropic’s new AI fight with the White House",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781550293000,
-        "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "news",
-          "policy",
-          "politics",
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8449
-      },
-      {
-        "id": "6c2d5099b899d92b",
-        "title": "I've paid for Claude, Gemini, and ChatGPT for months — this is the one I recommend",
-        "url": "https://www.makeuseof.com/paid-for-claude-gemini-chatgpt-for-months-one-i-recommend/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1781550019000,
-        "summary": "Three subscriptions later, I keep opening the same one.",
-        "tags": [
-          "productivity",
-          "claude",
-          "artificial intelligence",
-          "chatgpt"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8383
-      },
-      {
-        "id": "76bbb56705deb5fb",
-        "title": "As AI plays a bigger role in relationships, true intimacy is getting lost",
-        "url": "https://phys.org/news/2026-06-ai-plays-bigger-role-relationships.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1781550005000,
-        "summary": "The CEO of dating app Hinge recently suggested that generation Z, \"struggling to have the confidence to put themselves out there,\" needs AI to help them find love. Apparently, without AI tools, younger people will struggle to express who they really are.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0864
-      },
-      {
-        "id": "c4d6278c586cdc4a",
-        "title": "The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA",
-        "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1781549902000,
-        "summary": "Ryan Whitham, writing for Ars Technica back in April: European regulators are proposing several broad changes to the way AI tools operate on Android phones. Some of this is straightforward, like allowing third-party AI tools to be invoked system-wide via hot words or button presses. This might also include allowing AI tools to view screen context when the user opens them. Context also extends to a",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1497
-      },
-      {
-        "id": "c87701cd9e098fe3",
-        "title": "Anthropic Accused of Misleading Users Over Soaring AI Costs in New Lawsuit",
-        "url": "https://www.reddit.com/r/technology/comments/1u6pmao/anthropic_accused_of_misleading_users_over/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781549514000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0092
-      },
-      {
-        "id": "9d3766bd1b3c41bb",
-        "title": "Why do South Koreans love AI so much?",
-        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1781549168000,
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,…",
-        "tags": [
-          "artificial intelligence",
-          "app",
-          "artificial intelligence",
-          "the algorithm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1134
-      },
-      {
-        "id": "02005c317d2dcd03",
-        "title": "Meta debuts new AI features, including an \"AI Mode\" that uses Meta AI to search for answers pulled from public posts across Facebook, including Groups and Reels (Lauren Forristal/TechCrunch)",
-        "url": "https://www.techmeme.com/260615/p38#a260615p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781549102000,
-        "summary": "Lauren Forristal / TechCrunch: Meta debuts new AI features, including an “AI Mode” that uses Meta AI to search for answers pulled from public posts across Facebook, including Groups and Reels — As Meta tries to catch up in the AI race and boost engagement with its AI bot, the company announced Monday …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9081
-      },
-      {
-        "id": "be4ec2fb65550585",
-        "title": "Meta launches new AI features, including an \"AI Mode\" for search that uses Meta AI to surface answers pulled from public posts across Facebook (Lauren Forristal/TechCrunch)",
-        "url": "https://www.techmeme.com/260615/p38#a260615p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781549102000,
-        "summary": "Lauren Forristal / TechCrunch: Meta launches new AI features, including an “AI Mode” for search that uses Meta AI to surface answers pulled from public posts across Facebook — As Meta tries to catch up in the AI race and boost engagement with its AI bot, the company announced Monday that it's rolling …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0384
-      },
-      {
-        "id": "7c79e3635e21c90d",
-        "title": "Meta launches new AI features, including an \"AI Mode\" for search that uses Meta AI to surface answers pulled from public posts across the platform (Lauren Forristal/TechCrunch)",
-        "url": "https://www.techmeme.com/260615/p38#a260615p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781549102000,
-        "summary": "Lauren Forristal / TechCrunch: Meta launches new AI features, including an “AI Mode” for search that uses Meta AI to surface answers pulled from public posts across the platform — As Meta tries to catch up in the AI race and boost engagement with its AI bot, the company announced Monday that it's rolling …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0771
-      },
-      {
-        "id": "37e8a06b181bd95c",
-        "title": "Anthropic hit with lawsuit over its Claude Max usage limits",
-        "url": "https://www.engadget.com/2194626/anthropic-hit-with-lawsuit-over-its-claude-max-usage-limits/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1781548878000,
-        "summary": "Anthropic is being sued over Claude Max usage limits",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7012
-      },
-      {
-        "id": "dd37296bfdca07aa",
-        "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781548258000,
-        "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-        "tags": [
-          "ai",
-          "apps",
-          "social",
-          "facebook",
-          "generative ai",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.802
       }
     ],
     "science": [
+      {
+        "id": "7b8590d62d6298ba",
+        "title": "A new approach to the EU's promised cross-border climate action",
+        "url": "https://phys.org/news/2026-06-approach-eu-border-climate-action.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781582402000,
+        "summary": "The EU must reduce its greenhouse gas emissions by 90% by 2040 relative to 1990—of which 5 percentage points can be achieved through climate action elsewhere, according to the 2025 law. A study by the Potsdam Institute for Climate Impact Research (PIK) now proposes a novel instrument for this external component: performance-based Jurisdictional Reward Funds. This avoids perverse incentives, streng",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9892
+      },
+      {
+        "id": "0bf2c73a5a704944",
+        "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
+        "url": "https://arxiv.org/abs/2606.15038",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15038v1 Announce Type: new Abstract: Accurate time-to-event (TTE) prediction from multimodal clinical data remains challenging due to modality imbalance and distribution shift. We introduce a foundation model-driven framework for cross-modal representation alignment between CT imaging and longitudinal EHR data, designed to generalize across tasks and institutions. CT and EHR modalities ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "18c959fc50fa0d25",
+        "title": "GRAPE: Guided Parameter-Space Evolution for Compact Adversarial Robustness",
+        "url": "https://arxiv.org/abs/2606.14865",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14865v1 Announce Type: new Abstract: Adversarial Training (AT) improves neural network robustness, but most methods train a fixed parameter space from the start. This paper asks whether the order in which parameters become optimizable can affect the final robust solution, even when the final architecture or computation budget is controlled. We propose GRAPE, Guided Parameter-Space Evolu",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "936ef31a5880215e",
+        "title": "Physics-conforming Latent Twins",
+        "url": "https://arxiv.org/abs/2606.15053",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.15053v1 Announce Type: new Abstract: Surrogate models are central to scientific machine learning, where they enable fast prediction, simulation, inference, and control for complex physical systems. For time-dependent problems, however, accurate interpolation of training trajectories is not sufficient: reliable surrogates should also respect the conservation laws, invariants, admissibili",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0998
+      },
+      {
+        "id": "2e745deaa57f246d",
+        "title": "Unlocking Latent Dimensions: Exploring Representations of Large-Scale X-ray Scattering Data using Variational Autoencoders",
+        "url": "https://arxiv.org/abs/2606.14999",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781582400000,
+        "summary": "arXiv:2606.14999v1 Announce Type: new Abstract: Scientific user facilities generate X-ray scattering data faster than traditional workflows can process them. We address this challenge across two settings, offline dataset exploration and live on-the-fly analysis. We train a domain-specific attention-based Convolutional Variational Autoencoder (C-VAE) on 1.5 million X-ray scattering images to learn ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0183
+      },
       {
         "id": "5258cb489b711636",
         "title": "Online courses drive deeper learning when autonomy, social engagement and strong tasks connect",
@@ -3736,82 +3804,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0182
-      },
-      {
-        "id": "fa9d942bd2269c0f",
-        "title": "Most precise measurement of the force that binds nuclear matter achieved",
-        "url": "https://phys.org/news/2026-06-precise-nuclear.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781540405000,
-        "summary": "Trinity's Prof. Stefan Sint, along with collaborators from Germany, Spain and Italy, has published the most precise determination to date of the strong coupling constant. This parameter governs the interactions between quarks and gluons, the fundamental components of nuclear matter. The new result halves the error of all previous experimental measurements combined, setting a new benchmark for the ",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0117
-      },
-      {
-        "id": "f08396471756dd04",
-        "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-        "url": "https://tinywind.io",
-        "source": "Hacker News",
-        "lane": "science",
-        "published_ts": 1781540153000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:73"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2609
-      },
-      {
-        "id": "aca3acc3822c17e2",
-        "title": "NASA management wants a word and won't say why",
-        "url": "https://www.theregister.com/science/2026/06/15/nasa-management-wants-a-word-and-wont-say-why/5255702",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1781540100000,
-        "summary": "A mystery calendar event is certainly one way to find out about being selected for the Artemis III crew",
-        "tags": [
-          "science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0397
-      },
-      {
-        "id": "471222f82286081f",
-        "title": "International study reveals differences in the health of porpoises in the North Sea",
-        "url": "https://phys.org/news/2026-06-international-reveals-differences-health-porpoises.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781539209000,
-        "summary": "Porpoises that strand in the Netherlands have, on average, a lower BMI than their counterparts in Scotland and elsewhere, according to an international study led by Utrecht University in collaboration with the Scottish Marine Animal Stranding Scheme (SMASS), based at the University of Glasgow. As part of the study, researchers analyzed the body mass index (BMI) of 1,700 porpoises that were strande",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0052
-      },
-      {
-        "id": "fb77104c983c9f2a",
-        "title": "Chemists reveal one-step 'alkyl swap' that rewrites key amines for drug discovery",
-        "url": "https://phys.org/news/2026-06-chemists-reveal-alkyl-swap-rewrites.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781538004000,
-        "summary": "For more than a century, chemists have been building complex molecules step by step—bond by bond, atom by atom. But what if, instead of painstakingly reassembling molecules, they could be directly \"rewritten\"? This is exactly what a research team led by organic chemist Nuno Maulide from the University of Vienna has now achieved.",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
       }
     ]
   },
