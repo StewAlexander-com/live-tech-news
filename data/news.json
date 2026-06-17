@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-06-17T03:50:26.919215+00:00",
+  "generated_at": "2026-06-17T04:00:48.076980+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "b33d649403bda7c3",
+        "title": "MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs",
+        "url": "https://arxiv.org/abs/2606.17118",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17118v1 Announce Type: new Abstract: Mixture-of-Experts Multimodal Large Language Models (MoE-MLLMs) offer remarkable performance but incur prohibitive GPU memory costs, making compression essential. Among PTQ methods, expert-level mixed-precision quantization has proven effective for MoE-LLMs, yet suffers notable degradation on MoE-MLLMs due to two overlooked biases in expert importanc",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
+      {
+        "id": "6305f28e4c7dcb43",
+        "title": "PowerOPD: Stabilizing On-Policy Distillation with Bounded Power Transformation",
+        "url": "https://arxiv.org/abs/2606.17199",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17199v1 Announce Type: new Abstract: Standard on-policy distillation (OPD) for large language models estimates the reverse-KL objective using student-sampled tokens, yielding an unbiased single-sample Monte Carlo estimator that avoids vocabulary-wide computation. However, we show that this estimator suffers from severe training pathologies in practice: sample inefficiency, unstable gene",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
+      {
+        "id": "3fc26120666f5064",
+        "title": "ReRAM-aware Model Finetuning addressing I-V Non-linearity and Retention Errors",
+        "url": "https://arxiv.org/abs/2606.17471",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17471v1 Announce Type: new Abstract: Traditional CPU, GPU, and NPU architectures are increasingly limited by the von Neumann bottleneck. While In-Memory Computing (IMC) using ReRAM crossbar arrays offers a high-density, energy-efficient alternative, its practical deployment is constrained through their non-idealities. Existing hardware-aware training frameworks often require training fr",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
       {
         "id": "53ce37d5c60a200f",
         "title": "HPE Tempts VMware Users, Partners With Year of Free Virtualization Software",
@@ -947,53 +996,58 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7832
-      },
-      {
-        "id": "f5e5ae3d00ceda7e",
-        "title": "Apple Seeds Second Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
-        "url": "https://www.macrumors.com/2026/06/16/apple-ios-26-6-public-beta-2/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1781630300000,
-        "summary": "Apple today provided public beta testers with the second betas of iOS 26.6, iPadOS 26.6, macOS Tahoe 26.6, watchOS 26.6, and tvOS 26.6, with the software coming a day after Apple seeded the betas to developers and three weeks after the first public betas. After signing up to beta test the software updates on Apple's beta site, public beta testers can download the new software using the Software Up",
-        "tags": [
-          "ios 26",
-          "macos tahoe"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0676
-      },
-      {
-        "id": "67e149646bc2651a",
-        "title": "Nintendo Switch update makes the eShop much more responsive",
-        "url": "https://www.engadget.com/2195530/nintendo-switch-update-makes-the-eshop-much-more-responsive/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1781629835000,
-        "summary": "The Nintendo eShop got a big makeover.",
-        "tags": [
-          "nintendo"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6942
-      },
-      {
-        "id": "3380956ffae44159",
-        "title": "A look at Specs, which have a battery life of up to four hours and a case with four charges, and an interview with Snap CEO Evan Spiegel about the AR glasses (Harry McCracken/Fast Company)",
-        "url": "https://www.techmeme.com/260616/p33#a260616p33",
-        "source": "Techmeme",
-        "lane": "gadgets",
-        "published_ts": 1781629829000,
-        "summary": "Harry McCracken / Fast Company: A look at Specs, which have a battery life of up to four hours and a case with four charges, and an interview with Snap CEO Evan Spiegel about the AR glasses — Snap's cofounder and CEO, Evan Spiegel, gave this morning's keynote at AWE, the augmented reality industry's big annual conference.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9035
       }
     ],
     "innovation": [
+      {
+        "id": "b802c0af5de201e2",
+        "title": "Credibility-Weighted Pricing of Autonomous Vehicle Liability Under Operational Design Domain Shift",
+        "url": "https://arxiv.org/abs/2606.17451",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17451v1 Announce Type: new Abstract: Automated Driving System deployments create a foundational ratemaking challenge: sparse experience, shifting operational design domains, and non-stationary risk across software releases. We propose a hierarchical Bayesian credibility framework pooling across cities, software versions, and territories via a learned ODD-similarity kernel, nesting Buhlm",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "6b67d3929f463a7f",
+        "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+        "url": "https://arxiv.org/abs/2606.17269",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17269v1 Announce Type: new Abstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: production requires certified workers, certifications decay unless maintained, and training consumes the same scarce worker hours that production needs now. We study a closed-loop skill-constrained model predict",
+        "tags": [
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
+      {
+        "id": "4bc9f78b65babe20",
+        "title": "Learn to Quantify Social Interaction with Constraints for Pedestrian Walking",
+        "url": "https://arxiv.org/abs/2606.17897",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17897v1 Announce Type: new Abstract: Long-term human path forecasting in crowds is critical for autonomous moving platforms (like autonomous driving cars and social robots) to avoid collision and make high-quality planning. Although the current research take into account social interactions for prediction, they don't reveal the exact kinds of social interactions happened among people an",
+        "tags": [
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
       {
         "id": "b2555b06855c51d3",
         "title": "Cyberattack sees crops kept in the ground",
@@ -1897,60 +1951,203 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0425
-      },
-      {
-        "id": "2feb7570b62c5ec2",
-        "title": "Nimble's Sharepower Portable Battery Doubled My Charging Pleasure",
-        "url": "https://www.cnet.com/tech/mobile/nimbles-sharepower-portable-battery-splits-in-two-to-double-your-charging-pleasure/",
-        "source": "CNET",
-        "lane": "innovation",
-        "published_ts": 1781624580000,
-        "summary": "I tried Nimble's innovative (if a little pricey) 10,000-mAh power bank that splits in two, so you can share with someone else in need of a charge.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.849
-      },
-      {
-        "id": "5f6fd626678131d9",
-        "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-        "url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1781624139000,
-        "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner.",
-        "tags": [
-          "fintech",
-          "fundraising",
-          "startups",
-          "africa",
-          "fundraise",
-          "payments"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7396
-      },
-      {
-        "id": "0e212675edb55e7a",
-        "title": "Netflix's best sci-fi show is ending, and nobody seems ready for it",
-        "url": "https://www.makeuseof.com/netflixs-best-sci-fi-show-ending-3-body-problem/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781623819000,
-        "summary": "After lying dormant for years, 3 Body Problem is ready to go out with a bang.",
-        "tags": [
-          "streaming",
-          "3 body problem",
-          "sci-fi",
-          "netflix"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.839
       }
     ],
     "ai": [
+      {
+        "id": "b797bbf36824745c",
+        "title": "Nothing from Something: Can a Language Model Discover 0?",
+        "url": "https://arxiv.org/abs/2606.17289",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely n",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "cd8d9b4d4b3efa03",
+        "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
+        "url": "https://arxiv.org/abs/2606.17339",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17339v1 Announce Type: new Abstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clinical speech AI methods have largely progressed through isolated condition-specific studies, making results difficult to compare and generalization difficult to assess. We introduce SpeechDx, a large-scale",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.sd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "b8607f9b5f9a5c26",
+        "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
+        "url": "https://arxiv.org/abs/2606.17405",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17405v1 Announce Type: new Abstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We present an online adaptive framework that integrates Treatment Effect (TE) estimation to quantify clinical benefits, a patient Digital Twin (DT) to simulate treatment trajectories, and Reinforcement Lear",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "e9bd92334ee6e0db",
+        "title": "Dissecting model behavior through agent trajectories",
+        "url": "https://arxiv.org/abs/2606.17454",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17454v1 Announce Type: new Abstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assumptions and harness behavior can easily prevent the model's full capabilities from translating into agent performance. We formalize this as the `intent",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "b779a29fff289563",
+        "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
+        "url": "https://arxiv.org/abs/2606.17507",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17507v1 Announce Type: new Abstract: Generative AI and large language models (LLMs) are increasingly applied to question generation and automated assessment. However, deploying LLMs in preparation for high-stakes exams requires more than prompt engineering; it demands software pipelines that systematically ground model outputs in authorised curriculum artefacts and marking guidelines is",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "9aa217e86556b542",
+        "title": "DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack",
+        "url": "https://arxiv.org/abs/2606.17574",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17574v1 Announce Type: new Abstract: Evaluating a Physical AI stack spans operators that differ by more than three orders of magnitude -- from a single foundation-model decoding step to thousands of physics ticks of whole-body control -- varying orthogonally in modality, reward semantics, and resource profile. No existing framework spans this range, so the stack is evaluated today by st",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "18b1b8f2a801e7b0",
+        "title": "Noise-Driven Escape from Metastable Phases explains Grokking in Deep Neural Networks",
+        "url": "https://arxiv.org/abs/2606.17120",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17120v1 Announce Type: new Abstract: Deep neural networks (DNNs) exhibit first order phase transitions under variations of the L2 regularization strength, with each transition marking the onset of a new learnable feature. Below a critical regularization strength, all features are in principle learnable, but coexisting metastable states, separated by energy barriers, can trap the network",
+        "tags": [
+          "cs.lg",
+          "physics.chem-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "a461af830cf58ac1",
+        "title": "Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations",
+        "url": "https://arxiv.org/abs/2606.17180",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17180v1 Announce Type: new Abstract: This chapter discusses how a data-driven machine learning approach can reproduce key aspects of the physical behavior of multiphase flows in complex geological formations. We propose an end-to-end graph neural surrogate tailored to CO$_2$ plume migration forecasting in geological storage. The method is evaluated on the SPE11A benchmark, a well-known ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "eb8f0851b7603774",
+        "title": "Finsler Geometry, Graph Neural Networks, and You",
+        "url": "https://arxiv.org/abs/2606.17185",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17185v1 Announce Type: new Abstract: Graph neural network architectures based on the graph Laplacian approximate the Laplace-Beltrami operator, thus limiting their application to isotropic operators. As a nonlinear alternative to the Laplace-Beltrami operator, we consider estimates of the Finsler Laplacian on point clouds sampled from a manifold. We prove that these discrete estimates c",
+        "tags": [
+          "cs.lg",
+          "eess.sp",
+          "math.dg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "4b1a6e3c4b7cfb67",
+        "title": "Toward Controllable Catalyst Inverse Design via Large-Scale Autoregressive Pretraining",
+        "url": "https://arxiv.org/abs/2606.17445",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17445v1 Announce Type: new Abstract: Inverse design of heterogeneous catalysts remains challenging because catalyst surfaces exhibit substantial structural complexity with coupled surface-adsorbate interactions across a vast chemical space that is difficult to explore efficiently through conventional screening alone. Although machine learning-based high-throughput screening has accelera",
+        "tags": [
+          "cs.lg",
+          "cond-mat.mtrl-sci",
+          "physics.chem-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "afc27880db6d8a00",
+        "title": "Operator Boosting Produces Pareto-Efficient PDE Surrogates",
+        "url": "https://arxiv.org/abs/2606.17460",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17460v1 Announce Type: new Abstract: Neural operators are widely used as surrogate solution maps for partial differential equations (PDEs), but full-size models can be costly to store, deploy, and evaluate in many-query scientific workflows. This work introduces Operator Boosting, a stagewise residual-learning framework for constructing compact neural-operator surrogates directly, rathe",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "87de91df95f071c9",
+        "title": "CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models",
+        "url": "https://arxiv.org/abs/2606.17464",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17464v1 Announce Type: new Abstract: Membership inference attacks (MIAs) are a canonical way to assess a machine learning model's privacy properties. Although several attempts have been made to evaluate MIAs on language models, the extant literature has suffered numerous difficulties in constructing clean evaluations to test new techniques. In particular, subtle distribution shifts betw",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
       {
         "id": "a6fa098188ddd634",
         "title": "Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users' ages (Politico)",
@@ -2687,197 +2884,122 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1259
-      },
-      {
-        "id": "be867c45490e6af1",
-        "title": "Is Claude Down? Here's the Latest",
-        "url": "https://www.cnet.com/news-live/claude-outage-anthropic-status-june-16-2026/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1781634000000,
-        "summary": "Anthropic's Claude AI service appeared to stop working on Tuesday. Here's what we know so far.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8725
-      },
-      {
-        "id": "aec9f96e95ab2b82",
-        "title": "Google launches Android 17 and Wear OS 7, available first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS (Sarah Perez/TechCrunch)",
-        "url": "https://www.techmeme.com/260616/p36#a260616p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781633702000,
-        "summary": "Sarah Perez / TechCrunch: Google launches Android 17 and Wear OS 7, available first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS — Google on Tuesday released the final version of its Android 17 operating system, as well as its counterpart for smartwatches, Wear OS 7.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9224
-      },
-      {
-        "id": "86875dad765e8376",
-        "title": "Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS (Sarah Perez/TechCrunch)",
-        "url": "https://www.techmeme.com/260616/p36#a260616p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781633702000,
-        "summary": "Sarah Perez / TechCrunch: Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS — Google on Tuesday released the final version of its Android 17 operating system, as well as its counterpart for smartwatches, Wear OS 7.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0775
-      },
-      {
-        "id": "3f7fe9c14f7974e1",
-        "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-        "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781633465000,
-        "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
-        "tags": [
-          "ai",
-          "congress",
-          "department of defense",
-          "gemini",
-          "genai",
-          "generative ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0761
-      },
-      {
-        "id": "41fbcda16b77c5ff",
-        "title": "Android 17 starts hitting Pixel phones and watches today",
-        "url": "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781632808000,
-        "summary": "Pixels will get their OTA in the coming weeks, but don't expect monumental changes.",
-        "tags": [
-          "google",
-          "tech",
-          "android",
-          "android 17",
-          "google",
-          "smartphones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9929
-      },
-      {
-        "id": "61b6c3794d19614b",
-        "title": "Wear OS 7 is Out In the Wild and It's Bringing Watches and Glasses Closer Together",
-        "url": "https://www.cnet.com/tech/mobile/wheres-wear-os-7/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1781632800000,
-        "summary": "The update brings a welcome battery bump and points to a future where both act as gateways into Google's broader AI ecosystem.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8669
-      },
-      {
-        "id": "6e5fa189d2159446",
-        "title": "SpaceX To Acquire AI Coding Startup Cursor For $60 Billion",
-        "url": "https://science.slashdot.org/story/26/06/16/174209/spacex-to-acquire-ai-coding-startup-cursor-for-60-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1781632800000,
-        "summary": "SpaceX has agreed to acquire Cursor for $60 billion in stock, adding the popular AI coding assistant to Elon Musk's newly public aerospace-and-AI conglomerate. CNBC reports: Cursor built a popular AI coding tool that helps software developers generate, edit and review code, and the company has experienced explosive growth since its founding in 2022. In November, Cursor said it crossed $1 billion i",
-        "tags": [
-          "business",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.131
-      },
-      {
-        "id": "5c5b62ddfb6be2ce",
-        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-        "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781632800000,
-        "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-        "tags": [
-          "ai",
-          "apps",
-          "pixel drop",
-          "android 17"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8057
-      },
-      {
-        "id": "652ddafbb1d1d357",
-        "title": "Wear OS 7 arrives to Pixel watches with Gemini AI and live updates",
-        "url": "https://www.engadget.com/2195052/wear-os-7-comes-to-pixel-watches/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1781632800000,
-        "summary": "Wear OS 7 is now live for Pixel watches, with a new interface, notifications and Gemini features.",
-        "tags": [
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7583
-      },
-      {
-        "id": "3db2f8b725d867c3",
-        "title": "Snap Launches $2,195 'Specs' Augmented Reality Glasses",
-        "url": "https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1781632704000,
-        "summary": "Snap today unveiled Specs, a pair of augmented reality glasses that it describes as a wearable computer built into a pair of see-through glasses. Specs are made from Swiss TR90 polymer that Snap suggests is \"plastic titanium\" because of its light weight and durability. The glasses are light enough to be \"worn for hours\" and two sizes are available. The 47mm frame weighs 132 grams (4.7 ounces), whi",
-        "tags": [
-          "snap",
-          "snapchat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9969
-      },
-      {
-        "id": "39246bbfcea9e309",
-        "title": "GPT‑NL: a sovereign language model for the Netherlands",
-        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781632442000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:38"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0847
-      },
-      {
-        "id": "4ca5377d5b0cfe59",
-        "title": "AI decodes plant DNA 'switches' to better predict gene control",
-        "url": "https://phys.org/news/2026-06-ai-decodes-dna-gene.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1781631604000,
-        "summary": "An international research team led by Forschungszentrum Jülich and the IPK Leibniz Institute has developed an artificial intelligence model that predicts where regulatory proteins dock onto plant DNA to switch genes on and off. Trained entirely on the rich genomic data available for the model plant Arabidopsis thaliana, the model transfers successfully to crops such as maize—opening new ways to un",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0965
       }
     ],
     "science": [
+      {
+        "id": "4bc2b6849eec75ba",
+        "title": "Frozen Greenland middens preserve 4,500 years of farms, seal hunts and toilets",
+        "url": "https://phys.org/news/2026-06-frozen-greenland-middens-years-farms.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781668801000,
+        "summary": "Greenland has a long and checkered history of human settlement: several Paleo-Inuit cultures since approximately 2,500 BCE, descendants of Vikings between the 10th and 15th centuries, and early modern Danes since 1721. All left their traces on the landscape, for example in the form of ancient domestic rubbish heaps. Composed of waste like animal bones, excrement, mollusk shells and human artifacts",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
+      {
+        "id": "7d12f65326edfd3e",
+        "title": "Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis",
+        "url": "https://arxiv.org/abs/2606.17115",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17115v1 Announce Type: new Abstract: Foundation models (FMs) have emerged as powerful representation extractors for medical data, yet their generalizability to datasets under distribution shift remains underexplored. This work systematically evaluates FM-based representations on a suite of computational pathology tasks across two real-world commercial cohorts, IH-BC and IH-NSCLC, drawn ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "5d1ec3c198b5b55e",
+        "title": "MM++: Unsupervised Scale-Invariant Multilayer OOD Detection via Top-K Gated Feature Fusion",
+        "url": "https://arxiv.org/abs/2606.17352",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17352v1 Announce Type: new Abstract: We introduce MM++ (Multilayer Mahalanobis++), a fully unsupervised, strictly post-hoc, and scale-invariant framework for Out-of-Distribution (OOD) detection. To address the trade-off between scale invariance and hierarchical expressivity, MM++ constructs a principled joint feature space. It first identifies discriminative intermediate layers by measu",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "7864274ffbf7821c",
+        "title": "Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces",
+        "url": "https://arxiv.org/abs/2606.17419",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17419v1 Announce Type: new Abstract: We develop approximation and generalization error estimates for multi-input neural operators, with the output error measured in Sobolev norms. In contrast to standard operator-learning settings with a single input function, our framework allows multiple input functions defined on possibly different domains, with different dimensions and Sobolev regul",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "fa4c59c137f118b6",
+        "title": "Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning",
+        "url": "https://arxiv.org/abs/2606.17513",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17513v1 Announce Type: new Abstract: Neural operators provide fast surrogates for PDEs but their deterministic predictions limit their use in tasks requiring uncertainty quantification (UQ), especially under geometric variability. Existing approaches primarily model uncertainty in network parameters, largely overlooking the geometry-aware representations learned by the operator itself. ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1337
+      },
+      {
+        "id": "f2a888ef11e0e21b",
+        "title": "Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
+        "url": "https://arxiv.org/abs/2606.17093",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17093v1 Announce Type: new Abstract: Learning-based single-shot fringe projection profilometry (FPP) has been studied mostly at close range. The long-range regime (standoff beyond 1 m) remains largely unaddressed: inverse-square intensity falloff lowers fringe signal-to-noise ratio and degrades physical ground truth, the single-shot problem is ill-posed because fringe-order information ",
+        "tags": [
+          "cs.lg",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
+      {
+        "id": "40c113f10c09ef2c",
+        "title": "Uncertainty Quantification of Engineering Structures by Polynomial Chaos Expansion and Multivariate Active Learning",
+        "url": "https://arxiv.org/abs/2606.17233",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17233v1 Announce Type: new Abstract: In many engineering applications, a single high-fidelity model produces multiple quantities of interest (QoIs) under the same input parameters, e.g. finite element models of complex physical systems. To alleviate the high computational cost of direct model evaluations, surrogate models are widely used to construct efficient approximations of model re",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0497
+      },
       {
         "id": "bb363968856381c9",
         "title": "Heading for the Atlantic Ocean to study the impact of climate change on ocean circulation",
@@ -3682,111 +3804,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0195
-      },
-      {
-        "id": "94a1747829b1e352",
-        "title": "Super El Niños may lose their punch in a warming world",
-        "url": "https://phys.org/news/2026-06-super-el-nios-world.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781620808000,
-        "summary": "In a strong El Niño winter, normally dry regions can suddenly drown in rain. NASA notes that \"typically dry regions can experience nearly two times as much rain during a strong El Niño.\" Indeed, the blockbuster El Niños of 1982–83 and 1997–98 unleashed record-breaking California storms and unusually mild Northeast winters. These far-reaching effects—atmospheric \"teleconnections\" linking the tropic",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.017
-      },
-      {
-        "id": "b3cb1517a5d89092",
-        "title": "What we misunderstand about absent fathers",
-        "url": "https://phys.org/news/2026-06-absent-fathers.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781620801000,
-        "summary": "\"What do dads do on Tuesdays?\" This wasn't a rhetorical question when I posed it to my wife as our daughter's birth approached. Before my daughter was born, I had seen my father just once in the past 27 years. That's more than 1,400 Tuesdays. In fact, as a kid I hardly saw fathering any day of the week, save for on TV sitcoms; absent dads were prevalent within my family and among my peers.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.017
-      },
-      {
-        "id": "e7ed32365e751b9e",
-        "title": "5.5 magnitude earthquake rattles Tokyo region but no danger of a tsunami, meteorological agency says",
-        "url": "https://phys.org/news/2026-06-magnitude-earthquake-rattles-tokyo-region.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781620389000,
-        "summary": "An earthquake with a preliminary magnitude of 5.5 shook eastern Japan, including Tokyo, on Tuesday, but there was no danger of a tsunami, the meteorological agency said.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0148
-      },
-      {
-        "id": "a54525c30f6b5aac",
-        "title": "Walking shark discovery reveals new species in tiny Papua New Guinea range",
-        "url": "https://phys.org/news/2026-06-shark-discovery-reveals-species-tiny.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781619603000,
-        "summary": "A night dive to study wild sharks that can walk on land has surfaced with something even rarer—a species unknown to science. \"New shark species don't come along that often, and it's most definitely the first one named after me,\" said a surprised Dr. Christine Dudgeon of the University of the Sunshine Coast about the meter-long specimen she caught by hand and carefully guided back to the study boat",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0157
-      },
-      {
-        "id": "70785de0b3246c04",
-        "title": "4 steps you can take to avoid 'perceived scarcity' and prevent food waste",
-        "url": "https://phys.org/news/2026-06-scarcity-food.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781619601000,
-        "summary": "The grocery store is a busy place, full of signs and signals that we may or may not always notice. Picture yourself in your usual store: Do your eyes get drawn to a \"limited quantities\" sign or a \"buy now before it's gone\" promotion?",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0157
-      },
-      {
-        "id": "38c92b8c4ffceb00",
-        "title": "Revealing how and when a black hole's mighty winds can squash star formation",
-        "url": "https://phys.org/news/2026-06-revealing-black-hole-mighty-star.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781618406000,
-        "summary": "Thanks to the X-Ray Imaging and Spectroscopy Mission, or XRISM, University of Michigan researchers are helping chip away at one of astronomy's cosmic mysteries: The universe's most massive galaxies appear to be missing stars.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.09
-      },
-      {
-        "id": "35ae6d61cbc035b9",
-        "title": "The world agreed to protect 30% of the ocean by 2030—but marine protection can't be judged by area alone",
-        "url": "https://phys.org/news/2026-06-world-ocean-marine-area.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781618402000,
-        "summary": "The ocean is home to some of the richest biodiversity on Earth. From coral reefs and mangrove forests to the deep sea, marine ecosystems sustain countless species, support coastal communities, regulate the climate and underpin global food security.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0092
       }
     ]
   },
