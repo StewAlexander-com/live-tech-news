@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-06-17T18:05:31.579329+00:00",
+  "generated_at": "2026-06-17T18:33:59.399922+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "95028741a3fed450",
+        "title": "I scanned my home network and found three devices I didn't recognize — one was a security nightmare",
+        "url": "https://www.makeuseof.com/scanned-network-found-devices-didnt-recognize-one-security-nightmare/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1781721012000,
+        "summary": "Your router's device list is lying to you — I scanned my home network and found 3 devices I didn't know were connected.",
+        "tags": [
+          "networking",
+          "wi-fi",
+          "router",
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.849
+      },
+      {
+        "id": "e11de8c74b211c68",
+        "title": "What Happens After Your Smart Fridge Stops Getting Software Updates?",
+        "url": "https://www.engadget.com/2196515/smart-fridge-updates-support-ends/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1781721000000,
+        "summary": "Here's what to expect when the manufacturer stops supporting your smart fridge.",
+        "tags": [
+          "ai",
+          "cybersecurity"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7593
+      },
+      {
+        "id": "71108613d2b9814a",
+        "title": "Matter 1.6 Announced With NFC Setup, Cross-Ecosystem Device Sharing, and Smarter Thermostats",
+        "url": "https://www.macrumors.com/2026/06/17/matter-1-6-specification/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1781720980000,
+        "summary": "The Connectivity Standards Alliance that includes Apple today announced the latest version of Matter, Matter 1.6. The update focuses on improved device setup, better coordinated device management, and response to control inputs. Matter 1.6 includes NFC-Based Commissioning for setting up light bulbs in ceiling fixtures, in-wall switches, and other products that need to be configured prior to instal",
+        "tags": [
+          "matter",
+          "thread"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9986
+      },
       {
         "id": "acf05fd5c3c787a2",
         "title": "Every time I crawl back to Windows, EndeavourOS pulls me home to Linux",
@@ -923,63 +973,67 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8458
-      },
-      {
-        "id": "d56db43e54b23c37",
-        "title": "Thread Direct looks to solve Matter’s biggest setup headache",
-        "url": "https://www.theverge.com/tech/950732/thread-direct-thread-2-0-smart-home-apple-google",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1781701200000,
-        "summary": "The smart home networking protocol Thread is adding a new way to onboard devices without a Thread border router. The feature, called Thread Direct, is designed to let users set up Thread-powered devices - such as smart plugs and smart locks - using only a phone or mobile device equipped with a Thread radio. Current […]",
-        "tags": [
-          "matter",
-          "news",
-          "smart home",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7831
-      },
-      {
-        "id": "c56457d46ceff590",
-        "title": "GuliKit’s new mobile Switch 2 dock lets you play with or without a TV",
-        "url": "https://www.theverge.com/tech/950827/gulikit-tv-docking-station-switch-2-oled-console-hdmi",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1781701200000,
-        "summary": "After teasing it on X last week, GuliKit announced a new version of its TV Docking Station today that now supports the Switch 2 as well as previous versions of the console, including the original Switch and OLED model. The new version of the dock carries forward a similar design as the original and looks […]",
-        "tags": [
-          "gadgets",
-          "gaming",
-          "news",
-          "nintendo",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7831
-      },
-      {
-        "id": "6ec326e7b1699b29",
-        "title": "LinkedIn will tell others how you really use Adobe’s apps",
-        "url": "https://www.theverge.com/tech/951291/linkedin-connected-apps-ai-summary-verification",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1781701200000,
-        "summary": "LinkedIn is trying to make it easier for users to prove their proficiency with apps that are relevant to their current or future jobs. A new \"connected apps\" feature is launching today that allows users to link a selection of supported apps to their LinkedIn profile, with each app providing a \"simple, specific description of […]",
-        "tags": [
-          "linkedin",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7831
       }
     ],
     "innovation": [
+      {
+        "id": "1f03740adf20db7b",
+        "title": "FLOSS Weekly Episode 871: Rust Won’t Save You",
+        "url": "https://hackaday.com/2026/06/17/floss-weekly-episode-871-rust-wont-save-you/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781721023000,
+        "summary": "This week Jonathan chats with Florian Gilcher about Rust and Ferrous Systems! How have we gotten here, what’s coming next, and what’s new in the Rust world? Watch to find …read more",
+        "tags": [
+          "hackaday columns",
+          "podcasts",
+          "floss weekly",
+          "rust"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0788
+      },
+      {
+        "id": "8c2e7a7eff62b4ea",
+        "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
+        "url": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1781720406000,
+        "summary": "An alleged Russian-speaking group of cybercriminals are reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
+        "tags": [
+          "security",
+          "cybercrime",
+          "cybersecurity",
+          "data breach",
+          "fortinet",
+          "hackers"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7447
+      },
+      {
+        "id": "9b01f43223361f77",
+        "title": "Social media’s next evolution: User-controlled algorithms",
+        "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1781720388000,
+        "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+        "tags": [
+          "ai",
+          "apps",
+          "social",
+          "instagram",
+          "meta",
+          "social media"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7446
+      },
       {
         "id": "6319a2829aeaa9bb",
         "title": "Mastodon looks to newsletters to help revive the open social web",
@@ -1035,6 +1089,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8474
+      },
+      {
+        "id": "dc488a56147ab1a7",
+        "title": "Massive password-stealing attack hits 75k Fortinet firewalls",
+        "url": "https://www.theregister.com/cyber-crime/2026/06/17/massive-password-stealing-attack-hits-75k-fortinet-firewalls/5257877",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1781717260000,
+        "summary": "Why are you even reading this?! Rotate your passwords!!",
+        "tags": [
+          "cyber-crime"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0279
       },
       {
         "id": "36684307f9e490c0",
@@ -1137,6 +1206,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9326
+      },
+      {
+        "id": "a75aeb21cca7e6e9",
+        "title": "License Plate Cameras Will Soon Track Phones, Wearables, Infotainment, and Even Your Pets",
+        "url": "https://www.reddit.com/r/technology/comments/1u8fddc/license_plate_cameras_will_soon_track_phones/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781714413000,
+        "summary": "submitted by /u/TripleShotPls [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9159
       },
       {
         "id": "0226d6d9c47a508e",
@@ -1865,97 +1949,124 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0444
-      },
-      {
-        "id": "8c8bcf3aea7f81eb",
-        "title": "Native NACS ports, infotainment upgrade for MY27 Porsche Taycan",
-        "url": "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
-        "source": "Ars Technica AI",
-        "lane": "innovation",
-        "published_ts": 1781697645000,
-        "summary": "The bigger battery is standard and there are now simulated \"E-Shifts.\"",
-        "tags": [
-          "cars",
-          "nacs",
-          "porsche taycan"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0665
-      },
-      {
-        "id": "6c6e6706563dea15",
-        "title": "5 Windows 11 security settings I change on every new installation",
-        "url": "https://www.makeuseof.com/windows-11-security-settings-i-change-on-every-new-installation/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781697619000,
-        "summary": "These security settings only take a second to change.",
-        "tags": [
-          "windows",
-          "security tips",
-          "computer security"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8453
-      },
-      {
-        "id": "b3f4a8da41eb0535",
-        "title": "'Transformative for renters or those on lower incomes': The plug-in balcony solar revolution just took a step closer in the UK — as Asda, Amazon and B&Q have government talks over tech that could cut your bills by 30%",
-        "url": "https://www.techradar.com/home/transformative-for-renters-or-those-on-lower-incomes-the-plug-in-balcony-solar-revolution-just-took-a-step-closer-in-the-uk-as-asda-amazon-and-b-and-q-have-government-talks-over-tech-that-could-cut-your-bills-by-30-percent",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1781696734000,
-        "summary": "Adding some solar energy to your household mix is about to get much easier if you're in the UK.",
-        "tags": [
-          "home"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8413
-      },
-      {
-        "id": "919d7db359454529",
-        "title": "Uber’s robotaxi service is heading to Houston to take another swing at Waymo",
-        "url": "https://thenextweb.com/news/uber-lucid-nuro-robotaxi-houston-2027",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781696657000,
-        "summary": "Uber is taking its robotaxi service to Houston. The company said on 17 June that it will launch a premium driverless service in the city by mid-2027, the second US market for its partnership with EV maker Lucid and self-driving startup Nuro. It is also the clearest sign yet of how Uber intends to fight […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "united states",
-          "electric vehicle",
-          "self-driving",
-          "cars",
-          "ride-share"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.938
-      },
-      {
-        "id": "7f256e3345dc1ac7",
-        "title": "Cayuga Nation sues Caesars over reservation sports betting revenue claims",
-        "url": "https://readwrite.com/cayuga-nation-sues-caesars-reservation-sports-betting-revenue-claims/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1781695921000,
-        "summary": "The Cayuga Nation has filed a federal lawsuit against Caesars Sportsbook, alleging the company accepted sports wagers from within the… Continue reading Cayuga Nation sues Caesars over reservation sports betting revenue claims The post Cayuga Nation sues Caesars over reservation sports betting revenue claims appeared first on ReadWrite.",
-        "tags": [
-          "betting",
-          "caesars entertainment",
-          "new york",
-          "sports betting",
-          "tribes"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8869
       }
     ],
     "ai": [
+      {
+        "id": "0b55f7b0aa2ab2a4",
+        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781721056000,
+        "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+        "tags": [
+          "ai",
+          "climate",
+          "anthropic",
+          "carbon removal",
+          "frontier"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.807
+      },
+      {
+        "id": "d25fc06d6c32d082",
+        "title": "Anthropic got hit by export rules nobody understands",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1781720930000,
+        "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \"To my […]",
+        "tags": [
+          "ai",
+          "anthropic",
+          "policy"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8539
+      },
+      {
+        "id": "b1b6b6b35acd4eff",
+        "title": "The Slate Truck's price may have leaked, starts at $24,950",
+        "url": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1781720601000,
+        "summary": "The official launch takes place next week.",
+        "tags": [
+          "cars",
+          "slate auto"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0763
+      },
+      {
+        "id": "9a1204ce343d8896",
+        "title": "Meet Kali365 — the 'Amazon of cybercrime' where hackers use AI to completely circumvent multi-factor authentication",
+        "url": "https://www.techradar.com/pro/meet-kali365-the-amazon-of-cybercrime-where-hackers-use-ai-to-completely-circumvent-multi-factor-authentication",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1781720400000,
+        "summary": "Kali365 abuses the current OAuth device code flow on Microsoft accounts in a sophisticated attempt to dupe users into signing into their accounts",
+        "tags": [
+          "security",
+          "cyber security",
+          "cyber crime",
+          "pro",
+          "computing",
+          "computing security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9139
+      },
+      {
+        "id": "6e31b83f344d4d03",
+        "title": "Sources: Amodei, Altman, and Hassabis called for US-led collaboration on AI rules at the G7 summit; Macron and Modi raised concerns over the US block on Mythos (Financial Times)",
+        "url": "https://www.techmeme.com/260617/p40#a260617p40",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781720100000,
+        "summary": "Financial Times: Sources: Amodei, Altman, and Hassabis called for US-led collaboration on AI rules at the G7 summit; Macron and Modi raised concerns over the US block on Mythos — Dario Amodei is supported by rival Sam Altman in call for international co-operation — Anthropic chief executive Dario Amodei …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0734
+      },
+      {
+        "id": "bcfc946311291374",
+        "title": "Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand",
+        "url": "https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1781719958000,
+        "summary": "Jensen can't risk semiconductor supply chains derailing the AI hype train",
+        "tags": [
+          "networks"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1263
+      },
+      {
+        "id": "e4d8807d15a09d7b",
+        "title": "You Can Easily Install the iOS 27 Beta For Free Right Now, Here's How",
+        "url": "https://www.macrumors.com/2026/06/17/install-ios-27-developer-beta-free/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1781719526000,
+        "summary": "If you have not been paying close attention, you might still think that you need to be enrolled in the Apple Developer Program for $99 per year to install iOS developer betas, but that has not been the case for a few years now. In fact, anyone can install the iOS 27 developer beta on their iPhone for free, and the process is quite easy. Even if you are not an app developer and have no current plan",
+        "tags": [
+          "ios 27"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9909
+      },
       {
         "id": "61e1f857d7c69f93",
         "title": "'Alexa, tell me a joke': How talking to AI impacts young children's development",
@@ -2005,6 +2116,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.132
+      },
+      {
+        "id": "70a7fe73b92e3362",
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1781718646000,
+        "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+        "tags": [
+          "ai",
+          "biz & it",
+          "security",
+          "anthropic claude",
+          "mythos",
+          "mythos 5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0651
+      },
+      {
+        "id": "d77d2033f9dcc109",
+        "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 (Kai Nicol-Schwarz/CNBC)",
+        "url": "https://www.techmeme.com/260617/p39#a260617p39",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781718602000,
+        "summary": "Kai Nicol-Schwarz / CNBC: CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 … Anthropic CEO Dario Amodei and Google DeepMind's Demis Hassabis called for a U.S.-led coalition to shape rules and standards around artificial intelligence at a meeting with tech leaders and heads of state …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0649
       },
       {
         "id": "38f55bc971bdb050",
@@ -2787,161 +2931,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9153
-      },
-      {
-        "id": "6b0a6786411e53b9",
-        "title": "Google’s first speaker in six years is really a $10-a-month Gemini subscription",
-        "url": "https://thenextweb.com/news/google-home-speaker-gemini-99-subscription",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781706478000,
-        "summary": "Google has finally made a new smart speaker, its first in roughly six years. The more interesting thing it has made is a reason to pay it every month. The Google Home Speaker costs $99.99, opens for preorder today and ships on June 25. It is the first audio device built around Gemini for Home, […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "plugged",
-          "google",
-          "world",
-          "launch"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8863
-      },
-      {
-        "id": "53972e9962a04a81",
-        "title": "AI demands more engineering discipline. Not less",
-        "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781706044000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:15"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3421
-      },
-      {
-        "id": "87ed258f2d3c69dd",
-        "title": "Researchers build brain-like memory device for AI sensors that may improve energy efficiency — phototransistor device combines light sensing, memory, and processing to cut data movement",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-build-brain-like-memory-device-for-ai-sensors-that-may-improve-energy-efficiency-phototransistor-device-combines-light-sensing-memory-and-processing-to-cut-data-movement",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781705973000,
-        "summary": "Oregon State University researchers have developed a brain-inspired phototransistor that combines light sensing, memory, and signal processing in one device. The hardware can electronically control how long optical memories persist or fade, potentially improving energy efficiency in future AI vision systems.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "170b2f07933b2d27",
-        "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-        "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781705722000,
-        "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
-        "tags": [
-          "ai",
-          "formal verification",
-          "reliability"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8017
-      },
-      {
-        "id": "7abddfc55f243e9b",
-        "title": "The US is paying an AI startup $500M to break China’s grip on chip materials",
-        "url": "https://thenextweb.com/news/sandboxaq-500-million-chips-act-materials-ai",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781705534000,
-        "summary": "The US government has just become a shareholder in an AI startup, in exchange for a bet that artificial intelligence can break China’s hold on the materials inside every chip factory. The Department of Commerce has awarded SandboxAQ $500mn under the CHIPS Act to develop new chemicals and metals for domestic semiconductor manufacturing, Reuters reported. […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "deep tech",
-          "science",
-          "united states",
-          "government and policy",
-          "semiconductors"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9524
-      },
-      {
-        "id": "67a406262ed0cd81",
-        "title": "Estonia wants to give every AI agent its own ID number",
-        "url": "https://thenextweb.com/news/estonia-ai-agents-personal-id-numbers",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781705022000,
-        "summary": "When an AI agent does something on your behalf today, it usually has to become you. It logs in as you, with your access to everything. Estonia wants to end that. The country plans to issue personal identification numbers to AI assistants, the first nation to do so, prime minister Kristen Michal said. The idea […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "startups and technology",
-          "security",
-          "europe",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9498
-      },
-      {
-        "id": "0352c91c4e6e7b1e",
-        "title": "How AI is exposing enterprise operating models",
-        "url": "https://www.techradar.com/pro/how-ai-is-exposing-enterprise-operating-models",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781704924000,
-        "summary": "Are you actually scaling AI? Why scattered tools and pilots are holding companies back.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9071
-      },
-      {
-        "id": "3f4c563d9f67493e",
-        "title": "The best Google Maps feature has nothing to do with Gemini or navigation — it’s this",
-        "url": "https://www.makeuseof.com/best-google-maps-feature-user-reviews/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1781704879000,
-        "summary": "Google Maps' greatest strength is its knowledge.",
-        "tags": [
-          "android",
-          "google maps",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8496
-      },
-      {
-        "id": "1d83fd83f3ea6d51",
-        "title": "Americans Are Increasingly Skeptical of AI, but We're Using It More Than Ever",
-        "url": "https://www.cnet.com/tech/services-and-software/pew-survey-us-adults-ai-attitudes-government-regulations-2026-news/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1781704847000,
-        "summary": "That lack of faith matters as AI becomes increasingly inescapable.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8747
       }
     ],
     "science": [
+      {
+        "id": "14df5c500828d7ff",
+        "title": "Climate advocacy by scientists shows mixed effects, no clear trust boost or backlash",
+        "url": "https://phys.org/news/2026-06-climate-advocacy-scientists-effects-boost.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781720404000,
+        "summary": "Scientists have become more visible in climate debates, engaging in public communication, policy advice, open letters, political demonstrations and even civil disobedience. Scientists who speak out on climate change have different effects depending on the context, according to research led by Lancaster University. A major review led by Dr. Samuel Finnerty finds no consistent evidence that such adv",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0155
+      },
+      {
+        "id": "73880fd3a9b3cdbf",
+        "title": "Dozens of active dust devils caught swirling across Mars canyon system",
+        "url": "https://phys.org/news/2026-06-dozens-devils-caught-swirling-mars.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781720402000,
+        "summary": "The European Space Agency's Mars Express has captured part of Mars's Mamers Valles, a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0154
+      },
       {
         "id": "97c2a3d616393831",
         "title": "Fungi help lock carbon into Arctic fjord sediments",
@@ -3828,34 +3850,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0175
-      },
-      {
-        "id": "b86cace136e269a1",
-        "title": "Vertical marine heat wave study offers classification scheme for coastal resource management",
-        "url": "https://phys.org/news/2026-06-vertical-marine-classification-scheme-coastal.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781654404000,
-        "summary": "Marine heat waves (MHWs) are events characterized by prolonged warm coastal and ocean conditions with wide-ranging impacts on ecosystem health and associated industries. While research on MHWs has historically relied on surface-water data from satellite observations and buoy records, new research from the Batten School of Coastal & Marine Sciences & VIMS highlights the need to—quite literally—go d",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0989
-      },
-      {
-        "id": "84dfc8f0115d437f",
-        "title": "A prototype differential atom interferometer for fundamental physics",
-        "url": "https://www.nature.com/articles/s41586-026-10617-1",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1781654400000,
-        "summary": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8767
       }
     ]
   },
