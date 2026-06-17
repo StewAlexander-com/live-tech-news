@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T19:50:24.807218+00:00",
+  "generated_at": "2026-06-17T19:51:30.602428+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -17,6 +17,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9975
+      },
+      {
+        "id": "876ce9874822acc3",
+        "title": "These Weather Apps Help You Track Tropical Storm Arthur and Other Severe Summer Storms",
+        "url": "https://www.cnet.com/tech/services-and-software/best-weather-app/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1781724360000,
+        "summary": "We're looking at the start of a turbulent summer in the US, so stay ahead of the storms with these apps.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8133
       },
       {
         "id": "890166b8dbd59f26",
@@ -956,22 +969,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7028
-      },
-      {
-        "id": "32e70095710d7ecf",
-        "title": "Apple 'Records Every Tap' in App Store to Filter New Personalized Recommendations Feature",
-        "url": "https://www.macrumors.com/2026/06/17/apple-records-every-tap-app-store-personal/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1781702837000,
-        "summary": "Last week, Apple introduced a new discovery feature for the App Store called Personalized Collections, or app recommendations based on individual interests and behavior. Apple pitched the announcement as another way for developers to have their app discovered, but there has already been some pushback from a privacy perspective. App Store user analytics collected by Apple (Image: Mysk) The new tail",
-        "tags": [
-          "app store",
-          "apple privacy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9975
       }
     ],
     "innovation": [
@@ -1045,6 +1042,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8489
+      },
+      {
+        "id": "016a1dc1c524c18a",
+        "title": "Roborock's First Robot Lawn Mower Is Here, If You're Already Tired of Mowing",
+        "url": "https://www.cnet.com/news/roborock-first-robot-lawn-mower/",
+        "source": "CNET",
+        "lane": "innovation",
+        "published_ts": 1781722080000,
+        "summary": "It comes with advanced, wire-free navigation and a promised future AI-powered mapping update.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8677
       },
       {
         "id": "025063f67513d901",
@@ -1939,26 +1949,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8458
-      },
-      {
-        "id": "ffb719a437a21857",
-        "title": "Got Thread problems? There’s an app for that",
-        "url": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
-        "source": "The Verge",
-        "lane": "innovation",
-        "published_ts": 1781701200000,
-        "summary": "The new Thread Networks Diagnostics Tools app from Thread Group, the standards body behind the wireless IoT protocol, officially launches in beta today. The app, which arrives on iOS and has been available on Android in alpha for a few weeks, is the first dedicated tool to provide visibility into your Thread-based smart home network. […]",
-        "tags": [
-          "hands-on",
-          "matter",
-          "news",
-          "reviews",
-          "smart home",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7831
       }
     ],
     "ai": [
@@ -2084,6 +2074,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8071
+      },
+      {
+        "id": "329cec30a89c47b9",
+        "title": "Anthropic Is Bringing Together AI Design and Coding in Claude",
+        "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-code-design-june-2026-news/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1781722841000,
+        "summary": "New updates mean you should be able to go back and forth between coding and designing without interruptions.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8713
       },
       {
         "id": "73a7a34707fbf7e3",
@@ -2935,22 +2938,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9436
-      },
-      {
-        "id": "bfcea70eb55ef6ab",
-        "title": "Nvidia releases RTX Remix 1.5 with new RTX IO compression reducing mod file sizes by up to 37% — update also adds Smooth Normals and 'RTX Remix Skills' Agents",
-        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-releases-rtx-remix-1-5-with-new-rtx-io-compression-reducing-mod-file-sizes-by-up-to-37-percent-update-also-adds-smooth-normals-and-rtx-remix-skills-agents",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781710435000,
-        "summary": "Nvidia has updated RTX Remix with a bunch of new features that will help improve the fidelity and reduce the file size of modded games, along with the complexity of developing said mods.",
-        "tags": [
-          "gpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.942
       }
     ],
     "science": [
@@ -3806,6 +3793,38 @@
         "score": 1.0197
       },
       {
+        "id": "f2a888ef11e0e21b",
+        "title": "Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
+        "url": "https://arxiv.org/abs/2606.17093",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17093v1 Announce Type: new Abstract: Learning-based single-shot fringe projection profilometry (FPP) has been studied mostly at close range. The long-range regime (standoff beyond 1 m) remains largely unaddressed: inverse-square intensity falloff lowers fringe signal-to-noise ratio and degrades physical ground truth, the single-shot problem is ill-posed because fringe-order information ",
+        "tags": [
+          "cs.lg",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7737
+      },
+      {
+        "id": "40c113f10c09ef2c",
+        "title": "Uncertainty Quantification of Engineering Structures by Polynomial Chaos Expansion and Multivariate Active Learning",
+        "url": "https://arxiv.org/abs/2606.17233",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781668800000,
+        "summary": "arXiv:2606.17233v1 Announce Type: new Abstract: In many engineering applications, a single high-fidelity model produces multiple quantities of interest (QoIs) under the same input parameters, e.g. finite element models of complex physical systems. To alleviate the high computational cost of direct model evaluations, surrogate models are widely used to construct efficient approximations of model re",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7737
+      },
+      {
         "id": "7d12f65326edfd3e",
         "title": "Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis",
         "url": "https://arxiv.org/abs/2606.17115",
@@ -3833,39 +3852,6 @@
         "tags": [
           "cs.lg",
           "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1337
-      },
-      {
-        "id": "7864274ffbf7821c",
-        "title": "Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces",
-        "url": "https://arxiv.org/abs/2606.17419",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781668800000,
-        "summary": "arXiv:2606.17419v1 Announce Type: new Abstract: We develop approximation and generalization error estimates for multi-input neural operators, with the output error measured in Sobolev norms. In contrast to standard operator-learning settings with a single input function, our framework allows multiple input functions defined on possibly different domains, with different dimensions and Sobolev regul",
-        "tags": [
-          "cs.lg",
-          "cs.na",
-          "math.na"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1337
-      },
-      {
-        "id": "fa4c59c137f118b6",
-        "title": "Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning",
-        "url": "https://arxiv.org/abs/2606.17513",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781668800000,
-        "summary": "arXiv:2606.17513v1 Announce Type: new Abstract: Neural operators provide fast surrogates for PDEs but their deterministic predictions limit their use in tasks requiring uncertainty quantification (UQ), especially under geometric variability. Existing approaches primarily model uncertainty in network parameters, largely overlooking the geometry-aware representations learned by the operator itself. ",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
