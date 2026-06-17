@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-17T13:35:12.275891+00:00",
+  "generated_at": "2026-06-17T13:41:17.438380+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "9cce385c0f25bf85",
+        "title": "Proton VPN aces independent no-logs audit for the fifth consecutive year",
+        "url": "https://www.techradar.com/vpn/vpn-services/proton-vpn-aces-independent-no-logs-audit-for-the-fifth-consecutive-year",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781703126000,
+        "summary": "Proton VPN has successfully passed its fifth consecutive independent no-logs audit, with European security firm Securitum verifying that the provider doesn't track or store user activity.",
+        "tags": [
+          "vpn services",
+          "vpn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8475
+      },
       {
         "id": "bfe8d829cbe6b5bd",
         "title": "Undersea cable connecting Egypt and Syria has been cut — Damascus blames 'systematic sabotage campaign' as cause of damage",
@@ -959,25 +975,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.837
-      },
-      {
-        "id": "bdc714ba590b35e2",
-        "title": "Holiday season is here — but watch out, hackers are launching more phishing scams and attacks than ever before",
-        "url": "https://www.techradar.com/pro/security/holiday-season-is-here-but-watch-out-hackers-are-launching-more-phishing-scams-and-attacks-than-ever-before",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781659200000,
-        "summary": "Firms in hospitality are hit with more than 2,000 attacks every week now, while consumers are being served fake accommodation sites.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8479
       }
     ],
     "innovation": [
@@ -1931,6 +1928,36 @@
     ],
     "ai": [
       {
+        "id": "3351d4c26c59be00",
+        "title": "UK says reports that Prime Minister Keir Starmer sought a carve-out to US export controls imposed on Mythos 5 are \"categorically untrue\" (Politico)",
+        "url": "https://www.techmeme.com/260617/p25#a260617p25",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781703302000,
+        "summary": "Politico: UK says reports that Prime Minister Keir Starmer sought a carve-out to US export controls imposed on Mythos 5 are “categorically untrue” — EVIAN-LES-BAINS, France — Prime Minister Keir Starmer has not sought a carve-out to U.S. export controls imposed on Anthropic's most advanced AI models …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0778
+      },
+      {
+        "id": "f6e7315e26869f7b",
+        "title": "AI search grounded in Facebook posts? What could go wrong?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1781703000000,
+        "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a […]",
+        "tags": [
+          "ai",
+          "meta",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8523
+      },
+      {
         "id": "5da9e89b2c757b56",
         "title": "Dark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center, machine learning shows",
         "url": "https://phys.org/news/2026-06-dark-gamma-ray-milky-center.html",
@@ -2283,6 +2310,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9106
+      },
+      {
+        "id": "ed1291b2a772bcf8",
+        "title": "Sources: Trump officials discussed how to structure government equity stakes in AI companies, with Commerce Secretary Lutnick preferring a sovereign wealth fund (Eleanor Mueller/Semafor)",
+        "url": "https://www.techmeme.com/260617/p14#a260617p14",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781693101000,
+        "summary": "Eleanor Mueller / Semafor: Sources: Trump officials discussed how to structure government equity stakes in AI companies, with Commerce Secretary Lutnick preferring a sovereign wealth fund — Senior Trump administration officials had weighed how to structure potential government equity stakes in major AI companies …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0206
       },
       {
         "id": "d32272e2e9691e62",
@@ -2798,70 +2838,38 @@
         "score": 1.0532
       },
       {
-        "id": "87de91df95f071c9",
-        "title": "CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models",
-        "url": "https://arxiv.org/abs/2606.17464",
-        "source": "arXiv cs.LG",
+        "id": "e9bd92334ee6e0db",
+        "title": "Dissecting model behavior through agent trajectories",
+        "url": "https://arxiv.org/abs/2606.17454",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781668800000,
-        "summary": "arXiv:2606.17464v1 Announce Type: new Abstract: Membership inference attacks (MIAs) are a canonical way to assess a machine learning model's privacy properties. Although several attempts have been made to evaluate MIAs on language models, the extant literature has suffered numerous difficulties in constructing clean evaluations to test new techniques. In particular, subtle distribution shifts betw",
+        "summary": "arXiv:2606.17454v1 Announce Type: new Abstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assumptions and harness behavior can easily prevent the model's full capabilities from translating into agent performance. We formalize this as the `intent",
         "tags": [
+          "cs.ai",
           "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9429
-      },
-      {
-        "id": "b797bbf36824745c",
-        "title": "Nothing from Something: Can a Language Model Discover 0?",
-        "url": "https://arxiv.org/abs/2606.17289",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781668800000,
-        "summary": "arXiv:2606.17289v1 Announce Type: new Abstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key question for these systems is how much they can reach beyond their training data. Mathematical discovery requires a strong form of out of distribution generalization; the ability to hypothesize genuinely n",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1337
-      },
-      {
-        "id": "cd8d9b4d4b3efa03",
-        "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-        "url": "https://arxiv.org/abs/2606.17339",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781668800000,
-        "summary": "arXiv:2606.17339v1 Announce Type: new Abstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clinical speech AI methods have largely progressed through isolated condition-specific studies, making results difficult to compare and generalization difficult to assess. We introduce SpeechDx, a large-scale",
-        "tags": [
-          "cs.ai",
-          "cs.cl",
-          "cs.sd"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1337
-      },
-      {
-        "id": "b8607f9b5f9a5c26",
-        "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-        "url": "https://arxiv.org/abs/2606.17405",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781668800000,
-        "summary": "arXiv:2606.17405v1 Announce Type: new Abstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We present an online adaptive framework that integrates Treatment Effect (TE) estimation to quantify clinical benefits, a patient Digital Twin (DT) to simulate treatment trajectories, and Reinforcement Lear",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1337
+        "score": 0.941
       }
     ],
     "science": [
+      {
+        "id": "91004d71a6f973a5",
+        "title": "Quantum Hall effect gains a new twist in graphene moiré systems",
+        "url": "https://phys.org/news/2026-06-quantum-hall-effect-gains-graphene.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781703601000,
+        "summary": "Physicists have long been drawn to the nonlinear Hall effect: a subtle variant of the classical Hall effect, in which an electric voltage appears perpendicular to a current flowing through a material. Unlike its classical counterpart, the nonlinear version can arise even without breaking time-reversal symmetry, and its magnitude is tied to deep geometric properties of electron wave functions. So f",
+        "tags": [
+          "condensed matter"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1012
+      },
       {
         "id": "37693978952735dd",
         "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
@@ -3756,21 +3764,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0179
-      },
-      {
-        "id": "9cbfa30e497dd25d",
-        "title": "Silicon-compatible nanocomposite garnet enables better, simpler optical isolators",
-        "url": "https://phys.org/news/2026-06-silicon-compatible-nanocomposite-garnet-enables.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781636401000,
-        "summary": "A research team from Tohoku University and Kyocera Corp. has developed a new magneto-optical material—a nanocomposite magnetic garnet film—that can be deposited directly onto silicon substrates while delivering a magneto-optical figure of merit four times higher than conventional polycrystalline films.",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0993
       }
     ]
   },
