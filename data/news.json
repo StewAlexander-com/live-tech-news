@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T19:55:50.274866+00:00",
+  "generated_at": "2026-06-18T19:57:08.248336+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1934,19 +1934,19 @@
         "score": 1.0396
       },
       {
-        "id": "e42160fb3aba3d64",
-        "title": "Microsoft once used its own brand of 'Lego' to optimize Windows",
-        "url": "https://www.theregister.com/offbeat/2026/06/18/microsoft-once-used-its-own-brand-of-lego-to-optimize-windows/5258261",
-        "source": "The Register",
+        "id": "a3a075cb252892f2",
+        "title": "Bambu Lab launches PLA Pure filament — New material boasts kid-safe toy certifications and \"asbestos-free\" talc",
+        "url": "https://www.tomshardware.com/3d-printing/bambu-lab-launches-pla-pure-filament-new-material-boasts-kid-safe-toy-certifications-and-asbestos-free-talc",
+        "source": "Tom's Hardware",
         "lane": "innovation",
         "published_ts": 1781784000000,
-        "summary": "Making software feel snappier when you only have 12 MB RAM",
+        "summary": "A new “pure” PLA from Bambu Lab isn’t what you think it is.",
         "tags": [
-          "offbeat"
+          "3d printing"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.125
+        "score": 0.8803
       }
     ],
     "ai": [
@@ -3800,6 +3800,21 @@
         "score": 0.798
       },
       {
+        "id": "d6ff0aab43e7ccff",
+        "title": "A Cross-Model VLM-Judge Protocol for Single-Image 3D Mesh Quality (and Why Cheap Proxies Fall Short)",
+        "url": "https://arxiv.org/abs/2606.18451",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18451v1 Announce Type: new Abstract: Single-image-to-3D generators are improving quickly, but there is no agreed, human-free way to tell whether one generated mesh is better than another. Practitioners commonly rely on cheap automatic proxies (render-space CLIP similarity and mesh geometry-validity statistics), yet how well these track perceived quality is unestablished. We make two con",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7723
+      },
+      {
         "id": "d5dd6ea544260e8d",
         "title": "Structured Representation Learning with Locally Linear Embeddings and Adaptive Feature Fusion",
         "url": "https://arxiv.org/abs/2606.18469",
@@ -3875,23 +3890,6 @@
           "cs.lg",
           "astro-ph.ep",
           "astro-ph.im"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0385
-      },
-      {
-        "id": "3782729c6a850345",
-        "title": "Measurement noise limits the advantage of nonlinear models over linear models in biomedical prediction",
-        "url": "https://arxiv.org/abs/2606.18420",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781755200000,
-        "summary": "arXiv:2606.18420v1 Announce Type: new Abstract: On biomedical tabular data, flexible models such as deep networks, gradient-boosted trees, and kernel methods are repeatedly matched or beaten by linear and logistic regression given the same features. The usual reaction is to treat this as a model-side shortfall, to be fixed with more data, a better architecture, or tuning, on the assumption that th",
-        "tags": [
-          "cs.lg",
-          "q-bio.qm",
-          "stat.ml"
         ],
         "paywall": false,
         "impact": "high",
