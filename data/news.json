@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T17:07:49.067821+00:00",
+  "generated_at": "2026-06-18T17:15:30.538324+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -966,6 +966,37 @@
     ],
     "innovation": [
       {
+        "id": "736aee8b4cd74108",
+        "title": "New Domain for Sign In With Apple and iCloud+ Hide My Email",
+        "url": "https://developer.apple.com/news/?id=sus6t6ab",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1781802828000,
+        "summary": "Apple Developer: Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: private.icloud.com. New addresses generated for both features will be issued on the new domain. For example: Sign in with Apple addresses, previously issued on privaterelay.appleid.com, will be issued on private.icloud.com. iCloud+ Hide My Email",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0794
+      },
+      {
+        "id": "cec7234f9482f9fe",
+        "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
+        "url": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1781802773000,
+        "summary": "A data breach involving government-issued ID documents affects over three million people in Texas.",
+        "tags": [
+          "security",
+          "cybersecurity",
+          "data breach",
+          "texas"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7474
+      },
+      {
         "id": "fa71d188858a255a",
         "title": "Bambu Labs just pulled the HP printer playbook on 3D printing — and the community fought back",
         "url": "https://www.makeuseof.com/bambu-labs-pulled-hp-playbook-3d-printing-community-fought-back/",
@@ -1894,37 +1925,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8458
-      },
-      {
-        "id": "92bcb9a67abaf144",
-        "title": "Transport for London keeps Capita behind wheel of road charging ops in £912M extension",
-        "url": "https://www.theregister.com/public-sector/2026/06/18/transport-for-london-keeps-capita-behind-wheel-of-road-charging-ops-in-912m-extension/5257770",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781776800000,
-        "summary": "Replacement deal now expected in mid-2029 as body says safe transition will take at least five years",
-        "tags": [
-          "public sector"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0447
-      },
-      {
-        "id": "34ffdf80f02d7bcf",
-        "title": "Apple to Make Chips in US With Intel, Trump Says",
-        "url": "https://www.macrumors.com/2026/06/18/apple-make-chips-us-intel-trump-says/",
-        "source": "Mac Rumors",
-        "lane": "innovation",
-        "published_ts": 1781776636000,
-        "summary": "Apple has agreed to work with Intel to manufacture some of its chips in the United States, U.S. president Trump said on Thursday. Intel's stock rose 9 percent in premarket trading following Trump's comments, which appeared in a social media post. Apple was up 0.6 percent in premarket trading. Neither Apple nor Intel have officially commented on the deal, but The Wall Street Journal reported last m",
-        "tags": [
-          "intel",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9941
       }
     ],
     "ai": [
