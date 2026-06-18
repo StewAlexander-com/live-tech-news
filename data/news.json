@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-18T03:47:45.712220+00:00",
+  "generated_at": "2026-06-18T04:34:27.928232+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "365c0b2aae3e31f8",
+        "title": "Veriphi: Attack-Guided Neural Network Verification with Dataset-Dependent Training Methods",
+        "url": "https://arxiv.org/abs/2606.18454",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18454v1 Announce Type: new Abstract: We present Veriphi, a GPU-accelerated neural network verification system that combines fast adversarial attacks with formal bound certification using alpha,beta-CROWN methods. Through systematic experiments on MNIST and CIFAR-10 using three training methodologies (standard, adversarial, certified), we demonstrate that training method effectiveness is",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "f718800e5d4b53f3",
+        "title": "SFT Overtraining Predicts Rank Inversion via Entropy Collapse Under RLVR",
+        "url": "https://arxiv.org/abs/2606.18487",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18487v1 Announce Type: new Abstract: The standard heuristic of selecting the SFT checkpoint with the highest pass@1 for GRPO can fail when SFT compresses the rollout distribution. For binary rewards, the expected within group advantage variance is $p(1{-}p)(g{-}1)/g$; when early GRPO drives $p$ below $p^*(g)$, most groups have identical rewards and provide no group relative signal. We s",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
       {
         "id": "a37631df01acf25f",
         "title": "Some carmakers are ditching FM radios — and Rivian R2 fans aren't happy that they'll need a cellphone signal to listen to tunes in the wilderness",
@@ -81,6 +114,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8452
+      },
+      {
+        "id": "e55a8f0726b8767b",
+        "title": "SanDisk's new 8TB PS5 SSD costs more than three times as much as the PS5 Pro",
+        "url": "https://www.reddit.com/r/technology/comments/1u8rv74/sandisks_new_8tb_ps5_ssd_costs_more_than_three/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1781743547000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8828
       },
       {
         "id": "b1a0e5a67bad4043",
@@ -905,61 +954,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8367
-      },
+      }
+    ],
+    "innovation": [
       {
-        "id": "5b2b396e05efc860",
-        "title": "Microsoft still has an uphill battle against Valve's SteamOS — Windows 11's Xbox mode saves on RAM usage, but apparently doesn't help with gaming performance",
-        "url": "https://www.techradar.com/computing/windows/microsoft-still-has-an-uphill-battle-against-valves-steamos-windows-11s-xbox-mode-saves-on-ram-usage-but-apparently-doesnt-help-with-gaming-performance",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781714848000,
-        "summary": "Xbox mode on Windows 11 does use less RAM than the standard desktop, but it seemingly means nothing for gaming performance.",
+        "id": "f9e7855b50a5b07e",
+        "title": "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots",
+        "url": "https://arxiv.org/abs/2606.18319",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18319v1 Announce Type: new Abstract: Air Traffic Control Operators (ATCOs) are vital in ensuring the safe, orderly, and efficient flow of air traffic, yet training capacity is constrained by reliance on specialized human trainers known as simpilots, who must role-play both pilots and ATCOs in a simulated airspace. Existing automated solutions rely on Western-centric speech models that p",
         "tags": [
-          "windows",
-          "gaming pcs",
-          "computing",
-          "software",
-          "gaming computers"
+          "cs.lg",
+          "cs.ai",
+          "cs.hc",
+          "cs.se"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8358
+        "score": 1.0385
       },
       {
-        "id": "39108312ba8a8b71",
-        "title": "Illinois Could Become the First State to Ban Drivers From Wearing Smart Glasses",
-        "url": "https://www.reddit.com/r/technology/comments/1u8fa7d/illinois_could_become_the_first_state_to_ban/",
+        "id": "40b031a6c9c46ec9",
+        "title": "AMD silently removes memory encryption from consumer Ryzen CPUs, leaving users unaware that they may be vulnerable — security feature vanishes after newer AGESA firmware, AMD engineers go radio silent when pressed about the change",
+        "url": "https://www.reddit.com/r/technology/comments/1u8vkgf/amd_silently_removes_memory_encryption_from/",
         "source": "Reddit r/technology",
-        "lane": "gadgets",
-        "published_ts": 1781714218000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "lane": "innovation",
+        "published_ts": 1781754144000,
+        "summary": "submitted by /u/ControlCAD [link] [comments]",
         "tags": [
           "technology"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.931
+        "score": 0.9343
       },
-      {
-        "id": "47dea06cd84e2957",
-        "title": "Gigabyte introduces BRIX mini PCs with Intel Panther Lake",
-        "url": "https://liliputing.com/gigabyte-introduces-brix-mini-pcs-with-intel-panther-lake/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1781714198000,
-        "summary": "Gigabyte is introducing three new mini PCs with Intel Core Ultra (Series 3) Panther Lake chips inside. Available with up to an Intel Core Ultra 9 386H 16-core mobile processor, the little computers may not have the discrete-class graphics you’d get from Intel Core Ultra X chips, but you do get plenty of expansion and […] The post Gigabyte introduces BRIX mini PCs with Intel Panther Lake appeared f",
-        "tags": [
-          "news",
-          "brix",
-          "gigabyte brix",
-          "panther lake"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.175
-      }
-    ],
-    "innovation": [
       {
         "id": "b65f6ce37ce77735",
         "title": "Tesco Moving 40,000 Server Workloads Off VMware Amid Broadcom's 'Abusive Conduct'",
@@ -1879,44 +1909,210 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8485
-      },
-      {
-        "id": "e16e85c78641c87f",
-        "title": "Mark Zuckerberg Orders His Employees to Start Having Fun Again After Brutal Layoffs Culled Their Colleagues",
-        "url": "https://www.reddit.com/r/technology/comments/1u8er7h/mark_zuckerberg_orders_his_employees_to_start/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781713083000,
-        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9446
-      },
-      {
-        "id": "fd33f265545f848f",
-        "title": "The bottleneck in geothermal moved from the drill to the turbine. This SpaceX alum raised $22M to fix it",
-        "url": "https://thenextweb.com/news/critical-energy-22-million-modular-geothermal-turbines",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781712991000,
-        "summary": "The race to power artificial intelligence has a problem that solar panels and wind turbines cannot fix on their own: the electricity has to be there at 3am, in still air, under cloud. Critical Energy, a Los Angeles startup founded by a former SpaceX engineer, has raised $22mn to chase that always-on demand with geothermal, […] This story continues at The Next Web",
-        "tags": [
-          "deep tech",
-          "startups and technology",
-          "sustainability",
-          "united states",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8844
       }
     ],
     "ai": [
+      {
+        "id": "d74c0400c95bbb11",
+        "title": "Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort (Richard Lawler/The Verge)",
+        "url": "https://www.techmeme.com/260618/p1#a260618p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781755501000,
+        "summary": "Richard Lawler / The Verge: Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort — The AI image generator says this side project will be ‘in many ways superior to even MRI machines.’",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0698
+      },
+      {
+        "id": "a7f0e95f1b2415ab",
+        "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+        "url": "https://arxiv.org/abs/2606.18271",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18271v1 Announce Type: new Abstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collection and actionable ground intelligence. This paper presents NAVI-Orbital, a software system deployed on a Low Earth Orbit (LEO) spacecraft. On April 16, 2026, NAVI-Orbital achieved what is, to the author",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "45ccd36e42bd496c",
+        "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+        "url": "https://arxiv.org/abs/2606.18413",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18413v1 Announce Type: new Abstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shared-workspace human-AI teams, where AI agents and human collaborators must coordinate responsibilities before submitting a final answer. Using the Collaborative Gym environment with DiscoveryBench tasks",
+        "tags": [
+          "cs.ai",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "943eb58fcb9d0373",
+        "title": "CEO-Bench: Can Agents Play the Long Game?",
+        "url": "https://arxiv.org/abs/2606.18543",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18543v1 Announce Type: new Abstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) ",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "2b356e3912e3c326",
+        "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+        "url": "https://arxiv.org/abs/2606.18686",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18686v1 Announce Type: new Abstract: Forecasting benchmarks for general-purpose AI systems usually inherit the constraints of the real world: outcomes resolve slowly, tail events are rare, and counterfactual questions are difficult to score. We introduce ForecastBench-Sim, a simulated-world forecasting benchmark built on game rollouts from Freeciv, a turn-based strategy game modelled on",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "9a9e6c232e09fb64",
+        "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2606.18786",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18786v1 Announce Type: new Abstract: Robot soccer is a challenging testbed for multi-agent reinforcement learning because it combines partial observability, cooperative and adversarial interaction, sparse rewards, and long-horizon tactical behavior. RoboCup 2D Soccer Simulation (RCSS2D) provides a mature robot-soccer platform, but its competition-oriented server-client architecture is d",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "ac18ed1d230cf465",
+        "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+        "url": "https://arxiv.org/abs/2606.18874",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18874v1 Announce Type: new Abstract: AI systems can increasingly automate scientific workflows, but the reasoning that links prior evidence, generated ideas, experiments and final claims often remains implicit inside model inference. Here we introduce Xcientist, a research harness that externalizes research synthesis and experimental validation into inspectable, contract-governed proces",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "576dd7a1ff7ffd0b",
+        "title": "Artemis: Anatomy-Resolved inTervention for Eliminating Multimodal NeuroImage confounderS",
+        "url": "https://arxiv.org/abs/2606.18287",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18287v1 Announce Type: new Abstract: Multimodal neuroimaging, integrating functional connectivity from fMRI and structural connectivity from DTI, enables non-invasive analysis of brain networks using graph neural networks. However, demographic factors such as age and sex systematically confound the relationship between brain connectivity and clinical outcomes, causing GNNs to exploit sp",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "a462157861993e8f",
+        "title": "A Link between Shock-wave Theory and Symmetry-reduced Stochastic Gradient Descent for Artificial Neural Networks",
+        "url": "https://arxiv.org/abs/2606.18303",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18303v1 Announce Type: new Abstract: We develop a mathematically explicit link between shock-wave theory and the symmetry-quotiented learning dynamics of stochastic gradient descent, drawing on differential geometry, Lie group theory, and fluid mechanics. Specifically, after quotienting parameter symmetries and applying local-entropy coarse-graining, the effective dynamics satisfy a vis",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "8221a55147ecb03e",
+        "title": "Enhanced Graph Neural Networks using K-Hop Gaussian Diffusion",
+        "url": "https://arxiv.org/abs/2606.18317",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18317v1 Announce Type: new Abstract: Most graph neural network (GNN) cores rely on graph convolutions, typically implemented as message passing between direct (single-hop) neighbors. In many real-world graphs, edges can be noisy or poorly defined, limiting information propagation to local neighborhoods. Existing diffusion kernels, such as Personalized PageRank (PPR) and Heat Kernel, all",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "6b26632b535341e3",
+        "title": "Neural Network Implementation of the Renormalization Group for Fault Diagnosis with Class Imbalance",
+        "url": "https://arxiv.org/abs/2606.18326",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18326v1 Announce Type: new Abstract: The application of machine learning models in practical tasks faces challenges such as class imbalance and multidimensional noise. This paper proposes RGNet, a neural network architecture based on the concept of the renormalization group (RG), for hierarchical coarse-graining of the feature space. The model sequentially compresses the input dimension",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "99023c9952b6e8b1",
+        "title": "P$^2$CE: Model-Agnostic Plausible Pareto-Optimal Counterfactual Explanations",
+        "url": "https://arxiv.org/abs/2606.18418",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18418v1 Announce Type: new Abstract: The increasing use of machine learning algorithms in social applications has raised concerns about fairness and transparency, leading to the development of counterfactual explanations. These explanations supports individuals to understand and potentially alter unfavorable decisions in areas such as loan applications, job selections, and more, by prov",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "2018a106d3500457",
+        "title": "TMR-GGNN: Credit Card Fraud Detection based on Time-Aware Multi-Relational Guided Graph Neural Network",
+        "url": "https://arxiv.org/abs/2606.18444",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18444v1 Announce Type: new Abstract: In recent years, credit card fraud detection has faced significant challenges due to highly imbalanced data, evolving fraud patterns, and complex relational structures among transaction entities. To address these issues, this research proposes a novel framework called Timeaware Multi Relational Guided Graph Neural Network (TMR GGNN). Particularly, th",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
       {
         "id": "eaa2ac8d24fcb7a3",
         "title": "Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision (Jeremy Hsu/Ars Technica)",
@@ -2666,223 +2862,122 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8071
-      },
-      {
-        "id": "329cec30a89c47b9",
-        "title": "Anthropic Is Bringing Together AI Design and Coding in Claude",
-        "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-code-design-june-2026-news/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1781722841000,
-        "summary": "New updates mean you should be able to go back and forth between coding and designing without interruptions.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8713
-      },
-      {
-        "id": "73a7a34707fbf7e3",
-        "title": "Anthropic Employees Accuse Trump Administration of Targeting Them",
-        "url": "https://yro.slashdot.org/story/26/06/17/1737246/anthropic-employees-accuse-trump-administration-of-targeting-them?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1781722800000,
-        "summary": "Anthropic employees say they remain confused and increasingly convinced that the Trump administration is singling out the company after officials gave it less than 90 minutes to disable Fable 5 and Mythos 5 over alleged national security concerns. Cybersecurity experts, however, argue that the cited behavior of helping to identify vulnerabilities in software is also available in rival models and i",
-        "tags": [
-          "government"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.132
-      },
-      {
-        "id": "72e8e2b368730c25",
-        "title": "Anthropic's design assistant now works better with its coding agent",
-        "url": "https://www.engadget.com/2196329/anthropics-design-assistant-now-works-better-with-its-coding-agent/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1781722800000,
-        "summary": "Anthropic's tools are getting chummy with each other.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.703
-      },
-      {
-        "id": "122901fe68137802",
-        "title": "Anthropic and Google DeepMind called for a US-led AI coalition at the G7, and Canada said yes",
-        "url": "https://thenextweb.com/news/anthropic-google-us-led-ai-coalition-g7-amodei-hassabis",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781722424000,
-        "summary": "Anthropic CEO Dario Amodei and Google DeepMind’s Demis Hassabis used a closed-door lunch at the G7 summit on Wednesday to call for a US-led coalition that would shape international rules and standards for artificial intelligence, according to two people with knowledge of the discussions who spoke to CNBC on condition of anonymity. Canadian Prime Minister […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "google",
-          "artificial intelligence",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9545
-      },
-      {
-        "id": "53b4fb7b28ba4e51",
-        "title": "Allbirds sells its shoes, renames itself Smartbird, and says it is now an AI infrastructure company",
-        "url": "https://thenextweb.com/news/allbirds-smartbird-ai-infrastructure-pivot",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781722390000,
-        "summary": "Allbirds, the sustainable footwear company that went public at a $4.1 billion valuation in 2021, has officially renamed itself Smartbird and appointed a new chief executive to lead its pivot into AI compute. Shares surged more than 50% on Wednesday morning before pulling back. The rebrand completes a transformation first announced in April, when the company […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9543
-      },
-      {
-        "id": "0b55f7b0aa2ab2a4",
-        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781721056000,
-        "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
-        "tags": [
-          "ai",
-          "climate",
-          "anthropic",
-          "carbon removal",
-          "frontier"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.807
-      },
-      {
-        "id": "d25fc06d6c32d082",
-        "title": "Anthropic got hit by export rules nobody understands",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781720930000,
-        "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \"To my […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "policy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8539
-      },
-      {
-        "id": "ef6feecf31249817",
-        "title": "Amazon admits its AI models lag behind OpenAI and Anthropic, but says it can catch up",
-        "url": "https://thenextweb.com/news/amazon-ai-frontier-models-catch-up",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781720801000,
-        "summary": "Amazon’s AI chief has said what the market long suspected. Peter DeSantis, the senior vice president who oversees the company’s AI models, custom chips, and quantum computing, told CNBC that Amazon’s models “haven’t been at the very frontier for the very largest, most demanding workloads.” He added that he hopes Amazon will be “in the conversation about […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "artificial intelligence",
-          "next featured",
-          "apps"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9604
-      },
-      {
-        "id": "b1b6b6b35acd4eff",
-        "title": "The Slate Truck's price may have leaked, starts at $24,950",
-        "url": "https://arstechnica.com/cars/2026/06/the-slate-trucks-price-may-have-leaked-starts-at-24950/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1781720601000,
-        "summary": "The official launch takes place next week.",
-        "tags": [
-          "cars",
-          "slate auto"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0763
-      },
-      {
-        "id": "9a1204ce343d8896",
-        "title": "Meet Kali365 — the 'Amazon of cybercrime' where hackers use AI to completely circumvent multi-factor authentication",
-        "url": "https://www.techradar.com/pro/meet-kali365-the-amazon-of-cybercrime-where-hackers-use-ai-to-completely-circumvent-multi-factor-authentication",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781720400000,
-        "summary": "Kali365 abuses the current OAuth device code flow on Microsoft accounts in a sophisticated attempt to dupe users into signing into their accounts",
-        "tags": [
-          "security",
-          "cyber security",
-          "cyber crime",
-          "pro",
-          "computing",
-          "computing security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9139
-      },
-      {
-        "id": "efb7faf3e18887ff",
-        "title": "Britain lobbied Trump for an exemption from the Anthropic AI ban. The answer was no.",
-        "url": "https://thenextweb.com/news/britain-lobbied-trump-for-an-exemption-from-the-anthropic-ai-ban-the-answer-was-no",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781720325000,
-        "summary": "Sir Keir Starmer’s government spent the weekend lobbying the White House to restore British access to Anthropic’s most capable AI models. A source close to President Trump told The Telegraph there was “zero chance” of a UK carve-out. The rejection lands as Starmer meets Trump at the G7 summit in Évian-les-Bains, where the ban is […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "next featured",
-          "government and policy",
-          "uk"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9579
-      },
-      {
-        "id": "6e31b83f344d4d03",
-        "title": "Sources: Amodei, Altman, and Hassabis called for US-led collaboration on AI rules at the G7 summit; Macron and Modi raised concerns over the US block on Mythos (Financial Times)",
-        "url": "https://www.techmeme.com/260617/p40#a260617p40",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1781720100000,
-        "summary": "Financial Times: Sources: Amodei, Altman, and Hassabis called for US-led collaboration on AI rules at the G7 summit; Macron and Modi raised concerns over the US block on Mythos — Dario Amodei is supported by rival Sam Altman in call for international co-operation — Anthropic chief executive Dario Amodei …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0734
-      },
-      {
-        "id": "bcfc946311291374",
-        "title": "Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand",
-        "url": "https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1781719958000,
-        "summary": "Jensen can't risk semiconductor supply chains derailing the AI hype train",
-        "tags": [
-          "networks"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1263
       }
     ],
     "science": [
+      {
+        "id": "d5dd6ea544260e8d",
+        "title": "Structured Representation Learning with Locally Linear Embeddings and Adaptive Feature Fusion",
+        "url": "https://arxiv.org/abs/2606.18469",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18469v1 Announce Type: new Abstract: Neuroscientific research has revealed that the brain encodes complex behaviors by leveraging structured, low-dimensional manifolds and dynamically fusing multiple sources of information through adaptive gating mechanisms. Inspired by these principles, we propose a novel reinforcement learning (RL) framework that encourages the disentanglement of dyna",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "75e915ee790d0922",
+        "title": "Quantum Annealing Enhanced Reinforcement Learning for Accurate Remaining Useful Lifetime Prediction",
+        "url": "https://arxiv.org/abs/2606.18503",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18503v1 Announce Type: new Abstract: Remaining useful life (RUL) estimation is central to predictive maintenance, where an unplanned failure can cost far more than the asset itself. Statistical degradation models miss the strong nonlinearity of real systems, and data-driven models often converge to suboptimal solutions in high-dimensional, non-convex search spaces. We propose a Quantum ",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1215
+      },
+      {
+        "id": "a06fceb621c27b1f",
+        "title": "How Well Do Large Language Models Capture Human Personality?",
+        "url": "https://arxiv.org/abs/2606.18263",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18263v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to simulate human populations via persona prompting, often under the assumptions that richer persona descriptions improve behavioral fidelity, similarly sized attribute combinations are equally simulatable, and persona definitions generalize across tasks. In this work, we formalize these assumption",
+        "tags": [
+          "cs.hc",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
+      {
+        "id": "7bc0e648630036c0",
+        "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
+        "url": "https://arxiv.org/abs/2606.18322",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18322v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) decompose residual-stream activations into interpretable features. Recent latent-space defenses increasingly rely on these decompositions, assuming that identified \"unsafe\" SAE features serve as actionable handles for monitoring and intervention. In this paradigm, clamping a specific harmful feature is expected to reliably ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
+      {
+        "id": "618bee9f9ec1e228",
+        "title": "ThousandWorlds: A benchmark for climate emulation of potentially habitable exoplanets",
+        "url": "https://arxiv.org/abs/2606.18338",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18338v1 Announce Type: new Abstract: The search for life beyond Earth will depend on detecting faint signatures in the atmospheres of potentially habitable exoplanets. Interpreting those signatures requires understanding the host planet's climate: the same molecule may signal life on one planet and abiotic chemistry on another. Global climate models (GCMs) provide this understanding, bu",
+        "tags": [
+          "cs.lg",
+          "astro-ph.ep",
+          "astro-ph.im"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
+      {
+        "id": "3782729c6a850345",
+        "title": "Measurement noise limits the advantage of nonlinear models over linear models in biomedical prediction",
+        "url": "https://arxiv.org/abs/2606.18420",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18420v1 Announce Type: new Abstract: On biomedical tabular data, flexible models such as deep networks, gradient-boosted trees, and kernel methods are repeatedly matched or beaten by linear and logistic regression given the same features. The usual reaction is to treat this as a model-side shortfall, to be fixed with more data, a better architecture, or tuning, on the assumption that th",
+        "tags": [
+          "cs.lg",
+          "q-bio.qm",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
+      {
+        "id": "d6ff0aab43e7ccff",
+        "title": "A Cross-Model VLM-Judge Protocol for Single-Image 3D Mesh Quality (and Why Cheap Proxies Fall Short)",
+        "url": "https://arxiv.org/abs/2606.18451",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781755200000,
+        "summary": "arXiv:2606.18451v1 Announce Type: new Abstract: Single-image-to-3D generators are improving quickly, but there is no agreed, human-free way to tell whether one generated mesh is better than another. Practitioners commonly rely on cheap automatic proxies (render-space CLIP similarity and mesh geometry-validity statistics), yet how well these track perceived quality is unestablished. We make two con",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0385
+      },
       {
         "id": "c6b95234204b2306",
         "title": "Tourism firms face complex path to sustainability",
@@ -3690,116 +3785,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0184
-      },
-      {
-        "id": "fb4e92692b6d740f",
-        "title": "Semiconductor chip writes 64 DNA sequences in water, setting new enzymatic benchmark",
-        "url": "https://phys.org/news/2026-06-semiconductor-chip-dna-sequences-enzymatic.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781711232000,
-        "summary": "Silicon chips have powered computing for half a century. Increasingly, they are also becoming platforms to read and manipulate biology at scale—recording from many neurons, reading many DNA sequences and now synthesizing DNA.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.097
-      },
-      {
-        "id": "3e6d3771089b83e7",
-        "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
-        "url": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1781711229000,
-        "summary": "\"Space Launch Complex-6 represents six decades of American innovation.\"",
-        "tags": [
-          "space",
-          "access tower",
-          "assembly building",
-          "delta iv",
-          "demolition",
-          "detonation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0633
-      },
-      {
-        "id": "8c6655ae49df3251",
-        "title": "Tropical Storm Arthur, the first of the Atlantic season, targets Gulf Coast with heavy rain",
-        "url": "https://phys.org/news/2026-06-tropical-storm-arthur-atlantic-season.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781710925000,
-        "summary": "The first tropical storm of the Atlantic hurricane season formed Wednesday near the Gulf Coast, bringing intense rain and the threat of dangerous flash floods to states including Texas and Louisiana, meteorologists said.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0141
-      },
-      {
-        "id": "7091820f9c35ee40",
-        "title": "How bacteria exploit human cell metabolism to sharpen infections and potentially evade treatment",
-        "url": "https://phys.org/news/2026-06-bacteria-exploit-human-cell-metabolism.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781710803000,
-        "summary": "A research team at the University of Greifswald's Research Training Group RTG-PRO \"Proteases in pathogen and host: importance in infection and inflammation\" has discovered a new mechanism by which bacterial pathogens adjust their activity to the metabolism of infected host cells. Bacteria tailor their attack to the metabolic state of the host cells and are thus able to specifically regulate their ",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
-      },
-      {
-        "id": "8fd766ae179dc8f5",
-        "title": "Ancient DNA uncovers deadly plague outbreak among Siberian hunter-gatherers 5,500 years ago",
-        "url": "https://phys.org/news/2026-06-ancient-dna-uncovers-deadly-plague.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781708415000,
-        "summary": "Plague is commonly associated with rats, crowded medieval cities, and the epidemics that swept across Europe during and after the Middle Ages. But a new study published in Nature shows that the disease was already lethal 5,500 years ago, when it killed humans in small, mobile hunter-gatherer communities—long before the rise of agriculture and cities created the conditions usually associated with p",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.015
-      },
-      {
-        "id": "86219f2dad96da45",
-        "title": "800 visits to a suburban park: Inside an epic 40‑year birdwatching quest",
-        "url": "https://phys.org/news/2026-06-suburban-epic-40year-birdwatching-quest.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781708413000,
-        "summary": "Birdwatching is one of the most common and popular ways people experience nature. But it's not often that even the most enthusiastic birdwatcher returns to the same place more than 800 times to witness the changes over four decades.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.015
-      },
-      {
-        "id": "7a54bca736ff6dab",
-        "title": "Quantum sensor overcomes major obstacle in search for dark matter and gravitational waves",
-        "url": "https://phys.org/news/2026-06-quantum-sensor-major-obstacle-dark.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781708407000,
-        "summary": "A prototype quantum sensor developed by researchers at Imperial has demonstrated for the first time that a key principle behind next-generation quantum detectors can work under realistic conditions.",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0961
       }
     ]
   },
