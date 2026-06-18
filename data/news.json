@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-18T04:34:27.928232+00:00",
+  "generated_at": "2026-06-18T05:19:49.736661+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "da0eecd44618ef58",
+        "title": "Got a Boots email offering 'free gift beauty sample pack'? Well, 8.8 million of us got the same thing from Romanian hackers looking to steal our credit cards (and more)",
+        "url": "https://www.techradar.com/pro/security/got-a-boots-email-offering-free-gift-beauty-sample-pack-well-8-8-million-of-us-got-the-same-thing-from-romanian-hackers-looking-to-steal-our-credit-cards-and-more",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1781759100000,
+        "summary": "Hackers impersonated Boots in a large phishing campaign using compromised systems, fake surveys, and millions of emails to steal personal information.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.846
+      },
       {
         "id": "365c0b2aae3e31f8",
         "title": "Veriphi: Attack-Guided Neural Network Verification with Dataset-Dependent Training Methods",
@@ -939,24 +955,29 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7441
-      },
-      {
-        "id": "3cf1fbaab3a0d2b1",
-        "title": "This Google-backed ‘phone cluster computing’ project is turning retired Pixels into low-cost Linux data centers — as UCSD researchers say a 2,000-phone cluster will soon support 100 computer science classes",
-        "url": "https://www.techradar.com/phones/this-google-backed-phone-cluster-computing-project-is-turning-retired-pixels-into-low-cost-linux-data-centers-as-ucsd-researchers-say-a-2-000-phone-cluster-will-soon-support-100-computer-science-classes",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781715047000,
-        "summary": "Google says old phones could see their components reused as affordable cloud servers.",
-        "tags": [
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8367
       }
     ],
     "innovation": [
+      {
+        "id": "571e35b98828681e",
+        "title": "Leaky Player Piano Gets MIDI Upgrade in YouTube Restomod",
+        "url": "https://hackaday.com/2026/06/17/leaky-player-piano-gets-midi-upgrade-in-youtube-restomod/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781758827000,
+        "summary": "The word “restomod” is a bit nebulous, but it’s normally used in the automotive world to describe taking an old car and making it better-than-new with all the technological improvements …read more",
+        "tags": [
+          "musical hacks",
+          "keyboard",
+          "midi",
+          "mosfet",
+          "player piano",
+          "raspberry pi pico"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0733
+      },
       {
         "id": "f9e7855b50a5b07e",
         "title": "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots",
@@ -1893,25 +1914,35 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9159
-      },
-      {
-        "id": "0226d6d9c47a508e",
-        "title": "I disabled one Roku setting and movies finally looked like they're supposed to",
-        "url": "https://www.makeuseof.com/disabled-one-roku-setting-movies-finally-looked-like-theyre-supposed-to/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781713820000,
-        "summary": "Learn how motion smoothing, enabled by default on Roku, can ruin the cinematic experience and what you can do to fix it.",
-        "tags": [
-          "entertainment",
-          "roku"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8485
       }
     ],
     "ai": [
+      {
+        "id": "3929c7f52c52e6e0",
+        "title": "Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models, following a similar move by rival Goldman Sachs (Financial Times)",
+        "url": "https://www.techmeme.com/260618/p3#a260618p3",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781758202000,
+        "summary": "Financial Times: Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models, following a similar move by rival Goldman Sachs — Bank follows Goldman Sachs in preventing use of Claude in Asian financial hub — JPMorgan Chase has stopped its staff in Hong Kong …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0697
+      },
+      {
+        "id": "a2b204dae0a0fa09",
+        "title": "Sources: ByteDance has been Microsoft's biggest AI customer in recent years, largely using OpenAI models, and is on track to spend $1B+ a year on Azure services (Bloomberg)",
+        "url": "https://www.techmeme.com/260618/p2#a260618p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1781757902000,
+        "summary": "Bloomberg: Sources: ByteDance has been Microsoft's biggest AI customer in recent years, largely using OpenAI models, and is on track to spend $1B+ a year on Azure services — Microsoft Corp. has built a big business selling AI models to Chinese companies despite the growing rivalry between the US and China over artificial intelligence.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.068
+      },
       {
         "id": "d74c0400c95bbb11",
         "title": "Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort (Richard Lawler/The Verge)",
@@ -2114,6 +2145,22 @@
         "score": 1.1215
       },
       {
+        "id": "8545938dfb2b15cc",
+        "title": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans",
+        "url": "https://www.reddit.com/r/technology/comments/1u8viy3/us_pulls_the_killswitch_on_anthropics_fable_5_ai/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781754015000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9937
+      },
+      {
         "id": "eaa2ac8d24fcb7a3",
         "title": "Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision (Jeremy Hsu/Ars Technica)",
         "url": "https://www.techmeme.com/260617/p57#a260617p57",
@@ -2200,6 +2247,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.128
+      },
+      {
+        "id": "792284ba2cea655a",
+        "title": "Show HN: Local personal data redaction for any AI tools",
+        "url": "https://github.com/sophia486/pii-gui",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781747572000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:6"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0611
       },
       {
         "id": "b372abc252d39124",
@@ -2790,78 +2853,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0122
-      },
-      {
-        "id": "313b921da57344c9",
-        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-        "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1781724122000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1316
-      },
-      {
-        "id": "e578bc5bfc8c3e7a",
-        "title": "‘AI traffic is fundamentally changing how the Internet operates': New report claims bot traffic is growing 6.5 times faster than human users — is this the end of the useful internet as we know it?",
-        "url": "https://www.techradar.com/pro/ai-traffic-is-fundamentally-changing-how-the-internet-operates-new-report-claims-bot-traffic-is-growing-6-5-times-faster-than-human-users-is-this-the-end-of-the-useful-internet-as-we-know-it",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781723400000,
-        "summary": "New data reveals AI traffic is growing 6.5x faster than human traffic, forcing businesses to rethink infrastructure, content discoverability and more.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9125
-      },
-      {
-        "id": "cf5f118c2799cafa",
-        "title": "Orange Pi 6 single-board PC has a 12-core CIX P1 processor and two 2.5 GbE LAN ports",
-        "url": "https://liliputing.com/orange-pi-6-single-board-pc-has-a-12-core-cix-p1-processor-and-two-2-5-gbe-lan-ports/",
-        "source": "Liliputing",
-        "lane": "ai",
-        "published_ts": 1781723337000,
-        "summary": "The Orange Pi 6 is a single-board computer that measures 90 x 90mm (3.54″ x 3.54″) and features a high-performance 12-core Arm-based processor that delivers up to 45 TOPS of on-device AI processing performance. Launching more than half a year after the Orange Pi 6 Plus, this nonplussed model has a slightly more limited feature set, […] The post Orange Pi 6 single-board PC has a 12-core CIX P1 proc",
-        "tags": [
-          "news",
-          "cix cd8180",
-          "cix p1",
-          "orange pi",
-          "orange pi 6",
-          "sbc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1805
-      },
-      {
-        "id": "e2ae02f3720f0c15",
-        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-        "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1781722879000,
-        "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
-        "tags": [
-          "ai",
-          "government & policy",
-          "anthropic",
-          "fable",
-          "g7",
-          "mythos"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8071
       }
     ],
     "science": [
