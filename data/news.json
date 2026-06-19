@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-19T15:02:04.271599+00:00",
+  "generated_at": "2026-06-19T15:09:09.752597+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "a87be0f14dadf21e",
+        "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+        "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1781880833000,
+        "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect. […]",
+        "tags": [
+          "entertainment",
+          "gadgets",
+          "music",
+          "news",
+          "streaming",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7881
+      },
       {
         "id": "c630493d390953e8",
         "title": "Security experts reveal Proton is the 'only VPN' to avoid internal tunnel IP fingerprinting on iOS",
@@ -950,19 +970,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8406
-      },
-      {
-        "id": "d2f3fcb3652935db",
-        "title": "Verizon, Formerly Menace Mobile",
-        "url": "https://www.youtube.com/watch?v=lzmntndEXWo",
-        "source": "Daring Fireball",
-        "lane": "gadgets",
-        "published_ts": 1781830705000,
-        "summary": "Verizon has sprung for a new ad campaign set in the Austin Powers world, with four stars from the cast — Mike Myers, of course, as Dr. Evil; Rob Lowe as Number Two (Robert Wagner is alive but is 96); Seth Green as Evil’s son Scott, and Mindy Sterling as Frau Farbissina — and director Jay Roach. The premise of the two-minute spot is that Dr. Evil is proposing “Menace Mobile”, a wireless carrier wit",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0675
       }
     ],
     "innovation": [
@@ -983,6 +990,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8495
+      },
+      {
+        "id": "c82271beb91e6765",
+        "title": "Meta Lobbies Congress For Protection From Child-Harm Lawsuits",
+        "url": "https://tech.slashdot.org/story/26/06/18/2342227/meta-lobbies-congress-for-protection-from-child-harm-lawsuits?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1781881200000,
+        "summary": "Longtime Slashdot reader schwit1 shares a report from Reuters: Meta has lobbied the U.S. Congress for legal immunity from child-harm claims tied to social media products such as Instagram, as it faces thousands of lawsuits from young users and their families, according to a source familiar with the matter and proposed legislative language reviewed by Reuters. If adopted by lawmakers and passed int",
+        "tags": [
+          "facebook"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0469
       },
       {
         "id": "1d56739a97049d57",
@@ -1891,26 +1913,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9995
-      },
-      {
-        "id": "4e4ccfc43cf81e0b",
-        "title": "Easily Reuse 3D Printing Photopolymers with Depolymerizable Resin",
-        "url": "https://hackaday.com/2026/06/18/easily-reuse-3d-printing-photopolymers-with-depolymerizable-resin/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1781834436000,
-        "summary": "Generally the idea with photopolymers as used with resin 3D printing is that the process only works in a single direction as with all thermosets: after polymerization under influence of …read more",
-        "tags": [
-          "3d printer hacks",
-          "3d resin printer",
-          "photopolymer resin"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0687
       }
     ],
     "ai": [
+      {
+        "id": "0414417aab00dc68",
+        "title": "DaVinci Resolve Studio 21 review: Pro-grade video editing software with some amazing - and terrifying - AI tools",
+        "url": "https://www.techradar.com/pro/software-services/davinci-resolve-studio-21-video-editing-software-review",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1781881500000,
+        "summary": "Blackmagic’s DaVinci Resolve Studio is their top of the line desktop video editor. Are the new tools introduced in version 21 worth your time?",
+        "tags": [
+          "software &amp; services",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9168
+      },
       {
         "id": "f5a42caa9fc6dddf",
         "title": "Bernie Sanders files bill proposing 50% public ownership of US AI firms and giving out $1,000 dividends — VP Vance says Trump supports giving the American people a stake in AI companies, prefers ‘pre-distribution’ over giving away cash",
@@ -2847,35 +2868,22 @@
         "score": 0.8397
       },
       {
-        "id": "b22819407f284520",
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2606.19464",
+        "id": "38860db18ddec544",
+        "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+        "url": "https://arxiv.org/abs/2606.19630",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
+        "summary": "arXiv:2606.19630v1 Announce Type: new Abstract: The March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering (SE) became the most downloaded issue in the publication's history and launched a research community that now draws over 250 registrants to its annual workshop. In this article, we trace the progress in AI and SE across three phases (labeled here foundational, applied, and LLM ",
         "tags": [
           "cs.ai",
-          "cs.ma"
+          "cs.dl",
+          "cs.sy",
+          "eess.sy"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9169
-      },
-      {
-        "id": "900fd8b2871a3a54",
-        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-        "url": "https://arxiv.org/abs/2606.19602",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9169
+        "score": 0.9149
       }
     ],
     "science": [
