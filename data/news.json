@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T13:55:04.432378+00:00",
+  "generated_at": "2026-06-19T13:58:10.715805+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1886,6 +1886,21 @@
     ],
     "ai": [
       {
+        "id": "525564fc51551df9",
+        "title": "As growth gets harder, AI emerges as the key to MSP success",
+        "url": "https://www.techradar.com/pro/as-growth-gets-harder-ai-emerges-as-the-key-to-msp-success",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1781877353000,
+        "summary": "Artificial Intelligence has become a defining factor in the Managed Service Provider market.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9173
+      },
+      {
         "id": "f76e5585251ef0c6",
         "title": "A city hit pause on AI data centres. Amazon responded by investigating its own engineers.",
         "url": "https://thenextweb.com/news/ai-data-centre-backlash-amazon-engineers-ferc",
@@ -2710,6 +2725,53 @@
         "score": 0.8397
       },
       {
+        "id": "ed853ba628bb9a4a",
+        "title": "Can In-Context Learning Support Intrinsic Curiosity?",
+        "url": "https://arxiv.org/abs/2606.19476",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19476v1 Announce Type: new Abstract: Effective machine learning depends not only on how we model data, but also on what data we choose to collect. While large sequence models have revolutionized data modeling, the problem of automated data selection, or \"intrinsic curiosity\", remains a significant challenge. Classic approaches incentivize exploration by rewarding an agent based on its \"",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9359
+      },
+      {
+        "id": "16591a55666371e0",
+        "title": "Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport",
+        "url": "https://arxiv.org/abs/2606.19562",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19562v1 Announce Type: new Abstract: This chapter reviews recent advances in Scientific Machine Learning (SciML) for modeling coupled fluid flow and transport phenomena governed by the incompressible Navier-Stokes and scalar transport equations. Such systems, found in applications like turbidity currents and thermal convection, feature strong nonlinear coupling and multiscale behavior t",
+        "tags": [
+          "cs.lg",
+          "physics.flu-dyn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9359
+      },
+      {
+        "id": "31d668507a895de1",
+        "title": "On the QUEST for Uncertainty Quantification via Highest Density Regions",
+        "url": "https://arxiv.org/abs/2606.19569",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19569v1 Announce Type: new Abstract: Uncertainty quantification (UQ) is essential for reliable decision-making in safety-critical applications in probabilistic machine learning. For regression problems, dominant scalar UQ approaches - notably, those based on proper scoring rules - measure uncertainty via pointwise predictive risk. This can lead to counterintuitive results when the targe",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9359
+      },
+      {
         "id": "996ad041ee8221a6",
         "title": "Computational Identifiability",
         "url": "https://arxiv.org/abs/2606.19361",
@@ -2793,69 +2855,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.131
-      },
-      {
-        "id": "d46b8deacf72b9e0",
-        "title": "Benchmarking Agentic Review Systems",
-        "url": "https://arxiv.org/abs/2606.19749",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19749v1 Announce Type: new Abstract: A new class of agentic review systems are emerging as a remedy to the pressure placed on peer review systems by AI-assisted research, but it is unclear how they should be evaluated. We evaluate two open-source systems (OpenAIReview and coarse), one proprietary system (Reviewer3), and a zero-shot baseline, across six LLMs spanning frontier and efficie",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.131
-      },
-      {
-        "id": "0e195394dc073c07",
-        "title": "Grounded Inference: Principles for Deterministically Encapsulated Generative Models",
-        "url": "https://arxiv.org/abs/2606.19753",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19753v1 Announce Type: new Abstract: The incorporation of generative models into traditional computational systems presents both enormous opportunity and tremendous peril. Although many early adopters have realized these perils at great expense, the field still requires foundational frameworks to de-risk incorporation of AI into traditional systems. This manuscript establishes this foun",
-        "tags": [
-          "cs.ai",
-          "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.131
-      },
-      {
-        "id": "73bb031bb489c115",
-        "title": "cAPM: Continual AI-Assisted Pace-Mapping with Active Learning",
-        "url": "https://arxiv.org/abs/2606.19373",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19373v1 Announce Type: new Abstract: Ventricular tachycardia is a life-threatening rhythm disorder and a major cause of sudden cardiac death. Pace-mapping is a clinical procedure for identifying the intervention target during catheter ablation of VT. It requires clinicians to pace different sites in the ventricles and rapidly interpret the resulting electrocardiograms to determine where",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.131
-      },
-      {
-        "id": "d6bda08456c307e3",
-        "title": "Spectral DPPs via NEPv: A Scalable Continuous Relaxation of Determinantal MAP for Diversity-Aware Data Selection",
-        "url": "https://arxiv.org/abs/2606.19411",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19411v1 Announce Type: new Abstract: Selecting a small, diverse, high-quality subset from a massive pool of candidates is a recurring primitive in modern machine learning -- data curation and coreset selection for training and fine-tuning large models, active-learning batch acquisition, prompt and exemplar selection for in-context learning, retrieval diversification, and experimental de",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.131
       }
     ],
     "science": [
@@ -2873,6 +2872,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0151
+      },
+      {
+        "id": "e0356187ad3214e8",
+        "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+        "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
+        "source": "Ars Technica AI",
+        "lane": "science",
+        "published_ts": 1781876213000,
+        "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+        "tags": [
+          "science",
+          "space",
+          "ariane 6",
+          "blue origin",
+          "falcon 9",
+          "h3 rocket"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0726
       },
       {
         "id": "f875d569351e8d60",
@@ -3750,21 +3769,6 @@
         "summary": "People living in regions with lower scores on the Human Development Index face a substantially higher risk from climate-related disasters, even when these are not unusually severe. This is the key finding of a new study led by researchers at Leipzig University. The study analyzed more than 7,000 climate-related disasters worldwide between 1990 and 2020 and combined these data with subnational indi",
         "tags": [
           "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
-      },
-      {
-        "id": "55be4179357cc05c",
-        "title": "Fermi mission uncovers possible sibling supernova remnants",
-        "url": "https://phys.org/news/2026-06-fermi-mission-uncovers-sibling-supernova.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781815205000,
-        "summary": "A new study of two supernova remnants, the debris left behind after stars explode, suggests the explosions came from stellar siblings that once orbited each other. The first star's detonation sent its binary companion hurtling through space, and then, after traveling for thousands of years, the surviving star blew up, too.",
-        "tags": [
-          "astronomy"
         ],
         "paywall": false,
         "impact": "high",
