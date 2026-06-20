@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T03:21:28.320160+00:00",
+  "generated_at": "2026-06-20T03:29:49.611370+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3771,6 +3771,37 @@
         "score": 1.0173
       },
       {
+        "id": "c1c24b1547a71cad",
+        "title": "Physics-Informed Discovery of Yield Functions in Plasticity via Convex Neural Representations",
+        "url": "https://arxiv.org/abs/2606.19375",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19375v1 Announce Type: new Abstract: Identifying anisotropic yield functions remains challenging since yielding is not directly observed in full-field mechanical measurements, directional calibration can require many loading directions, and selecting an appropriate analytical form is nontrivial. This study proposes a physics-informed framework for discovering yield functions from full-f",
+        "tags": [
+          "cs.lg",
+          "cond-mat.mtrl-sci"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7213
+      },
+      {
+        "id": "d00728580562b2f8",
+        "title": "Calibrating Generative Models to Feature Distributions with MMD Finetuning",
+        "url": "https://arxiv.org/abs/2606.19496",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19496v1 Announce Type: new Abstract: Generative models can produce individually plausible samples while deviating substantially from a target set in the distribution of key features. For example, a model pretrained on broad drug-like chemical space may generate molecules whose molecular features differ from those of a therapeutic class of interest, such as known antibiotics. Correcting ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6679
+      },
+      {
         "id": "b5c28bbf7e241293",
         "title": "A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling",
         "url": "https://arxiv.org/abs/2606.19378",
@@ -3817,39 +3848,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6847
-      },
-      {
-        "id": "8a4e9cf6fcd4733f",
-        "title": "Zero-Inflated Gaussian Distributions Enable Parameter-Space Sparsity in Estimation-of-Distribution Algorithms",
-        "url": "https://arxiv.org/abs/2606.19369",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19369v1 Announce Type: new Abstract: Estimation-of-distribution algorithms (EDAs) are a powerful class of evolutionary methods for black-box optimization, especially when little is known about the structure of the objective. Whereas classical evolutionary algorithms rely on hand-designed mutation and crossover operators, hard to devise for unknown problem structures, and a source of bia",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6857
-      },
-      {
-        "id": "d6811713cab9c549",
-        "title": "3D-DLP: Self-Supervised 3D Object-Centric Scene Representation Learning",
-        "url": "https://arxiv.org/abs/2606.19451",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19451v1 Announce Type: new Abstract: We introduce 3D-DLP, a self-supervised object-centric representation learning model that decomposes scene-level RGB-D or voxel observations into a set of 3D latent particles. Building on the Deep Latent Particles (DLP) framework, each particle encodes disentangled attributes, including 3D keypoint position, bounding box dimensions, and appearance fea",
-        "tags": [
-          "cs.lg",
-          "cs.cv",
-          "cs.ro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6888
       }
     ]
   },
