@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T21:07:44.895021+00:00",
+  "generated_at": "2026-06-20T21:24:02.326943+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -964,6 +964,21 @@
     ],
     "innovation": [
       {
+        "id": "4436b7b03b79c4ec",
+        "title": "Morale is so bad at Mark Zuckerberg's Meta even the company's own CTO admits it's 'probably the worst it's ever been'",
+        "url": "https://www.reddit.com/r/technology/comments/1ub7r1y/morale_is_so_bad_at_mark_zuckerbergs_meta_even/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781990105000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9473
+      },
+      {
         "id": "1cd476f72abf571e",
         "title": "My audiobooks deserved their own Plex, and this is it",
         "url": "https://www.makeuseof.com/my-audiobooks-deserved-their-own-plex-and-this-is-it/",
@@ -979,6 +994,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8489
+      },
+      {
+        "id": "2dfc5b14bd42734e",
+        "title": "Microsoft confirms Recycle Bin glitch affecting all supported Windows versions — yes, even the trash needs debugging",
+        "url": "https://www.reddit.com/r/technology/comments/1ub78qa/microsoft_confirms_recycle_bin_glitch_affecting/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781988816000,
+        "summary": "submitted by /u/lurker_bee [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9408
       },
       {
         "id": "eb75b40918f173e9",
@@ -1893,41 +1923,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9411
-      },
-      {
-        "id": "aa64d6f60c5b7370",
-        "title": "Meta wants a child safety bill rewritten to shield it from lawsuits over harm to kids",
-        "url": "https://www.reddit.com/r/technology/comments/1uacboz/meta_wants_a_child_safety_bill_rewritten_to/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781899714000,
-        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9406
-      },
-      {
-        "id": "b988f7e3caaa3f74",
-        "title": "PCBs Straight from the Magazine",
-        "url": "https://hackaday.com/2026/06/19/pcbs-straight-from-the-magazine/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1781899219000,
-        "summary": "It’s never been easier to get a printed circuit board made. In fact, almost every electronics video out on the internet will incessantly remind you of this fact now. But …read more",
-        "tags": [
-          "pcb hacks",
-          "circuit board",
-          "diy",
-          "gimp",
-          "magazine",
-          "pcb"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0789
       }
     ],
     "ai": [
@@ -2866,20 +2861,19 @@
         "score": 1.0381
       },
       {
-        "id": "b22819407f284520",
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2606.19464",
+        "id": "900fd8b2871a3a54",
+        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+        "url": "https://arxiv.org/abs/2606.19602",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
+        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
         "tags": [
-          "cs.ai",
-          "cs.ma"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8154
+        "score": 0.8112
       }
     ],
     "science": [
