@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T21:38:17.269369+00:00",
+  "generated_at": "2026-06-20T21:42:24.883761+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1927,6 +1927,21 @@
     ],
     "ai": [
       {
+        "id": "5db980489360a3c2",
+        "title": "OpenAI Announces Benchmarks for AI Life Sciences Research. Its Best Model Failed 63.9% of the Test",
+        "url": "https://science.slashdot.org/story/26/06/20/202204/openai-announces-benchmarks-for-ai-life-sciences-research-its-best-model-failed-639-of-the-test?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1781991240000,
+        "summary": "This week OpenAI announced a 750-task test to to measure \"whether AI systems can support realistic life science research tasks, not just answer biology questions.\" But while OpenAI's top-performing GPT-Rosalind model led the rankings, Slashdot reader BrianFagioli notes that \"it achieved a pass rate of just 36.1 percent, failing nearly two-thirds of benchmark tasks.\" Nerds.xyz points out that means",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1309
+      },
+      {
         "id": "3f7655bb7937b16d",
         "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
         "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
@@ -2859,22 +2874,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0381
-      },
-      {
-        "id": "b22819407f284520",
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2606.19464",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
-        "tags": [
-          "cs.ai",
-          "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8075
       }
     ],
     "science": [
