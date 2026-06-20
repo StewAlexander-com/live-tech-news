@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T01:07:48.873410+00:00",
+  "generated_at": "2026-06-20T01:19:56.457126+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1980,6 +1980,21 @@
         "score": 0.9172
       },
       {
+        "id": "17569cc8d269601b",
+        "title": "'Exactly how the dot-com bubble burst': A market research firm says keep an eye on this AI warning sign",
+        "url": "https://www.reddit.com/r/technology/comments/1uai6p5/exactly_how_the_dotcom_bubble_burst_a_market/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781914871000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0068
+      },
+      {
         "id": "581fa72dd1203c19",
         "title": "'What makes a CV stand out is the personal touch you add to it': Even professional CV writers are warning not to use AI to write a resume",
         "url": "https://www.techradar.com/pro/what-makes-a-cv-stand-out-is-the-personal-touch-you-add-to-it-even-professional-cv-writers-are-warning-not-to-use-ai-to-write-a-resume",
@@ -2920,25 +2935,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9173
-      },
-      {
-        "id": "f76e5585251ef0c6",
-        "title": "A city hit pause on AI data centres. Amazon responded by investigating its own engineers.",
-        "url": "https://thenextweb.com/news/ai-data-centre-backlash-amazon-engineers-ferc",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781876273000,
-        "summary": "The backlash against AI data centres used to be a local zoning story. This week, it became a fight inside Amazon. Three Amazon engineers, Patrick Schloesser, Darius Irani and Liesl Wigand, say the company placed them under investigation after they testified to Seattle’s city council in favour of regulating data centres. They have filed a […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "sustainability",
-          "united states",
-          "business",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9667
       }
     ],
     "science": [
@@ -3767,6 +3763,21 @@
         "score": 1.0173
       },
       {
+        "id": "d00728580562b2f8",
+        "title": "Calibrating Generative Models to Feature Distributions with MMD Finetuning",
+        "url": "https://arxiv.org/abs/2606.19496",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19496v1 Announce Type: new Abstract: Generative models can produce individually plausible samples while deviating substantially from a target set in the distribution of key features. For example, a model pretrained on broad drug-like chemical space may generate molecules whose molecular features differ from those of a therapeutic class of interest, such as known antibiotics. Correcting ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6963
+      },
+      {
         "id": "c1c24b1547a71cad",
         "title": "Physics-Informed Discovery of Yield Functions in Plasticity via Convex Neural Representations",
         "url": "https://arxiv.org/abs/2606.19375",
@@ -3841,23 +3852,6 @@
         "tags": [
           "cs.lg",
           "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0472
-      },
-      {
-        "id": "d6811713cab9c549",
-        "title": "3D-DLP: Self-Supervised 3D Object-Centric Scene Representation Learning",
-        "url": "https://arxiv.org/abs/2606.19451",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19451v1 Announce Type: new Abstract: We introduce 3D-DLP, a self-supervised object-centric representation learning model that decomposes scene-level RGB-D or voxel observations into a set of 3D latent particles. Building on the Deep Latent Particles (DLP) framework, each particle encodes disentangled attributes, including 3D keypoint position, bounding box dimensions, and appearance fea",
-        "tags": [
-          "cs.lg",
-          "cs.cv",
-          "cs.ro"
         ],
         "paywall": false,
         "impact": "high",
