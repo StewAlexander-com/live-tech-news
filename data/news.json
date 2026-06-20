@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T01:19:56.457126+00:00",
+  "generated_at": "2026-06-20T01:53:59.652728+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -983,6 +983,32 @@
     ],
     "innovation": [
       {
+        "id": "fb2015a20cc9e95c",
+        "title": "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer",
+        "url": "https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1781918969000,
+        "summary": "Ben Chapman, reporting for The Independent in 2019: After 40 years of advertising its lager as “Probably the best beer in the world”, Danish brewer Carlsberg has confessed that the famous slogan may not be true. Reacting to falling sales and increasingly harsh comments from drinkers about the taste of its beer, Carlsberg has launched a new recipe along with a more honest approach to marketing. The",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0715
+      },
+      {
+        "id": "0937f9578a567484",
+        "title": "‘What’s the Deal With Old Guys and Giant Glasses?’",
+        "url": "https://www.youtube.com/watch?v=8DYGxn6Xvt0",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1781918479000,
+        "summary": "Early adoption of new technology is generally considered a young-person thing, but maybe Snap Specs will turn that notion on its head. Direct sales in retirement homes? ★",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0687
+      },
+      {
         "id": "fbaabb911c0a293d",
         "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
         "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
@@ -1928,38 +1954,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9391
-      },
-      {
-        "id": "6b21bcba90b5b23e",
-        "title": "Telegram founder accuses Meta of sabotaging access in India with BGP hijacks",
-        "url": "https://www.theregister.com/networks/2026/06/19/telegram-founder-accuses-meta-of-sabotaging-access-in-india-with-bgp-hijacks/5258866",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1781875860000,
-        "summary": "Allegations of fake routes are fake news, says Indian telco Jio",
-        "tags": [
-          "networks"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0483
-      },
-      {
-        "id": "66a27f7809e307cc",
-        "title": "Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech — imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1781874787000,
-        "summary": "Imec, ASML, and TSMC have integrated both n-type and p-type transistors with atomically thin 2D channels on a single 300mm wafer.",
-        "tags": [
-          "semiconductors",
-          "tech industry",
-          "manufacturing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
       }
     ],
     "ai": [
@@ -2983,7 +2977,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0436
+        "score": 1.2354
       },
       {
         "id": "50438bfb79506a35",
@@ -3763,6 +3757,23 @@
         "score": 1.0173
       },
       {
+        "id": "d6811713cab9c549",
+        "title": "3D-DLP: Self-Supervised 3D Object-Centric Scene Representation Learning",
+        "url": "https://arxiv.org/abs/2606.19451",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19451v1 Announce Type: new Abstract: We introduce 3D-DLP, a self-supervised object-centric representation learning model that decomposes scene-level RGB-D or voxel observations into a set of 3D latent particles. Building on the Deep Latent Particles (DLP) framework, each particle encodes disentangled attributes, including 3D keypoint position, bounding box dimensions, and appearance fea",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6888
+      },
+      {
         "id": "d00728580562b2f8",
         "title": "Calibrating Generative Models to Feature Distributions with MMD Finetuning",
         "url": "https://arxiv.org/abs/2606.19496",
@@ -3836,22 +3847,6 @@
         "tags": [
           "cs.ai",
           "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0472
-      },
-      {
-        "id": "8a4e9cf6fcd4733f",
-        "title": "Zero-Inflated Gaussian Distributions Enable Parameter-Space Sparsity in Estimation-of-Distribution Algorithms",
-        "url": "https://arxiv.org/abs/2606.19369",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19369v1 Announce Type: new Abstract: Estimation-of-distribution algorithms (EDAs) are a powerful class of evolutionary methods for black-box optimization, especially when little is known about the structure of the objective. Whereas classical evolutionary algorithms rely on hand-designed mutation and crossover operators, hard to devise for unknown problem structures, and a source of bia",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
