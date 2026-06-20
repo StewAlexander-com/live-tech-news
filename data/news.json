@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T19:56:56.121611+00:00",
+  "generated_at": "2026-06-20T20:01:20.451670+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -966,6 +966,44 @@
     ],
     "innovation": [
       {
+        "id": "d50e54958838f065",
+        "title": "I self-hosted my email and finally understood why everyone warns against it",
+        "url": "https://www.makeuseof.com/self-hosted-email-understood-why-everyone-warns-against-it/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1781985618000,
+        "summary": "I got my own mail server running, but the celebration ended somewhere around port 25.",
+        "tags": [
+          "productivity",
+          "email security",
+          "home server",
+          "dns"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8497
+      },
+      {
+        "id": "4d5eb5c9cc722b52",
+        "title": "Seeing the World in Radio Waves with the QuadRF",
+        "url": "https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1781985600000,
+        "summary": "Although the basic principle of radio direction finding is easy to understand (measure the phase difference between different antennas, then calculate the angle of arrival from this difference), the radio …read more",
+        "tags": [
+          "radio hacks",
+          "angle of arrival",
+          "beamforming",
+          "direction finding",
+          "mimo",
+          "radio direction finding"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0795
+      },
+      {
         "id": "0a1c70e9cb69ac79",
         "title": "I ran a free Microsoft tool and found 161 startup entries Task Manager couldn't see",
         "url": "https://www.makeuseof.com/a-free-microsoft-tool-exposed-x-startup-entries-task-manager-never-showed-me/",
@@ -1895,34 +1933,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8455
-      },
-      {
-        "id": "0b2eb047afa79cd7",
-        "title": "Some local police have access to an ICE facial recognition app",
-        "url": "https://www.reddit.com/r/technology/comments/1uab8xz/some_local_police_have_access_to_an_ice_facial/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1781897098000,
-        "summary": "submitted by /u/Livid_Perception_762 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9192
-      },
-      {
-        "id": "8de653bb143dec03",
-        "title": "South Korean media: Hyundai plans to buy SoftBank's remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary (Reuters)",
-        "url": "https://www.techmeme.com/260619/p19#a260619p19",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1781896801000,
-        "summary": "Reuters: South Korean media: Hyundai plans to buy SoftBank's remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary — Hyundai Motor Group plans to buy SoftBank Group's (9984.T) remaining 9.65% stake in Boston Dynamics for $325 million …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9989
       }
     ],
     "ai": [
@@ -2882,6 +2892,21 @@
     ],
     "science": [
       {
+        "id": "bc7e293690b8cb20",
+        "title": "Jumping gene caught moving between species in first direct observation",
+        "url": "https://phys.org/news/2026-06-gene-caught-species.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781985601000,
+        "summary": "Genes are not passed on exclusively from parents to their offspring. Some are mobile and can also jump to other species, as researchers at the Max Planck Institute for Marine Microbiology in Bremen have now shown. The direct observation of a jumping gene provides the first evidence that such genes can transfer from one species to another—from predator to prey. The study is published in the journal",
+        "tags": [
+          "evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0196
+      },
+      {
         "id": "cb4eddd6a6edc123",
         "title": "Ancient enamel just exposed a hidden human family entanglement that may still echo in your DNA",
         "url": "https://phys.org/news/2026-05-ancient-enamel-exposed-hidden-human.html",
@@ -3785,26 +3810,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0151
-      },
-      {
-        "id": "e0356187ad3214e8",
-        "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
-        "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
-        "source": "Ars Technica AI",
-        "lane": "science",
-        "published_ts": 1781876213000,
-        "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
-        "tags": [
-          "science",
-          "space",
-          "ariane 6",
-          "blue origin",
-          "falcon 9",
-          "h3 rocket"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0726
       }
     ]
   },
