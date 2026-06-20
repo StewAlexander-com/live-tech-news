@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T20:37:43.694928+00:00",
+  "generated_at": "2026-06-20T20:51:57.853599+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -964,6 +964,21 @@
     ],
     "innovation": [
       {
+        "id": "eb75b40918f173e9",
+        "title": "Remembering When Alan Turing Developed a Portable Voice Encryption Device",
+        "url": "https://it.slashdot.org/story/26/06/20/059229/remembering-when-alan-turing-developed-a-portable-voice-encryption-device?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1781987640000,
+        "summary": "Long-time Slashdot reader smooth wombat writes: Alan Turing, one of the more famous people who worked at Bletchley Park to decipher the German Enigma coding machine, was also working on a separate project. His private papers, known as the Bayley papers for his assistant Donald Bayley who held onto the papers until his death in 2020, reveal Turning had produced a working model of a portable voice e",
+        "tags": [
+          "encryption"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
+      {
         "id": "d50e54958838f065",
         "title": "I self-hosted my email and finally understood why everyone warns against it",
         "url": "https://www.makeuseof.com/self-hosted-email-understood-why-everyone-warns-against-it/",
@@ -1914,22 +1929,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8491
-      },
-      {
-        "id": "7adba7a92232f602",
-        "title": "Hyundai Takes Full Control of Boston Dynamics As SoftBank Exits For $325 Million",
-        "url": "https://hardware.slashdot.org/story/26/06/19/198218/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781899200000,
-        "summary": "Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, \"closing out SoftBank's last piece of Boston Dynamics and turning the Waltham, Massachusetts robotics company into a wholly owned Hyundai business,\" reports Startup Fortune. From the report: The price is $325 million for the remaining stake, according to the deal terms, and it follows the put opt",
-        "tags": [
-          "robot",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0414
       }
     ],
     "ai": [
@@ -1950,6 +1949,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8066
+      },
+      {
+        "id": "5fbfa2d02e9b2a33",
+        "title": "'This might actually force some actual brain cells to fire': Norway is Banning Younger School Kids From Using Generative AI",
+        "url": "https://www.reddit.com/r/technology/comments/1ub6kz0/this_might_actually_force_some_actual_brain_cells/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1781987107000,
+        "summary": "submitted by /u/T_Shurt [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0172
       },
       {
         "id": "1b648f373596b533",
@@ -2836,53 +2851,36 @@
         "score": 1.0381
       },
       {
-        "id": "900fd8b2871a3a54",
-        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-        "url": "https://arxiv.org/abs/2606.19602",
+        "id": "b22819407f284520",
+        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2606.19464",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8233
-      },
-      {
-        "id": "38860db18ddec544",
-        "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
-        "url": "https://arxiv.org/abs/2606.19630",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19630v1 Announce Type: new Abstract: The March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering (SE) became the most downloaded issue in the publication's history and launched a research community that now draws over 250 registrants to its annual workshop. In this article, we trace the progress in AI and SE across three phases (labeled here foundational, applied, and LLM ",
+        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
         "tags": [
           "cs.ai",
-          "cs.dl",
-          "cs.sy",
-          "eess.sy"
+          "cs.ma"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8233
+        "score": 0.8196
       },
       {
-        "id": "6985b53919df0d7d",
-        "title": "Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks",
-        "url": "https://arxiv.org/abs/2606.19741",
+        "id": "d46b8deacf72b9e0",
+        "title": "Benchmarking Agentic Review Systems",
+        "url": "https://arxiv.org/abs/2606.19749",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19741v1 Announce Type: new Abstract: Neural Combinatorial Optimization (NCO) achieves strong performance, yet its black-box nature remains a key roadblock to deployment and scientific diagnosis. Standard interpretability tools, such as Concept Bottleneck Models (CBMs), are ill-equipped for NCO, whose decisions are dynamic, state-dependent, and lack proper concept vocabulary definition. ",
+        "summary": "arXiv:2606.19749v1 Announce Type: new Abstract: A new class of agentic review systems are emerging as a remedy to the pressure placed on peer review systems by AI-assisted research, but it is unclear how they should be evaluated. We evaluate two open-source systems (OpenAIReview and coarse), one proprietary system (Reviewer3), and a zero-shot baseline, across six LLMs spanning frontier and efficie",
         "tags": [
           "cs.ai",
-          "cs.lg"
+          "cs.cl"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8233
+        "score": 0.8196
       }
     ],
     "science": [
