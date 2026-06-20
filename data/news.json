@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T16:17:42.715885+00:00",
+  "generated_at": "2026-06-20T16:45:56.609757+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -958,6 +958,22 @@
     ],
     "innovation": [
       {
+        "id": "d06f5b4fa0f1087c",
+        "title": "A $5 board turned my dumb lamp into a smart one",
+        "url": "https://www.makeuseof.com/board-turned-dumb-lamp-into-smart/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1781973078000,
+        "summary": "I smartened up a lamp for pocket change.",
+        "tags": [
+          "smart home",
+          "esp32"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.846
+      },
+      {
         "id": "e87145da13a4a211",
         "title": "Microsoft Discovers Cryptocurrency Stealer That Spreads Through USB Drives and Uses Tor",
         "url": "https://it.slashdot.org/story/26/06/20/0347206/microsoft-discovers-cryptocurrency-stealer-that-spreads-through-usb-drives-and-uses-tor?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1887,25 +1903,43 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0774
-      },
-      {
-        "id": "4bb0393e5f5b4ce7",
-        "title": "New Unpatchable Exploit Targets Apple Devices With A12 and A13 Chips",
-        "url": "https://it.slashdot.org/story/26/06/19/1723242/new-unpatchable-exploit-targets-apple-devices-with-a12-and-a13-chips?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781892000000,
-        "summary": "Researchers have disclosed a new unpatchable BootROM exploit affecting Apple devices with A12, A13, S4, and S5 chips. The attack requires physical USB access and DFU mode, but can let an attacker run code before iOS loads, bypass signature checks, and boot modified software. 9to5Mac reports the details: In a highly detailed technical post published today, the Paradigm Shift Team details usbliter8,",
-        "tags": [
-          "security",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1311
       }
     ],
     "ai": [
+      {
+        "id": "952e3028db8e56a2",
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781973597000,
+        "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+        "tags": [
+          "ai",
+          "anthropic",
+          "google",
+          "john jumper",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7466
+      },
+      {
+        "id": "15d9761ec758b3df",
+        "title": "SMPTE Opens Entire Standards Catalog for Free, Removing Century-Old Paywall",
+        "url": "https://news.slashdot.org/story/26/06/20/0429254/smpte-opens-entire-standards-catalog-for-free-removing-century-old-paywall?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1781973240000,
+        "summary": "The Society of Motion Picture and Television Engineers has published over 800 technical standards over the years (as a professional association for the media and entertainment industry). But this week SMPTE \"announced that its complete Standards catalog, the technical backbone behind everything from SDI and timecode to IP-based broadcast workflows, is now freely available to anyone in the global m",
+        "tags": [
+          "opensource"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.046
+      },
       {
         "id": "96a74601decd099f",
         "title": "Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn't control after AI use allegations against a winner (Ella Creamer/The Guardian)",
@@ -2832,39 +2866,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9692
-      },
-      {
-        "id": "fff13527d47857b5",
-        "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
-        "url": "https://www.reddit.com/r/technology/comments/1uadpzi/nobel_winner_john_jumper_to_leave_google_deepmind/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781903092000,
-        "summary": "submitted by /u/beasthunterr69 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9187
-      },
-      {
-        "id": "3d68d6aaf67cd252",
-        "title": "Norway Says AI Ain't for Education",
-        "url": "https://www.reddit.com/r/technology/comments/1uad9io/norway_says_ai_aint_for_education/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781901960000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ],
     "science": [
+      {
+        "id": "f37670252ff08fbf",
+        "title": "How much clothing is too much? The math behind having a sustainable wardrobe",
+        "url": "https://phys.org/news/2026-06-math-sustainable-wardrobe.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781973002000,
+        "summary": "Most people suspect they own too many clothes, but they aren't sure exactly what the \"right amount\" is. Recent wardrobe studies, in which researchers literally peek inside people's closets, show the scale of the problem is far greater than most of us imagine.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0148
+      },
       {
         "id": "e36f795030df4660",
         "title": "Faster aptamer screening finds synthetic alternatives to antibodies in days instead of months",
@@ -3301,6 +3320,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0168
+      },
+      {
+        "id": "fd006ae9c2330517",
+        "title": "NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars",
+        "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1781894508000,
+        "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first […]",
+        "tags": [
+          "nasa",
+          "news",
+          "science",
+          "space"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.5593
       },
       {
         "id": "00b0fbdfae214ad4",
@@ -3756,36 +3793,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1007
-      },
-      {
-        "id": "1d7b42009e58ae13",
-        "title": "Five phases of localization physics observed in a single quantum system",
-        "url": "https://phys.org/news/2026-06-phases-localization-physics-quantum.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781866812000,
-        "summary": "Physicists in China have observed five phases in localization physics within a single quantum system. Using an advanced photonic platform, the team, led by Yucheng Wang and Jingyun Fan at the Southern University of Science and Technology, Shenzhen, has demonstrated that localization physics is likely far richer than physicists anticipated. Their results have been published in Physical Review Lette",
-        "tags": [
-          "general physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0937
-      },
-      {
-        "id": "052c20023204f0ca",
-        "title": "NASA mission to study space weather impacts of Earth's atmosphere",
-        "url": "https://phys.org/news/2026-06-nasa-mission-space-weather-impacts.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781866801000,
-        "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth's atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in space.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0127
       }
     ]
   },
