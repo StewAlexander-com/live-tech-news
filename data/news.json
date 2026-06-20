@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T20:51:57.853599+00:00",
+  "generated_at": "2026-06-20T21:04:22.530949+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -964,6 +964,23 @@
     ],
     "innovation": [
       {
+        "id": "1cd476f72abf571e",
+        "title": "My audiobooks deserved their own Plex, and this is it",
+        "url": "https://www.makeuseof.com/my-audiobooks-deserved-their-own-plex-and-this-is-it/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1781989220000,
+        "summary": "Your media server is failing at audiobooks — here's the one built to fix it.",
+        "tags": [
+          "entertainment",
+          "audiobooks",
+          "plex"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8489
+      },
+      {
         "id": "eb75b40918f173e9",
         "title": "Remembering When Alan Turing Developed a Portable Voice Encryption Device",
         "url": "https://it.slashdot.org/story/26/06/20/059229/remembering-when-alan-turing-developed-a-portable-voice-encryption-device?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1911,27 +1928,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0789
-      },
-      {
-        "id": "86e49391b9ea3144",
-        "title": "My files sync between every device with no cloud, no account, and no fee",
-        "url": "https://www.makeuseof.com/files-sync-between-every-device-with-no-cloud-account-fee/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781899219000,
-        "summary": "I ditched cloud storage and synced my files directly between devices instead using Synthing.",
-        "tags": [
-          "productivity",
-          "cloud storage",
-          "storage",
-          "open source"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
       }
     ],
     "ai": [
+      {
+        "id": "3f7655bb7937b16d",
+        "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
+        "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781988066000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0422
+      },
       {
         "id": "561093266b44bb0c",
         "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -2851,39 +2866,37 @@
         "score": 1.0381
       },
       {
-        "id": "b22819407f284520",
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "url": "https://arxiv.org/abs/2606.19464",
+        "id": "900fd8b2871a3a54",
+        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+        "url": "https://arxiv.org/abs/2606.19602",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
+        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
         "tags": [
-          "cs.ai",
-          "cs.ma"
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8196
-      },
-      {
-        "id": "d46b8deacf72b9e0",
-        "title": "Benchmarking Agentic Review Systems",
-        "url": "https://arxiv.org/abs/2606.19749",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19749v1 Announce Type: new Abstract: A new class of agentic review systems are emerging as a remedy to the pressure placed on peer review systems by AI-assisted research, but it is unclear how they should be evaluated. We evaluate two open-source systems (OpenAIReview and coarse), one proprietary system (Reviewer3), and a zero-shot baseline, across six LLMs spanning frontier and efficie",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8196
+        "score": 0.8163
       }
     ],
     "science": [
+      {
+        "id": "cc7bfb170363be2c",
+        "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
+        "url": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781989202000,
+        "summary": "Animal pairs engage in mutual signaling by simultaneously performing a diverse repertoire of behaviors. A famous example is the sophisticated dance (mutual displays) performed by bird pairs.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0186
+      },
       {
         "id": "32edd4ea87c50b08",
         "title": "Sunday is the longest day of the year for half the planet. A guide to the summer solstice",
@@ -3788,21 +3801,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0157
-      },
-      {
-        "id": "f1de82350e7572c8",
-        "title": "Thinking of giving a DNA kit for Father's Day? Psychology researcher warns of 'unexpected outcomes'",
-        "url": "https://phys.org/news/2026-06-dna-kit-father-day-psychology.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781878201000,
-        "summary": "DNA testing kits are often gifted for Father's Day, Christmas and special occasions. The idea of learning more about yourself and unearthing some long-forgotten family history is certainly appealing to many, but a psychologist has warned that these presents can come with profound psychological implications.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0124
       }
     ]
   },
