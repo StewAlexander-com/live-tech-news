@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T20:21:57.574898+00:00",
+  "generated_at": "2026-06-20T20:37:05.670381+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1020,6 +1020,21 @@
         "score": 0.8444
       },
       {
+        "id": "de1d44b90079581d",
+        "title": "Ukraine's war robots are surging into the kill zone",
+        "url": "https://www.reddit.com/r/technology/comments/1ub4b1w/ukraines_war_robots_are_surging_into_the_kill_zone/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1781981441000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9181
+      },
+      {
         "id": "19f63815b74ca928",
         "title": "Waymo Recalls About 3,900 Robotaxis After Some Drove Into 'Freeway Construction Zones'",
         "url": "https://tech.slashdot.org/story/26/06/20/0621217/waymo-recalls-about-3900-robotaxis-after-some-drove-into-freeway-construction-zones?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1915,25 +1930,27 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0414
-      },
-      {
-        "id": "d08eaf8a127e5186",
-        "title": "Switching to Android is now easier than ever — thanks, in part, to Apple",
-        "url": "https://www.makeuseof.com/switching-to-android-is-now-easier-than-ever-thanks-in-part-to-apple/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781897723000,
-        "summary": "This might honestly be Android 17's best new feature",
-        "tags": [
-          "android",
-          "android tips"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8455
       }
     ],
     "ai": [
+      {
+        "id": "561093266b44bb0c",
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781987549000,
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”\"",
+        "tags": [
+          "ai",
+          "security",
+          "meredith whittaker",
+          "signal"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8066
+      },
       {
         "id": "1b648f373596b533",
         "title": "A speculative scenario titled \"Europe 2031\" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race (Aisha Down/The Guardian)",
@@ -2819,6 +2836,38 @@
         "score": 1.0381
       },
       {
+        "id": "d46b8deacf72b9e0",
+        "title": "Benchmarking Agentic Review Systems",
+        "url": "https://arxiv.org/abs/2606.19749",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19749v1 Announce Type: new Abstract: A new class of agentic review systems are emerging as a remedy to the pressure placed on peer review systems by AI-assisted research, but it is unclear how they should be evaluated. We evaluate two open-source systems (OpenAIReview and coarse), one proprietary system (Reviewer3), and a zero-shot baseline, across six LLMs spanning frontier and efficie",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8235
+      },
+      {
+        "id": "0e195394dc073c07",
+        "title": "Grounded Inference: Principles for Deterministically Encapsulated Generative Models",
+        "url": "https://arxiv.org/abs/2606.19753",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19753v1 Announce Type: new Abstract: The incorporation of generative models into traditional computational systems presents both enormous opportunity and tremendous peril. Although many early adopters have realized these perils at great expense, the field still requires foundational frameworks to de-risk incorporation of AI into traditional systems. This manuscript establishes this foun",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8235
+      },
+      {
         "id": "b22819407f284520",
         "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
         "url": "https://arxiv.org/abs/2606.19464",
@@ -2829,55 +2878,6 @@
         "tags": [
           "cs.ai",
           "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1209
-      },
-      {
-        "id": "900fd8b2871a3a54",
-        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-        "url": "https://arxiv.org/abs/2606.19602",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1209
-      },
-      {
-        "id": "38860db18ddec544",
-        "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
-        "url": "https://arxiv.org/abs/2606.19630",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19630v1 Announce Type: new Abstract: The March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering (SE) became the most downloaded issue in the publication's history and launched a research community that now draws over 250 registrants to its annual workshop. In this article, we trace the progress in AI and SE across three phases (labeled here foundational, applied, and LLM ",
-        "tags": [
-          "cs.ai",
-          "cs.dl",
-          "cs.sy",
-          "eess.sy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1209
-      },
-      {
-        "id": "6985b53919df0d7d",
-        "title": "Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks",
-        "url": "https://arxiv.org/abs/2606.19741",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19741v1 Announce Type: new Abstract: Neural Combinatorial Optimization (NCO) achieves strong performance, yet its black-box nature remains a key roadblock to deployment and scientific diagnosis. Standard interpretability tools, such as Concept Bottleneck Models (CBMs), are ill-equipped for NCO, whose decisions are dynamic, state-dependent, and lack proper concept vocabulary definition. ",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
