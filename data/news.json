@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:35:33.577249+00:00",
+  "generated_at": "2026-06-20T07:45:15.372403+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -996,6 +996,26 @@
         "score": 1.0481
       },
       {
+        "id": "35b43dd0b4ebb1ee",
+        "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+        "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+        "source": "The Verge",
+        "lane": "innovation",
+        "published_ts": 1781938800000,
+        "summary": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying […]",
+        "tags": [
+          "accessory reviews",
+          "gadgets",
+          "reviews",
+          "smart home",
+          "smart home reviews",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.843
+      },
+      {
         "id": "8c59dae48e1493eb",
         "title": "Q&A with Signal's Meredith Whittaker on why online child safety efforts risk mass surveillance, leaving the markets that demand weakening of encryption, more (Mishal Husain/Bloomberg)",
         "url": "https://www.techmeme.com/260620/p5#a260620p5",
@@ -1907,25 +1927,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9429
-      },
-      {
-        "id": "cd28230528d4b7ab",
-        "title": "As Jio files for India’s biggest-ever IPO, it’s planning a Starlink rival in orbit",
-        "url": "https://thenextweb.com/news/jio-ipo-filing-leo-satellite-constellation-starlink-india",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781882034000,
-        "summary": "At its annual shareholder meeting on Friday, Reliance unveiled two things at once: paperwork for what could be India’s biggest-ever stock-market listing, and a plan to put a Starlink rival into orbit. Jio Platforms, the digital and telecom arm of Mukesh Ambani’s Reliance Industries, filed draft papers for an initial public offering widely expected to […] This story continues at The Next Web",
-        "tags": [
-          "business",
-          "space",
-          "india",
-          "world",
-          "mobile"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.884
       }
     ],
     "ai": [
@@ -2936,6 +2937,38 @@
         "score": 1.007
       },
       {
+        "id": "4bb7bc307c8048c8",
+        "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+        "url": "https://arxiv.org/abs/2606.19469",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19469v1 Announce Type: new Abstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a p",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9768
+      },
+      {
+        "id": "474943112616c069",
+        "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+        "url": "https://arxiv.org/abs/2606.19538",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19538v1 Announce Type: new Abstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show that this fragmentation reflects not a fundamental diversity in how signals should be processed, but ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9768
+      },
+      {
         "id": "3a1b9b6364f4ad4d",
         "title": "Nanobubbles for algae cleanup: Q&A with researcher Wen Zhang",
         "url": "https://phys.org/news/2026-06-nanobubbles-algae-cleanup-qa-wen.html",
@@ -3789,37 +3822,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7213
-      },
-      {
-        "id": "d00728580562b2f8",
-        "title": "Calibrating Generative Models to Feature Distributions with MMD Finetuning",
-        "url": "https://arxiv.org/abs/2606.19496",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19496v1 Announce Type: new Abstract: Generative models can produce individually plausible samples while deviating substantially from a target set in the distribution of key features. For example, a model pretrained on broad drug-like chemical space may generate molecules whose molecular features differ from those of a therapeutic class of interest, such as known antibiotics. Correcting ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6679
-      },
-      {
-        "id": "b5c28bbf7e241293",
-        "title": "A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling",
-        "url": "https://arxiv.org/abs/2606.19378",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19378v1 Announce Type: new Abstract: Scientific machine learning (SciML) has emerged as a promising approach for accelerating simulations of complex physical systems, yet achieving physically consistent and generalizable predictions for nonlinear, history-dependent problems remains a central challenge. In this study, we propose a hybrid GNN--FEM framework for efficient and generalizable",
-        "tags": [
-          "cs.lg",
-          "cond-mat.mtrl-sci"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7233
       }
     ]
   },
