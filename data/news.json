@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T02:59:40.469083+00:00",
+  "generated_at": "2026-06-20T03:21:28.320160+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2932,6 +2932,21 @@
     ],
     "science": [
       {
+        "id": "3a1b9b6364f4ad4d",
+        "title": "Nanobubbles for algae cleanup: Q&A with researcher Wen Zhang",
+        "url": "https://phys.org/news/2026-06-nanobubbles-algae-cleanup-qa-wen.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781924402000,
+        "summary": "One of the most powerful environmental cleaning technologies in recent years is too small to see with the naked eye. Nanobubbles—tiny gaseous bubbles with diameters of around 100 nanometers—can clean up a range of harmful pollutants in water, from oil spills to algae.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.013
+      },
+      {
         "id": "fb232905ffc5572f",
         "title": "Heatwave hits more than one in two people in France",
         "url": "https://phys.org/news/2026-06-heatwave-people-france.html",
@@ -3756,6 +3771,22 @@
         "score": 1.0173
       },
       {
+        "id": "b5c28bbf7e241293",
+        "title": "A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling",
+        "url": "https://arxiv.org/abs/2606.19378",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19378v1 Announce Type: new Abstract: Scientific machine learning (SciML) has emerged as a promising approach for accelerating simulations of complex physical systems, yet achieving physically consistent and generalizable predictions for nonlinear, history-dependent problems remains a central challenge. In this study, we propose a hybrid GNN--FEM framework for efficient and generalizable",
+        "tags": [
+          "cs.lg",
+          "cond-mat.mtrl-sci"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7233
+      },
+      {
         "id": "4bb7bc307c8048c8",
         "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
         "url": "https://arxiv.org/abs/2606.19469",
@@ -3819,37 +3850,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6888
-      },
-      {
-        "id": "d00728580562b2f8",
-        "title": "Calibrating Generative Models to Feature Distributions with MMD Finetuning",
-        "url": "https://arxiv.org/abs/2606.19496",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19496v1 Announce Type: new Abstract: Generative models can produce individually plausible samples while deviating substantially from a target set in the distribution of key features. For example, a model pretrained on broad drug-like chemical space may generate molecules whose molecular features differ from those of a therapeutic class of interest, such as known antibiotics. Correcting ",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6963
-      },
-      {
-        "id": "c1c24b1547a71cad",
-        "title": "Physics-Informed Discovery of Yield Functions in Plasticity via Convex Neural Representations",
-        "url": "https://arxiv.org/abs/2606.19375",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19375v1 Announce Type: new Abstract: Identifying anisotropic yield functions remains challenging since yielding is not directly observed in full-field mechanical measurements, directional calibration can require many loading directions, and selecting an appropriate analytical form is nontrivial. This study proposes a physics-informed framework for discovering yield functions from full-f",
-        "tags": [
-          "cs.lg",
-          "cond-mat.mtrl-sci"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.131
       }
     ]
   },
