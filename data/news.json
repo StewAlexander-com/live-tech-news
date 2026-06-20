@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T03:29:49.611370+00:00",
+  "generated_at": "2026-06-20T04:36:12.238983+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -983,6 +983,36 @@
     ],
     "innovation": [
       {
+        "id": "8cfc39d0e16b9c5a",
+        "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
+        "url": "https://arxiv.org/abs/2606.19980",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19980v1 Announce Type: new Abstract: Achieving dexterous robotic manipulation in the real world heavily relies on human supervision and algorithm engineering, which becomes a central bottleneck in the pursuit of general physical intelligence. Although emerging coding agents can generate code to automate algorithm search, their successes remain largely confined in digital environments. W",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
+      {
+        "id": "c674df14c2c69475",
+        "title": "Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%",
+        "url": "https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1781926200000,
+        "summary": "Researchers developed an ultrasonic espresso process that uses high-frequency sound waves instead of hot water to produce espresso-strength coffee at room temperature. And, not only did coffee drinkers find it comparable to traditional espresso, but the brewing process cut energy use by up to 75%. An anonymous reader quotes a report from The Conversation: We have developed what we call an ultrason",
+        "tags": [
+          "java"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0279
+      },
+      {
         "id": "fb2015a20cc9e95c",
         "title": "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer",
         "url": "https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html",
@@ -1918,45 +1948,106 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0398
-      },
-      {
-        "id": "3eca2371c8368f01",
-        "title": "This Week in Security: Arch AUR, Steam Marketplace, WordPress All Face Issues, Taco-Themed Coding, and Mythos Makes National News",
-        "url": "https://hackaday.com/2026/06/19/this-week-in-security-arch-aur-steam-marketplace-wordpress-all-face-issues-taco-themed-coding-and-mythos-makes-national-news/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1781877627000,
-        "summary": "Starting on June 11, 2026, the Arch User Repository (AUR) was targeted by malware which rapidly compromised over 1,500 packages. The AUR repository allows for abandoned community packages to be …read more",
-        "tags": [
-          "hackaday columns",
-          "security hacks",
-          "anthropic",
-          "arch",
-          "openbsd",
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0686
-      },
-      {
-        "id": "fa1cd83a2dd23d08",
-        "title": "Epic Games unveils Launcher V2 in re-attempt to topple Steam, says redesigned storefront is up to 6.5x faster — promises player profiles, user reviews, universal controller support, and much more",
-        "url": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-unveils-launcher-v2-in-re-attempt-to-topple-steam-says-redesigned-storefront-is-up-to-6-5x-faster-promises-player-profiles-user-reviews-universal-controller-support-and-much-more",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1781877448000,
-        "summary": "Epic Games has just shown off a new year-long roadmap for its launcher, promising to bring community-requested features and a faster overall platform in the next 12 months.",
-        "tags": [
-          "pc gaming",
-          "video games"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9391
       }
     ],
     "ai": [
+      {
+        "id": "b22819407f284520",
+        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2606.19464",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
+      {
+        "id": "900fd8b2871a3a54",
+        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
+        "url": "https://arxiv.org/abs/2606.19602",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
+      {
+        "id": "38860db18ddec544",
+        "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
+        "url": "https://arxiv.org/abs/2606.19630",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19630v1 Announce Type: new Abstract: The March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering (SE) became the most downloaded issue in the publication's history and launched a research community that now draws over 250 registrants to its annual workshop. In this article, we trace the progress in AI and SE across three phases (labeled here foundational, applied, and LLM ",
+        "tags": [
+          "cs.ai",
+          "cs.dl",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
+      {
+        "id": "6985b53919df0d7d",
+        "title": "Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks",
+        "url": "https://arxiv.org/abs/2606.19741",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19741v1 Announce Type: new Abstract: Neural Combinatorial Optimization (NCO) achieves strong performance, yet its black-box nature remains a key roadblock to deployment and scientific diagnosis. Standard interpretability tools, such as Concept Bottleneck Models (CBMs), are ill-equipped for NCO, whose decisions are dynamic, state-dependent, and lack proper concept vocabulary definition. ",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
+      {
+        "id": "d46b8deacf72b9e0",
+        "title": "Benchmarking Agentic Review Systems",
+        "url": "https://arxiv.org/abs/2606.19749",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19749v1 Announce Type: new Abstract: A new class of agentic review systems are emerging as a remedy to the pressure placed on peer review systems by AI-assisted research, but it is unclear how they should be evaluated. We evaluate two open-source systems (OpenAIReview and coarse), one proprietary system (Reviewer3), and a zero-shot baseline, across six LLMs spanning frontier and efficie",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
+      {
+        "id": "0e195394dc073c07",
+        "title": "Grounded Inference: Principles for Deterministically Encapsulated Generative Models",
+        "url": "https://arxiv.org/abs/2606.19753",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1781928000000,
+        "summary": "arXiv:2606.19753v1 Announce Type: new Abstract: The incorporation of generative models into traditional computational systems presents both enormous opportunity and tremendous peril. Although many early adopters have realized these perils at great expense, the field still requires foundational frameworks to de-risk incorporation of AI into traditional systems. This manuscript establishes this foun",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1209
+      },
       {
         "id": "321ebc3f8c16ac46",
         "title": "How LLMs can be Assisted to do Arithmetic Correctly",
@@ -2830,104 +2921,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0696
-      },
-      {
-        "id": "383e6b281d15226b",
-        "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-        "url": "https://www.reddit.com/r/technology/comments/1ua4jhb/the_ceo_of_allbirds_new_ai_biz_has_a_plan_but_no/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1781881747000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9967
-      },
-      {
-        "id": "0414417aab00dc68",
-        "title": "DaVinci Resolve Studio 21 review: Pro-grade video editing software with some amazing - and terrifying - AI tools",
-        "url": "https://www.techradar.com/pro/software-services/davinci-resolve-studio-21-video-editing-software-review",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781881500000,
-        "summary": "Blackmagic’s DaVinci Resolve Studio is their top of the line desktop video editor. Are the new tools introduced in version 21 worth your time?",
-        "tags": [
-          "software &amp; services",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9168
-      },
-      {
-        "id": "c925615c680af70b",
-        "title": "Google is using Nvidia’s own playbook to break its grip on AI chips",
-        "url": "https://thenextweb.com/news/google-nvidia-playbook-tpu-circular-financing-anthropic",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781881151000,
-        "summary": "To build a serious rival to Nvidia, Google has reached for Nvidia’s own playbook. A Wall Street Journal investigation lays out how Google is using financial guarantees and what the industry calls “circular financing”, the very tactics that helped make demand for Nvidia’s chips unstoppable, to win data-centre customers for its own silicon. The clearest […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "google",
-          "artificial intelligence",
-          "world",
-          "business",
-          "semiconductors"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9502
-      },
-      {
-        "id": "f5a42caa9fc6dddf",
-        "title": "Bernie Sanders files bill proposing 50% public ownership of US AI firms and giving out $1,000 dividends — VP Vance says Trump supports giving the American people a stake in AI companies, prefers ‘pre-distribution’ over giving away cash",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/bernie-sanders-files-bill-proposing-50-percent-public-ownership-of-us-ai-firms-and-giving-out-usd1-000-dividends-vp-vance-says-trump-supports-giving-the-american-people-a-stake-in-ai-companies-prefers-pre-distribution-over-giving-away-cash",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1781880606000,
-        "summary": "U.S. politicians are thinking about how they can ensure that the American people can benefit from AI.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0221
-      },
-      {
-        "id": "f66196989aafc053",
-        "title": "Bcachefs exits experimental status in new 'performance release'",
-        "url": "https://www.theregister.com/software/2026/06/19/bcachefs-exits-experimental-status-in-new-performance-release/5258801",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1781880420000,
-        "summary": "More Rust, but more trouble with AI slop, too",
-        "tags": [
-          "software"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1285
-      },
-      {
-        "id": "d6951c1919abbca9",
-        "title": "Why cybersecurity needs hybrid AI, not platform consolidation",
-        "url": "https://www.techradar.com/pro/why-cybersecurity-needs-hybrid-ai-not-platform-consolidation",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781879602000,
-        "summary": "Artificial intelligence has transformed enterprise cybersecurity into a machine-speed quickdraw contest.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9096
       }
     ],
     "science": [
@@ -3830,8 +3823,8 @@
           "cs.se"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.6744
+        "impact": "high",
+        "score": 1.0379
       },
       {
         "id": "474943112616c069",
@@ -3846,8 +3839,8 @@
           "cs.lg"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.6847
+        "impact": "high",
+        "score": 1.0379
       }
     ]
   },
