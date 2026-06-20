@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T19:25:29.431490+00:00",
+  "generated_at": "2026-06-20T19:50:45.625606+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -966,6 +966,24 @@
     ],
     "innovation": [
       {
+        "id": "0a1c70e9cb69ac79",
+        "title": "I ran a free Microsoft tool and found 161 startup entries Task Manager couldn't see",
+        "url": "https://www.makeuseof.com/a-free-microsoft-tool-exposed-x-startup-entries-task-manager-never-showed-me/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1781983820000,
+        "summary": "I thought my startup was clean until Autoruns proved otherwise.",
+        "tags": [
+          "windows",
+          "windows startup",
+          "windows tips",
+          "software recommendations"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8444
+      },
+      {
         "id": "19f63815b74ca928",
         "title": "Waymo Recalls About 3,900 Robotaxis After Some Drove Into 'Freeway Construction Zones'",
         "url": "https://tech.slashdot.org/story/26/06/20/0621217/waymo-recalls-about-3900-robotaxis-after-some-drove-into-freeway-construction-zones?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1905,27 +1923,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9989
-      },
-      {
-        "id": "98727eb2f08d3755",
-        "title": "These 3 lesser-known Android browsers do what Chrome refuses to",
-        "url": "https://www.makeuseof.com/lesser-known-android-browsers-do-what-chrome-refuses-to/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781895620000,
-        "summary": "Extensions, userscripts, and ad blocking Chrome won't touch — all on Android.",
-        "tags": [
-          "android",
-          "android apps",
-          "browser",
-          "google chrome"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8475
       }
     ],
     "ai": [
+      {
+        "id": "50178124c6e571c2",
+        "title": "In the Weights is your new AI-centric vanity search",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1781984471000,
+        "summary": "So ... what's your In the Weights score?",
+        "tags": [
+          "ai",
+          "in th weights",
+          "joey flynn",
+          "thomas dimson"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8054
+      },
+      {
+        "id": "9aac5ce1bee75ba8",
+        "title": "Tech Pundit Cringely Co-Founds Startup '2Brains Inc' to Solve LLM Hallucinations",
+        "url": "https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1781984040000,
+        "summary": "Long-time tech pundit Robert Cringely started his career at the Stanford Artificial Intelligence Lab back in 1978. Last month 73-year-old Cringely explained why his site went on a two-year hiatus — and it's not just because of a heart attack and a stroke last July: Just like everyone else, I've been busy all this time on Artificial Intelligence, founding with two partners a company called 2Brains.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0444
+      },
       {
         "id": "1023e67ed4ac1a8d",
         "title": "Microsoft CSO acknowledges that humans are struggling to keep up with AI advancement, reckons we've got a 'narrowing window to understand AI' before it's, well, too late",
@@ -2845,42 +2878,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1209
-      },
-      {
-        "id": "321ebc3f8c16ac46",
-        "title": "How LLMs can be Assisted to do Arithmetic Correctly",
-        "url": "https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/",
-        "source": "Hackaday",
-        "lane": "ai",
-        "published_ts": 1781920819000,
-        "summary": "One of the most hilarious things you can do with an LLM-based chatbot is to ask it to do calculations. If it’s a well-written chatbot frontend, it can detect requests …read more",
-        "tags": [
-          "artificial intelligence",
-          "arithmetic",
-          "large language models"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0774
-      },
-      {
-        "id": "a51ac18fe5fcaf54",
-        "title": "'Entirely automating everything is not the future we want': OpenAI CEO Sam Altman lays out his company's vision as it opens a 'third phase' and looks to build technology \"to benefit everyone\"",
-        "url": "https://www.techradar.com/pro/entirely-automating-everything-is-not-the-future-we-want-openai-ceo-sam-altman-lays-out-his-companys-vision-as-it-opens-a-third-phase-and-looks-to-build-technology-to-benefit-everyone",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781917500000,
-        "summary": "OpenAI publishes manifesto that likens the advent of AI to electricity in the 1920s, as it talks about a \"third phase\".",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9172
       }
     ],
     "science": [
+      {
+        "id": "cb4eddd6a6edc123",
+        "title": "Ancient enamel just exposed a hidden human family entanglement that may still echo in your DNA",
+        "url": "https://phys.org/news/2026-05-ancient-enamel-exposed-hidden-human.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781984403000,
+        "summary": "An analysis of ancient teeth is giving scientists a rare peek into interactions between human relatives hundreds of thousands of years ago that have left a lasting imprint on our species.",
+        "tags": [
+          "paleontology & fossils"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0165
+      },
+      {
+        "id": "2ef449a8b3692e30",
+        "title": "Radio scans find no alien tech from the latest interstellar comet",
+        "url": "https://phys.org/news/2026-06-radio-scans-alien-tech-latest.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781984401000,
+        "summary": "The group leading the charge in the search for extraterrestrial life has given the all clear: An interstellar comet looks to be completely natural and free of any alien tech.",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0165
+      },
       {
         "id": "8ebe3e7da2b3eae5",
         "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
@@ -3775,36 +3805,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0726
-      },
-      {
-        "id": "f875d569351e8d60",
-        "title": "Powerful seismic waves from Japan's 2011 earthquake struck Earth's core and bounced back up, moving the island eastward",
-        "url": "https://phys.org/news/2026-06-powerful-seismic-japan-earthquake-struck.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781875204000,
-        "summary": "In 2011, Japan reeled from the effects of a devastating magnitude 9.0 earthquake. But unnoticed in the chaos resulting from the quake, its major aftershocks and the tsunami it caused, something strange happened. About 16 minutes after the earthquake, but before the aftershocks hit, Japan's GPS stations registered an eastward lurch—across the entire country—but unconnected to any specific quake or ",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0147
-      },
-      {
-        "id": "62b275acdd666b6c",
-        "title": "‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings",
-        "url": "https://www.reddit.com/r/technology/comments/1ua1nfy/its_a_scam_americans_express_unease_over_spacexs/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1781874727000,
-        "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9427
       }
     ]
   },
