@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T21:24:02.326943+00:00",
+  "generated_at": "2026-06-20T21:38:17.269369+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2861,22 +2861,38 @@
         "score": 1.0381
       },
       {
-        "id": "900fd8b2871a3a54",
-        "title": "Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why",
-        "url": "https://arxiv.org/abs/2606.19602",
+        "id": "b22819407f284520",
+        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2606.19464",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19602v1 Announce Type: new Abstract: Patient contexts span hundreds of heterogeneous documents and thousands of structured data points, yet the document-level metadata that AI systems need for retrieval and triage is absent or incomplete. Standard retrieval-augmented generation fails on this data, mishandling temporal reasoning, cross-document dependencies, and missing metadata. We depl",
+        "summary": "arXiv:2606.19464v1 Announce Type: new Abstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the fu",
         "tags": [
-          "cs.ai"
+          "cs.ai",
+          "cs.ma"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8112
+        "score": 0.8075
       }
     ],
     "science": [
+      {
+        "id": "5075e08953668a5b",
+        "title": "Sonic booms from meteors can release the energy of hundreds of tons of TNT. Here's how they work",
+        "url": "https://phys.org/news/2026-06-sonic-booms-meteors-energy-hundreds.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1781991001000,
+        "summary": "As humans, we live out our lives on a planet that is constantly sweeping through a cosmic ocean littered with ancient debris from the formation of the solar system. For the most part, our world glides silently through space, shielded by Earth's thin atmosphere.",
+        "tags": [
+          "planetary sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
       {
         "id": "cc7bfb170363be2c",
         "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
@@ -3777,21 +3793,6 @@
         "summary": "Whether someone prefers Lionel Messi or Cristiano Ronaldo—arguably two of the world's greatest footballers today—may be associated with their political outlook, according to the results of an international survey led by Nanyang Technological University, Singapore (NTU Singapore).",
         "tags": [
           "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0157
-      },
-      {
-        "id": "a00a47e81e0de15d",
-        "title": "Bullet Cluster observations reopen dark matter debate with MOND-compatible explanation",
-        "url": "https://phys.org/news/2026-06-bullet-cluster-reopen-dark-debate.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781878806000,
-        "summary": "The Bullet Cluster has so far been considered evidence of the existence of dark matter. An international team of researchers has now analyzed new data and current images from the James Webb Space Telescope (JWST). According to the team, the observations are also consistent with an alternative explanation that does not involve dark matter. If the latter is, in fact, present, it is likely to be in s",
-        "tags": [
-          "astronomy"
         ],
         "paywall": false,
         "impact": "high",
