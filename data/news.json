@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T01:53:59.652728+00:00",
+  "generated_at": "2026-06-20T02:07:57.881348+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1958,6 +1958,23 @@
     ],
     "ai": [
       {
+        "id": "321ebc3f8c16ac46",
+        "title": "How LLMs can be Assisted to do Arithmetic Correctly",
+        "url": "https://hackaday.com/2026/06/19/how-llms-can-be-assisted-to-do-arithmetic-correctly/",
+        "source": "Hackaday",
+        "lane": "ai",
+        "published_ts": 1781920819000,
+        "summary": "One of the most hilarious things you can do with an LLM-based chatbot is to ask it to do calculations. If it’s a well-written chatbot frontend, it can detect requests …read more",
+        "tags": [
+          "artificial intelligence",
+          "arithmetic",
+          "large language models"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0774
+      },
+      {
         "id": "a51ac18fe5fcaf54",
         "title": "'Entirely automating everything is not the future we want': OpenAI CEO Sam Altman lays out his company's vision as it opens a 'third phase' and looks to build technology \"to benefit everyone\"",
         "url": "https://www.techradar.com/pro/entirely-automating-everything-is-not-the-future-we-want-openai-ceo-sam-altman-lays-out-his-companys-vision-as-it-opens-a-third-phase-and-looks-to-build-technology-to-benefit-everyone",
@@ -1972,6 +1989,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9172
+      },
+      {
+        "id": "a2c06b32f4385eb0",
+        "title": "I solved my mystery fatigue with AI",
+        "url": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1781916474000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1052
       },
       {
         "id": "17569cc8d269601b",
@@ -2897,38 +2930,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9601
-      },
-      {
-        "id": "c7b4b4bcaf49f6c9",
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781878529000,
-        "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-        "tags": [
-          "ai",
-          "news",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7875
-      },
-      {
-        "id": "525564fc51551df9",
-        "title": "As growth gets harder, AI emerges as the key to MSP success",
-        "url": "https://www.techradar.com/pro/as-growth-gets-harder-ai-emerges-as-the-key-to-msp-success",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1781877353000,
-        "summary": "Artificial Intelligence has become a defining factor in the Managed Service Provider market.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9173
       }
     ],
     "science": [
@@ -3757,6 +3758,22 @@
         "score": 1.0173
       },
       {
+        "id": "8a4e9cf6fcd4733f",
+        "title": "Zero-Inflated Gaussian Distributions Enable Parameter-Space Sparsity in Estimation-of-Distribution Algorithms",
+        "url": "https://arxiv.org/abs/2606.19369",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1781841600000,
+        "summary": "arXiv:2606.19369v1 Announce Type: new Abstract: Estimation-of-distribution algorithms (EDAs) are a powerful class of evolutionary methods for black-box optimization, especially when little is known about the structure of the objective. Whereas classical evolutionary algorithms rely on hand-designed mutation and crossover operators, hard to devise for unknown problem structures, and a source of bia",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6857
+      },
+      {
         "id": "d6811713cab9c549",
         "title": "3D-DLP: Self-Supervised 3D Object-Centric Scene Representation Learning",
         "url": "https://arxiv.org/abs/2606.19451",
@@ -3831,22 +3848,6 @@
         "tags": [
           "cs.ai",
           "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0472
-      },
-      {
-        "id": "474943112616c069",
-        "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-        "url": "https://arxiv.org/abs/2606.19538",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1781841600000,
-        "summary": "arXiv:2606.19538v1 Announce Type: new Abstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show that this fragmentation reflects not a fundamental diversity in how signals should be processed, but ",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
