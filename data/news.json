@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-06-21T18:10:13.532763+00:00",
+  "generated_at": "2026-06-21T18:24:24.479213+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f14ed3d66a521745",
+        "title": "After Six Years Of Work and Over 360 Patches, Linux 7.2 Finally Removes Bug-Prone strncpy",
+        "url": "https://linux.slashdot.org/story/26/06/21/1810200/after-six-years-of-work-and-over-360-patches-linux-72-finally-removes-bug-prone-strncpy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "gadgets",
+        "published_ts": 1782065520000,
+        "summary": "Tech Times reports: Linux 7.2's merge window closed out a cleanup campaign on Friday that most kernel developers had stopped expecting to see end: the complete removal of strncpy(), a C string-copy function that the kernel's own documentation labels \"actively dangerous,\" from every subsystem, driver, and architecture-specific file in the kernel source tree. The merge landed June 20, 2026. After ar",
+        "tags": [
+          "linux"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0458
+      },
       {
         "id": "67c4e2a92c91c671",
         "title": "Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures (Kieran Smith/Financial Times)",
@@ -968,19 +983,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8403
-      },
-      {
-        "id": "0fb73af87094b924",
-        "title": "AirPods Can Measure Your Heart Rate, but Are They Accurate?",
-        "url": "https://www.cnet.com/tech/mobile/airpods-vs-apple-watch-heart-rate-accuracy/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1781967639000,
-        "summary": "I tested them against the Apple Watch and the Polar chest strap to find out whether you can trust them for your workouts.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8096
       }
     ],
     "innovation": [
@@ -2230,7 +2232,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9462
+        "score": 1.1768
       },
       {
         "id": "b75838c26e674aba",
@@ -2937,6 +2939,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0173
+      },
+      {
+        "id": "61e9f322df70f3e8",
+        "title": "Tested: Microsoft just debloated Windows 11 Search without Bing, and it's crazy fast",
+        "url": "https://www.reddit.com/r/technology/comments/1ubwm5g/tested_microsoft_just_debloated_windows_11_search/",
+        "source": "Reddit r/technology",
+        "lane": "science",
+        "published_ts": 1782064683000,
+        "summary": "submitted by /u/Quantum-Coconut [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0174
       },
       {
         "id": "a33250ebc4afc5a9",
@@ -3822,24 +3839,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0168
-      },
-      {
-        "id": "fd006ae9c2330517",
-        "title": "NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars",
-        "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
-        "source": "The Verge",
-        "lane": "science",
-        "published_ts": 1781894508000,
-        "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first […]",
-        "tags": [
-          "nasa",
-          "news",
-          "science",
-          "space"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5593
       }
     ]
   },
