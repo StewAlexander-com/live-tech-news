@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T21:20:19.007792+00:00",
+  "generated_at": "2026-06-21T21:40:52.990023+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -985,6 +985,19 @@
     ],
     "innovation": [
       {
+        "id": "47bd854d2d76341f",
+        "title": "Mux — Video for Developers",
+        "url": "https://www.mux.com/?utm_campaign=fireball&utm_source=DF",
+        "source": "Daring Fireball",
+        "lane": "innovation",
+        "published_ts": 1782077748000,
+        "summary": "My thanks to Mux for sponsoring Daring Fireball last week. Video is a boatload of data. Every video file in your product contains audio, objects, and scenes that most stacks can’t read or access. Mux Robots turns that data into video intelligence. Configure your video workflows once, and they run automatically on every new upload: ask questions, summarize, find key moments, and more. No asset webh",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0782
+      },
+      {
         "id": "94709d5bcd91892e",
         "title": "My smart home could unlock the door for me, and I'll never let it",
         "url": "https://www.makeuseof.com/why-ill-never-use-smart-home-lock/",
@@ -1932,24 +1945,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9408
-      },
-      {
-        "id": "eb75b40918f173e9",
-        "title": "Remembering When Alan Turing Developed a Portable Voice Encryption Device",
-        "url": "https://it.slashdot.org/story/26/06/20/059229/remembering-when-alan-turing-developed-a-portable-voice-encryption-device?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781987640000,
-        "summary": "Long-time Slashdot reader smooth wombat writes: Alan Turing, one of the more famous people who worked at Bletchley Park to decipher the German Enigma coding machine, was also working on a separate project. His private papers, known as the Bayley papers for his assistant Donald Bayley who held onto the papers until his death in 2020, reveal Turning had produced a working model of a portable voice e",
-        "tags": [
-          "encryption"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.044
       }
     ],
     "ai": [
+      {
+        "id": "0e4d9568b275a644",
+        "title": "The Anatomy of an AI-Native Org",
+        "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782077659000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1316
+      },
+      {
+        "id": "7339e29f76f25848",
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782077383000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1299
+      },
       {
         "id": "07554c5737047544",
         "title": "As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency (Marilen Martin/Bloomberg)",
@@ -2879,42 +2909,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9163
-      },
-      {
-        "id": "db17fa6ad37e45c2",
-        "title": "I compared free Claude and free Gemini for real work, and only one is actually good for heavy daily use",
-        "url": "https://www.makeuseof.com/compared-free-claude-free-gemini-for-real-work-one-good-daily-use/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1781982019000,
-        "summary": "Claude's free tier runs out fast, but Gemini keeps working — here's what that means for real work.",
-        "tags": [
-          "productivity",
-          "claude",
-          "google gemini",
-          "machine learning"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8471
-      },
-      {
-        "id": "fdea89e4eabdc56a",
-        "title": "The Atlantic created a searchable database of the music used to train AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1781981208000,
-        "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]",
-        "tags": [
-          "ai",
-          "entertainment",
-          "music",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8537
       }
     ],
     "science": [
