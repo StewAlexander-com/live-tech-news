@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-06-21T04:03:26.241404+00:00",
+  "generated_at": "2026-06-21T05:20:22.245319+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6313c6c9e19fbec5",
+        "title": "'From' EPs Talk Season 4's Man in Yellow and Murderous Dolls",
+        "url": "https://www.cnet.com/tech/services-and-software/from-eps-talk-season-4s-man-in-yellow-murderous-dolls-and-a-focus-on-the-fans/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1782014507000,
+        "summary": "I chatted with John Griffin, Jeff Pinkner and Jack Bender about the penultimate season.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7996
+      },
       {
         "id": "6e8d3c120c48735c",
         "title": "The 4 turntables they really want on Graduation Day — or for their new apartment — as picked by an audio editor",
@@ -946,27 +959,55 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8084
-      },
-      {
-        "id": "8d71604bf72f7ed6",
-        "title": "I reviewed Klipsch's The Nines II powered stereo speakers, and they're definitely keepers — great sound and nice features in a compact size (though it helps if you're feeling strong)",
-        "url": "https://www.techradar.com/audio/speakers/klipsch-the-nines-ii-review",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781917200000,
-        "summary": "The Klipsch The Nines II are a great-sounding set of speakers that come with a surprising price bump.",
-        "tags": [
-          "speakers",
-          "wireless &amp; bluetooth speakers",
-          "audio",
-          "hi-fi"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8479
       }
     ],
     "innovation": [
+      {
+        "id": "0cd395e90474bf58",
+        "title": "Inside Palantir's fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause (Financial Times)",
+        "url": "https://www.techmeme.com/260621/p2#a260621p2",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782018901000,
+        "summary": "Financial Times: Inside Palantir's fight to save its £330M, seven-year contract with NHS England, as public and political pressure grows to end the deal via a 2027 break clause — Critics question how the tech giant won a showpiece contract. It complains about the politicisation of procurement.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9983
+      },
+      {
+        "id": "57a762373b137d11",
+        "title": "Brazil takes its National Civil Defense warning platform offline after suspected hackers send an unauthorized alert to mobile phones in several states (Mariana Catacci/CNN)",
+        "url": "https://www.techmeme.com/260621/p1#a260621p1",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782018901000,
+        "summary": "Mariana Catacci / CNN: Brazil takes its National Civil Defense warning platform offline after suspected hackers send an unauthorized alert to mobile phones in several states — An unauthorized alert bearing a mysterious message that was sent to cell phones in several states across Brazil on Saturday morning …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9983
+      },
+      {
+        "id": "94cf6ae2d9e7fefc",
+        "title": "Bernoulli Disk Goes “Wii!” When Plugged Into WiiU",
+        "url": "https://hackaday.com/2026/06/20/bernoulli-disk-goes-wii-when-plugged-into-wiiu/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782018000000,
+        "summary": "The Bernoulli disk was a wild piece of 1980s hardware. Take a big floppy. Spin the platter at 1500 RPM just a micron or so from a read head. The …read more",
+        "tags": [
+          "games",
+          "retrocomputing",
+          "bernoulli",
+          "bernoulli drive",
+          "iomega",
+          "retrocomputing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.073
+      },
       {
         "id": "82b175385358a6aa",
         "title": "Autopsy of a Freshly Cooked 10Gbit SFP+ Network Adapter",
@@ -1016,6 +1057,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.035
+      },
+      {
+        "id": "d05626c0ceabbc9a",
+        "title": "This startup built a fish-killing robot and chefs love the results | \"The machine scans each fish with computer vision, identifies the species, and locates the brain. It then pierces the brain and severs the gills, so the fish dies before it can thrash or suffocate.\"",
+        "url": "https://www.reddit.com/r/technology/comments/1ubd06n/this_startup_built_a_fishkilling_robot_and_chefs/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782004858000,
+        "summary": "submitted by /u/TylerFortier_Photo [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9501
       },
       {
         "id": "6f83ae62c4e107c6",
@@ -1873,62 +1929,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9958
-      },
-      {
-        "id": "8cfc39d0e16b9c5a",
-        "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
-        "url": "https://arxiv.org/abs/2606.19980",
-        "source": "arXiv cs.AI",
-        "lane": "innovation",
-        "published_ts": 1781928000000,
-        "summary": "arXiv:2606.19980v1 Announce Type: new Abstract: Achieving dexterous robotic manipulation in the real world heavily relies on human supervision and algorithm engineering, which becomes a central bottleneck in the pursuit of general physical intelligence. Although emerging coding agents can generate code to automate algorithm search, their successes remain largely confined in digital environments. W",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1209
-      },
-      {
-        "id": "c674df14c2c69475",
-        "title": "Using Sound Waves To Make Espresso Could Cut Coffee-Brewing Energy Use By 75%",
-        "url": "https://developers.slashdot.org/story/26/06/19/2159245/using-sound-waves-to-make-espresso-could-cut-coffee-brewing-energy-use-by-75?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781926200000,
-        "summary": "Researchers developed an ultrasonic espresso process that uses high-frequency sound waves instead of hot water to produce espresso-strength coffee at room temperature. And, not only did coffee drinkers find it comparable to traditional espresso, but the brewing process cut energy use by up to 75%. An anonymous reader quotes a report from The Conversation: We have developed what we call an ultrason",
-        "tags": [
-          "java"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0279
-      },
-      {
-        "id": "fb2015a20cc9e95c",
-        "title": "Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer",
-        "url": "https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1781918969000,
-        "summary": "Ben Chapman, reporting for The Independent in 2019: After 40 years of advertising its lager as “Probably the best beer in the world”, Danish brewer Carlsberg has confessed that the famous slogan may not be true. Reacting to falling sales and increasingly harsh comments from drinkers about the taste of its beer, Carlsberg has launched a new recipe along with a more honest approach to marketing. The",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0715
-      },
-      {
-        "id": "0937f9578a567484",
-        "title": "‘What’s the Deal With Old Guys and Giant Glasses?’",
-        "url": "https://www.youtube.com/watch?v=8DYGxn6Xvt0",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1781918479000,
-        "summary": "Early adoption of new technology is generally considered a young-person thing, but maybe Snap Specs will turn that notion on its head. Direct sales in retirement homes? ★",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0687
       }
     ],
     "ai": [
@@ -2875,6 +2875,21 @@
     ],
     "science": [
       {
+        "id": "81efebe3d3216758",
+        "title": "Polymarket Paid Dozens to Post Videos of Themselves 'Winning' With Fake Bets",
+        "url": "https://tech.slashdot.org/story/26/06/21/0429257/polymarket-paid-dozens-to-post-videos-of-themselves-winning-with-fake-bets?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1782016440000,
+        "summary": "In January a college student posted a video showing him winning $100,000 on Polymarket — one of 145 that appeared to show bets adding up to almost $410,000, reports the Wall Street Journal. \"But none of those bets were real.\" Instead its creator was \"one of dozens of mostly college-age creators Polymarket paid to film themselves making fake trades and sometimes scoring fake wins,\" the Journal repo",
+        "tags": [
+          "social"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0345
+      },
+      {
         "id": "d8b5328c14290ea4",
         "title": "Bat rays employ a chemical cue to warn others of danger",
         "url": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html",
@@ -3778,21 +3793,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0118
-      },
-      {
-        "id": "0e4932fbbcea7b31",
-        "title": "Shining light into unhatched eggs could allow for chicken 'gender reveals'",
-        "url": "https://phys.org/news/2026-06-unhatched-eggs-chicken-gender-reveals.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781881201000,
-        "summary": "Scientists have demonstrated a noninvasive technique that uses light to reveal the hidden contents of chicken eggs, potentially helping to curb the meat industry's practice of killing billions of male chicks at birth. The study, published in Newton, found that when light enters an intact bird eggshell, it bounces back and forth many times, with photons traveling as far as 2 meters (6.6 feet) withi",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
       }
     ]
   },
