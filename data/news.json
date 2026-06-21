@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T16:53:23.624509+00:00",
+  "generated_at": "2026-06-21T17:00:57.574850+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -981,6 +981,23 @@
     ],
     "innovation": [
       {
+        "id": "7a2e53e0910be5ae",
+        "title": "When a Favicon Becomes the Entire Website",
+        "url": "https://hackaday.com/2026/06/21/when-a-favicon-becomes-the-entire-website/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782061200000,
+        "summary": "Putting hidden data in places where few expect it can be a fun hobby or even a professional career. In the case of [Tim Wehrle] it’s just the former. His …read more",
+        "tags": [
+          "internet hacks",
+          "favicon",
+          "html"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0797
+      },
+      {
         "id": "a45b019340e54fae",
         "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
         "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
@@ -994,7 +1011,7 @@
           "polymarket"
         ],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.7461
       },
       {
@@ -1942,24 +1959,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.888
-      },
-      {
-        "id": "e87145da13a4a211",
-        "title": "Microsoft Discovers Cryptocurrency Stealer That Spreads Through USB Drives and Uses Tor",
-        "url": "https://it.slashdot.org/story/26/06/20/0347206/microsoft-discovers-cryptocurrency-stealer-that-spreads-through-usb-drives-and-uses-tor?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1781969640000,
-        "summary": "Ars Technica's senior security editor reports: Microsoft says it has detected new self-propagating malware that spreads through USB drives in search of cryptocurrency credentials, which it then sends to attacker-controlled servers. The company named the worm Crypto Clipper because it monitors the contents of device clipboards for patterns consistent with wallet addresses or seed phrases. When foun",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0478
       }
     ],
     "ai": [
+      {
+        "id": "bee5abc034b4010b",
+        "title": "AI is a mass psychotic delusion [video]",
+        "url": "https://www.youtube.com/watch?v=WNiSUGCC-gY",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782060527000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1296
+      },
       {
         "id": "977a3bd63b4d9b59",
         "title": "US Bill Would Mandate AI Chip Location Tracking to Thwart China and Other Adversaries",
@@ -1990,6 +2008,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1238
+      },
+      {
+        "id": "d2e45e6d2d9f7a4c",
+        "title": "Nearly 60% of TikTok videos shown to new users are AI slop, study finds",
+        "url": "https://thenextweb.com/news/tiktok-ai-slop-59-percent-new-users-kapwing-study",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782058334000,
+        "summary": "Nearly six out of every ten videos TikTok serves to a brand-new account are AI-generated junk. That is the central finding of a report published by video editing platform Kapwing, which analysed 10,742 TikTok videos across 20 popular categories and separately examined the first 500 videos shown on the For You page of a freshly […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "next featured",
+          "tiktok",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9569
       },
       {
         "id": "8d5c462fbe2c6061",
@@ -2886,41 +2922,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7466
-      },
-      {
-        "id": "15d9761ec758b3df",
-        "title": "SMPTE Opens Entire Standards Catalog for Free, Removing Century-Old Paywall",
-        "url": "https://news.slashdot.org/story/26/06/20/0429254/smpte-opens-entire-standards-catalog-for-free-removing-century-old-paywall?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1781973240000,
-        "summary": "The Society of Motion Picture and Television Engineers has published over 800 technical standards over the years (as a professional association for the media and entertainment industry). But this week SMPTE \"announced that its complete Standards catalog, the technical backbone behind everything from SDI and timecode to IP-based broadcast workflows, is now freely available to anyone in the global m",
-        "tags": [
-          "opensource"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.046
-      },
-      {
-        "id": "35a80ce682bf4f5e",
-        "title": "Harvard Business Review warns AI ‘workslop’ is rotting companies from the inside",
-        "url": "https://thenextweb.com/news/ai-workslop-knowledge-decay-harvard-business-review-productivity",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1781973021000,
-        "summary": "Companies that pushed hardest to adopt generative AI are now contending with a problem the technology was supposed to prevent: their work is getting worse. Two articles published by Harvard Business Review this month describe a feedback loop in which AI-generated low-quality output degrades the information companies rely on to make decisions, a phenomenon the […] This story continues at The Next W",
-        "tags": [
-          "artificial intelligence",
-          "next featured",
-          "corporates and innovation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9645
       }
     ],
     "science": [
+      {
+        "id": "07d48de4e5813a8c",
+        "title": "NASA testing advanced capabilities for moon, Mars rovers",
+        "url": "https://phys.org/news/2026-06-nasa-advanced-capabilities-moon-mars-1.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782061201000,
+        "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the ability to traverse challenging landscapes.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
       {
         "id": "fa24725f715a000d",
         "title": "Stress gives bees sharper vision and faster reactions, researchers discover",
@@ -3823,21 +3842,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0175
-      },
-      {
-        "id": "71d105ab3372ca52",
-        "title": "A new way to control tiny quantum light sources by twisting atomically thin layers of hexagonal boron nitride",
-        "url": "https://phys.org/news/2026-06-tiny-quantum-sources-atomically-thin.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781892006000,
-        "summary": "In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies can be used reliably in real-world systems.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0988
       }
     ]
   },
