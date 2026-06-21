@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-06-21T17:52:07.764201+00:00",
+  "generated_at": "2026-06-21T18:08:27.116692+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "67c4e2a92c91c671",
+        "title": "Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures (Kieran Smith/Financial Times)",
+        "url": "https://www.techmeme.com/260621/p7#a260621p7",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1782064501000,
+        "summary": "Kieran Smith / Financial Times: Sources: Virgin Media O2 and VodafoneThree have deployed tech to disable phones stolen from their stores, after phone makers resisted broader antitheft measures — Virgin Media O2 and VodafoneThree's move comes after Apple and Samsung resisted calls to adopt broader measures",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9957
+      },
       {
         "id": "5f7c896dce8e68ea",
         "title": "Adobe's free Photoshop rival scores a huge hit as Microsoft bundles it with its flagship Surface laptop, tablets, and hints at something big with a 'partnership that runs deeper than a touchpad gesture'",
@@ -968,26 +981,27 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8096
-      },
-      {
-        "id": "d296a89fd6787392",
-        "title": "Apple’s new Child Safety features ‘don't get to where the harm is happening,’ online safety expert says — pushing responsibility to iPhone app developers poses a ‘huge risk’ to kids despite ‘genuine progress’",
-        "url": "https://www.techradar.com/phones/ios/apples-new-child-safety-features-dont-get-to-where-the-harm-is-happening-online-safety-expert-says-pushing-responsibility-to-iphone-app-developers-poses-a-huge-risk-to-kids-despite-genuine-progress",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781967600000,
-        "summary": "We spoke to SafeToNet CEO Richard Pursey about where Big Tech companies like Apple are still falling short when it comes to child safety.",
-        "tags": [
-          "ios",
-          "iphone",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8498
       }
     ],
     "innovation": [
+      {
+        "id": "e6238ae73fb7a1cc",
+        "title": "Windows' fastest file copier has no window, and it shipped in 1997",
+        "url": "https://www.makeuseof.com/windows-fastest-file-copier-has-no-window-and-it-shipped-in-1997/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782064819000,
+        "summary": "If your favorite Windows utility has rounded corners, you're probably not using the fastest one.",
+        "tags": [
+          "windows",
+          "file management",
+          "windows 11",
+          "windows 10"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8478
+      },
       {
         "id": "fa22bb6bb3681d0e",
         "title": "6 search engines that find the internet that Google forgot",
@@ -1945,23 +1959,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0444
-      },
-      {
-        "id": "0ddd9f99ecc61038",
-        "title": "Two new Excel functions replaced every pivot table I used to build",
-        "url": "https://www.makeuseof.com/two-excel-functions-replaced-every-pivot-table/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781976619000,
-        "summary": "Excel formulas are getting scary good.",
-        "tags": [
-          "productivity",
-          "microsoft excel",
-          "spreadsheet tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8492
       }
     ],
     "ai": [
@@ -2218,6 +2215,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0234
+      },
+      {
+        "id": "0cb514a44c8bcc38",
+        "title": "Identity verification on Claude",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782045853000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:137"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9462
       },
       {
         "id": "b75838c26e674aba",
@@ -2907,24 +2920,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8882
-      },
-      {
-        "id": "d77d15ea20d6a2b3",
-        "title": "Ancient Mongolian cemetery reveals power and status mattered more than blood ties",
-        "url": "https://phys.org/news/2026-06-ancient-mongolian-cemetery-reveals-power.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1781974801000,
-        "summary": "On the edge of the Mongolian steppe, overlooking where two rivers meet, lies an ancient cemetery. Buried within are two families, traced through ancient DNA across six generations, surrounded by dozens of \"strangers.\" The obvious assumption is that this was a family cemetery. But a recent study used machine learning and a technique borrowed from evolutionary biology to reveal that what really matt",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0957
       }
     ],
     "science": [
+      {
+        "id": "f684c62c21a578b9",
+        "title": "Modular nanorobot self-assembles, targets cancer cells and cuts viability",
+        "url": "https://phys.org/news/2026-06-modular-nanorobot-cancer-cells-viability.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782064803000,
+        "summary": "A team at the University of Basel, Switzerland, has developed a versatile nanorobot with propulsion and payload modules. The two reusable modules autonomously self-assemble and could be used in medicine or industry.",
+        "tags": [
+          "bio & medicine"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0173
+      },
       {
         "id": "a33250ebc4afc5a9",
         "title": "MINDY3: A hub between protein quality control and DNA repair",
@@ -3827,21 +3840,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.5593
-      },
-      {
-        "id": "00b0fbdfae214ad4",
-        "title": "15-atom iridium nanoclusters stay stable 20 hours, outperform commercial catalysts",
-        "url": "https://phys.org/news/2026-06-atom-iridium-nanoclusters-stay-stable.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781894401000,
-        "summary": "An international research team from Tohoku University, Tokyo University of Science, Vanderbilt University and the University of Adelaide has discovered a novel, exceptionally simple method to precisely synthesize extremely small iridium nanoclusters in ambient air. Such a feat was previously considered highly challenging. In addition, the nanoclusters outperform conventional, commercially availabl",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
       }
     ]
   },
