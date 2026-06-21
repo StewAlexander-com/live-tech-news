@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T14:29:10.548496+00:00",
+  "generated_at": "2026-06-21T14:40:35.115222+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -976,6 +976,40 @@
     ],
     "innovation": [
       {
+        "id": "3020eae4fab8ff2a",
+        "title": "I never open a new Obsidian vault without making these changes first",
+        "url": "https://www.makeuseof.com/obsidian-vault-changes-before-use/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782052218000,
+        "summary": "Don't touch Obsidian until you've done this.",
+        "tags": [
+          "productivity",
+          "obsidian",
+          "note-taking apps"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8472
+      },
+      {
+        "id": "cfa28f6871451aa1",
+        "title": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
+        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
+        "source": "Tom's Hardware",
+        "lane": "innovation",
+        "published_ts": 1782052039000,
+        "summary": "NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental DLSS support.",
+        "tags": [
+          "gpu drivers",
+          "pc components",
+          "gpus"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.946
+      },
+      {
         "id": "58da9146f0cb4609",
         "title": "Hacking the Mi Band 10 Smart Band and its Bestechnic SoC",
         "url": "https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/",
@@ -1915,45 +1949,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8815
-      },
-      {
-        "id": "6adc1c1a65874115",
-        "title": "TeamViewer lost me to a lightweight open-source tool I now run myself",
-        "url": "https://www.makeuseof.com/rustdesk-teamviewer-alternative-self-hosted-remote-desktop/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1781949617000,
-        "summary": "I can self-host and use it without the usual restrictions that TeamViewer imposed.",
-        "tags": [
-          "windows",
-          "windows apps",
-          "remote desktop",
-          "teamviewer"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8452
-      },
-      {
-        "id": "762dc772d815243e",
-        "title": "BYD rejects claims it violated Hungary’s environmental rules at its Szeged EV factory",
-        "url": "https://thenextweb.com/news/byd-rejects-hungary-environmental-violations-szeged-factory",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1781945395000,
-        "summary": "BYD executive vice president Stella Li said the Chinese automaker has complied with all environmental regulations at its Szeged factory in Hungary, pushing back against allegations that the company violated its obligations during construction. Li made the comments at a press conference in Belgrade on Friday, where she met with Serbian President Aleksandar Vucic to […] This story continues at The N",
-        "tags": [
-          "cars",
-          "next featured",
-          "electric vehicle",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8926
       }
     ],
     "ai": [
+      {
+        "id": "bb210fe325e7b5eb",
+        "title": "Canonical's Upcoming AI Tool: Talk to Ubuntu Instead of Typing",
+        "url": "https://news.slashdot.org/story/26/06/21/0234252/canonicals-upcoming-ai-tool-talk-to-ubuntu-instead-of-typing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1782052440000,
+        "summary": "This week the Ubuntu desktop's director of engineering announced they're bringing speech-to-text dictation to Ubuntu Desktop, aiming for an experience \"that feels like a natural part of the desktop while respecting user privacy and running entirely on local hardware.\" \"Speech recognition has become a common feature on modern platforms, and we think it should be a first-class experience on Ubuntu D",
+        "tags": [
+          "ubuntu"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1316
+      },
       {
         "id": "f8def5dcf955c2ae",
         "title": "Ubisoft co-founder Claude Guillemot dies in plane crash — French publisher established in 1986 became one of the biggest entertainment companies in the world",
@@ -2893,26 +2906,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.904
-      },
-      {
-        "id": "27037123656388ab",
-        "title": "I almost gave up on Gemini, then I connected my everyday apps and it clicked",
-        "url": "https://www.makeuseof.com/connect-apps-to-gemini-android-for-personal-intelligence/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1781965819000,
-        "summary": "Context is Gemini's advantage.",
-        "tags": [
-          "productivity",
-          "google gemini",
-          "android apps"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8417
       }
     ],
     "science": [
+      {
+        "id": "bbc651b5c650b489",
+        "title": "Arctic marine heat waves surge since 1980s, with record event lasting 480 days",
+        "url": "https://phys.org/news/2026-06-arctic-marine-surge-1980s-event.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782052801000,
+        "summary": "In recent years, marine heat waves have been taking an ever-greater toll on the world's oceans and their ecosystems. Amplified by increasing global warming, these events are occurring more frequently and lasting longer. The Arctic is not spared from this trend, as it is warming faster than any other region on our planet. However, due to local processes and conditions, marine heat waves in the Arct",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
       {
         "id": "1c0d98b7d38537d9",
         "title": "Human sacrifice in Inca Empire may have been driven by political motives, not religion",
@@ -3815,21 +3826,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0988
-      },
-      {
-        "id": "40a0bbb53249f18c",
-        "title": "Hidden underground, fungi drive carbon storage, crop health and ecosystem stability",
-        "url": "https://phys.org/news/2026-06-hidden-underground-fungi-carbon-storage.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781890802000,
-        "summary": "Fungi are key constituents of the soil microbial community, playing a major role in moving carbon and energy through the soil food web. A recent analysis carried out by Professor Matthias C. Rillig from Freie Universität Berlin highlights the importance of soil fungal communities for ecosystem stability, agricultural productivity and carbon storage.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
       }
     ]
   },
