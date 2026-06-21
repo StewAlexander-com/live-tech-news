@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-06-21T12:56:15.369901+00:00",
+  "generated_at": "2026-06-21T13:04:53.591330+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2692d085175613ee",
+        "title": "Your router has a speed limiter you should probably turn off — here’s how",
+        "url": "https://www.makeuseof.com/turn-off-qos-router-speed-limit/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1782046818000,
+        "summary": "The default settings aren't always helpful.",
+        "tags": [
+          "networking",
+          "router",
+          "network tips",
+          "internet"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8487
+      },
+      {
+        "id": "ba5c05e8095e6e08",
+        "title": "What is the release date for Avatar: The Last Airbender season 2 on Netflix?",
+        "url": "https://www.techradar.com/streaming/netflix/avatar-the-last-airbender-season-2-release-date-time",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782046800000,
+        "summary": "Aang is back with new friends, new powers and new worries. But when is Avatar: The Last Airbender season 2 arriving on Netflix?",
+        "tags": [
+          "netflix",
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8487
+      },
       {
         "id": "ff70eeb738017dcb",
         "title": "I resurrected a dead Android tablet with this unique third-party launcher",
@@ -943,34 +977,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7804
-      },
-      {
-        "id": "f843254ac3cfa225",
-        "title": "Nothing's budget brand CMF won't be releasing a new phone this year",
-        "url": "https://www.engadget.com/2198323/nothing-budget-brand-cmf-new-new-phone-this-year/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1781956517000,
-        "summary": "CMF by Nothing won't be able to release a follow-up to the Phone Pro 2 this year.",
-        "tags": [
-          "smartphones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7006
-      },
-      {
-        "id": "3c68414dc2e858ff",
-        "title": "Best Weekend Ever? Playing Pokemon Go With 717,000 Fans of the Game",
-        "url": "https://www.cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1781955039000,
-        "summary": "Pokemon Go Fest gave my far-flung family members and me a great excuse to play together instead of separately. As it turns out, we had plenty of company.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8096
       }
     ],
     "innovation": [
@@ -1968,6 +1974,39 @@
         "score": 1.0234
       },
       {
+        "id": "b75838c26e674aba",
+        "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+        "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782045853000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:18"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0431
+      },
+      {
+        "id": "967e08980389df44",
+        "title": "Amazon says human-in-the-loop AI oversight is failing because humans stop paying attention",
+        "url": "https://thenextweb.com/news/amazon-human-in-the-loop-ai-governance-normalization-deviance",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782045310000,
+        "summary": "Amazon’s security leadership is arguing against one of the most widely accepted principles in AI governance. Eric Brandwine, VP and distinguished engineer at Amazon Security, told The Register that human-in-the-loop oversight is not the gold standard companies think it is. “Humans are not terribly consistent,” Brandwine said. “Human-in-the-loop isn’t necessarily the gold standard.” His reasoning [",
+        "tags": [
+          "amazon",
+          "artificial intelligence",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9628
+      },
+      {
         "id": "8ddfdd20656b6745",
         "title": "Data from ‘half a million hours of Ukraine conflict drone footage’ now available to train AI",
         "url": "https://www.reddit.com/r/technology/comments/1ubox9h/data_from_half_a_million_hours_of_ukraine/",
@@ -2873,42 +2912,39 @@
         "paywall": true,
         "impact": "normal",
         "score": 0.7585
-      },
-      {
-        "id": "5d0889529233629c",
-        "title": "I freed up 143 GB by letting Claude scan my C: drive — Windows never found any of it",
-        "url": "https://www.makeuseof.com/freed-143-gb-claude-scan-c-drive-windows-never-found/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1781964019000,
-        "summary": "My C: drive was hiding a small SSD.",
-        "tags": [
-          "windows",
-          "storage",
-          "storage sense",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8467
-      },
-      {
-        "id": "63a45f61d3166023",
-        "title": "Novel generative AI model enables atomic-scale prediction of protein-protein interactions",
-        "url": "https://phys.org/news/2026-06-generative-ai-enables-atomic-scale.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1781964001000,
-        "summary": "Proteins are the molecular workhorses of the human body. They perform a vast range of essential functions, from building tissues and transporting molecules to regulating cellular communication and defending against infection. Many medicines, including antibody therapies for cancer and insulin therapy for diabetes, among many others, work by interacting with specific proteins or by replacing protei",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0972
       }
     ],
     "science": [
+      {
+        "id": "b333499a4e9b612f",
+        "title": "Today's housing emergency is nearly 200 years in the making, says new report",
+        "url": "https://phys.org/news/2026-06-today-housing-emergency-years.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782046805000,
+        "summary": "Many of the problems facing the more than 134,000 households living in temporary accommodation in England today—including more than 176,000 children—are part of a pattern of failure stretching back nearly 200 years, according to a major new report.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0184
+      },
+      {
+        "id": "613262e6dc812a54",
+        "title": "Tropical ocean temperatures may drive changes in malaria cases in Malawi",
+        "url": "https://phys.org/news/2026-06-tropical-ocean-temperatures-malaria-cases.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782046803000,
+        "summary": "Malaria is one of the world's deadliest infectious diseases. Because it is transmitted by mosquitoes, malaria is extremely sensitive to environmental conditions like rainfall and temperature that affect mosquito survival and activity. Understanding the climate patterns that influence these conditions is critical for improving malaria forecasting and supporting prevention efforts.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0184
+      },
       {
         "id": "df6e9550c17f28e0",
         "title": "I Saw the Ultimate Rocket Bike in Action and It Blew Me Away",
@@ -3796,36 +3832,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0192
-      },
-      {
-        "id": "6e0cb8a3187f2141",
-        "title": "Microbial partners may help maize and sorghum respond to higher temperatures",
-        "url": "https://phys.org/news/2026-06-microbial-partners-maize-sorghum-higher.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781887202000,
-        "summary": "New research suggests the microbiome near the surface of a plant's roots, known as the rhizosphere microbiome, may play a role in helping crops respond to heat stress.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0126
-      },
-      {
-        "id": "ea4b6d04a1879a8d",
-        "title": "Excessive Instagram use could erode our sense of self, altering the perception of our bodies",
-        "url": "https://phys.org/news/2026-06-excessive-instagram-erode-perception-bodies.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781886003000,
-        "summary": "Instagram use could influence not only how we see our bodies, but also how our brain perceives the bodies we inhabit as \"ours.\" In short, it could erode our sense of self to the point of no longer recognizing ourselves in our own bodies, or feeling \"at home\" within them.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0137
       }
     ]
   },
