@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:41:49.632424+00:00",
+  "generated_at": "2026-06-22T13:43:18.731763+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -973,6 +973,24 @@
     ],
     "innovation": [
       {
+        "id": "e64ed37522cc60cf",
+        "title": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
+        "url": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1782135779000,
+        "summary": "The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand.\"",
+        "tags": [
+          "transportation",
+          "electric vehicles",
+          "evs",
+          "lucid motors"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7479
+      },
+      {
         "id": "c83b03a441aa4b4b",
         "title": "Nvidia unveils Halos, a new safety-focused OS derived from autonomous vehicle tech, designed to run on IGX Thor hardware for humanoid robots, and opens a lab (Ian King/Bloomberg)",
         "url": "https://www.techmeme.com/260622/p22#a260622p22",
@@ -1069,6 +1087,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.845
+      },
+      {
+        "id": "e1a3d27ed3f781d4",
+        "title": "The Next Solar Eclipse Is Delivering a Rare Treat: Totality at Sunset",
+        "url": "https://www.cnet.com/science/totality-at-sunset-augusts-solar-eclipse-is-delivering-a-rare-treat-for-some-viewers/",
+        "source": "CNET",
+        "lane": "innovation",
+        "published_ts": 1782132763000,
+        "summary": "The only thing cooler than an eclipse or a sunset is when both happen at once.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8068
       },
       {
         "id": "b845a4f2e3a71fa1",
@@ -1868,39 +1899,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0718
-      },
-      {
-        "id": "a888c9a6e1656fb7",
-        "title": "Someone Forked systemd Over Its New Birth Date Field",
-        "url": "https://linux.slashdot.org/story/26/06/22/0144240/someone-forked-systemd-over-its-new-birth-date-field?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1782092880000,
-        "summary": "The blog Linuxiac reports: A new systemd fork has appeared with a specific purpose: removing systemd's recently added support for storing a user's birth date in JSON user records. The fork, called Liberated systemd, published its first tagged release as v261 shortly after the official systemd 261 release. In other words, the fork follows upstream systemd while reverting the change that added the n",
-        "tags": [
-          "linux"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.038
-      },
-      {
-        "id": "3c870a2c2aba3b41",
-        "title": "Kansas City Pushes Ahead With Facial Recognition on Buses",
-        "url": "https://www.reddit.com/r/technology/comments/1uc6w10/kansas_city_pushes_ahead_with_facial_recognition/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782091234000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9309
       }
     ],
     "ai": [
+      {
+        "id": "ca556b72f055875c",
+        "title": "Phishing the agent: Why AI guardrails aren’t enough",
+        "url": "https://www.techradar.com/pro/phishing-the-agent-why-ai-guardrails-arent-enough",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1782135573000,
+        "summary": "AI agents are handed the keys to the kingdom but can't always be trusted.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9169
+      },
       {
         "id": "a7d82548c0f1bf4a",
         "title": "In a rare joint statement, Five Eyes leaders warn AI models capable of taking down governments and businesses are mere months away, urging leaders to \"act now\" (Sarah Basford Canales/The Guardian)",
@@ -2786,21 +2802,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1296
-      },
-      {
-        "id": "977a3bd63b4d9b59",
-        "title": "US Bill Would Mandate AI Chip Location Tracking to Thwart China and Other Adversaries",
-        "url": "https://yro.slashdot.org/story/26/06/21/065246/us-bill-would-mandate-ai-chip-location-tracking-to-thwart-china-and-other-adversaries?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1782059640000,
-        "summary": "NBC News reports: A group of companies that specialize in tracking international shipments of sensitive technologies is backing a Capitol Hill bill that would require America's most powerful AI chips to incorporate stronger security mechanisms aimed at preventing the chips from reaching China and other adversaries. The letter, signed by six companies, says the Chip Security Act (CSA) would increas",
-        "tags": [
-          "government"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1307
       }
     ],
     "science": [
