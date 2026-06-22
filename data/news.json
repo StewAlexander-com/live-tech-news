@@ -1,7 +1,54 @@
 {
-  "generated_at": "2026-06-22T15:09:55.876304+00:00",
+  "generated_at": "2026-06-22T15:33:37.639240+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d1255d8ce8cdc54f",
+        "title": "This $1,479 Alienware gaming PC features an RTX 5070 and a Core Ultra 7 265F CPU — 4K-ready Aurora desktop is up to $850 off",
+        "url": "https://www.tomshardware.com/pc-components/this-usd1-479-alienware-gaming-pc-features-an-rtx-5070-and-a-core-ultra-7-265f-cpu-4k-ready-aurora-desktop-is-up-to-usd850-off",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1782141610000,
+        "summary": "Save 36% on this Alienware Aurora R16 system when configurating it with an RTX 5070, bringing it down from its original price of $2,330 to just $1,479, and that's with a free Lego Batman game.",
+        "tags": [
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9459
+      },
+      {
+        "id": "cc4523fb2d61968a",
+        "title": "3 hidden Pixel Camera features that completely change how I take night shots",
+        "url": "https://www.androidpolice.com/3-hidden-pixel-camera-features-that-completely-change-how-i-take-night-shots/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1782141312000,
+        "summary": "Night Sight is great, but these three overlooked Pixel camera features help me take better photos after dark",
+        "tags": [
+          "pixel camera",
+          "google pixel",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9941
+      },
+      {
+        "id": "4da63a2f988c4ec2",
+        "title": "Tesla in autopilot crashed into Texas home, killing one",
+        "url": "https://www.engadget.com/2198847/tesla-in-autopilot-crashed-into-texas-home-killing-one/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1782141061000,
+        "summary": "One woman is dead after a Tesla with \"an automated driving assistance system\" engaged crashed into a home in Katy, Texas.",
+        "tags": [
+          "evs and transportation"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6989
+      },
       {
         "id": "a0e607387d76d1fd",
         "title": "Apple Approves Production of OLED Panels for Foldable iPhone",
@@ -927,57 +974,84 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8476
-      },
-      {
-        "id": "1d286800dfb86903",
-        "title": "Polymarket has reportedly been paying creators to post fake betting videos",
-        "url": "https://www.engadget.com/2198495/wall-street-journal-polymarket-reportedly-paying-creators-to-post-fake-betting-videos/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1782075222000,
-        "summary": "The Wall Street Journal reviewed 1,105 videos along with guidance given to creators for crafting their posts.",
-        "tags": [
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7009
-      },
-      {
-        "id": "f897de215555e6aa",
-        "title": "'Plastic trash is now a low-cost aircraft fuel': This new reactor system converts plastic waste into sustainable jet fuel with promising economics",
-        "url": "https://www.techradar.com/pro/plastic-trash-is-now-a-low-cost-aircraft-fuel-this-new-reactor-system-converts-plastic-waste-into-sustainable-jet-fuel-with-promising-economics",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782072300000,
-        "summary": "Researchers develop a reactor system converting plastic waste into jet fuel, using advanced catalysts with estimated costs of $1.0–$1.8 per kilogram.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8471
-      },
-      {
-        "id": "3c6f29dab2de8a42",
-        "title": "I turned on encrypted DNS in my phone settings and stopped needing a VPN",
-        "url": "https://www.makeuseof.com/turned-on-encrypted-dns-in-phone-settings-stopped-needing-vpn/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1782072019000,
-        "summary": "Encrypted DNS stops your carrier from tracking you — and it's already built into your phone.",
-        "tags": [
-          "networking",
-          "dns",
-          "network",
-          "vpn"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8485
       }
     ],
     "innovation": [
+      {
+        "id": "f66e0fd64a441b63",
+        "title": "These 7 sci-fi movies and shows actually have more science than fiction",
+        "url": "https://www.makeuseof.com/sci-fi-movies-shows-more-science-than-fiction-for-all-mankind-interstellar/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782142220000,
+        "summary": "Science fiction isn't always scientifically accurate, but it's a treat when it is.",
+        "tags": [
+          "streaming",
+          "sci-fi",
+          "orphan black",
+          "the expanse",
+          "2001: a space odyssey",
+          "for all mankind"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8491
+      },
+      {
+        "id": "2cf415e046f12ace",
+        "title": "Graphics Upgrade for Nintendo Entertainment System",
+        "url": "https://hackaday.com/2026/06/22/graphics-upgrade-for-nintendo-entertainment-system/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782142200000,
+        "summary": "Modern video game consoles rarely have expansion ports, but in the 80s and 90s it was practically guaranteed. With the speed that hardware was advancing it made sense to build …read more",
+        "tags": [
+          "games",
+          "background",
+          "dual ppu",
+          "graphics",
+          "nes",
+          "nintendo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0787
+      },
+      {
+        "id": "eb6c677627ea9688",
+        "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup",
+        "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1782141702000,
+        "summary": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
+        "tags": [
+          "apps",
+          "social",
+          "startups",
+          "cred",
+          "kunal shah",
+          "meta"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7451
+      },
+      {
+        "id": "664af0731ebe65ac",
+        "title": "ABC Escalates Battle With FCC, Launches On-Air Campaign Urging Public Support",
+        "url": "https://www.reddit.com/r/technology/comments/1ucmz88/abc_escalates_battle_with_fcc_launches_onair/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782140470000,
+        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9402
+      },
       {
         "id": "343293583ea5ec18",
         "title": "Your PC probably shipped with these 3 BIOS settings off, and performance pays the price",
@@ -1054,6 +1128,21 @@
         "score": 0.9857
       },
       {
+        "id": "190862503ada685c",
+        "title": "Canadian utility fesses up to data breach, but key details remain off-grid",
+        "url": "https://www.theregister.com/security/2026/06/22/canadian-utility-fesses-up-to-data-breach-but-key-details-remain-off-grid/5259309",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782138240000,
+        "summary": "London Hydro says names, addresses, account details may have been exposed, but much about the intrusion is unknown",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0268
+      },
+      {
         "id": "e19766064a4a97fe",
         "title": "Meta buys a fifth of Cred, and a new WhatsApp boss",
         "url": "https://thenextweb.com/news/meta-cred-whatsapp-kunal-shah",
@@ -1072,6 +1161,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.885
+      },
+      {
+        "id": "b08fc8ab3277aa38",
+        "title": "Crypto trading app Fomo raised a $75M Series B led by Index at a $550M valuation, taking its total funding to ~$94M, and claims to add 3,500 new users per day (Ben Weiss/Fortune)",
+        "url": "https://www.techmeme.com/260622/p25#a260622p25",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782137701000,
+        "summary": "Ben Weiss / Fortune: Crypto trading app Fomo raised a $75M Series B led by Index at a $550M valuation, taking its total funding to ~$94M, and claims to add 3,500 new users per day — Two established investors are feeling crypto FOMO. Index and Union Square Ventures have backed the crypto startup Fomo …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9751
       },
       {
         "id": "aaa429db887418d0",
@@ -1148,6 +1250,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7314
+      },
+      {
+        "id": "4eacc34f20dd6fbc",
+        "title": "Microsoft tells Windows users to get ready for 26H2 – unless they're on 26H1",
+        "url": "https://www.theregister.com/os-platforms/2026/06/22/microsoft-tells-windows-users-to-get-ready-for-26h2-unless-theyre-on-26h1/5259511",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782136620000,
+        "summary": "Same core as 24H2 and 25H2 means an enablement package, while Search gets a little more forgiving",
+        "tags": [
+          "os platforms"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0179
       },
       {
         "id": "ddfeae85a6432887",
@@ -1332,6 +1449,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9978
+      },
+      {
+        "id": "e2ff8a9772ac48c9",
+        "title": "As another UK prime minister bites the dust, a contradictory tech legacy remains",
+        "url": "https://www.theregister.com/public-sector/2026/06/22/as-another-uk-prime-minister-bites-the-dust-a-contradictory-tech-legacy-remains/5259470",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782133554000,
+        "summary": "Attempting to boost growth, efficiency, and sovereign tech proved too difficult. The next leader will face the same challenges... and temptations",
+        "tags": [
+          "public sector"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0014
       },
       {
         "id": "78702323adc15264",
@@ -1801,141 +1933,29 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9419
-      },
-      {
-        "id": "ee2d604c029499b7",
-        "title": "The Bank of England backs down on its toughest stablecoin rules",
-        "url": "https://thenextweb.com/news/the-bank-of-england-backs-down-on-its-toughest-stablecoin-rules",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782121072000,
-        "summary": "When the Bank of England first sketched out how it would regulate stablecoins, the industry read the draft and recoiled. Caps on how much any one person could hold, conservative rules on what the coins could be backed by: critics said the regime would make real-world use almost impossible and send, in the words of […] This story continues at The Next Web",
-        "tags": [
-          "uk",
-          "insider"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8699
-      },
-      {
-        "id": "03b8162770eefadf",
-        "title": "Minnesota defends prediction market restrictions amid federal court challenge",
-        "url": "https://readwrite.com/minnesota-defends-prediction-market-law-restrictions-court/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1782120653000,
-        "summary": "Minnesota is telling a federal court that prediction markets carry risks ranging from gambling addiction to insider trading as officials… Continue reading Minnesota defends prediction market restrictions amid federal court challenge The post Minnesota defends prediction market restrictions amid federal court challenge appeared first on ReadWrite.",
-        "tags": [
-          "prediction markets",
-          "commodity futures trading commission",
-          "kalshi",
-          "minnesota",
-          "polymarket"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8974
-      },
-      {
-        "id": "78d5511874b0ed56",
-        "title": "Small island nation tries bold tech education strategy",
-        "url": "https://www.theregister.com/offbeat/2026/06/22/small-island-nation-tries-bold-tech-education-strategy/5258986",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1782119700000,
-        "summary": "Is the UK's social media ban for kids just reverse psychiatry?",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0416
-      },
-      {
-        "id": "1ecb0ebe80d61ff5",
-        "title": "Sam Altman's Orb startup investigated financial misconduct allegations",
-        "url": "https://www.reddit.com/r/technology/comments/1ucfg9k/sam_altmans_orb_startup_investigated_financial/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782119206000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9399
-      },
-      {
-        "id": "174ea8d05827def6",
-        "title": "Seedcamp raises $320M and builds out a transatlantic bridge",
-        "url": "https://thenextweb.com/news/seedcamp-raises-320m-and-builds-out-a-transatlantic-bridge",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782117472000,
-        "summary": "Seedcamp has spent nearly two decades writing the first cheque into companies before anyone else was sure they were worth one. Revolut, Wise, UiPath, Synthesia, and Fluidstack all took early money from the London firm, and on Monday it said it had raised $320mn to keep doing the same thing for the next generation, with […] This story continues at The Next Web",
-        "tags": [
-          "investors and funding",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8857
-      },
-      {
-        "id": "84e34c21a863aab4",
-        "title": "Canada buys Australian Arctic radar in A$2.5bn defence-export first",
-        "url": "https://thenextweb.com/news/australia-radar-sale-canada-record-deal",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782117077000,
-        "summary": "Australia has been refining the same unusual piece of radar for decades, a system that bounces signals off the ionosphere to see thousands of kilometres past the curve of the Earth, and for all that time it kept the technology to itself. On Sunday it sold it abroad for the first time. Canada agreed to […] This story continues at The Next Web",
-        "tags": [
-          "defence",
-          "next featured",
-          "australia",
-          "canada"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8838
-      },
-      {
-        "id": "2212c21518f599e2",
-        "title": "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
-        "url": "https://www.theregister.com/virtualization/2026/06/22/lessons-from-the-vmwars-nothing-virtual-about-the-broadcom-vs-tesco-slugfest/5259005",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1782117000000,
-        "summary": "Never get involved in a land war in Asia. Also, don't pick a contract fight with a monster of the art",
-        "tags": [
-          "virtualization"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0267
-      },
-      {
-        "id": "22421947e3435f12",
-        "title": "“Telescope Rancher” is The Coolest Job You Didn’t Know Existed",
-        "url": "https://hackaday.com/2026/06/22/telescope-rancher-is-the-coolest-job-you-didnt-know-existed/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782115200000,
-        "summary": "McCulloch County, Texas, is smack dab in the middle of a very large state. We wouldn’t exactly call it the middle of nowhere, but given there’s so little light pollution …read more",
-        "tags": [
-          "science",
-          "amateur astronomy",
-          "remote observatory",
-          "telescope"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.05
       }
     ],
     "ai": [
+      {
+        "id": "02e77384277bf5aa",
+        "title": "Web browsers and Cloudflare team up to authenticate human traffic to combat the growing malicious bot hordes and keep the internet authentic",
+        "url": "https://www.techradar.com/pro/web-browsers-and-cloudflare-team-up-to-authenticate-human-traffic-to-combat-the-growing-malicious-bot-hordes-and-keep-the-internet-authentic",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1782140970000,
+        "summary": "Cloudflare is developing a protocol to verify legitimate human and AI agent web access",
+        "tags": [
+          "pro",
+          "internet",
+          "chrome",
+          "firefox",
+          "edge",
+          "browsers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9109
+      },
       {
         "id": "3ccc98111cfe1953",
         "title": "SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029 (Deirdre Bosa/CNBC)",
@@ -2013,6 +2033,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9688
+      },
+      {
+        "id": "23fbb5bb57c11b48",
+        "title": "AI Slop Is Transforming YouTube. Its CEO Wants To Keep It Human.",
+        "url": "https://www.reddit.com/r/technology/comments/1ucmup2/ai_slop_is_transforming_youtube_its_ceo_wants_to/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782140204000,
+        "summary": "submitted by /u/T_Shurt [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0139
       },
       {
         "id": "defd6b9e11c8d886",
@@ -2819,38 +2854,82 @@
         "paywall": false,
         "impact": "high",
         "score": 1.076
-      },
-      {
-        "id": "645764ba417c3d58",
-        "title": "You're probably using Agent Skills wrong",
-        "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782090136000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0229
-      },
-      {
-        "id": "c679cce13f4899af",
-        "title": "San Diego-based Aether AI, which is building \"causal world models\" to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi (Cristian Dina/The Next Web)",
-        "url": "https://www.techmeme.com/260621/p11#a260621p11",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782089100000,
-        "summary": "Cristian Dina / The Next Web: San Diego-based Aether AI, which is building “causal world models” to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi — Aether AI, founded by UC San Diego causality researcher Biwei Huang, has raised a $20mn seed round to build “causal world models” for robots.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0657
       }
     ],
     "science": [
+      {
+        "id": "e83ce4e8d4d62bc3",
+        "title": "Industrial fisheries discarded 80,000 metric tons of fish from 1950 to 2022, study finds",
+        "url": "https://phys.org/news/2026-06-industrial-fisheries-discarded-metric-tons.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782142202000,
+        "summary": "Destructive fishing practices and inadequate management allowed industrial fisheries operating in the waters of Saint Pierre and Miquelon to dump about 80,000 metric tons of fish back into the ocean from 1950 to 2022, with authorities failing to track the wasteful practice. This is enough fish to fill 32 Olympic-sized pools.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0188
+      },
+      {
+        "id": "d0ca45065d2cfd99",
+        "title": "SpaceX announces a senior unsecured notes offering and discloses that it has about $100.8B in cash; SPCX drops 8%+ (Samantha Subin/CNBC)",
+        "url": "https://www.techmeme.com/260622/p29#a260622p29",
+        "source": "Techmeme",
+        "lane": "science",
+        "published_ts": 1782142201000,
+        "summary": "Samantha Subin / CNBC: SpaceX announces a senior unsecured notes offering and discloses that it has about $100.8B in cash; SPCX drops 8%+ — - SpaceX launched an inaugural bond sale days after its blockbuster IPO … SpaceX on Monday announced a senior unsecured notes offering and disclosed about $100.8 billion in cash.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9988
+      },
+      {
+        "id": "c41683aac35e373e",
+        "title": "Heat stress exposure climbed from 16% to 22% worldwide over 50 years, study shows",
+        "url": "https://phys.org/news/2026-06-stress-exposure-climbed-worldwide-years.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782142118000,
+        "summary": "The number of people exposed to dangerous heat stress worldwide has risen sharply over the past half-century, propelled by climate change, according to a study released Monday as Europe sweltered through a punishing heat wave.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0184
+      },
+      {
+        "id": "49438809f3047cf0",
+        "title": "The Caspian Sea has lost an area nearly the size of Sicily: Human activities are a major reason why",
+        "url": "https://phys.org/news/2026-06-caspian-sea-lost-area-size.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782141607000,
+        "summary": "The Caspian Sea, the largest inland body of water on Earth, is shrinking. Not fluctuating, not entering another natural cycle, but shrinking.",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0156
+      },
+      {
+        "id": "34e2207e181587e9",
+        "title": "Ancient mud drilled from Antarctic ice holds clues to future sea-level rise",
+        "url": "https://phys.org/news/2026-06-ancient-mud-drilled-antarctic-ice.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782141601000,
+        "summary": "\"What goes on in Antarctica doesn't stay in Antarctica—it has global implications,\" Geology tauira Natalie-Jane Reid says. Reid is one of two Otago Ph.D. candidates who contributed to an Antarctic sediment core workshop at the Otago Repository for Core Analysis (ORCA) held during the first two weeks of June. The pair joined 30 top scientists who split, scanned, described and analyzed 228 meters (7",
+        "tags": [
+          "earth sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0156
+      },
       {
         "id": "2019994e60cf8dc5",
         "title": "Newly described Australian ballista spider builds a spring-loaded snare to catch a single ant species",
@@ -3677,81 +3756,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0345
-      },
-      {
-        "id": "d8b5328c14290ea4",
-        "title": "Bat rays employ a chemical cue to warn others of danger",
-        "url": "https://phys.org/news/2026-06-rays-employ-chemical-cue-danger.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781994603000,
-        "summary": "Frightened bat rays produce a chemical cue to warn other rays of danger, a well-known anti-predator strategy for bony fish that has not been documented in cartilaginous fish until now. Oregon State University researchers found the behavior of bat rays changed when they received water flow from a tank where another bat ray was frightened by a mock predator, suggesting that a chemical disturbance cu",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
-      },
-      {
-        "id": "5075e08953668a5b",
-        "title": "Sonic booms from meteors can release the energy of hundreds of tons of TNT. Here's how they work",
-        "url": "https://phys.org/news/2026-06-sonic-booms-meteors-energy-hundreds.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781991001000,
-        "summary": "As humans, we live out our lives on a planet that is constantly sweeping through a cosmic ocean littered with ancient debris from the formation of the solar system. For the most part, our world glides silently through space, shielded by Earth's thin atmosphere.",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0173
-      },
-      {
-        "id": "cc7bfb170363be2c",
-        "title": "Crane pair dances follow hidden rules, with performances revealing partner-driven timing",
-        "url": "https://phys.org/news/2026-06-crane-pair-hidden-revealing-partner.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781989202000,
-        "summary": "Animal pairs engage in mutual signaling by simultaneously performing a diverse repertoire of behaviors. A famous example is the sophisticated dance (mutual displays) performed by bird pairs.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0186
-      },
-      {
-        "id": "32edd4ea87c50b08",
-        "title": "Sunday is the longest day of the year for half the planet. A guide to the summer solstice",
-        "url": "https://phys.org/news/2026-06-sunday-longest-day-year-planet.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781986801000,
-        "summary": "This is the sun's time to shine: Sunday is the longest day of the year in the Northern Hemisphere.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
-      },
-      {
-        "id": "bc7e293690b8cb20",
-        "title": "Jumping gene caught moving between species in first direct observation",
-        "url": "https://phys.org/news/2026-06-gene-caught-species.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1781985601000,
-        "summary": "Genes are not passed on exclusively from parents to their offspring. Some are mobile and can also jump to other species, as researchers at the Max Planck Institute for Marine Microbiology in Bremen have now shown. The direct observation of a jumping gene provides the first evidence that such genes can transfer from one species to another—from predator to prey. The study is published in the journal",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0196
       }
     ]
   },
