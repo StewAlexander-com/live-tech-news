@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:37:10.820507+00:00",
+  "generated_at": "2026-06-22T23:42:07.174827+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -953,6 +953,19 @@
         "score": 0.8462
       },
       {
+        "id": "86fce56c9d814a93",
+        "title": "Govee Releases New Smart Light Themes for House of the Dragon Season Three",
+        "url": "https://www.cnet.com/home/smart-home/govee-releases-new-lighting-themes-for-house-of-the-dragon-season-three/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1782147600000,
+        "summary": "Govee teamed up with HBO to show how its TV backlights and smart home lights react to fire-breathing dragons on screen.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7207
+      },
+      {
         "id": "5500e3d48cd338c9",
         "title": "Valve opens Steam Machine reservations — details $1,049 starting price, randomized queue to stop scalpers, and limited inventory",
         "url": "https://www.tomshardware.com/video-games/console-gaming/valve-opens-steam-machine-reservations-details-usd1-049-starting-price-randomized-queue-to-stop-scalpers-and-limited-inventory",
@@ -960,22 +973,6 @@
         "lane": "gadgets",
         "published_ts": 1782147600000,
         "summary": "In a blog post, Valve explained its new randomized reservation systems, new tactics to stop scalpers, and why it has limited inventory.",
-        "tags": [
-          "console gaming",
-          "video games"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8363
-      },
-      {
-        "id": "d610101173114d58",
-        "title": "Valve Steam Machine review: Couch gaming unboxed, but not always at 4K",
-        "url": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-review",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1782147600000,
-        "summary": "Valve's Steam Machine is nice box to play PC games on your TV, and is well-designed. But you're not getting the latest hardware, despite a starting price above $1,000.",
         "tags": [
           "console gaming",
           "video games"
@@ -1968,6 +1965,37 @@
     ],
     "ai": [
       {
+        "id": "39ca0cace3845b10",
+        "title": "Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 (Bloomberg)",
+        "url": "https://www.techmeme.com/260622/p41#a260622p41",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782171601000,
+        "summary": "Bloomberg: Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 — Qualcomm Inc. is in advanced talks to acquire Modular Inc. in a transaction valuing the artificial intelligence chip startup at about $4 billion …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0793
+      },
+      {
+        "id": "d56d7cfb1e0d0259",
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1782170672000,
+        "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data […]",
+        "tags": [
+          "ai",
+          "news",
+          "nvidia",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8505
+      },
+      {
         "id": "32d4b2ff861ba1b0",
         "title": "Filing: Oracle's global workforce fell by 21,000 employees in the past 12 months to 141,000 as of May 31; the company says AI adoption has led to reductions (Brody Ford/Bloomberg)",
         "url": "https://www.techmeme.com/260622/p40#a260622p40",
@@ -2906,41 +2934,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9072
-      },
-      {
-        "id": "5baeed2db89bc3b9",
-        "title": "How to automate workflows using open-source AI agents",
-        "url": "https://www.techradar.com/pro/how-to-automate-workflows-using-open-source-ai-agents",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782143243000,
-        "summary": "One founder, one agent, one stack",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8992
-      },
-      {
-        "id": "3c72cfdd0dad56f1",
-        "title": "Advanced AI Dictation Not Enabled by Default in iOS 27 Beta",
-        "url": "https://www.macrumors.com/2026/06/22/advanced-ai-dictation-not-enabled-by-default/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782143045000,
-        "summary": "Apple's next-generation AI dictation feature for the iPhone 17 Pro and iPhone Air is not turned on by default in the first developer beta of iOS 27. Apple says the new AI-powered dictation system delivers \"a major boost in accuracy,\" with more reliable on-the-fly capitalization and punctuation than the existing dictation system. The feature runs on Apple's new AFM 3 Core Advanced model, which is a",
-        "tags": [
-          "ios 27",
-          "apple intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0567
       }
     ],
     "science": [
+      {
+        "id": "93c695dc95c861ad",
+        "title": "Leaf-based fluorescence test speeds search for plant gene-editing targets",
+        "url": "https://phys.org/news/2026-06-leaf-based-fluorescence-gene.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782171603000,
+        "summary": "Gene editing of plant DNA has the potential to produce crops with increased performance and resilience, but it can take a long time to achieve these gains. To shorten this process, scientists often use screening tools to determine where and how edits to the plant genome can be most effective.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1009
+      },
       {
         "id": "91c4237da69e8005",
         "title": "Women negotiate as effectively as men—but leave people happier",
@@ -3834,21 +3845,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0772
-      },
-      {
-        "id": "3714ddc6c4442ab8",
-        "title": "Europe scorched by latest heat wave",
-        "url": "https://phys.org/news/2026-06-europe-latest.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782135601000,
-        "summary": "Thirteen people died by drowning in searing temperatures in France over the weekend, with the heat wave set to intensify from Monday across much of Europe, forcing warnings and special measures.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
       }
     ]
   },
