@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-06-22T23:04:05.582446+00:00",
+  "generated_at": "2026-06-22T23:22:42.155127+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6e89f836240ac521",
+        "title": "A server within a server: HP packs 81,920 CPU cores, up to 1.28PB RAM into one 42U rack using 80 multi-node motherboards — unannounced Venice is likely to be the fastest x86 CPU ever produced",
+        "url": "https://www.techradar.com/pro/a-server-within-a-server-hp-packs-81-920-cpu-cores-up-to-1-28pb-ram-into-one-42u-rack-using-80-multi-node-motherboards-unannounced-venice-is-likely-to-be-the-fastest-x86-cpu-ever-produced",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782169500000,
+        "summary": "HPE demonstrates Cray GX5000 system using AMD Venice processors, delivering 81,920 cores and 1.28PB memory capacity.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8452
+      },
       {
         "id": "b6bf2bfe22aa5f23",
         "title": "Everything New in iOS 27 Beta 2",
@@ -938,6 +953,24 @@
         "score": 0.8462
       },
       {
+        "id": "a25f681263614f91",
+        "title": "Valve prices the Steam Machine at $1,049",
+        "url": "https://www.theverge.com/news/837022/valve-steam-machine-price-release-date",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1782147600000,
+        "summary": "After months of waiting, Valve has finally announced that the Steam Machine, its new living room-friendly PC, will start at $1,049 and go on sale beginning June 29th. You can now register your interest to buy a Steam Machine as part of a reservation system. To offer a fair playing field for people who want […]",
+        "tags": [
+          "entertainment",
+          "gaming",
+          "news",
+          "pc gaming"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7005
+      },
+      {
         "id": "86fce56c9d814a93",
         "title": "Govee Releases New Smart Light Themes for House of the Dragon Season Three",
         "url": "https://www.cnet.com/home/smart-home/govee-releases-new-lighting-themes-for-house-of-the-dragon-season-three/",
@@ -949,41 +982,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7998
-      },
-      {
-        "id": "5500e3d48cd338c9",
-        "title": "Valve opens Steam Machine reservations — details $1,049 starting price, randomized queue to stop scalpers, and limited inventory",
-        "url": "https://www.tomshardware.com/video-games/console-gaming/valve-opens-steam-machine-reservations-details-usd1-049-starting-price-randomized-queue-to-stop-scalpers-and-limited-inventory",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1782147600000,
-        "summary": "In a blog post, Valve explained its new randomized reservation systems, new tactics to stop scalpers, and why it has limited inventory.",
-        "tags": [
-          "console gaming",
-          "video games"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9456
-      },
-      {
-        "id": "d610101173114d58",
-        "title": "Valve Steam Machine review: Couch gaming unboxed, but not always at 4K",
-        "url": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-review",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1782147600000,
-        "summary": "Valve's Steam Machine is nice box to play PC games on your TV, and is well-designed. But you're not getting the latest hardware, despite a starting price above $1,000.",
-        "tags": [
-          "console gaming",
-          "video games"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9456
       }
     ],
     "innovation": [
+      {
+        "id": "5e07f83ece1df46e",
+        "title": "Nanotube-based thermoelectrics open a new pathway to waste-heat energy conversion",
+        "url": "https://phys.org/news/2026-06-nanotube-based-thermoelectrics-pathway-energy.html",
+        "source": "Phys.org",
+        "lane": "innovation",
+        "published_ts": 1782170401000,
+        "summary": "Whenever someone asks ChatGPT a question, heat is generated somewhere in the server room—a data center. When an electric vehicle battery generates heat during operation, the heat must be managed continuously. Manufacturing processes also generate large amounts of waste heat, much of which is simply released into the atmosphere. But what if we could convert this waste heat back into electricity? Re",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1007
+      },
       {
         "id": "0f50aeb99246fefe",
         "title": "LightComposer – Reach Out and Touch Your Lighting",
@@ -1123,6 +1139,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8866
+      },
+      {
+        "id": "1c172e7f9f53e361",
+        "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+        "url": "https://www.reddit.com/r/technology/comments/1ucx89l/meta_exposed_data_internally_from_its/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782162848000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9116
       },
       {
         "id": "754ecb18303e905e",
@@ -1934,34 +1965,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8473
-      },
-      {
-        "id": "5f44e6bb752aa4e3",
-        "title": "Chevron to fuel massive Microsoft data center in Texas using natural gas",
-        "url": "https://www.reddit.com/r/technology/comments/1ucmexm/chevron_to_fuel_massive_microsoft_data_center_in/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782139214000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9107
-      },
-      {
-        "id": "d8502a42396f17e1",
-        "title": "Groq raised $650M led by Disruptive and Infinitum after its Nvidia deal, aiming to hit 200 MW in capacity by the end of 2027, following a $750M raise in 2025 (Zsana Hoskins/Bloomberg)",
-        "url": "https://www.techmeme.com/260622/p27#a260622p27",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782139201000,
-        "summary": "Zsana Hoskins / Bloomberg: Groq raised $650M led by Disruptive and Infinitum after its Nvidia deal, aiming to hit 200 MW in capacity by the end of 2027, following a $750M raise in 2025 — Groq Inc. raised $650 million in a new funding round aimed at expanding its data center capacity and helping the onetime chip startup become …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0697
       }
     ],
     "ai": [
@@ -2940,6 +2943,21 @@
     ],
     "science": [
       {
+        "id": "6f7e99bf44452388",
+        "title": "Insects exhibit evidence of a daily body clock for humidity",
+        "url": "https://phys.org/news/2026-06-insects-evidence-daily-body-clock.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782169801000,
+        "summary": "In a novel experiment at the University of Cincinnati, researchers recently isolated kissing bugs, fruit flies, mosquitoes and spider beetles in a climate- and light-controlled environment and found that they responded predictably to cycles of humidity in the same way they do to temperature and daylight. After the humidity cue was removed, the insects continued to respond to the cyclical fluctuati",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0159
+      },
+      {
         "id": "64573be4c9b54838",
         "title": "Bird-derived gene tool inserts plant DNA 30 times more efficiently than CRISPR",
         "url": "https://phys.org/news/2026-06-bird-derived-gene-tool-inserts.html",
@@ -3832,21 +3850,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0129
-      },
-      {
-        "id": "40da688269076143",
-        "title": "125-million-year-old fossil reveals 'pregnant' shellfish",
-        "url": "https://phys.org/news/2026-06-million-year-fossil-reveals-pregnant.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782133209000,
-        "summary": "An international team of scientists led by Dr. Graciela Delvene of the Geological and Mining Institute of Spain (CSIC) has uncovered the oldest known evidence of maternal care in shellfish, revealing that some freshwater species were protecting and incubating their young more than 125 million years ago. Published today in Scientific Reports, the new research found fossilized soft tissues preserved",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0139
       }
     ]
   },
