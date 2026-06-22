@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T09:27:55.960174+00:00",
+  "generated_at": "2026-06-22T09:39:56.641961+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -16,6 +16,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8488
+      },
+      {
+        "id": "57feea4856e6a107",
+        "title": "We Want to Know What You Really Think About Your TV",
+        "url": "https://www.cnet.com/tech/home-entertainment/peoples-picks-tvs-survey-2026/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1782118837000,
+        "summary": "Rate your TV in our People's Picks survey.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8097
       },
       {
         "id": "96973f678cd5ef03",
@@ -962,24 +975,58 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9382
-      },
-      {
-        "id": "a797f3f8d0bb051c",
-        "title": "Quote of the day by Amazon CEO Andy Jassy: 'There is no compression algorithm for experience' — wisdom on avoiding shortcuts in life and business",
-        "url": "https://www.techradar.com/pro/quote-of-the-day-by-amazon-ceo-andy-jassy-there-is-no-compression-algorithm-for-experience-wisdom-on-avoiding-shortcuts-in-life-and-business",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1781992800000,
-        "summary": "At a time of heavy automation and job losses, enterprises must also consider how useful individuals with real, practical experience might be",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9168
       }
     ],
     "innovation": [
+      {
+        "id": "03b8162770eefadf",
+        "title": "Minnesota defends prediction market restrictions amid federal court challenge",
+        "url": "https://readwrite.com/minnesota-defends-prediction-market-law-restrictions-court/",
+        "source": "ReadWrite",
+        "lane": "innovation",
+        "published_ts": 1782120653000,
+        "summary": "Minnesota is telling a federal court that prediction markets carry risks ranging from gambling addiction to insider trading as officials… Continue reading Minnesota defends prediction market restrictions amid federal court challenge The post Minnesota defends prediction market restrictions amid federal court challenge appeared first on ReadWrite.",
+        "tags": [
+          "prediction markets",
+          "commodity futures trading commission",
+          "kalshi",
+          "minnesota",
+          "polymarket"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8974
+      },
+      {
+        "id": "78d5511874b0ed56",
+        "title": "Small island nation tries bold tech education strategy",
+        "url": "https://www.theregister.com/offbeat/2026/06/22/small-island-nation-tries-bold-tech-education-strategy/5258986",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782119700000,
+        "summary": "Is the UK's social media ban for kids just reverse psychiatry?",
+        "tags": [
+          "offbeat"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0416
+      },
+      {
+        "id": "1ecb0ebe80d61ff5",
+        "title": "Sam Altman's Orb startup investigated financial misconduct allegations",
+        "url": "https://www.reddit.com/r/technology/comments/1ucfg9k/sam_altmans_orb_startup_investigated_financial/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782119206000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9399
+      },
       {
         "id": "174ea8d05827def6",
         "title": "Seedcamp raises $320M and builds out a transatlantic bridge",
@@ -1013,6 +1060,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8838
+      },
+      {
+        "id": "2212c21518f599e2",
+        "title": "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
+        "url": "https://www.theregister.com/virtualization/2026/06/22/lessons-from-the-vmwars-nothing-virtual-about-the-broadcom-vs-tesco-slugfest/5259005",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782117000000,
+        "summary": "Never get involved in a land war in Asia. Also, don't pick a contract fight with a monster of the art",
+        "tags": [
+          "virtualization"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0267
       },
       {
         "id": "22421947e3435f12",
@@ -1862,73 +1924,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9347
-      },
-      {
-        "id": "3020eae4fab8ff2a",
-        "title": "I never open a new Obsidian vault without making these changes first",
-        "url": "https://www.makeuseof.com/obsidian-vault-changes-before-use/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782052218000,
-        "summary": "Don't touch Obsidian until you've done this.",
-        "tags": [
-          "productivity",
-          "obsidian",
-          "note-taking apps"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8472
-      },
-      {
-        "id": "cfa28f6871451aa1",
-        "title": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries",
-        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-nvidia-vulkan-driver-nvk-gains-experimental-dlss-support-by-importing-pre-baked-cuda-binaries",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1782052039000,
-        "summary": "NVK, the community-built open-source Vulkan driver for Nvidia GPUs in Mesa, has gained experimental DLSS support.",
-        "tags": [
-          "gpu drivers",
-          "pc components",
-          "gpus"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.946
-      },
-      {
-        "id": "58da9146f0cb4609",
-        "title": "Hacking the Mi Band 10 Smart Band and its Bestechnic SoC",
-        "url": "https://hackaday.com/2026/06/21/hacking-the-mi-band-10-smart-band-and-its-bestechnic-soc/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782050400000,
-        "summary": "In between playing Doom on the most ergonomically challenged devices, [Aaron Christophel] likes to take a relaxing break with reverse-engineering Xiaomi Mi Band fitness trackers and writing custom firmware for them. …read more",
-        "tags": [
-          "reverse engineering",
-          "does it run doom"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0722
-      },
-      {
-        "id": "8899a45569c025ff",
-        "title": "Microsoft’s June update fixed 208 security flaws and introduced a cascade of new bugs across all Windows versions",
-        "url": "https://thenextweb.com/news/windows-11-kb5094126-recycle-bin-bug-patch-tuesday",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782050373000,
-        "summary": "Microsoft’s June 2026 Patch Tuesday update is causing problems across every supported version of Windows. KB5094126, released on June 9, patched a record 208 security vulnerabilities, but the update has introduced a string of bugs that range from cosmetic annoyances to machines locked out of their own drives. The most visible issue affects the Recycle […] This story continues at The Next Web",
-        "tags": [
-          "data and security",
-          "microsoft",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8798
       }
     ],
     "ai": [
