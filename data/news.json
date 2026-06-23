@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T11:12:05.037425+00:00",
+  "generated_at": "2026-06-23T11:13:52.127747+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -328,6 +328,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8487
+      },
+      {
+        "id": "8a5d4dd5ccbd72c6",
+        "title": "Temporal Causal Prior-Data Fitted Networks for Panel Data with Learned Reliability Signals",
+        "url": "https://arxiv.org/abs/2606.20889",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20889v1 Announce Type: new Abstract: Estimating causal effects in industrial time series requires handling temporal dynamics, time-varying treatments, and unobserved confounders. Existing causal foundation models (CausalPFN, CausalFM) operate only on static cross-sectional data; neural temporal methods (CRN, G-Net) require per-dataset training; and concurrent temporal-PFN proposals have",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "3b2ec140166753cb",
+        "title": "Is Our Benchmark Enough? An Analysis of Continual Learning for MLLMs",
+        "url": "https://arxiv.org/abs/2606.20961",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20961v1 Announce Type: new Abstract: Continual adaptation is essential for multimodal large language models (MLLMs) deployed across evolving domains, but the state-of-the-art MR-LoRA method highly relies on the assumption that a MLLM-based router is necessary to process complex multimodal inputs. This paper revisits this claim on the MLLM-CL benchmark and argues for two claims. \\textbf{",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9135
       },
       {
         "id": "e7fb27ffe32a86c7",
@@ -952,37 +984,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8484
-      },
-      {
-        "id": "89358dd6b72a5689",
-        "title": "Breaking Into a Prison Tablet",
-        "url": "https://hackaday.com/2026/06/22/breaking-into-a-prison-tablet/",
-        "source": "Hackaday",
-        "lane": "gadgets",
-        "published_ts": 1782153000000,
-        "summary": "Usually the term ‘jailbreaking’ isn’t meant to be taken quite that literally, but in the case of the US prison tablet that [Hugh Jeffreys] got sent, it’s really quite apt. …read more",
-        "tags": [
-          "teardown",
-          "prison gear"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0779
-      },
-      {
-        "id": "fb7ef58b016c5b30",
-        "title": "Wallet App Gets New 'Insights' Feature in iOS 27 Beta 2",
-        "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-insights-wallet/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782152739000,
-        "summary": "Apple has added a new \"Insights\" feature to the Wallet app in the second iOS 27 beta. Accessible by tapping the three dots in the upper right corner, Insights appears to let users add different financial accounts to monitor their spending. A splash screen for the feature says users will be able to connect accounts to Wallet to see spending insights, recurring transactions, account balances, and mo",
-        "tags": [
-          "ios 27"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9966
       }
     ],
     "innovation": [
@@ -2440,6 +2441,101 @@
         "score": 1.0075
       },
       {
+        "id": "cd57927277b2e003",
+        "title": "CIExplainer++: Generating Causal and Interpretable Explanations for Graph Neural Networks",
+        "url": "https://arxiv.org/abs/2606.20747",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20747v1 Announce Type: new Abstract: Explainable Artificial Intelligence aims to make black-box models more trustworthy by presenting, in a human-understandable manner, the elements that lead to the model's output. This involves both (i) identifying components and connections with genuine causal influence on outputs and (ii) translating such structures into an interpretable representati",
+        "tags": [
+          "cs.lg",
+          "stat.ot"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "56ff5959024ae480",
+        "title": "ELADO: Elliptic PDE Assessment Datasets for Operator Learning",
+        "url": "https://arxiv.org/abs/2606.20771",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20771v1 Announce Type: new Abstract: We introduce ELADO (Elliptic PDE Assessment Datasets for Operator Learning), a systematic benchmark suite constructed to show and quantify failure modes of neural operator architectures when learning solution operators of elliptic PDEs. While the benchmarks of existing datasets focus on average case performance, the ELADO datasets are constructed to ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "dc1ab40ea57d0a8b",
+        "title": "Machine Learning Classification of Cryopathy Syndromes: A Comprehensive Comparative Study",
+        "url": "https://arxiv.org/abs/2606.20874",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20874v1 Announce Type: new Abstract: Cryopathy syndromes are difficult to classify because laboratory patterns often overlap across diagnostic categories, while some diagnoses are rare. This makes routine interpretation of cryoglobulin-related tests challenging and increases dependence on expert judgment. The aim of this study was to develop and compare machine learning approaches for a",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "6d54b754801a311a",
+        "title": "MMGNN: Multi-level, multi-color graph neural networks for molecular property prediction",
+        "url": "https://arxiv.org/abs/2606.20906",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20906v1 Announce Type: new Abstract: Molecular message-passing neural networks commonly propagate chemically diverse interactions through a single graph, which may mix interaction-specific signals and require deep propagation to capture long-range effects. We introduce the Multi-level, Multi-color Graph Neural Network (MMGNN), a hierarchical framework that decomposes a molecular graph i",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.mn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "5d5b1f4238e00e58",
+        "title": "Learning through Internalization",
+        "url": "https://arxiv.org/abs/2606.20937",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20937v1 Announce Type: new Abstract: We study internalization processes, by which neural-network-based systems absorb an explicit computational procedure into their own weights, and how they facilitate learning. We investigate how transformers internalize the simulation of semiautomata by internalizing chain-of-thought (CoT) tokens, which classes of semiautomata are harder to internaliz",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "6bd1dd7786108ab4",
+        "title": "A Gated Graph Neural Network Approach to Fast-Convergent Dynamic Average Estimation",
+        "url": "https://arxiv.org/abs/2606.20955",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20955v1 Announce Type: new Abstract: Dynamic average estimation is a critical problem in multi-agent systems, enabling agents to collaboratively estimate time-varying signals using only local information exchange. Traditional model-based approaches often face challenges related to convergence speed and sensitivity to network topology changes. This paper introduces a novel learning-based",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
         "id": "a0f7307e309d80d9",
         "title": "AI tools may reshape higher education by automating marking and personalizing feedback",
         "url": "https://phys.org/news/2026-06-ai-tools-reshape-higher-automating.html",
@@ -2763,107 +2859,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8655
-      },
-      {
-        "id": "92972734f5c112c3",
-        "title": "The AI world is getting ‘loopy’",
-        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782161591000,
-        "summary": "The loop takes agentic AI a step further, by authorizing a swarm of agents to work continuously in the background, endlessly.",
-        "tags": [
-          "ai",
-          "tc",
-          "agentic ai",
-          "boris cherny"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.806
-      },
-      {
-        "id": "42ba7c73993778a8",
-        "title": "Amazon invites Indian users to beta-test a Hindi version of Alexa+",
-        "url": "https://thenextweb.com/news/amazon-alexa-plus-india-hindi-beta-testing",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782161363000,
-        "summary": "Amazon is testing Alexa+ in India with Hindi-language support, the company’s first move to bring its generative AI assistant to a non-Western-language market. The company sent emails to select Indian customers inviting them to join a beta-testing programme, according to TechCrunch, which viewed the invitations. The emails asked users to fill out a form in […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9609
-      },
-      {
-        "id": "97a0c1265109bebd",
-        "title": "Arm servers capture over 45% of data center market revenue — GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86",
-        "url": "https://www.tomshardware.com/desktops/servers/arm-servers-capture-over-45-percent-of-data-center-market-revenue-gpu-clusters-and-high-end-ai-infrastructure-fuel-a-tectonic-shift-away-from-x86",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1782160457000,
-        "summary": "Arm-based servers accounted for nearly half of server revenue in Q1 2026, challenging x86. But in the coming years, they might catch up unit wise as well.",
-        "tags": [
-          "servers",
-          "desktops"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "d965f060468dc764",
-        "title": "Anthropic’s new privacy policy collects biometric data from flagged Claude users",
-        "url": "https://thenextweb.com/news/anthropic-claude-id-verification-privacy-policy-persona-biometric",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782160061000,
-        "summary": "Anthropic has updated its privacy policy to allow the company to require some Claude users to upload government-issued identification and submit selfie photos or videos for identity verification. The updated policy, which takes effect on July 8, introduces a new category of personal data collection that includes facial geometry templates, a data type that may […] This story continues at The Next W",
-        "tags": [
-          "anthropic",
-          "next featured",
-          "government and policy",
-          "data and security"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8835
-      },
-      {
-        "id": "6bfed59c6ef44214",
-        "title": "Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays (Allyson Versprille/Bloomberg)",
-        "url": "https://www.techmeme.com/260622/p37#a260622p37",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782159301000,
-        "summary": "Allyson Versprille / Bloomberg: Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays — Air Space Intelligence Inc. won a US government contract to develop artificial intelligence technologies for managing flight traffic …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0758
-      },
-      {
-        "id": "4ea81ab15341d48e",
-        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782159238000,
-        "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
-        "tags": [
-          "ai",
-          "hardware",
-          "startups",
-          "tc",
-          "groq"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8044
       }
     ],
     "science": [
@@ -2996,6 +2991,101 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0011
+      },
+      {
+        "id": "b5371799ff5200fd",
+        "title": "Evidential Fusion Network for Multimodal Survival Prediction under Missing Modalities",
+        "url": "https://arxiv.org/abs/2606.20757",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20757v1 Announce Type: new Abstract: Recent multimodal survival prediction models have demonstrated strong predictive performance by leveraging complementary information across modalities. However, such models generally assume data completeness and exhibit limited robustness toward missing modalities, which are frequently encountered in real-world clinical settings. We propose the Evide",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "0b2641a866e54442",
+        "title": "Physics-Guided Dual-Stream Heterogeneous Graph Neural Network for Predicting Full-Field Structural Response of Stiffened Panels",
+        "url": "https://arxiv.org/abs/2606.20916",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20916v1 Announce Type: new Abstract: Iterative design and optimization of large, complex structures require fast and accurate prediction of stress, displacement, and other fields. Finite element analysis (FEA) is computationally expensive for this task. Existing neural network surrogates often struggle with varying topologies and complex boundary conditions. This study proposes the nove",
+        "tags": [
+          "cs.lg",
+          "cs.ce"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "79fa1d5f36f8fce8",
+        "title": "Hierarchical Pooling for Sheaf Neural Networks",
+        "url": "https://arxiv.org/abs/2606.20932",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20932v1 Announce Type: new Abstract: Sheaf Neural Networks (SNNs) generalize Graph Neural Networks (GNNs) by replacing scalar node signals with stalk-valued signals and by using restriction maps to measure compatibility across edges. Unlike standard graph diffusion, which encourages neighboring node features to become similar, sheaf diffusion promotes consistency through the restriction",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9866
+      },
+      {
+        "id": "b9b1c59b86e64551",
+        "title": "Evolutionary Discovery of Developmental Reward Schedules in Deep Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2606.20858",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20858v1 Announce Type: new Abstract: The temporal structure of reward composition in reinforcement learning (RL) is typically hand-designed and held fixed throughout training, leaving the progression of motivational priorities largely unexplored. In this work, we propose an evolutionary framework for discovering developmental reward schedules, in which three distinct biologically inspir",
+        "tags": [
+          "cs.lg",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9135
+      },
+      {
+        "id": "d21dce58b8ddd100",
+        "title": "Understanding Latent Flow Models for Tabular Data Synthesis: Targets, Paths, and Sampling",
+        "url": "https://arxiv.org/abs/2606.20878",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20878v1 Announce Type: new Abstract: Synthetic tabular data enables microdata sharing in regulated domains, yet deploying continuous-time generative models requires balancing analytical utility, disclosure risk, and computational cost. Latent-space flow models are flexible, but theoretical equivalences across learning targets, probability paths, and sampling dynamics can translate into ",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9135
+      },
+      {
+        "id": "3bed170d8e5f4084",
+        "title": "Formalizing Task-Space Complexity for Zero-Shot Generalization",
+        "url": "https://arxiv.org/abs/2606.20967",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782187200000,
+        "summary": "arXiv:2606.20967v1 Announce Type: new Abstract: Policies must operate across diverse conditions, yet a single policy is often conservative while fully adaptive schemes can be complex. We study zero-shot generalization in contextual dynamical systems and introduce a performance-centric, directional task dissimilarity--the signed divergence--that upper bounds the generalization gap from a source con",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9135
       },
       {
         "id": "7c43d0dfec6138a3",
@@ -3677,96 +3767,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0814
-      },
-      {
-        "id": "3503cdfc5c9c699b",
-        "title": "Almost 80% of data centers constructed in natural disaster zones – data centers are fueling and succumbing to climate risks",
-        "url": "https://www.techradar.com/pro/almost-80-percent-of-data-centers-constructed-in-natural-disaster-zones-data-centers-are-fueling-and-succumbing-to-climate-risks",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1782148200000,
-        "summary": "Data centers are already under fire for water and electricity consumption – now, they're facing the effects of climate change.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8488
-      },
-      {
-        "id": "431a23ef29638ee2",
-        "title": "'Too pretty to do math'? Here's the real reason girls aren't choosing to study math",
-        "url": "https://phys.org/news/2026-06-pretty-math-real-girls.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782146405000,
-        "summary": "The T-shirt is yellow, 100% cotton and meant for \"everyday wear.\" Across the front, it declares in italic script, \"I'm too pretty to do math.\"",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0161
-      },
-      {
-        "id": "b8d11e05ab52088a",
-        "title": "How languages recycle parts of words to avoid confusion",
-        "url": "https://phys.org/news/2026-06-languages-recycle-words.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782146402000,
-        "summary": "Many languages recycle words, giving them different meanings. For example, in English, \"run\" can mean to move quickly but also to manage something, like \"run a company.\" In Spanish, \"lengua\" is both the word for tongue and language, as in \"la lengua española.\" This type of word reuse is known as colexification.",
-        "tags": [
-          "mathematics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0161
-      },
-      {
-        "id": "ffc2d874603dc908",
-        "title": "Plant‑based products need to be easier to find and consistently affordable for shoppers",
-        "url": "https://phys.org/news/2026-06-plantbased-products-easier-shoppers.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782145208000,
-        "summary": "There is strong evidence that transitioning from animal to more plant-based diets could improve human and planetary health, but progress has been slow. This is partly due to a misunderstanding of what drives the behavior of individuals and organizations alike.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0096
-      },
-      {
-        "id": "6b810963399d8713",
-        "title": "Primordial halo simulations reveal how cosmic storms shaped the universe's first stars",
-        "url": "https://phys.org/news/2026-06-primordial-halo-simulations-reveal-cosmic.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782145206000,
-        "summary": "Just a few hundred million years after the Big Bang, the universe was a dark and simple place. There were no galaxies like the Milky Way, no planets, and no heavy elements such as carbon or oxygen. Instead, vast clouds of primordial hydrogen and helium drifted through space, slowly falling into invisible cocoons of dark matter known as \"minihalos.\" Within these halos, the very first stars—called P",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0096
-      },
-      {
-        "id": "95f888d8f331c1e1",
-        "title": "Titan and Pluto exhibit the same mysterious spectral feature—and researchers can't figure out its origin",
-        "url": "https://phys.org/news/2026-06-titan-pluto-mysterious-spectral-feature.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782144004000,
-        "summary": "Researchers are constantly sifting through new spectral data gathered by powerful telescopes, like the James Webb Space Telescope (JWST). Most of the time, when they identify spectral features—specific absorption or emission lines from different types of light gathered from a planet, moon or star—these features are known to be caused by certain atoms or molecules. For example, the emission line at",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0032
       }
     ]
   },
