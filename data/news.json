@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-23T00:19:20.303114+00:00",
+  "generated_at": "2026-06-23T01:12:39.407928+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c8f713edfc4a70d4",
+        "title": "Ukrainian hackers breach 'rudimentary' Russian combat control system controlled by Telegram groups",
+        "url": "https://www.techradar.com/pro/security/ukrainian-hackers-breach-rudimentary-russian-combat-control-system-controlled-by-telegram-groups",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782176700000,
+        "summary": "Ukrainian hackers reportedly breached Russia's Glaz/Groza system, exposing documents, patents, and videos while disrupting mapping functions and access.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8479
+      },
       {
         "id": "6e89f836240ac521",
         "title": "A server within a server: HP packs 81,920 CPU cores, up to 1.28PB RAM into one 42U rack using 80 multi-node motherboards — unannounced Venice is likely to be the fastest x86 CPU ever produced",
@@ -953,33 +969,20 @@
         "score": 0.8462
       },
       {
-        "id": "d610101173114d58",
-        "title": "Valve Steam Machine review: Couch gaming unboxed, but not always at 4K",
-        "url": "https://www.tomshardware.com/video-games/console-gaming/valve-steam-machine-review",
+        "id": "5500e3d48cd338c9",
+        "title": "Valve opens Steam Machine reservations — details $1,049 starting price, randomized queue to stop scalpers, and limited inventory",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/valve-opens-steam-machine-reservations-details-usd1-049-starting-price-randomized-queue-to-stop-scalpers-and-limited-inventory",
         "source": "Tom's Hardware",
         "lane": "gadgets",
         "published_ts": 1782147600000,
-        "summary": "Valve's Steam Machine is nice box to play PC games on your TV, and is well-designed. But you're not getting the latest hardware, despite a starting price above $1,000.",
+        "summary": "In a blog post, Valve explained its new randomized reservation systems, new tactics to stop scalpers, and why it has limited inventory.",
         "tags": [
           "console gaming",
           "video games"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 0.8251
-      },
-      {
-        "id": "86fce56c9d814a93",
-        "title": "Govee Releases New Smart Light Themes for House of the Dragon Season Three",
-        "url": "https://www.cnet.com/home/smart-home/govee-releases-new-lighting-themes-for-house-of-the-dragon-season-three/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1782147600000,
-        "summary": "Govee teamed up with HBO to show how its TV backlights and smart home lights react to fire-breathing dragons on screen.",
-        "tags": [],
-        "paywall": false,
         "impact": "normal",
-        "score": 0.7137
+        "score": 0.8111
       }
     ],
     "innovation": [
@@ -1000,6 +1003,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8075
+      },
+      {
+        "id": "1712c41680b92a45",
+        "title": "Epic CEO Tim Sweeney says new multiplayer games are failing because players have no reason to leave their friend groups, touts Unreal Engine 6’s cross-game features as a solution",
+        "url": "https://www.reddit.com/r/technology/comments/1ud1cv7/epic_ceo_tim_sweeney_says_new_multiplayer_games/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782172823000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9282
       },
       {
         "id": "5e07f83ece1df46e",
@@ -1949,24 +1967,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7451
-      },
-      {
-        "id": "ba9c9b4a8323cb3d",
-        "title": "Tesla in autopilot crashed into Texas home, killing one - Engadget",
-        "url": "https://www.reddit.com/r/technology/comments/1ucni9o/tesla_in_autopilot_crashed_into_texas_home/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782141598000,
-        "summary": "submitted by /u/kim82352 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8973
       }
     ],
     "ai": [
+      {
+        "id": "d3cd847350a7e743",
+        "title": "Sniff out stale AI override advice with this open source CLI",
+        "url": "https://www.theregister.com/security/2026/06/23/sniff-out-stale-ai-override-advice-with-this-open-source-cli/5259853",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782173833000,
+        "summary": "Package dependencies can create vulnerabilities that are fiendishly hard to find and stamp out",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.114
+      },
       {
         "id": "39ca0cace3845b10",
         "title": "Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 (Bloomberg)",
@@ -1979,6 +1997,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0793
+      },
+      {
+        "id": "f036fc4cf44b18ca",
+        "title": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
+        "url": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782171274000,
+        "summary": "A plethora of pwn-prevention, including a 'Patch The Planet' pledge",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0175
       },
       {
         "id": "d56d7cfb1e0d0259",
@@ -1997,6 +2030,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8505
+      },
+      {
+        "id": "215b921360ff3f43",
+        "title": "U.S. tech megacaps slide as SpaceX extends slump, AI expense concerns grow",
+        "url": "https://www.reddit.com/r/technology/comments/1ud0ere/us_tech_megacaps_slide_as_spacex_extends_slump_ai/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782170379000,
+        "summary": "submitted by /u/Presently_Naked [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9895
       },
       {
         "id": "32d4b2ff861ba1b0",
@@ -2087,6 +2135,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9167
+      },
+      {
+        "id": "7b1be8bf0375af3c",
+        "title": "Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models (Wired)",
+        "url": "https://www.techmeme.com/260622/p38#a260622p38",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782162305000,
+        "summary": "Wired: Meta says it is pausing its employee input tracking program after internal security issues exposed potentially sensitive data meant to train AI models — Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9975
       },
       {
         "id": "c84a4da39ced0384",
@@ -2880,66 +2941,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7514
-      },
-      {
-        "id": "be2f131a64033f1e",
-        "title": "A24 takes on Google money help build AI tools",
-        "url": "https://www.engadget.com/2199010/a24-takes-on-google-money-help-build-ai-tools/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1782146261000,
-        "summary": "A24 is taking $75 million in Google money to help build AI tools for movie production.",
-        "tags": [
-          "tv & movies"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7568
-      },
-      {
-        "id": "3ed953b2ec436857",
-        "title": "Alphabet shares close down 5% on Monday following the departure of Google DeepMind VP John Jumper, the company's second top AI executive to leave in a week (Bloomberg)",
-        "url": "https://www.techmeme.com/260622/p31#a260622p31",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782145801000,
-        "summary": "Bloomberg: Alphabet shares close down 5% on Monday following the departure of Google DeepMind VP John Jumper, the company's second top AI executive to leave in a week — Alphabet Inc. shares tumbled on Monday following the departure of another high-profile artificial intelligence leader to a rival.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0008
-      },
-      {
-        "id": "0edad4d8362b5ded",
-        "title": "Alphabet stock fell as much as 7.2%, the most intraday since February, after Google DeepMind VP John Jumper became its second top AI exec to leave in a week (Bloomberg)",
-        "url": "https://www.techmeme.com/260622/p31#a260622p31",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782145801000,
-        "summary": "Bloomberg: Alphabet stock fell as much as 7.2%, the most intraday since February, after Google DeepMind VP John Jumper became its second top AI exec to leave in a week — Alphabet Inc. shares tumbled on Monday following the departure of another high-profile artificial intelligence leader to a rival.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0724
-      },
-      {
-        "id": "6d6da1afd5faabdf",
-        "title": "'It would make 'em rich': Trump looks to secure government stake in US AI giants",
-        "url": "https://www.techradar.com/pro/where-the-american-people-can-benefit-from-the-success-of-ai-the-american-people-will-like-it-better-trump-looks-to-secure-government-stake-in-us-ai-giants",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782144900000,
-        "summary": "The US government could own shares in the likes of OpenAI and Anthropic as it seeks to boost public perception of AI within the US.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9072
       }
     ],
     "science": [
+      {
+        "id": "607e84b22b83a01f",
+        "title": "Social inequality can harm the foundations of society",
+        "url": "https://phys.org/news/2026-06-social-inequality-foundations-society.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782176401000,
+        "summary": "Can economic inequality threaten liberal societies? This question lies at the heart of the POLAR project led by Markus Gangl, a sociologist at Goethe University Frankfurt. Several publications examining different aspects of the issue shed light on how trust in democracy, belief in meritocracy and perceptions of equal opportunity are changing.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0159
+      },
       {
         "id": "ce831fc9324a6aa4",
         "title": "Mosquito-borne viruses avoid killing hosts by limiting protein output, study reveals",
@@ -3833,21 +3852,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8858
-      },
-      {
-        "id": "03e9b4c7712dcaff",
-        "title": "Bow-and-arrow-shaped radio galaxy discovered by citizen scientist",
-        "url": "https://phys.org/news/2026-06-arrow-radio-galaxy-citizen-scientist.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782138007000,
-        "summary": "Astronomers have discovered a \"remarkable\" bow-and-arrow-shaped radio galaxy with an enormous arc-like structure extending nearly 1.8 million light-years across. The newly identified system, detailed in a new paper published today in Monthly Notices of the Royal Astronomical Society: Letters, has a \"highly unusual\" and asymmetric structure unlike those seen in standard radio galaxies.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0038
       }
     ]
   },
