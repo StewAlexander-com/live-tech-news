@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:02:20.154446+00:00",
+  "generated_at": "2026-06-23T22:21:33.549139+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -115,6 +115,26 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7871
+      },
+      {
+        "id": "9ad352622514a8f2",
+        "title": "Odd police video shows drone removing knife from motionless suspect",
+        "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+        "source": "Ars Technica",
+        "lane": "gadgets",
+        "published_ts": 1782247422000,
+        "summary": "Promo video comes as more US police departments fly drones as first responders.",
+        "tags": [
+          "tech",
+          "aerial surveillance",
+          "commercial drones",
+          "drones",
+          "law enforcement",
+          "police"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9206
       },
       {
         "id": "1a64a09d6c448eb1",
@@ -958,19 +978,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8003
-      },
-      {
-        "id": "1ae05444c8e23324",
-        "title": "Under the Radar",
-        "url": "https://www.techradar.com/tag/under-the-radar",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782226351000,
-        "summary": "All TechRadar stories tagged Under the Radar",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8429
       }
     ],
     "innovation": [
@@ -1928,6 +1935,39 @@
     ],
     "ai": [
       {
+        "id": "4744dd374dcf3823",
+        "title": "Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement (New York Times)",
+        "url": "https://www.techmeme.com/260623/p39#a260623p39",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782252300000,
+        "summary": "New York Times: Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement — Federal officials are urging the lone major tech company holdout to allow government safety evaluations, weeks after ordering Anthropic to pull its latest model.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0743
+      },
+      {
+        "id": "db0d57ef9a105be1",
+        "title": "Hollywood is bending the knee to OpenAI",
+        "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1782252198000,
+        "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem […]",
+        "tags": [
+          "ai",
+          "amazon",
+          "entertainment",
+          "film",
+          "openai",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7874
+      },
+      {
         "id": "acc94a8d3843caaa",
         "title": "I checked what Gemini hears in my car and switched off these settings",
         "url": "https://www.makeuseof.com/checked-what-gemini-hears-in-car-switched-off-these-settings/",
@@ -1942,6 +1982,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8494
+      },
+      {
+        "id": "072d6f56c1a708dc",
+        "title": "China Reclaims Fastest Supercomputer At 2 Exaflops",
+        "url": "https://tech.slashdot.org/story/26/06/23/2015238/china-reclaims-fastest-supercomputer-at-2-exaflops?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1782252000000,
+        "summary": "Longtime Slashdot reader hackingbear shares a report from TOP500: The 67th edition of the TOP500 list of the world's most powerful supercomputers was announced today at the ISC 2026 conference in Hamburg, Germany. LineShine, a previously unlisted system installed in China, debuts at No. 1, displacing El Capitan as the world's most powerful supercomputer as measured by the High Performance Linpack ",
+        "tags": [
+          "supercomputing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0428
       },
       {
         "id": "4f62121365aa67d9",
@@ -2862,57 +2917,44 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1222
-      },
-      {
-        "id": "89c6f97a3986cb33",
-        "title": "Claude’s latest wobble lands in a worse week",
-        "url": "https://thenextweb.com/news/claude-outage-anthropic",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782225804000,
-        "summary": "Anthropic says it has identified a fix for elevated errors across multiple Claude models, just as the company is still explaining why it suspended access to Claude Mythos 5 and Claude Fable 5. Anthropic’s status page says the company began investigating elevated error rates across multiple models at 14:19 UTC on 23 June and moved to identified […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "artificial intelligence",
-          "next featured",
-          "daily dose"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9443
-      },
-      {
-        "id": "1da37db0779bece8",
-        "title": "Claude is down for many —Anthropic says it's 'investigating' the outage",
-        "url": "https://www.techradar.com/news/live/claude-down-june-23-2026",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782225375000,
-        "summary": "Claude is down for many users around the world right now, and Anthropic says it's \"investigating\" an issue. Here's everything we know right now.",
-        "tags": [
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8385
-      },
-      {
-        "id": "54b69871301ee63b",
-        "title": "LG Drops Major Fourth of July Deals: OLED TVs, UltraWide Monitors, and More",
-        "url": "https://www.macrumors.com/2026/06/23/lgs-fourth-of-july-sale/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782225240000,
-        "summary": "LG is hosting an early Fourth of July sale on its website this week, with deals on monitors, TVs, home appliances, and more. LG's discounts have been automatically applied and do not require any discount codes or special memberships. Note: MacRumors is an affiliate partner with LG. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running. High",
-        "tags": [
-          "deals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9858
       }
     ],
     "science": [
+      {
+        "id": "335cfedbd34ae303",
+        "title": "New algorithm identifies disease-linked changes in cells without prior training",
+        "url": "https://phys.org/news/2026-06-algorithm-disease-linked-cells-prior.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782252601000,
+        "summary": "A new algorithm could drive breakthroughs in understanding cancer, Alzheimer's disease and other potentially fatal conditions. Researchers from the University of Waterloo developed the machine-learning algorithm, called RNovA, to detect changes in the proteins in human cells. Their research is published in the journal Nature Biotechnology.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0975
+      },
+      {
+        "id": "67b8a1a3d363e4f8",
+        "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+        "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+        "source": "Ars Technica Science",
+        "lane": "science",
+        "published_ts": 1782252476000,
+        "summary": "Climate.us has now restored everything taken down by the government.",
+        "tags": [
+          "science",
+          "climate change",
+          "climate.gov",
+          "climate.us",
+          "noaa",
+          "trump"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9956
+      },
       {
         "id": "0aeda18ff784a100",
         "title": "A partner's touch can feel unsafe for people with a history of childhood maltreatment",
@@ -3783,39 +3825,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0106
-      },
-      {
-        "id": "b2e7677d63e0a22e",
-        "title": "Scientists create optical skyrmions using a two-century-old light phenomenon",
-        "url": "https://phys.org/news/2026-06-scientists-optical-skyrmions-century-phenomenon.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782222005000,
-        "summary": "Nanyang Technological University, Singapore (NTU Singapore) scientists have used a classic optical phenomenon known as the Poisson spot to create stable patterns of light called optical skyrmions, which are tiny, swirling configurations in the properties of light—akin to the spikes of a hedgehog.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0106
-      },
-      {
-        "id": "2cd81bb4baf05429",
-        "title": "Astral Systems raises £23M to make cancer isotopes by fusion",
-        "url": "https://thenextweb.com/news/astral-systems-23m-fusion-cancer-isotopes",
-        "source": "The Next Web",
-        "lane": "science",
-        "published_ts": 1782221384000,
-        "summary": "Bristol fusion startup Astral Systems has raised £23mn to scale the medical isotopes that cancer scans depend on. The Astral Systems £23M round backs a rare fusion company that already runs reactors and earns revenue. Most fusion companies promise clean power in a decade or two. Astral Systems is trying something different, and getting paid […] This story continues at The Next Web",
-        "tags": [
-          "deep tech",
-          "uk",
-          "investors and funding",
-          "health tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9598
       }
     ]
   },
