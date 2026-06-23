@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:52:29.102237+00:00",
+  "generated_at": "2026-06-23T23:03:07.772268+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -993,6 +993,41 @@
     ],
     "innovation": [
       {
+        "id": "3ccc7a13d3e23534",
+        "title": "Your TV looks worse than the one in the store because of a single setting",
+        "url": "https://www.makeuseof.com/your-tv-looks-worse-than-one-in-store-because-single-setting/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782255619000,
+        "summary": "If you have unboxed a new TV at home, turned it on, and it doesn't look as good as you expected, don't fear! There's a single setting you can adjust.",
+        "tags": [
+          "entertainment",
+          "television"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8492
+      },
+      {
+        "id": "9589f548db83d84e",
+        "title": "A Commodore Boombox: The 1350 as You’ve Never Heard it Before",
+        "url": "https://hackaday.com/2026/06/23/a-commodore-boombox-the-1350-as-youve-never-heard-it-before/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782255617000,
+        "summary": "No, this isn’t another product from [PeriFractic]’s revived company, though we hope he’s taking notes. This is, in fact, a hack on the beloved 1530 Datasette, using the tape mechanism …read more",
+        "tags": [
+          "musical hacks",
+          "retrocomputing",
+          "boombox",
+          "compact cassette",
+          "datasette"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.079
+      },
+      {
         "id": "0d5fe93803ede8a5",
         "title": "Robots will replace 700K delivery workers, warns head of e-commerce giant",
         "url": "https://www.reddit.com/r/technology/comments/1udu0rm/robots_will_replace_700k_delivery_workers_warns/",
@@ -1914,37 +1949,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8055
-      },
-      {
-        "id": "29b22b9e9a1accd3",
-        "title": "SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses (Jan Wolfe/Reuters)",
-        "url": "https://www.techmeme.com/260623/p22#a260623p22",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782226837000,
-        "summary": "Jan Wolfe / Reuters: SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses — The U.S. Supreme Court further limited the reach of a federal law used to hold corporations liable for human rights abuses committed abroad …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9942
-      },
-      {
-        "id": "e90e85fb10ee6f0a",
-        "title": "UK Considers Forcing Social Media Firms To Prioritize Trusted News",
-        "url": "https://tech.slashdot.org/story/26/06/23/0539208/uk-considers-forcing-social-media-firms-to-prioritize-trusted-news?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1782226800000,
-        "summary": "An anonymous reader quotes a report from Reuters: Britain is considering forcing social media companies to prioritize what the government called trusted news sources as part of its broader push to tighten regulation of the sector. The culture department said on Monday it was considering requiring platforms such as Meta's Facebook, Alphabet-owned YouTube and TikTok to make content from public servi",
-        "tags": [
-          "social"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0437
       }
     ],
     "ai": [
+      {
+        "id": "fe27995331e9bd2f",
+        "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+        "url": "https://it.slashdot.org/story/26/06/23/2025211/29-year-old-squid-proxy-bug-squidbleed-can-leak-cleartext-http-requests?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1782255600000,
+        "summary": "A 29-year-old bug in the Squid web proxy, dubbed Squidbleed and tracked as CVE-2026-47729, can let an authorized proxy user retrieve fragments of another user's cleartext HTTP requests, including credentials and session tokens. The security researcher who reported the flaw credited Anthropic's Claude Mythos Preview for the discovery. The Hacker News reports: Squid describes this as an attack by a ",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0489
+      },
       {
         "id": "652173f2b1b6b00b",
         "title": "The hidden cost of your AI rollout: burning out the high performers running it",
@@ -2913,24 +2935,24 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8503
-      },
-      {
-        "id": "9504e2534bc7f8f0",
-        "title": "From alert fatigue to autopilot fatigue: How agentic AI shifts cyber risk",
-        "url": "https://www.techradar.com/pro/from-alert-fatigue-to-autopilot-fatigue-how-agentic-ai-shifts-cyber-risk",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782226493000,
-        "summary": "Agentic AI is reshaping how security teams need to think about risk.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.911
       }
     ],
     "science": [
+      {
+        "id": "5decfc743c8ba250",
+        "title": "Animals are often moved to make way for infrastructure, but we don't know what happens to them next",
+        "url": "https://phys.org/news/2026-06-animals-infrastructure-dont.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782255608000,
+        "summary": "When major infrastructure projects are built in rural areas, wildlife is often displaced and moved out of the way. This is called mitigation translocation, and it is a globally recognized method for moving animals. However, not everyone applies it the same way, or at all.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.019
+      },
       {
         "id": "335cfedbd34ae303",
         "title": "New algorithm identifies disease-linked changes in cells without prior training",
@@ -3821,21 +3843,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.017
-      },
-      {
-        "id": "4548b38f9e392982",
-        "title": "Advances in materials science are helping unlock secrets of nanomaterials",
-        "url": "https://phys.org/news/2026-06-advances-materials-science-secrets-nanomaterials.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782222007000,
-        "summary": "New instruments on the horizon promise the most precise tools yet to study and experiment on the smallest and most complex materials ever manufactured. In a paper published in the journal Nature Materials, University of Cincinnati assistant professor Hanxun Jin highlighted advances in ultrasensitive technology to measure and manipulate some of the tiniest nanomaterials used in manufacturing, aeros",
-        "tags": [
-          "nanomaterials"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0106
       }
     ]
   },
