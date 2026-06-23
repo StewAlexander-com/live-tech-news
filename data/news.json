@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-23T21:30:02.288632+00:00",
+  "generated_at": "2026-06-23T21:52:04.195620+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "ff8b91940fc91522",
+        "title": "Chrome's autofill update makes filling out forms on your phone a breeze",
+        "url": "https://www.androidpolice.com/chrome-android-gets-autofill-upgrade/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1782251146000,
+        "summary": "Chrome's biggest autofill upgrade is now on Android and iOS",
+        "tags": [
+          "google chrome",
+          "browsers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.998
+      },
       {
         "id": "51822345a8c47f27",
         "title": "Save almost $1,500 instantly on an RTX 5080 gaming PC — Legion Tower 7i Gen 10 packs Core Ultra 7 265K and 32GB DDR5",
@@ -954,25 +970,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9861
-      },
-      {
-        "id": "fa66ed2948aea3d6",
-        "title": "Scream or Skip",
-        "url": "https://www.techradar.com/tag/scream-or-skip",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782224651000,
-        "summary": "All TechRadar stories tagged Scream or Skip",
-        "tags": [
-          "entertainment",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8353
       }
     ],
     "innovation": [
+      {
+        "id": "0d5fe93803ede8a5",
+        "title": "Robots will replace 700K delivery workers, warns head of e-commerce giant",
+        "url": "https://www.reddit.com/r/technology/comments/1udu0rm/robots_will_replace_700k_delivery_workers_warns/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782249893000,
+        "summary": "submitted by /u/joe4942 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9417
+      },
       {
         "id": "69b5ab2400601c2a",
         "title": "New breakthrough spots deadly methanol without opening bottles",
@@ -1908,25 +1923,59 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0437
-      },
-      {
-        "id": "a3f59b0850abc76f",
-        "title": "The algorithm has a nose now, and perfume is better for it",
-        "url": "https://thenextweb.com/news/algorithmic-perfumery-ai-fragrance-scentronix",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782226661000,
-        "summary": "In a former shop on Ginnekenstraat, a pedestrian street in the Dutch city of Breda, you can answer a short questionnaire about yourself and walk out less than an hour later holding a perfume that did not exist when you arrived. The questions are not the ones a sales assistant asks. What colour best represents […] This story continues at The Next Web",
-        "tags": [
-          "insider",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9655
       }
     ],
     "ai": [
+      {
+        "id": "4f62121365aa67d9",
+        "title": "Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours (Jordan Novet/CNBC)",
+        "url": "https://www.techmeme.com/260623/p38#a260623p38",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782251401000,
+        "summary": "Jordan Novet / CNBC: Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours — - Cerebras reported financials for the first time since its IPO in May. … Cerebras said revenue almost doubled in the AI chipmaker's …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0793
+      },
+      {
+        "id": "5079c86f0ae21877",
+        "title": "Superhuman acquires AI detection startup GPTZero",
+        "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1782251303000,
+        "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+        "tags": [
+          "startups",
+          "tc",
+          "gptzero",
+          "grammarly",
+          "superhuman"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8069
+      },
+      {
+        "id": "8dfa46cf5cac1568",
+        "title": "Apple Releases Updated AirPods Beta Firmware With iOS 27 Features",
+        "url": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1782250493000,
+        "summary": "Apple today released updated beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is limited to developers at the current time, and it has a build number of 9A5304b. In iOS 27, iPadOS 27, and macOS Golden Gate, Apple is adding a new AirPods interface and support for custom EQ. AirPods are also compatible with the new Siri AI. With iOS 26, iPadOS 26, and ma",
+        "tags": [
+          "airpods",
+          "airpods pro",
+          "featured",
+          "ios 27"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0741
+      },
       {
         "id": "f74e263860f24cfc",
         "title": "Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages (Mistral AI Blog)",
@@ -2857,59 +2906,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0787
-      },
-      {
-        "id": "e43397c6b638f6fe",
-        "title": "21,000 Oracle jobs vanish amid Big Red's big bets on AI",
-        "url": "https://www.theregister.com/databases/2026/06/23/21000-oracle-jobs-vanish-amid-big-reds-big-bets-on-ai/5260086",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1782223935000,
-        "summary": "Annual report reveals workforce fell from 162,000 to 141,000 in a year as company pours billions into datacenter expansion",
-        "tags": [
-          "databases"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1101
-      },
-      {
-        "id": "7d4520f0fea10c36",
-        "title": "Meta investigates security concerns of internal mouse-tracking tech used to track employees and train AI",
-        "url": "https://www.techradar.com/pro/security/meta-investigates-security-concerns-of-internal-mouse-tracking-tech-used-to-track-employees-and-train-ai",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782223800000,
-        "summary": "An employee-tracking program will be paused, but no one knows for how long.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9139
-      },
-      {
-        "id": "7612d4ba63993f20",
-        "title": "Mistral OCR 4",
-        "url": "https://mistral.ai/news/ocr-4/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782223399000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:95"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2589
       }
     ],
     "science": [
+      {
+        "id": "bd99b02a66360b13",
+        "title": "Unique instruments automate sample preparation, quality control for cryo-electron microscopy",
+        "url": "https://phys.org/news/2026-06-unique-instruments-automate-sample-quality.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782251404000,
+        "summary": "Cryo-electron microscopy (cryo-EM) can help scientists determine the three-dimensional structure of proteins in unprecedented detail. Jacques Dubochet, former group leader at EMBL, shared the 2017 Nobel Prize in chemistry with Joachim Frank and Richard Henderson for the development of this technique, which led to the \"resolution revolution\" in structural biology.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0193
+      },
       {
         "id": "997a9ef576e010bf",
         "title": "Hubble details early galaxy transforming neighborhood 1.4 billion years after Big Bang",
@@ -3798,21 +3812,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0176
-      },
-      {
-        "id": "147c04a936a85aee",
-        "title": "Bold move, Cotton: Trump administration tells US techies it expects American quantum computer by 2028",
-        "url": "https://www.theregister.com/hpc/2026/06/23/bold-move-cotton-trump-administration-tells-us-techies-it-expects-american-quantum-computer-by-2028/5260074",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1782220680000,
-        "summary": "Ahem. National effort required to kick-start the era of quantum-enabled scientific discovery and keep America ahead of the game",
-        "tags": [
-          "hpc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1333
       }
     ]
   },
