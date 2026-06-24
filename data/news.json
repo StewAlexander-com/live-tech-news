@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-06-24T03:42:43.078744+00:00",
+  "generated_at": "2026-06-24T04:32:54.701221+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "76714cb3343b6689",
+        "title": "Don’t overspend on your mobile plan — these 5 EOFY deals on SIM-only plans will give you more data for less",
+        "url": "https://www.techradar.com/phones/network-providers/dont-overspend-on-your-mobile-plan-these-5-eofy-deals-on-sim-only-plans-will-give-you-more-data-for-less",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782273874000,
+        "summary": "Unless you’re locked in to a specific telco with your phone, it’s a lot easier to switch mobile plans in Australia, which means you can easily swap to a provider offering the best deals — here are the best ones I’ve found.",
+        "tags": [
+          "network providers",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8423
+      },
+      {
+        "id": "94b191246bdaf622",
+        "title": "Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation",
+        "url": "https://arxiv.org/abs/2606.24369",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24369v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visua",
+        "tags": [
+          "cs.ai",
+          "cs.dc",
+          "cs.ni",
+          "cs.pf"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
       {
         "id": "8b268b052c619e8d",
         "title": "Whoops! Microsoft Outlook Mac Update Removes Email Conversation History",
@@ -954,41 +988,52 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9932
-      },
-      {
-        "id": "0d0146b9431ed040",
-        "title": "Microsoft Adds 8GB Configs to Drop Starting Price of Surface Pro and Surface Laptop",
-        "url": "https://www.cnet.com/tech/computing/microsoft-adds-8gb-configs-to-drop-starting-price-of-surface-pro-and-surface-laptop/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1782229740000,
-        "summary": "That's one way to combat rising costs associated with RAMageddon.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8003
-      },
-      {
-        "id": "a9d70661f3c6b370",
-        "title": "Meta’s smart glasses now have a dedicated charging stand",
-        "url": "https://www.theverge.com/tech/954900/meta-glasses-charging-stand-price-launch",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1782229178000,
-        "summary": "Meta launched a stand accessory that lets you display the company's smart glasses on your desk or nightstand while they're being recharged. The new Charging Stand is listed at $59 on Meta's website - $30 less than the charging case for Meta's non-Ray-Ban glasses - and resembles a metal tube with a groove you can […]",
-        "tags": [
-          "gadgets",
-          "meta",
-          "news",
-          "tech",
-          "wearable"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7835
       }
     ],
     "innovation": [
+      {
+        "id": "34f1575184cc1222",
+        "title": "Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach",
+        "url": "https://arxiv.org/abs/2606.24237",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24237v1 Announce Type: new Abstract: Federated Graph Learning facilitates collaborative graph modeling across distributed clients while preserving data privacy. However, real-world data categories frequently exhibit long-tailed distributions. Such statistical scarcity severely degrades performance in two ways: it biases the global model toward majority classes, and it structurally isola",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
+      {
+        "id": "da7fb9a12a5ad91d",
+        "title": "Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, as it also claims orders have grown ~400% YoY (Jagmeet Singh/TechCrunch)",
+        "url": "https://www.techmeme.com/260623/p47#a260623p47",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782273005000,
+        "summary": "Jagmeet Singh / TechCrunch: Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, as it also claims orders have grown ~400% YoY — As quick commerce becomes India's next e-commerce battleground, Walmart-backed Flipkart said Wednesday that its Minutes service …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9864
+      },
+      {
+        "id": "e9d78e8f3f8b5a52",
+        "title": "Chinese supercomputer using local processors heads TOP500 list",
+        "url": "https://www.theregister.com/hpc/2026/06/24/chinese-supercomputer-using-local-processors-heads-top500-list/5260532",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782272084000,
+        "summary": "Use of Arm cores and Linux mean Beijing hasn’t broken away from the world",
+        "tags": [
+          "hpc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0306
+      },
       {
         "id": "19014772cca72e8c",
         "title": "47% of Harvard seniors admit to cheating — and the problem existed long before ChatGPT",
@@ -1892,55 +1937,236 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9974
-      },
-      {
-        "id": "6655299b8e43748e",
-        "title": "LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue (Zack Whittaker/TechCrunch)",
-        "url": "https://www.techmeme.com/260623/p26#a260623p26",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782230701000,
-        "summary": "Zack Whittaker / TechCrunch: LastPass notifies customers that their personal information and customer support case records were stolen during a hack at Canadian market research company Klue — Password manager maker LastPass is notifying customers that their personal information and customer support case records …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9973
-      },
-      {
-        "id": "2327c716a8ed2789",
-        "title": "LastPass says hackers stole customer data through a supply chain breach at Klue",
-        "url": "https://thenextweb.com/news/lastpass-klue-supply-chain-breach-customer-data-stolen",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782230617000,
-        "summary": "LastPass is notifying customers that their personal information and customer support case data were stolen after hackers breached Klue, a competitive intelligence vendor that held OAuth tokens granting access to LastPass’s Salesforce environment. The breach did not compromise LastPass’s own infrastructure or its customers’ encrypted password vaults. The stolen data includes names, phone numbers, e",
-        "tags": [
-          "data and security",
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8825
-      },
-      {
-        "id": "ce518fa8963b09ee",
-        "title": "Your Pixel can do 7 new things now that it couldn't do last month",
-        "url": "https://www.makeuseof.com/your-pixel-can-do-7-new-things-now-that-it-couldnt-do-last-month/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782230418000,
-        "summary": "From floating apps to built-in green screen, your Pixel got a lot more capable this month.",
-        "tags": [
-          "android",
-          "google pixel",
-          "android tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8464
       }
     ],
     "ai": [
+      {
+        "id": "4c968babd988dd5e",
+        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2606.23927",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "3aefdd61e6a83895",
+        "title": "Critique of Agent Model",
+        "url": "https://arxiv.org/abs/2606.23991",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agenc",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.ma",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "619e81b80b0a46cf",
+        "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+        "url": "https://arxiv.org/abs/2606.24014",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whethe",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "e022871aaca49937",
+        "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+        "url": "https://arxiv.org/abs/2606.24047",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24047v1 Announce Type: new Abstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hardship further increases their psychological risk. Current machine learning (ML) models are typically ineffective at capturing the high-dimensional and complex risk patterns that exis",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "816a71a370cbdc56",
+        "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+        "url": "https://arxiv.org/abs/2606.24099",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24099v1 Announce Type: new Abstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularity and influence, existing studies usually evaluate individual algorithms in isolation and pay limited attention to the collective influence formed through their interconnections. T",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.dl",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "2e89cd0f87f89da5",
+        "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
+        "url": "https://arxiv.org/abs/2606.24224",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24224v1 Announce Type: new Abstract: Despite the extensive discussions of human-centric AI (HCAI) in Industry 5.0, its effects on firms' idiosyncratic risks (IR) remains underexplored. This is an imperative issue for firms navigate financial risks during the current technological revolution, as IR reflects investor reactions to corporate heterogeneous AI strategies and implementations b",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "5a3a6e08e0c6d60a",
+        "title": "Systematic Exploration of 4-Expert Heterogeneous Mixture-of-Experts via Automated Pipeline Search",
+        "url": "https://arxiv.org/abs/2606.23739",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23739v1 Announce Type: new Abstract: We present an automated large-scale search pipeline for heterogeneous 4-Expert Mixture-of-Experts (MoE4) architectures within the LEMUR neural network dataset ecosystem. Building on a hand-crafted heterogeneous MoE reference model, we replace manual design with a deterministic code-assembly generator that systematically combines base architecture fam",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "619bfd2413c04508",
+        "title": "Low-power analogue neural networks with trainable nonlinear connections for continuous control",
+        "url": "https://arxiv.org/abs/2606.23742",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23742v1 Announce Type: new Abstract: Physical neural networks promise low-power machine learning by computing directly with analogue device physics, but most architectures force nonlinear device responses to act as scalar weights. Inspired by Kolmogorov-Arnold networks, we place trainable nonlinear functions on the connections, making each physical connection a learnable computational e",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ar"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "0065f77d05fcec38",
+        "title": "Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America",
+        "url": "https://arxiv.org/abs/2606.23833",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23833v1 Announce Type: new Abstract: Terrestrial water storage (TWS) integrates snow, soil moisture, surface water, and groundwater and is a key indicator of how climate variability and human activity reshape the global water cycle. The GRACE and GRACE-FO satellite missions provide the only direct, globally consistent observations of TWS change, but their record only begins in 2002 whic",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "dd61cfc06fce86d0",
+        "title": "The Degeneracy Distillery",
+        "url": "https://arxiv.org/abs/2606.23838",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23838v1 Announce Type: new Abstract: When two or more parameters or labels produce similar data, they are degenerate, or hard to distinguish. Degeneracies render both label prediction and inverse problems difficult, since both machine learning algorithms and probabilistic samplers rely on the distinguishability of data and its gradients with respect to parameters. However, identifying d",
+        "tags": [
+          "cs.lg",
+          "physics.comp-ph",
+          "physics.data-an",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "d2fc031793876f91",
+        "title": "Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach",
+        "url": "https://arxiv.org/abs/2606.23851",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23851v1 Announce Type: new Abstract: This work investigates the implementation of artificial intelligence and machine learning (AI/ML) for real-time monitoring in laser powder bed fusion (LPBF) additive manufacturing. We developed a binary image classification framework for distinguishing normal and abnormal melt pool images using a balanced dataset of 1,200 images collected from Nickel",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "21eebab3568f94a3",
+        "title": "Are Safety Guarantees in Neural Networks Safe? How to Compute Trustworthy Robustness Certifications",
+        "url": "https://arxiv.org/abs/2606.23858",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23858v1 Announce Type: new Abstract: A primary challenge in AI safety is the existence of adversarial examples -- slightly distorted inputs that cause a neural network (NN) to misclassify. To mitigate this problem, recent research focuses on the computation of robustness certifications, which, for a given input, determine the largest distortion the input may receive without breaking the",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "dc6cb8b9d0539020",
+        "title": "Sources: prices for Nvidia's AI chips on China's black market have more than doubled amid a US export crackdown; its flagship DGX B300 server has risen to $1.1M (Eleanor Olcott/Financial Times)",
+        "url": "https://www.techmeme.com/260623/p48#a260623p48",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782273302000,
+        "summary": "Eleanor Olcott / Financial Times: Sources: prices for Nvidia's AI chips on China's black market have more than doubled amid a US export crackdown; its flagship DGX B300 server has risen to $1.1M — US crackdown on illicit exports has made it riskier, harder and more expensive to buy tech giant's processors",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.067
+      },
+      {
+        "id": "7bdd15e24a7fbb34",
+        "title": "Sakana Fugu: a multi-agent system delivered as one model",
+        "url": "https://github.com/SakanaAI/fugu",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782271918000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:6"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0297
+      },
       {
         "id": "474075264c9105c5",
         "title": "Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+ (Geoff Weiss/Business Insider)",
@@ -1979,6 +2205,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0745
+      },
+      {
+        "id": "6520ec0e2c1de63f",
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782267707000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:11"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 1.0067
       },
       {
         "id": "6746834f13b96074",
@@ -2647,269 +2889,123 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9881
-      },
-      {
-        "id": "14abba633dd8490d",
-        "title": "Apple Seeds watchOS 27 Beta 2 to Developers",
-        "url": "https://www.macrumors.com/2026/06/23/apple-seeds-watchos-27-beta-2-to-developers/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782238685000,
-        "summary": "Apple today seeded the second beta of watchOS 27 to developers, with the update coming two weeks after the launch of the first beta. The beta can be downloaded through the Watch app on the iPhone with a free developer account. The Apple Watch will need to be on the charger, connected to Wi-Fi, and have a battery level of 50 percent or above for new software to be installed. The beta is available f",
-        "tags": [
-          "watchos"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0774
-      },
-      {
-        "id": "41404b0442a54fa7",
-        "title": "Workday accused of AI bias in job screening, faces California lawsuit over employment tech",
-        "url": "https://www.techradar.com/pro/workday-accused-of-ai-bias-in-job-screening-faces-california-lawsuit-over-employment-tech",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782238200000,
-        "summary": "Plaintiff accuses Workday's AI job screening software of blocking him from 100+ jobs before prospective employers even got to consider him.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9134
-      },
-      {
-        "id": "4f670ac3412460b6",
-        "title": "Microsoft Will Again Force-Install Microsoft 365 Copilot App on Windows 11",
-        "url": "https://www.reddit.com/r/technology/comments/1udol7w/microsoft_will_again_forceinstall_microsoft_365/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782237796000,
-        "summary": "submitted by /u/InternetEntire438 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9338
-      },
-      {
-        "id": "e166fa692188d480",
-        "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
-        "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782237580000,
-        "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
-        "tags": [
-          "policy",
-          "abc",
-          "brendan carr",
-          "fcc",
-          "the view"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9818
-      },
-      {
-        "id": "217249be07642236",
-        "title": "Early land animals skipped the tadpole phase",
-        "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782236949000,
-        "summary": "Current amphibian development may not have been typical of early land vertebrates.",
-        "tags": [
-          "science",
-          "amphibians",
-          "biology",
-          "embryogenesis",
-          "evolution",
-          "tadpoles"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9785
-      },
-      {
-        "id": "5ca0cb05462d5d02",
-        "title": "Oracle cut 21,000 jobs this year and its SEC filing explicitly blames AI",
-        "url": "https://thenextweb.com/news/oracle-21000-layoffs-ai-data-centres",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782236860000,
-        "summary": "Oracle’s global workforce fell to 141,000 full-time employees as of 31 May 2026, down from 162,000 a year earlier, a net reduction of roughly 21,000 people. The company’s annual regulatory filing stated plainly that “the adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce.” It […] This story continues at The Nex",
-        "tags": [
-          "artificial intelligence",
-          "next featured",
-          "business",
-          "future of work",
-          "oracle"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9656
-      },
-      {
-        "id": "68016f5ec33ca7bf",
-        "title": "US healthcare AI platform Xsolis confirms data breach that affects 1.4 million individuals",
-        "url": "https://www.techradar.com/pro/security/us-healthcare-ai-platform-xsolis-confirms-data-breach-that-affects-1-4-million-individuals",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782235800000,
-        "summary": "Social Security numbers and health insurance information nabbed as Xsolis tells its customers to be careful.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9136
-      },
-      {
-        "id": "84f90a8eb8f77d45",
-        "title": "Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers (David Gewirtz/ZDNET)",
-        "url": "https://www.techmeme.com/260623/p30#a260623p30",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782234904000,
-        "summary": "David Gewirtz / ZDNET: Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers — ZDNET's key takeaways — Claude Tag puts an always-on AI coworker inside Slack. — Each Slack channel can get its own isolated Claude identity.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.078
-      },
-      {
-        "id": "75b64336cfb9f244",
-        "title": "Claude Tag",
-        "url": "https://www.anthropic.com/news/introducing-claude-tag",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782234558000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:31"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2411
-      },
-      {
-        "id": "2bdb11af4f335d16",
-        "title": "Why corporate AI super PACs spent $27 million on a local election",
-        "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1782234000000,
-        "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's […]",
-        "tags": [
-          "ai",
-          "column",
-          "policy",
-          "politics",
-          "regulator"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.854
-      },
-      {
-        "id": "62ac37bd9e2409fa",
-        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782234000000,
-        "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-        "tags": [
-          "ai",
-          "enterprise",
-          "anthropic",
-          "claude",
-          "claude tag",
-          "enterprise ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8066
-      },
-      {
-        "id": "8e39359cf19763d5",
-        "title": "Sorry, Slackbot. Claude is taking your job",
-        "url": "https://www.engadget.com/2199619/anthropic-announces-claude-tag-for-slack/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1782234000000,
-        "summary": "Anthropic has introduced @Claude for Slack.",
-        "tags": [
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7029
-      },
-      {
-        "id": "8ce6683a01fcac8b",
-        "title": "Samsung’s latest innovation means better battery life and smarter AI for your next phone",
-        "url": "https://www.makeuseof.com/samsungs-latest-innovation-means-better-battery-life-and-smarter-ai-for-your-next-phone/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1782233936000,
-        "summary": "UFS 5.0 has major implications on the future of Galaxy phones.",
-        "tags": [
-          "android",
-          "samsung galaxy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9163
-      },
-      {
-        "id": "245dffc926e0e368",
-        "title": "‘Even if you know what you’re doing, everyone should use vibe coding’ – how a tech influencer got me excited about AI again",
-        "url": "https://www.techradar.com/computing/laptops/even-if-you-know-what-youre-doing-everyone-should-use-vibe-coding-how-a-tech-influencer-got-me-excited-about-ai-again",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782231746000,
-        "summary": "Is the MacBook Neo worth it for students? I spoke to a tech influencer who told me it’s all about vibe coding.",
-        "tags": [
-          "laptops",
-          "ai platforms &amp; assistants",
-          "apple intelligence",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9056
-      },
-      {
-        "id": "868cf1f2a4867872",
-        "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
-        "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782231414000,
-        "summary": "Public notice of a single \"compassionate use\" case is odd in every way.",
-        "tags": [
-          "health",
-          "compassionate use",
-          "eli lilly",
-          "expanded access",
-          "fda",
-          "glp-1"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9797
       }
     ],
     "science": [
+      {
+        "id": "e80d957d70d7587f",
+        "title": "Rapid FinFET Modelling Using an Autoencoder",
+        "url": "https://arxiv.org/abs/2606.24046",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24046v1 Announce Type: new Abstract: This work presents a machine learning framework that leverages an autoencoder (AE) for the efficient modeling of FinFET. We first calibrated a BSIM-CMG model to generate a dataset of current-voltage (ID-VG) characteristics. This data was used to train an autoencoder that compresses full I-V curves into a low-dimensional latent space, which intrinsica",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "physics.app-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1221
+      },
+      {
+        "id": "e1d3a2c58bfdbe1c",
+        "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+        "url": "https://arxiv.org/abs/2606.24157",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.24157v1 Announce Type: new Abstract: The space $\\mathcal{P}_2(\\mathbb{R}^d$) of probability measures with finite second moment carries a natural geometry: the quadratic Wasserstein distance W_2 makes it a complete metric space and, following Otto, a (formal) Riemannian manifold whose geodesics are the optimal-transport interpolations. On this manifold, the gradient flow of the free ener",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
+      {
+        "id": "5b48b769ae562ee2",
+        "title": "Weight-Space Geometry of Offline Reasoning Training",
+        "url": "https://arxiv.org/abs/2606.23740",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23740v1 Announce Type: new Abstract: Offline reinforcement-learning losses (RFT, RIFT, DFT, Offline GRPO, DPO) are widely used to distill reasoning from large teachers into smaller students, and are typically compared on downstream accuracy alone. We ask whether they are mechanistically distinct or converge to a similar weight update. Training six methods (SFT, RFT, DFT, RIFT, Offline G",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
+      {
+        "id": "962b3de25f8255e8",
+        "title": "GRACE: Gated Refinement for Accurate Causal Edge Discovery in High-Dimensional Time Series",
+        "url": "https://arxiv.org/abs/2606.23880",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23880v1 Announce Type: new Abstract: From climate teleconnections to gene regulation, modern time-series datasets encompass tens or hundreds of interacting variables, making causal discovery increasingly challenging. Constraint-based methods offer statistical rigor but their nonlinear CI tests are infeasible at scale, while score-based alternatives avoid CI testing but require arbitrary",
+        "tags": [
+          "cs.lg",
+          "stat.me"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
+      {
+        "id": "112b4bd229fc58d2",
+        "title": "ARIA: Adaptive Region-Based Importance Allocation for Conditional Diffusion Distillation",
+        "url": "https://arxiv.org/abs/2606.23898",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23898v1 Announce Type: new Abstract: Distilling conditional diffusion models aims to transfer the behavior of a large teacher to a smaller student while preserving alignment across conditioning inputs. Unlike recognition tasks, knowledge distillation in conditional diffusion often struggles to transfer knowledge beyond the training distribution, since the predicted noise strongly depend",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
+      {
+        "id": "b2c945e720f22233",
+        "title": "Offline Reinforcement Learning for Warehouse SLAM Throughput Control",
+        "url": "https://arxiv.org/abs/2606.23978",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23978v1 Announce Type: new Abstract: We present an offline reinforcement learning (RL) framework for optimizing SLAM throughput control in a warehouse fulfillment environment. SLAM (Scan/Label/Apply/Manifest) throughput directly influences system congestion and operational efficiency. Our RL-based control approach dynamically recommends SLAM throughput settings that adaptively balance t",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
+      {
+        "id": "c6d4704e977cc8c0",
+        "title": "EMAgnet: Parameter-Space EMA Regularization for Policy Gradient Self-Play in Large Games",
+        "url": "https://arxiv.org/abs/2606.23995",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23995v1 Announce Type: new Abstract: Recent work has established that regularized policy gradient methods such as PPO, when used in self-play, can match or exceed specialized game-theoretic algorithms for solving two-player zero-sum imperfect-information games. The uniform distribution has emerged as a strong policy regularization target for this purpose, but it regularizes equally towa",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.gt",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.039
+      },
       {
         "id": "0e0144c05df890b1",
         "title": "Every time Norway scores, the whole city of Bergen shakes",
@@ -3715,109 +3811,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0999
-      },
-      {
-        "id": "8f75a655615c63b9",
-        "title": "How a heat dome is formed and why experts blame one for Europe's baking temperatures",
-        "url": "https://phys.org/news/2026-06-dome-experts-blame-europe-temperatures.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782236256000,
-        "summary": "Europe is sizzling under an early heat wave this week, with millions of people experiencing extremely high temperatures, and experts say a phenomenon known as a heat dome is to blame.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "4c9adf62bda0b600",
-        "title": "Meta reportedly dips its pathetic toes into the prediction market space",
-        "url": "https://www.engadget.com/2199962/meta-reportedly-dips-its-pathetic-toes-into-the-prediction-market-space/",
-        "source": "Engadget",
-        "lane": "science",
-        "published_ts": 1782235371000,
-        "summary": "Mark Zuckerberg has reportedly directed Meta to build its own prediction market.",
-        "tags": [
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.699
-      },
-      {
-        "id": "47b947045c55f92c",
-        "title": "Yellow mealworms mapped anatomically for the first time",
-        "url": "https://phys.org/news/2026-06-yellow-mealworms-anatomically.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782235212000,
-        "summary": "The dried larvae of the yellow mealworm beetle (Tenebrio molitor) are comparable to beef or poultry in nutritional value, but the mealworm has a far smaller ecological footprint. It was recently approved for human consumption by the European Food Safety Authority.",
-        "tags": [
-          "veterinary medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "1fb2855326c0d671",
-        "title": "Pathway to high-fidelity quantum computing identified",
-        "url": "https://phys.org/news/2026-06-pathway-high-fidelity-quantum.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782235201000,
-        "summary": "Researchers from the University of Sydney, working with IBM, have identified and quantified important factors limiting the performance of quantum computers and demonstrated ways to overcome their impact.",
-        "tags": [
-          "quantum physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1013
-      },
-      {
-        "id": "717d7cca286b6374",
-        "title": "Attitudes, not personality, may drive deepfake pornography creation",
-        "url": "https://phys.org/news/2026-06-attitudes-personality-deepfake-pornography-creation.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782234012000,
-        "summary": "New research from Edith Cowan University (ECU) suggests attitudes, particularly those that excuse harmful behavior, may be a stronger predictor of willingness to create deepfake pornography than personality traits. The findings are published in the Journal of Sexual Aggression.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "ba03d2192dbb7ac5",
-        "title": "Although woodland salamanders have looked the same for millions of years, their physiology has evolved rapidly",
-        "url": "https://phys.org/news/2026-06-woodland-salamanders-millions-years-physiology.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782234006000,
-        "summary": "For her doctoral dissertation, Yale's Nathalie Alomar decided to study a small amphibian that appeared to have eluded the forces of evolution. She found that there is more to its evolution than meets the eye.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
-      },
-      {
-        "id": "e703aec8a2ab5380",
-        "title": "SpaceX raised $25B in its debut US bond sale; sources: the offering drew nearly $90B of orders at its peak, falling to $73B by the time the deal priced (Bloomberg)",
-        "url": "https://www.techmeme.com/260623/p28#a260623p28",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1782233401000,
-        "summary": "Bloomberg: SpaceX raised $25B in its debut US bond sale; sources: the offering drew nearly $90B of orders at its peak, falling to $73B by the time the deal priced — SpaceX Loses $600 Billion in Value Over Three Days — Video Player is loading. — Unmute — Current Time 0:00 Loaded: 12.89% Playback Rate",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8471
       }
     ]
   },
