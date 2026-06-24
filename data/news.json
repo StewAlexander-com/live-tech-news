@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T18:55:38.945178+00:00",
+  "generated_at": "2026-06-24T18:59:07.454335+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3810,6 +3810,38 @@
         "score": 1.0074
       },
       {
+        "id": "962b3de25f8255e8",
+        "title": "GRACE: Gated Refinement for Accurate Causal Edge Discovery in High-Dimensional Time Series",
+        "url": "https://arxiv.org/abs/2606.23880",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23880v1 Announce Type: new Abstract: From climate teleconnections to gene regulation, modern time-series datasets encompass tens or hundreds of interacting variables, making causal discovery increasingly challenging. Constraint-based methods offer statistical rigor but their nonlinear CI tests are infeasible at scale, while score-based alternatives avoid CI testing but require arbitrary",
+        "tags": [
+          "cs.lg",
+          "stat.me"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7868
+      },
+      {
+        "id": "112b4bd229fc58d2",
+        "title": "ARIA: Adaptive Region-Based Importance Allocation for Conditional Diffusion Distillation",
+        "url": "https://arxiv.org/abs/2606.23898",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23898v1 Announce Type: new Abstract: Distilling conditional diffusion models aims to transfer the behavior of a large teacher to a smaller student while preserving alignment across conditioning inputs. Unlike recognition tasks, knowledge distillation in conditional diffusion often struggles to transfer knowledge beyond the training distribution, since the predicted noise strongly depend",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7868
+      },
+      {
         "id": "b2c945e720f22233",
         "title": "Offline Reinforcement Learning for Warehouse SLAM Throughput Control",
         "url": "https://arxiv.org/abs/2606.23978",
@@ -3859,37 +3891,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1221
-      },
-      {
-        "id": "e1d3a2c58bfdbe1c",
-        "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
-        "url": "https://arxiv.org/abs/2606.24157",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782273600000,
-        "summary": "arXiv:2606.24157v1 Announce Type: new Abstract: The space $\\mathcal{P}_2(\\mathbb{R}^d$) of probability measures with finite second moment carries a natural geometry: the quadratic Wasserstein distance W_2 makes it a complete metric space and, following Otto, a (formal) Riemannian manifold whose geodesics are the optimal-transport interpolations. On this manifold, the gradient flow of the free ener",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.039
-      },
-      {
-        "id": "5b48b769ae562ee2",
-        "title": "Weight-Space Geometry of Offline Reasoning Training",
-        "url": "https://arxiv.org/abs/2606.23740",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782273600000,
-        "summary": "arXiv:2606.23740v1 Announce Type: new Abstract: Offline reinforcement-learning losses (RFT, RIFT, DFT, Offline GRPO, DPO) are widely used to distill reasoning from large teachers into smaller students, and are typically compared on downstream accuracy alone. We ask whether they are mechanistically distinct or converge to a similar weight update. Training six methods (SFT, RFT, DFT, RIFT, Offline G",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.039
       }
     ]
   },
