@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-24T13:52:04.557047+00:00",
+  "generated_at": "2026-06-24T13:54:26.407587+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "b9fb60da6e40a74c",
+        "title": "Is your Amazon Echo haunted? Viral video captures ‘terrifying’ moment the smart speaker emits ‘guttural sounds’ during a simple family bedtime ritual",
+        "url": "https://www.techradar.com/home/smart-speakers/is-your-amazon-echo-haunted-viral-video-captures-terrifying-moment-the-smart-speaker-emits-guttural-sounds-during-a-simple-family-bedtime-ritual",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782309187000,
+        "summary": "The new and improved Alexa+ seems to have got a bit too expressive in a counting task.",
+        "tags": [
+          "smart speakers",
+          "home",
+          "smart home"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8496
+      },
+      {
+        "id": "c608c63728546a67",
+        "title": "With GTA 6 closer than ever, these are all the other Grand Theft Auto games you can play before it arrives",
+        "url": "https://www.techradar.com/gaming/with-gta-6-closer-than-ever-these-are-all-the-other-grand-theft-auto-games-you-can-play-before-it-arrives",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782309002000,
+        "summary": "Catch up on Grand Theft Auto games before GTA 6 arrives.",
+        "tags": [
+          "gaming",
+          "seasonal sales"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8488
+      },
       {
         "id": "d712d2f1e7da806c",
         "title": "As the 2026 World Cup expands, so does the threat surface",
@@ -943,44 +976,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7965
-      },
-      {
-        "id": "ab5098af229019e5",
-        "title": "The cheap headphones and earbuds actually worth buying, as picked by audio experts who really tested them",
-        "url": "https://www.techradar.com/audio/wireless-headphones/the-cheap-headphones-and-earbuds-actually-worth-buying-as-picked-by-audio-experts-who-really-tested-them",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782262800000,
-        "summary": "Wallet-friendly headphones and earbuds that won't disappoint.",
-        "tags": [
-          "wireless headphones",
-          "earbuds &amp; airpods",
-          "audio",
-          "headphones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.847
-      },
-      {
-        "id": "741d5de11e419678",
-        "title": "‘Travelers are getting better at spotting obvious scams' — but experts warn Airbnb scams are on the rise as summer arrives",
-        "url": "https://www.techradar.com/pro/security/travelers-are-getting-better-at-spotting-obvious-scams-but-experts-warn-airbnb-scams-are-on-the-rise-as-summer-arrives",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782259500000,
-        "summary": "As summer travel peaks, experts warn of Airbnb scams exploiting verified host accounts to trick users into fake vacations.",
-        "tags": [
-          "security",
-          "cyber crime",
-          "cyber security",
-          "pro",
-          "computing",
-          "computing security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
       }
     ],
     "innovation": [
@@ -2656,6 +2651,39 @@
         "score": 1.0777
       },
       {
+        "id": "d2fc031793876f91",
+        "title": "Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach",
+        "url": "https://arxiv.org/abs/2606.23851",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23851v1 Announce Type: new Abstract: This work investigates the implementation of artificial intelligence and machine learning (AI/ML) for real-time monitoring in laser powder bed fusion (LPBF) additive manufacturing. We developed a binary image classification framework for distinguishing normal and abnormal melt pool images using a balanced dataset of 1,200 images collected from Nickel",
+        "tags": [
+          "cs.lg",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9371
+      },
+      {
+        "id": "21eebab3568f94a3",
+        "title": "Are Safety Guarantees in Neural Networks Safe? How to Compute Trustworthy Robustness Certifications",
+        "url": "https://arxiv.org/abs/2606.23858",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782273600000,
+        "summary": "arXiv:2606.23858v1 Announce Type: new Abstract: A primary challenge in AI safety is the existence of adversarial examples -- slightly distorted inputs that cause a neural network (NN) to misclassify. To mitigate this problem, recent research focuses on the computation of robustness certifications, which, for a given input, determine the largest distortion the input may receive without breaking the",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9371
+      },
+      {
         "id": "4c968babd988dd5e",
         "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
         "url": "https://arxiv.org/abs/2606.23927",
@@ -2782,39 +2810,6 @@
           "cs.lg",
           "cs.ai",
           "cs.ar"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1221
-      },
-      {
-        "id": "0065f77d05fcec38",
-        "title": "Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America",
-        "url": "https://arxiv.org/abs/2606.23833",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782273600000,
-        "summary": "arXiv:2606.23833v1 Announce Type: new Abstract: Terrestrial water storage (TWS) integrates snow, soil moisture, surface water, and groundwater and is a key indicator of how climate variability and human activity reshape the global water cycle. The GRACE and GRACE-FO satellite missions provide the only direct, globally consistent observations of TWS change, but their record only begins in 2002 whic",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1221
-      },
-      {
-        "id": "dd61cfc06fce86d0",
-        "title": "The Degeneracy Distillery",
-        "url": "https://arxiv.org/abs/2606.23838",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782273600000,
-        "summary": "arXiv:2606.23838v1 Announce Type: new Abstract: When two or more parameters or labels produce similar data, they are degenerate, or hard to distinguish. Degeneracies render both label prediction and inverse problems difficult, since both machine learning algorithms and probabilistic samplers rely on the distinguishability of data and its gradients with respect to parameters. However, identifying d",
-        "tags": [
-          "cs.lg",
-          "physics.comp-ph",
-          "physics.data-an",
-          "stat.ml"
         ],
         "paywall": false,
         "impact": "high",
