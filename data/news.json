@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-06-24T02:23:16.778998+00:00",
+  "generated_at": "2026-06-24T03:00:54.962924+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "8b268b052c619e8d",
+        "title": "Whoops! Microsoft Outlook Mac Update Removes Email Conversation History",
+        "url": "https://www.cnet.com/tech/services-and-software/microsoft-outlook-new-mac-update-deletes-conversation-history/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1782264613000,
+        "summary": "While there's no official fix from Microsoft, there is a workaround.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7965
+      },
       {
         "id": "ab5098af229019e5",
         "title": "The cheap headphones and earbuds actually worth buying, as picked by audio experts who really tested them",
@@ -973,25 +986,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7835
-      },
-      {
-        "id": "7eff6026a2ce7ae9",
-        "title": "How much would the Steam Machine cost to build?",
-        "url": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1782228600000,
-        "summary": "The Steam Machine is here, with a base price of $1,049. Yes, that's nearly twice the price of a PS5, but what you're buying here isn't a console but a full-on PC - and a tiny one at that. Valve says it's selling the Steam Machine basically at cost. So we asked ourselves: What would […]",
-        "tags": [
-          "analysis",
-          "gaming",
-          "pc gaming",
-          "report",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7915
       }
     ],
     "innovation": [
@@ -1950,6 +1944,19 @@
     ],
     "ai": [
       {
+        "id": "68c496f0317c28e9",
+        "title": "Alex Bores lost to Micah Lasher in an NY Congressional Democrat primary that became a proxy war over AI regulation that drew millions in spending from AI PACs (Ben Kamisar/NBC News)",
+        "url": "https://www.techmeme.com/260623/p45#a260623p45",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782269101000,
+        "summary": "Ben Kamisar / NBC News: Alex Bores lost to Micah Lasher in an NY Congressional Democrat primary that became a proxy war over AI regulation that drew millions in spending from AI PACs — NBC News projects that Lasher, who was backed by retiring Rep. Jerry Nadler, emerged from a crowded field in the Manhattan-based 12th District.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0745
+      },
+      {
         "id": "6746834f13b96074",
         "title": "The NSA was red-teaming Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos identified cybersecurity flaws in classified systems (New York Times)",
         "url": "https://www.techmeme.com/260623/p44#a260623p44",
@@ -1961,6 +1968,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9974
+      },
+      {
+        "id": "826417cafe58711d",
+        "title": "Anthropic's New Claude Tag Acts as a Virtual Coworker in Slack",
+        "url": "https://www.cnet.com/tech/services-and-software/slack-new-claude-tag/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1782262805000,
+        "summary": "Claude Tag can be added to a Slack workspace as a user with access to channels and data.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7888
       },
       {
         "id": "e4ddfe4bedd89655",
@@ -2893,44 +2913,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1292
-      },
-      {
-        "id": "7880b667f65c09c2",
-        "title": "Something’s off with Midjourney’s pivot to body scanners",
-        "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1782230195000,
-        "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal […]",
-        "tags": [
-          "ai",
-          "health",
-          "report",
-          "science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8508
-      },
-      {
-        "id": "f5098b7f7694b641",
-        "title": "I asked ChatGPT and Claude to do my grocery shopping — one felt like the future",
-        "url": "https://www.techradar.com/ai-platforms-assistants/i-asked-chatgpt-and-claude-to-do-my-grocery-shopping-one-felt-like-the-future",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782229792000,
-        "summary": "I compared Instacart shopping through ChatGPT and Claude and found one key difference.",
-        "tags": [
-          "ai platforms &amp; assistants",
-          "chatgpt",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8436
       }
     ],
     "science": [
+      {
+        "id": "105af8a02912281f",
+        "title": "Brown seaweed flour enhances nutritional value and digestibility of gluten-free cookies",
+        "url": "https://phys.org/news/2026-06-brown-seaweed-flour-nutritional-digestibility.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782268804000,
+        "summary": "Flour made from the brown seaweed Sargassum filipendula can increase the nutritional value and digestibility of gluten-free cookies. This conclusion is based on a study published in the journal Food Research International.",
+        "tags": [
+          "agriculture"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0132
+      },
       {
         "id": "b957291b975ed78f",
         "title": "Elephants move closer to humans when droughts are sustained",
@@ -3822,21 +3822,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9953
-      },
-      {
-        "id": "dc1ad85c61b18d22",
-        "title": "500-million-year fossil record reveals corals' symbiotic advantage shifted with changing environments",
-        "url": "https://phys.org/news/2026-06-million-year-fossil-reveals-corals.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782232807000,
-        "summary": "Coral reef ecosystems, widely seen as a climate change bellwether, are more complex than previously understood. A new international study by the universities of Bristol, Wuhan in China, and Erlangen-Nuremberg in Germany reveals that the evolutionary advantage of coral-algae symbiosis is not fixed; it depends entirely on environmental context.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0119
       }
     ]
   },
