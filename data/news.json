@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T15:17:57.105328+00:00",
+  "generated_at": "2026-06-25T15:21:36.118926+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1995,6 +1995,22 @@
         "score": 1.1275
       },
       {
+        "id": "ae77f03265c6587a",
+        "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782399530000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:9"
+        ],
+        "paywall": true,
+        "impact": "normal",
+        "score": 0.8443
+      },
+      {
         "id": "784de26cf81a1184",
         "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
         "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
@@ -2058,6 +2074,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9537
+      },
+      {
+        "id": "bc79b17d353a5761",
+        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782396977000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:73"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0282
       },
       {
         "id": "b7044b2c8edc86f0",
@@ -2846,35 +2878,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9134
-      },
-      {
-        "id": "58f7b711dc3f7501",
-        "title": "Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry (Cheng Ting-Fang/Nikkei Asia)",
-        "url": "https://www.techmeme.com/260625/p14#a260625p14",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782379827000,
-        "summary": "Cheng Ting-Fang / Nikkei Asia: Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry — TAIPEI — SoftBank-backed chip designer Arm says it has hit a milestone in its decades-long challenge to Intel and AMD …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0737
-      },
-      {
-        "id": "c71da0ee5206a25c",
-        "title": "Qualcomm CEO Cristiano Amon says the company is designing data center chips specifically for Chinese customers that are in compliance with US export controls (Yifan Yu/Nikkei Asia)",
-        "url": "https://www.techmeme.com/260625/p13#a260625p13",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782378694000,
-        "summary": "Yifan Yu / Nikkei Asia: Qualcomm CEO Cristiano Amon says the company is designing data center chips specifically for Chinese customers that are in compliance with US export controls — NEW YORK — Qualcomm unveiled its data center chip lineup on Wednesday, becoming the latest chipmaker to enter the AI processor race …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0672
       }
     ],
     "science": [
+      {
+        "id": "0ca93673c14204b1",
+        "title": "Study explores environmental cost, perceptions of influencer PR gifts",
+        "url": "https://phys.org/news/2026-06-explores-environmental-perceptions-pr-gifts.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782400806000,
+        "summary": "As part of their marketing strategy, many companies send public relations packages full of curated products to social media influencers, who film themselves opening the gifts on platforms like Instagram and TikTok.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "0c710de62c80a86f",
+        "title": "Turtles may migrate using Earth's magnetic field",
+        "url": "https://phys.org/news/2026-06-turtles-migrate-earth-magnetic-field.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782400804000,
+        "summary": "New research indicates that sea turtles seem to navigate across hundreds of miles of open ocean using Earth's magnetic field. Previous experimental studies suggested that sea turtles use geomagnetism to navigate, but this study, published in Science Advances, was purely observational: Researchers attached devices measuring location and compass direction (the way a turtle was facing at a given mome",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
       {
         "id": "4d1c2379ec2f72bc",
         "title": "Taking a step back changes group discussions in virtual environments",
@@ -3756,36 +3792,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0192
-      },
-      {
-        "id": "332881ab0b5661dd",
-        "title": "Organic carbon detected in Bright Angel rock formation on Mars",
-        "url": "https://phys.org/news/2026-06-carbon-bright-angel-formation-mars.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782339004000,
-        "summary": "In September 2025, NASA announced that its Perseverance rover had discovered a potential biosignature, which is a substance or structure that might have a biological origin. A new paper, published in Science Advances, unambiguously confirms the detection of organic carbon, the building blocks of life, in the same two rocks from the Bright Angel formation, and describes in more detail exactly what ",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "99e84f5aac8662e8",
-        "title": "Pseudomonads boost crop growth in salty soils across multiple plants, could protect against rising sea levels",
-        "url": "https://phys.org/news/2026-06-pseudomonads-boost-crop-growth-salty.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782337804000,
-        "summary": "Researchers at the University of East Anglia have helped uncover a hidden ally in the fight against one of agriculture's greatest threats—salty soil. Led by Chinese collaborator Dr. Yanfen Zheng, the team's new study shows how naturally occurring soil bacteria can dramatically boost plants' ability to survive in salty conditions. The work is published in the journal Science Advances.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
       }
     ]
   },
