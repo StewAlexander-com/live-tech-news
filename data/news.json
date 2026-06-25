@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T12:34:36.235267+00:00",
+  "generated_at": "2026-06-25T12:36:49.645832+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2514,6 +2514,37 @@
         "score": 1.0699
       },
       {
+        "id": "20569f245d460b1b",
+        "title": "A Spectral Phase Diagram for Binary Few-Shot Classification: Intrinsic Dimensionality, Geometric Saturation, and Representational Diagnosis",
+        "url": "https://arxiv.org/abs/2606.24903",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24903v1 Announce Type: new Abstract: Deciding when to stop collecting labeled examples is a fundamental but undertheorized problem in applied machine learning. The saturation index $S(K) = \\operatorname{erank}(\\widehat{\\Sigma}_W^{(K)}) / K$ measures the ratio of the effective rank of the pooled within-class sample covariance to the shot count; we prove it falls below a threshold precise",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9607
+      },
+      {
+        "id": "812ba088e250232c",
+        "title": "How Complexity Contributes to Learning Opacity in Machine Learning",
+        "url": "https://arxiv.org/abs/2606.24953",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24953v1 Announce Type: new Abstract: Machine learning (ML) algorithms are known to be opaque. We do not know the reasons for their predictions. The learning process leading to the prediction function is also opaque. We do not fully understand the time evolution of the weight values of neural nets (NN) and related dynamical phenomena. While prediction opacity is widely studied, learning ",
+        "tags": [
+          "cs.lg",
+          "nlin.ao"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9607
+      },
+      {
         "id": "83458a5ea12ddf8a",
         "title": "Convex--Concave Quadratic Spectral Filtering for Graph Neural Networks",
         "url": "https://arxiv.org/abs/2606.24956",
@@ -2762,39 +2793,6 @@
         "published_ts": 1782360000000,
         "summary": "arXiv:2606.24224v1 Announce Type: new Abstract: Despite the extensive discussions of human-centric AI (HCAI) in Industry 5.0, its effects on firms' idiosyncratic risks (IR) remains underexplored. This is an imperative issue for firms navigate financial risks during the current technological revolution, as IR reflects investor reactions to corporate heterogeneous AI strategies and implementations b",
         "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1162
-      },
-      {
-        "id": "d8f251455f89296b",
-        "title": "From Meta Idea to Advanced Mathematical Discovery -- Human-AI Co-Discovery of Sign-Embedding Quantum Algorithms",
-        "url": "https://arxiv.org/abs/2606.24899",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782360000000,
-        "summary": "arXiv:2606.24899v1 Announce Type: new Abstract: AI-assisted mathematics is often evaluated on solving predefined problems. In practice, however, many important advances begin earlier, when a vague research intuition is transformed into a concrete problem, a promising route, and a theorem family worth proving. This report studies that stage through a case study that led to sign-embedding quantum al",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1162
-      },
-      {
-        "id": "f968b01fd2bd3a7f",
-        "title": "On-Device Neural Architecture Search",
-        "url": "https://arxiv.org/abs/2606.24900",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782360000000,
-        "summary": "arXiv:2606.24900v1 Announce Type: new Abstract: This paper proposes a new approach to near-sensor computing, in which a lightweight Neural Architecture Search (NAS) is performed directly on the deployment device to find the best tiny neural architecture for analyzing the real-time data acquired through sensors. This new adaptation capability can be particularly useful in the case of human-machine ",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
