@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-25T03:34:45.087621+00:00",
+  "generated_at": "2026-06-25T04:49:19.227387+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "94b191246bdaf622",
+        "title": "Accelerating Disaggregated RL for Visual Generative LLMs with Diffusion-Based Parallelism and Trainer-Assisted Generation",
+        "url": "https://arxiv.org/abs/2606.24369",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24369v2 Announce Type: new Abstract: Reinforcement learning (RL) has become a dominant post-training paradigm, driving the emergence of high-performance RL systems such as veRL for autoregressive large language models (LLMs). In parallel, diffusion-oriented RL algorithms, e.g., DanceGRPO and FlowGRPO, have rapidly expanded the scope of RL from language reasoning to diffusion-based visua",
+        "tags": [
+          "cs.ai",
+          "cs.dc",
+          "cs.ni",
+          "cs.pf"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
       {
         "id": "1036295b7e08912d",
         "title": "Designer proteins unlock near-infrared and SWIR glow for deeper tissue imaging",
@@ -325,7 +343,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8041
+        "score": 0.8096
       },
       {
         "id": "114a4ee4cf4ee16d",
@@ -960,25 +978,84 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8504
-      },
-      {
-        "id": "1709ad9b457886e6",
-        "title": "Stuart Fails to Save the Universe: release date, new trailer, cast, and everything we know so far about The Big Bang Theory spinoff on HBO Max",
-        "url": "https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782320400000,
-        "summary": "What on Earth is Chuck Lorre up to this time? Stuart Fails to Save the Universe is the Big Bang Theory spinoff nobody expected — here's its release date, trailer, cast and more.",
-        "tags": [
-          "hbo max",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.845
       }
     ],
     "innovation": [
+      {
+        "id": "566b01a23083c4b7",
+        "title": "The Netherlands is lobbying the US not to expand chip equipment export controls that would constrain ASML's ability to sell immersion DUV machines to China (Bloomberg)",
+        "url": "https://www.techmeme.com/260625/p2#a260625p2",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782362101000,
+        "summary": "Bloomberg: The Netherlands is lobbying the US not to expand chip equipment export controls that would constrain ASML's ability to sell immersion DUV machines to China — The Netherlands is lobbying the US to not expand export controls on semiconductor equipment, a move that would constrain ASML Holding NV's ability to sell to China.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0751
+      },
+      {
+        "id": "2c51727569a354c6",
+        "title": "Closed-Loop Graph Algorithm Execution with Small Language Models: Step Accuracy and Rollout Reliability",
+        "url": "https://arxiv.org/abs/2606.24980",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24980v1 Announce Type: new Abstract: Small language models offer an efficient alternative to large-scale systems, but their ability to execute structured algorithms over multiple dependent decisions remains poorly understood. We study graph algorithm execution as a closed-loop prediction problem in which a model repeatedly selects the next action from the current graph and algorithmic s",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "34f1575184cc1222",
+        "title": "Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach",
+        "url": "https://arxiv.org/abs/2606.24237",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24237v1 Announce Type: new Abstract: Federated Graph Learning facilitates collaborative graph modeling across distributed clients while preserving data privacy. However, real-world data categories frequently exhibit long-tailed distributions. Such statistical scarcity severely degrades performance in two ways: it biases the global model toward majority classes, and it structurally isola",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
+      {
+        "id": "67bfdc0a4491bad0",
+        "title": "Towards Scalable Multi-Task Reinforcement Learning with Large Decision Models",
+        "url": "https://arxiv.org/abs/2606.24962",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24962v1 Announce Type: new Abstract: Recent progress in large-scale sequence modeling has shown that a single model can learn useful representations across highly diverse data distributions. Inspired by these advances, we investigate whether a unified transformer policy can be trained across large collections of heterogeneous reinforcement learning environments. We introduce LDM-v0, a L",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
+      {
+        "id": "8271edfe7264bc17",
+        "title": "Learning Diachronic Representations of Ancient Greek Letterforms",
+        "url": "https://arxiv.org/abs/2606.24984",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24984v1 Announce Type: new Abstract: Learning representations that remain robust across centuries of variation in handwriting is a key challenge in diachronic representation learning. Taking one of the longest continuously used writing systems, ancient Greek, as a case study, we introduce three datasets for diachronic representation learning: Hell-Char, a curated training set spanning t",
+        "tags": [
+          "cs.lg",
+          "cs.cl",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
       {
         "id": "d9cfd4cf8e74ea4f",
         "title": "Micron locks in historically high memory prices for five years",
@@ -1863,87 +1940,215 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7861
-      },
-      {
-        "id": "55bbc0cf34c065f5",
-        "title": "License Plate Cameras Are Tracking Your Life Without a Warrant",
-        "url": "https://www.reddit.com/r/technology/comments/1uehp0t/license_plate_cameras_are_tracking_your_life/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782317078000,
-        "summary": "submitted by /u/TripleShotPls [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9371
-      },
-      {
-        "id": "0b0a49e6bdb816f6",
-        "title": "I changed 6 Google Messages settings and my Android texting experience got so much better",
-        "url": "https://www.makeuseof.com/changed-google-messages-settings-android-texting-experience-better/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782316819000,
-        "summary": "Settings I should've changed on day one.",
-        "tags": [
-          "android",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8488
-      },
-      {
-        "id": "7fde560f44b04507",
-        "title": "Trump Admin Announces $17.5 Billion In Loans For 10 New Large Nuclear Reactors",
-        "url": "https://hardware.slashdot.org/story/26/06/24/0639241/trump-admin-announces-175-billion-in-loans-for-10-new-large-nuclear-reactors?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1782316800000,
-        "summary": "An anonymous reader quotes a report from the Associated Press: The Trump administration is providing $17.5 billion to speed the development of 10 new large nuclear reactors to meet the skyrocketing power demand from massive data centers. Energy Secretary Chris Wright cited \"tremendous interest\" among developers of data centers that would buy the power, as well as utilities and energy companies. Th",
-        "tags": [
-          "power"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0485
-      },
-      {
-        "id": "2d60c95a088053aa",
-        "title": "Slate Auto prices its Bezos-backed EV pickup at $24,950 and opens preorders with 180,000 reservations",
-        "url": "https://thenextweb.com/news/slate-auto-ev-pickup-24950-preorders-bezos-production",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782316400000,
-        "summary": "Slate Auto revealed Wednesday that its electric pickup truck will start at $24,950, making it the cheapest new truck available in the United States. The Bezos-backed startup simultaneously opened preorders, converting more than 180,000 existing reservations into $300 nonrefundable deposits. Deliveries are expected to begin in the fourth quarter of this year. The price is […] This story continues a",
-        "tags": [
-          "cars",
-          "next featured",
-          "electric vehicle"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8888
-      },
-      {
-        "id": "f08a074f6b4e3303",
-        "title": "Meta gave 6 executives options worth up to $921M each, then cut 8,000 jobs after a record $56.3B quarter",
-        "url": "https://www.reddit.com/r/technology/comments/1uehchb/meta_gave_6_executives_options_worth_up_to_921m/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782316323000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9378
       }
     ],
     "ai": [
+      {
+        "id": "bd63b3a6f6e136c9",
+        "title": "Facebook brings back Facebook Creator Studio as a stand-alone app with built-in AI chatbot to help creators grow their audiences through personalized guidance (Aisha Malik/TechCrunch)",
+        "url": "https://www.techmeme.com/260625/p1#a260625p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782361201000,
+        "summary": "Aisha Malik / TechCrunch: Facebook brings back Facebook Creator Studio as a stand-alone app with built-in AI chatbot to help creators grow their audiences through personalized guidance — Facebook announced on Wednesday that it's reimagining its Creator Studio tool as a standalone AI companion app designed …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0699
+      },
+      {
+        "id": "4c968babd988dd5e",
+        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+        "url": "https://arxiv.org/abs/2606.23927",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.23927v1 Announce Type: new Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specific implementations or domains, limiting unified comparison across heterogeneous systems. To address this",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "3aefdd61e6a83895",
+        "title": "Critique of Agent Model",
+        "url": "https://arxiv.org/abs/2606.23991",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.23991v1 Announce Type: new Abstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agenc",
+        "tags": [
+          "cs.ai",
+          "cs.lg",
+          "cs.ma",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "619e81b80b0a46cf",
+        "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+        "url": "https://arxiv.org/abs/2606.24014",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24014v1 Announce Type: new Abstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the tasks and domains seen during training. This is especially important for reinforcement learning (RL), which can introduce unexpected misalignment through reward hacking, deception, or other unintended strategies. We study whethe",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "e022871aaca49937",
+        "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+        "url": "https://arxiv.org/abs/2606.24047",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24047v1 Announce Type: new Abstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Exposure to violence, stigma, and economic hardship further increases their psychological risk. Current machine learning (ML) models are typically ineffective at capturing the high-dimensional and complex risk patterns that exis",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "816a71a370cbdc56",
+        "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+        "url": "https://arxiv.org/abs/2606.24099",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24099v1 Announce Type: new Abstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in papers are often used to indicate popularity and influence, existing studies usually evaluate individual algorithms in isolation and pay limited attention to the collective influence formed through their interconnections. T",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.dl",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "2e89cd0f87f89da5",
+        "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
+        "url": "https://arxiv.org/abs/2606.24224",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24224v1 Announce Type: new Abstract: Despite the extensive discussions of human-centric AI (HCAI) in Industry 5.0, its effects on firms' idiosyncratic risks (IR) remains underexplored. This is an imperative issue for firms navigate financial risks during the current technological revolution, as IR reflects investor reactions to corporate heterogeneous AI strategies and implementations b",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "d8f251455f89296b",
+        "title": "From Meta Idea to Advanced Mathematical Discovery -- Human-AI Co-Discovery of Sign-Embedding Quantum Algorithms",
+        "url": "https://arxiv.org/abs/2606.24899",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24899v1 Announce Type: new Abstract: AI-assisted mathematics is often evaluated on solving predefined problems. In practice, however, many important advances begin earlier, when a vague research intuition is transformed into a concrete problem, a promising route, and a theorem family worth proving. This report studies that stage through a case study that led to sign-embedding quantum al",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "f968b01fd2bd3a7f",
+        "title": "On-Device Neural Architecture Search",
+        "url": "https://arxiv.org/abs/2606.24900",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24900v1 Announce Type: new Abstract: This paper proposes a new approach to near-sensor computing, in which a lightweight Neural Architecture Search (NAS) is performed directly on the deployment device to find the best tiny neural architecture for analyzing the real-time data acquired through sensors. This new adaptation capability can be particularly useful in the case of human-machine ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "20569f245d460b1b",
+        "title": "A Spectral Phase Diagram for Binary Few-Shot Classification: Intrinsic Dimensionality, Geometric Saturation, and Representational Diagnosis",
+        "url": "https://arxiv.org/abs/2606.24903",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24903v1 Announce Type: new Abstract: Deciding when to stop collecting labeled examples is a fundamental but undertheorized problem in applied machine learning. The saturation index $S(K) = \\operatorname{erank}(\\widehat{\\Sigma}_W^{(K)}) / K$ measures the ratio of the effective rank of the pooled within-class sample covariance to the shot count; we prove it falls below a threshold precise",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "812ba088e250232c",
+        "title": "How Complexity Contributes to Learning Opacity in Machine Learning",
+        "url": "https://arxiv.org/abs/2606.24953",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24953v1 Announce Type: new Abstract: Machine learning (ML) algorithms are known to be opaque. We do not know the reasons for their predictions. The learning process leading to the prediction function is also opaque. We do not fully understand the time evolution of the weight values of neural nets (NN) and related dynamical phenomena. While prediction opacity is widely studied, learning ",
+        "tags": [
+          "cs.lg",
+          "nlin.ao"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "83458a5ea12ddf8a",
+        "title": "Convex--Concave Quadratic Spectral Filtering for Graph Neural Networks",
+        "url": "https://arxiv.org/abs/2606.24956",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24956v1 Announce Type: new Abstract: Spectral graph neural networks (GNNs) interpret message passing as frequency-selective filtering. While low-order spectral filters are efficient, their limited selectivity often leads to weak attenuation outside the passband, whereas high-order alternatives introduce optimization challenges. We propose DCQ-GNN, a spectral GNN based on a compact bank ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "c78917eeb47ab897",
+        "title": "Training Dynamics of Neural Software Defect Predictors under Coupled Data-Quality Issues",
+        "url": "https://arxiv.org/abs/2606.24968",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24968v1 Announce Type: new Abstract: Context: Software defect prediction supports maintenance decisions such as testing prioritization, release-risk assessment, and quality monitoring. However, metric-based SDP datasets often contain coupled data-quality issues, especially class imbalance and class overlap. Prior work has mainly measured their impact through endpoint performance, while ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
       {
         "id": "c2ec55dba00e5b4f",
         "title": "Stripe, Anthropic, and OpenAI Are Backing Effort To Stop Respiratory Infections",
@@ -2562,7 +2767,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.883
+        "score": 1.0485
       },
       {
         "id": "017a73669ff6f129",
@@ -2691,213 +2896,136 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0942
-      },
-      {
-        "id": "d0ae20af54a1ee4b",
-        "title": "AI traffic cameras spark backlash in Mississippi — as government officials try to calm fears they’ll be used to catch motorists who are speeding, not wearing seatbelts or texting at the wheel",
-        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ai-traffic-cameras-spark-backlash-in-mississippi-as-government-officials-try-to-calm-fears-theyll-be-used-to-catch-motorists-who-are-speeding-not-wearing-seatbelts-or-texting-at-the-wheel",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782327600000,
-        "summary": "Government officials in Mississippi have been attempting to calm fears that new AI traffic cameras will become a massive privacy violation.",
-        "tags": [
-          "hybrid &amp; electric vehicles",
-          "vehicle tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9119
-      },
-      {
-        "id": "c1bdd9ae3336ca3e",
-        "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1782327056000,
-        "summary": "Broadcom and OpenAI reveal their Jalapeño custom-built inference ASIC that allegedly beats existing leading-edge in terms of performance-per-watt.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0244
-      },
-      {
-        "id": "25d5c7163ffa41c0",
-        "title": "Chrome’s 'Select from Screen' lets you ask Gemini about anything on your screen",
-        "url": "https://www.androidpolice.com/chrome-gets-circle-to-search-convenience-with-new-gemini-feature/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1782326982000,
-        "summary": "Select from Screen will highlight the tab you’re in, allowing you to select anything on the page to ask Gemini about.",
-        "tags": [
-          "google chrome",
-          "browsers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9981
-      },
-      {
-        "id": "14201b1ab3348a62",
-        "title": "[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.",
-        "url": "http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-        "source": "Daring Fireball",
-        "lane": "ai",
-        "published_ts": 1782326806000,
-        "summary": "When an AI agent tries to complete a task that requires a new account, it hits a wall: the sign-up form. There’s no standard for how an agent registers a user with an app on their behalf. auth.md is a file you host at your domain that tells agents how to register your users, which flows you support, what scopes you expose, and how credentials get issued. Think robots.txt, but for agent registratio",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1631
-      },
-      {
-        "id": "67a029647a2b9162",
-        "title": "Gemini 3.5 Flash can now see and control your screen, and Google wants enterprises to trust it",
-        "url": "https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782326778000,
-        "summary": "Google has made computer use a built-in tool inside Gemini 3.5 Flash, the model it launched at I/O 2026 as its fastest agentic AI model. The capability, which lets AI agents see screens, click, type, and scroll across browsers, mobile devices, and desktops, previously required a separate standalone model and is now available as a […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "google",
-          "data and security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9613
-      },
-      {
-        "id": "e19c392ddd8edf82",
-        "title": "Lawsuit Accuses Gas Stations of Using AI to Jack Up Fuel Prices in California",
-        "url": "https://www.cnet.com/tech/services-and-software/proposed-class-action-targets-ai-gas-pricing-in-california/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1782326572000,
-        "summary": "According to the suit, gas stations across the state used AI-enabled software that inflated the price of fuel.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8628
-      },
-      {
-        "id": "9724393ecba0c840",
-        "title": "Sources: Google AI researchers Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Gemini, are planning to leave for Anthropic (Bloomberg)",
-        "url": "https://www.techmeme.com/260624/p35#a260624p35",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782325800000,
-        "summary": "Bloomberg: Sources: Google AI researchers Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Gemini, are planning to leave for Anthropic — Two leading artificial intelligence researchers at Alphabet Inc.'s Google are planning to leave for rival Anthropic PBC …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0743
-      },
-      {
-        "id": "79c34515cc347436",
-        "title": "Runpod hits $1bn valuation as the AI compute crunch bites",
-        "url": "https://thenextweb.com/news/runpod-100m-summit-partners-1bn-valuation",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782325661000,
-        "summary": "Runpod has raised $100M and reached a $1bn valuation, a tenfold jump in under two years. The cloud startup rents out AI computing power, and it says it turned down buyout offers worth more than $500M. The great AI compute crunch is minting a new kind of winner. Runpod, a five-year-old startup that rents computing […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "deep tech",
-          "investors and funding",
-          "corporates and innovation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9555
-      },
-      {
-        "id": "c8c1c53dfe43e17f",
-        "title": "OpenAI gets chippy with Broadcom",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/24/openai-gets-chippy-with-broadcom/5261697",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1782325447000,
-        "summary": "Jalapeño is the latest announcement that attempts to portray OpenAI as more than a race-to-the-bottom model maker",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0138
-      },
-      {
-        "id": "6d229f7f15f4e6b1",
-        "title": "Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform (Mateo Quiros/The Keyword)",
-        "url": "https://www.techmeme.com/260624/p34#a260624p34",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782325201000,
-        "summary": "Mateo Quiros / The Keyword: Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform — Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. — Computer use is now a built …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9915
-      },
-      {
-        "id": "17b086c7dcedf096",
-        "title": "‘If AI is to help build a better ​future, it must be honest about what it costs us now’: UN urges AI giants to reveal full extent of environmental damage",
-        "url": "https://www.techradar.com/pro/if-ai-is-to-help-build-a-better-future-it-must-be-honest-about-what-it-costs-us-now-un-urges-ai-giants-to-reveal-full-extent-of-environmental-damage",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782324300000,
-        "summary": "AI companies should reveal the full cost on the environment, UN Chief says.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9153
-      },
-      {
-        "id": "44d9c344cd44b7fc",
-        "title": "Every New AirPods Feature in iOS 27",
-        "url": "https://www.macrumors.com/guide/ios-27-airpods/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782323888000,
-        "summary": "With every iOS update, Apple adds new features to the AirPods. In iOS 27, the AirPods work with Siri AI, and there's a long-requested custom EQ option. Subscribe to the MacRumors YouTube channel for more videos. Custom EQ Apple resisted custom EQ for the AirPods for years, preferring to require users to stick with Apple's sound profiles. That's changing in ‌iOS 27‌, and there are finally adjustabl",
-        "tags": [
-          "airpods",
-          "airpods max",
-          "airpods pro",
-          "featured",
-          "ios 27"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0782
-      },
-      {
-        "id": "5ff6bdad0a205212",
-        "title": "Congress wants Big Tech to pay AI’s power bills",
-        "url": "https://thenextweb.com/news/house-bill-ai-data-centre-energy-costs-big-tech",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782323503000,
-        "summary": "Congress is moving to stop households paying for Big Tech’s AI power bills. A House panel votes this week on a package of measures. The aim is to put AI data centre energy costs back on the companies that create them. As AI drives up electricity bills, Congress wants Big Tech to pick up more […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "sustainability",
-          "google",
-          "artificial intelligence",
-          "microsoft",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.965
       }
     ],
     "science": [
+      {
+        "id": "b392e84a3dc30ffc",
+        "title": "Shorter front-leg strides can be an early warning sign of dementia in senior dogs",
+        "url": "https://phys.org/news/2026-06-shorter-front-leg-early-dementia.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782360001000,
+        "summary": "Scientists have shown that the stride length of the front legs (but not the hind legs) of senior and geriatric dogs decreases as their cognitive performance worsens. In contrast, chronological age itself was a poor predictor of stride length. A similar reduction in step length has been well documented in people with dementia. These results suggest that a decline in stride length could be an early ",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.004
+      },
+      {
+        "id": "44257731cf97d6ef",
+        "title": "Enhancing Clinician Decision-Making via Uncertainty-Aware Multi-Expert Fusion for Stroke Rehabilitation",
+        "url": "https://arxiv.org/abs/2606.24960",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24960v1 Announce Type: new Abstract: Tailoring stroke rehabilitation requires assessing how movements are organized, not merely if they succeed. Currently, this assessment is a rate-limiting bottleneck. Instruments like the Action Research Arm Test (ARAT) compress rich behavioral observations into single ordinal endpoints, discarding the movement-quality details that distinguish recover",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "a6acf0e94cb60269",
+        "title": "When Multi-Sensor Fusion Fails to Generalize: Cattle Posture Classification Under Animal-Level and Temporal Distribution Shift",
+        "url": "https://arxiv.org/abs/2606.24986",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24986v1 Announce Type: new Abstract: Automated cattle posture-classification systems frequently report near-perfect accuracy, yet their robustness under realistic deployment conditions remains largely unknown. In particular, it is unclear whether multimodal sensor fusion improves generalisation or leads models to rely on context-specific signals that fail under distribution shift. Here,",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1162
+      },
+      {
+        "id": "e1d3a2c58bfdbe1c",
+        "title": "The Geometry Behind Diffusion and Flow Matching: Gradient Flows and Geodesics in Wasserstein Space",
+        "url": "https://arxiv.org/abs/2606.24157",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24157v1 Announce Type: new Abstract: The space $\\mathcal{P}_2(\\mathbb{R}^d$) of probability measures with finite second moment carries a natural geometry: the quadratic Wasserstein distance W_2 makes it a complete metric space and, following Otto, a (formal) Riemannian manifold whose geodesics are the optimal-transport interpolations. On this manifold, the gradient flow of the free ener",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
+      {
+        "id": "c37b098912666393",
+        "title": "Digital Twin-Driven Adaptive Sim-to-Real Alignment via Reinforcement Learning for Vibration-Based Bearing Health Monitoring Under Data Scarcity",
+        "url": "https://arxiv.org/abs/2606.24954",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24954v1 Announce Type: new Abstract: Vibration-based health monitoring of rotating machinery requires reliable fault diagnosis under operational data constraints, yet condition assessment remains challenged by structural scarcity of fault events and heterogeneous sim-to-real gaps in digital twin-generated signals. Each fault type generates impulses with distinct periodicity, amplitude m",
+        "tags": [
+          "cs.lg",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
+      {
+        "id": "3d5666882a913f26",
+        "title": "Latent Block-Diffusion Temporal Point Processes: A Semi-Autoregressive Framework for Asynchronous Event Sequence Generation",
+        "url": "https://arxiv.org/abs/2606.24982",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24982v1 Announce Type: new Abstract: Modeling and sampling from the underlying distribution of asynchronous event sequences are crucial in various real-world applications, including social networks, medical diagnosis, and financial transactions. Existing autoregressive methods suffer from error accumulation during multi-step generation, while non-autoregressive diffusion methods are typ",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
+      {
+        "id": "03e3a19ef9ed7f83",
+        "title": "Uncertainty-aware reinforcement learning for chemical language models",
+        "url": "https://arxiv.org/abs/2606.24990",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24990v1 Announce Type: new Abstract: Reinforcement Learning (RL) has become a powerful paradigm for de novo molecular design, enabling Chemical Language Models (CLMs) to navigate and explore the chemical space while optimizing specific desired properties. However, the existing RL frameworks treat all scoring functions as deterministic oracles, neglecting the inherent uncertainty attache",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
+      {
+        "id": "060203e286434097",
+        "title": "Are Tabular Foundation Models Robust to Realistic Query Distribution Shifts in Microbiome Data?",
+        "url": "https://arxiv.org/abs/2606.24995",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782360000000,
+        "summary": "arXiv:2606.24995v1 Announce Type: new Abstract: Tabular foundation models (TFMs) achieve strong performance on microbiome abundance data, yet their robustness under realistic distribution shift remains poorly characterized. We introduce a benchmark that evaluates the robustness of TFMs to biologically inspired perturbations across six gut microbiome datasets spanning four disease contexts. In this",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0335
+      },
       {
         "id": "ad31bd719cd34d39",
         "title": "Precious drops: Spray helps crop farmers facing declining rainfall",
@@ -3687,124 +3815,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1274
-      },
-      {
-        "id": "3a9b36274ee9d063",
-        "title": "Climate warnings need to be told in tangible ways to prevent disaster",
-        "url": "https://phys.org/news/2026-06-climate-told-tangible-ways-disaster.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782319209000,
-        "summary": "England is sweltering under a red heat health alert and could see its hottest June day on record. In North America, football fans and players are suffering, with a quarter of this summer's World Cup matches forecast to be played in dangerous heat.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "74951e172986942a",
-        "title": "Euclid captures 60 million stars in sharpest broad view of Milky Way's core",
-        "url": "https://phys.org/news/2026-06-euclid-captures-million-stars-sharpest.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782319201000,
-        "summary": "For just one day, our dark universe detective, Euclid, turned its gaze toward the light: the extremely bright inner region of our Milky Way galaxy, known as the galactic bulge. This special request came from astronomers who were after what Euclid does best: capturing huge areas of the sky in crisp detail.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "5c58af68294253c7",
-        "title": "Does the Netherlands feed the world? Study challenges a familiar view of Dutch agriculture",
-        "url": "https://phys.org/news/2026-06-netherlands-world-familiar-view-dutch.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782318004000,
-        "summary": "The Netherlands is a major agricultural exporter. But look beyond euros to land, animal feed, calories and protein, and a different picture emerges. In a study published in Nature Food, researchers at Wageningen University & Research (WUR) conclude that the Dutch contribution to the global food supply through net food exports is far more limited than is often assumed. The study shifts the focus fr",
-        "tags": [
-          "agriculture"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.016
-      },
-      {
-        "id": "41bad9c4d3c50346",
-        "title": "SpaceX’s stock slide costs founder his trillionaire title",
-        "url": "https://www.reddit.com/r/technology/comments/1uehs2g/spacexs_stock_slide_costs_founder_his/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1782317264000,
-        "summary": "submitted by /u/marketrent [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9426
-      },
-      {
-        "id": "b741c2a7b3f86135",
-        "title": "How Physicists Track and Trap the Elusive Neutrino",
-        "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-        "source": "Quanta Magazine",
-        "lane": "science",
-        "published_ts": 1782317072000,
-        "summary": "The hunt for these ghostly particles has required some of the most audacious experiment setups ever built. The post How Physicists Track and Trap the Elusive Neutrino first appeared on Quanta Magazine",
-        "tags": [
-          "physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1398
-      },
-      {
-        "id": "0fe89ef035661183",
-        "title": "Automated system detects early signs of nanomaterials toxicity",
-        "url": "https://phys.org/news/2026-06-automated-early-nanomaterials-toxicity.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782316806000,
-        "summary": "Korea Research Institute of Standards and Science has developed a toxicity assessment system that automatically measures and analyzes the heart rate of Daphnia magna. Capable of processing heart rate data from approximately 150 individuals per hour, the system can assess the toxic effects of pollutants at low concentrations more sensitively than conventional methods that rely on average values fro",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0185
-      },
-      {
-        "id": "8efc6d3b429d8f84",
-        "title": "Nature publishes a peer-reviewed paper alleging that Microsoft's 2025 quantum breakthrough claims were based on \"basic Python errors\" and data cherry-picking (Thomas Claburn/The Register)",
-        "url": "https://www.techmeme.com/260624/p30#a260624p30",
-        "source": "Techmeme",
-        "lane": "science",
-        "published_ts": 1782316501000,
-        "summary": "Thomas Claburn / The Register: Nature publishes a peer-reviewed paper alleging that Microsoft's 2025 quantum breakthrough claims were based on “basic Python errors” and data cherry-picking — Nature paper argues researchers cherry-picked data. Redmond insists its work is sound",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0767
-      },
-      {
-        "id": "5f98f741e9351bb0",
-        "title": "New giant wormlion fly species identified on the southern slopes of the Himalayas",
-        "url": "https://phys.org/news/2026-06-giant-wormlion-fly-species-southern.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782315606000,
-        "summary": "An enigmatic new species of wormlion fly, whose larvae construct clever pitfall traps to capture prey, has been revealed in a study led by researchers at Dali University in China.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0154
       }
     ]
   },
