@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-25T10:15:20.987791+00:00",
+  "generated_at": "2026-06-25T10:48:16.946047+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "624fde98bd3742da",
+        "title": "Steam Machines will only come with one 16GB stick of RAM — company may change this to two 8GB sticks in the future, but the first batch of consoles is limited to single-channel memory",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/steam-machines-will-only-come-with-one-16gb-stick-of-ram-company-may-change-this-to-two-8gb-sticks-in-the-future-but-the-first-batch-of-consoles-is-limited-to-single-channel-memory",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1782383637000,
+        "summary": "Valve confirmed to Gamers Nexus that the first batch of Steam Machines will only have one 16GB RAM stick. This would have a negative effect on the console's performance, but the company likely did this to keep its price as low as possible, or because it's the only available option left for the company.",
+        "tags": [
+          "console gaming",
+          "video games"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9456
+      },
       {
         "id": "2bfde79c967f2167",
         "title": "Solving semiconductors’ energy paradox: four areas fabs can target",
@@ -16,6 +32,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9173
+      },
+      {
+        "id": "c432f7ea8fe50bca",
+        "title": "IBM claims world’s first sub-1 nanometer chip technology",
+        "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
+        "source": "Ars Technica",
+        "lane": "gadgets",
+        "published_ts": 1782381655000,
+        "summary": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
+        "tags": [
+          "ai",
+          "tech",
+          "ai data centers",
+          "artificial intelligence",
+          "chip fab",
+          "chip fabrication"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0105
       },
       {
         "id": "5df7964a4bd6cb14",
@@ -923,41 +959,53 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8419
-      },
-      {
-        "id": "da0b61490f6228ff",
-        "title": "Honda is reportedly reviving the Element as an affordable hybrid",
-        "url": "https://www.engadget.com/2200882/honda-reportedly-bringing-back-element-as-affordable-hybrid/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1782324755000,
-        "summary": "According to Automotive News, the cult-favorite Honda Element could return in 2029 as a small hybrid SUV.",
-        "tags": [
-          "evs and transportation"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6964
-      },
-      {
-        "id": "25cf2254eba8b89d",
-        "title": "Looking for the best smartwatch? The Apple Watch Ultra 3 is truly the king of wearables, and I'd upgrade to it for these 3 reasons alone",
-        "url": "https://www.techradar.com/health-fitness/smartwatches/looking-for-the-best-smartwatch-the-apple-watch-ultra-3-is-truly-the-king-of-wearables-and-id-upgrade-to-it-for-these-3-reasons-alone",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782324716000,
-        "summary": "The Apple Watch Ultra 3 is our best overall smartwatch, and it's finally hit a record-low price thanks to Prime Day.",
-        "tags": [
-          "smartwatches",
-          "seasonal sales",
-          "health &amp; fitness"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8493
       }
     ],
     "innovation": [
+      {
+        "id": "6921075372dd136e",
+        "title": "Preliminary findings: the EU says Azure and AWS are \"the largest and second largest\" cloud services in the EU, as the bloc weighs up tougher DMA oversight (Samuel Stolton/Bloomberg)",
+        "url": "https://www.techmeme.com/260625/p19#a260625p19",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782384001000,
+        "summary": "Samuel Stolton / Bloomberg: Preliminary findings: the EU says Azure and AWS are “the largest and second largest” cloud services in the EU, as the bloc weighs up tougher DMA oversight — Microsoft Corp.'s Azure and Amazon Web Services face tough European Union guardrails after regulators said they should be targeted by the bloc's Digital Markets Act.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9974
+      },
+      {
+        "id": "1d3641bd90e1fdcd",
+        "title": "Is this solar e-bike a good idea or sophisticated e-waste?",
+        "url": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy",
+        "source": "The Verge",
+        "lane": "innovation",
+        "published_ts": 1782383400000,
+        "summary": "I like the idea of a solar-powered electric bike, but I don't think anyone should buy the new Phosgo Go5 - not yet, anyway. This \"world's first AI solar e-bike\" promises to \"eliminate range anxiety,\" and is sold by a new brand out of China hoping to make a big splash by selling direct-to-consumer through […]",
+        "tags": [
+          "electric bikes",
+          "news",
+          "rideables",
+          "transportation"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8504
+      },
+      {
+        "id": "ced9f168e522f1d6",
+        "title": "IBM details a 0.7nm chip manufacturing process that utilizes a \"nanostack\" 3D transistor architecture, which it says can maintain chip innovation for 10 years (Don Clark/New York Times)",
+        "url": "https://www.techmeme.com/260625/p17#a260625p17",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782382515000,
+        "summary": "Don Clark / New York Times: IBM details a 0.7nm chip manufacturing process that utilizes a “nanostack” 3D transistor architecture, which it says can maintain chip innovation for 10 years — Industry leaders had worried that innovations in chip miniaturization were no longer possible.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0686
+      },
       {
         "id": "52d3d86cde750371",
         "title": "Berlin’s Almetra raises €16.3M to turn factory video into live data",
@@ -1001,6 +1049,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9953
+      },
+      {
+        "id": "03c2d30cc3174fef",
+        "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "source": "MIT Technology Review",
+        "lane": "innovation",
+        "published_ts": 1782381600000,
+        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half…",
+        "tags": [
+          "computing",
+          "app"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1166
       },
       {
         "id": "21f42569efa3e98e",
@@ -1213,6 +1277,19 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9146
+      },
+      {
+        "id": "01c5cc42ba9e777c",
+        "title": "How Larry Ellison's $45M donation to a group supporting President Trump brought Ellison deeper into Trump's circle, helping Oracle and his son's WBD acquisition (Wall Street Journal)",
+        "url": "https://www.techmeme.com/260625/p9#a260625p9",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782368100000,
+        "summary": "Wall Street Journal: How Larry Ellison's $45M donation to a group supporting President Trump brought Ellison deeper into Trump's circle, helping Oracle and his son's WBD acquisition — The billionaire's private friendship with the president has helped Oracle's business and his son's media conglomerate",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.916
       },
       {
         "id": "85e65c80c1642213",
@@ -1797,92 +1874,52 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1011
-      },
-      {
-        "id": "2a0b8939e37ebd26",
-        "title": "Micron reports Q3 revenue up 346% YoY to $41.46B, vs. $35.84B est., gross margin above estimates, and forecasts Q4 revenue above est.; MU jumps 14%+ after hours (Kif Leswing/CNBC)",
-        "url": "https://www.techmeme.com/260624/p40#a260624p40",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782333903000,
-        "summary": "Kif Leswing / CNBC: Micron reports Q3 revenue up 346% YoY to $41.46B, vs. $35.84B est., gross margin above estimates, and forecasts Q4 revenue above est.; MU jumps 14%+ after hours — Micron's revenue more than quadrupled in the fiscal third quarter, the company said on Wednesday, as the memory maker continued …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9975
-      },
-      {
-        "id": "50692e25c7bf46df",
-        "title": "Laser Scanning A Cave With Homebrew Gear",
-        "url": "https://hackaday.com/2026/06/24/laser-scanning-a-cave-with-homebrew-gear/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782331226000,
-        "summary": "How do you measure the inside of a cave? You could do a bunch of hard work with classic surveying gear… or you could just use a laser scanner. [9nl] …read more",
-        "tags": [
-          "misc hacks",
-          "3d scanner",
-          "lidar"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.165
-      },
-      {
-        "id": "a3680ebed815402c",
-        "title": "My favorite office suite isn't Microsoft 365 or Google Docs — it's free and runs anywhere",
-        "url": "https://www.makeuseof.com/favorite-office-suite-isnt-microsoft-365-google-docs/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782331218000,
-        "summary": "Save your money and get back to work.",
-        "tags": [
-          "productivity",
-          "office suites",
-          "microsoft office 365",
-          "google docs"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.849
-      },
-      {
-        "id": "22f6f8752ede17d2",
-        "title": "I capped my battery at 80% for a year and the trade finally has a verdict",
-        "url": "https://www.makeuseof.com/capped-my-battery-at-80-for-year-the-trade-finally-has-a-verdict/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782329418000,
-        "summary": "My wife's phone died while mine still feels brand new. We bought them the same day five years ago.",
-        "tags": [
-          "android",
-          "battery life",
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9178
-      },
-      {
-        "id": "3e0ba55c8f4c8d5a",
-        "title": "Here’s why Slate changed the battery in its cheap EV truck",
-        "url": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1782329276000,
-        "summary": "Slate's embrace of LFP cells shows just how significantly the battery market in the U.S. has changed in recent years.",
-        "tags": [
-          "climate",
-          "transportation",
-          "lithium-ion battery",
-          "slate auto"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.807
       }
     ],
     "ai": [
+      {
+        "id": "8823eaaab8640ed7",
+        "title": "'A scramble for visibility and control, as spend surges': Less than a third of organizations know what their AI software spend is",
+        "url": "https://www.techradar.com/pro/a-scramble-for-visibility-and-control-as-spend-surges-less-than-a-third-of-organizations-know-what-their-ai-software-spend-is",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1782384300000,
+        "summary": "Companies don't have much visibility over their AI software, with three in five saying wasted AI spend has risen in the past 12 months.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.917
+      },
+      {
+        "id": "7c20fd69943988ae",
+        "title": "How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based \"cat\" models to predict natural disasters (Financial Times)",
+        "url": "https://www.techmeme.com/260625/p18#a260625p18",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782383415000,
+        "summary": "Financial Times: How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based “cat” models to predict natural disasters — Catastrophe scientists are pushing past the limits of physics-based models, improving how insurers calculate risk",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0738
+      },
+      {
+        "id": "19c9d5f28209fa7b",
+        "title": "ZTE showcases full-stack AI capabilities at MWC Shanghai 2026, empowering new era of token operations",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/25/zte-showcases-full-stack-ai-capabilities-at-mwc-shanghai-2026-empowering-new-era-of-token-operations/5262038",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782383284000,
+        "summary": "PARTNER CONTENT: Driving end-to-end synergy across AI factories, next-gen AIOS, and 6G-ready networks to maximize token efficiency and lower operational costs",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1267
+      },
       {
         "id": "d83d1e685a0febff",
         "title": "'No need to feed water-gobbling, planet-heating data centers': Deezer's new Remix Lab tool uses absolutely no AI and debunks slop music myths",
@@ -2751,59 +2788,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9145
-      },
-      {
-        "id": "993952c19243460a",
-        "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-        "url": "https://yro.slashdot.org/story/26/06/24/216239/meta-pauses-employee-tracking-program-following-internal-data-leak?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1782338400000,
-        "summary": "Meta has paused its Model Compatibility Initiative that tracked employee mouse movements, clicks, keystrokes, and screen content to train AI agents, after some of its collected data became accessible to more employees than intended. Meta says it has no evidence the information was improperly accessed and will not restart the program until it is confident in its safeguards. Wired reports: Meta roll",
-        "tags": [
-          "privacy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1298
-      },
-      {
-        "id": "652ebf4c9c17ffae",
-        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-        "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782338201000,
-        "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-        "tags": [
-          "ai",
-          "startups",
-          "engineering",
-          "hiring",
-          "layoffs",
-          "signalfire"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.804
-      },
-      {
-        "id": "8058a0a347cc4e62",
-        "title": "Reid Hoffman: xAI Is a Train Wreck and SpaceX Is Just Buying Its AI Cred",
-        "url": "https://www.reddit.com/r/technology/comments/1uer54l/reid_hoffman_xai_is_a_train_wreck_and_spacex_is/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782337819000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.019
       }
     ],
     "science": [
+      {
+        "id": "a4bb7e6c221f3465",
+        "title": "Quantum waves reveal one-sided motion marking elusive critical states",
+        "url": "https://phys.org/news/2026-06-quantum-reveal-sided-motion-elusive.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782384001000,
+        "summary": "Sound waves, light waves and other types of waves, generally spread freely through space and over time. In 1958, physicist Philip W. Anderson first described a phenomenon via which irregularities or other sources of disorder in materials would prevent waves from propagating freely, which is now known as Anderson localization.",
+        "tags": [
+          "general physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0987
+      },
+      {
+        "id": "cd26476cda30d039",
+        "title": "What Europe’s heat wave means for the power grid",
+        "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+        "source": "MIT Technology Review",
+        "lane": "science",
+        "published_ts": 1782381600000,
+        "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat. As the summer ramps up…",
+        "tags": [
+          "climate change and energy",
+          "app",
+          "summary",
+          "the spark"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0339
+      },
       {
         "id": "b3397633093dcf08",
         "title": "Self-propelled actin filaments may explain how cells change shape spontaneously",
@@ -3689,36 +3709,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.019
-      },
-      {
-        "id": "143c8436ec8898b1",
-        "title": "Decades-long dataset shows which orcas are most at home in Puget Sound",
-        "url": "https://phys.org/news/2026-06-decades-dataset-orcas-home-puget.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782324006000,
-        "summary": "Data spanning nearly half a century shows that endangered southern resident killer whales are spending less time in inland waters, whereas their larger cousins, Bigg's killer whales, are increasingly present in Puget Sound.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.019
-      },
-      {
-        "id": "3da37784b5f15f48",
-        "title": "Introducing Weather Jiu-Jitsu, a new approach to avert catastrophic weather events",
-        "url": "https://phys.org/news/2026-06-weather-jiu-jitsu-approach-avert.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782324003000,
-        "summary": "In a new perspective paper, Qin Huang of Arizona State University and colleagues propose that the worst damage from extreme weather events could be prevented through Weather Jiu-Jitsu, a theory-based approach to \"nudge\" weather systems away from harmful trajectories. The paper was published in PLOS Water.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ]
   },
