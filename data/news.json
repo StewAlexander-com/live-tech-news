@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:18:10.333724+00:00",
+  "generated_at": "2026-06-25T19:20:34.810444+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -136,6 +136,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6999
+      },
+      {
+        "id": "d05bc295ebeb8256",
+        "title": "The Samsung Galaxy A27 proves budget phones are about to be more expensive and less capable",
+        "url": "https://www.androidpolice.com/the-samsung-galaxy-a27-proves-budget-phones-are-about-to-be-more-expensive-and-less-capable/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1782413261000,
+        "summary": "A few downgrades for $50 more",
+        "tags": [
+          "samsung galaxy a27",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9895
       },
       {
         "id": "437f5b2e36d773af",
@@ -970,23 +986,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8469
-      },
-      {
-        "id": "067d44e2ce3e758a",
-        "title": "Apple TV and HomePod Just Went Up in Price Amid Wait for New Models",
-        "url": "https://www.macrumors.com/2026/06/25/apple-tv-and-homepod-price-increases/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782399869000,
-        "summary": "While the Apple TV, HomePod, and HomePod mini have not been updated in several years, all three products received price increases worldwide today. Here is a summary of the price changes for these products in the United States:Apple TV (Wi-Fi): $129 → $199 Apple TV (Wi-Fi + Ethernet): $149 → $249 HomePod: $299 → $349 HomePod mini: $99 → $129Apple also raised prices on Macs, iPads, and more, with th",
-        "tags": [
-          "apple tv",
-          "homepod",
-          "homepod mini"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9957
       }
     ],
     "innovation": [
@@ -2961,6 +2960,51 @@
     ],
     "science": [
       {
+        "id": "8096e50552a70fa0",
+        "title": "Defect detection automated in diamond, other advanced semiconductors",
+        "url": "https://phys.org/news/2026-06-defect-automated-diamond-advanced-semiconductors.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782415207000,
+        "summary": "Materials scientists at Rice University have developed a new workflow methodology for measuring microscopic defects in diamond and other advanced semiconductor materials. By making it easier to spot flaws that can undermine performance, the approach could accelerate the development of more reliable electronic and quantum devices.",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1014
+      },
+      {
+        "id": "b1489a6eba8a38df",
+        "title": "Stem cell education platform strengthens students' identity as scientists",
+        "url": "https://phys.org/news/2026-06-stem-cell-platform-students-identity.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782415205000,
+        "summary": "On a YouTube livestream, Berkeley City College students carefully study the movements of stem cells to observe what they do as they become neurons: Are they moving, growing or forming new connections with other neurons?",
+        "tags": [
+          "education"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
+      {
+        "id": "8adb8fed2ddd9b70",
+        "title": "Scorching heat waves, torrential rain, all in a matter of days—it's not just bad luck",
+        "url": "https://phys.org/news/2026-06-torrential-days-bad-luck.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782415203000,
+        "summary": "After a heat wave, we crave relief, not more extreme weather. But increasingly, we have to contend with a succession of extremes—ricocheting from extreme heat to intense storms to flooding waterways.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
+      {
         "id": "c318890f68096c33",
         "title": "A 'direct wave' from colliding black holes reveals signature of a whirlpool in spacetime",
         "url": "https://phys.org/news/2026-06-colliding-black-holes-reveals-signature.html",
@@ -3799,84 +3843,36 @@
         "score": 1.004
       },
       {
-        "id": "c37b098912666393",
-        "title": "Digital Twin-Driven Adaptive Sim-to-Real Alignment via Reinforcement Learning for Vibration-Based Bearing Health Monitoring Under Data Scarcity",
-        "url": "https://arxiv.org/abs/2606.24954",
+        "id": "44257731cf97d6ef",
+        "title": "Enhancing Clinician Decision-Making via Uncertainty-Aware Multi-Expert Fusion for Stroke Rehabilitation",
+        "url": "https://arxiv.org/abs/2606.24960",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1782360000000,
-        "summary": "arXiv:2606.24954v1 Announce Type: new Abstract: Vibration-based health monitoring of rotating machinery requires reliable fault diagnosis under operational data constraints, yet condition assessment remains challenged by structural scarcity of fault events and heterogeneous sim-to-real gaps in digital twin-generated signals. Each fault type generates impulses with distinct periodicity, amplitude m",
-        "tags": [
-          "cs.lg",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.782
-      },
-      {
-        "id": "3d5666882a913f26",
-        "title": "Latent Block-Diffusion Temporal Point Processes: A Semi-Autoregressive Framework for Asynchronous Event Sequence Generation",
-        "url": "https://arxiv.org/abs/2606.24982",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782360000000,
-        "summary": "arXiv:2606.24982v1 Announce Type: new Abstract: Modeling and sampling from the underlying distribution of asynchronous event sequences are crucial in various real-world applications, including social networks, medical diagnosis, and financial transactions. Existing autoregressive methods suffer from error accumulation during multi-step generation, while non-autoregressive diffusion methods are typ",
-        "tags": [
-          "cs.lg",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.782
-      },
-      {
-        "id": "03e3a19ef9ed7f83",
-        "title": "Uncertainty-aware reinforcement learning for chemical language models",
-        "url": "https://arxiv.org/abs/2606.24990",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782360000000,
-        "summary": "arXiv:2606.24990v1 Announce Type: new Abstract: Reinforcement Learning (RL) has become a powerful paradigm for de novo molecular design, enabling Chemical Language Models (CLMs) to navigate and explore the chemical space while optimizing specific desired properties. However, the existing RL frameworks treat all scoring functions as deterministic oracles, neglecting the inherent uncertainty attache",
+        "summary": "arXiv:2606.24960v1 Announce Type: new Abstract: Tailoring stroke rehabilitation requires assessing how movements are organized, not merely if they succeed. Currently, this assessment is a rate-limiting bottleneck. Instruments like the Action Research Arm Test (ARAT) compress rich behavioral observations into single ordinal endpoints, discarding the movement-quality details that distinguish recover",
         "tags": [
           "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.782
+        "score": 0.8439
       },
       {
-        "id": "060203e286434097",
-        "title": "Are Tabular Foundation Models Robust to Realistic Query Distribution Shifts in Microbiome Data?",
-        "url": "https://arxiv.org/abs/2606.24995",
+        "id": "a6acf0e94cb60269",
+        "title": "When Multi-Sensor Fusion Fails to Generalize: Cattle Posture Classification Under Animal-Level and Temporal Distribution Shift",
+        "url": "https://arxiv.org/abs/2606.24986",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1782360000000,
-        "summary": "arXiv:2606.24995v1 Announce Type: new Abstract: Tabular foundation models (TFMs) achieve strong performance on microbiome abundance data, yet their robustness under realistic distribution shift remains poorly characterized. We introduce a benchmark that evaluates the robustness of TFMs to biologically inspired perturbations across six gut microbiome datasets spanning four disease contexts. In this",
+        "summary": "arXiv:2606.24986v1 Announce Type: new Abstract: Automated cattle posture-classification systems frequently report near-perfect accuracy, yet their robustness under realistic deployment conditions remains largely unknown. In particular, it is unclear whether multimodal sensor fusion improves generalisation or leads models to rely on context-specific signals that fail under distribution shift. Here,",
         "tags": [
           "cs.lg",
-          "cs.ai",
-          "q-bio.qm"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.782
-      },
-      {
-        "id": "3d6318e5497eb58a",
-        "title": "Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR",
-        "url": "https://arxiv.org/abs/2606.25178",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782360000000,
-        "summary": "arXiv:2606.25178v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has been extended from single-domain training to multi-domain reasoning suites spanning mathematics, programming, and science. However, the training curriculum (how often each domain is sampled) is typically fixed or hand-tuned, even though reasoning skills transfer unevenly across domains. Existi",
-        "tags": [
           "cs.ai"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 0.9126
+        "impact": "normal",
+        "score": 0.8439
       }
     ]
   },
