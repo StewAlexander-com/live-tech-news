@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-06-26T03:45:36.960897+00:00",
+  "generated_at": "2026-06-26T04:51:54.112223+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "5b246e4f4a9d9351",
+        "title": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
+        "url": "https://arxiv.org/abs/2606.26164",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26164v1 Announce Type: new Abstract: Finding all modes of a multimodal black-box function is a fundamental challenge in optimization, Bayesian inference, and scientific computing. Existing approaches -- basin-hopping, CMA-ES, multistart gradient descent -- operate sequentially and cannot exploit the massive parallelism of modern GPU hardware. We introduce \\chisao{} (\\textbf{C}onvergence",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na",
+          "physics.data-an",
+          "stat.co"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0327
+      },
       {
         "id": "94670cf2e0f97f62",
         "title": "First UAVs that can stalk and kill Russian Shahed drones autonomously have been battle-tested in the Kharkiv region",
@@ -965,29 +984,42 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9627
-      },
-      {
-        "id": "b4981fc024d38bc5",
-        "title": "Chuwi’s Wildcat Lake laptop goes on sale for $449",
-        "url": "https://liliputing.com/chuwis-wildcat-lake-laptop-goes-on-sale-for-449/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1782409777000,
-        "summary": "Apple may have just raised the starting price of its cheapest laptop to $699, but rivals are moving ahead with plans to offer cheap laptops with competitive features. The Dell XPS 13 Windows laptop with an Intel Core 5 320 Wildcat Lake processor launched earlier this month for $700 and up. And now Chuwi’s UniBook […] The post Chuwi’s Wildcat Lake laptop goes on sale for $449 appeared first on Lili",
-        "tags": [
-          "news",
-          "nofollow",
-          "chuwi",
-          "chuwi unibook",
-          "unibook",
-          "wildcat lake"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1877
       }
     ],
     "innovation": [
+      {
+        "id": "0ef4a2b25f52a256",
+        "title": "Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega (Alistair Gray/Financial Times)",
+        "url": "https://www.techmeme.com/260626/p2#a260626p2",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782449402000,
+        "summary": "Alistair Gray / Financial Times: Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega — Swiss watchmaker accuses technology group of ‘large-scale appropriation’ of luxury designs in London lawsuit",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9994
+      },
+      {
+        "id": "7e8342761bee636c",
+        "title": "Apple price hikes have hit Australia, and the MacBook Neo no longer looks quite so cheap",
+        "url": "https://www.techradar.com/computing/macbooks/apple-price-hikes-have-hit-australia",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1782448143000,
+        "summary": "Apple has raised Australian prices across Macs, iPads and home devices, with the MacBook Neo now starting at AU$1,049 and Mac mini up 30%.",
+        "tags": [
+          "macbooks",
+          "apple tv",
+          "ipad",
+          "computing",
+          "laptops",
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8438
+      },
       {
         "id": "7ce0781e5a27de1a",
         "title": "Spain To Require Carriers To Keep Mobile Networks Live During Power Outages",
@@ -1874,42 +1906,211 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9924
-      },
-      {
-        "id": "196f36227121c12b",
-        "title": "Sources: Bumble explores a sale amid slowing growth in the online dating sector; its shares fell 48% over the past 12 months, giving it a market cap of $388M (Milana Vinn/Reuters)",
-        "url": "https://www.techmeme.com/260625/p34#a260625p34",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782406847000,
-        "summary": "Milana Vinn / Reuters: Sources: Bumble explores a sale amid slowing growth in the online dating sector; its shares fell 48% over the past 12 months, giving it a market cap of $388M — Dating app Bumble (BMBL.O) is exploring a sale amid slowing growth in the online dating sector, according to three people familiar with the matter.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.991
-      },
-      {
-        "id": "a1f77b9b154dcfa9",
-        "title": "CSS On The ESP32",
-        "url": "https://hackaday.com/2026/06/25/css-on-the-esp32/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782406817000,
-        "summary": "There are lots of graphics libraries available for the ESP32, and lots of ways to program one to boot. Even still, most of us wouldn’t immediately think to CSS when …read more",
-        "tags": [
-          "microcontrollers",
-          "software development",
-          "css",
-          "esp32",
-          "gea stack",
-          "typescript"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0702
       }
     ],
     "ai": [
+      {
+        "id": "030f5a35d9cab8e7",
+        "title": "OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users (Thomas Claburn/The Register)",
+        "url": "https://www.techmeme.com/260626/p1#a260626p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782446701000,
+        "summary": "Thomas Claburn / The Register: OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users — Codex, it's not just for developers, really — A company can learn a lot about the market by looking at its own employees.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9851
+      },
+      {
+        "id": "b3fd26fe2421529c",
+        "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+        "url": "https://arxiv.org/abs/2606.26203",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power",
+        "tags": [
+          "cs.ai",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "3ec1d4ab34a4e5db",
+        "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+        "url": "https://arxiv.org/abs/2606.26205",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26205v1 Announce Type: new Abstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory adverse-event records, which are authoritative but abstract, and patient narratives, which are experience-near but unvalidated. Integrating them without conflating evidence and anecdote is especially consequential in psychi",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "29c48d933e13f6a0",
+        "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+        "url": "https://arxiv.org/abs/2606.26298",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26298v1 Announce Type: new Abstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production software deployment. This paper observes that human institutions have governed powerful autonomous actors not by monitoring their reasoning but by requiring independently attested evidence at the point of consequential action. We ",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "d395c8eae82b0a5a",
+        "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+        "url": "https://arxiv.org/abs/2606.26299",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26299v1 Announce Type: new Abstract: While generative AI has achieved remarkable success in solving problems with verifiable solutions, generating physical art that satisfies both strict geometric constraints and subjective visual aesthetics remains a challenge. This paper presents an approach to tackle these difficulties in the domain of computational origami, a mathematically rigid en",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "9a20aaba733ba225",
+        "title": "When Agents Meet Electric Bus Fleet Operations: Pricing Behavior, Trade-offs, and Policy Implications in an Aggregator Framework",
+        "url": "https://arxiv.org/abs/2606.26400",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26400v1 Announce Type: new Abstract: Agentic systems are changing how complex operational tasks are coordinated, introducing a new paradigm for connecting heterogeneous data sources and automating processes. Electric bus fleets provide a relevant test case. Their operation requires continuous coordination between service reliability, battery state-of-charge, charger availability, electr",
+        "tags": [
+          "cs.ai",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "dabdafa57cc25e69",
+        "title": "Unbiased Canonical Set-Valued Oracles Via Lattice Theory",
+        "url": "https://arxiv.org/abs/2606.26418",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26418v1 Announce Type: new Abstract: A non-agentic \"oracle\" AI that estimates probabilities of future events faces a self-reference problem: once its answer is learned and acted upon, it can change the very probability it was asked to report. One response, advocated for the Scientist AI programme, is to ask only counterfactual questions, evaluated as if the answer had no influence. We o",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "a8b9740b9489c033",
+        "title": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
+        "url": "https://arxiv.org/abs/2606.26169",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26169v1 Announce Type: new Abstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This paper provides a comprehensive review of NAS methods applied to GANs, categorizing and comparing vario",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "a90dad69e93eb518",
+        "title": "Statistical and Structural Approaches to Algorithmic Fairness",
+        "url": "https://arxiv.org/abs/2606.26200",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26200v1 Announce Type: new Abstract: Modern machine learning systems have outgrown their origins as isolated predictive constructs, evolving into complex socio-technical architectures that actively mediate human opportunity. As algorithms increasingly determine access to economic and social opportunities, it has become widely recognized that these systems are deeply embedded with the st",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "223592f669611620",
+        "title": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
+        "url": "https://arxiv.org/abs/2606.26204",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26204v1 Announce Type: new Abstract: Floods frequently impact regions around the world. Rapid and accurate flood detection is crucial for emergency response and timely mitigation of human and economic loss. The expanding availability of satellite data and advances in artificial intelligence have enhanced monitoring of environmental hazards, but many flood events remain challenging to de",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "b992793df70d3e26",
+        "title": "A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks",
+        "url": "https://arxiv.org/abs/2606.26212",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26212v1 Announce Type: new Abstract: A Graph Neural Network (GNN) framework for predicting the solvability of finite groups from their Cayley graph representations was introduced in [1]. In the present work, we generalize this approach and develop a property-independent framework for learning algebraic properties of finite groups directly from Cayley graphs. As representative case studi",
+        "tags": [
+          "cs.lg",
+          "math.gr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "93e98450b1d12b5c",
+        "title": "Dataset Usage Inference without Shadow Models or Held-out Data",
+        "url": "https://arxiv.org/abs/2606.26257",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26257v1 Announce Type: new Abstract: How much of my data was used to train a machine learning model? Dataset Usage Inference (DUI) aims to answer this by estimating what fraction of a dataset contributed to a model's training. However, existing DUI methods rely on assumptions that rarely hold in practice: they require training expensive shadow models to imitate the target model, and the",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "bbfe5ba9a6726779",
+        "title": "Equivariance and Augmentation for Bayesian Neural Networks",
+        "url": "https://arxiv.org/abs/2606.26273",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26273v1 Announce Type: new Abstract: Symmetries are important for many deep learning tasks, ranging from applications in the sciences to medical imaging. However, there is an ongoing debate about whether to impose symmetry constraints on the neural network architecture (yielding equivariant neural networks) or learn them from augmented training data. Although equivariant networks are we",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
       {
         "id": "f082d650fcfe2a47",
         "title": "SoftBank shares fell 12% after reports that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI's debut helped support Softbank's stock (Aya Wagatsuma/Bloomberg)",
@@ -2632,219 +2833,136 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9918
-      },
-      {
-        "id": "32d55bbb1b796d89",
-        "title": "Planet orbits so close to its star that their magnetic fields connect",
-        "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782410439000,
-        "summary": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
-        "tags": [
-          "science",
-          "astronomy",
-          "astrophysics",
-          "exoplanets",
-          "magnetic fields"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9614
-      },
-      {
-        "id": "05195840de277626",
-        "title": "'We're going to look back at this day as the moment we shifted safety into the next gear': Samsara's new 360 camera and AI tools look to make work sites safer and smarter for all",
-        "url": "https://www.techradar.com/pro/were-going-to-look-back-at-this-day-as-the-moment-we-shifted-safety-into-the-next-gear-samsaras-new-360-camera-and-ai-tools-look-to-make-work-sites-safer-and-smarter-for-all",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782410265000,
-        "summary": "Samsara's new 360 Camera and AI Multicam look to improve safety and visibility for work teams everywhere.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9111
-      },
-      {
-        "id": "8e0892094a0fb943",
-        "title": "Anthropic accuses China's Alibaba of stealing Claude's AI capabilities",
-        "url": "https://www.reddit.com/r/technology/comments/1ufhazn/anthropic_accuses_chinas_alibaba_of_stealing/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782409972000,
-        "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0009
-      },
-      {
-        "id": "2030d6e8356b6665",
-        "title": "Apple Explains Why It Raised Prices on These 14 Products Today",
-        "url": "https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782409334000,
-        "summary": "Apple today raised prices on many of its products, including all Macs and iPads, as well as the Apple TV, HomePod, HomePod mini, and Vision Pro. We shared a list of the price increases, which range from $30 for the HomePod mini to up to $1,300 for the Mac Studio. iPhone, Apple Watch, and AirPods prices have not changed, at least for now. In a statement shared with MacRumors, Apple said it raised p",
-        "tags": [
-          "featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9974
-      },
-      {
-        "id": "747d8d9381479106",
-        "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782409124000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:8"
-        ],
-        "paywall": true,
-        "impact": "normal",
-        "score": 0.733
-      },
-      {
-        "id": "e42c35c116af7128",
-        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782409107000,
-        "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-        "tags": [
-          "ai",
-          "anthropic",
-          "chatgpt",
-          "claude",
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8047
-      },
-      {
-        "id": "251cb034558a1081",
-        "title": "Notion plans to shut down its Gmail client Notion Mail on September 22 and go \"all in\" on AI agents to run inboxes, saying 50%+ of users do not open the inbox (Zac Hall/9to5Mac)",
-        "url": "https://www.techmeme.com/260625/p38#a260625p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782408902000,
-        "summary": "Zac Hall / 9to5Mac: Notion plans to shut down its Gmail client Notion Mail on September 22 and go “all in” on AI agents to run inboxes, saying 50%+ of users do not open the inbox — Last year, Notion expanded its productivity suite to include Notion Mail, an AI-powered email client.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0747
-      },
-      {
-        "id": "47b701f9963f3d8d",
-        "title": "Why Does a Bank Need a Chief Scientist?",
-        "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
-        "source": "IEEE Spectrum",
-        "lane": "ai",
-        "published_ts": 1782408752000,
-        "summary": "This article is brought to you by Capital One.After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution serving over 100 million customers, helping everyday Americans manage their financial lives.For Nataraj",
-        "tags": [
-          "ai-research",
-          "agentic-ai",
-          "financial-services",
-          "tech-careers",
-          "type-sponsored",
-          "financial-technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1812
-      },
-      {
-        "id": "5bf28c58098b5028",
-        "title": "Codex's plan mode made me stop planning in Claude first",
-        "url": "https://www.makeuseof.com/codex-plan-mode-made-me-stop-planning-in-claude-first/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1782408619000,
-        "summary": "It reads my files and asks the right questions before it writes anything.",
-        "tags": [
-          "productivity",
-          "claude",
-          "coding tips"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8445
-      },
-      {
-        "id": "7729fcd4eddc7f4d",
-        "title": "Google launches a Google Finance app for Android, with market data, financial news, and an AI-powered \"Key Moments\" feature, and plans an iOS version this year (Aisha Malik/TechCrunch)",
-        "url": "https://www.techmeme.com/260625/p36#a260625p36",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782408301000,
-        "summary": "Aisha Malik / TechCrunch: Google launches a Google Finance app for Android, with market data, financial news, and an AI-powered “Key Moments” feature, and plans an iOS version this year — Google on Thursday launched a dedicated mobile app for Google Finance that houses users' watchlists and provides real …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0787
-      },
-      {
-        "id": "b7c4262007f3f5d8",
-        "title": "China's answer to Claude's Fable 5 comes top of the HTML web design contest as the CEO tells Elon Musk GLM will reach Mythos-class before Q1 2027",
-        "url": "https://www.techradar.com/pro/chinas-answer-to-claudes-fable-5-comes-top-of-the-html-web-design-contest-as-the-ceo-tells-elon-musk-glm-will-reach-mythos-class-before-q1-2027",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782408251000,
-        "summary": "GLM-5.2 tops web leaderboard using strong templates, library integration, and pricing advantage over Claude Fable 5",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8487
-      },
-      {
-        "id": "dcee37e8aa763b77",
-        "title": "AI reads 3D tooth microwear to reconstruct diets of early human ancestors",
-        "url": "https://phys.org/news/2026-06-ai-3d-tooth-microwear-reconstruct.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1782408003000,
-        "summary": "The study of dental microwear allows the analysis of the microscopic marks that foods leave on the surface of tooth enamel during mastication. In paleoanthropology, this methodology helps reconstruct the diet of fossil primates and hominins throughout human evolution. The microscopic striations in dental enamel are like microscopic archives that reveal whether the diet was rich in foods with softe",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0985
-      },
-      {
-        "id": "36e43e8d3bba4b66",
-        "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
-        "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782407661000,
-        "summary": "Apple is changing its Apple silicon launch timeline to speed up the debut of chips designed for artificial intelligence workloads, reports Bloomberg. Apple plans to release an M6 chip for entry-level Macs as soon as this year, but it has canceled plans for higher-end M6 Pro and M6 Max chips. Instead, Apple's next Pro and Max chips will be part of its M7 chip lineup, with the first M7 chips launchi",
-        "tags": [
-          "featured",
-          "mac studio",
-          "macbook pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.075
       }
     ],
     "science": [
+      {
+        "id": "c465d93b33eadf40",
+        "title": "LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography",
+        "url": "https://arxiv.org/abs/2606.26713",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26713v1 Announce Type: new Abstract: As semiconductor technology nodes scale, computational lithography is essential for ensuring yield and performance. However, lithography is a continuous physical process involving mask optimization, optical imaging, resist exposure, and development, which existing models fail to capture. To overcome this limitation, we present LithoDreamer, the first",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "ff2fdac9d4d9247c",
+        "title": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
+        "url": "https://arxiv.org/abs/2606.26128",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26128v1 Announce Type: new Abstract: The spatiotemporal evolution of many physical, chemical, and biological systems is described by nonlinear partial differential equations (PDEs). Recently, deep neural network-based surrogate models have gained increasing interest as efficient alternatives to computationally expensive traditional numerical solvers. In this work, we propose an attentio",
+        "tags": [
+          "cs.lg",
+          "cond-mat.soft"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "d9c5cdd80f5931fe",
+        "title": "KG-TRACE: A Neuro-Symbolic Framework for Mechanistic Grounding in Antimicrobial Resistance Prediction",
+        "url": "https://arxiv.org/abs/2606.26179",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26179v1 Announce Type: new Abstract: While WGS-based AMR prediction has reached high accuracy, existing models lack a mechanism to ground neural attributions in established biological pathways. We present KG-TRACE, a novel neuro-symbolic framework that integrates the WHO mutation knowledge graph (KG) as a structured biological constraint on a neural genomic model. Unlike existing method",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "q-bio.qm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "9763a94237fc76bd",
+        "title": "When Does Quality-Aware Multimodal Fusion Matter? A Leakage-Safe Diagnostic for Decision-Level Dependence",
+        "url": "https://arxiv.org/abs/2606.26473",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26473v1 Announce Type: new Abstract: Many multimodal systems estimate the reliability of each modality and weight their contributions to the final prediction. However, it remains unclear whether these scores influence model decisions or merely correlate with performance. We propose a simple diagnostic to test whether reliability information is used during inference. After training, the ",
+        "tags": [
+          "cs.lg",
+          "eess.as"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "30bf58cc3168b177",
+        "title": "Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting",
+        "url": "https://arxiv.org/abs/2606.26520",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26520v1 Announce Type: new Abstract: Mammalian cell-culture processes underpin the manufacture of many biopharmaceuticals, yet keeping a run on track is hard: critical process parameters drift over days, and an off-specification trend is often confirmed too late to intervene. Early-stage, multi-day forecasts could enable timely adjustment of feeding, sampling, and control, but bioproces",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ce"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1153
+      },
+      {
+        "id": "0b7c61a684f79c7d",
+        "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
+        "url": "https://arxiv.org/abs/2606.26267",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26267v1 Announce Type: new Abstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to their exclusive reliance on match outcomes, neglecting the granular quality of gameplay. Nevertheless, incorporating move-by-move information into rating adjustments presents a significant challenge give",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0327
+      },
+      {
+        "id": "11ea43508c565e39",
+        "title": "Mesh-RL: Coupled subgrid reinforcement learning",
+        "url": "https://arxiv.org/abs/2606.26333",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26333v1 Announce Type: new Abstract: Reinforcement learning in large or sparse-reward environments suffers from slow temporal-difference reward propagation, as value information spreads only locally across the state space. We propose Mesh-RL, a spatial domain-decomposition framework inspired by the finite element method and domain decomposition theory, which partitions the environment i",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0327
+      },
+      {
+        "id": "deb97a356e8c1578",
+        "title": "Does Aurora Encode Atmospheric Structure? Latent Regime Analysis and Attribution",
+        "url": "https://arxiv.org/abs/2606.26361",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26361v1 Announce Type: new Abstract: ML foundation models are able to emulate atmospheric dynamics accurately and efficiently but operate as opaque ``black boxes''. We investigate the internal representations of the Aurora model using spatially pooled PCA and layer-wise relevance propagation (LRP). We find evidence that Aurora's latent space is primarily organized by seasonal cycles, wh",
+        "tags": [
+          "cs.lg",
+          "physics.ao-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0327
+      },
       {
         "id": "38132daece6d78a1",
         "title": "Extreme heat is harming remote First Nations communities. It's time we listen to them",
@@ -3626,126 +3744,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0196
-      },
-      {
-        "id": "904ad256f8142475",
-        "title": "Experts explain where nature conservation can make the greatest difference in saving endangered species",
-        "url": "https://phys.org/news/2026-06-experts-nature-greatest-difference-endangered.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782405601000,
-        "summary": "Old oak trees and semi-natural grasslands are very important for a large number of species that risk disappearing as habitats decline. In a new study, researchers at Linköping University in Sweden present their findings on the habitat amount needed. The results can help nature conservation agencies set scientifically based goals and take more precise action to ensure the long-term survival of thre",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0196
-      },
-      {
-        "id": "499ab5d810e2960c",
-        "title": "Extreme heat and health: Policy guide reveals what communities need to know",
-        "url": "https://phys.org/news/2026-06-extreme-health-policy-reveals-communities.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782404404000,
-        "summary": "Blistering temperatures exacerbated by high humidity are not just uncomfortable but dangerous. Across Canada, and in communities throughout southwestern Ontario, rising temperatures are affecting people's health in profound and uneven ways. New research led by the University of Waterloo Climate Institute is calling for urgent, equity-focused action to address public health risks from extreme heat.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0131
-      },
-      {
-        "id": "23383c03f7c8b4ae",
-        "title": "Artificial 'leaf' powers wireless biomedical device",
-        "url": "https://phys.org/news/2026-06-artificial-leaf-powers-wireless-biomedical.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782403203000,
-        "summary": "Plants convert light into energy efficiently through photosynthesis—an ability that scientists and engineers still struggle to match with electronic devices. Recently, researchers have looked beyond traditional semiconductor materials to create devices using a promising class of materials called nanoplasmonics. These tiny metal structures can absorb and concentrate optical energy and generate ener",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0983
-      },
-      {
-        "id": "07fd9d12606ca906",
-        "title": "Heat-struck Italians cool off in ancient stone 'trulli'",
-        "url": "https://phys.org/news/2026-06-struck-italians-cool-ancient-stone.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782402014000,
-        "summary": "Once relics of a bygone way of life, the iconic dry-stone dwellings with conical roofs dotted across Puglia are in increasing demand as cool havens in Italy's sweltering south.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "8dd46b767fb1cf02",
-        "title": "Hybrid reef project off Miami Beach targets wave attenuation and coral recovery",
-        "url": "https://phys.org/news/2026-06-hybrid-reef-miami-beach-attenuation.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782402007000,
-        "summary": "University of Miami researchers and collaborators have expanded an offshore reef restoration and coastal resilience project off Miami Beach with the deployment of three 3D-printed SEAHIVE clustered structures.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "6a88a4e42a0dad0a",
-        "title": "Sponges may cut methylmercury contamination in marine food webs by more than 50%",
-        "url": "https://phys.org/news/2026-06-sponges-methylmercury-contamination-marine-food.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782402004000,
-        "summary": "Marine sponges may play an important, previously underestimated role in reducing methylmercury contamination in marine food webs. In a new modeling study, researchers at Helmholtz-Zentrum Hereon showed that sponges can significantly influence the spread of this environmental toxin through ecosystems. The findings suggest that the animals' unique feeding behavior helps reduce methylmercury levels a",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "0ca93673c14204b1",
-        "title": "Study explores environmental cost, perceptions of influencer PR gifts",
-        "url": "https://phys.org/news/2026-06-explores-environmental-perceptions-pr-gifts.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782400806000,
-        "summary": "As part of their marketing strategy, many companies send public relations packages full of curated products to social media influencers, who film themselves opening the gifts on platforms like Instagram and TikTok.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
-      },
-      {
-        "id": "0c710de62c80a86f",
-        "title": "Turtles may migrate using Earth's magnetic field",
-        "url": "https://phys.org/news/2026-06-turtles-migrate-earth-magnetic-field.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782400804000,
-        "summary": "New research indicates that sea turtles seem to navigate across hundreds of miles of open ocean using Earth's magnetic field. Previous experimental studies suggested that sea turtles use geomagnetism to navigate, but this study, published in Science Advances, was purely observational: Researchers attached devices measuring location and compass direction (the way a turtle was facing at a given mome",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0195
       }
     ]
   },
