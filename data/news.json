@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T20:16:23.041243+00:00",
+  "generated_at": "2026-06-26T20:22:22.859147+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -205,6 +205,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6999
+      },
+      {
+        "id": "e450f22572c007f0",
+        "title": "Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
+        "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1782498315000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0113
       },
       {
         "id": "67bc3cbd71d3b8d9",
@@ -971,25 +987,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.989
-      },
-      {
-        "id": "b167d147781adedc",
-        "title": "Hackers are establishing persistence in hospitality and hotels by posing as guests with poisoned ZIP archives, but no one knows what their plan is",
-        "url": "https://www.techradar.com/pro/security/hackers-are-establishing-persistence-in-hospitality-and-hotels-by-posing-as-guests-with-poisoned-zip-archives-but-no-one-knows-what-their-plan-is",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782482700000,
-        "summary": "It looks like reconnaissance activity, possibly in preparation of a more destructive attack.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8491
       }
     ],
     "innovation": [
@@ -1995,6 +1992,19 @@
     ],
     "ai": [
       {
+        "id": "843935c5715b3680",
+        "title": "OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets (OpenAI)",
+        "url": "https://www.techmeme.com/260626/p23#a260626p23",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782504966000,
+        "summary": "OpenAI: OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets — GPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.998
+      },
+      {
         "id": "9129a6040b6607eb",
         "title": "Ford had to rehire 350 engineers after its AI got vehicle quality wrong",
         "url": "https://thenextweb.com/news/ford-rehired-350-engineers-ai-quality-jd-power",
@@ -2951,25 +2961,39 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9604
-      },
-      {
-        "id": "a4c9996e05348544",
-        "title": "'Humanity now stands on the eve of AGI': DeepSeek wants to \"at least double the size of every department\" as company pursues hiring spree in pursuit of AGI",
-        "url": "https://www.techradar.com/pro/humanity-now-stands-on-the-eve-of-agi-deepseek-wants-to-at-least-double-the-size-of-every-department-as-company-pursues-hiring-spree-in-pursuit-of-agi",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782477300000,
-        "summary": "DeepSeek is hiring engineers, product managers and more as it targets the next era of AI – artificial general intelligence.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9113
       }
     ],
     "science": [
+      {
+        "id": "69e45cd1860c1a9f",
+        "title": "Japan's small cities may face higher care burdens under the compact city policy",
+        "url": "https://phys.org/news/2026-06-japan-small-cities-higher-burdens.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782505203000,
+        "summary": "As populations decline and age across the developed world, compact city strategies, which oversee the consolidation of urban facilities and guide residents toward transit-served hubs, have become mainstream policies. Yet most evidence about their benefits comes from cities that are already compact. Far less is known about the social costs that may arise during the transition to compactness in the ",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0192
+      },
+      {
+        "id": "21934f59e4e208b0",
+        "title": "ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows",
+        "url": "https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782505201000,
+        "summary": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are established as essential signaling molecules in various organisms, their precise role in basic plant development and morphogenesis remains unclear.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0192
+      },
       {
         "id": "8fbeccb11cdd3f21",
         "title": "Pegasus launch to deploy LINK for months‑long orbit boost of aging Swift",
@@ -3854,36 +3878,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.069
-      },
-      {
-        "id": "e086b6e5ab5a9bd4",
-        "title": "Study challenges idea that simply playing sports makes kids less prone to violent behavior",
-        "url": "https://phys.org/news/2026-06-idea-simply-playing-sports-kids.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782471603000,
-        "summary": "Contrary to popular belief, simply playing organized youth sports does not reduce the likelihood of committing violence in one's lifetime and, in some cases, may increase it, according to a new study.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
-      },
-      {
-        "id": "7b7f0ef2204793d3",
-        "title": "Space Shuttle Endeavour stacks up nicely for new California exhibit",
-        "url": "https://www.theregister.com/offbeat/2026/06/26/space-shuttle-endeavour-stacks-up-nicely-for-new-california-exhibit/5262402",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1782468000000,
-        "summary": "Full launch configuration recreated ahead of Samuel Oschin Air and Space Center's November opening",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1333
       }
     ]
   },
