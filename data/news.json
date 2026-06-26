@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T17:07:48.892394+00:00",
+  "generated_at": "2026-06-26T17:19:42.452424+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -53,6 +53,23 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8478
+      },
+      {
+        "id": "75057a32387324a3",
+        "title": "Smart lock maker Level has been gutted and its founders are out",
+        "url": "https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1782493156000,
+        "summary": "Assa Abloy has laid off the majority of staff at Level Home, the smart lock company known for building smart tech into traditional-looking deadbolts, and is folding the business into Kwikset, according to a source familiar with the decision. The Verge obtained exclusive details from a person familiar with the restructuring who requested anonymity as […]",
+        "tags": [
+          "news",
+          "smart home",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7868
       },
       {
         "id": "28cf932e522170e0",
@@ -426,7 +443,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0118
+        "score": 1.2493
       },
       {
         "id": "12b6330c875ce19f",
@@ -984,23 +1001,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.7879
-      },
-      {
-        "id": "3938f0dd53c12cb1",
-        "title": "Microsoft extends free Windows 10 security updates for a second year — program now ends on October 12, 2027",
-        "url": "https://www.tomshardware.com/software/windows/microsoft-extends-free-windows-10-security-updates-for-a-second-year",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1782473486000,
-        "summary": "Microsoft has extended its free consumer Windows 10 Extended Security Updates (ESU) program by a year, pushing the cutoff for critical security patches to October 14th, 2027.",
-        "tags": [
-          "windows",
-          "software",
-          "operating systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.943
       }
     ],
     "innovation": [
@@ -1033,6 +1033,23 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9943
+      },
+      {
+        "id": "1e3dc5f39b89d86d",
+        "title": "A single config file in a cloned repository could steal your AWS credentials through Amazon Q Developer",
+        "url": "https://thenextweb.com/news/amazon-q-developer-mcp-flaw-aws-credentials-stolen",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1782492569000,
+        "summary": "A high-severity flaw in Amazon Q Developer allowed a malicious code repository to silently execute commands on a developer’s machine and steal their AWS credentials. Wiz Research discovered the vulnerability, tracked as CVE-2026-12957, and reported it to Amazon on April 20. Amazon patched the issue on May 12, and the disclosure went public today. The […] This story continues at The Next Web",
+        "tags": [
+          "amazon",
+          "artificial intelligence",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8913
       },
       {
         "id": "d3328fdf07508a65",
@@ -1150,6 +1167,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.943
+      },
+      {
+        "id": "09e65597481d6d8c",
+        "title": "Xprize founder says global surveillance is a good thing because humans behave better when they are being watched",
+        "url": "https://thenextweb.com/news/diamandis-xprize-surveillance-privacy-transparency",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1782490405000,
+        "summary": "Xprize Foundation founder Peter Diamandis has joined a growing list of tech executives who believe global surveillance is a good idea, writing on X this week that “humans behave better when they’re being watched.” In a Substack essay titled “Visibility, Transparency and Trust,” he described what he called “radical transparency” as inevitable and positive, envisioning […] This story continues at Th",
+        "tags": [
+          "data and security",
+          "next featured",
+          "government and policy",
+          "meta",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8811
       },
       {
         "id": "7dbb3ae9dbb46b10",
@@ -1942,37 +1978,38 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8769
-      },
-      {
-        "id": "0ef4a2b25f52a256",
-        "title": "Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega (Alistair Gray/Financial Times)",
-        "url": "https://www.techmeme.com/260626/p2#a260626p2",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782449402000,
-        "summary": "Alistair Gray / Financial Times: Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega — Swiss watchmaker accuses technology group of ‘large-scale appropriation’ of luxury designs in London lawsuit",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9994
-      },
-      {
-        "id": "2f466d5a9246ac73",
-        "title": "Sony Confirms \"Significant\" Bungie Layoffs Include \"Most of the Destiny Team and Some Marathon Team Members\", as Bungie Admits \"Destiny 2 Fell Short of Expectations\" | Studio leaders say company cannot \"continue operating at our previous size.\"",
-        "url": "https://www.reddit.com/r/technology/comments/1ufwyza/sony_confirms_significant_bungie_layoffs_include/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782449382000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9231
       }
     ],
     "ai": [
+      {
+        "id": "bc6ddd5f9ec38eba",
+        "title": "OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government (Axios)",
+        "url": "https://www.techmeme.com/260626/p16#a260626p16",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782494003000,
+        "summary": "Axios: OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government — OpenAI is rolling out GPT-5.6 Friday, but says it's limiting access to all three versions of the new model at the behest of the U.S. government.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.998
+      },
+      {
+        "id": "542f02d7f463895b",
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782493615000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:54"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
+      },
       {
         "id": "439cb7ea5b7d09ea",
         "title": "Liva AI (YC S25) Is Hiring",
@@ -1988,6 +2025,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1314
+      },
+      {
+        "id": "c8fcacd5c31fc3d7",
+        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1782493200000,
+        "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a […]",
+        "tags": [
+          "ai",
+          "news",
+          "openai",
+          "policy"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.85
       },
       {
         "id": "60a313eb80315818",
@@ -2869,53 +2924,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.759
-      },
-      {
-        "id": "68ff03147bf18c50",
-        "title": "The US government asks OpenAI to slow its next model’s release",
-        "url": "https://thenextweb.com/news/trump-administration-openai-stagger-model-release",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782467284000,
-        "summary": "Sam Altman told staff Washington wants GPT-5.6 released first to a short list of trusted partners, with access approved customer by customer. For years the debate over slowing down powerful AI models was a matter for company safety teams and outside critics. Now it has a government request attached. The Trump administration has asked OpenAI […] This story continues at The Next Web",
-        "tags": [
-          "openai",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9587
-      },
-      {
-        "id": "27527bbde7775bd2",
-        "title": "Anthropic could be about to release Claude Cowork for mobile",
-        "url": "https://www.techradar.com/pro/anthropic-could-be-about-to-release-claude-cowork-for-mobile",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782465350000,
-        "summary": "Claude Cowork's Dispatch remote controller could be launching imminently – some sources suggest it's in beta, but no official announcement has been made.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8489
-      },
-      {
-        "id": "92db36c05247b6bc",
-        "title": "Three FOSS projects for developers, procrastinators, and media wranglers",
-        "url": "https://www.theregister.com/software/2026/06/26/three-foss-projects-for-developers-procrastinators-and-media-wranglers/5261631",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1782465300000,
-        "summary": "Prism tracks AI emissions, Super Productivity keeps tasks local, and TAMOSS brings the BBC's media API to Kubernetes",
-        "tags": [
-          "software"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1322
       }
     ],
     "science": [
@@ -3740,6 +3748,37 @@
         "score": 1.0792
       },
       {
+        "id": "11ea43508c565e39",
+        "title": "Mesh-RL: Coupled subgrid reinforcement learning",
+        "url": "https://arxiv.org/abs/2606.26333",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26333v1 Announce Type: new Abstract: Reinforcement learning in large or sparse-reward environments suffers from slow temporal-difference reward propagation, as value information spreads only locally across the state space. We propose Mesh-RL, a spatial domain-decomposition framework inspired by the finite element method and domain decomposition theory, which partitions the environment i",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8123
+      },
+      {
+        "id": "deb97a356e8c1578",
+        "title": "Does Aurora Encode Atmospheric Structure? Latent Regime Analysis and Attribution",
+        "url": "https://arxiv.org/abs/2606.26361",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26361v1 Announce Type: new Abstract: ML foundation models are able to emulate atmospheric dynamics accurately and efficiently but operate as opaque ``black boxes''. We investigate the internal representations of the Aurora model using spatially pooled PCA and layer-wise relevance propagation (LRP). We find evidence that Aurora's latent space is primarily organized by seasonal cycles, wh",
+        "tags": [
+          "cs.lg",
+          "physics.ao-ph"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8123
+      },
+      {
         "id": "c465d93b33eadf40",
         "title": "LithoDreamer: A Physics-Informed World Model for Multi-Stage Computational Lithography",
         "url": "https://arxiv.org/abs/2606.26713",
@@ -3802,38 +3841,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1153
-      },
-      {
-        "id": "30bf58cc3168b177",
-        "title": "Multipath Adaptive Gated Bottleneck Latent ODE with Raman Data Fusion for Cell Culture Process Forecasting",
-        "url": "https://arxiv.org/abs/2606.26520",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782446400000,
-        "summary": "arXiv:2606.26520v1 Announce Type: new Abstract: Mammalian cell-culture processes underpin the manufacture of many biopharmaceuticals, yet keeping a run on track is hard: critical process parameters drift over days, and an off-specification trend is often confirmed too late to intervene. Early-stage, multi-day forecasts could enable timely adjustment of feeding, sampling, and control, but bioproces",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.ce"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1153
-      },
-      {
-        "id": "0b7c61a684f79c7d",
-        "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-        "url": "https://arxiv.org/abs/2606.26267",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782446400000,
-        "summary": "arXiv:2606.26267v1 Announce Type: new Abstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to their exclusive reliance on match outcomes, neglecting the granular quality of gameplay. Nevertheless, incorporating move-by-move information into rating adjustments presents a significant challenge give",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0327
       }
     ]
   },
