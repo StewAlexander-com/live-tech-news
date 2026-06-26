@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:06:10.640628+00:00",
+  "generated_at": "2026-06-26T15:07:55.845115+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1015,6 +1015,21 @@
         "score": 1.0479
       },
       {
+        "id": "3378e51a70659b65",
+        "title": "Nintendo has raised its employees base salary by 10%",
+        "url": "https://www.reddit.com/r/technology/comments/1ug8y9e/nintendo_has_raised_its_employees_base_salary_by/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782485364000,
+        "summary": "submitted by /u/yourfavchoom [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9444
+      },
+      {
         "id": "eec8f44fc81996ec",
         "title": "Oracle promises to open up MySQL governance, but the community wants guarantees",
         "url": "https://www.theregister.com/databases/2026/06/26/oracle-promises-to-open-up-mysql-governance-but-the-community-wants-guarantees/5263106",
@@ -1924,21 +1939,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0789
-      },
-      {
-        "id": "100ce714484ebcf3",
-        "title": "‘Grand Theft Auto VI’ Going Digital-Only Is a Car Crash for Physical Media",
-        "url": "https://www.reddit.com/r/technology/comments/1ufopq7/grand_theft_auto_vi_going_digitalonly_is_a_car/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782426593000,
-        "summary": "submitted by /u/yourfavchoom [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9002
       }
     ],
     "ai": [
@@ -2713,6 +2713,36 @@
         "score": 0.9851
       },
       {
+        "id": "93e98450b1d12b5c",
+        "title": "Dataset Usage Inference without Shadow Models or Held-out Data",
+        "url": "https://arxiv.org/abs/2606.26257",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26257v1 Announce Type: new Abstract: How much of my data was used to train a machine learning model? Dataset Usage Inference (DUI) aims to answer this by estimating what fraction of a dataset contributed to a model's training. However, existing DUI methods rely on assumptions that rarely hold in practice: they require training expensive shadow models to imitate the target model, and the",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9152
+      },
+      {
+        "id": "bbfe5ba9a6726779",
+        "title": "Equivariance and Augmentation for Bayesian Neural Networks",
+        "url": "https://arxiv.org/abs/2606.26273",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782446400000,
+        "summary": "arXiv:2606.26273v1 Announce Type: new Abstract: Symmetries are important for many deep learning tasks, ranging from applications in the sciences to medical imaging. However, there is an ongoing debate about whether to impose symmetry constraints on the neural network architecture (yielding equivariant neural networks) or learn them from augmented training data. Although equivariant networks are we",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9152
+      },
+      {
         "id": "b3fd26fe2421529c",
         "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
         "url": "https://arxiv.org/abs/2606.26203",
@@ -2835,37 +2865,6 @@
           "cs.lg",
           "cs.ai",
           "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1153
-      },
-      {
-        "id": "223592f669611620",
-        "title": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
-        "url": "https://arxiv.org/abs/2606.26204",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782446400000,
-        "summary": "arXiv:2606.26204v1 Announce Type: new Abstract: Floods frequently impact regions around the world. Rapid and accurate flood detection is crucial for emergency response and timely mitigation of human and economic loss. The expanding availability of satellite data and advances in artificial intelligence have enhanced monitoring of environmental hazards, but many flood events remain challenging to de",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1153
-      },
-      {
-        "id": "b992793df70d3e26",
-        "title": "A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks",
-        "url": "https://arxiv.org/abs/2606.26212",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782446400000,
-        "summary": "arXiv:2606.26212v1 Announce Type: new Abstract: A Graph Neural Network (GNN) framework for predicting the solvability of finite groups from their Cayley graph representations was introduced in [1]. In the present work, we generalize this approach and develop a property-independent framework for learning algebraic properties of finite groups directly from Cayley graphs. As representative case studi",
-        "tags": [
-          "cs.lg",
-          "math.gr"
         ],
         "paywall": false,
         "impact": "high",
