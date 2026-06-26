@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:26:38.776436+00:00",
+  "generated_at": "2026-06-26T03:45:36.960897+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -989,6 +989,21 @@
     ],
     "innovation": [
       {
+        "id": "7ce0781e5a27de1a",
+        "title": "Spain To Require Carriers To Keep Mobile Networks Live During Power Outages",
+        "url": "https://hardware.slashdot.org/story/26/06/25/2056248/spain-to-require-carriers-to-keep-mobile-networks-live-during-power-outages?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1782444600000,
+        "summary": "An anonymous reader quotes a report from Reuters: Spain will require mobile networks to have backup systems that maintain connectivity when power outages occur. Per a royal decree that will be approved by the end of 2026, mobile network operators (MNOs) and infrastructure companies will need to install batteries or other backups to keep service active for at least four hours during a blackout. The",
+        "tags": [
+          "power"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0448
+      },
+      {
         "id": "0242686e33e8b77c",
         "title": "Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M (Lucinda Shen/Axios)",
         "url": "https://www.techmeme.com/260625/p62#a260625p62",
@@ -1892,19 +1907,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0702
-      },
-      {
-        "id": "ec55d663fabb2697",
-        "title": "Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods",
-        "url": "https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1782406696000,
-        "summary": "Rolfe Winkler, reporting for The Wall Street Journal (gift link): The company briefly took down its Apple Online Store early this morning as it typically does when announcing new products. When it came back online, the price tags for Mac computers rose roughly 15% to 20% and iPad prices rose 15% to 25%. Among the price increases, the base MacBook Air rose $200 to $1,299; the base MacBook Pro incre",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0695
       }
     ],
     "ai": [
@@ -1920,6 +1922,37 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9868
+      },
+      {
+        "id": "b5b892d8c46e8fc0",
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782440963000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1066
+      },
+      {
+        "id": "bc1ec8e52c09c3f0",
+        "title": "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder",
+        "url": "https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782438575000,
+        "summary": "Qihoo 360, which the US has banned, says it’s needed as a deterrent to weaponized Anthropic models",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0116
       },
       {
         "id": "a8ff0900e4ba1746",
@@ -2809,38 +2842,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.075
-      },
-      {
-        "id": "ec7c2437f51681e8",
-        "title": "Unconventional AI releases its first model, built on an oscillator architecture its founder says could cut power use by a factor of a thousand",
-        "url": "https://thenextweb.com/news/unconventional-ai-un0-oscillator-chip-image-generation-naveen-rao",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782407377000,
-        "summary": "Unconventional AI, the startup founded by former Databricks AI chief Naveen Rao, has released its first AI model, an image generation system called Un-0 that runs on a completely new kind of computing architecture. The model produces results comparable to state-of-the-art diffusion models like Stable Diffusion, according to an accompanying research paper. The catch is […] This story continues at T",
-        "tags": [
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.966
-      },
-      {
-        "id": "a29b15f733643163",
-        "title": "Epic boss Tim Sweeney blasts Steam for putting AI tags on games — says move is ‘irresponsible of Valve’",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/epic-boss-tim-sweeney-blasts-steam-for-putting-ai-tags-on-games-says-move-is-irresponsible-of-valve",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1782407141000,
-        "summary": "The Epic executive said in an interview after unveiling Unreal Engine 6 that AI tools help make developers far more productive. Putting the AI tag on games discourage their use, especially as titles with this label gets fewer reviews and tend to have more negative reviews, as well.",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0184
       }
     ],
     "science": [
