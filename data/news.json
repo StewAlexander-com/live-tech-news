@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-06-27T14:46:56.561353+00:00",
+  "generated_at": "2026-06-27T15:08:03.099974+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c4df9d2dfad9bea1",
+        "title": "Apple reportedly lobbies Uncle Sam for access to Chinese memory chips — tech giant allegedly wants to buy from blacklisted CXMT",
+        "url": "https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1782571889000,
+        "summary": "Following a historic price hike, the Financial Times reports that Apple is lobbying in Washington to secure approval to buy cheaper RAM from CXMT. The manufacturer is currently designated as a Chinese military company, but is not entirely banned by the White House.",
+        "tags": [
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.945
+      },
       {
         "id": "be1c2a1ce83f5935",
         "title": "Steam Machine scalping hits $3,000 on eBay as sellers list preorder reservations — scalpers already flipping queues for 2X the MSRP of the 2TB model",
@@ -944,25 +959,26 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.6999
-      },
-      {
-        "id": "e450f22572c007f0",
-        "title": "Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
-        "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
-        "source": "Hacker News",
-        "lane": "gadgets",
-        "published_ts": 1782498315000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0113
       }
     ],
     "innovation": [
+      {
+        "id": "6dc001d32a4b32ef",
+        "title": "My entire home server now fits in one text file",
+        "url": "https://www.makeuseof.com/my-entire-home-server-now-fits-in-one-text-file/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782572418000,
+        "summary": "It's easy to transfer and works like a charm.",
+        "tags": [
+          "networking",
+          "home server",
+          "home network"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8479
+      },
       {
         "id": "e171f9c9c663f132",
         "title": "I changed 4 Apple Watch settings and it finally lasts a full day again",
@@ -1027,6 +1043,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9386
+      },
+      {
+        "id": "0bde684ca61e9a61",
+        "title": "The memory shortage shaking Apple and Microsoft is ‘existential crisis’ for smaller players",
+        "url": "https://www.reddit.com/r/technology/comments/1uh2hhb/the_memory_shortage_shaking_apple_and_microsoft/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782566048000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9159
       },
       {
         "id": "cf70a0daf724c61b",
@@ -1874,46 +1905,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0986
-      },
-      {
-        "id": "36618e30a339cd92",
-        "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
-        "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1782494969000,
-        "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
-        "tags": [
-          "security",
-          "cyberattack",
-          "cybersecurity",
-          "data breach",
-          "in brief",
-          "jaguar land rover"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6911
-      },
-      {
-        "id": "72a0b78960111dff",
-        "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
-        "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1782494969000,
-        "summary": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.",
-        "tags": [
-          "security",
-          "tc",
-          "cyberattack",
-          "cybersecurity",
-          "data breach",
-          "in brief"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7434
       }
     ],
     "ai": [
@@ -2866,6 +2857,21 @@
     ],
     "science": [
       {
+        "id": "391a95b696921595",
+        "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
+        "url": "https://phys.org/news/2026-06-hermitian-geometry-reveals-quantum-amplification.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782572402000,
+        "summary": "In quantum mechanics, the geometry of quantum states has emerged as a powerful framework for understanding phenomena ranging from electrical conductivity to superconductivity. One research direction aims to extend these geometric concepts to non-Hermitian quantum mechanics—where systems can exchange energy with their environment—including the generalization of the Berry phase, a key geometric quan",
+        "tags": [
+          "general physics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0988
+      },
+      {
         "id": "3386388055b1096d",
         "title": "Research team cuts cost of building reconstituted cell-free systems by 95%",
         "url": "https://phys.org/news/2026-06-team-reconstituted-cell-free.html",
@@ -3756,21 +3762,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.012
-      },
-      {
-        "id": "65fc0558b6bb3c40",
-        "title": "Global rice paddy greenhouse gas emissions have doubled during the past six decades, study shows",
-        "url": "https://phys.org/news/2026-05-global-rice-paddy-greenhouse-gas.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782489001000,
-        "summary": "Rice paddy greenhouse gas emissions have doubled during the past 60 years—but practical farm changes could cut methane emissions and support global climate targets without reducing food production, a team led by Boston College scientists reports in the journal Nature Food.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0178
       }
     ]
   },
