@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-27T14:07:02.329112+00:00",
+  "generated_at": "2026-06-27T14:40:07.857428+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "be1c2a1ce83f5935",
+        "title": "Steam Machine scalping hits $3,000 on eBay as sellers list preorder reservations — scalpers already flipping queues for 2X the MSRP of the 2TB model",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/steam-machine-scalping-hits-usd3-000-on-ebay-as-sellers-list-preorder-reservations-scalpers-already-flipping-queues-for-2x-the-msrp-of-the-2tb-model",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1782570250000,
+        "summary": "Several listings for Steam Machine pre-orders are being sold at markups so high that buyers will have to pay 140% to 167% above Valve's selling price.",
+        "tags": [
+          "console gaming",
+          "video games"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9451
+      },
+      {
+        "id": "b33de046dcb9ca74",
+        "title": "Intel's next-gen 52-core Nova Lake CPU could pull up to 474W — high-end LGA1954 motherboards may need three 8-pin power connectors to feed the monster",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-52-core-nova-lake-cpu-could-pull-up-to-474w-high-end-lga1954-motherboards-may-need-three-8-pin-power-connectors-to-feed-the-monster",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1782569130000,
+        "summary": "Intel's flagship 52-core Nova Lake processor could feature a 474W PL2 power limit. At the same time, the new LGA1954 platform may introduce motherboard tiers for up to 175W CPUs and optional triple EPS power connectors on enthusiast boards.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0147
+      },
       {
         "id": "474d0402e8b49d80",
         "title": "I've been testing macOS 27 in beta — here's are 3 reasons why it's a bupgrade than you might think",
@@ -928,41 +960,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0113
-      },
-      {
-        "id": "67bc3cbd71d3b8d9",
-        "title": "Android 17 is finally making foldables the gaming devices we've been waiting for",
-        "url": "https://www.androidpolice.com/android-17-is-finally-making-foldables-the-gaming-devices-weve-been-waiting-for/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1782498146000,
-        "summary": "Turns your phone into a Nintendo DS",
-        "tags": [
-          "android 17",
-          "handheld gaming",
-          "operating systems",
-          "gaming handhelds"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9917
-      },
-      {
-        "id": "2abe68356f0670f9",
-        "title": "Netflix now requires every user profile to be tied to unique email address",
-        "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1782497998000,
-        "summary": "Update began June 15 and will no longer allow you to share your login info.",
-        "tags": [
-          "tech",
-          "netflix",
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9279
       }
     ],
     "innovation": [
@@ -1921,6 +1918,23 @@
     ],
     "ai": [
       {
+        "id": "4587123888042aa7",
+        "title": "I built a tiny Claude skill that turns any document into a mind map, and now I can visualize anything",
+        "url": "https://www.makeuseof.com/tiny-claude-skill-that-turns-any-document-into-mind-map-visualize-anything/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1782570619000,
+        "summary": "Five prompts later, nothing I read stays trapped in a wall of text.",
+        "tags": [
+          "productivity",
+          "claude",
+          "mindmapping"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8473
+      },
+      {
         "id": "1557764da5593152",
         "title": "Source: the Trump administration is close to allowing Anthropic to restore access to Fable 5; limits could be lifted as soon as this coming week (Axios)",
         "url": "https://www.techmeme.com/260627/p8#a260627p8",
@@ -1952,6 +1966,24 @@
         "score": 0.8074
       },
       {
+        "id": "8b065fec55371cb1",
+        "title": "OpenAI poaches Uber India’s chief to run its biggest market outside the United States",
+        "url": "https://thenextweb.com/news/openai-india-managing-director-prabhjeet-singh-uber",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782568762000,
+        "summary": "OpenAI has appointed Prabhjeet Singh, the outgoing president of Uber India and South Asia, as its first managing director for India. Singh will join in September and report to Kiran Mani, the company’s managing director for Asia Pacific, OpenAI told TechCrunch. He will oversee consumer growth, enterprise adoption, partnerships, regulatory engagement, and operations in what […] This story continues",
+        "tags": [
+          "artificial intelligence",
+          "next featured",
+          "openai",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8883
+      },
+      {
         "id": "0830399bcb40e2cf",
         "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
         "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
@@ -1969,6 +2001,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8472
+      },
+      {
+        "id": "3d224f29ff24521c",
+        "title": "Trustpilot just partnered with Shopify to put its reviews where AI search engines are already looking",
+        "url": "https://thenextweb.com/news/trustpilot-shopify-partnership-ai-search-reviews",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782566534000,
+        "summary": "Trustpilot has struck a partnership with Shopify that will let the platform’s merchants display and manage Trustpilot reviews directly inside their online stores. The integration goes live on June 29 and is the Danish review company’s first native tie-up with a major ecommerce platform. Financial terms were not disclosed. The deal arrives at a moment […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "next featured"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.948
       },
       {
         "id": "2a33664bf0461893",
@@ -2814,51 +2862,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0731
-      },
-      {
-        "id": "6fb72badd01a3f59",
-        "title": "Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices (Mark Gurman/Bloomberg)",
-        "url": "https://www.techmeme.com/260626/p22#a260626p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782502240000,
-        "summary": "Mark Gurman / Bloomberg: Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices — Apple Inc.'s top executive in charge of the Vision Pro headset and the company's smart glasses efforts is leaving for OpenAI …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0791
-      },
-      {
-        "id": "b5ef59af1cc5a07c",
-        "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase",
-        "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782501479000,
-        "summary": "Apple's iPhone 18 Pro models could be up to $200 more expensive, according to a prediction from analytics firm IDC. IDC expected Apple to raise iPhone 18 prices, but prior to yesterday's Mac and iPad price hike, the prediction was a $100 increase for the 18 Pro and Pro Max, and a $50 increase for the base models. IDC Senior Director of Data & Analytics Nabila Popal says the magnitude of the Mac an",
-        "tags": [
-          "iphone 18 pro",
-          "iphone fold",
-          "idc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9982
-      },
-      {
-        "id": "97ae37e4c0c82d15",
-        "title": "Mark Cuban gets dragged after saying people don't really hate data centers — “The fight against data centers has nothing to do with data centers. They have become a proxy for the hate towards AI”",
-        "url": "https://www.reddit.com/r/technology/comments/1ugfx7m/mark_cuban_gets_dragged_after_saying_people_dont/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782500836000,
-        "summary": "submitted by /u/marketrent [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0175
       }
     ],
     "science": [
