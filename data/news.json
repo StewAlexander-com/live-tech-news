@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:17:24.324209+00:00",
+  "generated_at": "2026-06-27T15:39:41.978346+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -970,6 +970,24 @@
     ],
     "innovation": [
       {
+        "id": "242fb95f90817230",
+        "title": "The best spy thriller of the past decade isn't on Netflix, HBO, or Disney+",
+        "url": "https://www.makeuseof.com/best-spy-thriller-past-decade-now-netflix-hbo-disney-apple-tv/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782574219000,
+        "summary": "Slow Horses is a fantastic, hilarious spy drama that actually comes out frequently enough for you to remember it exists.",
+        "tags": [
+          "streaming",
+          "apple tv+",
+          "thriller",
+          "slow horses"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8474
+      },
+      {
         "id": "0f9964978818922a",
         "title": "FBI says Russian intelligence hackers have a new trick for reading your Signal messages, and it works even after you change phones",
         "url": "https://thenextweb.com/news/fbi-russian-hackers-signal-backup-recovery-key-unc5792",
@@ -1890,28 +1908,57 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0195
-      },
-      {
-        "id": "58021d3bf781d871",
-        "title": "NAIC confirms data breach with ShinyHunters claiming 3.1TB of data stolen in Oracle zero-day attack",
-        "url": "https://www.techradar.com/pro/security/naic-confirms-data-breach-with-shinyhunters-claiming-3-1tb-of-data-stolen-in-oracle-zero-day-attack",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1782496800000,
-        "summary": "Insurer regulatory filing documents, customer bulk orders, and more, stolen in a major zero-day supply chain attack",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8476
       }
     ],
     "ai": [
+      {
+        "id": "52a781d3316f8c19",
+        "title": "Forget Prompt Engineering: 'Loop Engineering' Is All the Rage Now",
+        "url": "https://developers.slashdot.org/story/26/06/25/0546238/forget-prompt-engineering-loop-engineering-is-all-the-rage-now?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1782574440000,
+        "summary": "An anonymous reader quotes a report from Business Insider: For the most powerful voices in AI, it's all about being in the loop. Claude Code creator Boris Cherny recently said he doesn't write his own AI prompts much anymore. Thanks to loops, he doesn't have to. \"It's an agent that prompts Claude,\" Cherny recently told CNBC, adding, \"I don't write the prompt anymore. Claude writes the prompt, and ",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1319
+      },
+      {
+        "id": "6fa380d2980484c9",
+        "title": "'We don’t believe this kind of government access process should become the long-term default': OpenAI unveils big GPT-5.6 upgrades for ChatGPT, but you can't use them yet",
+        "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/we-dont-believe-this-kind-of-government-access-process-should-become-the-long-term-default-openai-unveils-big-gpt-5-6-upgrades-for-chatgpt-but-you-cant-use-them-yet",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1782574200000,
+        "summary": "As the US government wants to test OpenAI's new models itself, users won't be getting access to GPT-5.6 for the time being.",
+        "tags": [
+          "chatgpt",
+          "ai platforms &amp; assistants",
+          "openai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8474
+      },
+      {
+        "id": "2f9f380efd6c93b8",
+        "title": "The Kindle app for iOS has features your aging Kindle doesn't",
+        "url": "https://www.engadget.com/2202142/kindle-app-features-ios-has-ereader-still-doesnt-have/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1782574200000,
+        "summary": "Amazon's Kindle AI features help you read beyond the lines, so long as you have the right ereader.",
+        "tags": [
+          "ai",
+          "amazon"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.758
+      },
       {
         "id": "4587123888042aa7",
         "title": "I built a tiny Claude skill that turns any document into a mind map, and now I can visualize anything",
@@ -2812,54 +2859,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9775
-      },
-      {
-        "id": "e8fdbb9b2a4fe0ee",
-        "title": "Microsoft Adds Another Year To Windows 10 Extended Update Program",
-        "url": "https://tech.slashdot.org/story/26/06/26/0029235/microsoft-adds-another-year-to-windows-10-extended-update-program?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1782504000000,
-        "summary": "Microsoft has quietly extended free Windows 10 security updates for consumers by another year, pushing the Extended Security Updates (ESU) program's end date from October 12, 2026, to October 12, 2027. \"The ESU support page was updated with that date, and Microsoft's blog post on the program has a new editor's note confirming the change,\" reports Ars Technica. From the report: The prevalence of Wi",
-        "tags": [
-          "microsoft"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0479
-      },
-      {
-        "id": "654407842407c424",
-        "title": "Google wants AI regulation, but on its own terms",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/26/google-wants-ai-regulation-but-on-its-own-terms/5263276",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1782503406000,
-        "summary": "Surely, we can have rules that allow us to continue doing what we're doing",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1282
-      },
-      {
-        "id": "b265b1eec3c23ae5",
-        "title": "Apple Loses Another Top Executive to OpenAI",
-        "url": "https://www.macrumors.com/2026/06/26/apple-loses-another-executive-to-openai/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1782503176000,
-        "summary": "Paul Meade, who oversees development on the Vision Pro and Apple's upcoming smart glasses, is leaving Apple for OpenAI, reports Bloomberg. Meade took over leadership of Apple's Vision Products Group when Vision Pro chief Mike Rockwell took over Siri's AI upgrade. He was previously leading the Vision Pro hardware engineering team, and before that, he was on the iPad and iPhone teams. Meade has been",
-        "tags": [
-          "openai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0731
       }
     ],
     "science": [
+      {
+        "id": "61454f21deba137c",
+        "title": "How everyone pays the cost for patents on seeds, and private companies get rich from keeping them secret",
+        "url": "https://phys.org/news/2026-06-pays-patents-seeds-private-companies.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782574202000,
+        "summary": "The United States is one of only a handful of countries that allows companies to hold patents on plant varieties. As a result, a small number of corporations can—and do—suppress competition in the seed industry, stifle innovation, and turn taxpayer subsidies intended for farmers into corporate profits.",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0168
+      },
       {
         "id": "391a95b696921595",
         "title": "Non-Hermitian geometry reveals when quantum amplification depends only on start and end points",
@@ -3751,21 +3768,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0121
-      },
-      {
-        "id": "971e7f64f266bcc9",
-        "title": "California's unidentified coastal species get a DNA library of their own",
-        "url": "https://phys.org/news/2026-06-california-unidentified-coastal-species-dna.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782489602000,
-        "summary": "The closest thing marine taxonomists have to the Olympics is now underway in San Diego. But instead of racing for medals, leading scientists are spending two weeks working together to catalog the extraordinary diversity of life along the California coast.",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.012
       }
     ]
   },
