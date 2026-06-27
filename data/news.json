@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-27T09:16:06.132867+00:00",
+  "generated_at": "2026-06-27T09:55:30.226818+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d22cdc5ad1dd3a2d",
+        "title": "Apple is reportedly looking to buy chips from a US-blacklisted Chinese company",
+        "url": "https://www.engadget.com/2203121/apple-looking-buy-chips-blacklisted-chinese-company/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1782553472000,
+        "summary": "Apple is seeking clearance from the Trump administration to buy chips from a company linked to the Chinese military, according to Financial Times.",
+        "tags": [
+          "apple"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7015
+      },
+      {
+        "id": "b98ab64d7bd25ecb",
+        "title": "PlayStation console sales hit lowest total since 2000 falling 58%",
+        "url": "https://www.reddit.com/r/technology/comments/1ugwtr8/playstation_console_sales_hit_lowest_total_since/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1782547492000,
+        "summary": "submitted by /u/That_Trouble87 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9169
+      },
       {
         "id": "92a3b7e01f4f1882",
         "title": "ICYMI: the 7 biggest tech stories of the week, from GTA 6 pre-orders to our Oura Ring 5 review",
@@ -934,40 +964,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7911
-      },
-      {
-        "id": "d25ff1a51819362f",
-        "title": "Amazon and Best Buy Still Offering Pre-Hike Prices on iPads and Macs",
-        "url": "https://www.macrumors.com/2026/06/26/pre-hike-prices-on-ipads-macs/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782489170000,
-        "summary": "Amazon's stock on select iPads and Macs has begun dwindling in the face of announced price hikes from Apple yesterday. These price changes are now live on Apple.com, but they have yet to hit third party retailers like Amazon. If you're interested in any of these products, now is the time to buy them on Amazon, before the retailer gets these price hikes as well. Note: MacRumors is an affiliate part",
-        "tags": [
-          "deals",
-          "featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9988
-      },
-      {
-        "id": "4e38b7c71f2b5435",
-        "title": "8 of the best portable Bluetooth speakers we've tested: top portable, punchy, outdoorsy, and affordable picks from JBL, Bose, and more",
-        "url": "https://www.techradar.com/tech/8-of-the-best-portable-bluetooth-speakers-weve-tested-top-portable-punchy-outdoorsy-and-affordable-picks-from-jbl-bose-and-more",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782489168000,
-        "summary": "Get outdoors with my pick of the easy-breezy Bluetooth speaker deals live now, featuring savings on Bose, JBL, B&O and more",
-        "tags": [
-          "tech",
-          "wireless &amp; bluetooth speakers",
-          "audio",
-          "hi-fi"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8489
       }
     ],
     "innovation": [
@@ -1044,6 +1040,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9105
+      },
+      {
+        "id": "d782e3347d7d5246",
+        "title": "Russian citizens told “switch to Android” after Apple blocks key Russian apps",
+        "url": "https://www.reddit.com/r/technology/comments/1ugvof9/russian_citizens_told_switch_to_android_after/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782543556000,
+        "summary": "submitted by /u/Stiltonrocks [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8978
       },
       {
         "id": "5d83e12e1c0569fd",
@@ -1914,29 +1925,40 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0794
-      },
-      {
-        "id": "aa841bf31336d6a6",
-        "title": "You still have time to catch up on these great Prime Video shows before they end",
-        "url": "https://www.makeuseof.com/prime-video-shows-catch-up-before-end-devils-hour-vox-machina/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782487819000,
-        "summary": "The Legend of Vox Machina, The Devil's Hour, and more terrific Prime Video shows are fast coming to an end.",
-        "tags": [
-          "streaming",
-          "the devil's hour",
-          "prime video",
-          "the legend of vox machina",
-          "cross",
-          "invincible"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8493
       }
     ],
     "ai": [
+      {
+        "id": "dbe5c367cc9645c4",
+        "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782552000000,
+        "summary": "Please state the nature of the medical emergency",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1212
+      },
+      {
+        "id": "e6c9dd103191a62d",
+        "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782551932000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:42"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0377
+      },
       {
         "id": "93ecbeb75373d962",
         "title": "US clears Anthropic to restore Mythos 5 to a small group of cyber defenders, but Fable 5 stays dark",
@@ -2847,46 +2869,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9976
-      },
-      {
-        "id": "0d253260e1184841",
-        "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
-        "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782495967000,
-        "summary": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
-        "tags": [
-          "health",
-          "science",
-          "antibiotic resistance",
-          "antibiotics",
-          "bacteria",
-          "biotin"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9885
-      },
-      {
-        "id": "11d0233f59c96004",
-        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782495802000,
-        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
-        "tags": [
-          "ai",
-          "a24",
-          "agility",
-          "ai chips",
-          "ai loops",
-          "anthropic"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8065
       }
     ],
     "science": [
