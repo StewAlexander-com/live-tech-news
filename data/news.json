@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T00:10:19.733326+00:00",
+  "generated_at": "2026-06-27T01:12:21.447226+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -973,6 +973,26 @@
     ],
     "innovation": [
       {
+        "id": "37ae9d5a01698ec6",
+        "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+        "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1782520714000,
+        "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+        "tags": [
+          "hardware",
+          "space",
+          "data centers",
+          "elon musk",
+          "m&a",
+          "mesh optical technologies"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7399
+      },
+      {
         "id": "c1e81f954207d885",
         "title": "Sources: Meta lobbyists are urging California lawmakers to exempt social media platforms from legislation that would increase penalties in child-harm cases (Tyler Katzenberger/Politico)",
         "url": "https://www.techmeme.com/260626/p31#a260626p31",
@@ -1939,29 +1959,87 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8453
-      },
-      {
-        "id": "78bbfd36b2dd5205",
-        "title": "Unnamed hackers steal stolen data from Icarus hackers responsible for Klue supply chain hack — and yes, it's as confusing as it sounds",
-        "url": "https://www.techradar.com/pro/security/unnamed-hackers-steal-stolen-data-from-icarus-hackers-responsible-for-klue-supply-chain-hack-and-yes-its-as-confusing-as-it-sounds",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1782480436000,
-        "summary": "Klue was hacked by Icarus, and then Icarus was hacked by another group.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "cyber crime",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8445
       }
     ],
     "ai": [
+      {
+        "id": "f3f6b06b63196628",
+        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1782522097000,
+        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+        "tags": [
+          "ai",
+          "tc",
+          "ai labs",
+          "anthropic"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7454
+      },
+      {
+        "id": "1ee40c1639c0592b",
+        "title": "Anthropic accuses Alibaba of copying Claude by asking it millions of questions — and sets the stage for a new AI war",
+        "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-accuses-alibaba-of-copying-claude-by-asking-it-millions-of-questions-and-sets-the-stage-for-a-new-ai-war",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1782522000000,
+        "summary": "Anthropic's allegations against Alibaba have turned model distillation into one of the most important AI fights.",
+        "tags": [
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9144
+      },
+      {
+        "id": "2b62c9aa561a1fc2",
+        "title": "Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 (@anthropicai)",
+        "url": "https://www.techmeme.com/260626/p32#a260626p32",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782521701000,
+        "summary": "@anthropicai: Anthropic says the US government is allowing Mythos 5 to be redeployed to critical infrastructure operators, and is working to restore general access to Fable 5 — Since June 12, we've been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a s",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9945
+      },
+      {
+        "id": "0f3e6293dd0a64b0",
+        "title": "Anthropic’s Mythos 5 is back",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1782520424000,
+        "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class […]",
+        "tags": [
+          "ai",
+          "anthropic",
+          "report"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7822
+      },
+      {
+        "id": "1a31fa6e4cdae515",
+        "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+        "url": "https://www.reddit.com/r/technology/comments/1ugnt7x/oracle_stock_has_worst_week_since_2001_dotcom/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782519750000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0097
+      },
       {
         "id": "60ca0d53e7dc7973",
         "title": "US allows Anthropic to release Mythos to 'trusted partners'",
@@ -1976,7 +2054,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9031
+        "score": 1.1029
       },
       {
         "id": "7e50677b8db7a2d3",
@@ -2842,85 +2920,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9531
-      },
-      {
-        "id": "f73ac463d86a39be",
-        "title": "OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1782487075000,
-        "summary": "The U.S. government wants dibs on U.S. AI labs' most powerful models, asking for access 30 days before they go public. OpenAI is voluntarily complying with the President's executive order but wants 'to achieve a more sustainable approach for future releases.'",
-        "tags": [
-          "artificial intelligence",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0211
-      },
-      {
-        "id": "1a6fc44412f23d5d",
-        "title": "VW may close four factories to adapt to the future, report says",
-        "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782486603000,
-        "summary": "With falling sales in the US and especially China, VW Group wants to restructure.",
-        "tags": [
-          "cars",
-          "volkswagen group"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9851
-      },
-      {
-        "id": "70aba8123c467102",
-        "title": "The AI industry is pouring millions into US elections",
-        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782486163000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:33"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1145
-      },
-      {
-        "id": "a36943cb11dc6e6c",
-        "title": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors (Dean W. Ball/Hyperdimensional)",
-        "url": "https://www.techmeme.com/260626/p12#a260626p12",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782486000000,
-        "summary": "Dean W. Ball / Hyperdimensional: How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors — 35 thoughts on what has happened and what America should do — Nothing below is an official or unofficial view of OpenAI.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0779
-      },
-      {
-        "id": "5ae40dc20cf97f94",
-        "title": "'Changing jobs no longer means financial ruin': AI giants and government join forces to train US workforce to not go obsolete in the age of AI",
-        "url": "https://www.techradar.com/pro/changing-jobs-no-longer-means-financial-ruin-ai-giants-and-government-join-forces-to-train-us-workforce-to-not-go-obsolete-in-the-age-of-ai",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782486000000,
-        "summary": "\"America has a technology strategy\" but \"it does not yet have a people strategy\" – Gina Raimondo wants companies to support workers.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9162
       }
     ],
     "science": [
+      {
+        "id": "d1b4e0006447dbe6",
+        "title": "Vulnerable butterfly recorded in the Botanical Garden at Uppsala",
+        "url": "https://phys.org/news/2026-06-vulnerable-butterfly-botanical-garden-uppsala.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782520804000,
+        "summary": "The Botanical Garden in Uppsala was recently visited by animal ecology researchers, who conducted a BioBlitz to find, identify and record as many insects as possible in the Botanical Garden. One of the finds was an endangered butterfly called the Small Blue, Cupido minimus. It is abundant in one of the garden's meadows.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0095
+      },
       {
         "id": "860f351f836b9f43",
         "title": "Uranus, Neptune may be magma worlds, not ice giants",
@@ -3818,21 +3835,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0147
-      },
-      {
-        "id": "f1a7855b10506770",
-        "title": "The US and China are planning moon bases: Designs may cut construction waste and improve life on Earth",
-        "url": "https://phys.org/news/2026-06-china-moon-bases-life-earth.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782477605000,
-        "summary": "The NASA Artemis program, now supported by 67 countries under the Artemis Accords, plans to return humans to the moon by 2028. A recent White House Executive Order has gone further, directing NASA to establish a permanent lunar outpost by 2030.",
-        "tags": [
-          "space exploration"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0142
       }
     ]
   },
