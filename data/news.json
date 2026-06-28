@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T06:40:02.265579+00:00",
+  "generated_at": "2026-06-28T07:51:55.545487+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -987,6 +987,21 @@
     ],
     "innovation": [
       {
+        "id": "211de370689d5b6a",
+        "title": "An Amazon Seller Says They Were Offered a Way to Bribe an Amazon Employee",
+        "url": "https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1782632040000,
+        "summary": "Jack Nekhala had a business selling on Amazon — and in December he received an unusual offer, reports Bloomberg. A woman said she could bribe an Amazon employee \"to help him retrieve $90,000 in funds that the e-commerce giant had frozen after suspending him over an alleged violation of review policy.\" Hoping to ingratiate himself with the company and restart his business, Nekhala offered to provid",
+        "tags": [
+          "crime"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.044
+      },
+      {
         "id": "a1989e6ab7773eef",
         "title": "Apple's appeal to a London Court of Appeal ruling begins Monday at the UK Supreme Court; the ruling required it to pay $502M for using Optis' wireless patents (Alistair Gray/Financial Times)",
         "url": "https://www.techmeme.com/260628/p3#a260628p3",
@@ -1930,21 +1945,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8867
-      },
-      {
-        "id": "6c34b526dfe6f9cc",
-        "title": "Octopus Energy just announced 30kWh home batteries to compete with Tesla Powerwall — but they won't go on sale till 2027",
-        "url": "https://www.techradar.com/pro/octopus-energy-just-announced-30kwh-home-batteries-to-compete-with-tesla-powerwall-but-they-wont-go-on-sale-till-2027",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1782550800000,
-        "summary": "Octopus launches plug-in and wall-mounted batteries reaching 30kWh capacities across five European countries in 2027.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8468
       }
     ],
     "ai": [
@@ -2088,7 +2088,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0954
+        "score": 1.2946
       },
       {
         "id": "e415dc551b4617ad",
@@ -2102,6 +2102,22 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0685
+      },
+      {
+        "id": "57074561b8930728",
+        "title": "The best response to AI slop and online noise is from Robin Williams",
+        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782610090000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:187"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2533
       },
       {
         "id": "58575f69e34b9144",
@@ -2852,25 +2868,28 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7
-      },
-      {
-        "id": "b3fd26fe2421529c",
-        "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-        "url": "https://arxiv.org/abs/2606.26203",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1782532800000,
-        "summary": "arXiv:2606.26203v1 Announce Type: new Abstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underexamined. We introduce an LLM-powered comparative pipeline for large-scale governance discourse analysis, integrating automated annotation, neural topic modeling, and multi-layer network analysis to study socio-technical power",
-        "tags": [
-          "cs.ai",
-          "cs.ma"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1191
       }
     ],
     "science": [
+      {
+        "id": "a4a1ed2e0565fb28",
+        "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+        "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+        "source": "The Verge",
+        "lane": "science",
+        "published_ts": 1782630000000,
+        "summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain Lock, but the combination of materials, performance, and insurance-friendly ART-2 certification makes […]",
+        "tags": [
+          "electric bikes",
+          "reviews",
+          "rideables",
+          "tech",
+          "transportation"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7789
+      },
       {
         "id": "82ae7cc0dab98f13",
         "title": "IBM is Getting Ready to Scale Quantum Computing",
@@ -3757,21 +3776,6 @@
         "summary": "More accurate navigation systems and improved wireless communications may not come from traditional electronics, but rather from atoms. Researchers at Penn State and the National Institute of Standards and Technology (NIST) have developed a new way to build tinier, smarter glass sensors filled with highly precise and stable atoms.",
         "tags": [
           "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
-      },
-      {
-        "id": "709b9d5190e63f23",
-        "title": "Hubble spies ancient 'Chandelier Cluster' forming stars in two bursts",
-        "url": "https://phys.org/news/2026-06-hubble-spies-ancient-chandelier-cluster.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782502801000,
-        "summary": "The subject of today's NASA/ESA Hubble Space Telescope image is an ancient inhabitant of our galaxy. This sparkling scene features a globular cluster: a collection of tens of thousands to millions of stars, all tightly bound together under the influence of gravity. There are more than 150 globular clusters in our galaxy, though there may be others still undiscovered, hidden from view by dust or de",
-        "tags": [
-          "astronomy"
         ],
         "paywall": false,
         "impact": "high",
