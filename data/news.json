@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T03:33:38.692758+00:00",
+  "generated_at": "2026-06-28T04:57:10.023525+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -987,6 +987,21 @@
     ],
     "innovation": [
       {
+        "id": "d70c7dce5ff61712",
+        "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+        "url": "https://www.reddit.com/r/technology/comments/1uhmkr3/streaming_services_obnoxiously_loud_ads_become/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782618072000,
+        "summary": "submitted by /u/Ephoenix6 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9271
+      },
+      {
         "id": "9240326f19349518",
         "title": "Netflix has been gradually requiring each profile under a Netflix subscription to use a unique email address; the rule doesn't apply to children's profiles (Scharon Harding/Ars Technica)",
         "url": "https://www.techmeme.com/260627/p16#a260627p16",
@@ -1927,24 +1942,67 @@
         "paywall": false,
         "impact": "high",
         "score": 0.873
-      },
-      {
-        "id": "b46395483c9eb529",
-        "title": "Streaming Ads Are About to Get Quieter | A California law will go into effect on July 1, 2026 prohibiting streaming platforms from airing ads louder than the content they accompany.",
-        "url": "https://www.reddit.com/r/technology/comments/1ugvq1r/streaming_ads_are_about_to_get_quieter_a/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782543689000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9105
       }
     ],
     "ai": [
+      {
+        "id": "1edcf7432435be70",
+        "title": "Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects (Financial Times)",
+        "url": "https://www.techmeme.com/260628/p1#a260628p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782621901000,
+        "summary": "Financial Times: Sources: Google told Meta around March it couldn't offer all the Gemini capacity Meta wanted to buy, disrupting and delaying some of Meta's internal AI projects — Surging appetite for advanced models is turning computing power into the tech industry's scarcest commodity",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0758
+      },
+      {
+        "id": "d634510a6e2b4b0a",
+        "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782621078000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0413
+      },
+      {
+        "id": "05568183853a209f",
+        "title": "Sources: Salesforce staff worry Anthropic's Claude Tag could cannibalize Slackbot and give the AI firm more leverage over the enterprise software industry (Laura Bratton/The Information)",
+        "url": "https://www.techmeme.com/260627/p17#a260627p17",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782618601000,
+        "summary": "Laura Bratton / The Information: Sources: Salesforce staff worry Anthropic's Claude Tag could cannibalize Slackbot and give the AI firm more leverage over the enterprise software industry — When Anthropic on Tuesday launched a high-profile AI product for businesses that use Slack, some employees at Salesforce, which owns Slack, were confused.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.057
+      },
+      {
+        "id": "6eacbb1444dc6286",
+        "title": "Ford hired AI and sacked humans. It backfired badly",
+        "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782616153000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:59"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0954
+      },
       {
         "id": "e415dc551b4617ad",
         "title": "How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers (Bloomberg)",
@@ -2817,77 +2875,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1089
-      },
-      {
-        "id": "0f6f582be0a13d68",
-        "title": "NVIDIA’s New AI Servers Run on Hotub Coolant and Don’t Need Evaporators",
-        "url": "https://hackaday.com/2026/06/26/nvidias-new-ai-servers-run-on-hotub-coolant-and-dont-need-evaporators/",
-        "source": "Hackaday",
-        "lane": "ai",
-        "published_ts": 1782525636000,
-        "summary": "When people start ranting about AI, you can be sure a few things are going to come up during the two-minutes hate: job loss, higher power bills, the neverending tide …read more",
-        "tags": [
-          "artificial intelligence",
-          "data center",
-          "liquid cooling",
-          "llm",
-          "water conservation",
-          "water cooling"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1636
-      },
-      {
-        "id": "48333f46de2f94dc",
-        "title": "Anthropic gets US government's permission to redeploy its Mythos cybersecurity AI model",
-        "url": "https://www.engadget.com/2203088/anthropic-redeploy-mythos-cybersecurity-ai-model/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1782525296000,
-        "summary": "Anthropic is restoring select organizations' access to Mythos after getting permission from the US government.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7595
-      },
-      {
-        "id": "31c5886abbf381eb",
-        "title": "Investigative interviews are key to solving crimes—should AI be helping police with their inquiries?",
-        "url": "https://phys.org/news/2026-06-key-crimes-ai-police-inquiries.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1782523201000,
-        "summary": "Investigative interviewing—the process of obtaining accurate and complete accounts from victims, witnesses and suspects—is the lifeblood of the criminal justice system.",
-        "tags": [
-          "political science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0881
-      },
-      {
-        "id": "f3f6b06b63196628",
-        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782522097000,
-        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-        "tags": [
-          "ai",
-          "tc",
-          "ai labs",
-          "anthropic"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7454
       }
     ],
     "science": [
+      {
+        "id": "82ae7cc0dab98f13",
+        "title": "IBM is Getting Ready to Scale Quantum Computing",
+        "url": "https://hardware.slashdot.org/story/26/06/28/032226/ibm-is-getting-ready-to-scale-quantum-computing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1782621240000,
+        "summary": "IBM spent a decade \"building, testing and improving\" quantum computing, reports the Wall Street Journal. \"This year, the company is laying the groundwork to turn that technology into a fully-fledged, scalable business from an expensive science project.\" IBM said last month it plans to form a new independent subsidiary called Anderon, a foundry to produce the silicon wafers needed to make quantum-c",
+        "tags": [
+          "ibm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1256
+      },
+      {
+        "id": "495c847a728101a6",
+        "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn’t",
+        "url": "https://www.reddit.com/r/technology/comments/1uhmags/spacex_stock_has_cooled_hiring_for_jobs_in_the/",
+        "source": "Reddit r/technology",
+        "lane": "science",
+        "published_ts": 1782617197000,
+        "summary": "submitted by /u/idkbruh653 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9228
+      },
       {
         "id": "fc48f9883a1c23a5",
         "title": "Female baboons keep family bonds strong: Research reveals the benefits",
@@ -3763,36 +3783,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0189
-      },
-      {
-        "id": "903a091a7ff17fa7",
-        "title": "Beetle-like borings in 70-million-year-old titanosaur fossils reshape Lo Hueco fossil story",
-        "url": "https://phys.org/news/2026-06-beetle-million-year-titanosaur-fossils.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782501604000,
-        "summary": "Traces or perforations caused by living organisms after an animal's death can be found on various dinosaur bone remains. These perforations, known as bioerosion structures, provide information that helps us understand relationships between living organisms in the past, reconstruct palaeoecosystems and improve our understanding of the fossilization process. Now, a study published in the journal Ear",
-        "tags": [
-          "ecology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
-      },
-      {
-        "id": "11dac5fd8ef2b05f",
-        "title": "NASA's PACE mission studies smoke and fires",
-        "url": "https://phys.org/news/2026-06-nasa-pace-mission.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782501601000,
-        "summary": "With the North American fire season underway, and a record number of acres already burned nationwide, NASA's Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite's three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. These data will help scientists piece together clues that deepen their understanding of wildfires.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1003
       }
     ]
   },
