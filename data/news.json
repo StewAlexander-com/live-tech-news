@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-06-28T13:14:06.284890+00:00",
+  "generated_at": "2026-06-28T13:32:03.626312+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d7918dd7fdc6aa53",
+        "title": "This Android app taught me celestial navigation; it changed how I see the night sky",
+        "url": "https://www.androidpolice.com/celestial-navigation-360-app/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1782653411000,
+        "summary": "The horizon looks limitless now",
+        "tags": [
+          "space",
+          "offline navigation",
+          "best reads",
+          "productivity",
+          "android police's best reads"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9994
+      },
+      {
+        "id": "4156b886d216ebff",
+        "title": "Flock cameras track more than your license plate, and they're spreading fast",
+        "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1782653400000,
+        "summary": "Mounting privacy and security issues have residents and activists concerned.",
+        "tags": [
+          "tomorrow"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7035
+      },
       {
         "id": "c5813c857671e344",
         "title": "Vertu's Alphafold costs three times more than the Galaxy Z Fold7, but so far I can't see why",
@@ -951,40 +985,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.6972
-      },
-      {
-        "id": "ed73276ef7273b0a",
-        "title": "Bambu Lab A2L 3D printer review: The A1 grows up",
-        "url": "https://www.tomshardware.com/3d-printing/bambu-lab-a2l-3d-printer-review",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1782565502000,
-        "summary": "Bambu Lab adds a bigger bed slinger to their lineup.",
-        "tags": [
-          "3d printing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9468
-      },
-      {
-        "id": "e10f83043a903344",
-        "title": "Inside the room where the smart home industry is still betting on Matter",
-        "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1782565200000,
-        "summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open standards and existing technologies and is the result of years of collaboration between traditional rivals, including Apple, Google, Amazon, […]",
-        "tags": [
-          "analysis",
-          "matter",
-          "report",
-          "smart home",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.4967
       }
     ],
     "innovation": [
@@ -1959,6 +1959,56 @@
     ],
     "ai": [
       {
+        "id": "b8f43892fddb22cc",
+        "title": "Big Tech's $8 trillion AI bet is making consoles, cars, and electricity more expensive for everyone else",
+        "url": "https://www.reddit.com/r/technology/comments/1uhx633/big_techs_8_trillion_ai_bet_is_making_consoles/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782652886000,
+        "summary": "submitted by /u/spherocytes [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0225
+      },
+      {
+        "id": "b31ae0662769304e",
+        "title": "The BIS warns an AI bust could hit credit markets as hard as the 2008 financial crisis",
+        "url": "https://thenextweb.com/news/bis-ai-bust-credit-risk-2008-circular-financing",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782652230000,
+        "summary": "The Bank for International Settlements warned on Sunday that an AI investment bust could hit credit markets with disruption comparable to the 2008 financial crisis. In its annual report, the Basel-based institution listed AI-led risks alongside inflation and fiscal stress as “pressure points” that “demand attention.” “Disappointment in returns could trigger a sudden pullback in […] This story cont",
+        "tags": [
+          "artificial intelligence",
+          "next featured",
+          "finance",
+          "investors and funding"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9653
+      },
+      {
+        "id": "f51ee97180bfe20b",
+        "title": "Auto repair is one of the least digitised industries in America. AI is changing the economics of why.",
+        "url": "https://thenextweb.com/news/vertical-ai-auto-repair-shops-software-market",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782650679000,
+        "summary": "North America has more than 280,000 independent auto repair shops. Most run on workflows a 1990s small business owner would recognise: phone-based scheduling, paper repair orders, manual parts ordering. The global auto repair software market is projected to grow from $3.4 billion in 2026 to $8.6 billion by 2033, a 14.2% CAGR, according to Persistence […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "business",
+          "cars"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9573
+      },
+      {
         "id": "7892f2e4309b8e82",
         "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
         "url": "https://github.com/openai/codex/issues/2847",
@@ -2830,57 +2880,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8472
-      },
-      {
-        "id": "3d224f29ff24521c",
-        "title": "Trustpilot just partnered with Shopify to put its reviews where AI search engines are already looking",
-        "url": "https://thenextweb.com/news/trustpilot-shopify-partnership-ai-search-reviews",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782566534000,
-        "summary": "Trustpilot has struck a partnership with Shopify that will let the platform’s merchants display and manage Trustpilot reviews directly inside their online stores. The integration goes live on June 29 and is the Danish review company’s first native tie-up with a major ecommerce platform. Financial terms were not disclosed. The deal arrives at a moment […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.948
-      },
-      {
-        "id": "2a33664bf0461893",
-        "title": "A Tokyo startup and a Beijing security firm just launched AI tools to fill the gap Anthropic’s export ban created",
-        "url": "https://thenextweb.com/news/asian-ai-startups-mythos-alternatives-anthropic-export-ban",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782564733000,
-        "summary": "Two Asian AI companies launched products this week that position themselves as alternatives to Anthropic’s suspended Mythos and Fable 5 models. Tokyo-based Sakana AI released Fugu, an orchestration model it says matches Fable 5 on key benchmarks, while Beijing cybersecurity firm 360 Security unveiled Tulongfeng, a vulnerability-discovery tool it claims can rival Mythos. Both launches […] This stor",
-        "tags": [
-          "anthropic",
-          "artificial intelligence",
-          "next featured",
-          "china",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9643
-      },
-      {
-        "id": "bdadde53e960862b",
-        "title": "Your Samsung Galaxy S26 Ultra Can Take Better Photos by Changing Just a Few Settings",
-        "url": "https://www.cnet.com/tech/mobile/your-samsung-galaxy-s26-ultra-can-take-better-photos-by-changing-just-a-few-settings/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1782561658000,
-        "summary": "The Camera Assistant is one of the underrated features that can fine-tune your Galaxy S26 Ultra camera experience to your liking.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8006
       }
     ],
     "science": [
+      {
+        "id": "a9f8c2ac22083d40",
+        "title": "Scientists uncover evolutionary edge behind plant invasions",
+        "url": "https://phys.org/news/2026-06-scientists-uncover-evolutionary-edge-invasions.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782653401000,
+        "summary": "Plants that become invasive may owe their success to an advantage shaped long before they arrive, according to new research led by King's College London.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0193
+      },
+      {
+        "id": "92351f90fafa2bd4",
+        "title": "SpaceX could be planning to offer a Starlink mobile network for consumers, reports say — but some experts think it's pie in the sky",
+        "url": "https://www.techradar.com/phones/spacex-could-be-planning-to-offer-a-starlink-mobile-network-for-consumers-reports-say-but-some-experts-think-its-pie-in-the-sky",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1782653400000,
+        "summary": "A new report sheds more light on a potential mobile network offering from SpaceX, though it's not clear how it would work.",
+        "tags": [
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8494
+      },
+      {
+        "id": "3885b391dcb3210c",
+        "title": "Off-center stellar death points to wandering supermassive black hole stripped of its own galaxy",
+        "url": "https://phys.org/news/2026-06-center-stellar-death-supermassive-black.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782652801000,
+        "summary": "Astronomers have uncovered new details about the black hole that ripped apart a star in a tidal disruption event named AT2024tvd. Findings suggest it is a wandering supermassive black hole—the kind that is not located at the center of a visible galaxy. The paper outlining this research was published in The Astrophysical Journal Letters on June 12.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0161
+      },
       {
         "id": "01a3f4b7e29bc933",
         "title": "Oxygen atoms in 15‑million‑year‑old giant eggshells reveal how plants reacted to a hotter Earth",
@@ -3745,51 +3792,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9845
-      },
-      {
-        "id": "69e45cd1860c1a9f",
-        "title": "Japan's small cities may face higher care burdens under the compact city policy",
-        "url": "https://phys.org/news/2026-06-japan-small-cities-higher-burdens.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782505203000,
-        "summary": "As populations decline and age across the developed world, compact city strategies, which oversee the consolidation of urban facilities and guide residents toward transit-served hubs, have become mainstream policies. Yet most evidence about their benefits comes from cities that are already compact. Far less is known about the social costs that may arise during the transition to compactness in the ",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0192
-      },
-      {
-        "id": "21934f59e4e208b0",
-        "title": "ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows",
-        "url": "https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782505201000,
-        "summary": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are established as essential signaling molecules in various organisms, their precise role in basic plant development and morphogenesis remains unclear.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0192
-      },
-      {
-        "id": "8fbeccb11cdd3f21",
-        "title": "Pegasus launch to deploy LINK for months‑long orbit boost of aging Swift",
-        "url": "https://phys.org/news/2026-06-pegasus-deploy-link-monthslong-orbit.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782504003000,
-        "summary": "A mission to raise the orbit of NASA's Neil Gehrels Swift Observatory is poised for launch no earlier than Tuesday, June 30, at 6:23 a.m. EDT (10:23 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0995
       }
     ]
   },
