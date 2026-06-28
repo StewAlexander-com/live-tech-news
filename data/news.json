@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T20:11:46.749326+00:00",
+  "generated_at": "2026-06-28T20:20:11.794293+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1136,6 +1136,21 @@
         "score": 1.0176
       },
       {
+        "id": "7ac5c158d34e1771",
+        "title": "Pluralistic: Zuckerberg’s increasingly bizarre war on whistleblowers (27 Jun 2026)",
+        "url": "https://www.reddit.com/r/technology/comments/1ui3mou/pluralistic_zuckerbergs_increasingly_bizarre_war/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782668642000,
+        "summary": "submitted by /u/dgdio [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9036
+      },
+      {
         "id": "51a370b0ca870204",
         "title": "US Agency Cancels Contract For Warrantless Tracking of Mobile Devices",
         "url": "https://news.slashdot.org/story/26/06/28/0546256/us-agency-cancels-contract-for-warrantless-tracking-of-mobile-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
@@ -1946,22 +1961,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8066
-      },
-      {
-        "id": "39a579bd02ba12a4",
-        "title": "Show HN: Kiso, an open-source publishing engine for Open Knowledge Format",
-        "url": "https://oak-invest.github.io/kiso/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1782594483000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:10"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9535
       }
     ],
     "ai": [
@@ -1977,6 +1976,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9987
+      },
+      {
+        "id": "b8702df02c9a48e1",
+        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "url": "https://github.com/JustVugg/nanoeuler",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782675494000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.036
       },
       {
         "id": "79cf4fe08eea6521",
@@ -2157,11 +2172,11 @@
         "summary": "",
         "tags": [
           "hn",
-          "points:169"
+          "points:179"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2244
+        "score": 1.2211
       },
       {
         "id": "5592a8163d72ee60",
@@ -2881,24 +2896,24 @@
         "paywall": true,
         "impact": "high",
         "score": 0.8715
-      },
-      {
-        "id": "0c89508072fe98e1",
-        "title": "AI is creating America’s next underclass",
-        "url": "https://www.reddit.com/r/technology/comments/1uhc7sa/ai_is_creating_americas_next_underclass/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782590064000,
-        "summary": "submitted by /u/AnotherNOP [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0156
       }
     ],
     "science": [
+      {
+        "id": "7d5cc1005ebe0c1d",
+        "title": "Europe swelters as heat wave moves east",
+        "url": "https://phys.org/news/2026-06-europe-swelters-east.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782677975000,
+        "summary": "Europe's deadly heat wave pushed east Sunday, with hundreds of millions still sweltering across the continent despite fleeting relief from overnight storms, notably in France and Belgium.",
+        "tags": [
+          "environment"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
+      },
       {
         "id": "37030e4fe353d386",
         "title": "Nanopattern method unlocks precise control of disorder for wave-guiding devices",
@@ -3797,21 +3812,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1191
-      },
-      {
-        "id": "0b7c61a684f79c7d",
-        "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-        "url": "https://arxiv.org/abs/2606.26267",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782532800000,
-        "summary": "arXiv:2606.26267v1 Announce Type: new Abstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from response lag due to their exclusive reliance on match outcomes, neglecting the granular quality of gameplay. Nevertheless, incorporating move-by-move information into rating adjustments presents a significant challenge give",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0362
       }
     ]
   },
