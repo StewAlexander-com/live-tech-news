@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-06-29T14:58:45.918513+00:00",
+  "generated_at": "2026-06-29T15:01:25.854515+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "c5df61aa74e9a473",
+        "title": "T-Mobile retires legacy plans, prompting price hikes and customer backlash",
+        "url": "https://www.androidpolice.com/t-mobile-retires-legacy-plans-prompting-price-hikes-and-customer-backlash/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1782745237000,
+        "summary": "Average plan increase is $4 per month",
+        "tags": [
+          "t-mobile",
+          "carriers"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9997
+      },
+      {
+        "id": "5e3b34f5429411ae",
+        "title": "Your router’s USB port is wasted if you only use it for files",
+        "url": "https://www.makeuseof.com/your-routers-usb-port-is-wasted-if-you-only-use-it-for-files/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1782745219000,
+        "summary": "That little USB port is super handy.",
+        "tags": [
+          "networking",
+          "usb"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8497
+      },
       {
         "id": "854249475a982725",
         "title": "Brazil fans, there's no need to settle for ITV's low res coverage of World Cup 2026 – try Brazil vs Japan in glorious 4K instead, and with the commentary in Portuguese!",
@@ -924,41 +956,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.029
-      },
-      {
-        "id": "ffdf359a4392a352",
-        "title": "Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis",
-        "url": "https://arxiv.org/abs/2606.27634",
-        "source": "arXiv cs.LG",
-        "lane": "gadgets",
-        "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27634v1 Announce Type: new Abstract: Small Language Models (SLMs) are increasingly being considered for deployment on edge devices such as laptops, enabling private, low-latency, and locally personalized applications. However, personalization requires models to adapt over time to evolving user- or task-specific data, placing them in a continual learning setting. This creates the risk of",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.029
-      },
-      {
-        "id": "814b61b596848068",
-        "title": "Phone Stand Aims To Fight Addiction",
-        "url": "https://hackaday.com/2026/06/28/scrap-printer-motor-becomes-generator/",
-        "source": "Hackaday",
-        "lane": "gadgets",
-        "published_ts": 1782698409000,
-        "summary": "Sometimes, it’s hard to stop picking up your phone every few minutes to check on notifications and scroll endlessly through the slop of the day. [PushpendraC2] has been working on …read more",
-        "tags": [
-          "parts",
-          "phone hacks",
-          "esp32",
-          "phone",
-          "phone addiction",
-          "phone stand"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0774
       }
     ],
     "innovation": [
@@ -2798,72 +2795,104 @@
         "score": 1.0601
       },
       {
-        "id": "6e8b8d5ae89846a1",
-        "title": "Learning in Markovian bandits with non-observable states and constrained decision epochs",
-        "url": "https://arxiv.org/abs/2606.27448",
-        "source": "arXiv cs.LG",
+        "id": "5fa2fe5c68176868",
+        "title": "AI-Model Network: Concept, Current State and Future",
+        "url": "https://arxiv.org/abs/2606.27382",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27448v1 Announce Type: new Abstract: This paper studies the problem of regret minimization in Markovian bandits with \\emph{non-observable states} and possibly \\emph{constrained} decision epochs. The focus is restricted to a ``pure'' regret benchmark, that compares the performance of the learning algorithm to the best \\emph{pure policy} which -- akin to optimal policies of stochastic ban",
+        "summary": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development of the Internet, cloud computing, and big data is pushing artificial intelligence into the era of larg",
         "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9179
-      },
-      {
-        "id": "3e653f43acbfd2b3",
-        "title": "Operator Learning for Cubic Nonlinear Schr\\\"odinger Equation on Periodic Domains",
-        "url": "https://arxiv.org/abs/2606.27459",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27459v1 Announce Type: new Abstract: We consider the cubic nonlinear Schr\\\"odinger (NLS) equation on two-dimensional flat tori with varying aspect ratios. In this formulation, the choice of aspect ratio governs the Fourier resonance structure, so rational and irrational geometries can exhibit different high-frequency cascade behaviors. We present a geometry-conditioned Fourier neural op",
-        "tags": [
-          "cs.lg",
-          "cs.na",
-          "math.ap",
-          "math.na"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9179
-      },
-      {
-        "id": "e916341f1a93d8ef",
-        "title": "Quantum Generative Diffusion Model for Real-World Time Series",
-        "url": "https://arxiv.org/abs/2606.27561",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27561v1 Announce Type: new Abstract: Generative models have achieved remarkable success in data synthesis, though recent advances driven by increasing model scale have introduced challenges in computational cost and efficiency. Quantum machine learning offers a promising alternative, representing complex data distributions using compact, highly expressive models. Here, we propose QDiffu",
-        "tags": [
-          "cs.lg",
-          "quant-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9179
-      },
-      {
-        "id": "15a081b80ee5fd8d",
-        "title": "Global Explanations for Multivariate Time Series Forecasting Models via $K$-Order Markov Approximations",
-        "url": "https://arxiv.org/abs/2606.27599",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27599v1 Announce Type: new Abstract: While many explainable AI (XAI) methods have been proposed, most are not designed for time-series forecasting models and often rely on the implicit assumption that timestamp features are independent. This assumption ignores the fundamental property of temporal dependence and can lead to explanations that violate the sequential and causal structure of",
-        "tags": [
-          "cs.lg",
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9179
+        "score": 0.9171
+      },
+      {
+        "id": "35c5d0bda49c48dd",
+        "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+        "url": "https://arxiv.org/abs/2606.27619",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper proposes DysLexLens, a low-resource LLM framework, designed to analyse dyslexic learners experience with AI through online ",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.hc",
+          "cs.ir",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9171
+      },
+      {
+        "id": "141baa6c26bbdca1",
+        "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+        "url": "https://arxiv.org/abs/2606.27736",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27736v1 Announce Type: new Abstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systematically surfaced by retrieval systems, contaminating LLM reasoning. In this paper, we propose Tree of Evidence (ToE), a hiera",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9171
+      },
+      {
+        "id": "63e711c340b28822",
+        "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+        "url": "https://arxiv.org/abs/2606.27926",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27926v1 Announce Type: new Abstract: Geometry Problem Solving have increasingly adopt the neuro-symbolic paradigm, combining neural intuition with symbolic rigor. However, current frameworks suffer from severe bottlenecks in two core stages: autoformalization, which treats multimodal translation as a static task decoupled from downstream solver compatibility, and theorem prediction, whe",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9171
       }
     ],
     "science": [
+      {
+        "id": "469c2e91113434c5",
+        "title": "Functional NIN persists in non-nodulating plants: Rethinking the loss of symbiosis",
+        "url": "https://phys.org/news/2026-06-functional-nin-persists-nodulating-rethinking.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782745207000,
+        "summary": "Certain plants, including legumes, form specialized root organs known as nodules. These plants establish symbiotic relationships with nitrogen-fixing bacteria and utilize atmospheric nitrogen. This process, termed \"root nodule symbiosis,\" is an important biological function that can reduce reliance on chemical nitrogen fertilizers. At the genetic level, previous studies, primarily on legumes, have",
+        "tags": [
+          "molecular & computational biology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0196
+      },
+      {
+        "id": "e4986958d09ea068",
+        "title": "Childbirth is not uniquely difficult to humans",
+        "url": "https://phys.org/news/2026-06-childbirth-uniquely-difficult-humans.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782745201000,
+        "summary": "The tight fit of a baby's head through a mother's birth canal, which causes great difficulty in childbirth, is not unique to humans, as previously understood. Instead, some small-bodied primate babies have heads almost twice as large as their mothers' pelvic space, a new study led by UCL researchers has found.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
       {
         "id": "4834a5a5a4481a77",
         "title": "Exposure to violence contributes to high rates of suicidal thoughts and attempts among transgender people",
@@ -3754,36 +3783,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0468
-      },
-      {
-        "id": "94c0e3231e63bc25",
-        "title": "When the rapid adaptation of sales channels pays off",
-        "url": "https://phys.org/news/2026-06-rapid-sales-channels-pays.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782595801000,
-        "summary": "Greater agility in the sales system—that is, a company's ability to rapidly adapt its sales channels to changing market conditions—is associated with higher operating profit, but only under certain conditions. That is the result of an observational, survey-based study involving 356 predominantly European companies carried out by retail and marketing experts from the University of Cologne, the Écol",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0192
-      },
-      {
-        "id": "981595c2d58bac89",
-        "title": "Peptide alternative to antibiotics could combat antimicrobial resistance crisis",
-        "url": "https://phys.org/news/2026-06-peptide-alternative-antibiotics-combat-antimicrobial.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782594003000,
-        "summary": "A University of Alberta research team has designed a promising alternative for treating antimicrobial-resistant infections, a pressing global health issue. In a paper recently published in Cell Biomaterials, the team describes preclinical testing results for its human-derived peptide treatment, D-GK17. The peptide is stable and nontoxic to humans and is synthesized to attack the surfaces of bacter",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0187
       }
     ]
   },
