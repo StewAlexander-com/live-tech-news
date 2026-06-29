@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:13:53.971229+00:00",
+  "generated_at": "2026-06-29T20:15:40.551353+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3835,53 +3835,51 @@
         "score": 1.0028
       },
       {
-        "id": "a11233b7c929838b",
-        "title": "Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder",
-        "url": "https://arxiv.org/abs/2606.27411",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27411v1 Announce Type: cross Abstract: We study a quantum autoencoder (QAE) for compression-driven anomaly detection in brain MRI data. The approach leverages angle encoding to map image patches into quantum states, followed by a variational encoder-decoder architecture trained to discard information via auxiliary trash qubits. Anomaly scores reflect the degree to which inputs resist co",
-        "tags": [
-          "quant-ph",
-          "cs.ai",
-          "eess.iv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1113
-      },
-      {
-        "id": "69b961fe41782f95",
-        "title": "GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana",
-        "url": "https://arxiv.org/abs/2606.27413",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27413v1 Announce Type: cross Abstract: Understanding which genes control which traits in an organism remains one of the central challenges in biology. Despite significant advances in data collection technology, our ability to map genes to traits is still limited. This genome-to-phenome (G2P) challenge spans several problem domains, including plant breeding, and requires methods capable ",
-        "tags": [
-          "q-bio.gn",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1113
-      },
-      {
-        "id": "26c5e77ac2a143f9",
-        "title": "Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization",
-        "url": "https://arxiv.org/abs/2606.27767",
+        "id": "a08da342525f890e",
+        "title": "PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding",
+        "url": "https://arxiv.org/abs/2606.27440",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1782705600000,
-        "summary": "arXiv:2606.27767v1 Announce Type: new Abstract: Optimizing functionals over the space of probability measures is now ubiquitous in machine learning. A widely used approach is to perform the optimization directly over the Wasserstein space, but many objective functionals of practical interest are non-convex along Wasserstein geodesics, making the analysis of standard first-order methods challenging",
+        "summary": "arXiv:2606.27440v1 Announce Type: new Abstract: Foundation models for structural biology have achieved remarkable performance in predicting biomolecular structure and show promise for the design of proteins and small molecules. Yet understanding which internal features drive their outputs remains challenging. Standard sparse autoencoders (SAEs), effective on transformer-style sequence embeddings, ",
         "tags": [
-          "cs.lg",
-          "math.oc"
+          "cs.lg"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 1.1113
+        "impact": "normal",
+        "score": 0.7677
+      },
+      {
+        "id": "cd56e1802646c7a8",
+        "title": "Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings",
+        "url": "https://arxiv.org/abs/2606.27672",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27672v1 Announce Type: new Abstract: Inspired by advances in natural language processing and computer vision, \"time-series foundation models\" (TSFMs) have recently been introduced with the promise of strong generalization across diverse time-series tasks, including forecasting, classification, and anomaly detection, as well as across domains such as healthcare, climate science, and manu",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7677
+      },
+      {
+        "id": "d981052236edf73d",
+        "title": "Class-frequency Guided Noise Schedule for Diffusion Models",
+        "url": "https://arxiv.org/abs/2606.27696",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27696v1 Announce Type: new Abstract: In this paper, we are the first to examine the correlations between class frequency and the multi-scale noise schedule within diffusion models. For score-based generative models, low-density regions often lead to inaccurately estimated scores, thereby compromising the generation quality. Although the multi-scale noise schedule can alleviate this issu",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7677
       }
     ]
   },
