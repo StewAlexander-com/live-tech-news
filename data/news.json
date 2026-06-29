@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T18:00:04.137599+00:00",
+  "generated_at": "2026-06-29T18:07:03.911629+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -996,6 +996,24 @@
     ],
     "innovation": [
       {
+        "id": "f58d017f523a8ba7",
+        "title": "I blamed npm for slow WSL builds — the real fix took five minutes",
+        "url": "https://www.makeuseof.com/i-blamed-npm-for-slow-wsl-builds-the-real-fix-took-five-minutes/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782756020000,
+        "summary": "Moving one folder quadrupled my build speeds without touching a single config.",
+        "tags": [
+          "windows",
+          "windows subsystem for linux",
+          "linux tips",
+          "windows tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8482
+      },
+      {
         "id": "20282715118719b3",
         "title": "Samsung Messages is dying next week, and it's taking one of Android's best features with it",
         "url": "https://www.makeuseof.com/samsung-messages-is-dying-next-week-and-its-taking-one-of-androids-best-features-with-it/",
@@ -1042,6 +1060,22 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8422
+      },
+      {
+        "id": "60850ad4affd0b46",
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1782753377000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.033
       },
       {
         "id": "3faa3aaab0ec559a",
@@ -1924,39 +1958,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0102
-      },
-      {
-        "id": "35237a5e07ebef5e",
-        "title": "Chinese robotics startup AI² Robotics raised ~$736M at a ~$2.9B valuation; Alibaba-backed X Square Robot raised an undisclosed amount at a ~$2.9B valuation (Bloomberg)",
-        "url": "https://www.techmeme.com/260629/p18#a260629p18",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782731402000,
-        "summary": "Bloomberg: Chinese robotics startup AI² Robotics raised ~$736M at a ~$2.9B valuation; Alibaba-backed X Square Robot raised an undisclosed amount at a ~$2.9B valuation — Two Chinese robotics startups have been valued at more than $2.9 billion in recent funding rounds, demonstrating steady interest …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0665
-      },
-      {
-        "id": "51607301c52a4cbc",
-        "title": "HamsterOS Crams Complete Graphical Desktop onto 1.44 MB Floppy",
-        "url": "https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782730842000,
-        "summary": "It’s not every day that there’s a new OS in the works for 386 and 486-era hardware, but [John Swiderski] let us know he working hard to bring HamsterOS to retrocomputing …read more",
-        "tags": [
-          "retrocomputing",
-          "software hacks",
-          "386",
-          "486",
-          "floppy drive",
-          "greaseweazle"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0633
       }
     ],
     "ai": [
@@ -2932,6 +2933,36 @@
     ],
     "science": [
       {
+        "id": "864bb1bd09d85d97",
+        "title": "Spiders benefit from seemingly monotonous forests",
+        "url": "https://phys.org/news/2026-06-spiders-benefit-seemingly-monotonous-forests.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782756006000,
+        "summary": "In ecology, the principle holds that the more diverse and heterogeneous a habitat is, the more different species it supports. To promote species diversity in forests, clearings are therefore created for nature conservation purposes, or deadwood is deliberately left in place. For many species, such as birds, bats and beetles, this structural diversity is indeed beneficial.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
+        "id": "68c282c639e19114",
+        "title": "Heat is destroying Australia's underwater forests. Seaweed biobanks could help save them",
+        "url": "https://phys.org/news/2026-06-destroying-australia-underwater-forests-seaweed.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782756001000,
+        "summary": "Australia's Great Southern Reef is built not by coral but by seaweed. The seaweed forests on these rocky reefs stretch more than 8,000 kilometers (5,000 miles) around southern Australia.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0177
+      },
+      {
         "id": "14a6803c5b458d36",
         "title": "Nova V612 Scuti's light curve becomes audio, revealing how stellar shocks evolved",
         "url": "https://phys.org/news/2026-06-nova-v612-scuti-audio-revealing.html",
@@ -3815,36 +3846,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0198
-      },
-      {
-        "id": "37030e4fe353d386",
-        "title": "Nanopattern method unlocks precise control of disorder for wave-guiding devices",
-        "url": "https://phys.org/news/2026-06-nanopattern-method-precise-disorder-devices.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782676801000,
-        "summary": "A research team has developed a methodology to precisely design and control the \"degree of disorder\" in nanopattern arrays using metal-infiltrated block copolymer (BCP) thin films. The work was led by Professor So Youn Kim of the Seoul National University College of Engineering Department of Chemical and Biological Engineering, in collaboration with Professor Su-Mi Hur's team at DGIST and Professo",
-        "tags": [
-          "nanophysics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "bca44f0b5ff6df37",
-        "title": "Injectable silk-kudzu hydrogel achieves complete wound closure in laboratory tests",
-        "url": "https://phys.org/news/2026-06-silk-kudzu-hydrogel-wound-closure.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782673201000,
-        "summary": "Researchers at the Terasaki Institute for Biomedical Innovation have developed an injectable hydrogel, a water-based gel material, made from silk proteins and a plant-derived compound. In laboratory tests, the material promoted complete wound closure within 72 hours, suggesting a potential new approach to minimally invasive soft tissue repair.",
-        "tags": [
-          "biochemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0995
       }
     ]
   },
