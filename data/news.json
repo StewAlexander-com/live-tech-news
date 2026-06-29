@@ -1,7 +1,54 @@
 {
-  "generated_at": "2026-06-29T03:40:27.475589+00:00",
+  "generated_at": "2026-06-29T05:03:03.161545+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1588b6b186b4346d",
+        "title": "I track Dell laptop prices, and this AU$1,139 Dell 14 Plus is the EOFY deal I’d recommend before time runs out",
+        "url": "https://www.techradar.com/computing/the-dell-14-plus-is-the-eofy-deal-id-recommend-before-time-runs-out",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782707698000,
+        "summary": "I track Dell laptop prices, and this AU$1,139 Dell 14 Plus is a EOFY deal I'd recommend even before our discount code.",
+        "tags": [
+          "computing",
+          "laptops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8424
+      },
+      {
+        "id": "cf81cdf90d2c7b2a",
+        "title": "Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks",
+        "url": "https://arxiv.org/abs/2606.27474",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27474v1 Announce Type: cross Abstract: How should we evaluate generation systems that combine autoregressive (AR) and diffusion decoding? We study this question through Speculative Refinement (SpecRef), a training-free hybrid method that warm-starts a masked diffusion language model from an AR draft using entropy-guided selective masking. Evaluating SpecRef across six benchmarks (HumanE",
+        "tags": [
+          "cs.se",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
+      {
+        "id": "ffdf359a4392a352",
+        "title": "Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis",
+        "url": "https://arxiv.org/abs/2606.27634",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27634v1 Announce Type: new Abstract: Small Language Models (SLMs) are increasingly being considered for deployment on edge devices such as laptops, enabling private, low-latency, and locally personalized applications. However, personalization requires models to adapt over time to evolving user- or task-specific data, placing them in a continual learning setting. This creates the risk of",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
       {
         "id": "814b61b596848068",
         "title": "Phone Stand Aims To Fight Addiction",
@@ -21,6 +68,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0774
+      },
+      {
+        "id": "c1c1578b9ca3b8d6",
+        "title": "Google's Earthquake Alerts system reached 11.4M+ Android users ahead of Venezuela's June 24 earthquakes, providing seconds or up to two minutes of prior notice (New York Times)",
+        "url": "https://www.techmeme.com/260628/p14#a260628p14",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1782688200000,
+        "summary": "New York Times: Google's Earthquake Alerts system reached 11.4M+ Android users ahead of Venezuela's June 24 earthquakes, providing seconds or up to two minutes of prior notice — Jose Flores was driving with his family to see “Toy Story 5” on Wednesday in Caracas, Venezuela, when a loud earthquake alert went off on his wife's Google Android phone.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8929
       },
       {
         "id": "a88691a0cbb3a0f6",
@@ -925,76 +985,44 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8354
-      },
-      {
-        "id": "5a1d4d267f045cf7",
-        "title": "A Standalone YouTube Streaming Rig",
-        "url": "https://hackaday.com/2026/06/27/a-standalone-youtube-streaming-rig/",
-        "source": "Hackaday",
-        "lane": "gadgets",
-        "published_ts": 1782612027000,
-        "summary": "YouTube streaming typically involves a camera with an HDMI output, a USB3 HDMI digitiser, and a suitably beefy PC to run it all. It’s quite a process, and for [Coreymillia], …read more",
-        "tags": [
-          "video hacks",
-          "cyd",
-          "pi hq camera",
-          "raspberry pi 4",
-          "streaming rig"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0772
-      },
-      {
-        "id": "0e17d410fcb62e16",
-        "title": "What's new at Lego for July: 12 new sets to get stuck into — including the clumsy Demon Hunters icon I've been waiting for",
-        "url": "https://www.techradar.com/home/whats-new-at-lego-for-july-12-new-sets-to-get-stuck-into-including-the-clumsy-demon-hunters-icon-ive-been-waiting-for",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782608400000,
-        "summary": "There's a new batch of Lego kits available for pre-order, and there are some instant classics in there.",
-        "tags": [
-          "home"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8445
-      },
-      {
-        "id": "ffc037bbeef0eb11",
-        "title": "GTA VI fans beware — experts warn 'a new wave of scam websites' is offering early access, but just stealing your bank details instead",
-        "url": "https://www.techradar.com/pro/security/gta-vi-fans-beware-experts-warn-a-new-wave-of-scam-websites-is-offering-early-access-but-just-stealing-your-bank-details-instead",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782601800000,
-        "summary": "Cybercriminals are exploiting GTA VI anticipation with fake beta programmes designed to steal money, credentials, and personal information.",
-        "tags": [
-          "security",
-          "cyber security",
-          "cyber crime",
-          "pro",
-          "computing",
-          "computing security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
-      },
-      {
-        "id": "25c46e3b39962f0d",
-        "title": "Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022",
-        "url": "https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/",
-        "source": "Daring Fireball",
-        "lane": "gadgets",
-        "published_ts": 1782599991000,
-        "summary": "From a September 2022 letter to then-Director of National Intelligence Avril Haines, co-signed by Marco Rubio (then a Republican senator from Florida, currently secretary of state) and Mark Warner (Democratic senator from Virginia): We write to convey our extreme concern about the possibility that Apple Inc. will soon procure 3D NAND memory chips from the People’s Republic of China (PRC) state-own",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0793
       }
     ],
     "innovation": [
+      {
+        "id": "ff7b529a9b1db8f6",
+        "title": "Custom Hybrid Drivetrain Powers Boat",
+        "url": "https://hackaday.com/2026/06/28/custom-hybrid-drivetrain-powers-boat/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782709201000,
+        "summary": "Offloading acceleration and braking to an electric motor in a hybrid configuration allows the less efficient combustion engine run in a more narrow set of RPM and torque ranges. In …read more",
+        "tags": [
+          "transportation hacks",
+          "boat",
+          "catamaran",
+          "drivetrain",
+          "efficiency",
+          "electric motor"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0789
+      },
+      {
+        "id": "a1067cadb3be232e",
+        "title": "Unified Zero-Shot Time Series Forecasting: A Darts Foundation",
+        "url": "https://arxiv.org/abs/2606.27438",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27438v1 Announce Type: new Abstract: Since its initial release in 2020, Darts has become a widely used open-source Python library for time series analysis. A series of foundation models have recently claimed accuracy improvements in zero-shot forecasting, promising a paradigm shift from training custom models to harnessing pre-trained general-purpose forecasters. Foundation models, howe",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
       {
         "id": "1614b5fb1e13afbf",
         "title": "Shanghai-based Momenta, whose driver-assist tech is used by Toyota, Mercedes, and Audi in China, files for an IPO in Hong Kong, seeking to raise up to $751.1M (Reuters)",
@@ -1020,6 +1048,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9944
+      },
+      {
+        "id": "8f1e6cb5d5f32f6f",
+        "title": "California law targeting loud streaming ads takes effect on July 1",
+        "url": "https://www.reddit.com/r/technology/comments/1uif2og/california_law_targeting_loud_streaming_ads_takes/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782697609000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.892
       },
       {
         "id": "bbe27cf768508a02",
@@ -1902,59 +1946,222 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9154
-      },
-      {
-        "id": "215bfb12016c2994",
-        "title": "Instagram wants to make algorithm customisation a core part of the app, not a buried setting",
-        "url": "https://thenextweb.com/news/instagram-your-algorithm-central-experience-mosseri",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782639857000,
-        "summary": "Instagram head Adam Mosseri previewed new ways to surface Your Algorithm, the feature that lets users specify which topics they want to see more or less of. In an Instagram post this week, Mosseri said the goal is to evolve the tool “from a setting to something that feels central to your experience on Instagram.” […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "social media",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9528
-      },
-      {
-        "id": "e7e0ca5b6f3b9f46",
-        "title": "Make Your Own Loudspeaker From Scratch",
-        "url": "https://hackaday.com/2026/06/28/make-your-own-loudspeaker-from-scratch/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782633648000,
-        "summary": "A loudspeaker is a vital component of every device that plays sound, but while its operation is simple, it’s a surprisingly difficult device to build. [Rvanderouderaa] has made an Instructables …read more",
-        "tags": [
-          "home entertainment hacks",
-          "loudspeaker",
-          "paper moulding",
-          "speaker"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0617
-      },
-      {
-        "id": "211de370689d5b6a",
-        "title": "An Amazon Seller Says They Were Offered a Way to Bribe an Amazon Employee",
-        "url": "https://yro.slashdot.org/story/26/06/28/0459214/an-amazon-seller-says-they-were-offered-a-way-to-bribe-an-amazon-employee?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1782632040000,
-        "summary": "Jack Nekhala had a business selling on Amazon — and in December he received an unusual offer, reports Bloomberg. A woman said she could bribe an Amazon employee \"to help him retrieve $90,000 in funds that the e-commerce giant had frozen after suspending him over an alleged violation of review policy.\" Hoping to ingratiate himself with the company and restart his business, Nekhala offered to provid",
-        "tags": [
-          "crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.044
       }
     ],
     "ai": [
+      {
+        "id": "6edaefb558fc5c8c",
+        "title": "DeepSeek details DSpark, a speculative decoding framework for its V4 models, saying it speeds up AI inference by up to 85% and was tested on Gemma and Qwen (Ben Jiang/South China Morning Post)",
+        "url": "https://www.techmeme.com/260629/p1#a260629p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782705901000,
+        "summary": "Ben Jiang / South China Morning Post: DeepSeek details DSpark, a speculative decoding framework for its V4 models, saying it speeds up AI inference by up to 85% and was tested on Gemma and Qwen — Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0601
+      },
+      {
+        "id": "5fa2fe5c68176868",
+        "title": "AI-Model Network: Concept, Current State and Future",
+        "url": "https://arxiv.org/abs/2606.27382",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27382v1 Announce Type: new Abstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing and collaboration. Computers create the Internet, and the Internet empowers the value of computers. The rapid development of the Internet, cloud computing, and big data is pushing artificial intelligence into the era of larg",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "35c5d0bda49c48dd",
+        "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
+        "url": "https://arxiv.org/abs/2606.27619",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27619v1 Announce Type: new Abstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-related tasks. However, their lived experiences with these tools remain largely underexamined. This paper proposes DysLexLens, a low-resource LLM framework, designed to analyse dyslexic learners experience with AI through online ",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.hc",
+          "cs.ir",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "141baa6c26bbdca1",
+        "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
+        "url": "https://arxiv.org/abs/2606.27736",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27736v1 Announce Type: new Abstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation under Generative Engine Optimization (GEO) poisoning allows adversarially crafted content to be systematically surfaced by retrieval systems, contaminating LLM reasoning. In this paper, we propose Tree of Evidence (ToE), a hiera",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "63e711c340b28822",
+        "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+        "url": "https://arxiv.org/abs/2606.27926",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27926v1 Announce Type: new Abstract: Geometry Problem Solving have increasingly adopt the neuro-symbolic paradigm, combining neural intuition with symbolic rigor. However, current frameworks suffer from severe bottlenecks in two core stages: autoformalization, which treats multimodal translation as a static task decoupled from downstream solver compatibility, and theorem prediction, whe",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "0fa11edce1d8d119",
+        "title": "JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",
+        "url": "https://arxiv.org/abs/2606.28070",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.28070v1 Announce Type: new Abstract: JD.com, one of the world's largest e-commerce platforms, serves over 700 million active users and millions of merchants, with a catalog of tens of billions of SKUs. At this scale, high-quality, structured item knowledge underpins a better consumer experience, lower management costs, and higher operational efficiency-yet producing and serving it poses",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "ff6b26f182fe7ccc",
+        "title": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+        "url": "https://arxiv.org/abs/2606.28126",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.28126v1 Announce Type: new Abstract: This article addresses the combinatorial complexity inherent in modern high-tech system design by presenting automation-in-design (AiD) as a transformative paradigm. We propose computational design synthesis (CDS), a framework utilising deep learning and generative AI to automate the creation of novel systems. Two case studies (e-drive system design ",
+        "tags": [
+          "cs.ai",
+          "cs.ar",
+          "cs.ce",
+          "cs.et",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "6e8b8d5ae89846a1",
+        "title": "Learning in Markovian bandits with non-observable states and constrained decision epochs",
+        "url": "https://arxiv.org/abs/2606.27448",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27448v1 Announce Type: new Abstract: This paper studies the problem of regret minimization in Markovian bandits with \\emph{non-observable states} and possibly \\emph{constrained} decision epochs. The focus is restricted to a ``pure'' regret benchmark, that compares the performance of the learning algorithm to the best \\emph{pure policy} which -- akin to optimal policies of stochastic ban",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "3e653f43acbfd2b3",
+        "title": "Operator Learning for Cubic Nonlinear Schr\\\"odinger Equation on Periodic Domains",
+        "url": "https://arxiv.org/abs/2606.27459",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27459v1 Announce Type: new Abstract: We consider the cubic nonlinear Schr\\\"odinger (NLS) equation on two-dimensional flat tori with varying aspect ratios. In this formulation, the choice of aspect ratio governs the Fourier resonance structure, so rational and irrational geometries can exhibit different high-frequency cascade behaviors. We present a geometry-conditioned Fourier neural op",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.ap",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "e916341f1a93d8ef",
+        "title": "Quantum Generative Diffusion Model for Real-World Time Series",
+        "url": "https://arxiv.org/abs/2606.27561",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27561v1 Announce Type: new Abstract: Generative models have achieved remarkable success in data synthesis, though recent advances driven by increasing model scale have introduced challenges in computational cost and efficiency. Quantum machine learning offers a promising alternative, representing complex data distributions using compact, highly expressive models. Here, we propose QDiffu",
+        "tags": [
+          "cs.lg",
+          "quant-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "15a081b80ee5fd8d",
+        "title": "Global Explanations for Multivariate Time Series Forecasting Models via $K$-Order Markov Approximations",
+        "url": "https://arxiv.org/abs/2606.27599",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27599v1 Announce Type: new Abstract: While many explainable AI (XAI) methods have been proposed, most are not designed for time-series forecasting models and often rely on the implicit assumption that timestamp features are independent. This assumption ignores the fundamental property of temporal dependence and can lead to explanations that violate the sequential and causal structure of",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "06eaa628a1f01114",
+        "title": "Halt Fast! Early Stopping for Certified Robustness",
+        "url": "https://arxiv.org/abs/2606.27694",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27694v1 Announce Type: new Abstract: Randomized Smoothing (RS) provides rigorous robustness guarantees for neural networks without architectural constraints, yet its adoption is limited by extreme computational costs. Standard RS requires tens of thousands of model evaluations per input and forces practitioners to commit to fixed sample sizes a priori. In this work, we present a novel m",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "1fdfea3351411d53",
+        "title": "The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference",
+        "url": "https://arxiv.org/abs/2606.27711",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27711v1 Announce Type: new Abstract: We introduce a neural network-based framework for learning time series estimators through a process we term decision-theoretic pretraining. Analysts specify a generative world, a distribution over data-generating processes, and a target decision objective. A neural network trained on stratified simulations from this world approximates the correspondi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.co"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
       {
         "id": "8f9a55f70418e10a",
         "title": "SpaceX just landed in millions of 401(k)s due to key index rule changes — and the same rules open the door to OpenAI and Anthropic",
@@ -2000,6 +2207,21 @@
         "score": 1.0139
       },
       {
+        "id": "36b6eb1271586c04",
+        "title": "AI Companies Are Learning an Ironic Lesson as the People They Pay to Improve Their Chatbots Are Just Feeding AI Slop Into Them",
+        "url": "https://www.reddit.com/r/technology/comments/1uiep8z/ai_companies_are_learning_an_ironic_lesson_as_the/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782696527000,
+        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9578
+      },
+      {
         "id": "5fc543af5724eaab",
         "title": "AI boom risks global financial crash, warn central bankers",
         "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
@@ -2031,6 +2253,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1181
+      },
+      {
+        "id": "9ba1a7c8a5cae0e4",
+        "title": "AI boom risks global financial crash, warn central bankers",
+        "url": "https://www.reddit.com/r/technology/comments/1uieadj/ai_boom_risks_global_financial_crash_warn_central/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782695308000,
+        "summary": "submitted by /u/joe4942 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9516
       },
       {
         "id": "4a294b29d46cc51a",
@@ -2466,11 +2703,11 @@
         "summary": "",
         "tags": [
           "hn",
-          "points:367"
+          "points:383"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0602
+        "score": 1.0325
       },
       {
         "id": "5592a8163d72ee60",
@@ -2678,241 +2915,150 @@
         "paywall": false,
         "impact": "high",
         "score": 0.999
-      },
-      {
-        "id": "7892f2e4309b8e82",
-        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-        "url": "https://github.com/openai/codex/issues/2847",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782649653000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:9"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1415
-      },
-      {
-        "id": "73752834dc3cf9df",
-        "title": "Guy in his basement creates a drug to treat Alzheimer's disease using AI",
-        "url": "https://twitter.com/DouglasYaoDY/status/2070904914050797582",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782649405000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1277
-      },
-      {
-        "id": "9934dcf160ca3ccc",
-        "title": "Google is rationing Gemini access to Meta because it cannot provide enough compute",
-        "url": "https://thenextweb.com/news/google-caps-meta-gemini-compute-shortage",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782648568000,
-        "summary": "Google has placed limits on Meta’s use of its Gemini AI models because it cannot provide as much computing capacity as the social media company wanted, the Financial Times reported on Sunday. The restrictions have affected several Google clients, with Meta hit particularly hard. The move has had a knock-on effect on Meta’s internal projects. […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "google",
-          "next featured",
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9623
-      },
-      {
-        "id": "4bb04995713cf99f",
-        "title": "Developer AI Token Costs Could Exceed Their Salaries in Two Years",
-        "url": "https://it.slashdot.org/story/26/06/28/0519223/developer-ai-token-costs-could-exceed-their-salaries-in-two-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1782646440000,
-        "summary": "\"Enterprises may soon be paying as much for their developers' AI token usage as they do for their salaries,\" writes InfoWorld: According to Gartner, these costs will meet, or even exceed, the typical software engineer's monthly salary within the next two years. This is not only because developers are increasingly adopting generative AI and agentic tools, it reflects a trend toward consumption-base",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1298
-      },
-      {
-        "id": "0389911cd661363b",
-        "title": "AI coding agents can be tricked into installing malware via 'clean' GitHub repositories — Mozilla's 0din team shows how Claude Code can be exploited by its own helpfulness",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1782646200000,
-        "summary": "Claude and other AI agents fooled into running malware with just a minimal GitHub repository — ask the bot to initialize the project and you get hacked",
-        "tags": [
-          "cybersecurity",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0247
-      },
-      {
-        "id": "a7e8308e87e751b3",
-        "title": "Apple's Price Hikes Aren't Just an AI Problem",
-        "url": "https://www.cnet.com/news/apple-price-hikes-not-unavoidable-blame-ai-boom/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1782644469000,
-        "summary": "Commentary: The boom in artificial intelligence is causing a memory chip shortage. Apple decided to make us pay for it.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8577
-      },
-      {
-        "id": "474d2f99b53f452a",
-        "title": "India’s payments chief says AI will drive UPI from 750 million to a billion daily transactions",
-        "url": "https://thenextweb.com/news/india-upi-npci-ai-billion-daily-transactions",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782641277000,
-        "summary": "India’s Unified Payment Interface has grown to over 750 million daily transactions, and the head of the body that oversees it says AI will be central to reaching a billion. Dilip Asbe, MD and CEO of the National Payments Corporation of India, told TechCrunch at Mumbai Tech Week that AI could drive the next half […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "fintech and ecommerce",
-          "india",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9601
-      },
-      {
-        "id": "3fd2a634183dcc9e",
-        "title": "Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more (New York Times)",
-        "url": "https://www.techmeme.com/260628/p7#a260628p7",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782640836000,
-        "summary": "New York Times: Brazil, which has struggled to standardize soccer talent scouting, is embracing AI-powered scouting apps that assess players by analyzing video clips and more — Recruitment apps powered by artificial intelligence are gaining ground in Brazil, promising to even the playing field and find more soccer talent.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0771
-      },
-      {
-        "id": "564d2169a6814a75",
-        "title": "Salesforce employees are confused about why the company is promoting a competitor inside Slack",
-        "url": "https://thenextweb.com/news/salesforce-employees-anthropic-claude-tag-slack-tension",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782638644000,
-        "summary": "When Anthropic launched Claude Tag on Tuesday, a high-profile AI product that works as a persistent teammate inside Slack channels, some employees at Salesforce, which owns Slack, were confused. Salesforce promoted Anthropic’s new product on social media even as it competes directly with Salesforce’s own Slackbot and Agentforce platform, The Information reported. The tension is […] This story cont",
-        "tags": [
-          "anthropic",
-          "social media",
-          "artificial intelligence",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9467
-      },
-      {
-        "id": "4a129cd6d1cb38d0",
-        "title": "The 33-year-old ex-Snap exec Nadella is trusting to fix Copilot now oversees 11,000 people",
-        "url": "https://thenextweb.com/news/microsoft-copilot-andreou-nadella-ai-reset",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782637701000,
-        "summary": "Jacob Andreou, the 33-year-old executive Satya Nadella promoted to run Copilot in March after just one year at Microsoft, now oversees more than 11,000 people. He has merged the consumer and enterprise Copilot teams, eliminated redundant product versions, and is building a super app that combines chat, coding, and a new agentic workflow called Autopilot, […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "artificial intelligence",
-          "microsoft",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8861
-      },
-      {
-        "id": "5c3cdd47dae6f7eb",
-        "title": "Hundreds march in Vancouver to oppose planned AI data centres",
-        "url": "https://www.reddit.com/r/technology/comments/1uhrx5g/hundreds_march_in_vancouver_to_oppose_planned_ai/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782635772000,
-        "summary": "submitted by /u/Immediate-Link490 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9587
-      },
-      {
-        "id": "79e6b39f59eafc4f",
-        "title": "Google caps Meta’s Gemini use as AI demand strains capacity",
-        "url": "https://www.reddit.com/r/technology/comments/1uhric5/google_caps_metas_gemini_use_as_ai_demand_strains/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782634305000,
-        "summary": "submitted by /u/marketrent [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.992
-      },
-      {
-        "id": "77e91c418f585145",
-        "title": "Gemini in Chrome can now see exactly what you’re looking at on screen",
-        "url": "https://www.reddit.com/r/technology/comments/1uhre6k/gemini_in_chrome_can_now_see_exactly_what_youre/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782633886000,
-        "summary": "submitted by /u/Artistic_Dj_6895 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9351
-      },
-      {
-        "id": "babf33609a57260c",
-        "title": "A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft's consolidated Copilot team efforts to catch up with OpenAI and Anthropic (Sebastian Herrera/Fortune)",
-        "url": "https://www.techmeme.com/260628/p6#a260628p6",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782626401000,
-        "summary": "Sebastian Herrera / Fortune: A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft's consolidated Copilot team efforts to catch up with OpenAI and Anthropic — Andreou, who once led product at social media firm Snap, is head of Microsoft Copilot. — Early this year, Jacob Andreou had a crucial goal.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9902
-      },
-      {
-        "id": "7b0040d22572b204",
-        "title": "Masayoshi Son questioned Musk's orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years (Tim Higgins/Wall Street Journal)",
-        "url": "https://www.techmeme.com/260628/p5#a260628p5",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782625200000,
-        "summary": "Tim Higgins / Wall Street Journal: Masayoshi Son questioned Musk's orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years — SoftBank's Masayoshi Son thinks the math doesn't support space-based data centers — Some people have expressed skepticism …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0626
       }
     ],
     "science": [
+      {
+        "id": "6dd6871d9734280c",
+        "title": "Trump-Shuttered Climate Change Site Now Back Online In Nonprofit Hands",
+        "url": "https://news.slashdot.org/story/26/06/29/0115229/trump-shuttered-climate-change-site-now-back-online-in-nonprofit-hands?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1782707640000,
+        "summary": "Donald Trump shuttered the web site Climate.gov in 2025, cutting off public access to climate information from America's National Oceanic and Atmospheric Administration (NOAA). But \"former members of the site's team have brought much of it back at a new domain,\" reports The Register: \"Trusted climate information should not disappear when politics change,\" Climate.us managing director Rebecca Linds",
+        "tags": [
+          "earth"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0403
+      },
+      {
+        "id": "5ecdfbdb51239a31",
+        "title": "The order of species loss alters how grasslands maintain stability, study finds",
+        "url": "https://phys.org/news/2026-06-species-loss-grasslands-stability.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782706206000,
+        "summary": "Grasslands account for roughly 40% of terrestrial ecosystems and are paramount to global food security. Wild grasslands provide food for livestock and habitat for pollinators and act as a carbon sink in the era of climate change. Maintaining the health of native grasslands is a critical component of protecting the human food supply and sustaining biodiversity in the face of rising global temperatu",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0028
+      },
+      {
+        "id": "a11233b7c929838b",
+        "title": "Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder",
+        "url": "https://arxiv.org/abs/2606.27411",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27411v1 Announce Type: cross Abstract: We study a quantum autoencoder (QAE) for compression-driven anomaly detection in brain MRI data. The approach leverages angle encoding to map image patches into quantum states, followed by a variational encoder-decoder architecture trained to discard information via auxiliary trash qubits. Anomaly scores reflect the degree to which inputs resist co",
+        "tags": [
+          "quant-ph",
+          "cs.ai",
+          "eess.iv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "69b961fe41782f95",
+        "title": "GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana",
+        "url": "https://arxiv.org/abs/2606.27413",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27413v1 Announce Type: cross Abstract: Understanding which genes control which traits in an organism remains one of the central challenges in biology. Despite significant advances in data collection technology, our ability to map genes to traits is still limited. This genome-to-phenome (G2P) challenge spans several problem domains, including plant breeding, and requires methods capable ",
+        "tags": [
+          "q-bio.gn",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "26c5e77ac2a143f9",
+        "title": "Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization",
+        "url": "https://arxiv.org/abs/2606.27767",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27767v1 Announce Type: new Abstract: Optimizing functionals over the space of probability measures is now ubiquitous in machine learning. A widely used approach is to perform the optimization directly over the Wasserstein space, but many objective functionals of practical interest are non-convex along Wasserstein geodesics, making the analysis of standard first-order methods challenging",
+        "tags": [
+          "cs.lg",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1113
+      },
+      {
+        "id": "a08da342525f890e",
+        "title": "PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding",
+        "url": "https://arxiv.org/abs/2606.27440",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27440v1 Announce Type: new Abstract: Foundation models for structural biology have achieved remarkable performance in predicting biomolecular structure and show promise for the design of proteins and small molecules. Yet understanding which internal features drive their outputs remains challenging. Standard sparse autoencoders (SAEs), effective on transformer-style sequence embeddings, ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
+      {
+        "id": "cd56e1802646c7a8",
+        "title": "Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings",
+        "url": "https://arxiv.org/abs/2606.27672",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27672v1 Announce Type: new Abstract: Inspired by advances in natural language processing and computer vision, \"time-series foundation models\" (TSFMs) have recently been introduced with the promise of strong generalization across diverse time-series tasks, including forecasting, classification, and anomaly detection, as well as across domains such as healthcare, climate science, and manu",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
+      {
+        "id": "d981052236edf73d",
+        "title": "Class-frequency Guided Noise Schedule for Diffusion Models",
+        "url": "https://arxiv.org/abs/2606.27696",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27696v1 Announce Type: new Abstract: In this paper, we are the first to examine the correlations between class frequency and the multi-scale noise schedule within diffusion models. For score-based generative models, low-density regions often lead to inaccurately estimated scores, thereby compromising the generation quality. Although the multi-scale noise schedule can alleviate this issu",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
+      {
+        "id": "1b6a00be0799f6e5",
+        "title": "PerturbCellRL: Verifier-Guided Reinforcement Learning for Single-Cell Perturbation Prediction",
+        "url": "https://arxiv.org/abs/2606.27752",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782705600000,
+        "summary": "arXiv:2606.27752v1 Announce Type: new Abstract: Single-cell perturbation models can reduce costly wet-lab screening by predicting how cells respond transcriptionally to interventions. While recent generative models improve population-level prediction, individual generated cells are not explicitly checked for biological consistency. We introduce PerturbCellRL, a reinforcement learning (RL) framewor",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
       {
         "id": "498aca47fd858128",
         "title": "Australia investigating five social media giants for not enforcing ban on kids",
@@ -3683,146 +3829,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0192
-      },
-      {
-        "id": "8042c8938b250650",
-        "title": "The bond between humans and dogs remains remarkably consistent across societies, cross-cultural study reveals",
-        "url": "https://phys.org/news/2026-06-bond-humans-dogs-remarkably-societies.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782561602000,
-        "summary": "A new study by an international research team led by Friedrich Schiller University Jena and the Max Planck Institute for Evolutionary Anthropology (Leipzig) has revealed striking similarities in the way humans and dogs interact in very different societies. The research is published in the journal Scientific Reports.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "a6d4d62eca355728",
-        "title": "SpaceX Plans To Build 'Starpipe' Natural Gas Pipeline To Fuel Starship Rockets",
-        "url": "https://science.slashdot.org/story/26/06/26/0037206/spacex-plans-to-build-starpipe-natural-gas-pipeline-to-fuel-starship-rockets?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1782561600000,
-        "summary": "SpaceX plans to begin building an eight-mile natural gas pipeline called \"Starpipe\" next month to supply its Starbase launch site with fuel for a much higher cadence of Starship launches. The pipeline is expected to enter service in January 2027. Reuters reports: The pipeline plan, previously reported by Rio Grande Valley Business Journal, signals Musk's intent to accelerate Starship's development",
-        "tags": [
-          "space"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1289
-      },
-      {
-        "id": "c39f44a37fb04e1d",
-        "title": "UK sets new June temperature record for third day in a row: Met Office",
-        "url": "https://phys.org/news/2026-06-uk-june-temperature-day-row.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782560404000,
-        "summary": "The UK broke the record for a June temperature for the third day in a row on Friday, the Met Office weather agency said, as a sweltering heat wave strained schools and hospitals and drove down business.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
-      },
-      {
-        "id": "9b05318444ab60ad",
-        "title": "Primate evolution kept aging rates stable for 25 million years despite lifespan gaps",
-        "url": "https://phys.org/news/2026-06-primate-evolution-aging-stable-million.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782560401000,
-        "summary": "Biologists group animals with similar traits into broad categories called orders. Despite their similarities, animal species in the same order can have very different average lifespans.",
-        "tags": [
-          "evolution"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "93be490367e27dc6",
-        "title": "Martian mocha, anyone? This futuristic coffee machine uses NASA data to give you a taste of 3 different brews from the next 100 years",
-        "url": "https://www.techradar.com/tech/martian-mocha-anyone-this-futuristic-coffee-machine-uses-nasa-data-to-give-you-a-taste-of-3-different-brews-from-the-next-100-years",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1782559800000,
-        "summary": "Using data from NASA and the UK’s Royal Botanical Society, one designer has developed a Mars-flavored coffee.",
-        "tags": [
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8453
-      },
-      {
-        "id": "3329ef41adcdbb1b",
-        "title": "Farmers fear drought as Italy's longest river runs dry",
-        "url": "https://phys.org/news/2026-06-farmers-drought-italy-longest-river.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782559203000,
-        "summary": "Seawater is seeping into Italy's longest river as the waterway starts to run dry in the heat wave, hitting a farming heartland that produces the milk for Parmesan cheese.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
-      },
-      {
-        "id": "1b44f004d3ff3113",
-        "title": "Germany sees hottest temperature on record of 41.3C: Weather service",
-        "url": "https://phys.org/news/2026-06-germany-hottest-temperature-413c-weather.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782559201000,
-        "summary": "Germany saw its highest temperature ever recorded Friday at 41.3°C (106.3°F), according to preliminary weather service data, as the country braces for the possibility of even higher temperatures over the weekend.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
-      },
-      {
-        "id": "31783198bbcfab82",
-        "title": "A large, harmless asteroid will zip past Earth this weekend",
-        "url": "https://phys.org/news/2026-06-large-harmless-asteroid-earth-weekend.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782558095000,
-        "summary": "A large asteroid will zip past Earth this weekend, but don't worry: It poses no danger.",
-        "tags": [
-          "planetary sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0162
-      },
-      {
-        "id": "4c8f9cd56b66c497",
-        "title": "A Quantum Magic 8-Ball",
-        "url": "https://hackaday.com/2026/06/27/a-quantum-magic-8-ball/",
-        "source": "Hackaday",
-        "lane": "science",
-        "published_ts": 1782558038000,
-        "summary": "If you ever cracked open one of those Magic 8-Ball toys, you found little more than a polyhedron floating in some dark-colored fluid. It was a quasi-random way of asking …read more",
-        "tags": [
-          "toy hacks",
-          "magic",
-          "magic 8-ball",
-          "physics",
-          "qrng",
-          "quantum"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1617
       }
     ]
   },
