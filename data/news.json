@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-06-30T07:46:06.290696+00:00",
+  "generated_at": "2026-06-30T08:43:42.572540+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "2ca9cefa7b56580d",
+        "title": "The Supreme Court just made it harder for police to track your phone",
+        "url": "https://thenextweb.com/news/scotus-geofence-warrants-phone-location-privacy",
+        "source": "The Next Web",
+        "lane": "gadgets",
+        "published_ts": 1782807134000,
+        "summary": "Your phone keeps a minute-by-minute diary of where you go. The US Supreme Court has now ruled that police cannot simply demand it. In a major win for digital privacy, the court said geofence searches need a warrant. The 6-3 decision lands on a practice that has quietly spread through US policing. When investigators have […] This story continues at The Next Web",
+        "tags": [
+          "data and security",
+          "google",
+          "privacy",
+          "united states",
+          "government and policy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.891
+      },
+      {
+        "id": "a2976cd3c8d55988",
+        "title": "If you kill every Fable NPC, Playground Games says the world will 'stay empty for some time' before being repopulated by 'full NPCs'",
+        "url": "https://www.techradar.com/gaming/if-you-kill-every-fable-npc-playground-games-says-the-world-will-stay-empty-for-some-time-before-being-repopulated-by-full-npcs",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1782806928000,
+        "summary": "Playground Games has confirmed that if Fable players, for some reason, decide to kill every NPC in a settlement, they will repopulate over time.",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8405
+      },
       {
         "id": "5a3401fc86d0cc97",
         "title": "The fantastic and 4.5-star-rated Breville Barista Express drops to its lowest-ever price on Amazon",
@@ -925,41 +959,63 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9169
-      },
-      {
-        "id": "22edb2da57e235ed",
-        "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 — resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition",
-        "url": "https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1782753075000,
-        "summary": "After Nvidia CEO Jensen Huang said that \"it's a good idea\" to consider re-introducing older GPUs made on trailing process nodes, the five-year-old RTX 3060 is back on e-tailer shelves, priced at $339.",
-        "tags": [
-          "gpus",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0234
-      },
-      {
-        "id": "da64c058d6deb86e",
-        "title": "Apple Seeds Third iOS 26.6 and iPadOS 26.6 Betas to Developers",
-        "url": "https://www.macrumors.com/2026/06/29/apple-seeds-ios-26-6-beta-3/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782753000000,
-        "summary": "Apple today seeded the third betas of upcoming iOS 26.6 and iPadOS 26.6 updates to developers for testing purposes, with the software coming two weeks after Apple seeded the second betas. Registered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update. With iOS 27 set to launch in September, Apple is wrapping up",
-        "tags": [
-          "featured",
-          "ios 26"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0628
       }
     ],
     "innovation": [
+      {
+        "id": "90fc606292e53be3",
+        "title": "Chrome is putting things on your computer you never agreed to",
+        "url": "https://thenextweb.com/news/chrome-ai-silent-install-malicious-extension-privacy",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1782807839000,
+        "summary": "Your browser has been busy on your behalf. This week brought two reminders that Chrome can put things on your machine you never agreed to. One came from Google. One came from an impostor. Both used the same quiet machinery. Chrome runs on billions of devices, which makes it one of the most powerful pieces […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "google",
+          "privacy",
+          "security",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8943
+      },
+      {
+        "id": "fc302fe8e1180aa5",
+        "title": "Web Tool Lets You Take Steam Controller for a Drive",
+        "url": "https://hackaday.com/2026/06/30/web-tool-lets-you-take-steam-controller-for-a-drive/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782806425000,
+        "summary": "One of the simplest robots to make is a bristlebot — a motor with an offset weight is attached to the head of a toothbrush, and the resulting vibrations will …read more",
+        "tags": [
+          "games",
+          "robots hacks",
+          "offset weight motor",
+          "robot",
+          "rumble motors",
+          "steam controller"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0651
+      },
+      {
+        "id": "0cc93e6b8193135d",
+        "title": "NASA launches robot to rescue aging Swift telescope from fiery demise",
+        "url": "https://phys.org/news/2026-06-nasa-robot-aging-swift-telescope.html",
+        "source": "Phys.org",
+        "lane": "innovation",
+        "published_ts": 1782805625000,
+        "summary": "NASA on Tuesday is set to launch a daring robotic rescue mission, a long-shot bid to prevent one of its aging telescopes from vanishing into dust.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0818
+      },
       {
         "id": "e31503b042a768bb",
         "title": "US lawsuit accuses Samsung, SK Hynix and Micron of worsening the RAM crisis by fixing memory prices and supply",
@@ -1019,6 +1075,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0536
+      },
+      {
+        "id": "f730ceeef9cb6cd0",
+        "title": "Five Chinese tech and advanced manufacturing companies launch Hong Kong listings, seeking to raise up to $5.6B, led by Apple supplier Luxshare's $3.15B offering (Reuters)",
+        "url": "https://www.techmeme.com/260630/p2#a260630p2",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782795001000,
+        "summary": "Reuters: Five Chinese tech and advanced manufacturing companies launch Hong Kong listings, seeking to raise up to $5.6B, led by Apple supplier Luxshare's $3.15B offering — Five Chinese technology and advanced manufacturing companies launched Hong Kong listings on Tuesday to raise up to HK$44.1 billion …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.002
       },
       {
         "id": "68467fef5591e55f",
@@ -1835,75 +1904,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7751
-      },
-      {
-        "id": "845ad25094cf990d",
-        "title": "Sources: component and supplier lists, and photos of iPhone 18 Pro models, are among files a ransomware group stole from Apple's Indian supplier Tata (Reuters)",
-        "url": "https://www.techmeme.com/260629/p34#a260629p34",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782758408000,
-        "summary": "Reuters: Sources: component and supplier lists, and photos of iPhone 18 Pro models, are among files a ransomware group stole from Apple's Indian supplier Tata — Sensitive lists of components and suppliers, and photos of Apple's upcoming iPhone 18 Pro models are part of files posted on the dark web …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9962
-      },
-      {
-        "id": "44ce73d242caebde",
-        "title": "2026 Frikkin Lasers Challenge: Super-Simple Laser Precision for Your Stargazing",
-        "url": "https://hackaday.com/2026/06/29/2026-frikkin-lasers-challenge-super-simple-laser-precision-for-your-stargazing/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782757845000,
-        "summary": "Perhaps the hardest thing for amateur astronomers just starting out is finding the things you want to look at. Prolific maker [mircemk] has submitted a quick-and-easy star-hopper device that will …read more",
-        "tags": [
-          "contests",
-          "laser hacks",
-          "2026 frikkin laser contest",
-          "amateur astronomy",
-          "binoculars",
-          "laser pointer"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1585
-      },
-      {
-        "id": "7dce240f8a810175",
-        "title": "Linux isn't immune to malware — the AUR just proved it",
-        "url": "https://www.makeuseof.com/linux-isnt-immune-to-malware-the-aur-just-proved-it/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782757818000,
-        "summary": "Everyone and everything is vulnerable.",
-        "tags": [
-          "security",
-          "arch linux"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8441
-      },
-      {
-        "id": "fab274f7f2971d43",
-        "title": "CUDA emulator for AMD GPUs Zluda loses funding with v6 release — embattled project goes back to hobby status but now includes 32-bit PhysX support",
-        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/cuda-emulator-for-amd-gpus-zluda-loses-funding-with-v6-release-embattled-project-goes-back-to-hobby-status-but-now-includes-32-bit-physx-support",
-        "source": "Tom's Hardware",
-        "lane": "innovation",
-        "published_ts": 1782757761000,
-        "summary": "Zluda is back to a hobby, as the open-source project has lost commercial funding with version 6 but added early 32-bit PhysX support.",
-        "tags": [
-          "gpu drivers",
-          "pc components",
-          "gpus"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9431
       }
     ],
     "ai": [
+      {
+        "id": "1872204578bbf7ec",
+        "title": "Your AI agent just got a lot more accessible with OpenClaw's new Android app",
+        "url": "https://www.androidpolice.com/ai-agent-more-accessible-with-openclaw-new-android-app/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1782806415000,
+        "summary": "Your AI agent is now just a tap away",
+        "tags": [
+          "google play store",
+          "productivity"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.065
+      },
       {
         "id": "cb8119ab10e9bfad",
         "title": "Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents (Stephanie Stacey/Financial Times)",
@@ -1945,6 +1964,19 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.9129
+      },
+      {
+        "id": "3f5877e98ffdf134",
+        "title": "US political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily (Stuart A. Thompson/New York Times)",
+        "url": "https://www.techmeme.com/260630/p3#a260630p3",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782798302000,
+        "summary": "Stuart A. Thompson / New York Times: US political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily — A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0198
       },
       {
         "id": "7f46e5b549f7445e",
@@ -2821,40 +2853,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9319
-      },
-      {
-        "id": "5518e8eb000f7685",
-        "title": "Ozone loss was a thing even before CFCs were widely used",
-        "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782759623000,
-        "summary": "With today’s scientific tools, the problem could have been spotted in the 1950s.",
-        "tags": [
-          "science",
-          "air pollution",
-          "montreal protocol",
-          "ozone hole",
-          "ozone layer"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9641
-      },
-      {
-        "id": "1ba8e96145c760ff",
-        "title": "Ozone depletion began decades before discovery of ozone hole, scientists find",
-        "url": "https://phys.org/news/2026-06-ozone-depletion-began-decades-discovery.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1782759611000,
-        "summary": "The Antarctic ozone hole was discovered in 1985, when scientists observed a severe depletion in Earth's protective layer of stratospheric ozone. Industrial chemicals known as chlorofluorocarbons (CFCs), then widely used as refrigerants, propellants, foam-blowing agents and solvents, were at the root of the ozone depletion. After a concerted global effort to phase out the use of CFCs, ozone today i",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0189
       }
     ],
     "science": [
