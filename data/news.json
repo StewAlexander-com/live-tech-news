@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-06-30T03:23:23.042781+00:00",
+  "generated_at": "2026-06-30T04:47:59.006828+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "53f8c53010030052",
+        "title": "Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units (Nikkei Asia)",
+        "url": "https://www.techmeme.com/260630/p1#a260630p1",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1782794444000,
+        "summary": "Nikkei Asia: Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units — TAIPEI — Major Chinese smartphone makers including Xiaomi, Oppo and Vivo have told suppliers they will again cut shipment targets …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9977
+      },
       {
         "id": "b3808b1d7892be77",
         "title": "New Galaxy Z Fold 8 and Z Flip 8 renders just dropped, instantly turning heads",
@@ -946,26 +959,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0624
-      },
-      {
-        "id": "bc8447aa4e704efc",
-        "title": "Apple Releases Third watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
-        "url": "https://www.macrumors.com/2026/06/29/apple-seeds-watchos-26-6-beta-3/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782752880000,
-        "summary": "Apple today provided developers with the third betas of upcoming watchOS 26.6, tvOS 26.6, and visionOS 26.6 betas for testing purposes. The software comes two weeks after Apple seeded the second betas. The software updates are available through the Settings app on each device, and because these are developer betas, a free developer account is required. There's no word on what's in the software as ",
-        "tags": [
-          "apple tv",
-          "vision pro",
-          "watchos"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0621
       }
     ],
     "innovation": [
+      {
+        "id": "72acda7eb8d1abd6",
+        "title": "TrajRS: Towards Certified Robustness in Pedestrian Trajectory Prediction",
+        "url": "https://arxiv.org/abs/2606.28716",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28716v1 Announce Type: new Abstract: The robustness of trajectory prediction models is crucial for developing safe autonomous driving systems. Adversarial attacks on trajectory prediction can significantly impair the accuracy of predicted trajectories, leading to hazardous driving behaviors. While heuristic defense strategies have been implemented to enhance the robustness of trajectory",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.034
+      },
+      {
+        "id": "358cd62c56204b4c",
+        "title": "SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics",
+        "url": "https://arxiv.org/abs/2606.29247",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.29247v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models represent a promising direction for embodied intelligence in surgical robotics. Despite the prevalence of VLA benchmarks for general robotics, standardized evaluation platforms specifically designed for surgical contexts remain absent. To address this limitation, we present SurgVLA-Bench, the first comprehensive be",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.034
+      },
       {
         "id": "03bf6c79fcebded7",
         "title": "A good idea is not enough: Experts explain what helps digital health start-ups succeed",
@@ -1883,42 +1909,220 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0408
-      },
-      {
-        "id": "26f8c7fc3d75c68d",
-        "title": "The 6 VS Code extensions I wish I'd installed years ago",
-        "url": "https://www.makeuseof.com/vs-code-extensions-you-should-install/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782754279000,
-        "summary": "Stop coding without these extensions",
-        "tags": [
-          "productivity",
-          "visual studio code",
-          "text editor"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8422
-      },
-      {
-        "id": "60850ad4affd0b46",
-        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-        "url": "https://github.com/deepreinforce-ai/Ornith-1",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1782753377000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1095
       }
     ],
     "ai": [
+      {
+        "id": "e04991ce513022c8",
+        "title": "The AI jobs debate just got messier",
+        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1782792060000,
+        "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+        "tags": [
+          "ai",
+          "ramp",
+          "ai job loss",
+          "revelio labs"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7958
+      },
+      {
+        "id": "c345fe659b525207",
+        "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+        "url": "https://arxiv.org/abs/2606.28556",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28556v1 Announce Type: new Abstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opportunities for clinical applications such as decision support and triaging. However, existing medical AI benchmarks are fragmented: some support multi-turn dialogues but lack images, while others provide multimodal inputs but f",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "c004b72efc8b0995",
+        "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+        "url": "https://arxiv.org/abs/2606.28692",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28692v1 Announce Type: new Abstract: Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindications, and evolving biomedical knowledge to select an appropriate therapy. It is inherently iterative: candidates are weighed against many constraints, revised as evidence emerges, and grounded in verifiable sources. Here we ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "e10410fad8c47a50",
+        "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+        "url": "https://arxiv.org/abs/2606.28710",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28710v1 Announce Type: new Abstract: We ask under what conditions an agent with a harm-minimizing policy can displace an approval-seeking (RLHF) agent in a competitive market, and when that policy is sufficient to prevent community harm. We use evolutionary game theory (finite-population Moran-Fermi pairwise comparison) to formalize this subject to assumptions of wisher hindsight, peer ",
+        "tags": [
+          "cs.ai",
+          "cs.gt"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "c7200903a4ac8acd",
+        "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+        "url": "https://arxiv.org/abs/2606.28747",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28747v1 Announce Type: new Abstract: Recent artificial intelligence (AI) systems have shown remarkable progress in mathematical reasoning. Many existing approaches, including large language models (LLMs), draw on human prior knowledge in the form of mathematical text, code, or theorem libraries. Although these approaches are highly effective in practice, it remains an open question whet",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "d0dd747ac93c28f3",
+        "title": "Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries",
+        "url": "https://arxiv.org/abs/2606.28960",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28960v1 Announce Type: new Abstract: Physicians now pose millions of clinical questions to AI tools each week, yet these tools are evaluated largely on hypothetical or exam-style questions, not those actually asked in practice. We report a blinded evaluation built on 620 Real-world Point-Of-Care Queries (Real-POCQi) submitted to the OpenEvidence (OE) platform by physicians spanning 30 s",
+        "tags": [
+          "cs.ai",
+          "q-bio.qm",
+          "stat.ap"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "82ae8291fb9c25d0",
+        "title": "Customized Generative AI Agent for Transportation Engineering Practice: A Development and Continued Pre-training Guideline",
+        "url": "https://arxiv.org/abs/2606.29014",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.29014v1 Announce Type: new Abstract: Recent advancements in generative artificial intelligence (AI) and large language models (LLMs) have shown significant promise in automating complex reasoning, summarization, and question-answering tasks. However, the effectiveness of general-purpose LLMs in specialized engineering domains remains limited due to insufficient exposure to technical sta",
+        "tags": [
+          "cs.ai",
+          "cs.dl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "2b041f01e25cc87a",
+        "title": "Can AI Draw Science? A Benchmark for Evaluating Scientific Figure Generation by Text-to-Image and Multimodal Models",
+        "url": "https://arxiv.org/abs/2606.28406",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28406v1 Announce Type: new Abstract: Text-to-image and multimodal generative models are increasingly used to produce scientific figures such as mechanism diagrams, experimental-design schematics, conceptual frameworks, and graphical abstracts. Yet existing image-generation benchmarks (e.g., GenEval, T2I-CompBench, DPG-Bench) evaluate natural images and measure compositionality, object c",
+        "tags": [
+          "cs.lg",
+          "cs.cv",
+          "cs.gr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "b631de69e2a7708b",
+        "title": "Learning to Distributedly Estimate under Partially Known Dynamics: A Covariance-Agnostic Neural Kalman Consensus Filter",
+        "url": "https://arxiv.org/abs/2606.28441",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28441v1 Announce Type: new Abstract: Online latent state estimation constitutes a fundamental challenge within the artificial intelligence field, serving as a foundational tool for diverse applications, including sequential decision making, anomaly and change-point detection. In this paper, a novel online distributed sensing framework, where agents collaborate and exchange information t",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ma",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "7e38152fdfbe87c6",
+        "title": "Singular Learning and Occam's Razor in Deep Monomial Networks",
+        "url": "https://arxiv.org/abs/2606.28464",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28464v1 Announce Type: new Abstract: In the optimization of neural networks, gradient dynamics are influenced by critical points that arise from the model's architecture. These critical points occur where the Jacobian of the model's parametrization is rank-deficient, and are the most pronounced singularities studied in Singular Learning Theory. We investigate such points in deep fully-c",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "9db4276c5b9cc929",
+        "title": "An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations",
+        "url": "https://arxiv.org/abs/2606.28467",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28467v1 Announce Type: new Abstract: Appliance-level energy monitoring in office buildings produces noisy alerts that non-expert facility managers struggle to use. This paper proposes an end-to-end agentic pipeline that combines deep time-series forecasting, variational anomaly detection, and LLM-based reasoning to generate prioritized, actionable maintenance recommendations. The system",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "35d9bd0b179aa2d0",
+        "title": "NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
+        "url": "https://arxiv.org/abs/2606.28546",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28546v1 Announce Type: new Abstract: Recent advances in AI-driven weather and climate modeling have improved forecast skill while reducing computational cost. However, existing data-driven approaches are limited in their ability to model coupled Earth system dynamics, which is required for extending predictability beyond the ~2-week horizon. To address this, we introduce NIVA, a multimo",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "0286f8aa692b294e",
+        "title": "Improving Coherence in Hierarchical Time Series Forecasting using Structured Temporal Fusion",
+        "url": "https://arxiv.org/abs/2606.28553",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28553v1 Announce Type: new Abstract: In many real-world applications, such as retail sales, energy usage, and supply chain planning, forecasting is performed across hierarchical structures. These structures often represent aggregations (e.g., products to categories to regions), where forecasts must not only be accurate but also coherent, meaning that lower-level predictions sum correctl",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
       {
         "id": "b1d0582b4a0bf093",
         "title": "Could AI create a new form of inequality in South Africa?",
@@ -2679,225 +2883,122 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7873
-      },
-      {
-        "id": "541013128281db18",
-        "title": "South Korean tech giants commit over $550B to ease ‘ RAMageddon’",
-        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782756468000,
-        "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-        "tags": [
-          "ai",
-          "hardware",
-          "tc",
-          "memory tech",
-          "ramaggedon",
-          "samsung"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.806
-      },
-      {
-        "id": "6977639dc7b651b7",
-        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-        "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782756206000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:3"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0156
-      },
-      {
-        "id": "47858d82f692b66b",
-        "title": "Arena, the AI leaderboard everyone uses, just became a 100 million dollar business",
-        "url": "https://thenextweb.com/news/arena-ai-leaderboard-100-million-revenue-evaluation",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782756029000,
-        "summary": "Arena, the crowdsourced AI leaderboard that started as a UC Berkeley research project in 2023, has reached 100 million dollars in annualized revenue just eight months after launching its first commercial product. The platform is best known for letting users compare two anonymous AI model responses side by side and vote on which is better. […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9561
-      },
-      {
-        "id": "f32d92b90beb2660",
-        "title": "AI agents are not your “coworkers”",
-        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1782756000000,
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
-        "tags": [
-          "artificial intelligence",
-          "app",
-          "artificial intelligence",
-          "the algorithm"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1152
-      },
-      {
-        "id": "0349edbe7bf08fa8",
-        "title": "How the AI bubble could pop and take down the global economy, according to the BIS",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1782755700000,
-        "summary": "Central bank for central banks sees shades of dotcom mania in hyperscaler capex binge",
-        "tags": [
-          "ai and ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1322
-      },
-      {
-        "id": "224ebca99ca58159",
-        "title": "Kalshi sues Illinois over new tax on prediction market sports bets",
-        "url": "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782755291000,
-        "summary": "Illinois now a key battleground in fight over prediction market sports bets.",
-        "tags": [
-          "policy",
-          "cftc",
-          "illinois",
-          "kalshi",
-          "online gambling",
-          "prediction market"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9761
-      },
-      {
-        "id": "0577ae7771bf5ec6",
-        "title": "Cursor launches an iOS app that lets developers run coding agents from their phone",
-        "url": "https://thenextweb.com/news/cursor-mobile-app-coding-agents-phone",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782755269000,
-        "summary": "Cursor launched an iOS mobile app today that lets developers spin up and manage AI coding agents directly from their phone. The app connects to the desktop version of Cursor and allows users to start new coding sessions, review agent output, and interact with running agents while away from their computer. It is the clearest […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "artificial intelligence",
-          "spacex"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9522
-      },
-      {
-        "id": "83213a94c35d8b7d",
-        "title": "What universities are getting wrong about teaching in the age of AI",
-        "url": "https://phys.org/news/2026-06-universities-wrong-age-ai.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1782754801000,
-        "summary": "It's an understatement that educators worry about students using AI to offload the cognitive struggle that is critical for learning. That worry is well founded.",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0945
-      },
-      {
-        "id": "698c34d3c53a50b1",
-        "title": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
-        "url": "https://www.reddit.com/r/technology/comments/1uizc18/ai_zillionaires_are_starting_to_get_scared_as_the/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782754786000,
-        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0193
-      },
-      {
-        "id": "12e86266e9747e4c",
-        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782754757000,
-        "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-        "tags": [
-          "ai",
-          "startups",
-          "arena",
-          "lmarena",
-          "revenue"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8025
-      },
-      {
-        "id": "5cd0d32716a19f8e",
-        "title": "California strikes a deal with Anthropic to expand the use of Claude products across state agencies and local governments at a 50% discount (Christine Mui/Politico)",
-        "url": "https://www.techmeme.com/260629/p32#a260629p32",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782754202000,
-        "summary": "Christine Mui / Politico: California strikes a deal with Anthropic to expand the use of Claude products across state agencies and local governments at a 50% discount — “A lot of departments are going to switch their usage to this contract, and that's very much our intent,” Chris Given, California's chief information officer …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9904
-      },
-      {
-        "id": "23f8d6f6025df1dc",
-        "title": "Tidal isn't banning AI music, but it won't pay people who upload it",
-        "url": "https://www.engadget.com/2204169/tidal-isnt-banning-ai-music-but-it-wont-pay-people-who-upload-it/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1782753816000,
-        "summary": "Tidal's new policy says that 100-percent AI-generated music will be demonetized.",
-        "tags": [
-          "streaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7515
-      },
-      {
-        "id": "965ea178e742a7e6",
-        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782752630000,
-        "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-        "tags": [
-          "ai",
-          "ai coding",
-          "cursor"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7465
       }
     ],
     "science": [
+      {
+        "id": "ad99a159aad6da3b",
+        "title": "Geometric Measurements of the Axiom of Choice in Neural Proof Embeddings",
+        "url": "https://arxiv.org/abs/2606.28572",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28572v1 Announce Type: new Abstract: The axiom of choice has divided the foundations of mathematics for over a century, but the distinction between classical and constructive proofs has remained a philosophical and methodological one. We use Lean 4's kernel-level tracking of axiom dependence to show that the axiom of choice has a measurable geometric correlate in proof space that obeys ",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.lo",
+          "math.lo"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "beb639313262dac0",
+        "title": "A Path-Space Formulation of Prediction in World Models: From a Single Action to Prediction, Planning, and Irreversibility",
+        "url": "https://arxiv.org/abs/2606.28751",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28751v1 Announce Type: new Abstract: We propose a path-space formulation of prediction in AI world models. Rather than sequences of one-step conditional distributions, we argue that a world model implicitly defines a probability measure over future trajectories. In the local regime where latent dynamics admit an effective Markovian description, this path measure takes the Onsager-Machlu",
+        "tags": [
+          "cs.lg",
+          "cond-mat.stat-mech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "c0cf631df4f8757a",
+        "title": "Active Quantum Kernel Acquisition for Gaussian Process Regression",
+        "url": "https://arxiv.org/abs/2606.28833",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28833v1 Announce Type: new Abstract: Quantum kernel estimation on near-term hardware is shot-budgeted: every entry of the kernel Gram matrix is a Bernoulli expectation that must be sampled with a finite number of circuit executions. Recent work on quantum kernel classification has shown that allocating shots non-uniformly across kernel entries, weighted by their downstream task sensitiv",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "ecf0df7b3314dc23",
+        "title": "MALOQ: Massively Accelerated Learning of Operators for Quantum Transport",
+        "url": "https://arxiv.org/abs/2606.28911",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28911v1 Announce Type: new Abstract: Machine-learned (ML) operator models can be trained to predict density functional theory (DFT) Hamiltonian/density matrices at significantly reduced computational cost, thus extending electronic-structure calculations to previously unfeasible scales. Here, we introduce MALOQ (Massively Accelerated Learning of Operators for Quantum Transport), an appl",
+        "tags": [
+          "cs.lg",
+          "cond-mat.mtrl-sci",
+          "cs.dc",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1167
+      },
+      {
+        "id": "fd43e313f6d86156",
+        "title": "S-GAI: Spectral Geometry-Aware Initialization for Sigmoidal MLPs -- From Dataset Geometry to Network Weights",
+        "url": "https://arxiv.org/abs/2606.28444",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28444v1 Announce Type: new Abstract: Classical universal approximation theorems establish the expressive power of sigmoidal multilayer perceptrons, but they do not prescribe how initial weights should encode the geometry of a data distribution. We propose S-GAI, a spectral geometry-aware initialization framework for one-hidden-layer sigmoidal MLPs. Starting from the constructive idea th",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.034
+      },
+      {
+        "id": "0636627b2c5e1adb",
+        "title": "A Gravitational Interpretation of Fine-Tuning Reversion",
+        "url": "https://arxiv.org/abs/2606.28525",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28525v1 Announce Type: new Abstract: Fine-tuning on harmless data can partially undo behaviors acquired earlier in training. Safety can erode under benign post-alignment updates, unlearned capabilities can re-emerge, latent traits can transfer through apparently unrelated supervision, and related post-alignment fragility appears in other generative settings. We argue these phenomena are",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.034
+      },
+      {
+        "id": "123c7b14b0c69be3",
+        "title": "Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts (Semafor)",
+        "url": "https://www.techmeme.com/260629/p50#a260629p50",
+        "source": "Techmeme",
+        "lane": "science",
+        "published_ts": 1782791728000,
+        "summary": "Semafor: Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts — THE SCOOP — The Trump administration has spoken with SpaceX about donating stock to the children's savings accounts known …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9833
+      },
       {
         "id": "43cce9aa38978b62",
         "title": "Europe's deadly heat wave scorches east, Slovakia hits record",
@@ -3700,111 +3801,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0582
-      },
-      {
-        "id": "14a6803c5b458d36",
-        "title": "Nova V612 Scuti's light curve becomes audio, revealing how stellar shocks evolved",
-        "url": "https://phys.org/news/2026-06-nova-v612-scuti-audio-revealing.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782754804000,
-        "summary": "Researchers in the Department of Physics & Astronomy at Texas Tech University recently used audio to represent the spectacular explosion of a star in deep space while also delving into the data to better understand how the phenomenon unfolded.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0135
-      },
-      {
-        "id": "ad8748db6c5246dc",
-        "title": "Switching spin states in manganese ions with light opens new path for molecular memory",
-        "url": "https://phys.org/news/2026-06-states-manganese-ions-path-molecular.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782753608000,
-        "summary": "Researchers at Johannes Gutenberg University Mainz (JGU) have developed a new way to use molecules as tiny data storage devices with a new manganese-based material. Until now, this was possible only with iron-containing molecular materials, which require very low temperatures—ranging from 100 to a maximum of 130 Kelvin (minus 173 to minus 143°C)—making their application significantly more difficul",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1004
-      },
-      {
-        "id": "61dee8827c14c93a",
-        "title": "Unintended climate trade-off: Clean air policies intensify urban heat island in humid cities, study finds",
-        "url": "https://phys.org/news/2026-06-unintended-climate-air-policies-urban.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782753606000,
-        "summary": "Researchers at the University of Hong Kong (HKU) have uncovered a critical, underrecognized trade-off in global environmental policies: While essential for improving public health, large-scale air pollution reductions are unintentionally intensifying warm-season surface urban heat islands (UHI) in humid climates. Published in Nature Cities, the findings highlight the urgent need for integrated pol",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0188
-      },
-      {
-        "id": "b0a70f1170213319",
-        "title": "Uncovering the trigger behind slow earthquakes",
-        "url": "https://phys.org/news/2026-06-uncovering-trigger-earthquakes.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782752409000,
-        "summary": "New research led by the University of New England's Dr. Timothy Chapman has uncovered the trigger behind slow earthquakes, providing valuable answers for those living in disaster-prone areas. The research has been published in Geology.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0168
-      },
-      {
-        "id": "cb31d32f2f4a3215",
-        "title": "Hawaiian short-eared owl deaths in Hawaiʻi primarily caused by vehicle collisions",
-        "url": "https://phys.org/news/2026-06-hawaiian-short-eared-owl-deaths.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782752401000,
-        "summary": "Trauma from vehicle collisions caused the majority of documented deaths for the Pueo (Hawaiian short-eared owl), according to a statewide study led by researchers at the University of Hawaiʻi at Mānoa. The findings represent the most extensive mortality assessment to date for this culturally significant raptor, which is native to the Hawaiian Islands.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0167
-      },
-      {
-        "id": "a2b4bd9565b4b36d",
-        "title": "First ever dinosaur found in Antarctica described for science",
-        "url": "https://phys.org/news/2026-06-dinosaur-antarctica-science.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782751209000,
-        "summary": "The first dinosaur fossil found on the Antarctic continent has been described scientifically. The fossil, a vertebra, was found on a British Antarctic Survey (BAS) expedition in 1985 but has only recently been recognized as that of a dinosaur. The paper, \"A titanosaurian sauropod dinosaur from the Late Cretaceous of Antarctica,\" is published in the journal Acta Palaeontologica Polonica.",
-        "tags": [
-          "paleontology & fossils"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0103
-      },
-      {
-        "id": "e391ff4258625189",
-        "title": "COVID-era renter protection law slashed Virginia evictions, research finds",
-        "url": "https://phys.org/news/2026-06-covid-era-renter-law-slashed.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782751203000,
-        "summary": "In 2020, Virginia received approximately $1 billion through a federal COVID-era emergency rental assistance program, which aimed to motivate landlords nationwide to postpone evictions of tenants who could no longer pay rent due to the pandemic. But in Virginia, lawmakers did not simply rely on landlords' goodwill.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0102
       }
     ]
   },
