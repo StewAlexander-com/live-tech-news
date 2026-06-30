@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-30T04:51:42.864204+00:00",
+  "generated_at": "2026-06-30T06:17:26.356113+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6c1f1b904b644690",
+        "title": "Popping the GPU Bubble",
+        "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1782796475000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:45"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.029
+      },
       {
         "id": "53f8c53010030052",
         "title": "Sources: Chinese smartphone makers like Xiaomi, Oppo, and Vivo told suppliers they will again cut 2026 shipment targets, with Xiaomi cutting 30% to ~95M units (Nikkei Asia)",
@@ -14,6 +30,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9977
+      },
+      {
+        "id": "f29c189381223157",
+        "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 — resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition",
+        "url": "https://www.reddit.com/r/technology/comments/1ujd3nj/legacy_nvidia_rtx_3060_12gb_returns_to_retail/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1782788012000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.961
       },
       {
         "id": "b3808b1d7892be77",
@@ -923,45 +955,54 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8475
-      },
-      {
-        "id": "8f6b63d4f09bfb5d",
-        "title": "Bigme HiBreak Dual 2 is a dual-screen phone with 6.13 inch E Ink and a 5 inch LCD displays",
-        "url": "https://liliputing.com/bigme-hibreak-dual-2-is-a-dual-screen-phone-with-6-13-inch-e-ink-and-a-5-inch-lcd-displays/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1782752959000,
-        "summary": "The Bigme HiBreak Dual 2 is an upcoming smartphone with two screens. On one side of the phone there’s a 6.13 inch E Ink display, and on the other there’s a 5 inch LCD screen. With a MediaTek Dimensity 8300 processor, the device should offer the performance of a mid-range smartphone, while letting you use a […] The post Bigme HiBreak Dual 2 is a dual-screen phone with 6.13 inch E Ink and a 5 inch L",
-        "tags": [
-          "news",
-          "bigme",
-          "bigme hibreak dual",
-          "bigme hibreak dual 2",
-          "dual screen",
-          "dual screen phone"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1877
-      },
-      {
-        "id": "9d4a85fcc8dbbb82",
-        "title": "Third macOS Tahoe 26.6 Beta Now Available for Developers",
-        "url": "https://www.macrumors.com/2026/06/29/apple-seeds-macos-tahoe-26-6-beta-3/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782752940000,
-        "summary": "Apple today provided the third beta of an upcoming macOS Tahoe 26.6 update to developers for testing purposes, with the update coming two weeks after Apple seeded the second beta. Developers can download the ‌macOS Tahoe‌ 26.6 update by opening up the System Settings app, selecting the General category, and then choosing Software Update. Beta Updates will need to be enabled, and a free developer a",
-        "tags": [
-          "featured",
-          "macos tahoe"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0624
       }
     ],
     "innovation": [
+      {
+        "id": "50c0b29d5daa7003",
+        "title": "Microsoft builds a bouncer to keep bots out of Teams meetings",
+        "url": "https://www.theregister.com/software/2026/06/30/microsoft-builds-a-bouncer-to-keep-bots-out-of-teams-meetings/5264199",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782799863000,
+        "summary": "Allows ISVs to put their names on the door so desirable bots always get in",
+        "tags": [
+          "software"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0479
+      },
+      {
+        "id": "9c685bef494a609d",
+        "title": "Dubai- and London-based 1001, which uses AI to improve aviation, port, and energy infrastructure efficiency in the Gulf, raised $30M led by Lux Capital (Matthew Martin/Semafor)",
+        "url": "https://www.techmeme.com/260630/p4#a260630p4",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782799833000,
+        "summary": "Matthew Martin / Semafor: Dubai- and London-based 1001, which uses AI to improve aviation, port, and energy infrastructure efficiency in the Gulf, raised $30M led by Lux Capital — THE SCOOP — Dubai- and London-based startup 1001 has raised $30 million from investors including US venture firm Lux Capital …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0776
+      },
+      {
+        "id": "4d473fa2134bd53e",
+        "title": "Making a Magnetic Core Memory USB Drive",
+        "url": "https://hackaday.com/2026/06/29/making-a-magnetic-core-memory-usb-drive/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782795624000,
+        "summary": "Some of us have felt somewhat nervous about the collapse of DRAM and NAND Flash memory supply in the consumer market, while others seem to have fully embraced it. Someone …read more",
+        "tags": [
+          "retrocomputing",
+          "core memory",
+          "magnetic core"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0536
+      },
       {
         "id": "68467fef5591e55f",
         "title": "Five Chinese tech and advanced manufacturing companies launched Hong Kong listings today to raise up to $5.6B, led by Apple supplier Luxshare's $3.15B offering (Reuters)",
@@ -1032,6 +1073,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9874
+      },
+      {
+        "id": "ed0e477e56483086",
+        "title": "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
+        "url": "https://www.theregister.com/security/2026/06/30/indias-central-bank-mandated-use-of-bank-domains-to-enhance-trust-but-its-registry-leaked-sensitive-info/5264152",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782786286000,
+        "summary": "Open API could reveal everything an attacker needs to impersonate bank officials",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9745
       },
       {
         "id": "1e11b0e913833dd3",
@@ -1843,73 +1899,68 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9053
-      },
-      {
-        "id": "25b8375eb8742507",
-        "title": "Valve threatens legal action against Dbrand over its unsanctioned Portal 2-inspired Companion Cube — edgy accessories manufacturer kills product after asking for licensing deal, admits it didn't have \"the right to make it\"",
-        "url": "https://www.reddit.com/r/technology/comments/1uj0d2p/valve_threatens_legal_action_against_dbrand_over/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782757025000,
-        "summary": "submitted by /u/ControlCAD [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9359
-      },
-      {
-        "id": "f58d017f523a8ba7",
-        "title": "I blamed npm for slow WSL builds — the real fix took five minutes",
-        "url": "https://www.makeuseof.com/i-blamed-npm-for-slow-wsl-builds-the-real-fix-took-five-minutes/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782756020000,
-        "summary": "Moving one folder quadrupled my build speeds without touching a single config.",
-        "tags": [
-          "windows",
-          "windows subsystem for linux",
-          "linux tips",
-          "windows tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8482
-      },
-      {
-        "id": "f42f31ed599a7837",
-        "title": "Discord is testing age verification with Incode and Google Wallet.",
-        "url": "https://www.reddit.com/r/technology/comments/1uizjbu/discord_is_testing_age_verification_with_incode/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782755239000,
-        "summary": "submitted by /u/vriska1 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9142
-      },
-      {
-        "id": "20282715118719b3",
-        "title": "Samsung Messages is dying next week, and it's taking one of Android's best features with it",
-        "url": "https://www.makeuseof.com/samsung-messages-is-dying-next-week-and-its-taking-one-of-androids-best-features-with-it/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782754856000,
-        "summary": "RIP sweet tags, I'll miss you.",
-        "tags": [
-          "android",
-          "samsung galaxy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8448
       }
     ],
     "ai": [
+      {
+        "id": "5aaf58464e9cf3de",
+        "title": "New study claims just 2% of schools in England have AI strategies — despite it being 'already embedded in day-to-day teaching and learning'",
+        "url": "https://www.techradar.com/pro/new-study-claims-just-2-percent-of-schools-in-england-have-ai-strategies-despite-it-being-already-embedded-in-day-to-day-teaching-and-learning",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1782799200000,
+        "summary": "Although AI is widely used in English schools, only 2% have formal strategies, leaving most struggling to grow adoption safely.",
+        "tags": [
+          "pro",
+          "ai platforms &amp; assistants"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9129
+      },
+      {
+        "id": "7f46e5b549f7445e",
+        "title": "Political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily (Stuart A. Thompson/New York Times)",
+        "url": "https://www.techmeme.com/260630/p3#a260630p3",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782798302000,
+        "summary": "Stuart A. Thompson / New York Times: Political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily — A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0688
+      },
+      {
+        "id": "643dd0abed9f503d",
+        "title": "Ford Rehires 'Gray Beard' Engineers After AI Falls Short",
+        "url": "https://tech.slashdot.org/story/26/06/29/0321238/ford-rehires-gray-beard-engineers-after-ai-falls-short?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "ai",
+        "published_ts": 1782797640000,
+        "summary": "Ford executives said they've hired 350 veteran engineers — some of them former employees — after AI and automated systems failed to deliver the desired quality, reports TechCrunch: Bloomberg reports the company's chief operating officer Kumar Galhotra told journalists that Ford had been \"relying more and more on automated quality systems\" with disappointing results. So the company \"brought back te",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1183
+      },
+      {
+        "id": "3d82cffc6dd53ce0",
+        "title": "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/30/south-koreas-hot-new-sensation-is-3s1f-a-quadrillion-won-ai-plan-not-a-band/5264175",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782795992000,
+        "summary": "Seoul plans to spend about $900 billion to become K-semiconductor powerhouse",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1085
+      },
       {
         "id": "e04991ce513022c8",
         "title": "The AI jobs debate just got messier",
@@ -2811,76 +2862,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9546
-      },
-      {
-        "id": "50a4a2ce2f774c07",
-        "title": "Google warns EU's plans to weaken its monopoly could expose user data",
-        "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1782757291000,
-        "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
-        "tags": [
-          "google",
-          "tech",
-          "europe",
-          "google",
-          "privacy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0655
-      },
-      {
-        "id": "30446989beb0d203",
-        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782756626000,
-        "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-        "tags": [
-          "ai",
-          "anthropic",
-          "california",
-          "gavin newsom"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7469
-      },
-      {
-        "id": "d5d29320bf41f800",
-        "title": "Baz releases Baz Planner, which uses four specialized AI agents to analyze code at the planning stage, and extends its seed funding by $9M to $17M (Mike Wheatley/SiliconANGLE)",
-        "url": "https://www.techmeme.com/260629/p33#a260629p33",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782756607000,
-        "summary": "Mike Wheatley / SiliconANGLE: Baz releases Baz Planner, which uses four specialized AI agents to analyze code at the planning stage, and extends its seed funding by $9M to $17M — Agentic coding startup Baz Technologies Inc. said today it's launching a new platform that sits between developers and the code bases they're working …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0783
-      },
-      {
-        "id": "526a8767551d5ce1",
-        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782756468000,
-        "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-        "tags": [
-          "ai",
-          "hardware",
-          "tc",
-          "memory tech",
-          "ramaggedon",
-          "samsung"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7873
       }
     ],
     "science": [
