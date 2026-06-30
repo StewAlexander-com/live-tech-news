@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T14:35:15.378776+00:00",
+  "generated_at": "2026-06-30T14:42:43.216873+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -20,6 +20,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8487
+      },
+      {
+        "id": "0650502e00b1e7ed",
+        "title": "Arm64 on the desktop? It’s spendy and it’s sluggish",
+        "url": "https://www.theregister.com/personal-tech/2026/06/30/arm64-on-the-desktop-its-spendy-and-its-sluggish/5264407",
+        "source": "The Register",
+        "lane": "gadgets",
+        "published_ts": 1782829800000,
+        "summary": "Even with lots of RAM, GPU, and fast disks, you probably don’t want it",
+        "tags": [
+          "personal tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0457
       },
       {
         "id": "f0beb0a5929f82f4",
@@ -962,24 +977,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.891
-      },
-      {
-        "id": "a2976cd3c8d55988",
-        "title": "If you kill every Fable NPC, Playground Games says the world will 'stay empty for some time' before being repopulated by 'full NPCs'",
-        "url": "https://www.techradar.com/gaming/if-you-kill-every-fable-npc-playground-games-says-the-world-will-stay-empty-for-some-time-before-being-repopulated-by-full-npcs",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782806928000,
-        "summary": "Playground Games has confirmed that if Fable players, for some reason, decide to kill every NPC in a settlement, they will repopulate over time.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8405
       }
     ],
     "innovation": [
+      {
+        "id": "8484f4578cb2f0a5",
+        "title": "AI chip startup Etched says it has raised $800M from investors including Jane Street and a venture firm linked to TSMC, and has signed sales contracts worth $1B (Dina Bass/Bloomberg)",
+        "url": "https://www.techmeme.com/260630/p16#a260630p16",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782830101000,
+        "summary": "Dina Bass / Bloomberg: AI chip startup Etched says it has raised $800M from investors including Jane Street and a venture firm linked to TSMC, and has signed sales contracts worth $1B — Nvidia rival says it has raised $800 million and has $1 billion in contracts. — AI chip startup Etched said it has raised $800 million …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0773
+      },
       {
         "id": "937ffbe836b86e5d",
         "title": "Cybersecurity company Aikido Security acquires Root, which has raised about $31M and develops an AI platform for securing open-source components (Meir Orbach/CTech)",
@@ -1158,6 +1171,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9441
+      },
+      {
+        "id": "f72f6cc4202d8306",
+        "title": "Grim new prediction market lets gamblers bet on raging wildfires",
+        "url": "https://www.reddit.com/r/technology/comments/1ujomig/grim_new_prediction_market_lets_gamblers_bet_on/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782824528000,
+        "summary": "submitted by /u/marketrent [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9198
       },
       {
         "id": "3928b4c842be11b5",
@@ -1874,45 +1902,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9412
-      },
-      {
-        "id": "a202e2ca69096bf9",
-        "title": "Hard Drive Speakers Crank Out Classic Demo",
-        "url": "https://hackaday.com/2026/06/29/hard-drive-speakers-crank-out-classic-demo/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1782774035000,
-        "summary": "Second Reality is a legendary demoscene release by Future Crew, which won Assembly 1993 with its technical and artistic mastery. [Niv Singer] decided to give the classic demo a spin …read more",
-        "tags": [
-          "misc hacks",
-          "demo",
-          "demoscene",
-          "hard drive",
-          "hard drive speakers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0767
-      },
-      {
-        "id": "a5456add357cd588",
-        "title": "6 completed fantasy series to read instead of waiting for The Winds of Winter",
-        "url": "https://www.makeuseof.com/completed-fantasy-series-read-the-winds-of-winter-mistborn-wheel-of-time/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782774025000,
-        "summary": "The Winds of Winter may never get here. But that doesn't mean you have to go without.",
-        "tags": [
-          "entertainment",
-          "fantasy",
-          "game of thrones",
-          "reading",
-          "ebooks",
-          "audiobooks"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8474
       }
     ],
     "ai": [
@@ -2701,6 +2690,36 @@
         "score": 0.7958
       },
       {
+        "id": "35d9bd0b179aa2d0",
+        "title": "NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
+        "url": "https://arxiv.org/abs/2606.28546",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28546v1 Announce Type: new Abstract: Recent advances in AI-driven weather and climate modeling have improved forecast skill while reducing computational cost. However, existing data-driven approaches are limited in their ability to model coupled Earth system dynamics, which is required for extending predictability beyond the ~2-week horizon. To address this, we introduce NIVA, a multimo",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9227
+      },
+      {
+        "id": "0286f8aa692b294e",
+        "title": "Improving Coherence in Hierarchical Time Series Forecasting using Structured Temporal Fusion",
+        "url": "https://arxiv.org/abs/2606.28553",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782792000000,
+        "summary": "arXiv:2606.28553v1 Announce Type: new Abstract: In many real-world applications, such as retail sales, energy usage, and supply chain planning, forecasting is performed across hierarchical structures. These structures often represent aggregations (e.g., products to categories to regions), where forecasts must not only be accurate but also coherent, meaning that lower-level predictions sum correctl",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9227
+      },
+      {
         "id": "c345fe659b525207",
         "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
         "url": "https://arxiv.org/abs/2606.28556",
@@ -2830,41 +2849,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1167
-      },
-      {
-        "id": "7e38152fdfbe87c6",
-        "title": "Singular Learning and Occam's Razor in Deep Monomial Networks",
-        "url": "https://arxiv.org/abs/2606.28464",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782792000000,
-        "summary": "arXiv:2606.28464v1 Announce Type: new Abstract: In the optimization of neural networks, gradient dynamics are influenced by critical points that arise from the model's architecture. These critical points occur where the Jacobian of the model's parametrization is rank-deficient, and are the most pronounced singularities studied in Singular Learning Theory. We investigate such points in deep fully-c",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1167
-      },
-      {
-        "id": "9db4276c5b9cc929",
-        "title": "An Agentic AI Pipeline for Appliance-Level Energy Anomaly Detection and LLM-Driven Recommendations",
-        "url": "https://arxiv.org/abs/2606.28467",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782792000000,
-        "summary": "arXiv:2606.28467v1 Announce Type: new Abstract: Appliance-level energy monitoring in office buildings produces noisy alerts that non-expert facility managers struggle to use. This paper proposes an end-to-end agentic pipeline that combines deep time-series forecasting, variational anomaly detection, and LLM-based reasoning to generate prioritized, actionable maintenance recommendations. The system",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1167
       }
     ],
     "science": [
+      {
+        "id": "1f3443e00c70cde3",
+        "title": "Conflict increases food prices in far-flung locations, study finds",
+        "url": "https://phys.org/news/2026-06-conflict-food-prices-flung.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782830409000,
+        "summary": "Fighting along key transport routes pushes up food prices in areas far from the conflict itself, according to a new study. Researchers examined the price of maize and other staples during the war in Somalia between government forces and Al-Shabaab, an Islamist terrorist group. They found that although the fighting was concentrated in the southwest of the country, the impact of price rises was felt",
+        "tags": [
+          "economics & business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0192
+      },
+      {
+        "id": "293faadb3018e4ee",
+        "title": "Gut parasite alters honey bee smell as infection progresses, potentially changing hive behavior",
+        "url": "https://phys.org/news/2026-06-gut-parasite-honey-bee-infection.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782830401000,
+        "summary": "Honey bees infected with a gut parasite smell different, which could allow bee colonies to detect disease and influence behavior inside the hive, new research finds.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
       {
         "id": "352793cd7e78680c",
         "title": "A severe El Niño could threaten something essential to half of humanity—rice",
@@ -3741,36 +3758,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0195
-      },
-      {
-        "id": "e52e30523376e1f3",
-        "title": "Great Barrier Reef drilling reveals repeated collapse, regrowth and migration since last ice age",
-        "url": "https://phys.org/news/2026-06-great-barrier-reef-drilling-reveals.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782768008000,
-        "summary": "An international expedition including University of Sydney researchers has pieced together the clearest picture yet of how the Great Barrier Reef responded to dramatic environmental change over the past 30,000 years. Multiple studies since the expedition more than 10 years ago have traced the reef's retreat, regrowth and repeated collapse from the last ice age to the dawn of the modern reef.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
-      },
-      {
-        "id": "5b75e664c1357df7",
-        "title": "Venezuela earthquakes add tragic new layer to the country's humanitarian crisis",
-        "url": "https://phys.org/news/2026-06-venezuela-earthquakes-tragic-layer-country.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782768001000,
-        "summary": "Venezuela has a well-documented vulnerability to earthquakes. The country sits on the boundary between the Caribbean and South American tectonic plates, resulting in routine tremors and causing historical earthquake disasters. But the experience of a \"doublet,\" a pair of 7.2- and 7.5-magnitude earthquakes 40 seconds apart, on June 24 was a rare misfortune.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0177
       }
     ]
   },
