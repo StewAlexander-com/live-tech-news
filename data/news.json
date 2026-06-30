@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-06-30T20:47:55.961253+00:00",
+  "generated_at": "2026-06-30T21:02:55.768604+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "0c25e5dd6d1a00b3",
+        "title": "Gnome",
+        "url": "https://lexfriedman.com/gnome/",
+        "source": "Daring Fireball",
+        "lane": "gadgets",
+        "published_ts": 1782852872000,
+        "summary": "Gnome is a deceptively clever animated GIF app by Lex Friedman: The truest thing about animated GIFs is that they are a critical pillar of modern human communication, and yet getting one into a Slack message or an iMessage thread or an email reply usually requires opening a browser, navigating to a website, searching, right-clicking, copying, switching back, pasting, and apologizing for the delay.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0771
+      },
       {
         "id": "a15e9bec9e80b711",
         "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
@@ -941,24 +954,42 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7904
-      },
-      {
-        "id": "244e99b92a1e2af0",
-        "title": "The largest digital camera ever built begins decade-long survey of the universe",
-        "url": "https://phys.org/news/2026-06-largest-digital-camera-built-decade.html",
-        "source": "Phys.org",
-        "lane": "gadgets",
-        "published_ts": 1782835385000,
-        "summary": "The largest digital camera ever built is starting to capture images of unseen corners of the universe.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0173
       }
     ],
     "innovation": [
+      {
+        "id": "e18e337bdbbb727d",
+        "title": "Self-hosted media servers aren't as hard as Plex makes them seem",
+        "url": "https://www.makeuseof.com/self-hosted-media-servers-arent-as-hard-as-plex-makes-them-seem/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1782853219000,
+        "summary": "Jellyfin does everything Plex does, costs nothing, and takes just a few commands to set up.",
+        "tags": [
+          "entertainment",
+          "plex",
+          "jellyfin",
+          "hardware tips"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8493
+      },
+      {
+        "id": "e1830026cba73f09",
+        "title": "California Bill To Preserve Online Games Fails Committee Vote",
+        "url": "https://yro.slashdot.org/story/26/06/30/195215/california-bill-to-preserve-online-games-fails-committee-vote?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1782853200000,
+        "summary": "California's Protect Our Games Act, which would require publishers to warn players before shutting down paid online games and offer refunds or continued access, failed to advance after a state Senate committee vote. Four state senators voted in favor, three voted against, and four abstained. Engadget reports: The committee unanimously voted in favor of granting the bill reconsideration, meaning it",
+        "tags": [
+          "government"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.049
+      },
       {
         "id": "d527c21506cc1346",
         "title": "Omen AI, which provides real-time coolant health monitoring for data centers, raised a $31M Series A led by Nava Ventures, bringing its total funding to $41.5M (Tim Fernholz/TechCrunch)",
@@ -1866,41 +1897,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7074
-      },
-      {
-        "id": "0e6fe9afa5a0463a",
-        "title": "Arcturus could halve the grid’s electrical losses using its nano-infused copper",
-        "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1782831702000,
-        "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
-        "tags": [
-          "climate",
-          "arcturus",
-          "copper",
-          "electrical grid",
-          "exclusive"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7439
-      },
-      {
-        "id": "3b224bda45bb0731",
-        "title": "Irish court tells regulator to reconsider TikTok’s China data-transfer ban",
-        "url": "https://thenextweb.com/news/ireland-tiktok-data-transfer-review",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782831532000,
-        "summary": "The High Court upheld TikTok’s GDPR liability and its €530m fine, but sent the order suspending transfers to China back to the regulator for review. TikTok lost the argument that mattered most and won itself some breathing room on the rest. Ireland’s High Court has upheld the Data Protection Commission’s findings that the company breached […] This story continues at The Next Web",
-        "tags": [
-          "tiktok",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8902
       }
     ],
     "ai": [
@@ -1918,6 +1914,26 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0988
+      },
+      {
+        "id": "b3d8f2203e552c27",
+        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+        "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1782851628000,
+        "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+        "tags": [
+          "ai",
+          "startups",
+          "venture",
+          "creandum",
+          "equilibre technologies",
+          "exclusive"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8003
       },
       {
         "id": "7f06ee930f21495b",
@@ -1972,6 +1988,77 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9642
+      },
+      {
+        "id": "571bb860bf3828e1",
+        "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+        "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1782850829000,
+        "summary": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”",
+        "tags": [
+          "apple",
+          "policy",
+          "antitrust",
+          "app developers",
+          "app store",
+          "apple"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9865
+      },
+      {
+        "id": "49fa93b59ad6c06c",
+        "title": "Claude Sonnet 5 – benchmark results",
+        "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782850165000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:13"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0321
+      },
+      {
+        "id": "cb8347245a960ed7",
+        "title": "New attack provides one more reason why AI browsers are a bad idea",
+        "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1782849794000,
+        "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+        "tags": [
+          "ai",
+          "biz & it",
+          "security",
+          "browsers",
+          "jailbreaks",
+          "llms"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0595
+      },
+      {
+        "id": "e77fa50870563a2d",
+        "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
+        "url": "https://www.reddit.com/r/technology/comments/1ujzp3a/frequent_ai_chatbot_users_more_likely_to_believe/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1782849261000,
+        "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0037
       },
       {
         "id": "d24a13db8ab4b210",
@@ -2800,89 +2887,74 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0794
-      },
-      {
-        "id": "83b12094b87747aa",
-        "title": "X launches hosted MCP server so AI tools can plug into its API directly",
-        "url": "https://thenextweb.com/news/x-hosted-mcp-server-ai-tools-api",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782833496000,
-        "summary": "X has launched a hosted Model Context Protocol server that lets AI tools like Claude, Cursor, and Grok Build connect directly to its API using a user’s own account permissions. The move eliminates the integration work developers previously had to do on their own, from building a custom MCP server to handling authentication. X joins […] This story continues at The Next Web",
-        "tags": [
-          "apps",
-          "artificial intelligence"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9533
-      },
-      {
-        "id": "42abb0b447633d4a",
-        "title": "Libby will filter out AI content, kind of",
-        "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1782833400000,
-        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app […]",
-        "tags": [
-          "ai",
-          "column",
-          "lowpass"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8546
-      },
-      {
-        "id": "65c475634a6b5f04",
-        "title": "AWS launches an internal organization for AI-focused forward-deployed engineers, backed by $1B in resources, following OpenAI and others in launching FDE teams (Russell Brandom/TechCrunch)",
-        "url": "https://www.techmeme.com/260630/p17#a260630p17",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782832501000,
-        "summary": "Russell Brandom / TechCrunch: AWS launches an internal organization for AI-focused forward-deployed engineers, backed by $1B in resources, following OpenAI and others in launching FDE teams — As companies struggle to integrate AI, they're increasingly ready to bring in outside help — and service providers are launching …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0787
-      },
-      {
-        "id": "6a6914bbecfbb242",
-        "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-        "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782832122000,
-        "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-        "tags": [
-          "ai",
-          "apps",
-          "social",
-          "model context protocol",
-          "x"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8052
-      },
-      {
-        "id": "04376882b1557e7a",
-        "title": "What the OCI MSA didn't solve for AI scaling",
-        "url": "https://www.theregister.com/hpc/2026/06/30/what-the-oci-msa-didnt-solve-for-ai-scaling/5262624",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1782831600000,
-        "summary": "PARTNER CONTENT: The OCI MSA settled the architecture for optical scale-up. How fast bandwidth scales is a manufacturing question, not an architectural one",
-        "tags": [
-          "hpc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1272
       }
     ],
     "science": [
+      {
+        "id": "5e0bd5e7864919fb",
+        "title": "One‑step process generates high entropy alloy nanoparticles in milliseconds for catalyst creation",
+        "url": "https://phys.org/news/2026-06-onestep-generates-high-entropy-alloy.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782853208000,
+        "summary": "A University at Buffalo-led team of researchers has developed a method for producing advanced nanoparticles that could accelerate the discovery of new materials for energy and electronic applications. The study, published in Nature Communications, introduces a one-step process that rapidly combines multiple metals into uniform nanoparticles in milliseconds. This allows researchers to quickly produ",
+        "tags": [
+          "nanomaterials"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
+      {
+        "id": "82d55126665ddbd6",
+        "title": "The strange history of Czech cactus hunters, and why some see themselves as Robin Hood figures",
+        "url": "https://phys.org/news/2026-06-strange-history-czech-cactus-hunters.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782853202000,
+        "summary": "Four Czech men were arrested at Guarulhos International Airport in São Paulo, Brazil, in February this year on charges of smuggling native species.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0191
+      },
+      {
+        "id": "ca7f9639a8c74447",
+        "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
+        "url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
+        "source": "Ars Technica AI",
+        "lane": "science",
+        "published_ts": 1782852614000,
+        "summary": "\"That would be an awesome capability.\"",
+        "tags": [
+          "space",
+          "mars rover",
+          "moon",
+          "moon base",
+          "nasa",
+          "perseverance"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9959
+      },
+      {
+        "id": "a1500b8480472072",
+        "title": "Medici brothers' remains reveal Renaissance-era malaria strains, closing the book on a murder mystery",
+        "url": "https://phys.org/news/2026-06-medici-brothers-reveal-renaissance-era.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782852601000,
+        "summary": "In 1562, Cardinal Giovanni de Medici, a scion of the dynastic family that dominated politics and banking in Tuscany during the Renaissance, died of malaria. Twenty-five years later, his older brother, Grand Duke Francesco de Medici, succumbed to the same disease.",
+        "tags": [
+          "archaeology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0158
+      },
       {
         "id": "d8b7ea5ac8d3e071",
         "title": "Super-deep diamond discovery may rewrite Earth's role in preserving the building blocks of life",
@@ -3749,66 +3821,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0086
-      },
-      {
-        "id": "9235395e8d056c85",
-        "title": "Study investigates stress, coping among adult siblings of individuals with intellectual and developmental disabilities",
-        "url": "https://phys.org/news/2026-06-stress-coping-adult-siblings-individuals.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782820801000,
-        "summary": "Assistant professor of practice, psychology and human development, and VKC member Jessika Boles, Ph.D., and colleagues have published results of a research study detailing the complex lived experiences of adult siblings of individuals with intellectual and developmental disabilities (IDD) in the journal Research in Developmental Disabilities.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0198
-      },
-      {
-        "id": "3bdd6f539c3c0d22",
-        "title": "How guaranteed income can support working families facing economic hardship",
-        "url": "https://phys.org/news/2026-06-income-families-economic-hardship.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782819604000,
-        "summary": "An innovative partnership between George Mason University, Fairfax County and the United Way is shedding light on how guaranteed income can support working families facing economic hardship.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0133
-      },
-      {
-        "id": "1a7ad9abad39bda5",
-        "title": "Study: Nearly $400bn worth of global data centre capacity at risk from climate impacts",
-        "url": "https://www.reddit.com/r/technology/comments/1ujmf7f/study_nearly_400bn_worth_of_global_data_centre/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1782818514000,
-        "summary": "submitted by /u/Wagamaga [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.907
-      },
-      {
-        "id": "59c44aba20eb9eeb",
-        "title": "The blueprint to reducing Lismore floods by up to 2 meters",
-        "url": "https://phys.org/news/2026-06-blueprint-lismore-meters.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782818401000,
-        "summary": "CSIRO hydrologist Dr. Jai Vaze has lost count of how many times over the past four years he has been asked if he can flood-proof the Northern Rivers region of New South Wales.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0068
       }
     ]
   },
