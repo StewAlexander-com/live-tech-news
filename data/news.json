@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T19:18:01.043395+00:00",
+  "generated_at": "2026-06-30T19:29:46.176040+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -948,6 +948,36 @@
     ],
     "innovation": [
       {
+        "id": "b1dcd8e34d247e1f",
+        "title": "East Coast broccoli lowers costs and risks from California drought",
+        "url": "https://phys.org/news/2026-06-east-coast-broccoli-lowers-california.html",
+        "source": "Phys.org",
+        "lane": "innovation",
+        "published_ts": 1782847204000,
+        "summary": "The burgeoning East Coast broccoli industry is helping lower costs slightly and reduce reliance on the drought-prone West. Those were findings from a new supply chain model study that showed expanding production outside California—the country's top broccoli producer—can help stabilize fresh produce supply chains that are vulnerable to water shortages.",
+        "tags": [
+          "agriculture"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0168
+      },
+      {
+        "id": "dae6cfd2293b92e7",
+        "title": "WinRAR releases new update and says it’s thanks to people finally paying",
+        "url": "https://www.reddit.com/r/technology/comments/1ujymsp/winrar_releases_new_update_and_says_its_thanks_to/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782846927000,
+        "summary": "submitted by /u/Dilpickle2113 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9456
+      },
+      {
         "id": "5b2050fd0f21181e",
         "title": "Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere (Ben Schoon/9to5Google)",
         "url": "https://www.techmeme.com/260630/p31#a260630p31",
@@ -1862,40 +1892,43 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7424
-      },
-      {
-        "id": "097dfd8b3dbd9175",
-        "title": "Price hikes pushing consumers to abandon their favorite brands",
-        "url": "https://www.reddit.com/r/technology/comments/1ujq1jw/price_hikes_pushing_consumers_to_abandon_their/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782827991000,
-        "summary": "submitted by /u/AudibleNod [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9429
-      },
-      {
-        "id": "710a29cbf7c9396c",
-        "title": "India’s Equirus weighs a fundraising round of up to $60m",
-        "url": "https://thenextweb.com/news/indias-equirus-weighs-a-fundraising-round-of-up-to-60m",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782827752000,
-        "summary": "The Mumbai investment bank is considering raising fresh capital through new shares and stake sales, a bet on the strength of India’s public-listing pipeline. India’s capital markets have been busy enough lately to make the firms that arrange the deals worth investing in themselves. Equirus Capital, a Mumbai-based investment bank, is considering raising as much […] This story continues at The Next ",
-        "tags": [
-          "investors and funding",
-          "india"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8887
       }
     ],
     "ai": [
+      {
+        "id": "794d9f8a6d33bd93",
+        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1782847491000,
+        "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war […]",
+        "tags": [
+          "ai",
+          "apps",
+          "google",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.854
+      },
+      {
+        "id": "84e8ae2b845833a4",
+        "title": "AI deciphers long-range DNA signals behind RNA splicing",
+        "url": "https://phys.org/news/2026-06-ai-deciphers-range-dna-rna.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1782847208000,
+        "summary": "Accurate RNA splicing is essential for gene expression and human health, yet predicting how DNA sequence variations affect splicing remains a major challenge. Although recent artificial intelligence (AI) models have improved splice-site prediction, many struggle to capture regulatory signals located thousands of DNA bases away from the sites they influence.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0982
+      },
       {
         "id": "eeef48b95b325bb0",
         "title": "Newsom strikes Anthropic deal to get California government half price Claude AI access",
@@ -1963,6 +1996,26 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9163
+      },
+      {
+        "id": "9c5a4e4bbc360257",
+        "title": "Anthropic launches Claude Sonnet 5, a cheaper way to run agents",
+        "url": "https://thenextweb.com/news/anthropic-claude-sonnet-5-agentic-model-pricing",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1782845071000,
+        "summary": "Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much. Anthropic said on June 30, 2026 that Sonnet 5 is available today across every plan. The company built it to act, not just answer. It […] This story continues at The Next Web",
+        "tags": [
+          "anthropic",
+          "security",
+          "artificial intelligence",
+          "united states",
+          "business",
+          "data and security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.887
       },
       {
         "id": "14b6640f4ebf58af",
@@ -2817,52 +2870,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9634
-      },
-      {
-        "id": "33f6d9e41d9e0692",
-        "title": "Jon and Mindy Gray bet $55M on AI to catch cancer before it starts",
-        "url": "https://thenextweb.com/news/gray-ai-cancer-interception-institute",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782830304000,
-        "summary": "A new institute at Penn’s Basser Center will use artificial intelligence and biomarkers to intercept hereditary cancers at their earliest stages, before they become disease. The idea behind the gift is unusual enough to need its own word. Most cancer philanthropy funds treatment, the long campaign that begins once a tumour has announced itself. Jon […] This story continues at The Next Web",
-        "tags": [
-          "health tech",
-          "insider",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9551
-      },
-      {
-        "id": "cf8321ef05ce3f44",
-        "title": "AI inference startup Etched raised $800M from investors including Jane Street and a TSMC-linked venture firm, and says it has signed sales contracts worth $1B (Dina Bass/Bloomberg)",
-        "url": "https://www.techmeme.com/260630/p16#a260630p16",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782830101000,
-        "summary": "Dina Bass / Bloomberg: AI inference startup Etched raised $800M from investors including Jane Street and a TSMC-linked venture firm, and says it has signed sales contracts worth $1B — Nvidia rival says it has raised $800 million and has $1 billion in contracts. — AI chip startup Etched said it has raised $800 million …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0183
-      },
-      {
-        "id": "09d60c95cead122d",
-        "title": "Google's Gmail Live AI feature is now available in beta",
-        "url": "https://www.engadget.com/2204880/google-gmail-live-ai-feature-is-now-available-in-beta/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1782829776000,
-        "summary": "You can use Gemini to quickly search your Gmail inbox with natural language.",
-        "tags": [
-          "ai",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7589
       }
     ],
     "science": [
@@ -3784,19 +3791,22 @@
         "score": 0.8787
       },
       {
-        "id": "c0cf631df4f8757a",
-        "title": "Active Quantum Kernel Acquisition for Gaussian Process Regression",
-        "url": "https://arxiv.org/abs/2606.28833",
+        "id": "ad99a159aad6da3b",
+        "title": "Geometric Measurements of the Axiom of Choice in Neural Proof Embeddings",
+        "url": "https://arxiv.org/abs/2606.28572",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1782792000000,
-        "summary": "arXiv:2606.28833v1 Announce Type: new Abstract: Quantum kernel estimation on near-term hardware is shot-budgeted: every entry of the kernel Gram matrix is a Bernoulli expectation that must be sampled with a finite number of circuit executions. Recent work on quantum kernel classification has shown that allocating shots non-uniformly across kernel entries, weighted by their downstream task sensitiv",
+        "summary": "arXiv:2606.28572v1 Announce Type: new Abstract: The axiom of choice has divided the foundations of mathematics for over a century, but the distinction between classical and constructive proofs has remained a philosophical and methodological one. We use Lean 4's kernel-level tracking of axiom dependence to show that the axiom of choice has a measurable geometric correlate in proof space that obeys ",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "cs.ai",
+          "cs.lo",
+          "math.lo"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8446
+        "score": 0.8415
       }
     ]
   },
