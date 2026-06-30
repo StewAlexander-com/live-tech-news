@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-06-30T21:06:23.871636+00:00",
+  "generated_at": "2026-06-30T21:21:31.467696+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "cf74f682a41241f2",
+        "title": "Amazon fined $2.25 million for failing to help identity theft victims",
+        "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1782854401000,
+        "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with fraudulent accounts, in violation of the Fair Credit […]",
+        "tags": [
+          "amazon",
+          "news",
+          "policy",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7916
+      },
+      {
+        "id": "3c4328f83bfa2465",
+        "title": "Your Pixel could be silencing calls without you knowing it",
+        "url": "https://www.androidpolice.com/pixel-phones-are-going-silent-and-there-isnt-a-fix/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1782854051000,
+        "summary": "A new bug for a new day",
+        "tags": [
+          "pixel",
+          "missed calls",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9976
+      },
       {
         "id": "925334f9765f5216",
         "title": "US Secret Service personnel are putting the lives of America’s VIPs at risk by refusing to use government-issued phones — but they might not be up to the job in the first place",
@@ -927,40 +962,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9965
-      },
-      {
-        "id": "1e8dbf08bc178f60",
-        "title": "Tesla starts testing its production Cybercab without steering wheel or pedals in Austin",
-        "url": "https://thenextweb.com/news/tesla-cybercab-no-steering-wheel-pedals-austin-testing",
-        "source": "The Next Web",
-        "lane": "gadgets",
-        "published_ts": 1782836080000,
-        "summary": "Tesla has begun testing a production version of its Cybercab on public roads in Austin, Texas, with no steering wheel and no pedals. The two-seat vehicle, which Tesla first revealed in October 2024, is being driven entirely by its autonomous software while a safety monitor rides in the right passenger seat. Tesla posted video of […] This story continues at The Next Web",
-        "tags": [
-          "cars",
-          "tesla"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9666
-      },
-      {
-        "id": "8f7bad96f40eb49a",
-        "title": "California bill to preserve online games fails committee vote",
-        "url": "https://www.engadget.com/2205041/california-bill-to-preserve-online-games-fails-committee-vote/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1782835907000,
-        "summary": "At least for this session, the Stop Killing Games campaign has hit a wall in the California Senate.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7008
       }
     ],
     "innovation": [
+      {
+        "id": "698f1b268b7a7d66",
+        "title": "Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app (Bobby Allyn/NPR)",
+        "url": "https://www.techmeme.com/260630/p33#a260630p33",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1782853865000,
+        "summary": "Bobby Allyn / NPR: Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app — Before Meta CEO Mark Zuckerberg directed employees to build a standalone prediction market app, he proposed buying Kalshi …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9967
+      },
       {
         "id": "e18e337bdbbb727d",
         "title": "Self-hosted media servers aren't as hard as Plex makes them seem",
@@ -1099,6 +1116,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9992
+      },
+      {
+        "id": "9937d316461efdcd",
+        "title": "Infosec professionals sour on automated pentesting tools",
+        "url": "https://www.theregister.com/security/2026/06/30/infosec-professionals-sour-on-automated-pentesting-tools/5264571",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1782848287000,
+        "summary": "29% of security pros were open to fully autonomous pentesting last year; now only 9% are",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0157
       },
       {
         "id": "bc889745c277aaa1",
@@ -1755,6 +1787,25 @@
         "score": 0.7464
       },
       {
+        "id": "531746e9645bd523",
+        "title": "Bite Into Strange Sounds With NOISFERATU",
+        "url": "https://hackaday.com/2026/06/30/bite-into-strange-sounds-with-noiseferatu/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782833427000,
+        "summary": "The NOISFERATU is an open source generative textural sound synthesizer, or as creator [Robert Heel] puts it, “a sound designer’s dream and audiophile’s worst nightmare”. NOISFERATU offers 45 different sound …read more",
+        "tags": [
+          "art",
+          "musical hacks",
+          "generative",
+          "synth",
+          "synthesizer"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9649
+      },
+      {
         "id": "e9a85b8a4b40cfa7",
         "title": "Bite Into Strange Sounds With NOISEFERATU",
         "url": "https://hackaday.com/2026/06/30/bite-into-strange-sounds-with-noiseferatu/",
@@ -1846,61 +1897,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.045
-      },
-      {
-        "id": "4c95b20baecdedf9",
-        "title": "I traced my Pixel 10 battery drain to a hidden tracking toggle that ignores airplane mode",
-        "url": "https://www.androidpolice.com/i-traced-my-pixel-10-battery-drain-to-a-hidden-tracking-toggle-that-ignores-airplane-mode/",
-        "source": "Android Police",
-        "lane": "innovation",
-        "published_ts": 1782832513000,
-        "summary": "Now I don't need to charge it before going to bed",
-        "tags": [
-          "google",
-          "battery",
-          "google pixel",
-          "phones",
-          "battery"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0788
-      },
-      {
-        "id": "a9286dfd7f9bb534",
-        "title": "EU opens antitrust probe into Align over Invisalign and scanner tying",
-        "url": "https://thenextweb.com/news/eu-align-invisalign-antitrust-probe",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782831791000,
-        "summary": "The European Commission has decided to look closely at how you straighten teeth, or more precisely, at the machine a dentist uses to scan them. Brussels has opened a formal antitrust investigation into Align Technology, the American company behind Invisalign, over suspicions that it illegally ties its iTero intra-oral scanners to its clear aligners across […] This story continues at The Next Web",
-        "tags": [
-          "europe",
-          "legal"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8915
-      },
-      {
-        "id": "1c9fbe31c00963ea",
-        "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
-        "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1782831702000,
-        "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
-        "tags": [
-          "climate",
-          "startups",
-          "arcturus",
-          "copper",
-          "electrical grid",
-          "exclusive"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7074
       }
     ],
     "ai": [
@@ -1958,6 +1954,21 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8042
+      },
+      {
+        "id": "9062e5ca1ed68600",
+        "title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
+        "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782851100000,
+        "summary": "With its next-gen AI accelerators, the SoC vendor aims to fly high above the memory wall",
+        "tags": [
+          "systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1136
       },
       {
         "id": "d70c6c2b4fa32a90",
@@ -2028,6 +2039,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0321
+      },
+      {
+        "id": "e268eaf94233720d",
+        "title": "Changing AI math could reduce the hardware burden, researchers show",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/30/changing-ai-math-could-reduce-the-hardware-burden-researchers-show/5264609",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782850050000,
+        "summary": "SEMQ promises an abstraction layer for separating semantics from embeddings",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1074
       },
       {
         "id": "cb8347245a960ed7",
@@ -2859,41 +2885,54 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1246
-      },
-      {
-        "id": "418700b21818edfa",
-        "title": "Claude Code Is Steganographically Marking Requests",
-        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782834264000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:117"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.295
-      },
-      {
-        "id": "a48803763a0f364d",
-        "title": "Samsung's plan to keep Galaxy S27 prices down is dead, so prepare to pay more",
-        "url": "https://www.androidpolice.com/the-galaxy-s27-wont-use-cheaper-display-panels-and-that-probably-means-price-rises/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1782833874000,
-        "summary": "Yet more bad news we can blame AI for",
-        "tags": [
-          "samsung",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0794
       }
     ],
     "science": [
+      {
+        "id": "4d2f476ec06837cf",
+        "title": "Warming can shift freshwater crustaceans to a 'greener' diet",
+        "url": "https://phys.org/news/2026-06-shift-freshwater-crustaceans-greener-diet.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782854410000,
+        "summary": "Climate change is not only warming our lakes and rivers, it is also changing what invasive species eat. A new experimental study published in Limnology and Oceanography Letters shows that temperature-driven diet shifts in an invasive crustacean could alter its ecological role in freshwater food webs.",
+        "tags": [
+          "plants & animals"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0196
+      },
+      {
+        "id": "06e8cb1707cdebde",
+        "title": "Newly discovered corn trait may help improve crop drought tolerance",
+        "url": "https://phys.org/news/2026-06-newly-corn-trait-crop-drought.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782854401000,
+        "summary": "Researchers report some corn plants are genetically predisposed to develop longer, less constricted water-conducting tissues and deeper roots, which helps them deal with drought. That's the conclusion of a team led by Penn State researchers that conducted a study of the plant's xylem tissue, which moves water upward from the roots to the leaves.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0195
+      },
+      {
+        "id": "52a54e670eefedd3",
+        "title": "Layered ZnPS₃ emits single photons, opening new path for quantum chips",
+        "url": "https://phys.org/news/2026-06-layered-znps-emits-photons-path.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782853801000,
+        "summary": "Scientists from the Faculty of Physics at the University of Warsaw, in collaboration with teams from the National University of Singapore and Radboud University in the Netherlands, have observed single-photon emission from layered two-dimensional material ZnPS₃. This discovery represents a crucial step toward establishing low-dimensional materials as a versatile platform for quantum information sc",
+        "tags": [
+          "nanophysics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0975
+      },
       {
         "id": "5e0bd5e7864919fb",
         "title": "One‑step process generates high entropy alloy nanoparticles in milliseconds for catalyst creation",
@@ -3780,51 +3819,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0161
-      },
-      {
-        "id": "06c73aba56378008",
-        "title": "New study of 2 million online posts shows persistent anti‑Jew and anti‑Muslim hate in Australia",
-        "url": "https://phys.org/news/2026-06-million-online-persistent-antijew-antimuslim.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782824406000,
-        "summary": "Australia has spent much of the past two years responding to anti-Jewish and anti-Muslim hate as separate problems. But our latest research suggests they have something important in common.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0096
-      },
-      {
-        "id": "68c61c2718b6a5fd",
-        "title": "Isolation as a form of discipline: How should schools manage poor student behavior?",
-        "url": "https://phys.org/news/2026-06-isolation-discipline-schools-poor-student.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782823203000,
-        "summary": "Last week, a group of parents strongly criticized prestigious Victorian private school Geelong Grammar for using isolation as a form of discipline during a yearlong boarding school program. The disciplinary action was taken after a group of Year 9 students sneaked away to a nearby pub at night. As a result, some of the students were internally suspended for five days.",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0151
-      },
-      {
-        "id": "626c355197d58b96",
-        "title": "By 2050, many Sydney apartments built to today's standards could be too hot for weeks at a time",
-        "url": "https://phys.org/news/2026-06-sydney-apartments-built-today-standards.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782822008000,
-        "summary": "Sydney is no stranger to extreme heat. In January 2020, Penrith in western Sydney reached 48.9°C, the highest temperature ever recorded in Greater Sydney.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0086
       }
     ]
   },
