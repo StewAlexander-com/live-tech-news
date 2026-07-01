@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T19:12:12.039647+00:00",
+  "generated_at": "2026-07-01T19:13:45.308285+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1096,6 +1096,22 @@
         "score": 0.7467
       },
       {
+        "id": "6e6b20290523ca55",
+        "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries",
+        "url": "https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1782929538000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1119
+      },
+      {
         "id": "fb545b7badd5ec9a",
         "title": "Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections (Tom Warren/The Verge)",
         "url": "https://www.techmeme.com/260701/p36#a260701p36",
@@ -1945,21 +1961,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9987
-      },
-      {
-        "id": "d7bb70390f3f078f",
-        "title": "The iPhone contributed to 'a collapse in US fertility,' claims scientific study",
-        "url": "https://www.reddit.com/r/technology/comments/1ukkd60/the_iphone_contributed_to_a_collapse_in_us/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782909109000,
-        "summary": "submitted by /u/pdfu [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9389
       }
     ],
     "ai": [
@@ -2053,6 +2054,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0824
+      },
+      {
+        "id": "d1d67556a4a09d15",
+        "title": "AI search could kill the web without new quality signals and revenue models",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/01/ai-search-could-kill-the-web-without-new-quality-signals-and-revenue-models/5265269",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1782929601000,
+        "summary": "Penance payments to websites for failing to forward traffic aren't enough",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1122
       },
       {
         "id": "b84be1aa170535fb",
@@ -2939,21 +2955,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9124
-      },
-      {
-        "id": "2865057519387619",
-        "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-        "source": "MIT Technology Review",
-        "lane": "ai",
-        "published_ts": 1782907800000,
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
-        "tags": [
-          "the download"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1129
       }
     ],
     "science": [
@@ -3815,65 +3816,70 @@
         "score": 1.0103
       },
       {
-        "id": "fedc1ee716138d1c",
-        "title": "Revisiting the Volume Hypothesis",
-        "url": "https://arxiv.org/abs/2606.31282",
+        "id": "726020a4ee6ede32",
+        "title": "Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation",
+        "url": "https://arxiv.org/abs/2606.31043",
         "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1782878400000,
-        "summary": "arXiv:2606.31282v1 Announce Type: new Abstract: Modern deep neural networks often contain far more parameters than needed to fit their training data, yet they achieve impressive generalization. A common explanation for this success is the implicit bias of stochastic gradient descent (SGD). An alternative volume hypothesis posits that, within low training-loss regions, loss-landscape basins leading",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8462
-      },
-      {
-        "id": "f0b75fd6e3adb591",
-        "title": "Beyond the Library: An Agentic Framework for Autoformalizing Research Mathematics",
-        "url": "https://arxiv.org/abs/2606.31134",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.31134v1 Announce Type: new Abstract: While Large Language Models (LLMs) have demonstrated exceptional capabilities in mathematical reasoning, they frequently produce subtle errors that evade human detection. Formal mathematical languages like Lean 4 offer mechanical proof checking, strongly motivating the need for autoformalization: the automatic translation of natural language mathemat",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7835
-      },
-      {
-        "id": "299611ca15fc2c65",
-        "title": "CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM",
-        "url": "https://arxiv.org/abs/2606.31332",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.31332v1 Announce Type: new Abstract: Protein automodeling from cryo-EM density maps faces unique challenges in enforcing physicochemical validity and managing conformational heterogeneity. Current solvers are often limited to static predictions or require computationally intensive heuristic searches. We present CryoACE, an end-to-end framework that reconstructs precise atomic graphs for",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7835
-      },
-      {
-        "id": "6a3c766bb3516639",
-        "title": "Mind the Residual Gap: Probabilistic Downscaling under Real-World Bias",
-        "url": "https://arxiv.org/abs/2606.30821",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30821v1 Announce Type: new Abstract: Probabilistic downscaling is the task of modeling the conditional distribution of high-resolution fields given coarse inputs, and is a central challenge to atmospheric science, climate modeling, and other multiscale physical systems. A widely used paradigm decomposes the problem into a deterministic mean predictor followed by a stochastic residual ge",
+        "summary": "arXiv:2606.31043v1 Announce Type: new Abstract: Residual reinforcement learning adapts a pretrained robot policy by learning an additive correction to its actions. While effective when adaptation amounts to shifting the base policy's action distribution, additive corrections cannot change the distribution's shape, scale, or state-dependent geometry -- limitations we formalize as wrong variance, mi",
         "tags": [
           "cs.lg",
-          "cs.ce"
+          "cs.ro"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7835
+        "score": 0.8458
+      },
+      {
+        "id": "5204de789e26807e",
+        "title": "A Bayesian Filtering Approach for Learning Lagrangian Dynamics from Noisy Measurements",
+        "url": "https://arxiv.org/abs/2606.31137",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31137v1 Announce Type: new Abstract: This paper proposes a Bayesian filtering-based approach for learning the dynamics of a physical system from partial, noisy measurements. We model the system dynamics using a Lagrangian mechanics formulation. As in Lagrangian neural networks (LNNs), we parameterize the kinetic and potential energies with neural networks. The unknown external forces in",
+        "tags": [
+          "cs.lg",
+          "eess.sp"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8458
+      },
+      {
+        "id": "85d42bf1983e8808",
+        "title": "Partition-Guided Distance Saliency: Bridging Decision and Objective Spaces in Many-Objective Optimization",
+        "url": "https://arxiv.org/abs/2606.30836",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30836v1 Announce Type: new Abstract: Explainability in Many-Objective Optimization (MaO) is currently hindered by the escalating complexity of the Pareto front, which renders the relationship between high-dimensional decision variables and objective outcomes increasingly opaque. As the number of objectives exceeds the limits of traditional visualization, decision-makers encounter a ``co",
+        "tags": [
+          "cs.lg",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7831
+      },
+      {
+        "id": "b9b18aa335d5bffc",
+        "title": "Physics-informed Conditional Normalizing Flows for Angles-only Cislunar Orbit Determination",
+        "url": "https://arxiv.org/abs/2606.30936",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30936v1 Announce Type: new Abstract: Generative Astrodynamics is advanced in this work by extending generative modelling to an orbit determination problem in the cislunar environment. The task is formulated as conditional density estimation, aiming to infer the probability distribution of the initial state from angles-only measurements over short observation arcs. A normalising flow is ",
+        "tags": [
+          "cs.lg",
+          "astro-ph.ep",
+          "astro-ph.im",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7831
       }
     ]
   },
