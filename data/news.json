@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T18:19:46.008549+00:00",
+  "generated_at": "2026-07-01T18:29:21.513560+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -972,6 +972,26 @@
     ],
     "innovation": [
       {
+        "id": "b0534c65bfb89bc6",
+        "title": "Lime begins life as a public company after years of uncertainty",
+        "url": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1782930240000,
+        "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+        "tags": [
+          "transportation",
+          "e-bikes",
+          "e-scooters",
+          "ipo",
+          "lime",
+          "micromobility"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7467
+      },
+      {
         "id": "fb545b7badd5ec9a",
         "title": "Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections (Tom Warren/The Verge)",
         "url": "https://www.techmeme.com/260701/p36#a260701p36",
@@ -1925,19 +1945,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.044
-      },
-      {
-        "id": "d3b408e3553fe5fa",
-        "title": "Twelve Labs, which is building AI models to make video searchable and understandable, raised a $100M Series B co-led by NEA and Naver, and signs an AWS deal (Saritha Rai/Bloomberg)",
-        "url": "https://www.techmeme.com/260701/p22#a260701p22",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782907253000,
-        "summary": "Saritha Rai / Bloomberg: Twelve Labs, which is building AI models to make video searchable and understandable, raised a $100M Series B co-led by NEA and Naver, and signs an AWS deal — Twelve Labs Inc. is raising $100 million from investors including Amazon.com Inc., NEA Management Co. and Naver Ventures …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0738
       }
     ],
     "ai": [
@@ -2933,6 +2940,36 @@
     ],
     "science": [
       {
+        "id": "6cdc725a9c5c5608",
+        "title": "Why turning off screens is so hard for children—and four tips to make it easier",
+        "url": "https://phys.org/news/2026-07-screens-hard-children-easier.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782930004000,
+        "summary": "The challenges and consequences surrounding children's screen use are a leading concern for UK families.",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.017
+      },
+      {
+        "id": "e2d01cd17efc3b55",
+        "title": "Researchers discover novel SRV2 envelope protein for efficient CAR immune cell production",
+        "url": "https://phys.org/news/2026-07-srv2-envelope-protein-efficient-car.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782930001000,
+        "summary": "A Korean research team has developed a new viral vector technology that significantly improves the production efficiency of next-generation cell and gene therapies known as CAR immune cell therapies, which are designed to recognize and destroy cancer cells.",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0169
+      },
+      {
         "id": "01c886769234261f",
         "title": "Evolutionary origins of 'junk DNA' may provide new clues to cancer",
         "url": "https://phys.org/news/2026-06-evolutionary-junk-dna-clues-cancer.html",
@@ -3817,40 +3854,6 @@
         "tags": [
           "cs.lg",
           "cs.ce"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0304
-      },
-      {
-        "id": "85d42bf1983e8808",
-        "title": "Partition-Guided Distance Saliency: Bridging Decision and Objective Spaces in Many-Objective Optimization",
-        "url": "https://arxiv.org/abs/2606.30836",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30836v1 Announce Type: new Abstract: Explainability in Many-Objective Optimization (MaO) is currently hindered by the escalating complexity of the Pareto front, which renders the relationship between high-dimensional decision variables and objective outcomes increasingly opaque. As the number of objectives exceeds the limits of traditional visualization, decision-makers encounter a ``co",
-        "tags": [
-          "cs.lg",
-          "cs.ne"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0304
-      },
-      {
-        "id": "b9b18aa335d5bffc",
-        "title": "Physics-informed Conditional Normalizing Flows for Angles-only Cislunar Orbit Determination",
-        "url": "https://arxiv.org/abs/2606.30936",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30936v1 Announce Type: new Abstract: Generative Astrodynamics is advanced in this work by extending generative modelling to an orbit determination problem in the cislunar environment. The task is formulated as conditional density estimation, aiming to infer the probability distribution of the initial state from angles-only measurements over short observation arcs. A normalising flow is ",
-        "tags": [
-          "cs.lg",
-          "astro-ph.ep",
-          "astro-ph.im",
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
