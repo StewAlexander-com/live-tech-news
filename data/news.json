@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T13:08:34.050867+00:00",
+  "generated_at": "2026-07-01T13:19:57.631367+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -2661,6 +2661,55 @@
         "score": 1.0811
       },
       {
+        "id": "5165f72e92f5913f",
+        "title": "Estimating Supply Incrementality in Two-sided Marketplaces: A Causal Machine Learning Approach",
+        "url": "https://arxiv.org/abs/2606.30999",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30999v1 Announce Type: new Abstract: In two-sided marketplaces with heterogeneous products, it is important to understand the causal relationship between additional supply and marketplace outcomes, such as the total quantity transacted or transaction value in the marketplace. This paper studies a causal machine learning approach to estimating this relationship across product segments. W",
+        "tags": [
+          "cs.lg",
+          "econ.em",
+          "stat.ap",
+          "stat.me"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9475
+      },
+      {
+        "id": "0389e1546f92d9a9",
+        "title": "Offline Reinforcement Learning for Fluid Controls: Data-based Multi-observational Policy Extraction",
+        "url": "https://arxiv.org/abs/2606.31025",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31025v1 Announce Type: new Abstract: Active flow control is a fundamental application in engineering. Recent advances in deep reinforcement learning have made progress in this field. However, the classical online RL approaches require extensive real-time interactions with the high fidelity environment, while each sensor configuration change necessitates whole policy retraining. All thes",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9475
+      },
+      {
+        "id": "b5534eb1408c3d4b",
+        "title": "Explaining Machine Learning and Memorization with Statistical Mechanics",
+        "url": "https://arxiv.org/abs/2606.31110",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31110v1 Announce Type: new Abstract: Artificial neural networks (NNs) and machine learning (ML) algorithms are poorly understood from a theoretical perspective, which makes it difficult to fully realize their potential and overcome their weaknesses. For instance, ML algorithms train NN weights by moving them along a low-dimensional subspace of their allowed values, but this implicitly l",
+        "tags": [
+          "cs.lg",
+          "cond-mat.stat-mech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9475
+      },
+      {
         "id": "90cc95f250d87daa",
         "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
         "url": "https://arxiv.org/abs/2606.30846",
@@ -2749,54 +2798,6 @@
           "cs.ai",
           "cs.cl",
           "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1129
-      },
-      {
-        "id": "adb19ed642755a67",
-        "title": "Joint discovery of governing partial differential equations from multi-source datasets by competitive optimization",
-        "url": "https://arxiv.org/abs/2606.30699",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30699v1 Announce Type: new Abstract: Discovering governing equations directly from observational data is a key step towards interpretable scientific machine learning. Current data-driven approaches typically operate on a single dataset, inherently limiting their performance when faced with restricted observations. In practice, multiple datasets are often available for the same physical ",
-        "tags": [
-          "cs.lg",
-          "physics.comp-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1129
-      },
-      {
-        "id": "6a8c74f2f9df5667",
-        "title": "ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning",
-        "url": "https://arxiv.org/abs/2606.30778",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30778v1 Announce Type: new Abstract: Mapping a chemical reaction network, the graph of minima and transition states (TS) and the elementary reactions connecting them, is the natural language of chemistry, from catalysis to combustion to the origin of life. Constructing such a reaction network for a given chemistry has been impractical: it requires finding and characterizing tens of thou",
-        "tags": [
-          "cs.lg",
-          "physics.chem-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1129
-      },
-      {
-        "id": "88f464c20fdf1275",
-        "title": "Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization",
-        "url": "https://arxiv.org/abs/2606.30813",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30813v1 Announce Type: new Abstract: Deep neural networks with repeated architectural blocks, such as transformers, often exhibit structured relationships across layers that emerge during training. Motivated by this observation, we introduce \\emph{Depth-wise Gradient Augmentation}, a general optimization paradigm in which the update applied to each layer is obtained by transforming the ",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
@@ -3153,6 +3154,32 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0146
+      },
+      {
+        "id": "cd94943fe6b944d3",
+        "title": "Togetherness: How co-operation built the world",
+        "url": "https://www.nature.com/articles/d41586-026-02067-6",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1782864000000,
+        "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8896
+      },
+      {
+        "id": "a6bbd3f36876bc6d",
+        "title": "Paper mill cancer studies get double the number of citations as genuine papers",
+        "url": "https://www.nature.com/articles/d41586-026-01908-8",
+        "source": "Nature",
+        "lane": "science",
+        "published_ts": 1782864000000,
+        "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-01908-8Potentially fraudulent papers often cite each other and could be inflating the impact factor of journals in which they are published.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8896
       },
       {
         "id": "b13f5fc2771b77e6",
@@ -3674,36 +3701,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
-      },
-      {
-        "id": "83a6055351a1febc",
-        "title": "Prehistoric plague could have caused population collapse in Stone Age Europe",
-        "url": "https://phys.org/news/2026-06-prehistoric-plague-population-collapse-stone.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782849606000,
-        "summary": "Did a major epidemic of plague trigger a prolonged collapse in Europe's population in late Neolithic times—from around 5,600 to 4,000 years ago?",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0187
-      },
-      {
-        "id": "13d1474c27a4ca8d",
-        "title": "'Ragebait' culture on social media exposed in new study",
-        "url": "https://phys.org/news/2026-06-ragebait-culture-social-media-exposed.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782848407000,
-        "summary": "A new study has revealed how social media creators are turning anger into entertainment, and what that means for public debate. Research by Dr. Nicholas John from the University of Manchester and Dr. CJ Reynolds from the University of Copenhagen has explored the rise of \"ragebait\"—content deliberately designed to provoke anger—and how it is reshaping the way audiences engage with morality, account",
-        "tags": [
-          "social sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0194
       }
     ]
   },
