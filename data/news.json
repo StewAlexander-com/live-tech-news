@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:00:17.655829+00:00",
+  "generated_at": "2026-07-01T08:21:04.901841+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -947,6 +947,26 @@
     ],
     "innovation": [
       {
+        "id": "11bfeefa4f7624f1",
+        "title": "Watch a Steam Controller Skitter Itself To Its Charge Puck",
+        "url": "https://hackaday.com/2026/07/01/watch-a-steam-controller-skitter-itself-to-its-charge-puck/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1782892814000,
+        "summary": "Hacks don’t have to be practical but it helps if they are educational or clever or amusing, as [Ray Foss] demonstrates with his auto-docking Steam Controller. It’s an open-source web …read more",
+        "tags": [
+          "games",
+          "peripherals hacks",
+          "computer vision",
+          "haptic feedback",
+          "rube goldberg",
+          "steam controller"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0728
+      },
+      {
         "id": "b4804e15174d0ac2",
         "title": "Judge clears states to try claim that Meta hooked children on Facebook and Instagram",
         "url": "https://thenextweb.com/news/meta-addiction-states-lawsuit-dismissal-denied",
@@ -961,6 +981,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8903
+      },
+      {
+        "id": "770190277b017705",
+        "title": "San Marcos becomes the first Texas city to ban data centers, testing its local control",
+        "url": "https://www.reddit.com/r/technology/comments/1ukepr8/san_marcos_becomes_the_first_texas_city_to_ban/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1782890544000,
+        "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9323
       },
       {
         "id": "181540998fd0f54e",
@@ -1813,41 +1848,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9446
-      },
-      {
-        "id": "b4413f6105e04208",
-        "title": "I stopped rebuilding the same Excel pivot every week after learning this one trick",
-        "url": "https://www.makeuseof.com/stopped-rebuilding-same-excel-pivot-one-trick/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782846018000,
-        "summary": "My reports update themselves now.",
-        "tags": [
-          "productivity",
-          "microsoft excel",
-          "productivity tips"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8495
-      },
-      {
-        "id": "c4229156ac1ae646",
-        "title": "Beats Launches Solo Buds in Retailer-Exclusive Orange Color in the U.S. and Japan",
-        "url": "https://www.macrumors.com/2026/06/30/beats-solo-buds-orange-best-buy/",
-        "source": "Mac Rumors",
-        "lane": "innovation",
-        "published_ts": 1782845967000,
-        "summary": "Apple's Beats brand has launched a new retailer-exclusive orange color for its Solo Buds, with the earphones available now at Best Buy in the United States and coming July 4 to 7–Eleven in Japan. The Solo Buds are an entry-level earphone product from Beats, normally priced at $79.99 in the United States, although they are occasionally offered on sale such as the current $10 discount at Best Buy br",
-        "tags": [
-          "beats"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9991
       }
     ],
     "ai": [
+      {
+        "id": "5eda381ac3eef6a9",
+        "title": "[Thread] The US' now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models (Alex Stamos/@alexstamos)",
+        "url": "https://www.techmeme.com/260701/p12#a260701p12",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782892850000,
+        "summary": "Alex Stamos / @alexstamos: [Thread] The US' now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models — A lot to unpack here. Anthropic is burying some hard truths in careful political language. Some initial reads: 1) Anthropic verifies that none of the jailbreaks provided a capability beyond what many other model",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.073
+      },
       {
         "id": "b5c72d5560eb21eb",
         "title": "Anthropic says \"some routine tasks like coding and debugging\" on Fable 5 \"will fall back to Opus 4.8\" in \"the near term\" as it works to \"reduce false positives\" (@anthropicai)",
@@ -1860,6 +1876,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9967
+      },
+      {
+        "id": "310dc350e741bcac",
+        "title": "Godot will no longer accept AI-authored code contributions",
+        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782891802000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:14"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1204
       },
       {
         "id": "d814fdfc5d71946e",
@@ -2761,40 +2793,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9142
-      },
-      {
-        "id": "cf264cd753bf1046",
-        "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-        "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782846158000,
-        "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-        "tags": [
-          "ai",
-          "ai videos",
-          "gemini omni flash",
-          "google",
-          "nano banana 2 lite"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8039
-      },
-      {
-        "id": "8492c940a84cb703",
-        "title": "Claude Science is Here, Antibiotics Designed by Text Prompt Among Applications",
-        "url": "https://science.slashdot.org/story/26/06/30/1844221/claude-science-is-here-antibiotics-designed-by-text-prompt-among-applications?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1782846000000,
-        "summary": "Anthropic has launched Claude Science, an AI workbench that connects more than 60 scientific databases and tools through a single interface. Through the platform, Basecamp Research is making its EDEN models available for tasks such as designing antibiotic peptides and predicting vaccine targets from simple text prompts, though the results still require laboratory testing before clinical use. Genet",
-        "tags": [
-          "science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1332
       }
     ],
     "science": [
