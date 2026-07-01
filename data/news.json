@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-01T19:13:45.308285+00:00",
+  "generated_at": "2026-07-01T19:46:22.683529+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "56102896cc49f879",
+        "title": "I found out my Android was throttling my fast charger until I flipped one setting",
+        "url": "https://www.makeuseof.com/found-out-android-throttling-fast-charger-until-flipped-one-setting/",
+        "source": "MakeUseOf",
+        "lane": "gadgets",
+        "published_ts": 1782934220000,
+        "summary": "The reason my fast charger never felt fast.",
+        "tags": [
+          "android",
+          "charger",
+          "android tips",
+          "samsung galaxy",
+          "batteries",
+          "usb"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8456
+      },
+      {
+        "id": "296ba4e51e4bd4ff",
+        "title": "Xbox reportedly testing a way to digitize physical games in the wake of PlayStation killing game discs — feature said to go back to Xbox One-era games",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/xbox-reportedly-testing-a-way-to-digitize-physical-games-in-the-wake-of-playstation-killing-game-discs-feature-said-to-go-back-to-xbox-one-era-games",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1782933565000,
+        "summary": "Microsoft is reportedly testing a feature to digitize physical games going back to the Xbox One with digital copies tied to the owner of the physical disc.",
+        "tags": [
+          "console gaming",
+          "video games"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9418
+      },
       {
         "id": "d67186b4c4be979d",
         "title": "This Game Boy emulator for the M5PaperS3 runs at 60 FPS on an E Ink screen",
@@ -937,43 +973,61 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8484
-      },
-      {
-        "id": "ae405db85e001494",
-        "title": "That free VPN Chrome and Firefox extension may be reading your clipboard every half a second, researchers warn",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/that-free-vpn-chrome-and-firefox-extension-may-be-reading-your-clipboard-every-half-a-second-researchers-warn",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782912130000,
-        "summary": "Researchers at Socket found two \"VPN Go\" browser extensions for Chrome and Firefox that posed as free VPNs while quietly stealing clipboard data through later updates.",
-        "tags": [
-          "vpn privacy &amp; security",
-          "cyber security",
-          "vpn",
-          "computing",
-          "computing security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8465
-      },
-      {
-        "id": "5b8a4f5cd26d0a6e",
-        "title": "Apple Hide My Email Vulnerability Exposes Real Email Addresses",
-        "url": "https://www.macrumors.com/2026/07/01/hide-my-email-vulnerability-exposes-real-addresses/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782912019000,
-        "summary": "A flaw in Apple's Hide My Email service can reportedly allow almost anyone to uncover the real email address behind a generated alias, and Apple has failed to address it for more than a year since it was first reported. 404 Media is withholding the technical specifics of the vulnerability because it remains exploitable, but the publication verified the issue this week using one of its own Hide My ",
-        "tags": [
-          "apple mail"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9953
       }
     ],
     "innovation": [
+      {
+        "id": "4bfa1b60381b6869",
+        "title": "Hyundai and Kia built a UV system that kills bacteria inside a car while you are sitting in it",
+        "url": "https://thenextweb.com/news/hyundai-kia-plasma-care-uvc-cabin-sanitization",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1782934007000,
+        "summary": "Hyundai and Kia have unveiled an in-vehicle sanitization system that uses far-ultraviolet light to kill bacteria and viruses inside a car cabin, even while passengers are present. The technology, called Plasma Care UVC, is what the companies describe as the first system of its kind designed for production vehicles. Conventional ultraviolet sterilization poses a risk […] This story continues at The",
+        "tags": [
+          "cars"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8944
+      },
+      {
+        "id": "281befd9fb5c8e8e",
+        "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+        "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1782933487000,
+        "summary": "Research appears to reveal a bug that could render the feature effectively useless.",
+        "tags": [
+          "privacy",
+          "apple",
+          "email"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7412
+      },
+      {
+        "id": "6d58118b9a10aa5a",
+        "title": "US home battery installations hit record high in early 2026",
+        "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+        "source": "Ars Technica Science",
+        "lane": "innovation",
+        "published_ts": 1782933075000,
+        "summary": "Record home battery installations unlock options for grids—and AI data centers.",
+        "tags": [
+          "science",
+          "ai data centers",
+          "batteries",
+          "battery",
+          "data centers",
+          "home battery"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0679
+      },
       {
         "id": "5ea55ad82e648a1c",
         "title": "Nanotubes and nanosheets boost fast energy storage",
@@ -1038,6 +1092,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0118
+      },
+      {
+        "id": "0624bfd0167b197b",
+        "title": "Honda starts making batteries for data centres at a factory built for EVs it cancelled",
+        "url": "https://thenextweb.com/news/honda-ev-battery-pivot-data-center-energy-storage",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1782930905000,
+        "summary": "Honda has begun producing batteries for energy storage systems at its Ohio factory, according to a report from Nikkei Asia. The plant was originally built to supply cells for electric vehicles the company cancelled three months ago. Those batteries are now headed to data centres instead of driveways. The shift follows Honda’s decision in March […] This story continues at The Next Web",
+        "tags": [
+          "alternative fuel"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8796
       },
       {
         "id": "302be79fb7d16607",
@@ -1905,65 +1974,25 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9427
-      },
-      {
-        "id": "2f41f4dc320b012c",
-        "title": "BYD Set to Overtake Tesla Again on Electric-Car Sales",
-        "url": "https://www.reddit.com/r/technology/comments/1ukkmea/byd_set_to_overtake_tesla_again_on_electriccar/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782909773000,
-        "summary": "submitted by /u/TripleShotPls [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9043
-      },
-      {
-        "id": "f0260fadadec0d88",
-        "title": "The video game industry just told lawmakers Minecraft and Call of Duty private servers are illegal piracy",
-        "url": "https://www.reddit.com/r/technology/comments/1ukkkul/the_video_game_industry_just_told_lawmakers/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782909657000,
-        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9176
-      },
-      {
-        "id": "3c5f7629a701dfb0",
-        "title": "A researcher says a vulnerability in Apple's Hide My Email tool lets anyone see a user's real email address; first reported in June 2025, Apple has not fixed it (Joseph Cox/404 Media)",
-        "url": "https://www.techmeme.com/260701/p26#a260701p26",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782909300000,
-        "summary": "Joseph Cox / 404 Media: A researcher says a vulnerability in Apple's Hide My Email tool lets anyone see a user's real email address; first reported in June 2025, Apple has not fixed it — “Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9367
-      },
-      {
-        "id": "5b9f3439f423912a",
-        "title": "A researcher says a vulnerability in Apple's Hide My Email tool lets anyone discover a real email address; first reported in June 2025, Apple is yet to fix it (Joseph Cox/404 Media)",
-        "url": "https://www.techmeme.com/260701/p26#a260701p26",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1782909300000,
-        "summary": "Joseph Cox / 404 Media: A researcher says a vulnerability in Apple's Hide My Email tool lets anyone discover a real email address; first reported in June 2025, Apple is yet to fix it — “Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9987
       }
     ],
     "ai": [
+      {
+        "id": "c0102960eb2f5a76",
+        "title": "ZCode: Claude Code from the Makers of GLM",
+        "url": "https://zcode.z.ai/cn",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1782933098000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:33"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0384
+      },
       {
         "id": "f29c58d295382e8a",
         "title": "Beyond 3-D: Data scientists introduce novel AI tool to interpret complex biological data",
@@ -2935,29 +2964,87 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1201
-      },
-      {
-        "id": "9b2572de411e29dc",
-        "title": "This new tool can let you ask Claude if that 'too good to be true' online offer is actually a scam",
-        "url": "https://www.techradar.com/pro/this-new-tool-can-let-you-ask-claude-if-that-too-good-to-be-true-online-offer-is-actually-a-scam",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1782908400000,
-        "summary": "Norton's scam detection will let you ask Claude whether an email or online deal looks suspicious without leaving the AI chatbot.",
-        "tags": [
-          "pro",
-          "security",
-          "cyber security",
-          "ai platforms &amp; assistants",
-          "computing",
-          "computing security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9124
       }
     ],
     "science": [
+      {
+        "id": "28d802bbab6219ea",
+        "title": "Baker's yeast shows potential in treatment of persistent fungal infection",
+        "url": "https://phys.org/news/2026-07-baker-yeast-potential-treatment-persistent.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782934805000,
+        "summary": "Millions of women worldwide suffer from vaginal yeast infections. These infections are most commonly caused by the fungus Candida albicans and can lead to symptoms ranging from itching and burning to recurrent inflammation. An international research team has now shown that an unlikely ally—a member of the yeast species known from the worlds of baking and brewing—could help combat these infections:",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0179
+      },
+      {
+        "id": "d3df4df9e26a261f",
+        "title": "How mating competition, age and sex shape immune systems in wild bats",
+        "url": "https://phys.org/news/2026-07-competition-age-sex-immune-wild.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782934804000,
+        "summary": "A new study of wild bats reveals that an animal's immune system is shaped by more than its need to fight infections. Researchers from the University of Maryland have found that sex, age and competition for mates influence how bats balance different types of immune defenses—providing new insight into how evolutionary pressures shape immune strategy.",
+        "tags": [
+          "evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0179
+      },
+      {
+        "id": "8a521c299673c05e",
+        "title": "TESS just found a planet in a new way—and more may be hiding in its eight years of data",
+        "url": "https://phys.org/news/2026-07-tess-planet-years.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782933717000,
+        "summary": "For the first time, NASA's TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to its warping of space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound microlensing world is a super-Jupiter orbiting far from its host star.",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.093
+      },
+      {
+        "id": "66b1a33c163d1a29",
+        "title": "When parasites stop having sex, they may become less picky about their hosts",
+        "url": "https://phys.org/news/2026-07-parasites-sex-picky-hosts.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1782933610000,
+        "summary": "A new evolutionary theory suggests that some asexual parasites may temporarily be able to infect a wider range of hosts as harmful genetic mutations build up. In a paper published in Trends in Parasitology, Cock van Oosterhout, a professor from the University of East Anglia (UEA), suggests that some parasites may become \"generalists\" not because they adapt successfully to many hosts, but because h",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0115
+      },
+      {
+        "id": "a6e2490562024349",
+        "title": "Superworms could replace beetles for cleaning skeletal remains",
+        "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+        "source": "Ars Technica Science",
+        "lane": "science",
+        "published_ts": 1782932361000,
+        "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+        "tags": [
+          "science",
+          "archaeology",
+          "museum conservation",
+          "worms"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.985
+      },
       {
         "id": "4f2f5f2ce940060e",
         "title": "A new CRASH clock measures the chance of satellite collisions, and it's ticking down fast",
@@ -3799,87 +3886,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0109
-      },
-      {
-        "id": "8c1d6c7c9b580b7c",
-        "title": "Italy displays paintings from an ancient Etruscan tomb, its latest cultural acquisition",
-        "url": "https://phys.org/news/2026-07-italy-displays-ancient-etruscan-tomb.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782885894000,
-        "summary": "Italy on Tuesday put on display one of the best known examples of Etruscan painting, panels from a tomb that it acquired for 15 million euros ($17 million) in the Culture Ministry's buying spree of big-ticket pieces of the country's cultural heritage.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0103
-      },
-      {
-        "id": "726020a4ee6ede32",
-        "title": "Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation",
-        "url": "https://arxiv.org/abs/2606.31043",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.31043v1 Announce Type: new Abstract: Residual reinforcement learning adapts a pretrained robot policy by learning an additive correction to its actions. While effective when adaptation amounts to shifting the base policy's action distribution, additive corrections cannot change the distribution's shape, scale, or state-dependent geometry -- limitations we formalize as wrong variance, mi",
-        "tags": [
-          "cs.lg",
-          "cs.ro"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8458
-      },
-      {
-        "id": "5204de789e26807e",
-        "title": "A Bayesian Filtering Approach for Learning Lagrangian Dynamics from Noisy Measurements",
-        "url": "https://arxiv.org/abs/2606.31137",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.31137v1 Announce Type: new Abstract: This paper proposes a Bayesian filtering-based approach for learning the dynamics of a physical system from partial, noisy measurements. We model the system dynamics using a Lagrangian mechanics formulation. As in Lagrangian neural networks (LNNs), we parameterize the kinetic and potential energies with neural networks. The unknown external forces in",
-        "tags": [
-          "cs.lg",
-          "eess.sp"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8458
-      },
-      {
-        "id": "85d42bf1983e8808",
-        "title": "Partition-Guided Distance Saliency: Bridging Decision and Objective Spaces in Many-Objective Optimization",
-        "url": "https://arxiv.org/abs/2606.30836",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30836v1 Announce Type: new Abstract: Explainability in Many-Objective Optimization (MaO) is currently hindered by the escalating complexity of the Pareto front, which renders the relationship between high-dimensional decision variables and objective outcomes increasingly opaque. As the number of objectives exceeds the limits of traditional visualization, decision-makers encounter a ``co",
-        "tags": [
-          "cs.lg",
-          "cs.ne"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7831
-      },
-      {
-        "id": "b9b18aa335d5bffc",
-        "title": "Physics-informed Conditional Normalizing Flows for Angles-only Cislunar Orbit Determination",
-        "url": "https://arxiv.org/abs/2606.30936",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1782878400000,
-        "summary": "arXiv:2606.30936v1 Announce Type: new Abstract: Generative Astrodynamics is advanced in this work by extending generative modelling to an orbit determination problem in the cislunar environment. The task is formulated as conditional density estimation, aiming to infer the probability distribution of the initial state from angles-only measurements over short observation arcs. A normalising flow is ",
-        "tags": [
-          "cs.lg",
-          "astro-ph.ep",
-          "astro-ph.im",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7831
       }
     ]
   },
