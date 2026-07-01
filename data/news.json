@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-07-01T03:52:08.677845+00:00",
+  "generated_at": "2026-07-01T04:58:34.280870+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "8dde5e299dbc4322",
+        "title": "TDGT: A Tabular Data Generation Toolkit supporting adaptive GPU-accelerated Bayesian mixture models, diffusion-based models, and latent-space generative modeling",
+        "url": "https://arxiv.org/abs/2606.31268",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31268v1 Announce Type: new Abstract: The growing demand for privacy-preserving data sharing has positioned synthetic data generation as a critical component of responsible AI workflows. Despite notable advances in generative modeling, existing solutions often lack integration of adaptive generation strategies, multi-metric evaluation, and accessible end-to-end generators within a unifie",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "e3c187e7fb64fd13",
+        "title": "Hierarchical Global Attention (HGA)",
+        "url": "https://arxiv.org/abs/2606.30709",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30709v1 Announce Type: new Abstract: Hierarchical Global Attention (HGA) is a drop-in replacement for dense causal attention in pretrained long-context transformers. HGA preserves the original checkpoint parameters: the pretrained $W_Q$, $W_K$, $W_V$, and $W_O$ projections remain unchanged, no calibration parameters are introduced, and no retraining is required. Applied to Qwen3-30B-A3B",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
       {
         "id": "0c354d6bd54e4fbc",
         "title": "Now's the perfect time to stock up on USB-C cables for dirt cheap",
@@ -914,42 +946,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8075
-      },
-      {
-        "id": "9f7483d000824644",
-        "title": "A Spotify user just found a way to make it look like Apple Music — but there's something about it that doesn't sit right with me",
-        "url": "https://www.techradar.com/audio/spotify/a-spotify-user-just-found-a-way-to-make-it-look-like-apple-music-but-theres-something-about-it-that-doesnt-sit-right-with-me",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1782840458000,
-        "summary": "There's a hidden smartphone setting that lets you view Spotify in light mode, but it's a real eyesore.",
-        "tags": [
-          "spotify",
-          "audio",
-          "audio streaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8471
-      },
-      {
-        "id": "215ea2cfedb479d9",
-        "title": "American Express Announces New Apple Pay Feature",
-        "url": "https://www.macrumors.com/2026/06/30/american-express-apple-pay-redeem-points/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1782840422000,
-        "summary": "American Express today announced that you can now redeem Membership Rewards points when checking out with Apple Pay on the web and in apps on the iPhone and iPad. When checking out with Apple Pay on iOS 18 or iPadOS 18 or later, tap on your eligible American Express card (Platinum, Gold, Green, and others) and select the Membership Rewards points option. You can use points to cover all or part of ",
-        "tags": [
-          "apple pay",
-          "american express"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9964
       }
     ],
     "innovation": [
+      {
+        "id": "ac2a99db47bd6bd4",
+        "title": "Scenario Generation for Testing of Autonomous Driving Systems Using Real-World Failure Records",
+        "url": "https://arxiv.org/abs/2606.31131",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31131v1 Announce Type: new Abstract: To ensure safe on-road behavior, pre-deployment testing and failure discovery of Autonomous Driving Systems (ADS) is crucial. Present day simulation based testing methods focus largely on mathematical models for efficient search of optimal scenarios, assuming a fixed scenario representation. On the other hand, real-world testing involves substantial ",
+        "tags": [
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
       {
         "id": "47f8048dde7120f5",
         "title": "The “Father of the Internet” is finally retiring",
@@ -1848,27 +1863,245 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8507
-      },
-      {
-        "id": "5ed6d9e09d850eda",
-        "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-        "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-        "source": "MIT Technology Review",
-        "lane": "innovation",
-        "published_ts": 1782841008000,
-        "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
-        "tags": [
-          "biotechnology and health",
-          "biotech",
-          "roundtables",
-          "subscriber-only stories"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.04
       }
     ],
     "ai": [
+      {
+        "id": "3c6e59b72fcb3504",
+        "title": "Anthropic says Fable 5 will be available via usage credits for Claude users from July 7, and is working with partners to draft an AI jailbreak severity standard (Anthropic)",
+        "url": "https://www.techmeme.com/260701/p1#a260701p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1782881402000,
+        "summary": "Anthropic: Anthropic says Fable 5 will be available via usage credits for Claude users from July 7, and is working with partners to draft an AI jailbreak severity standard — On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.077
+      },
+      {
+        "id": "fc0500dd43ba9e20",
+        "title": "Gemini Spark can now automate your Mac, even when you're not looking",
+        "url": "https://www.androidpolice.com/gemini-spark-automate-mac-when-not-looking/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1782879086000,
+        "summary": "Spark comes to Gemini’s macOS app",
+        "tags": [
+          "google gemini",
+          "spark",
+          "utilities"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.985
+      },
+      {
+        "id": "d7582a0ce6ccd623",
+        "title": "Physicists and AI model Claude 'collaborate' to prove a 10-year-old jamming conjecture",
+        "url": "https://phys.org/news/2026-06-physicists-ai-claude-collaborate-year.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1782878402000,
+        "summary": "A mathematical problem that had remained unsolved for more than 10 years in the physics of complex systems has finally been resolved through an unusual collaboration: one involving two theoretical physicists and an artificial intelligence system. In a study published in the Journal of Statistical Mechanics: Theory and Experiment, Giorgio Parisi, Nobel Prize winner in physics, and Francesco Zamponi",
+        "tags": [
+          "mathematics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0811
+      },
+      {
+        "id": "90cc95f250d87daa",
+        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+        "url": "https://arxiv.org/abs/2606.30846",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30846v1 Announce Type: new Abstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence (AI), particularly retrieval-based approaches, offer a promising pathway to operate at this semantic",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "825d2bd5029954a1",
+        "title": "Investigating Multi-Agent Deliberation in Law",
+        "url": "https://arxiv.org/abs/2606.30906",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30906v1 Announce Type: new Abstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One particular movement that is gaining traction is that of agentic AI, wherein AI agents, based on Large Language Models (LLMs) can take autonomous actions. In particular, multi-agent approaches in the legal domain remain largely",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "29b9f39c1c11953f",
+        "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+        "url": "https://arxiv.org/abs/2606.30949",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30949v1 Announce Type: new Abstract: High-Level Synthesis (HLS) provides a fast path from concepts to silicon, but converting real-world software into synthesizable HLS code remains challenging due to restrictive language support and the gap between software and hardware programming practices. Existing automated and LLM-based refactoring approaches partially address this problem, yet th",
+        "tags": [
+          "cs.ai",
+          "cs.ar"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "e51e95ec0ad94e60",
+        "title": "Neuro-Bayesian-Symbolic Residual Attention Shallow Network: Explainable Deep Learning for Cybersecurity Risk Assessment",
+        "url": "https://arxiv.org/abs/2606.30953",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30953v1 Announce Type: new Abstract: We introduce the Neuro-Bayesian-Symbolic Residual Attention Shallow Network (NBS-RASN), a hybrid neural architecture for explainable cybersecurity risk assessment in open-source ecosystems. Unlike deep models that trade interpretability for accuracy, our shallow network encodes domain knowledge, causal reasoning, and expert judgment as differentiable",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "1c217a705c43ec3f",
+        "title": "AgentBound: Verifiable Behavioral Governance for Autonomous AI Agents",
+        "url": "https://arxiv.org/abs/2606.30970",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30970v1 Announce Type: new Abstract: Autonomous AI agents increasingly perform consequential actions on behalf of human principals, including financial transactions, external communications, and enterprise workflows. Existing agent infrastructure relies on identity federation and delegated authorization to authenticate workloads and control resource access, but it cannot determine wheth",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "cfae8a0f321c36fd",
+        "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+        "url": "https://arxiv.org/abs/2606.31179",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31179v1 Announce Type: new Abstract: As AI agents become increasingly capable of complex, long-horizon reasoning, rigorous and holistic evaluation is essential for measuring progress toward real-world healthcare applications. We introduce HealthAgentBench, a suite of 54 agentic healthcare tasks across 7 categories each with its unique environment. The benchmark suite spans diverse workf",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "adb19ed642755a67",
+        "title": "Joint discovery of governing partial differential equations from multi-source datasets by competitive optimization",
+        "url": "https://arxiv.org/abs/2606.30699",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30699v1 Announce Type: new Abstract: Discovering governing equations directly from observational data is a key step towards interpretable scientific machine learning. Current data-driven approaches typically operate on a single dataset, inherently limiting their performance when faced with restricted observations. In practice, multiple datasets are often available for the same physical ",
+        "tags": [
+          "cs.lg",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "6a8c74f2f9df5667",
+        "title": "ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning",
+        "url": "https://arxiv.org/abs/2606.30778",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30778v1 Announce Type: new Abstract: Mapping a chemical reaction network, the graph of minima and transition states (TS) and the elementary reactions connecting them, is the natural language of chemistry, from catalysis to combustion to the origin of life. Constructing such a reaction network for a given chemistry has been impractical: it requires finding and characterizing tens of thou",
+        "tags": [
+          "cs.lg",
+          "physics.chem-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "88f464c20fdf1275",
+        "title": "Gradient Smoothing: Coupling Layer-wise Updates for Improved Optimization",
+        "url": "https://arxiv.org/abs/2606.30813",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30813v1 Announce Type: new Abstract: Deep neural networks with repeated architectural blocks, such as transformers, often exhibit structured relationships across layers that emerge during training. Motivated by this observation, we introduce \\emph{Depth-wise Gradient Augmentation}, a general optimization paradigm in which the update applied to each layer is obtained by transforming the ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "5165f72e92f5913f",
+        "title": "Estimating Supply Incrementality in Two-sided Marketplaces: A Causal Machine Learning Approach",
+        "url": "https://arxiv.org/abs/2606.30999",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30999v1 Announce Type: new Abstract: In two-sided marketplaces with heterogeneous products, it is important to understand the causal relationship between additional supply and marketplace outcomes, such as the total quantity transacted or transaction value in the marketplace. This paper studies a causal machine learning approach to estimating this relationship across product segments. W",
+        "tags": [
+          "cs.lg",
+          "econ.em",
+          "stat.ap",
+          "stat.me"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "0389e1546f92d9a9",
+        "title": "Offline Reinforcement Learning for Fluid Controls: Data-based Multi-observational Policy Extraction",
+        "url": "https://arxiv.org/abs/2606.31025",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31025v1 Announce Type: new Abstract: Active flow control is a fundamental application in engineering. Recent advances in deep reinforcement learning have made progress in this field. However, the classical online RL approaches require extensive real-time interactions with the high fidelity environment, while each sensor configuration change necessitates whole policy retraining. All thes",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "b5534eb1408c3d4b",
+        "title": "Explaining Machine Learning and Memorization with Statistical Mechanics",
+        "url": "https://arxiv.org/abs/2606.31110",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31110v1 Announce Type: new Abstract: Artificial neural networks (NNs) and machine learning (ML) algorithms are poorly understood from a theoretical perspective, which makes it difficult to fully realize their potential and overcome their weaknesses. For instance, ML algorithms train NN weights by moving them along a low-dimensional subspace of their allowed values, but this implicitly l",
+        "tags": [
+          "cs.lg",
+          "cond-mat.stat-mech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
       {
         "id": "3255d98b54ef57af",
         "title": "Gemini Spark comes to Google's Gemini app for macOS",
@@ -2599,245 +2832,136 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9146
-      },
-      {
-        "id": "003886dd2c1aba2d",
-        "title": "Schneider Electric buys industrial-AI firm Cognite for $3.1bn",
-        "url": "https://thenextweb.com/news/schneider-electric-cognite-3-1bn-industrial-ai",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782843704000,
-        "summary": "Schneider Electric is buying Cognite, a Norwegian-founded industrial AI company, for $3.1bn in cash. The French group wants software that can make factories and power grids think for themselves. Schneider Electric said on June 30, 2026 that it had agreed to acquire all of Cognite in an all-cash deal worth $3.1bn. Cognite builds software that […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "sustainability",
-          "europe",
-          "business",
-          "investors and funding",
-          "corporates and innovation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9673
-      },
-      {
-        "id": "5f9ae93da1df68e7",
-        "title": "AI-powered platform lays the foundation for a new era of catalyst discovery",
-        "url": "https://phys.org/news/2026-06-ai-powered-platform-lays-foundation.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1782843603000,
-        "summary": "Artificial intelligence is rapidly changing how scientists search for new catalysts—the materials that speed up chemical reactions essential for producing fuels, chemicals and clean energy technologies. However, despite remarkable advances in AI, a major obstacle remains: a lack of comprehensive, standardized data that AI systems can effectively learn from. Solving this data challenge is key to un",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0957
-      },
-      {
-        "id": "d828fed39d6e5605",
-        "title": "Willy Wonka Competition Series Starring the AI Voice of Gene Wilder Coming Soon to Netflix",
-        "url": "https://www.cnet.com/tech/services-and-software/willy-wonka-competition-series-golden-ticket-ai-voice-gene-wilder-netflix/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1782843540000,
-        "summary": "Oompa Loompa doompety-doo, Netflix has a Wonka reality series for you.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.869
-      },
-      {
-        "id": "e649b3cda995e8e8",
-        "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-        "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782843182000,
-        "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-        "tags": [
-          "ai",
-          "tc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8063
-      },
-      {
-        "id": "5f09bb0122fd44b4",
-        "title": "Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work (Anthropic)",
-        "url": "https://www.techmeme.com/260630/p29#a260630p29",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782843057000,
-        "summary": "Anthropic: Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work — Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9787
-      },
-      {
-        "id": "fe1199f5335c0507",
-        "title": "Anthropic launches Claude Sonnet 5, with performance close to Opus 4.8 at a lower price and substantially better agentic performance than Sonnet 4.6 (Anthropic)",
-        "url": "https://www.techmeme.com/260630/p29#a260630p29",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782843057000,
-        "summary": "Anthropic: Anthropic launches Claude Sonnet 5, with performance close to Opus 4.8 at a lower price and substantially better agentic performance than Sonnet 4.6 — Claude Sonnet 5 is built to be the most agentic Sonnet model yet. It can make plans, use tools like browsers and terminals …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9975
-      },
-      {
-        "id": "e4134c3ac7313971",
-        "title": "Download iOS 26.5.2 Now for a Smorgasbord of Security Fixes",
-        "url": "https://www.cnet.com/tech/services-and-software/download-ios-26-5-2-now-for-a-smorgasbord-of-security-fixes/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1782842774000,
-        "summary": "This update includes a patch for a vulnerability found with the help of Anthropic's Claude AI model, which has been in the news for its cybersecurity implications.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8654
-      },
-      {
-        "id": "86704a0ea2483364",
-        "title": "Anthropic launches Claude Science, an AI workbench for the lab",
-        "url": "https://thenextweb.com/news/anthropic-claude-science-ai-workbench-scientists",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782842586000,
-        "summary": "Anthropic has launched Claude Science, an app that pulls a researcher’s scattered tools into one place and lets AI agents run large parts of the work. It is the company’s biggest push yet into the lab. Anthropic said on June 30, 2026 that Claude Science is now available in beta. The company calls it an […] This story continues at The Next Web",
-        "tags": [
-          "anthropic",
-          "science",
-          "artificial intelligence",
-          "united states",
-          "business",
-          "health tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9616
-      },
-      {
-        "id": "46f96ea9c93c6664",
-        "title": "A study of 22K US companies shows those spending most heavily on AI are adding workers faster than peers, but most gains are among tech companies and startups (Financial Times)",
-        "url": "https://www.techmeme.com/260630/p28#a260630p28",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782842438000,
-        "summary": "Financial Times: A study of 22K US companies shows those spending most heavily on AI are adding workers faster than peers, but most gains are among tech companies and startups — Study of 22,000 US companies challenges fears that generative AI will trigger broad job losses",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.078
-      },
-      {
-        "id": "c5182b33c62dee81",
-        "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782842400000,
-        "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-        "tags": [
-          "ai",
-          "ai agents",
-          "anthropic",
-          "claude",
-          "sonnet 5"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7464
-      },
-      {
-        "id": "2a9db7ad1b23594f",
-        "title": "Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782842392000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:40"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2971
-      },
-      {
-        "id": "e6dcb99cd49a269d",
-        "title": "Acti puts AI agents directly into your smartphone keyboard",
-        "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1782841966000,
-        "summary": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-        "tags": [
-          "ai",
-          "apps",
-          "startups",
-          "tc",
-          "acti",
-          "agentic app"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8071
-      },
-      {
-        "id": "0d2294980b452b29",
-        "title": "Enterprise AI’s Missing Foundation: Why Content Governance May Matter More Than the Next AI Breakthrough",
-        "url": "https://thenextweb.com/news/enterprise-ai-content-governance-precision-content-rob-hanna",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782841795000,
-        "summary": "Rob Hanna observes that many enterprise AI initiatives may be losing momentum because organizations continue to treat language like structured data while overlooking the systems that make knowledge reliable. The co-founder and CEO of Precision Content, a technical communications consultancy, says, “Longstanding technical publications teams already possess many of the capabilities needed to establi",
-        "tags": [
-          "artificial intelligence",
-          "corporates and innovation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9575
-      },
-      {
-        "id": "c2a1de675567e4c7",
-        "title": "Source: OpenAI engineers earlier this month told some colleagues they had figured out a way to more than halve the cost of inference (Stephanie Palazzolo/The Information)",
-        "url": "https://www.techmeme.com/260630/p27#a260630p27",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782841257000,
-        "summary": "Stephanie Palazzolo / The Information: Source: OpenAI engineers earlier this month told some colleagues they had figured out a way to more than halve the cost of inference — We closely track efforts by Anthropic, Google and OpenAI to get access to more server chips to run their models. But we don't talk enough about the work …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9954
-      },
-      {
-        "id": "ad49d3d1cc4c7126",
-        "title": "Google warns EU data-sharing rules will hand your private info to cybercriminals within weeks",
-        "url": "https://www.makeuseof.com/google-says-new-anti-google-eu-data-sharing-rules-could-hand-your-private-info-to-hackers/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1782840632000,
-        "summary": "Google warns shared data and Android permissions for third-party AI could spike fraud and cyberattacks",
-        "tags": [
-          "browsers",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9157
       }
     ],
     "science": [
+      {
+        "id": "726020a4ee6ede32",
+        "title": "Warp RL: Reshaping Base Policy Distributions for Dynamics Adaptation",
+        "url": "https://arxiv.org/abs/2606.31043",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31043v1 Announce Type: new Abstract: Residual reinforcement learning adapts a pretrained robot policy by learning an additive correction to its actions. While effective when adaptation amounts to shifting the base policy's action distribution, additive corrections cannot change the distribution's shape, scale, or state-dependent geometry -- limitations we formalize as wrong variance, mi",
+        "tags": [
+          "cs.lg",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "5204de789e26807e",
+        "title": "A Bayesian Filtering Approach for Learning Lagrangian Dynamics from Noisy Measurements",
+        "url": "https://arxiv.org/abs/2606.31137",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31137v1 Announce Type: new Abstract: This paper proposes a Bayesian filtering-based approach for learning the dynamics of a physical system from partial, noisy measurements. We model the system dynamics using a Lagrangian mechanics formulation. As in Lagrangian neural networks (LNNs), we parameterize the kinetic and potential energies with neural networks. The unknown external forces in",
+        "tags": [
+          "cs.lg",
+          "eess.sp"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "fedc1ee716138d1c",
+        "title": "Revisiting the Volume Hypothesis",
+        "url": "https://arxiv.org/abs/2606.31282",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31282v1 Announce Type: new Abstract: Modern deep neural networks often contain far more parameters than needed to fit their training data, yet they achieve impressive generalization. A common explanation for this success is the implicit bias of stochastic gradient descent (SGD). An alternative volume hypothesis posits that, within low training-loss regions, loss-landscape basins leading",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1129
+      },
+      {
+        "id": "f0b75fd6e3adb591",
+        "title": "Beyond the Library: An Agentic Framework for Autoformalizing Research Mathematics",
+        "url": "https://arxiv.org/abs/2606.31134",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31134v1 Announce Type: new Abstract: While Large Language Models (LLMs) have demonstrated exceptional capabilities in mathematical reasoning, they frequently produce subtle errors that evade human detection. Formal mathematical languages like Lean 4 offer mechanical proof checking, strongly motivating the need for autoformalization: the automatic translation of natural language mathemat",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
+      {
+        "id": "299611ca15fc2c65",
+        "title": "CryoACE: An Atom-centric Framework for Accurate and Automated Model Building in Cryo-EM",
+        "url": "https://arxiv.org/abs/2606.31332",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.31332v1 Announce Type: new Abstract: Protein automodeling from cryo-EM density maps faces unique challenges in enforcing physicochemical validity and managing conformational heterogeneity. Current solvers are often limited to static predictions or require computationally intensive heuristic searches. We present CryoACE, an end-to-end framework that reconstructs precise atomic graphs for",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
+      {
+        "id": "6a3c766bb3516639",
+        "title": "Mind the Residual Gap: Probabilistic Downscaling under Real-World Bias",
+        "url": "https://arxiv.org/abs/2606.30821",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30821v1 Announce Type: new Abstract: Probabilistic downscaling is the task of modeling the conditional distribution of high-resolution fields given coarse inputs, and is a central challenge to atmospheric science, climate modeling, and other multiscale physical systems. A widely used paradigm decomposes the problem into a deterministic mean predictor followed by a stochastic residual ge",
+        "tags": [
+          "cs.lg",
+          "cs.ce"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
+      {
+        "id": "85d42bf1983e8808",
+        "title": "Partition-Guided Distance Saliency: Bridging Decision and Objective Spaces in Many-Objective Optimization",
+        "url": "https://arxiv.org/abs/2606.30836",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30836v1 Announce Type: new Abstract: Explainability in Many-Objective Optimization (MaO) is currently hindered by the escalating complexity of the Pareto front, which renders the relationship between high-dimensional decision variables and objective outcomes increasingly opaque. As the number of objectives exceeds the limits of traditional visualization, decision-makers encounter a ``co",
+        "tags": [
+          "cs.lg",
+          "cs.ne"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
+      {
+        "id": "b9b18aa335d5bffc",
+        "title": "Physics-informed Conditional Normalizing Flows for Angles-only Cislunar Orbit Determination",
+        "url": "https://arxiv.org/abs/2606.30936",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1782878400000,
+        "summary": "arXiv:2606.30936v1 Announce Type: new Abstract: Generative Astrodynamics is advanced in this work by extending generative modelling to an orbit determination problem in the cislunar environment. The task is formulated as conditional density estimation, aiming to infer the probability distribution of the initial state from angles-only measurements over short observation arcs. A normalising flow is ",
+        "tags": [
+          "cs.lg",
+          "astro-ph.ep",
+          "astro-ph.im",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0304
+      },
       {
         "id": "05c2f8771e82c152",
         "title": "New Florida Law Bans Local Net-Zero Emissions Policies",
@@ -3633,133 +3757,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0181
-      },
-      {
-        "id": "1019254134f6e403",
-        "title": "Arabian Sea sediments reveal summer and winter monsoons shifted differently after last ice age",
-        "url": "https://phys.org/news/2026-06-arabian-sea-sediments-reveal-summer.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782836408000,
-        "summary": "High-resolution sediment analyses from the Arabian Sea reveal, for the first time, that summer and winter monsoons respond differently to global climate change. The study enhances understanding of past precipitation patterns and could help refine climate models for regions influenced by monsoons.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.018
-      },
-      {
-        "id": "889933652dc770bc",
-        "title": "How to stay cool in a heat wave even without air conditioning",
-        "url": "https://phys.org/news/2026-06-stay-cool-air-conditioning.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782836404000,
-        "summary": "Heat can be dangerous, but health experts say there are ways to manage the threat.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.018
-      },
-      {
-        "id": "6ef076689b62c6b5",
-        "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
-        "url": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
-        "source": "TechCrunch",
-        "lane": "science",
-        "published_ts": 1782835797000,
-        "summary": "But the company is still claiming that New Glenn will return to flight this year.",
-        "tags": [
-          "space",
-          "transportation",
-          "blue origin",
-          "new glenn"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8074
-      },
-      {
-        "id": "00a3068f9db424c2",
-        "title": "I found the Linux tool that shows what's using your disk space — and lets you clean it up instantly",
-        "url": "https://www.makeuseof.com/found-linux-tool-shows-whats-using-disk-space-lets-you-clean-instantly/",
-        "source": "MakeUseOf",
-        "lane": "science",
-        "published_ts": 1782835219000,
-        "summary": "It takes fifteen seconds to see exactly where your space went.",
-        "tags": [
-          "linux",
-          "storage",
-          "linux commands"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.847
-      },
-      {
-        "id": "ed72f258bf47e9ef",
-        "title": "Fireworks, heat and drought make this July 4th a recipe for wildfires",
-        "url": "https://phys.org/news/2026-06-fireworks-drought-july-4th-recipe.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782835209000,
-        "summary": "Across the United States, the sky will be erupting with fireworks on July 4, 2026, and the days around it as America celebrates the 250th anniversary of its independence. Many cities will be hosting spectacular fireworks shows.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0163
-      },
-      {
-        "id": "0dbe105e025ca8e0",
-        "title": "Houston power plant emerges as dominant source of cloud-forming aerosols",
-        "url": "https://phys.org/news/2026-06-houston-power-emerges-dominant-source.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782835206000,
-        "summary": "Research by atmospheric scientists at UC San Diego's Scripps Institution of Oceanography and colleagues pinpointed an individual coal-fired power plant in Houston as the main source of particles most likely to encourage the formation of clouds around the metropolitan area.",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0163
-      },
-      {
-        "id": "cb4e71b267a12688",
-        "title": "Physicists demonstrate Hong–Ou–Mandel interference with more than 10 atoms",
-        "url": "https://phys.org/news/2026-06-physicists-hongoumandel-atoms.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782835201000,
-        "summary": "In a new study published in Nature Physics, researchers have demonstrated the Hong–Ou–Mandel (HOM) effect with up to 12 indistinguishable neutral atoms—an effect that has been predominantly observed in photonic systems.",
-        "tags": [
-          "optics & photonics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0163
-      },
-      {
-        "id": "7f351b48d413b2ed",
-        "title": "What is a quantum computer good for? Absolutely nothing — yet",
-        "url": "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo",
-        "source": "The Verge",
-        "lane": "science",
-        "published_ts": 1782835200000,
-        "summary": "To this day, we have yet to see a quantum computer conclusively perform a single useful task. Existing machines are simply too small and error-ridden to solve commercially relevant problems. That hasn't stopped Donald Trump's science adviser from promising a \"quantum computer powerful enough for scientific discovery by 2028\" and Trump from issuing a new […]",
-        "tags": [
-          "microsoft",
-          "science",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8522
       }
     ]
   },
