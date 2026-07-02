@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T20:55:25.561085+00:00",
+  "generated_at": "2026-07-02T21:30:57.897065+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -16,6 +16,19 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0184
+      },
+      {
+        "id": "063297362d2aa0fc",
+        "title": "T-Mobile vs. Verizon: What to Look for if You're Switching",
+        "url": "https://www.cnet.com/tech/mobile/t-mobile-vs-verizon-what-to-look-for-if-youre-switching/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1783024711000,
+        "summary": "Two of the biggest US carriers are battling for your business. We run down all the specs and features of their plans.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8063
       },
       {
         "id": "2b27d134faf7ab46",
@@ -91,6 +104,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8462
+      },
+      {
+        "id": "c4a3061acdde0bf0",
+        "title": "Why bulky laptop chargers are a relic of the past",
+        "url": "https://www.engadget.com/2204249/why-bulky-laptop-chargers-are-outdated/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1783017000000,
+        "summary": "Laptop chargers are much easier to travel with these days, and there's one specific technology that is largely to thank.",
+        "tags": [
+          "laptops"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6643
       },
       {
         "id": "5137eae9869ea0fd",
@@ -952,43 +980,70 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8076
-      },
-      {
-        "id": "c7c7e45a591ede15",
-        "title": "Save big on the Sihoo Doro C300 Pro V2 ergonomic chair",
-        "url": "https://www.androidpolice.com/sale-sihoo-doro-c300-pro-v2-ergonomic-chair/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1782997211000,
-        "summary": "This article is sponsored by Sihoo",
-        "tags": [
-          "sihoo doro c300 pro v2",
-          "sihoo",
-          "sponsored",
-          "sponsored",
-          "productivity"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9845
-      },
-      {
-        "id": "e5322cd480c95775",
-        "title": "Threads' ubiquitous Mr Beast spam is part of a massive crypto scam network",
-        "url": "https://www.engadget.com/2206409/threads-ubiquitous-mr-beast-spam-is-part-of-a-massive-crypto-scam-network/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1782997200000,
-        "summary": "Fake Mr Beast \"promotions\" are ubiquitous on Threads - they're also part of massive crypto scam network.",
-        "tags": [
-          "meta"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.693
       }
     ],
     "innovation": [
+      {
+        "id": "8adbae8171a0b838",
+        "title": "Palantir CEO Alex Karp suffers ‘televised nervous breakdown’ during live interview — “This is the voice of American business that is being channeled through me!”",
+        "url": "https://www.reddit.com/r/technology/comments/1ulun7d/palantir_ceo_alex_karp_suffers_televised_nervous/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783026531000,
+        "summary": "submitted by /u/marketrent [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9433
+      },
+      {
+        "id": "70bd8b4fc2f45190",
+        "title": "Labor Force Participation Rate Falls To Lowest In 50 years",
+        "url": "https://news.slashdot.org/story/26/07/02/213229/labor-force-participation-rate-falls-to-lowest-in-50-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1783026300000,
+        "summary": "The US unemployment rate fell to 4.2% in June largely because 720,000 people left the labor force, pushing participation to 61.5%. Excluding the Covid-era jobs market, that's the lowest participation rate since June 1976. CNBC reports: The decline in the labor force marks a \"massive exodus\" driven by multiple factors, said Mike Reid, head of U.S. economics at RBC. \"The unemployment rate fell to 4.",
+        "tags": [
+          "business"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0413
+      },
+      {
+        "id": "303a9b421c58d1fd",
+        "title": "My smart-home dashboard runs my whole morning now, not just the lights",
+        "url": "https://www.makeuseof.com/smart-home-dashboard-runs-morning-not-just-lights/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1783026019000,
+        "summary": "My smart home dashboard replaced half my morning apps.",
+        "tags": [
+          "smart home",
+          "open source"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8417
+      },
+      {
+        "id": "e612dbbe1a12e445",
+        "title": "Oregon Becomes the Next State to File a Class Action Against Kalshi for Operating Illegal Gambling, Allegedly",
+        "url": "https://www.reddit.com/r/technology/comments/1ulu4me/oregon_becomes_the_next_state_to_file_a_class/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783025349000,
+        "summary": "submitted by /u/Foreign_Wrongdoer727 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9373
+      },
       {
         "id": "26e5117af1fbef37",
         "title": "I Repeat Myself (5G vs. LTE Edition)",
@@ -1014,6 +1069,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9952
+      },
+      {
+        "id": "a40310cd02396a93",
+        "title": "America Is Having MacBook Sticker Shock",
+        "url": "https://www.reddit.com/r/technology/comments/1ultjmp/america_is_having_macbook_sticker_shock/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783024002000,
+        "summary": "submitted by /u/joe4942 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9306
       },
       {
         "id": "83a34a31a8980818",
@@ -1887,91 +1957,85 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0317
-      },
+      }
+    ],
+    "ai": [
       {
-        "id": "432df6e940317528",
-        "title": "Opera just blocked the clipboard hijacks that steal your bank numbers",
-        "url": "https://www.makeuseof.com/opera-is-the-first-browser-to-natively-defend-you-from-one-of-the-biggest-security-threats-out-there/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1782996795000,
-        "summary": "Your clipboard is a major security risk that hackers love to exploit",
+        "id": "a6ba396d0d7385a1",
+        "title": "Cloudflare will filter out web crawlers that serve AI companies",
+        "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1783027030000,
+        "summary": "The hosting platform wants sites to have more control over how AI companies use their content.",
         "tags": [
-          "security",
-          "opera gx"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8349
-      },
-      {
-        "id": "67e4299741cedab0",
-        "title": "Google loses final appeal over record €4.1 billion EU Android fine",
-        "url": "https://thenextweb.com/news/google-loses-final-appeal-over-record-e4-1-billion-eu-android-fine",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1782995922000,
-        "summary": "The Court of Justice of the European Union has dismissed Google’s final appeal against a €4.1 billion antitrust fine, ending an eight-year fight over how the company built Android into a vehicle for its search and browser dominance. The ruling, handed down on Thursday, leaves the penalty intact and closes off any further judicial route […] This story continues at The Next Web",
-        "tags": [
-          "legal",
-          "europe",
-          "next featured"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8799
-      },
-      {
-        "id": "ad262c6e84855ef1",
-        "title": "Rivian raises EV sales forecast as Q2 production ramps up",
-        "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1782995400000,
-        "summary": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.",
-        "tags": [
-          "transportation",
-          "electric vehicles",
-          "evs",
-          "rivian",
-          "rivian r2"
+          "ai"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7293
+        "score": 0.757
       },
       {
-        "id": "82aea1810774f2f6",
-        "title": "PlayStation’s Physical Media-Free Future Isn’t Just Concerning, It’s Offensive / You cannot trust digital purchases, and you cannot trust the corporations that offer them",
-        "url": "https://www.reddit.com/r/technology/comments/1ulgd64/playstations_physical_mediafree_future_isnt_just/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1782993910000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+        "id": "a029a0348326ae70",
+        "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+        "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1783026546000,
+        "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"gizmos\" built from an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI […]",
         "tags": [
-          "technology"
+          "apps",
+          "meta",
+          "news",
+          "tech"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9189
+        "score": 0.8494
       },
       {
-        "id": "102b1e2490d38279",
-        "title": "Amazon reveals it used more energy than New Zealand in 2025 as its carbon footprint rises 16%",
-        "url": "https://www.techradar.com/pro/amazon-reveals-it-used-more-energy-than-new-zealand-in-2025-as-its-carbon-footprint-rises-16-percent",
+        "id": "d411a7338ce161cf",
+        "title": "Samsung is plotting to replace your M.2 SSD with a storage chip smaller than a fingernail to improve battery life and supercharge ondevice AI inference",
+        "url": "https://www.techradar.com/pro/samsung-is-plotting-to-replace-your-m-2-ssd-with-a-storage-chip-smaller-than-a-fingernail-to-improve-battery-life-and-supercharge-ondevice-ai-inference",
         "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1782993900000,
-        "summary": "AWS has more data centers than before, hence the rise in emissions, but supply chain emissions are still a major problem.",
+        "lane": "ai",
+        "published_ts": 1783026300000,
+        "summary": "Faster, smaller and more power efficient",
         "tags": [
           "pro"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.8221
-      }
-    ],
-    "ai": [
+        "impact": "high",
+        "score": 0.9104
+      },
+      {
+        "id": "be4212c27191ed20",
+        "title": "At a town hall, Mark Zuckerberg said Meta's AI agent development has not accelerated as expected and its reorganization was not as \"clean\" as it could have been (Katie Paul/Reuters)",
+        "url": "https://www.techmeme.com/260702/p35#a260702p35",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1783026046000,
+        "summary": "Katie Paul / Reuters: At a town hall, Mark Zuckerberg said Meta's AI agent development has not accelerated as expected and its reorganization was not as “clean” as it could have been — Meta (META.O) Chief Executive Mark Zuckerberg told an internal town hall on Thursday that AI agent development …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0696
+      },
+      {
+        "id": "be79a02d91f733a8",
+        "title": "Companies that add more AI also add more people",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/02/companies-that-add-more-ai-also-add-more-people/5266134",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1783023573000,
+        "summary": "But doing so doesn't necessarily meet business needs",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1083
+      },
       {
         "id": "08c71a91451522c4",
         "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
@@ -2067,6 +2131,25 @@
         "score": 1.1001
       },
       {
+        "id": "d8af0161eff05008",
+        "title": "Newly discovered PamStealer isn't your typical macOS malware",
+        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+        "source": "Ars Technica AI",
+        "lane": "ai",
+        "published_ts": 1783021137000,
+        "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+        "tags": [
+          "apple",
+          "biz & it",
+          "security",
+          "infostealers",
+          "macos malware"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9647
+      },
+      {
         "id": "79d5c35293d36a4f",
         "title": "Truth Social Is Still Just Trump’s Blog",
         "url": "https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog",
@@ -2109,6 +2192,38 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8002
+      },
+      {
+        "id": "a6cebd914cdd79b7",
+        "title": "The Short Leash AI Coding Method for Beating Fable",
+        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783019517000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:13"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0845
+      },
+      {
+        "id": "c1417b2402200b79",
+        "title": "Claude-real-video － any LLM can watch a video",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783019412000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:20"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0036
       },
       {
         "id": "3f9fa2f2c23b37b9",
@@ -2801,131 +2916,39 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8049
-      },
-      {
-        "id": "d0e41b40240ef708",
-        "title": "AI could bring satellite crop monitoring to the world's most vulnerable farms",
-        "url": "https://phys.org/news/2026-07-ai-satellite-crop-world-vulnerable.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1783000344000,
-        "summary": "Small farms grow much of the world's food, but from space they are nearly invisible. Their fields are tiny and ill-defined, and the satellite tools built to track crops were designed for the large, uniform fields of industrial agriculture, not the sub-hectare plots that feed many of the world's poorest people.",
-        "tags": [
-          "biotechnology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0974
-      },
-      {
-        "id": "5e65c089589c3d5d",
-        "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782999821000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:127"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.3195
-      },
-      {
-        "id": "871c8c8dd7dc44d0",
-        "title": "Why the next leap in AI video is teaching avatars to see and listen",
-        "url": "https://thenextweb.com/news/interactive-avatar-models-three-levels-interactivity",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1782999563000,
-        "summary": "For the past few years, progress in generative video and AI avatars has been measured almost entirely in fidelity, with each new model making significant progress in delivering sharper detail, better physics, and smoother motion packaged in longer clips. That race is far from over, but it is starting to miss a more interesting direction. […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "deep tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9303
-      },
-      {
-        "id": "347fb621e228f6bf",
-        "title": "An AI board that pre-registers its bets – bet #1 just graded wrong",
-        "url": "https://github.com/danilushin/asktheboard",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782998975000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.127
-      },
-      {
-        "id": "9b9cf27e1ad5acb4",
-        "title": "Donald Trump bought a bunch of tech stock the same day he announced his AI Action Plan",
-        "url": "https://www.engadget.com/2206671/donald-trump-bought-a-bunch-of-tech-stock-the-same-day-he-announced-his-ai-action-plan/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1782998862000,
-        "summary": "Financial disclosures show how much Trump loves tech stocks.",
-        "tags": [
-          "big tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7552
-      },
-      {
-        "id": "f5d3dbe674db1cf5",
-        "title": "AI boom blows up Big Tech’s climate promises",
-        "url": "https://www.reddit.com/r/technology/comments/1uli976/ai_boom_blows_up_big_techs_climate_promises/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1782998791000,
-        "summary": "submitted by /u/Wagamaga [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9779
-      },
-      {
-        "id": "c68ae174f7638f2c",
-        "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
-        "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1782998214000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:7"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1224
-      },
-      {
-        "id": "28dda1f10c21ea90",
-        "title": "Microsoft invests $2.5B and forms the Microsoft Frontier Company to embed 6,000 forward-deployed engineers with customers to help deploy AI systems (Todd Bishop/GeekWire)",
-        "url": "https://www.techmeme.com/260702/p22#a260702p22",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1782998101000,
-        "summary": "Todd Bishop / GeekWire: Microsoft invests $2.5B and forms the Microsoft Frontier Company to embed 6,000 forward-deployed engineers with customers to help deploy AI systems — Microsoft is launching a new AI “company.” It won't be a separate legal entity, and most of its 6,000 people already work at Microsoft.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9532
       }
     ],
     "science": [
+      {
+        "id": "357fb28b5fc334e6",
+        "title": "Compromise drives shared risky decisions, but biased blame and credit can break teamwork",
+        "url": "https://phys.org/news/2026-07-compromise-risky-decisions-biased-blame.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783027802000,
+        "summary": "Relationships are all about compromise. From deciding on where to eat dinner with a friend to negotiating chore lists at home, we often experience situations that require some flexibility. But what happens when we must work with others—especially people we don't know—to make a risky decision? That's what Caltech's Dean Mobbs, professor of cognitive neuroscience, and members of his lab set out to e",
+        "tags": [
+          "social sciences"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0197
+      },
+      {
+        "id": "020856d96409611a",
+        "title": "Diffractive networks enable optical information transfer through random and unknown diffusers",
+        "url": "https://phys.org/news/2026-07-diffractive-networks-enable-optical-random.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783027201000,
+        "summary": "The transmission of optical information through random scattering media is a major challenge in optics, biomedical imaging, telecommunications and remote sensing. When light passes through a turbid or diffusive medium, such as biological tissue or a randomly structured optical material, the original image information can be severely distorted, making reliable recovery difficult.",
+        "tags": [
+          "optics & photonics"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0977
+      },
       {
         "id": "81f1589bd9e3f9a3",
         "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
@@ -3802,36 +3825,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0187
-      },
-      {
-        "id": "ebbe1575d68001f0",
-        "title": "Cutting emissions more, removing carbon less could save 33,000 U.S. lives yearly",
-        "url": "https://phys.org/news/2026-07-emissions-carbon-yearly.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782944404000,
-        "summary": "Published in Nature Climate Change, new research from the University of Wisconsin–Madison finds that reaching net-zero emissions by midcentury would substantially improve public health in the United States. However, climate strategies that heavily depend on carbon dioxide removal are likely to lead to worse pollution, air quality and climate-related premature deaths than scenarios that prioritize ",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
-      },
-      {
-        "id": "05fd74e3fa858d46",
-        "title": "Unlocking the 'black box' of carbon materials: Study reveals origins of defect peaks",
-        "url": "https://phys.org/news/2026-07-black-carbon-materials-reveals-defect.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1782944402000,
-        "summary": "Carbon materials, such as carbon fibers and activated carbons, are essential across a wide variety of fields, encompassing everything from aerospace engineering to fuel cells and thermal insulation. For decades, Raman, infrared and X-ray photoelectron spectroscopy (XPS) have been the primary tools used to analyze carbon materials. However, because of their diverse structural conditions and inconsi",
-        "tags": [
-          "nanomaterials"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0155
       }
     ]
   },
