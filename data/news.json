@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:43:28.071601+00:00",
+  "generated_at": "2026-07-03T19:54:37.200079+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -981,7 +981,7 @@
           "google pixel"
         ],
         "paywall": false,
-        "impact": "normal",
+        "impact": "high",
         "score": 0.8464
       },
       {
@@ -1037,6 +1037,25 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.8442
+      },
+      {
+        "id": "b2261579324ab811",
+        "title": "The Dune keypad device can be your meeting controller and more",
+        "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1783103310000,
+        "summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+        "tags": [
+          "gadgets",
+          "claude",
+          "custom keyboards",
+          "gadget",
+          "project mirage"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7276
       },
       {
         "id": "c8750f5d61f32a58",
@@ -1940,22 +1959,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9958
-      },
-      {
-        "id": "30beff63ff17cd74",
-        "title": "ElevenLabs in talks for tender offer at $22bn valuation, doubling February mark",
-        "url": "https://thenextweb.com/news/elevenlabs-tender-offer-22-billion-valuation",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1783075782000,
-        "summary": "The voice AI startup is reportedly weighing a staff share sale that would value it at nearly double its February funding round, according to people familiar with the discussions. ElevenLabs is in early talks with investors about an employee tender offer that would value the voice AI startup at roughly $22 billion, according to Bloomberg, which […] This story continues at The Next Web",
-        "tags": [
-          "business",
-          "startups and technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9412
       }
     ],
     "ai": [
@@ -1971,6 +1974,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9957
+      },
+      {
+        "id": "eaa46cecccc74249",
+        "title": "The MJ Rathbun case: How an autonomous AI bot cyberbullied a human programmer",
+        "url": "https://chatgptdesactualizado.blogspot.com/2026/07/mj-rathbun-chronicles-of-first-bully.html",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783106955000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:3"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1248
       },
       {
         "id": "c557e7baf2f58b08",
@@ -2838,6 +2857,87 @@
         "score": 0.8297
       },
       {
+        "id": "801e802786e266e0",
+        "title": "Domain Knowledge Based Temporal-Spatial Graph Convolution Network for ECG Recognition",
+        "url": "https://arxiv.org/abs/2607.01282",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01282v1 Announce Type: new Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread application, challenges persist in the interpretability of AI models, particularly within specialized domains like healthcare, such as electro cardiograph (ECG) recognition. Rather than relying solely on end-to-end convolutional neural networks, this paper introduces a novel appro",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8348
+      },
+      {
+        "id": "d58a6cb27408337c",
+        "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
+        "url": "https://arxiv.org/abs/2607.01283",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01283v1 Announce Type: new Abstract: Grid-based approaches to approximate nearest neighbor (ANN) search have been absent from modern scaling analyses. We present a systematic characterization of a multiprobe grid algorithm with respect to dataset size $N$ and dimensionality $d$. Our experiments reveal a previously unreported $d$-scaling crossover on the GloVe embedding family, in which ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8348
+      },
+      {
+        "id": "b370b8ad36fe3e21",
+        "title": "A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation",
+        "url": "https://arxiv.org/abs/2607.01307",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01307v1 Announce Type: new Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In this work, we propose a novel and methodologically rigorous machine-learning approach for methylation-ba",
+        "tags": [
+          "cs.lg",
+          "q-bio.gn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8348
+      },
+      {
+        "id": "a5eec80f9e6a002e",
+        "title": "The Rollout Infrastructure Tax in Coding-Agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2607.01415",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01415v1 Announce Type: new Abstract: Coding-agent reinforcement learning treats execution infrastructure as a background implementation detail, despite relying on large numbers of interactive software rollouts. This is a missed opportunity: measuring infrastructure overhead can reveal practical efficiency gains for RL post-training, where small per-rollout savings compound at scale. We ",
+        "tags": [
+          "cs.lg",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8348
+      },
+      {
+        "id": "b6d6a175ef94cd68",
+        "title": "Geometry-Aware R-Structured Kolmogorov-Arnold Networks",
+        "url": "https://arxiv.org/abs/2607.01449",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01449v1 Announce Type: new Abstract: We propose a novel hybrid neural architecture, the Geometry-aware R-Structured Kolmogorov-Arnold Network (GRS-KAN), which integrates V.L.Rvachev's R-functions into the Kolmogorov-Arnold Network (KAN) framework. The proposed approach combines two complementary modeling mechanisms: smooth nonlinear structure is learned by KAN branches, while known geom",
+        "tags": [
+          "cs.lg",
+          "cs.na",
+          "math.na"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8348
+      },
+      {
         "id": "d60162f150796154",
         "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
         "url": "https://arxiv.org/abs/2607.01306",
@@ -2851,103 +2951,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.113
-      },
-      {
-        "id": "69e9963de913cf76",
-        "title": "The Agentic Garden of Forking Paths",
-        "url": "https://arxiv.org/abs/2607.01507",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01507v1 Announce Type: new Abstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much of the analytical variation among human researchers while making these paths explicit. Across four high-stakes domains, assi",
-        "tags": [
-          "cs.ai",
-          "stat.me"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.113
-      },
-      {
-        "id": "7e5581768c396961",
-        "title": "Janus: a Playground for User-Involved Agentic Permission Management",
-        "url": "https://arxiv.org/abs/2607.01510",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01510v1 Announce Type: new Abstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role in agentic permission management remains under explored. We introduce Janus, a playground system for implementing and eval",
-        "tags": [
-          "cs.ai",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.113
-      },
-      {
-        "id": "322bb6dcea1b2d13",
-        "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
-        "url": "https://arxiv.org/abs/2607.01584",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained ",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.113
-      },
-      {
-        "id": "fa43baf13394d226",
-        "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
-        "url": "https://arxiv.org/abs/2607.01590",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01590v1 Announce Type: new Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immense automation potential, they fail catastrophically on NPUs due to a fundamental lack of hardware-specif",
-        "tags": [
-          "cs.ai",
-          "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.113
-      },
-      {
-        "id": "35c8628124dd45ad",
-        "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
-        "url": "https://arxiv.org/abs/2607.01595",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01595v1 Announce Type: new Abstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive recovery has become a critical challenge. While existing approaches integrate Large Language Models (LLMs) for semantic understanding and Deep Reinforcement Learning (DRL) for policy optimization, they of",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.113
-      },
-      {
-        "id": "297d58ed797bbcc9",
-        "title": "Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability",
-        "url": "https://arxiv.org/abs/2607.01278",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery pro",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.113
       }
     ],
     "science": [
+      {
+        "id": "6d4b9d7e5ea8a5de",
+        "title": "The Space Shuttle Endeavour goes on public display later this year",
+        "url": "https://www.engadget.com/2207813/space-shuttle-endeavour-goes-on-public-display-later-this-year/",
+        "source": "Engadget",
+        "lane": "science",
+        "published_ts": 1783107707000,
+        "summary": "The spacecraft has been in LA since 2012, but now it's moving to a new permanent home at the California Science Center.",
+        "tags": [
+          "space"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7011
+      },
       {
         "id": "a1d5f86d77c74b2e",
         "title": "Free-text answers and LLMs reveal hidden reasons behind human choices",
@@ -3855,21 +3876,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0026
-      },
-      {
-        "id": "aedb56f8ae862563",
-        "title": "Postwar research compact fueled U.S. prosperity for eight decades, argues commentary",
-        "url": "https://phys.org/news/2026-07-postwar-compact-fueled-prosperity-decades.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1783036803000,
-        "summary": "As the United States celebrates 250 years of independence, Science has published a commentary by Johns Hopkins University President Ron Daniels highlighting the impact of the reimagining of the American university pioneered by Johns Hopkins in the late 19th century—and how the benefits of that shift and the later emergence of the compact between research universities and the federal government hav",
-        "tags": [
-          "education"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9962
       }
     ]
   },
