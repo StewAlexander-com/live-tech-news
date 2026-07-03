@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:10:23.456683+00:00",
+  "generated_at": "2026-07-03T21:19:16.806423+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -1970,6 +1970,37 @@
     ],
     "ai": [
       {
+        "id": "db8e4267a6fdfd2e",
+        "title": "Rural Americans say they're worried AI data centers will drain their wallets",
+        "url": "https://www.reddit.com/r/technology/comments/1umplhd/rural_americans_say_theyre_worried_ai_data/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1783111450000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0145
+      },
+      {
+        "id": "8762f2e0b401025a",
+        "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+        "url": "https://kagi.com/changelog#10959",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783109281000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:7"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1084
+      },
+      {
         "id": "13d81d3d67b3a4a8",
         "title": "Oak: Git for Agents",
         "url": "https://oak.space/",
@@ -2880,83 +2911,50 @@
         "score": 0.8297
       },
       {
-        "id": "69e9963de913cf76",
-        "title": "The Agentic Garden of Forking Paths",
-        "url": "https://arxiv.org/abs/2607.01507",
+        "id": "d60162f150796154",
+        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+        "url": "https://arxiv.org/abs/2607.01306",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01507v1 Announce Type: new Abstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much of the analytical variation among human researchers while making these paths explicit. Across four high-stakes domains, assi",
-        "tags": [
-          "cs.ai",
-          "stat.me"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8147
-      },
-      {
-        "id": "7e5581768c396961",
-        "title": "Janus: a Playground for User-Involved Agentic Permission Management",
-        "url": "https://arxiv.org/abs/2607.01510",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01510v1 Announce Type: new Abstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role in agentic permission management remains under explored. We introduce Janus, a playground system for implementing and eval",
-        "tags": [
-          "cs.ai",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8147
-      },
-      {
-        "id": "322bb6dcea1b2d13",
-        "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
-        "url": "https://arxiv.org/abs/2607.01584",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained ",
+        "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain kno",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8147
+        "score": 0.8124
       },
       {
-        "id": "fa43baf13394d226",
-        "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
-        "url": "https://arxiv.org/abs/2607.01590",
-        "source": "arXiv cs.AI",
+        "id": "297d58ed797bbcc9",
+        "title": "Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability",
+        "url": "https://arxiv.org/abs/2607.01278",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01590v1 Announce Type: new Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immense automation potential, they fail catastrophically on NPUs due to a fundamental lack of hardware-specif",
+        "summary": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery pro",
         "tags": [
-          "cs.ai",
-          "cs.se"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8147
+        "score": 0.8124
       },
       {
-        "id": "35c8628124dd45ad",
-        "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
-        "url": "https://arxiv.org/abs/2607.01595",
-        "source": "arXiv cs.AI",
+        "id": "801e802786e266e0",
+        "title": "Domain Knowledge Based Temporal-Spatial Graph Convolution Network for ECG Recognition",
+        "url": "https://arxiv.org/abs/2607.01282",
+        "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01595v1 Announce Type: new Abstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive recovery has become a critical challenge. While existing approaches integrate Large Language Models (LLMs) for semantic understanding and Deep Reinforcement Learning (DRL) for policy optimization, they of",
+        "summary": "arXiv:2607.01282v1 Announce Type: new Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread application, challenges persist in the interpretability of AI models, particularly within specialized domains like healthcare, such as electro cardiograph (ECG) recognition. Rather than relying solely on end-to-end convolutional neural networks, this paper introduces a novel appro",
         "tags": [
-          "cs.ai",
-          "cs.cl"
+          "cs.lg",
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8147
+        "score": 0.8124
       }
     ],
     "science": [
@@ -3790,6 +3788,21 @@
         "score": 1.0011
       },
       {
+        "id": "7ec12f192a40c5b8",
+        "title": "UniWind: Toward Unified Day-Ahead Wind Power Forecasting via Physics-Informed State Routing",
+        "url": "https://arxiv.org/abs/2607.01670",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01670v1 Announce Type: new Abstract: Day-ahead wind power forecasting is essential for cost-effective power-system operation. It is primarily driven by future meteorological conditions while retaining temporal dependencies in power generation. In practice, observed wind-farm power often entangles physically available power with local environmental effects and latent operational states, ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7522
+      },
+      {
         "id": "caa4180a1f069bde",
         "title": "Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction",
         "url": "https://arxiv.org/abs/2607.01621",
@@ -3863,21 +3876,6 @@
           "cs.lg",
           "cs.ai",
           "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0305
-      },
-      {
-        "id": "58116da10253dd78",
-        "title": "CALM: Interpretable Cross-Modal Alignment for Biomarker Discovery from Unpaired Data",
-        "url": "https://arxiv.org/abs/2607.01656",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01656v1 Announce Type: new Abstract: The interaction between brain structure and genetic influences is key to understanding neuropsychiatric disorders. However, most large-scale datasets are unimodal, providing either neuroimaging or genetics data. We propose CALM, a framework that learns interpretable associations between brain ROIs and genetic pathways from completely disjoint populat",
-        "tags": [
-          "cs.lg"
         ],
         "paywall": false,
         "impact": "high",
