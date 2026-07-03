@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T23:29:19.963574+00:00",
+  "generated_at": "2026-07-03T23:31:12.687459+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -3827,6 +3827,52 @@
         "score": 1.0011
       },
       {
+        "id": "6935d047ad00b751",
+        "title": "I\\textsuperscript{2}RiMA: Spectral Riemannian Representation with Temporal Attention for Mental Stress Detection based on EEG Signals",
+        "url": "https://arxiv.org/abs/2607.01279",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01279v1 Announce Type: new Abstract: Cross-subject EEG stress detection remains challenging because discriminative stress-related patterns are both subject-dependent and frequency-specific. Conventional Riemannian methods model spatial covariance mainly in the time domain, overlooking neural oscillations that are critical for high-level cognitive state decoding, while standard temporal ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7787
+      },
+      {
+        "id": "269b410c5a550792",
+        "title": "IonSense-QKG: A Quantum-Readiness Metadata Framework for Lithium-Ion Battery Dataset Discovery",
+        "url": "https://arxiv.org/abs/2607.01286",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01286v1 Announce Type: new Abstract: Public lithium-ion battery datasets are increasingly used for state-of-health estimation, remaining-useful-life prediction, anomaly detection, electrochemical diagnostics, second-life analytics, and battery safety research. However, these datasets vary substantially in chemistry, modality, scale, label quality, sequence structure, access status, and ",
+        "tags": [
+          "cs.lg",
+          "cs.db"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7787
+      },
+      {
+        "id": "7ec12f192a40c5b8",
+        "title": "UniWind: Toward Unified Day-Ahead Wind Power Forecasting via Physics-Informed State Routing",
+        "url": "https://arxiv.org/abs/2607.01670",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01670v1 Announce Type: new Abstract: Day-ahead wind power forecasting is essential for cost-effective power-system operation. It is primarily driven by future meteorological conditions while retaining temporal dependencies in power generation. In practice, observed wind-farm power often entangles physically available power with local environmental effects and latent operational states, ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.721
+      },
+      {
         "id": "7531bec001a4a36a",
         "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
         "url": "https://arxiv.org/abs/2607.01774",
@@ -3841,53 +3887,6 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.7215
-      },
-      {
-        "id": "f91e8adc776b4cf3",
-        "title": "NeuroBridge: Bridging Multi-Task MRI Knowledge for Neurodegenerative Disease Diagnosis",
-        "url": "https://arxiv.org/abs/2607.01401",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01401v1 Announce Type: new Abstract: INTRODUCTION: Accurate MRI-based identification of Alzheimer's disease (AD), mild cognitive impairment (MCI), and related dementias remains challenging because disease-related structural changes are often subtle and heterogeneous. We developed NeuroBridge, a clinically guided multi-task MRI framework for neurodegenerative disease diagnosis. METHODS: ",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7215
-      },
-      {
-        "id": "58116da10253dd78",
-        "title": "CALM: Interpretable Cross-Modal Alignment for Biomarker Discovery from Unpaired Data",
-        "url": "https://arxiv.org/abs/2607.01656",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01656v1 Announce Type: new Abstract: The interaction between brain structure and genetic influences is key to understanding neuropsychiatric disorders. However, most large-scale datasets are unimodal, providing either neuroimaging or genetics data. We propose CALM, a framework that learns interpretable associations between brain ROIs and genetic pathways from completely disjoint populat",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7215
-      },
-      {
-        "id": "caa4180a1f069bde",
-        "title": "Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction",
-        "url": "https://arxiv.org/abs/2607.01621",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01621v1 Announce Type: new Abstract: Fine-scale rainfall reconstruction is critical for urban flood modeling, but real rainfall sensing systems observe the field through incompatible spatial supports: gauges measure points, microwave links measure paths, and radar/satellite products measure gridded areas. These differences in measurement support impose geometrically distinct constraints",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7904
       }
     ]
   },
