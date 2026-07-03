@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T20:05:56.116830+00:00",
+  "generated_at": "2026-07-03T20:43:59.895367+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -968,6 +968,22 @@
     ],
     "innovation": [
       {
+        "id": "3c58bc0cd4c528d4",
+        "title": "Google's latest updates for Chrome extensions are a big boon for privacy",
+        "url": "https://www.makeuseof.com/googles-latest-updates-for-chrome-extensions-are-a-big-boon-for-privacy/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1783110416000,
+        "summary": "A rare privacy win for Chrome users",
+        "tags": [
+          "technology explained",
+          "google chrome"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8454
+      },
+      {
         "id": "830124c35ed1449e",
         "title": "Always do this before updating your BIOS",
         "url": "https://www.makeuseof.com/always-do-this-before-updating-your-bios/",
@@ -1015,6 +1031,23 @@
         "paywall": false,
         "impact": "high",
         "score": 1.048
+      },
+      {
+        "id": "75f7bcdd670ca458",
+        "title": "The CEO of America’s most powerful surveillance company spent $200 million on places nobody can find him",
+        "url": "https://thenextweb.com/news/palantir-ceo-alex-karp-real-estate-privacy-surveillance",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1783107742000,
+        "summary": "Alex Karp, the co-founder and chief executive of Palantir Technologies, has quietly assembled a real estate portfolio worth more than $200 million across a reported 20 properties worldwide. The common thread is seclusion: a former monastery in the Colorado mountains, a rural compound in New Hampshire, and a pair of mansions on a gated Miami island. […] This story continues at The Next Web",
+        "tags": [
+          "entrepreneur",
+          "privacy",
+          "lifestyle"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8824
       },
       {
         "id": "e82cc79e4b573d98",
@@ -1929,44 +1962,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0409
-      },
-      {
-        "id": "160fc78ec144fdaa",
-        "title": "India: Instagram running ads promoting child sexual abuse material, BBC finds",
-        "url": "https://www.reddit.com/r/technology/comments/1umcdmt/india_instagram_running_ads_promoting_child/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1783079558000,
-        "summary": "submitted by /u/JKKIDD231 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9717
-      },
-      {
-        "id": "28452c21a5050406",
-        "title": "GoDaddy warns India’s fake-site crackdown could damage the internet",
-        "url": "https://thenextweb.com/news/godaddy-india-fake-site-crackdown-domain-privacy",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1783077285000,
-        "summary": "The world’s biggest seller of website addresses says a court order in India could make the internet less safe. GoDaddy is fighting new rules meant to stop fake sites impersonating famous brands. It warns the cure could expose millions of legitimate site owners, and not only in India. The order came from the Delhi High […] This story continues at The Next Web",
-        "tags": [
-          "amazon",
-          "privacy",
-          "security",
-          "next featured",
-          "business",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8785
       }
     ],
     "ai": [
+      {
+        "id": "13d81d3d67b3a4a8",
+        "title": "Oak: Git for Agents",
+        "url": "https://oak.space/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783109127000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:4"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0371
+      },
       {
         "id": "905c0749cf740dab",
         "title": "Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal (Jeremie Eliahou Ontiveros/SemiAnalysis)",
@@ -2862,101 +2876,116 @@
         "score": 0.8297
       },
       {
-        "id": "69e9963de913cf76",
-        "title": "The Agentic Garden of Forking Paths",
-        "url": "https://arxiv.org/abs/2607.01507",
+        "id": "d60162f150796154",
+        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+        "url": "https://arxiv.org/abs/2607.01306",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01507v1 Announce Type: new Abstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much of the analytical variation among human researchers while making these paths explicit. Across four high-stakes domains, assi",
-        "tags": [
-          "cs.ai",
-          "stat.me"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8318
-      },
-      {
-        "id": "7e5581768c396961",
-        "title": "Janus: a Playground for User-Involved Agentic Permission Management",
-        "url": "https://arxiv.org/abs/2607.01510",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01510v1 Announce Type: new Abstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role in agentic permission management remains under explored. We introduce Janus, a playground system for implementing and eval",
-        "tags": [
-          "cs.ai",
-          "cs.cr"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8318
-      },
-      {
-        "id": "322bb6dcea1b2d13",
-        "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
-        "url": "https://arxiv.org/abs/2607.01584",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained ",
+        "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain kno",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8318
+        "score": 0.8217
       },
       {
-        "id": "fa43baf13394d226",
-        "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
-        "url": "https://arxiv.org/abs/2607.01590",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01590v1 Announce Type: new Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immense automation potential, they fail catastrophically on NPUs due to a fundamental lack of hardware-specif",
-        "tags": [
-          "cs.ai",
-          "cs.se"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8318
-      },
-      {
-        "id": "35c8628124dd45ad",
-        "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
-        "url": "https://arxiv.org/abs/2607.01595",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01595v1 Announce Type: new Abstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive recovery has become a critical challenge. While existing approaches integrate Large Language Models (LLMs) for semantic understanding and Deep Reinforcement Learning (DRL) for policy optimization, they of",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8318
-      },
-      {
-        "id": "297d58ed797bbcc9",
-        "title": "Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability",
-        "url": "https://arxiv.org/abs/2607.01278",
+        "id": "801e802786e266e0",
+        "title": "Domain Knowledge Based Temporal-Spatial Graph Convolution Network for ECG Recognition",
+        "url": "https://arxiv.org/abs/2607.01282",
         "source": "arXiv cs.LG",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery pro",
+        "summary": "arXiv:2607.01282v1 Announce Type: new Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread application, challenges persist in the interpretability of AI models, particularly within specialized domains like healthcare, such as electro cardiograph (ECG) recognition. Rather than relying solely on end-to-end convolutional neural networks, this paper introduces a novel appro",
         "tags": [
-          "cs.lg"
+          "cs.lg",
+          "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8318
+        "score": 0.8217
+      },
+      {
+        "id": "d58a6cb27408337c",
+        "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
+        "url": "https://arxiv.org/abs/2607.01283",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01283v1 Announce Type: new Abstract: Grid-based approaches to approximate nearest neighbor (ANN) search have been absent from modern scaling analyses. We present a systematic characterization of a multiprobe grid algorithm with respect to dataset size $N$ and dimensionality $d$. Our experiments reveal a previously unreported $d$-scaling crossover on the GloVe embedding family, in which ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8217
+      },
+      {
+        "id": "b370b8ad36fe3e21",
+        "title": "A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation",
+        "url": "https://arxiv.org/abs/2607.01307",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01307v1 Announce Type: new Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In this work, we propose a novel and methodologically rigorous machine-learning approach for methylation-ba",
+        "tags": [
+          "cs.lg",
+          "q-bio.gn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8217
+      },
+      {
+        "id": "a5eec80f9e6a002e",
+        "title": "The Rollout Infrastructure Tax in Coding-Agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2607.01415",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01415v1 Announce Type: new Abstract: Coding-agent reinforcement learning treats execution infrastructure as a background implementation detail, despite relying on large numbers of interactive software rollouts. This is a missed opportunity: measuring infrastructure overhead can reveal practical efficiency gains for RL post-training, where small per-rollout savings compound at scale. We ",
+        "tags": [
+          "cs.lg",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8217
       }
     ],
     "science": [
+      {
+        "id": "a8a2878826064008",
+        "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
+        "url": "https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783111201000,
+        "summary": "In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence.",
+        "tags": [
+          "biotechnology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1002
+      },
+      {
+        "id": "aaed1746862a7cf6",
+        "title": "Rocket Lab buys Iridium in an $8 billion deal to build the most formidable rival to Musk's SpaceX — will it change the Ukraine war?",
+        "url": "https://www.techradar.com/pro/rocket-lab-buys-iridium-in-an-usd8-billion-deal-to-build-the-most-formidable-rival-to-musks-spacex-will-it-change-the-ukraine-war",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1783109700000,
+        "summary": "Rocket Lab's $8 billion Iridium acquisition creates a vertically integrated satellite company spanning launch, spacecraft and communications networks.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9095
+      },
       {
         "id": "18602f084744ac9d",
         "title": "Gentle nudges for increased animal welfare",
@@ -3091,6 +3120,21 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0108
+      },
+      {
+        "id": "57ebbb03daacec50",
+        "title": "Scientists make quantum time flow backwards in physics breakthrough",
+        "url": "https://www.reddit.com/r/technology/comments/1umig6n/scientists_make_quantum_time_flow_backwards_in/",
+        "source": "Reddit r/technology",
+        "lane": "science",
+        "published_ts": 1783094643000,
+        "summary": "submitted by /u/GroversGrumbles [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9378
       },
       {
         "id": "4fcff57f2804004c",
@@ -3834,51 +3878,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0305
-      },
-      {
-        "id": "73ec5eb3257bbff9",
-        "title": "Sony’s decision to retire physical PlayStation discs sparked a wave of industry reactions — from jokes to outright disappointment",
-        "url": "https://www.reddit.com/r/technology/comments/1um21oa/sonys_decision_to_retire_physical_playstation/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1783046096000,
-        "summary": "submitted by /u/Quantum-Coconut [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9799
-      },
-      {
-        "id": "7a8d803a2a09ab3a",
-        "title": "Feline fleas carry bacteria linked to human disease in South Texas, study finds",
-        "url": "https://phys.org/news/2026-07-feline-fleas-bacteria-linked-human.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1783044001000,
-        "summary": "As human cases of flea-borne murine typhus continue to occur in South Texas, researchers are working to better understand the role cats and their fleas may play in the disease's transmission cycle.",
-        "tags": [
-          "veterinary medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9633
-      },
-      {
-        "id": "fb9d35c9024b6e7f",
-        "title": "The center has shifted: Multifunctional facility in Japan reshapes where people linger",
-        "url": "https://phys.org/news/2026-07-center-shifted-multifunctional-facility-japan.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1783041601000,
-        "summary": "Suburban city centers across Japan are gradually declining as residents shift to car-oriented shopping malls in outlying areas. Urban planners have sought to reverse this trend through urban catalytic projects, strategically placed facilities designed to trigger broader regeneration. Yet empirical evidence on whether such projects actually redirect people's stay behavior beyond the facility itself",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0192
       }
     ]
   },
