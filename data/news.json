@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-07-03T20:43:59.895367+00:00",
+  "generated_at": "2026-07-03T21:10:23.456683+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "77adf51d6bc182fb",
+        "title": "'We can tune the bass to get more output, pretty much for free': I asked audio specialist Audeze about its patented SLAM system for headphones, and the slam-dunks kept a-coming",
+        "url": "https://www.techradar.com/audio/we-can-tune-the-bass-to-get-more-output-pretty-much-for-free-i-asked-audio-specialist-audeze-about-its-patented-slam-system-for-headphones-and-the-slam-dunks-kept-a-coming",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1783112400000,
+        "summary": "Audeze's SLAM tech was a breakthrough for the brand — but what exactly is it and how did it come to be? I asked the people who created it",
+        "tags": [
+          "audio",
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8472
+      },
+      {
+        "id": "16724df7f5fe53fc",
+        "title": "ErgoDriven Tempo Automatic Standing Desk review: An impressively well-built desk that actively encourages you to sit and stand",
+        "url": "https://www.techradar.com/pro/ergodriven-tempo-automatic-standing-desk-review",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1783111500000,
+        "summary": "The ErgoDriven Tempo standing desk becomes an active part of your workday, encouraging you to stand up by actually standing you up.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8431
+      },
       {
         "id": "16ac20172b2b6912",
         "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features",
@@ -934,39 +965,27 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8124
-      },
-      {
-        "id": "f21e928a528d8c5f",
-        "title": "'Civil War,' 'Summer's Last Resort' and More Movies You Can Stream for Free",
-        "url": "https://www.cnet.com/tech/services-and-software/and-more-movies-you-can-stream-for-free-in-july-2026/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1783080044000,
-        "summary": "Tons of recent releases, from blockbusters to independent films, are all streaming free in July.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8123
-      },
-      {
-        "id": "6295fc6d403f7010",
-        "title": "After daily driving the Galaxy Z Flip 7, I won't buy the Flip 8 unless Samsung fixes this",
-        "url": "https://www.androidpolice.com/after-using-galaxy-flip-7-im-not-buying-the-flip-8-unless-samsung-fixes-this/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1783080010000,
-        "summary": "The next-gen flip phone only needs a few refinements to become a worthy successor",
-        "tags": [
-          "samsung galaxy z flip 7",
-          "samsung",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9904
       }
     ],
     "innovation": [
+      {
+        "id": "d035906e3ad94a41",
+        "title": "Milwaukee sells two battery systems, and most beginners commit to the wrong one",
+        "url": "https://www.makeuseof.com/milwaukee-sells-two-battery-systems-beginners-commit-to-wrong-one/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1783112418000,
+        "summary": "The Milwaukee battery mistake that costs beginners hundreds of dollars — and how to avoid it.",
+        "tags": [
+          "home",
+          "diy",
+          "tools",
+          "hardware tips"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.915
+      },
       {
         "id": "3c58bc0cd4c528d4",
         "title": "Google's latest updates for Chrome extensions are a big boon for privacy",
@@ -1947,21 +1966,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.032
-      },
-      {
-        "id": "6805636e2650111d",
-        "title": "NetNut cracked as Google and FBI target 2 million-device botnet",
-        "url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1783080180000,
-        "summary": "Other residential proxy brands may rely on the same network",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0409
       }
     ],
     "ai": [
@@ -2876,86 +2880,101 @@
         "score": 0.8297
       },
       {
-        "id": "d60162f150796154",
-        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-        "url": "https://arxiv.org/abs/2607.01306",
+        "id": "69e9963de913cf76",
+        "title": "The Agentic Garden of Forking Paths",
+        "url": "https://arxiv.org/abs/2607.01507",
         "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain kno",
+        "summary": "arXiv:2607.01507v1 Announce Type: new Abstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same data, yet these hidden forking paths are difficult to observe. We show that AI agents capture much of the analytical variation among human researchers while making these paths explicit. Across four high-stakes domains, assi",
+        "tags": [
+          "cs.ai",
+          "stat.me"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8147
+      },
+      {
+        "id": "7e5581768c396961",
+        "title": "Janus: a Playground for User-Involved Agentic Permission Management",
+        "url": "https://arxiv.org/abs/2607.01510",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01510v1 Announce Type: new Abstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what role could users play, and what role should they play? Despite many proposed approaches, the user's role in agentic permission management remains under explored. We introduce Janus, a playground system for implementing and eval",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8147
+      },
+      {
+        "id": "322bb6dcea1b2d13",
+        "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+        "url": "https://arxiv.org/abs/2607.01584",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01584v1 Announce Type: new Abstract: Large language models have recently been explored for scientific hypothesis generation, but most prior work relies on unstructured literature and free-form textual claims. We present a pipeline for Earth observation that grounds hypothesis generation directly in the NASA Earth Observation Knowledge Graph. A heterogeneous graph neural network trained ",
         "tags": [
           "cs.ai"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8217
+        "score": 0.8147
       },
       {
-        "id": "801e802786e266e0",
-        "title": "Domain Knowledge Based Temporal-Spatial Graph Convolution Network for ECG Recognition",
-        "url": "https://arxiv.org/abs/2607.01282",
-        "source": "arXiv cs.LG",
+        "id": "fa43baf13394d226",
+        "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+        "url": "https://arxiv.org/abs/2607.01590",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01282v1 Announce Type: new Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread application, challenges persist in the interpretability of AI models, particularly within specialized domains like healthcare, such as electro cardiograph (ECG) recognition. Rather than relying solely on end-to-end convolutional neural networks, this paper introduces a novel appro",
+        "summary": "arXiv:2607.01590v1 Announce Type: new Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immense automation potential, they fail catastrophically on NPUs due to a fundamental lack of hardware-specif",
         "tags": [
-          "cs.lg",
-          "cs.ai"
+          "cs.ai",
+          "cs.se"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8217
+        "score": 0.8147
       },
       {
-        "id": "d58a6cb27408337c",
-        "title": "Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions",
-        "url": "https://arxiv.org/abs/2607.01283",
-        "source": "arXiv cs.LG",
+        "id": "35c8628124dd45ad",
+        "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
+        "url": "https://arxiv.org/abs/2607.01595",
+        "source": "arXiv cs.AI",
         "lane": "ai",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01283v1 Announce Type: new Abstract: Grid-based approaches to approximate nearest neighbor (ANN) search have been absent from modern scaling analyses. We present a systematic characterization of a multiprobe grid algorithm with respect to dataset size $N$ and dimensionality $d$. Our experiments reveal a previously unreported $d$-scaling crossover on the GloVe embedding family, in which ",
+        "summary": "arXiv:2607.01595v1 Announce Type: new Abstract: As the scale and complexity of cloud-based AI systems continue to escalate, ensuring service reliability through rapid fault detection and adaptive recovery has become a critical challenge. While existing approaches integrate Large Language Models (LLMs) for semantic understanding and Deep Reinforcement Learning (DRL) for policy optimization, they of",
         "tags": [
-          "cs.lg",
-          "cs.ai"
+          "cs.ai",
+          "cs.cl"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8217
-      },
-      {
-        "id": "b370b8ad36fe3e21",
-        "title": "A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation",
-        "url": "https://arxiv.org/abs/2607.01307",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01307v1 Announce Type: new Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In this work, we propose a novel and methodologically rigorous machine-learning approach for methylation-ba",
-        "tags": [
-          "cs.lg",
-          "q-bio.gn"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8217
-      },
-      {
-        "id": "a5eec80f9e6a002e",
-        "title": "The Rollout Infrastructure Tax in Coding-Agent Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2607.01415",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01415v1 Announce Type: new Abstract: Coding-agent reinforcement learning treats execution infrastructure as a background implementation detail, despite relying on large numbers of interactive software rollouts. This is a missed opportunity: measuring infrastructure overhead can reveal practical efficiency gains for RL post-training, where small per-rollout savings compound at scale. We ",
-        "tags": [
-          "cs.lg",
-          "cs.dc"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8217
+        "score": 0.8147
       }
     ],
     "science": [
+      {
+        "id": "9961c16cae45eff1",
+        "title": "NASA and Red Hat are building an open source medical system to diagnose sick astronauts on the ISS — could a Star Trek Tricorder be next?",
+        "url": "https://www.techradar.com/pro/nasa-and-red-hat-are-building-an-open-source-medical-system-to-diagnose-sick-astronauts-on-the-iss-could-a-star-trek-tricorder-be-next",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1783112700000,
+        "summary": "NASA and Red Hat are testing an offline AI medical assistant called CMO-DA to help astronauts diagnose and treat conditions during deep space missions.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9164
+      },
       {
         "id": "a8a2878826064008",
         "title": "Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues",
@@ -3857,21 +3876,6 @@
         "lane": "science",
         "published_ts": 1783051200000,
         "summary": "arXiv:2607.01656v1 Announce Type: new Abstract: The interaction between brain structure and genetic influences is key to understanding neuropsychiatric disorders. However, most large-scale datasets are unimodal, providing either neuroimaging or genetics data. We propose CALM, a framework that learns interpretable associations between brain ROIs and genetic pathways from completely disjoint populat",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0305
-      },
-      {
-        "id": "7ec12f192a40c5b8",
-        "title": "UniWind: Toward Unified Day-Ahead Wind Power Forecasting via Physics-Informed State Routing",
-        "url": "https://arxiv.org/abs/2607.01670",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01670v1 Announce Type: new Abstract: Day-ahead wind power forecasting is essential for cost-effective power-system operation. It is primarily driven by future meteorological conditions while retaining temporal dependencies in power generation. In practice, observed wind-farm power often entangles physically available power with local environmental effects and latent operational states, ",
         "tags": [
           "cs.lg"
         ],
