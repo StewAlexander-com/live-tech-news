@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-07-03T21:19:16.806423+00:00",
+  "generated_at": "2026-07-03T21:46:29.170922+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "d3353435de8a4d79",
+        "title": "LG's stunning 48-inch OLED smart TV just dropped to $550",
+        "url": "https://www.androidpolice.com/lg-48-inch-class-b5-series-oled-smart-tv-550-deal/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1783115002000,
+        "summary": "It's great for all things",
+        "tags": [
+          "lg",
+          "oled tv",
+          "smart tv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.999
+      },
       {
         "id": "77adf51d6bc182fb",
         "title": "'We can tune the bass to get more output, pretty much for free': I asked audio specialist Audeze about its patented SLAM system for headphones, and the slam-dunks kept a-coming",
@@ -952,19 +969,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8453
-      },
-      {
-        "id": "533a29925da0ed2b",
-        "title": "iCloud Storage Full Yet Again? Here's a Fast Fix",
-        "url": "https://www.cnet.com/tech/mobile/icloud-storage-full-yet-again-heres-a-fast-fix/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1783080068000,
-        "summary": "I didn't move all my files, but in just 15 minutes I made a big dent.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8124
       }
     ],
     "innovation": [
@@ -1970,6 +1974,53 @@
     ],
     "ai": [
       {
+        "id": "30706cf6250eec80",
+        "title": "★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "source": "Daring Fireball",
+        "lane": "ai",
+        "published_ts": 1783113845000,
+        "summary": "Felix Rieseberg, quite obviously, is the answer to the question why Claude is an Electron app. It’s like wondering why all the screws in a building were hammered into the walls, and then finding out that the guy who oversaw construction founded and co-owns the world’s biggest hammer manufacturer.",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0723
+      },
+      {
+        "id": "58e0be7ce0bef9bb",
+        "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
+        "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783113668000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:8"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1248
+      },
+      {
+        "id": "6c4735871481b1a3",
+        "title": "The only AI glossary you’ll need this year",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1783113600000,
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "tags": [
+          "ai",
+          "artificial intelligence",
+          "evergreens",
+          "glossary"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.801
+      },
+      {
         "id": "db8e4267a6fdfd2e",
         "title": "Rural Americans say they're worried AI data centers will drain their wallets",
         "url": "https://www.reddit.com/r/technology/comments/1umplhd/rural_americans_say_theyre_worried_ai_data/",
@@ -2132,6 +2183,21 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9651
+      },
+      {
+        "id": "2e0eb97748a45768",
+        "title": "Analysis-A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+        "url": "https://www.reddit.com/r/technology/comments/1umksk4/analysisa_new_inexpensive_chinese_ai_model_is/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1783100004000,
+        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.946
       },
       {
         "id": "1b6adcebdf8bd8a8",
@@ -2896,68 +2962,24 @@
         "paywall": false,
         "impact": "high",
         "score": 1.022
-      },
-      {
-        "id": "d2726c5717526f7a",
-        "title": "SwitchBot Debuts Advanced Camera With AI Event Alerts, Wildlife Recognition",
-        "url": "https://www.cnet.com/home/security/switchbot-debuts-advanced-camera-with-ai-event-alerts-wildlife-recognition/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1783053826000,
-        "summary": "SwitchBot's latest 3K camera includes some familiar AI features and a couple of standout customizations I've never seen before.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8297
-      },
-      {
-        "id": "d60162f150796154",
-        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-        "url": "https://arxiv.org/abs/2607.01306",
-        "source": "arXiv cs.AI",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01306v1 Announce Type: new Abstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain kno",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8124
-      },
-      {
-        "id": "297d58ed797bbcc9",
-        "title": "Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability",
-        "url": "https://arxiv.org/abs/2607.01278",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01278v1 Announce Type: new Abstract: The research proposes a multilayer Q-matrix-embedded neural network for cognitive diagnosis (M-QCDNet), which integrates the structural interpretability of cognitive diagnostic models (CDMs) with the deep learning neural network (NN). M-QCDNet structures the item-skill relationship using the Q-matrix as a structural prior, ensuring latent mastery pro",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8124
-      },
-      {
-        "id": "801e802786e266e0",
-        "title": "Domain Knowledge Based Temporal-Spatial Graph Convolution Network for ECG Recognition",
-        "url": "https://arxiv.org/abs/2607.01282",
-        "source": "arXiv cs.LG",
-        "lane": "ai",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01282v1 Announce Type: new Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread application, challenges persist in the interpretability of AI models, particularly within specialized domains like healthcare, such as electro cardiograph (ECG) recognition. Rather than relying solely on end-to-end convolutional neural networks, this paper introduces a novel appro",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8124
       }
     ],
     "science": [
+      {
+        "id": "92ba3eef276c1f6c",
+        "title": "Megalodon's legendary life revealed by fossil rediscovery",
+        "url": "https://phys.org/news/2026-07-megalodon-legendary-life-revealed-fossil.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783113602000,
+        "summary": "Museums are supposed to be havens for the collective cultural and scientific heritage of the planet, but specimens sometimes go missing.",
+        "tags": [
+          "evolution"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0114
+      },
       {
         "id": "9961c16cae45eff1",
         "title": "NASA and Red Hat are building an open source medical system to diagnose sick astronauts on the ISS — could a Star Trek Tricorder be next?",
@@ -3788,6 +3810,21 @@
         "score": 1.0011
       },
       {
+        "id": "58116da10253dd78",
+        "title": "CALM: Interpretable Cross-Modal Alignment for Biomarker Discovery from Unpaired Data",
+        "url": "https://arxiv.org/abs/2607.01656",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01656v1 Announce Type: new Abstract: The interaction between brain structure and genetic influences is key to understanding neuropsychiatric disorders. However, most large-scale datasets are unimodal, providing either neuroimaging or genetics data. We propose CALM, a framework that learns interpretable associations between brain ROIs and genetic pathways from completely disjoint populat",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7457
+      },
+      {
         "id": "7ec12f192a40c5b8",
         "title": "UniWind: Toward Unified Day-Ahead Wind Power Forecasting via Physics-Informed State Routing",
         "url": "https://arxiv.org/abs/2607.01670",
@@ -3847,39 +3884,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.113
-      },
-      {
-        "id": "7531bec001a4a36a",
-        "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
-        "url": "https://arxiv.org/abs/2607.01774",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01774v1 Announce Type: new Abstract: Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timestep, raising a natural question: do these models internally represent denoising progress, and how is such information used downstream? In this work, we sh",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0305
-      },
-      {
-        "id": "f91e8adc776b4cf3",
-        "title": "NeuroBridge: Bridging Multi-Task MRI Knowledge for Neurodegenerative Disease Diagnosis",
-        "url": "https://arxiv.org/abs/2607.01401",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01401v1 Announce Type: new Abstract: INTRODUCTION: Accurate MRI-based identification of Alzheimer's disease (AD), mild cognitive impairment (MCI), and related dementias remains challenging because disease-related structural changes are often subtle and heterogeneous. We developed NeuroBridge, a clinically guided multi-task MRI framework for neurodegenerative disease diagnosis. METHODS: ",
-        "tags": [
-          "cs.lg",
-          "cs.ai",
-          "cs.cv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0305
       }
     ]
   },
