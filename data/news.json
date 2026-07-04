@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T01:08:05.165122+00:00",
+  "generated_at": "2026-07-04T01:12:07.442164+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -16,6 +16,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.841
+      },
+      {
+        "id": "1ef452d30c50070a",
+        "title": "I Could Kill You with a Consumer Drone",
+        "url": "https://www.defenseone.com/ideas/2017/06/i-could-kill-you-consumer-drone/139012/",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1783124526000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:10"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0333
       },
       {
         "id": "73dcc51c681f1bb6",
@@ -949,21 +965,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8482
-      },
-      {
-        "id": "379e246a2949eeff",
-        "title": "Why 'time to token' is the new battleground for data centers",
-        "url": "https://www.techradar.com/pro/why-time-to-token-is-the-new-battleground-for-data-centers",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1783083193000,
-        "summary": "The disconnect between the pace of software capabilities and physical constraints of data center infrastructure.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9149
       }
     ],
     "innovation": [
@@ -3849,35 +3850,35 @@
         "score": 1.0011
       },
       {
-        "id": "6935d047ad00b751",
-        "title": "I\\textsuperscript{2}RiMA: Spectral Riemannian Representation with Temporal Attention for Mental Stress Detection based on EEG Signals",
-        "url": "https://arxiv.org/abs/2607.01279",
-        "source": "arXiv cs.LG",
+        "id": "caa4180a1f069bde",
+        "title": "Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction",
+        "url": "https://arxiv.org/abs/2607.01621",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01279v1 Announce Type: new Abstract: Cross-subject EEG stress detection remains challenging because discriminative stress-related patterns are both subject-dependent and frequency-specific. Conventional Riemannian methods model spatial covariance mainly in the time domain, overlooking neural oscillations that are critical for high-level cognitive state decoding, while standard temporal ",
+        "summary": "arXiv:2607.01621v1 Announce Type: new Abstract: Fine-scale rainfall reconstruction is critical for urban flood modeling, but real rainfall sensing systems observe the field through incompatible spatial supports: gauges measure points, microwave links measure paths, and radar/satellite products measure gridded areas. These differences in measurement support impose geometrically distinct constraints",
         "tags": [
-          "cs.lg"
+          "cs.ai"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.7549
+        "impact": "high",
+        "score": 0.7539
       },
       {
-        "id": "269b410c5a550792",
-        "title": "IonSense-QKG: A Quantum-Readiness Metadata Framework for Lithium-Ion Battery Dataset Discovery",
-        "url": "https://arxiv.org/abs/2607.01286",
-        "source": "arXiv cs.LG",
+        "id": "7531bec001a4a36a",
+        "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
+        "url": "https://arxiv.org/abs/2607.01774",
+        "source": "arXiv cs.AI",
         "lane": "science",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01286v1 Announce Type: new Abstract: Public lithium-ion battery datasets are increasingly used for state-of-health estimation, remaining-useful-life prediction, anomaly detection, electrochemical diagnostics, second-life analytics, and battery safety research. However, these datasets vary substantially in chemistry, modality, scale, label quality, sequence structure, access status, and ",
+        "summary": "arXiv:2607.01774v1 Announce Type: new Abstract: Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timestep, raising a natural question: do these models internally represent denoising progress, and how is such information used downstream? In this work, we sh",
         "tags": [
-          "cs.lg",
-          "cs.db"
+          "cs.ai",
+          "cs.cl"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7549
+        "score": 0.6981
       }
     ]
   },
