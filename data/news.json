@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:00:25.072850+00:00",
+  "generated_at": "2026-07-04T20:31:45.785709+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -982,6 +982,24 @@
         "score": 0.85
       },
       {
+        "id": "e92e0d0c35425aea",
+        "title": "Disk Polishing Goes Open Source",
+        "url": "https://hackaday.com/2026/07/04/disk-polishing-goes-open-source/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1783195206000,
+        "summary": "Optical media is great — it’s pretty high density, relatively durable, and decently long-lasting if well cared for. If not well cared for, well, it’s only relatively durable, and we’ve …read more",
+        "tags": [
+          "retrocomputing",
+          "3d print",
+          "disk polisher",
+          "optical media"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0691
+      },
+      {
         "id": "bf77613bbc6d0c39",
         "title": "Optical writing of antiferromagnets points toward new storage devices and energy efficient information systems",
         "url": "https://phys.org/news/2026-07-optical-antiferromagnets-storage-devices-energy.html",
@@ -1902,27 +1920,41 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8456
-      },
-      {
-        "id": "d035906e3ad94a41",
-        "title": "Milwaukee sells two battery systems, and most beginners commit to the wrong one",
-        "url": "https://www.makeuseof.com/milwaukee-sells-two-battery-systems-beginners-commit-to-wrong-one/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1783112418000,
-        "summary": "The Milwaukee battery mistake that costs beginners hundreds of dollars — and how to avoid it.",
-        "tags": [
-          "home",
-          "diy",
-          "tools",
-          "hardware tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.915
       }
     ],
     "ai": [
+      {
+        "id": "80d3f0cc4a9b89bc",
+        "title": "'Agentic coding tools have access to everything they need for this': Security experts warn Claude Code can be exploited simply by trying to be helpful",
+        "url": "https://www.techradar.com/pro/security/agentic-coding-tools-have-access-to-everything-they-need-for-this-security-experts-warn-claude-code-can-be-exploited-simply-by-trying-to-be-helpful",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1783195800000,
+        "summary": "A hidden DNS record tricked Claude Code into opening a reverse shell during routine error recovery, bypassing every standard security scanning tool completely.",
+        "tags": [
+          "security",
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8441
+      },
+      {
+        "id": "6f2178fb4d9d599e",
+        "title": "AI has torched the market for junior programmers",
+        "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1783194608000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:48"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.119
+      },
       {
         "id": "5fe6cf6b9a1a45a9",
         "title": "From the DF Archive: ‘Electron and the Decline of Native Apps’",
@@ -2824,35 +2856,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1084
-      },
-      {
-        "id": "13d81d3d67b3a4a8",
-        "title": "Oak: Git for Agents",
-        "url": "https://oak.space/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1783109127000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0371
-      },
-      {
-        "id": "905c0749cf740dab",
-        "title": "Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal (Jeremie Eliahou Ontiveros/SemiAnalysis)",
-        "url": "https://www.techmeme.com/260703/p13#a260703p13",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1783107003000,
-        "summary": "Jeremie Eliahou Ontiveros / SemiAnalysis: Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal — Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9957
       }
     ],
     "science": [
