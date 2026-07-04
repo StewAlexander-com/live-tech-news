@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T01:12:07.442164+00:00",
+  "generated_at": "2026-07-04T01:18:34.669739+00:00",
   "lanes": {
     "gadgets": [
       {
@@ -968,6 +968,21 @@
       }
     ],
     "innovation": [
+      {
+        "id": "f193c728b3732dc3",
+        "title": "The Ghost Gun Crackdown Is Quietly Threatening the Future of 3D Printing",
+        "url": "https://www.reddit.com/r/technology/comments/1umv2nh/the_ghost_gun_crackdown_is_quietly_threatening/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783126188000,
+        "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9413
+      },
       {
         "id": "862f923f40f8add7",
         "title": "Data centers are so power hungry that cow manure fuel is now on the table — Critics warn it could mean even more factory farms",
@@ -1948,24 +1963,6 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9283
-      },
-      {
-        "id": "97424322ed88dca9",
-        "title": "The other Dyson empire, measured in acres",
-        "url": "https://thenextweb.com/news/dyson-farming-vacuum-strawberry-robots-land",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1783084965000,
-        "summary": "Inside a glasshouse the size of roughly 20 football pitches, on the flat black soil of Lincolnshire, strawberry plants ride a Ferris wheel. The wheels stand about 5.5 metres tall, and each one weighs close to half a tonne. They turn slowly, all day, carrying their rows of fruit through the light like carriages at […] This story continues at The Next Web",
-        "tags": [
-          "opinion",
-          "insider",
-          "next featured",
-          "agritech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8773
       }
     ],
     "ai": [
@@ -3850,35 +3847,35 @@
         "score": 1.0011
       },
       {
-        "id": "caa4180a1f069bde",
-        "title": "Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction",
-        "url": "https://arxiv.org/abs/2607.01621",
-        "source": "arXiv cs.AI",
+        "id": "6935d047ad00b751",
+        "title": "I\\textsuperscript{2}RiMA: Spectral Riemannian Representation with Temporal Attention for Mental Stress Detection based on EEG Signals",
+        "url": "https://arxiv.org/abs/2607.01279",
+        "source": "arXiv cs.LG",
         "lane": "science",
         "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01621v1 Announce Type: new Abstract: Fine-scale rainfall reconstruction is critical for urban flood modeling, but real rainfall sensing systems observe the field through incompatible spatial supports: gauges measure points, microwave links measure paths, and radar/satellite products measure gridded areas. These differences in measurement support impose geometrically distinct constraints",
+        "summary": "arXiv:2607.01279v1 Announce Type: new Abstract: Cross-subject EEG stress detection remains challenging because discriminative stress-related patterns are both subject-dependent and frequency-specific. Conventional Riemannian methods model spatial covariance mainly in the time domain, overlooking neural oscillations that are critical for high-level cognitive state decoding, while standard temporal ",
         "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7539
-      },
-      {
-        "id": "7531bec001a4a36a",
-        "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
-        "url": "https://arxiv.org/abs/2607.01774",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1783051200000,
-        "summary": "arXiv:2607.01774v1 Announce Type: new Abstract: Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timestep, raising a natural question: do these models internally represent denoising progress, and how is such information used downstream? In this work, we sh",
-        "tags": [
-          "cs.ai",
-          "cs.cl"
+          "cs.lg"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6981
+        "score": 0.7524
+      },
+      {
+        "id": "269b410c5a550792",
+        "title": "IonSense-QKG: A Quantum-Readiness Metadata Framework for Lithium-Ion Battery Dataset Discovery",
+        "url": "https://arxiv.org/abs/2607.01286",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1783051200000,
+        "summary": "arXiv:2607.01286v1 Announce Type: new Abstract: Public lithium-ion battery datasets are increasingly used for state-of-health estimation, remaining-useful-life prediction, anomaly detection, electrochemical diagnostics, second-life analytics, and battery safety research. However, these datasets vary substantially in chemistry, modality, scale, label quality, sequence structure, access status, and ",
+        "tags": [
+          "cs.lg",
+          "cs.db"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7524
       }
     ]
   },
