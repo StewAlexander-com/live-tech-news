@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-04T16:17:26.755308+00:00",
+  "generated_at": "2026-07-04T16:42:27.850094+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "5414f00fcee24f22",
+        "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+        "url": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1783181946000,
+        "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by setting their AC to 78 degrees. Republicans like Ted Cruz […]",
+        "tags": [
+          "news",
+          "policy",
+          "politics",
+          "science"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.7861
+      },
       {
         "id": "453bba1358048e2d",
         "title": "Argentina vs Scotland Free Streams: How to watch Nations Championship 2026 game, TV Channels, Preview",
@@ -950,24 +968,56 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8086
-      },
-      {
-        "id": "510fbf4d8d052144",
-        "title": "International Google Pixels are different than American models - here's how",
-        "url": "https://www.engadget.com/2205901/how-international-google-pixel-phones-different-american/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1783103400000,
-        "summary": "In case you were wondering in which country you should buy a Pixel phone, you world traveler you.",
-        "tags": [
-          "smartphones"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6991
       }
     ],
     "innovation": [
+      {
+        "id": "f3de6720f779604c",
+        "title": "EchoStar's US Satellite Pay-TV Provider Dish DBS Files for Bankruptcy",
+        "url": "https://entertainment.slashdot.org/story/26/07/04/0355237/echostars-us-satellite-pay-tv-provider-dish-dbs-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "innovation",
+        "published_ts": 1783182840000,
+        "summary": "EchoStar's satellite pay-TV unit Dish DBS has filed for Chapter 11 bankruptcy protection, reports Reuters. The move also applies to its wireless subsidiaries, according to the article, and \"facilitates the wind-down of Dish Wireless's 5G network operations following an unexpected delay in a spectrum license sale to AT&T... under which EchoStar agreed to sell about 50 megahertz of its nationwide sp",
+        "tags": [
+          "tv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1309
+      },
+      {
+        "id": "767bb9980f99cd4b",
+        "title": "I cut my Bambu printer off from Bambu's cloud and lost exactly two features",
+        "url": "https://www.makeuseof.com/cut-bambu-printer-bambus-cloud-lost-two-features/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1783182617000,
+        "summary": "I finally own the printer I paid for.",
+        "tags": [
+          "smart home",
+          "3d printing",
+          "open source"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8467
+      },
+      {
+        "id": "b8e3660697c43080",
+        "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+        "url": "https://www.reddit.com/r/technology/comments/1und74u/white_house_deletes_thousands_of_web_pages_about/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783182046000,
+        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9434
+      },
       {
         "id": "caadb204a5b65d6e",
         "title": "This old Windows tool shows exactly what's hammering your drive",
@@ -1895,59 +1945,27 @@
         "paywall": false,
         "impact": "high",
         "score": 0.891
-      },
-      {
-        "id": "34fdb50522be87dd",
-        "title": "Mark Zuckerberg Just Got Rather Badly Humiliated",
-        "url": "https://www.reddit.com/r/technology/comments/1umjxv8/mark_zuckerberg_just_got_rather_badly_humiliated/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1783098054000,
-        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
-        "tags": [
-          "technology",
-          "outlets:2"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9363
-      },
-      {
-        "id": "aa56b3e2660ffab9",
-        "title": "HDMI features your TV already supports that you've never turned on",
-        "url": "https://www.makeuseof.com/hdmi-features-youve-never-turned-on/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1783098020000,
-        "summary": "Test out these HDMI settings on your smart TV to improve your viewing experience.",
-        "tags": [
-          "technology explained",
-          "hdmi",
-          "smart tv"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8376
-      },
-      {
-        "id": "5f032a7d394fecd2",
-        "title": "North Korea-linked npm packages impersonate Rollup polyfill tools to steal developer secrets",
-        "url": "https://thenextweb.com/news/north-korea-npm-rollup-polyfill-developer-secrets",
-        "source": "The Next Web",
-        "lane": "innovation",
-        "published_ts": 1783097739000,
-        "summary": "Security researchers at JFrog have identified a set of malicious npm packages linked to North Korean threat actors that impersonate legitimate Rollup polyfill tooling to steal developer credentials and enable remote access to compromised machines. The packages, named “rollup-packages-polyfill-core” and “rollup-runtime-polyfill-core,” mimic the legitimate “rollup-plugin-polyfill-node” project down ",
-        "tags": [
-          "artificial intelligence",
-          "security",
-          "data and security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8855
       }
     ],
     "ai": [
+      {
+        "id": "54e87b39673ea00f",
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1783182728000,
+        "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "tags": [
+          "ai",
+          "security",
+          "alibaba",
+          "claude code"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8052
+      },
       {
         "id": "bd88fb59428f235e",
         "title": "Anthropic launches \"AI workbench\" for scientists using Claude",
@@ -2869,22 +2887,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.1072
-      },
-      {
-        "id": "5c7a4d5ee8471ac5",
-        "title": "Claude, please stop trying to memorize random crap",
-        "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1783092771000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:65"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.006
       }
     ],
     "science": [
