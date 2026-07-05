@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-05T14:28:24.217877+00:00",
+  "generated_at": "2026-07-05T14:56:53.755926+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "1266ba6d981acc66",
+        "title": "Reviewer tests 'RTX 4080M' desktop graphics card powered by salvaged laptop silicon — performs worse than slightly more expensive RX 9070 GRE but draws only 100W in games",
+        "url": "https://www.tomshardware.com/pc-components/gpus/reviewer-tests-rtx-4080m-desktop-graphics-card-powered-by-salvaged-laptop-silicon-performs-worse-than-slightly-more-expensive-rx-9070-gre-but-draws-only-100w-in-games",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1783262762000,
+        "summary": "Turns out, a modded RTX 4080M desktop GPU performs worse than similarly-priced official options. It currently costs roughly $400 in China and compared to the RX 9070 GRE, this custom card loses in every game tested except PUBG.",
+        "tags": [
+          "gpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9467
+      },
       {
         "id": "506954b84c8c09f6",
         "title": "Hannah Montana Linux gets modern remaster after nearly two decades — ‘Sweet niblets,’ new v26 is built on Debian with a re-skin of KDE Plasma",
@@ -961,26 +977,89 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8494
-      },
-      {
-        "id": "c6203d430ebfa29e",
-        "title": "6 wild things people plug into their phone's charging port (that actually work)",
-        "url": "https://www.makeuseof.com/wild-things-people-plug-into-phones-charging-usb-port-that-actually-work/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1783175418000,
-        "summary": "Charging is just the beginning of what your phone's port can do.",
-        "tags": [
-          "technology explained",
-          "mobile accessory",
-          "usb"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8413
       }
     ],
     "innovation": [
+      {
+        "id": "fba3defb87de3a9d",
+        "title": "Data Center Emits Constant Screeching Noise Directly Into Man’s House",
+        "url": "https://www.reddit.com/r/technology/comments/1uo3p22/data_center_emits_constant_screeching_noise/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783261974000,
+        "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9427
+      },
+      {
+        "id": "73761a1c626ae496",
+        "title": "I stopped using Figma for wireframing after I tried this",
+        "url": "https://www.makeuseof.com/stopped-using-figma-wireframing-tried-this/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1783261818000,
+        "summary": "I stopped paying to draw rectangles.",
+        "tags": [
+          "creative",
+          "web design"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.8428
+      },
+      {
+        "id": "0eaa8cb8823a5a66",
+        "title": "India orders Meta to remove Instagram ads promoting child abuse material",
+        "url": "https://thenextweb.com/news/india-meta-order-instagram-cseam-ads",
+        "source": "The Next Web",
+        "lane": "innovation",
+        "published_ts": 1783260888000,
+        "summary": "India’s IT ministry has ordered Meta to immediately disable all Instagram advertisements and content promoting child sexual exploitation and abuse material, according to The Week. The company has seven days to explain how the ads were approved and to detail the safeguards it will put in place. The Ministry of Electronics and Information Technology also demanded […] This story continues at The Next",
+        "tags": [
+          "government and policy",
+          "social media",
+          "india",
+          "next featured",
+          "meta"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.959
+      },
+      {
+        "id": "6d1e99497c589bf3",
+        "title": "New York tops 8 GW of distributed solar, moves ahead of 2030 target",
+        "url": "https://www.reddit.com/r/technology/comments/1uo371i/new_york_tops_8_gw_of_distributed_solar_moves/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1783260686000,
+        "summary": "submitted by /u/Wagamaga [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9362
+      },
+      {
+        "id": "82aad7917b1a9b8d",
+        "title": "US Navy is flight-testing 3D printed fighter jet parts that cut repair times in half — forward-deployed 3D printers generate composite parts, flight testing to begin on operational F/A-18 Super Hornets",
+        "url": "https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets",
+        "source": "Tom's Hardware",
+        "lane": "innovation",
+        "published_ts": 1783260676000,
+        "summary": "The US Navy is experimenting with 3D-printed patches for composite parts, allowing forward bases to repair F/A-18 Super Hornets without waiting for replacement parts coming from the tail end of a logistics supply chain thousands of miles long.",
+        "tags": [
+          "3d printing"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9362
+      },
       {
         "id": "59a3dc20c45ac166",
         "title": "US Navy testing 3D printed fighter jet parts for quick repairs — composite parts printed at forward-deployed 3D printers to be flight tested on operational F/A-18 Super Hornets",
@@ -1839,88 +1918,61 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9381
-      },
-      {
-        "id": "f3de6720f779604c",
-        "title": "EchoStar's US Satellite Pay-TV Provider Dish DBS Files for Bankruptcy",
-        "url": "https://entertainment.slashdot.org/story/26/07/04/0355237/echostars-us-satellite-pay-tv-provider-dish-dbs-files-for-bankruptcy?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "innovation",
-        "published_ts": 1783182840000,
-        "summary": "EchoStar's satellite pay-TV unit Dish DBS has filed for Chapter 11 bankruptcy protection, reports Reuters. The move also applies to its wireless subsidiaries, according to the article, and \"facilitates the wind-down of Dish Wireless's 5G network operations following an unexpected delay in a spectrum license sale to AT&T... under which EchoStar agreed to sell about 50 megahertz of its nationwide sp",
-        "tags": [
-          "tv"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1309
-      },
-      {
-        "id": "767bb9980f99cd4b",
-        "title": "I cut my Bambu printer off from Bambu's cloud and lost exactly two features",
-        "url": "https://www.makeuseof.com/cut-bambu-printer-bambus-cloud-lost-two-features/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1783182617000,
-        "summary": "I finally own the printer I paid for.",
-        "tags": [
-          "smart home",
-          "3d printing",
-          "open source"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8467
-      },
-      {
-        "id": "b8e3660697c43080",
-        "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
-        "url": "https://www.reddit.com/r/technology/comments/1und74u/white_house_deletes_thousands_of_web_pages_about/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1783182046000,
-        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9434
-      },
-      {
-        "id": "caadb204a5b65d6e",
-        "title": "This old Windows tool shows exactly what's hammering your drive",
-        "url": "https://www.makeuseof.com/old-windows-tool-shows-exactly-whats-hammering-your-drive/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1783180817000,
-        "summary": "Task Manager tells you the disk is busy. This one tells you which file to blame.",
-        "tags": [
-          "windows",
-          "storage",
-          "windows tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8472
-      },
-      {
-        "id": "5688e00db8bbafc8",
-        "title": "YouTube urges creators to fight proposed UK algorithm changes",
-        "url": "https://www.reddit.com/r/technology/comments/1uncoos/youtube_urges_creators_to_fight_proposed_uk/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1783180802000,
-        "summary": "submitted by /u/svga [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0203
       }
     ],
     "ai": [
+      {
+        "id": "b6f8e60311e603af",
+        "title": "US control of frontier AI hangs over NATO’s Ankara summit",
+        "url": "https://thenextweb.com/news/nato-summit-ai-security-access",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1783261984000,
+        "summary": "Donald Trump arrives at next week’s NATO summit in Ankara holding unusual leverage, because the US decides which allies get access to the world’s most advanced AI, Politico reports. The alliance meets on 7 and 8 July with AI security questions hovering over the agenda. A new wave of models from Anthropic and OpenAI can find […] This story continues at The Next Web",
+        "tags": [
+          "anthropic",
+          "artificial intelligence",
+          "government and policy",
+          "defence"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9646
+      },
+      {
+        "id": "d5d600bfc5562831",
+        "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+        "url": "https://www.reddit.com/r/technology/comments/1uo3kt4/infuriating_google_commercial_imagines_the/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1783261671000,
+        "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0165
+      },
+      {
+        "id": "fdfbe4e9208068b2",
+        "title": "Citi boss Jane Fraser says 2 AI races will decide banking’s future",
+        "url": "https://thenextweb.com/news/citi-fraser-two-ai-races-banking",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1783261621000,
+        "summary": "Citigroup chief executive Jane Fraser says the financial sector is running two AI races at once, she told the South China Morning Post. The first is applying AI to business models to drive revenue growth, shortening product development cycles and improving customer service. The second race is defensive. Fraser said Citi’s job is to keep the […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "fintech and ecommerce",
+          "next featured",
+          "finance"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9627
+      },
       {
         "id": "4175fe02c46e19a3",
         "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
@@ -1941,6 +1993,40 @@
         "score": 0.8539
       },
       {
+        "id": "0dcd1d8be33373ea",
+        "title": "ByteDance and Alibaba kill custom AI companions as China’s new rules bite",
+        "url": "https://thenextweb.com/news/china-humanlike-ai-agent-rules",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1783261163000,
+        "summary": "ByteDance’s Doubao and Alibaba’s Qwen, two of China’s biggest consumer AI apps, are disabling their customised agent features, the South China Morning Post reports. The move comes days before Beijing’s new rules on humanlike AI interaction services take effect on 15 July. Doubao told users on Friday that its agent feature would go offline on 15 […] This story continues at The Next Web",
+        "tags": [
+          "artificial intelligence",
+          "china",
+          "government and policy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9604
+      },
+      {
+        "id": "4142dfca2f4deff7",
+        "title": "South Korea plans a ‘future response fund’ built on its AI chip tax windfall",
+        "url": "https://thenextweb.com/news/south-korea-future-fund-chip-windfall",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1783260537000,
+        "summary": "South Korea will seek to create a “future response fund” financed by the tax windfall from its semiconductor boom, Yonhap reported. The proceeds would flow into AI, advanced manufacturing, and other long-term growth engines. Presidential chief of staff Kang Hoon-sik said the fund would turn the extra tax revenue into investment resources for future generations. The government […] This story contin",
+        "tags": [
+          "asia",
+          "deep tech",
+          "government and policy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9572
+      },
+      {
         "id": "97d2c7db84aa92a2",
         "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
         "url": "https://www.reddit.com/r/technology/comments/1uo31fp/mark_zuckerberg_tells_staff_that_ai_agents_havent/",
@@ -1955,6 +2041,25 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0181
+      },
+      {
+        "id": "e2089544085ad9e5",
+        "title": "Nvidia supplier Hon Hai posts 40% sales jump on AI server demand",
+        "url": "https://thenextweb.com/news/hon-hai-sales-surge-ai-servers",
+        "source": "The Next Web",
+        "lane": "ai",
+        "published_ts": 1783260158000,
+        "summary": "Hon Hai, the Taiwanese contract manufacturing giant known as Foxconn, has reported a bigger-than-expected 40% jump in quarterly sales on demand for AI servers. The Nvidia supplier said in a statement on Sunday that AI rack shipments should maintain their momentum this quarter. June revenue alone reached NT$1.33tn (roughly $45bn), up 21.6% year on year. The company added […] This story continues at",
+        "tags": [
+          "artificial intelligence",
+          "next featured",
+          "business",
+          "asia",
+          "nvidia"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9552
       },
       {
         "id": "f37b1c0d22690c57",
@@ -2787,103 +2892,24 @@
         "paywall": false,
         "impact": "high",
         "score": 0.9565
-      },
-      {
-        "id": "589361911f44afed",
-        "title": "Google's Learn About AI Experiment Feels Like a Slimmed-Down NotebookLM",
-        "url": "https://www.cnet.com/tech/services-and-software/googles-learn-about-ai-experiment-feels-like-a-slimmed-down-notebooklm/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1783173639000,
-        "summary": "Google's Learn About is impossibly easy to use.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.88
-      },
-      {
-        "id": "986a1e8e5c641067",
-        "title": "Macron and Modi are winning the AI infrastructure race with text messages and personal meetings",
-        "url": "https://thenextweb.com/news/macron-modi-ai-infrastructure-personal-diplomacy",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1783173562000,
-        "summary": "The global race for AI infrastructure has become a contest of personal relationships. French President Emmanuel Macron and Indian Prime Minister Narendra Modi have emerged as its most aggressive practitioners, personally courting the heads of the world’s largest technology companies to secure data centre investments that will determine where the next generation of AI systems are trained […] This s",
-        "tags": [
-          "europe",
-          "india",
-          "next featured",
-          "government and policy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9525
-      },
-      {
-        "id": "abf41173dbdfa206",
-        "title": "Q&A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more (Jason Hiner/The Deep View)",
-        "url": "https://www.techmeme.com/260704/p7#a260704p7",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1783173302000,
-        "summary": "Jason Hiner / The Deep View: Q&A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more — W — alk into any of the frontier AI labs, and you'll find wall-to-wall Macs. — Decisions Apple made years ago …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0789
-      },
-      {
-        "id": "12fa62baa7793560",
-        "title": "OpenAI apparently never visited the site of its flagship UK AI project",
-        "url": "https://thenextweb.com/news/openai-apparently-never-visited-the-site-of-its-flagship-uk-ai-project",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1783172863000,
-        "summary": "OpenAI apparently failed to visit a key site earmarked for its Stargate UK data centre project before the initiative was announced, the Guardian reported on Friday. The revelation deepens questions about whether the UK government’s flagship AI infrastructure programme was built on press releases rather than due diligence. Stargate UK, a partnership between OpenAI, Nvidia, and […] This story contin",
-        "tags": [
-          "artificial intelligence",
-          "next featured",
-          "government and policy",
-          "uk"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.949
-      },
-      {
-        "id": "5b4a1508d8c69fdb",
-        "title": "Micron breaks ground on $9bn Hiroshima expansion to chase AI memory demand",
-        "url": "https://thenextweb.com/news/micron-breaks-ground-9-billion-hiroshima-expansion",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1783172321000,
-        "summary": "Micron Technology broke ground on Saturday on a ¥1.5 trillion, roughly $9.3bn, expansion of its factory in Hiroshima, western Japan, the company’s latest bet on the AI memory boom that has already pushed its market value past $1 trillion. The Boise, Idaho based chipmaker will use the site to produce high-bandwidth memory, the stacked DRAM […] This story continues at The Next Web",
-        "tags": [
-          "business",
-          "asia"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.966
-      },
-      {
-        "id": "288cdedee0a0ab14",
-        "title": "5 habits that keep me from burning through Claude's token budget",
-        "url": "https://www.makeuseof.com/habits-that-keep-me-from-burning-through-claudes-token-budget/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1783171817000,
-        "summary": "It’s surprisingly easy to burn through Claude's token limit — here's what I do to make it last longer.",
-        "tags": [
-          "productivity",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8425
       }
     ],
     "science": [
+      {
+        "id": "16b95e5878a4e3cd",
+        "title": "Japan space probe skims asteroid in test for planetary defense",
+        "url": "https://phys.org/news/2026-07-japan-space-probe-skims-asteroid.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783261812000,
+        "summary": "A Japanese space probe performed a flyby of a near-Earth asteroid on Sunday in a test mission for technology that could help protect the planet from space rocks.",
+        "tags": [
+          "space exploration"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0113
+      },
       {
         "id": "44fce02d87be5757",
         "title": "Scattered bronze bells in Chinese lord's 2,600-year-old tomb point to ritual deactivation",
@@ -3791,21 +3817,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0108
-      },
-      {
-        "id": "57ebbb03daacec50",
-        "title": "Scientists make quantum time flow backwards in physics breakthrough",
-        "url": "https://www.reddit.com/r/technology/comments/1umig6n/scientists_make_quantum_time_flow_backwards_in/",
-        "source": "Reddit r/technology",
-        "lane": "science",
-        "published_ts": 1783094643000,
-        "summary": "submitted by /u/GroversGrumbles [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9378
       }
     ]
   },
