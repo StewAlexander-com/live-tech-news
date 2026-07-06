@@ -347,10 +347,11 @@
       threshold: 0.38,
       ignoreLocation: true,
       keys: [
-        { name: "title",  weight: 0.6 },
-        { name: "source", weight: 0.2 },
-        { name: "tags",   weight: 0.15 },
-        { name: "summary",weight: 0.05 }
+        { name: "title",  weight: 0.55 },
+        { name: "source", weight: 0.18 },
+        { name: "tags",   weight: 0.17 },
+        { name: "summary",weight: 0.07 },
+        { name: "lane_title", weight: 0.03 }
       ]
     });
   }

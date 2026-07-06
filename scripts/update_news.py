@@ -65,16 +65,16 @@ SOURCE_WEIGHT = {
     "Mashable": 0.70,
     "CNET": 0.82,
     "TechRadar": 0.85,
-    "The Next Web": 0.90,
+    "The Next Web": 0.82,
     "Recode": 0.92,
-    # aggregators / commentary
-    "Techmeme": 1.00,
+    # aggregators / commentary (demoted when syndicated)
+    "Techmeme": 0.72,
     "Slashdot": 1.05,
     "Daring Fireball": 1.08,
-    "MakeUseOf": 0.85,
+    "MakeUseOf": 0.78,
     "ReadWrite": 0.90,
     "Digg": 0.90,
-    "Reddit r/technology": 0.95,
+    "Reddit r/technology": 0.70,
     # apple / android niche
     "Mac Rumors": 1.00,
     "Android Police": 1.00,
@@ -96,6 +96,25 @@ SOURCE_WEIGHT = {
     "Liliputing": 1.10,
     "NewsAPI": 0.85,
 }
+
+# When two outlets cover the same story, prefer the higher-originality source.
+# 1.0 = primary reporting; lower = aggregator / repost / affiliate.
+SOURCE_ORIGINALITY: dict[str, float] = {
+    "Techmeme": 0.25,
+    "Hacker News": 0.45,
+    "Reddit r/technology": 0.40,
+    "MakeUseOf": 0.50,
+    "TechRadar": 0.62,
+    "CNET": 0.68,
+    "Mashable": 0.55,
+    "The Next Web": 0.58,
+    "Engadget": 0.72,
+    "Slashdot": 0.55,
+    "Digg": 0.50,
+}
+
+# High-volume science republishers — require a tech/engineering angle.
+LOW_SNR_SCIENCE_SOURCES = {"Phys.org", "ScienceDaily Tech"}
 
 # Known paywall-heavy domains (down-weight; still allowed if high-impact).
 PAYWALL_DOMAINS = {
@@ -141,8 +160,8 @@ FEEDS: list[tuple[str, str, str]] = [
     # AI
     ("Ars Technica AI",    "https://feeds.arstechnica.com/arstechnica/index/",      "ai"),
     ("MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/feed", "ai"),
-    ("arXiv cs.AI",        "http://export.arxiv.org/rss/cs.AI",                     "ai"),
-    ("arXiv cs.LG",        "http://export.arxiv.org/rss/cs.LG",                     "ai"),
+    ("arXiv cs.AI",        "https://export.arxiv.org/rss/cs.AI",                    "ai"),
+    ("arXiv cs.LG",        "https://export.arxiv.org/rss/cs.LG",                    "ai"),
 
     # Science (with tech bent)
     ("Ars Technica Science","https://feeds.arstechnica.com/arstechnica/science",    "science"),
@@ -248,15 +267,104 @@ TITLE_BLOCKLIST = [
     # Generic listicle headlines
     r"^\d+ (signs|reasons|ways|things|tips|tricks|mistakes|myths)\b",
     r"\b(\d+ (signs|reasons|ways|things|tips|tricks|mistakes|myths)) (that )?you (should|need|must)\b",
+    # Affiliate deal headlines that slip past generic "best deals" rules
+    r"\bthis .+\bdeal is\b",
+    r"\bis down to \$\d+",
+    r"\bmatching its (best )?price\b",
+    r"\bon sale for\b",
+    r"\bsave \$\d+",
+    r"\b\d+% off\b",
+    r"\bI'?d buy\b",
+    r"\bI'?d put on every\b",
+    r"\bsteal for\b",
+    r"\bultimate .+ (setup|power)\b",
+    r"\bback-to-school\b.*\b(deal|mini pc|laptop)\b",
+    r"\b(deal|sale)\b.*\b(camping|student desk|all-day comfort)\b",
+    r"\bnever pay full price\b",
+    r"\bprice (drop|drops|cut|cuts)\b.*\b(deal|sale)\b",
+    # Second-hand aggregator meta-headlines (the Reuters story is the signal)
+    r"^Sources:\s",
+    r"^Report:\s",
+    # Low-signal OS cosmetic churn
+    r"\b(gets )?new wallpaper\b",
+    r"\bwallpaper options?\b",
+    r"\bnow \$\d+ off\b",
+    r"\bstarting at \$\d+",
+    r"\b\d+ off on amazon\b",
+]
+
+# Summary-level noise: syndicated reposts and truncated affiliate dumps.
+SUMMARY_BLOCKLIST = [
+    r"this story continues\b",
+    r"read more at",
+    r"click here to read",
+    r"^\[\s*…\s*\]$",
+    r"\baffiliate partner\b",
+    r"\bwhen you click a link and ma",  # truncated MacRumors affiliate boilerplate
 ]
 
 _BLOCK_PATTERNS = [re.compile(p, re.IGNORECASE) for p in TITLE_BLOCKLIST]
+_SUMMARY_BLOCK_PATTERNS = [re.compile(p, re.IGNORECASE) for p in SUMMARY_BLOCKLIST]
+
+# Apple rumor / software-cycle posts belong in Innovation unless hardware-focused.
+APPLE_RUMOR_CUES = [
+    "rumor", "rumour", "reportedly", "expected to", "leak", "leaked",
+    "beta", "watchos", "ipados", "visionos", "ios ", " ios", "macos",
+    "wwdc", "software update", "point release",
+]
+APPLE_HARDWARE_CUES = [
+    "iphone", "ipad", "macbook", "imac", "mac pro", "mac mini", "mac studio",
+    "apple watch", "airpods", "vision pro", "a18", "a19", "m4", "m5",
+    "chip", "processor", "silicon", "hardware", "display", "battery",
+]
 
 
-def is_filler(title: str) -> bool:
-    if not title:
+def is_filler(title: str, summary: str = "") -> bool:
+    if not title or len(title.strip()) < 12:
         return True
-    return any(p.search(title) for p in _BLOCK_PATTERNS)
+    if any(p.search(title) for p in _BLOCK_PATTERNS):
+        return True
+    if summary and any(p.search(summary) for p in _SUMMARY_BLOCK_PATTERNS):
+        return True
+    return False
+
+
+def _source_originality(source: str) -> float:
+    return SOURCE_ORIGINALITY.get(source, 0.92)
+
+
+def _pick_survivor(a: Article, b: Article) -> Article:
+    """When two items cover the same story, keep the more original outlet."""
+    oa, ob = _source_originality(a.source), _source_originality(b.source)
+    if ob > oa + 0.05:
+        return b
+    if oa > ob + 0.05:
+        return a
+    if b.score > a.score + 0.02:
+        return b
+    if a.score > b.score + 0.02:
+        return a
+    # Prefer the item with richer summary text (primary reporting signal).
+    if len(b.summary or "") > len(a.summary or "") + 40:
+        return b
+    if len(a.summary or "") > len(b.summary or "") + 40:
+        return a
+    return a if a.published_ts >= b.published_ts else b
+
+
+def refine_lane(a: Article) -> None:
+    """Route Apple/iOS rumor churn out of Gadgets unless concretely hardware."""
+    text = (a.title + " " + a.summary).lower()
+    is_apple = (
+        a.source in ("Mac Rumors", "9to5Mac", "AppleInsider")
+        or "apple" in text
+    )
+    if not is_apple:
+        return
+    has_rumor = any(c in text for c in APPLE_RUMOR_CUES)
+    has_hardware = any(c in text for c in APPLE_HARDWARE_CUES)
+    if has_rumor and not has_hardware and a.lane == "gadgets":
+        a.lane = "innovation"
 
 
 # Per-lane cap on how many headlines a single source can take. Prevents
@@ -304,12 +412,20 @@ class Article:
 # ------------------------------------------------------------------ Fetch
 
 def http_get(url: str, headers: dict | None = None) -> bytes:
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": USER_AGENT, "Accept": "*/*", **(headers or {})},
-    )
-    with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
-        return resp.read()
+    last_err: Exception | None = None
+    for attempt in range(2):
+        try:
+            req = urllib.request.Request(
+                url,
+                headers={"User-Agent": USER_AGENT, "Accept": "*/*", **(headers or {})},
+            )
+            with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+                return resp.read()
+        except Exception as e:
+            last_err = e
+            if attempt == 0:
+                time.sleep(1.5)
+    raise last_err  # type: ignore[misc]
 
 
 def fetch_feed(name: str, url: str, default_lane: str) -> list[Article]:
@@ -346,11 +462,13 @@ def fetch_hacker_news() -> list[Article]:
         url = (hit.get("url") or "").strip()
         if not title or not url:
             continue
+        if is_filler(title):
+            continue
         ts = int((hit.get("created_at_i") or time.time())) * 1000
         points = int(hit.get("points") or 0)
         lane = classify_lane(title, "")
         if lane is None:
-            continue  # skip non-tech HN items
+            lane = "innovation"  # HN front page is tech-centric even when keywords miss
         a = Article(
             id=make_id(url, title),
             title=clean_text(title),
@@ -365,6 +483,7 @@ def fetch_hacker_news() -> list[Article]:
         # HN front page is the signal; high points → mark high impact.
         if points >= 150:
             a.impact = "high"
+        refine_lane(a)
         out.append(a)
     return out
 
@@ -394,11 +513,14 @@ def fetch_newsapi() -> list[Article]:
         src = ((art.get("source") or {}).get("name") or "NewsAPI").strip()
         if not title or not u:
             continue
+        summary = clean_text(art.get("description") or "")
+        if is_filler(title, summary):
+            continue
         ts = _parse_iso(art.get("publishedAt")) or int(time.time() * 1000)
         lane = classify_lane(title, art.get("description") or "")
         if lane is None:
             continue
-        out.append(Article(
+        a = Article(
             id=make_id(u, title),
             title=clean_text(title),
             url=u,
@@ -408,7 +530,9 @@ def fetch_newsapi() -> list[Article]:
             summary=clean_text(art.get("description") or "")[:300],
             tags=["newsapi"],
             paywall=is_paywalled(u),
-        ))
+        )
+        refine_lane(a)
+        out.append(a)
     return out
 
 
@@ -417,27 +541,30 @@ def entry_to_article(entry, source: str, default_lane: str) -> Article | None:
     link = getattr(entry, "link", "") or ""
     if not title or not link:
         return None
-    if is_filler(title):
-        return None
 
     summary_raw = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
     summary = clean_text(strip_html(summary_raw))
 
+    if is_filler(title, summary):
+        return None
+
     published_ts = _entry_time(entry)
+    retention_cutoff = int((datetime.now(timezone.utc) - timedelta(days=RETAIN_DAYS)).timestamp() * 1000)
+    if published_ts < retention_cutoff:
+        return None
 
     # Reclassify: if the title/summary strongly matches another lane, use that.
     inferred = classify_lane(title, summary)
     lane = inferred or default_lane
 
-    # Science feeds: keep only items with a tech bent.
-    if lane == "science" and not _has_tech_cue(title + " " + summary):
-        # demote to tagged item but still allow — some core science is useful
-        pass
+    # High-volume science republishers: require a tech/engineering angle.
+    if source in LOW_SNR_SCIENCE_SOURCES and lane == "science" and not _has_tech_cue(title + " " + summary):
+        return None
 
     tags = [t.get("term") for t in getattr(entry, "tags", []) or [] if t.get("term")]
     tags = [t.lower() for t in tags][:6]
 
-    return Article(
+    a = Article(
         id=make_id(link, title),
         title=title,
         url=link,
@@ -448,6 +575,8 @@ def entry_to_article(entry, source: str, default_lane: str) -> Article | None:
         tags=tags,
         paywall=is_paywalled(link),
     )
+    refine_lane(a)
+    return a
 
 
 def _entry_time(entry) -> int:
@@ -616,6 +745,31 @@ def load_snapshot() -> dict:
     return {"generated_at": None, "lanes": {k: [] for k in ["gadgets","innovation","ai","science"]}, "meta": {}}
 
 
+def article_from_dict(d: dict) -> Article:
+    return Article(
+        id=d.get("id", ""),
+        title=d.get("title", ""),
+        url=d.get("url", ""),
+        source=d.get("source", ""),
+        lane=d.get("lane", "innovation"),
+        published_ts=int(d.get("published_ts") or 0),
+        summary=d.get("summary") or "",
+        tags=list(d.get("tags") or []),
+        paywall=bool(d.get("paywall")),
+        impact=d.get("impact") or "normal",
+        score=float(d.get("score") or 0),
+    )
+
+
+def refresh_stored_scores(snapshot: dict) -> None:
+    """Recompute rank scores so recency decay stays honest between cron runs."""
+    for lane, items in (snapshot.get("lanes") or {}).items():
+        for it in items:
+            a = article_from_dict(it)
+            a.lane = lane
+            it["score"] = round(rank(a), 4)
+
+
 def merge_into_lane(existing: list[dict], fresh: list[Article]) -> list[dict]:
     """
     FILO per-lane bounded queue:
@@ -653,6 +807,44 @@ def merge_into_lane(existing: list[dict], fresh: list[Article]) -> list[dict]:
     return merged
 
 
+def purge_cross_lane_duplicates(snapshot: dict) -> int:
+    """Remove the same regurgitated story when it appears in multiple lanes."""
+    all_items: list[tuple[str, dict]] = []
+    for lane in ["gadgets", "innovation", "ai", "science"]:
+        for it in snapshot.get("lanes", {}).get(lane, []):
+            all_items.append((lane, it))
+
+    losers: set[str] = set()
+    for i, (_lane_i, it_i) in enumerate(all_items):
+        if it_i.get("id") in losers:
+            continue
+        fp_i = _title_fingerprint(it_i.get("title", ""))
+        if len(fp_i) < 3:
+            continue
+        for _lane_j, it_j in all_items[i + 1:]:
+            if it_j.get("id") in losers:
+                continue
+            if _jaccard(fp_i, _title_fingerprint(it_j.get("title", ""))) < 0.55:
+                continue
+            a_i = article_from_dict(it_i)
+            a_j = article_from_dict(it_j)
+            survivor = _pick_survivor(a_i, a_j)
+            if survivor.id == a_i.id:
+                losers.add(it_j["id"])
+            else:
+                losers.add(it_i["id"])
+                break
+
+    removed = 0
+    for lane in snapshot.get("lanes", {}):
+        before = len(snapshot["lanes"][lane])
+        snapshot["lanes"][lane] = [
+            it for it in snapshot["lanes"][lane] if it.get("id") not in losers
+        ]
+        removed += before - len(snapshot["lanes"][lane])
+    return removed
+
+
 def write_snapshot(snapshot: dict) -> None:
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     tmp = DATA_FILE.with_suffix(".json.tmp")
@@ -685,56 +877,53 @@ def main() -> int:
         print(f"  - NewsAPI: {len(na)} items")
         all_fresh.extend(na)
 
-    # De-dup by id (and by canonical URL collision)
+    # De-dup by id and canonical URL; prefer original outlets on URL collision.
     seen_ids: set[str] = set()
-    seen_urls: set[str] = set()
+    url_map: dict[str, Article] = {}
     deduped: list[Article] = []
     for a in all_fresh:
         if a.id in seen_ids:
             continue
         cu = _canonical_url(a.url)
-        if cu in seen_urls:
+        if cu in url_map:
+            url_map[cu] = _pick_survivor(url_map[cu], a)
+            seen_ids.add(a.id)
             continue
-        seen_ids.add(a.id); seen_urls.add(cu)
-        deduped.append(a)
+        seen_ids.add(a.id)
+        url_map[cu] = a
+    deduped = list(url_map.values())
 
     # Score + assign impact flag by top quartile within lane
     for a in deduped:
         a.score = rank(a)
 
-    # Fuzzy story dedup: collapse near-duplicate titles across outlets.
-    # Keep the highest-scoring one, carry a tag noting how many outlets covered it.
-    fingerprints: list[tuple[frozenset[str], Article]] = []
-    collapsed: list[Article] = []
-    # Sort by score desc so the best article per cluster wins.
-    for a in sorted(deduped, key=lambda x: x.score, reverse=True):
+    # Fuzzy story dedup: collapse near-duplicate titles across ALL lanes/outlets.
+    # Prefer original reporting over aggregators (Techmeme/HN/Reddit).
+    clusters: list[list[Article]] = []
+    for a in sorted(deduped, key=lambda x: (x.score, _source_originality(x.source)), reverse=True):
         fp = _title_fingerprint(a.title)
-        if len(fp) < 3:
-            collapsed.append(a)
-            fingerprints.append((fp, a))
-            continue
-        dup_parent = None
-        for existing_fp, existing_a in fingerprints:
-            if existing_a.lane != a.lane:
-                continue
-            if _jaccard(fp, existing_fp) >= 0.55:
-                dup_parent = existing_a
-                break
-        if dup_parent is not None:
-            # Mark the survivor as covered by multiple outlets (signal of impact)
-            count = 1
-            for t in dup_parent.tags:
-                m = re.match(r"outlets:(\d+)", t)
-                if m:
-                    count = int(m.group(1))
-            count += 1
-            dup_parent.tags = [t for t in dup_parent.tags if not t.startswith("outlets:")]
-            dup_parent.tags.append(f"outlets:{count}")
-            if count >= 3 and dup_parent.impact != "high":
-                dup_parent.impact = "high"  # 3+ outlets = clearly impactful
-            continue
-        collapsed.append(a)
-        fingerprints.append((fp, a))
+        matched: list[Article] | None = None
+        if len(fp) >= 3:
+            for cluster in clusters:
+                if _jaccard(fp, _title_fingerprint(cluster[0].title)) >= 0.55:
+                    matched = cluster
+                    break
+        if matched is None:
+            clusters.append([a])
+        else:
+            matched.append(a)
+
+    collapsed: list[Article] = []
+    for cluster in clusters:
+        survivor = cluster[0]
+        for other in cluster[1:]:
+            survivor = _pick_survivor(survivor, other)
+        if len(cluster) > 1:
+            survivor.tags = [t for t in survivor.tags if not t.startswith("outlets:")]
+            survivor.tags.append(f"outlets:{len(cluster)}")
+            if len(cluster) >= 3 and survivor.impact != "high":
+                survivor.impact = "high"
+        collapsed.append(survivor)
     print(f"[info] fuzzy-dedup collapsed {len(deduped) - len(collapsed)} near-duplicate titles")
     deduped = collapsed
 
@@ -775,13 +964,19 @@ def main() -> int:
     for lane in ["gadgets", "innovation", "ai", "science"]:
         existing = snapshot.setdefault("lanes", {}).setdefault(lane, [])
         before = len(existing)
-        snapshot["lanes"][lane] = [it for it in existing if not is_filler(it.get("title", ""))]
+        snapshot["lanes"][lane] = [it for it in existing if not is_filler(it.get("title", ""), it.get("summary", ""))]
         purged_total += before - len(snapshot["lanes"][lane])
     if purged_total:
         print(f"[info] retroactive filler purge removed {purged_total} items")
 
     for lane in ["gadgets", "innovation", "ai", "science"]:
         snapshot["lanes"][lane] = merge_into_lane(snapshot["lanes"][lane], by_lane.get(lane, []))
+
+    cross_removed = purge_cross_lane_duplicates(snapshot)
+    if cross_removed:
+        print(f"[info] cross-lane duplicate purge removed {cross_removed} items")
+
+    refresh_stored_scores(snapshot)
 
     snapshot["generated_at"] = datetime.now(timezone.utc).isoformat()
     snapshot["meta"] = {
