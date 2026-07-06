@@ -413,7 +413,7 @@ class Article:
 
 def http_get(url: str, headers: dict | None = None) -> bytes:
     last_err: Exception | None = None
-    for attempt in range(2):
+    for attempt in range(3):
         try:
             req = urllib.request.Request(
                 url,
@@ -423,8 +423,9 @@ def http_get(url: str, headers: dict | None = None) -> bytes:
                 return resp.read()
         except Exception as e:
             last_err = e
-            if attempt == 0:
-                time.sleep(1.5)
+            if attempt < 2:
+                wait = 6.0 * (attempt + 1) if "429" in str(e) else 1.5
+                time.sleep(wait)
     raise last_err  # type: ignore[misc]
 
 
