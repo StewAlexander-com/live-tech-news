@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-06T20:12:33.744771+00:00",
+  "generated_at": "2026-07-06T20:28:01.153438+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6fa75f0ac3b3a273",
+        "title": "Hoto’s PixelDrive screwdriver is down to $60, matching its best price",
+        "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1783369468000,
+        "summary": "If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven’t assembled, Hoto’s PixelDrive cordless screwdriver can help speed up the process. It’s currently on sale for $59.99 ($20 off) at Amazon, matching its best price to date. From tightening loose screws on furniture to repairing electronics, the […]",
+        "tags": [
+          "deals",
+          "gadgets",
+          "tech",
+          "verge shopping"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7911
+      },
       {
         "id": "f104734947b5d299",
         "title": "Android backups are changing and it's going to affect everyone's Google cloud storage",
@@ -973,25 +991,22 @@
         "paywall": false,
         "impact": "high",
         "score": 0.8545
-      },
-      {
-        "id": "34b2769d4a5ac8e0",
-        "title": "Sick of Amazon? This new Kindle jailbreak frees your device and is easier than ever",
-        "url": "https://www.androidpolice.com/sick-of-amazon-this-new-kindle-jailbreak-can-free-your-reading/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1783343564000,
-        "summary": "It's time to find Sanctuary",
-        "tags": [
-          "amazon kindle (2022)",
-          "tablets"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9935
       }
     ],
     "innovation": [
+      {
+        "id": "f22d184e7061cd7a",
+        "title": "SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent (Andrew Chung/Reuters)",
+        "url": "https://www.techmeme.com/260706/p30#a260706p30",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1783368901000,
+        "summary": "Andrew Chung / Reuters: SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent — The U.S. Supreme Court declined on Monday to block a Texas law requiring app stores and developers to verify the age of mobile device users …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9958
+      },
       {
         "id": "74c7d69598293da1",
         "title": "Electrical imbalances at grain boundaries help explain solid-state battery failure",
@@ -1945,24 +1960,55 @@
         "paywall": false,
         "impact": "normal",
         "score": 0.878
-      },
-      {
-        "id": "64e4581e82324c76",
-        "title": "Scientists discover smart way to supercharge soft robotics and better support rehabilitation patients",
-        "url": "https://phys.org/news/2026-07-scientists-smart-supercharge-soft-robotics.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1783348805000,
-        "summary": "Researchers have found an ingenious way to make soft robots and wearable technology more than three times more powerful by harnessing the surface tension of a tiny liquid metal droplet smaller than a raindrop.",
-        "tags": [
-          "materials science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9942
       }
     ],
     "ai": [
+      {
+        "id": "49dbbdc7ea6ae702",
+        "title": "Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities (Raphael Satter/Reuters)",
+        "url": "https://www.techmeme.com/260706/p31#a260706p31",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1783369500000,
+        "summary": "Raphael Satter / Reuters: Sources: CISA's Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities — The U.S. cyber defense agency CISA is using Anthropic's AI model Mythos to audit government software, three people familiar …",
+        "tags": [],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.079
+      },
+      {
+        "id": "59653e3325d4c5cf",
+        "title": "Siri AI Comes to Apple Watch in watchOS 27 Beta 3",
+        "url": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
+        "source": "Mac Rumors",
+        "lane": "ai",
+        "published_ts": 1783369480000,
+        "summary": "With watchOS 27 beta 3, Apple added support for Siri AI and the ‌Siri‌ app, so Apple Watch users can now use the features right from their wrist. Apple said ‌Siri‌ AI would be coming to the watch back when ‌watchOS 27‌ was first introduced, but the feature wasn't live until now. The Dynamic App Grid that pops up when the Digital Crown is pressed displays the ‌Siri‌ app in the center, and the smart",
+        "tags": [
+          "apple watch",
+          "featured",
+          "watchos",
+          "siri"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0788
+      },
+      {
+        "id": "0f1672a43a451ce7",
+        "title": "Fighting the world's deadliest infection with PAC-MAN and AI",
+        "url": "https://phys.org/news/2026-07-world-deadliest-infection-pac-ai.html",
+        "source": "Phys.org",
+        "lane": "ai",
+        "published_ts": 1783369204000,
+        "summary": "Tuberculosis, caused by the bacterium Mycobacterium tuberculosis (Mtb), is the world's deadliest single-agent infection, responsible for 1.23 million deaths in 2024, according to the World Health Organization. The bacterium's unique outer cell membrane is notoriously hard to penetrate, making few drugs, including antibiotics, effective in treating the disease. However, a research team led by the U",
+        "tags": [
+          "cell & microbiology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0988
+      },
       {
         "id": "3cac701b3066ddff",
         "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
@@ -2892,55 +2938,39 @@
         "paywall": false,
         "impact": "high",
         "score": 1.006
-      },
-      {
-        "id": "6637412fed9e6aa5",
-        "title": "Spain’s Sherpa.ai raises $18M for AI that never touches your data",
-        "url": "https://thenextweb.com/news/sherpa-ai-18m-data-sovereign-federated",
-        "source": "The Next Web",
-        "lane": "ai",
-        "published_ts": 1783340875000,
-        "summary": "Everyone wants the power of AI. Few want to hand their most sensitive data to a foreign cloud to get it. A Basque startup thinks it has the fix. Sherpa.ai has raised $18m to build AI that never sees your raw data, tech.eu reported. The Spanish company sells to banks, hospitals and governments, the customers […] This story continues at The Next Web",
-        "tags": [
-          "artificial intelligence",
-          "startups and technology",
-          "privacy",
-          "europe",
-          "data and security",
-          "investors and funding"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9518
-      },
-      {
-        "id": "9f07254779b02f64",
-        "title": "Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027 (CNBC)",
-        "url": "https://www.techmeme.com/260706/p16#a260706p16",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1783340700000,
-        "summary": "CNBC: Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027 — Anthropic on Monday signed a 20-year lease to use a TeraWulf data center in Kentucky. — The data center, located about an hour southwest …",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9617
-      },
-      {
-        "id": "a1a3aa0f09be42d9",
-        "title": "Anthropic signs a 20-year, $19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity, with the first power delivery in H2 2027 (CNBC)",
-        "url": "https://www.techmeme.com/260706/p16#a260706p16",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1783340700000,
-        "summary": "CNBC: Anthropic signs a 20-year, $19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity, with the first power delivery in H2 2027 — WULF year to date — Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9985
       }
     ],
     "science": [
+      {
+        "id": "4c8c39c928507253",
+        "title": "South Australian algal bloom species the world's most toxic harmful microalga yet recorded",
+        "url": "https://phys.org/news/2026-07-south-australian-algal-bloom-species.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783369205000,
+        "summary": "The marine microalgae responsible for the most devastating effects of the South Australian harmful algal bloom (HAB) has now been shown to be the most toxic species of its kind ever studied.",
+        "tags": [
+          "ecology"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0174
+      },
+      {
+        "id": "1cc07981bcf0abf3",
+        "title": "The square kilometer array will revolutionize the hunt for alien life",
+        "url": "https://phys.org/news/2026-07-square-kilometer-array-revolutionize-alien.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1783369202000,
+        "summary": "With new technologies come new opportunities. And that is especially true in astronomy—with every new advanced telescope, we have the potential to see (or in some cases, listen) farther and more clearly than ever before. That is certainly the case for the new Square Kilometer Array (SKA), which is currently undergoing a multiyear rollout phase. Despite that drawn-out process, astronomers are alrea",
+        "tags": [
+          "astronomy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0174
+      },
       {
         "id": "b27d19f6fba7a9b3",
         "title": "Record fireworks display choked Washington in toxic smoke",
@@ -3836,36 +3866,6 @@
         "paywall": false,
         "impact": "high",
         "score": 1.0095
-      },
-      {
-        "id": "8da4e23b400f8850",
-        "title": "Thousands flee raging wildfires in southern Europe",
-        "url": "https://phys.org/news/2026-07-thousands-raging-wildfires-southern-europe.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1783325238000,
-        "summary": "Wildfires raged across Southern Europe on Monday, forcing thousands of people to evacuate their homes and prompting officials to ban spectators from a stage of the storied Tour de France cycling race.",
-        "tags": [
-          "environment"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0063
-      },
-      {
-        "id": "40133c4c5ee777ef",
-        "title": "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
-        "url": "https://www.theregister.com/science/2026/07/06/japans-asteroid-sample-retriever-rapidly-buzzes-remote-space-rock/5266795",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1783319486000,
-        "summary": "Zipped just 800m past Asteroid Torifune as part of very extended mission",
-        "tags": [
-          "science"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9864
       }
     ]
   },
