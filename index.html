@@ -30,6 +30,11 @@
 
   <section id="status" class="status" aria-live="polite"></section>
 
+  <section id="boardState" class="board-state" hidden aria-label="Board state">
+    <p class="board-state-lead" id="boardLead"></p>
+    <div class="board-state-signals" id="boardSignals"></div>
+  </section>
+
   <nav id="laneNav" class="lane-nav" aria-label="Jump to category">
     <!-- Lane tabs injected by JS -->
   </nav>
@@ -43,7 +48,7 @@
   <section id="topStories" class="top-stories" hidden aria-label="Top stories">
     <header class="top-stories-head">
       <h2>Top stories</h2>
-      <span class="top-stories-hint">High-impact · last 24h</span>
+      <span class="top-stories-hint" id="topStoriesHint">Impact + multi-outlet coverage · last 24h</span>
     </header>
     <ol id="topStoriesList" class="top-stories-list"></ol>
   </section>

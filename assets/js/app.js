@@ -10,8 +10,8 @@
 
   // Build marker — bump when deploying. Visible in the diagnostic panel
   // so you can tell at a glance whether a device is on the latest client.
-  const APP_BUILD = "2026-07-06a";
-  const APP_BUILD_TS = "2026-07-06T20:50Z";
+  const APP_BUILD = "2026-07-06b";
+  const APP_BUILD_TS = "2026-07-06T21:35Z";
 
   const LANES = [
     { key: "gadgets",    title: "Gadgets",    blurb: "Hardware, phones, laptops" },
@@ -178,32 +178,21 @@
       const json = await res.json();
       state.snapshot = normalizeSnapshot(json);
       rebuildFuse();
+      renderBoardState();
       renderTopStories();
       renderAllLanes();
       const genMs = state.snapshot.generated_at ? Date.parse(state.snapshot.generated_at) : NaN;
       const ageMin = Number.isFinite(genMs) ? Math.round((Date.now() - genMs) / 60000) : null;
       const tsStr = Number.isFinite(genMs) ? new Date(genMs).toLocaleString() : "unknown";
       document.getElementById("lastUpdated").textContent =
-        ageMin == null ? "Last updated: unknown"
-        : `Updated ${ageMin === 0 ? "just now" : ageMin + " min ago"} · ${tsStr}`;
-      // newest headline age across all lanes
-      let newestMs = 0;
-      for (const l of LANES) {
-        for (const it of (state.snapshot.lanes[l.key] || [])) {
-          const t = it.published_ts || (it.published ? Date.parse(it.published) : 0);
-          if (t > newestMs) newestMs = t;
-        }
-      }
-      const newestAge = newestMs ? Math.round((Date.now() - newestMs) / 60000) : null;
+        ageMin == null ? "Board data: unknown"
+        : `Board refreshed ${ageMin === 0 ? "just now" : ageMin + " min ago"} · snapshot ${tsStr}`;
       const breakingCount = countBreaking();
       const todayCount = countToday();
       const parts = [];
-      if (newestAge != null) {
-        parts.push(newestAge < 1 ? "Fresh headlines just in" : `Newest headline ${newestAge} min ago`);
-      }
-      if (breakingCount) parts.push(`${breakingCount} breaking`);
-      if (todayCount) parts.push(`${todayCount} today`);
-      parts.push(`${totalItems()} in archive`);
+      if (breakingCount) parts.push(`${breakingCount} high-impact today`);
+      if (todayCount) parts.push(`${todayCount} published today`);
+      parts.push(`${totalItems()} archived`);
       setStatus(parts.join(" · "));
     } catch (err) {
       console.error(err);
@@ -234,6 +223,188 @@
 
   function totalItems() {
     return LANES.reduce((n, l) => n + (state.snapshot.lanes[l.key] || []).length, 0);
+  }
+
+  function totalItems() {
+    return LANES.reduce((n, l) => n + (state.snapshot.lanes[l.key] || []).length, 0);
+  }
+
+  // --- Source trust tiers (typography weight, not extra color) ------------
+  const SOURCE_PRIMARY = new Set([
+    "Nature", "Quanta Magazine", "IEEE Spectrum", "MIT Technology Review",
+    "MIT Tech Review AI", "Ars Technica", "Ars Technica Science", "Ars Technica AI",
+    "The Register", "Hackaday", "arXiv cs.AI", "arXiv cs.LG"
+  ]);
+  const SOURCE_AGGREGATOR = new Set([
+    "Techmeme", "Hacker News", "Reddit r/technology", "Slashdot", "Digg"
+  ]);
+
+  function sourceTier(source) {
+    if (SOURCE_PRIMARY.has(source)) return "primary";
+    if (SOURCE_AGGREGATOR.has(source)) return "aggregator";
+    return "standard";
+  }
+
+  function sourceHTML(source) {
+    const name = escapeHTML(source || "");
+    const tier = sourceTier(source);
+    if (tier === "primary") {
+      return `<span class="source source-primary" title="Primary / original reporting">${name}</span>`;
+    }
+    if (tier === "aggregator") {
+      return `<span class="source source-agg" title="Aggregator or community link — follow for the original source">${name}</span>`;
+    }
+    return `<span class="source" title="News outlet">${name}</span>`;
+  }
+
+  function outletCount(it) {
+    for (const t of (it.tags || [])) {
+      const m = String(t).match(/^outlets:(\d+)$/);
+      if (m) return parseInt(m[1], 10);
+    }
+    return 0;
+  }
+
+  function hnPoints(it) {
+    for (const t of (it.tags || [])) {
+      const m = String(t).match(/^points:(\d+)$/);
+      if (m) return parseInt(m[1], 10);
+    }
+    return 0;
+  }
+
+  function rankingPills(it) {
+    const parts = [];
+    const outlets = outletCount(it);
+    const pts = hnPoints(it);
+
+    if (outlets >= 2) {
+      parts.push(`<span class="pill coverage" title="Same story independently covered by ${outlets} outlets">${outlets} outlets</span>`);
+    } else if (isBreaking(it)) {
+      parts.push(`<span class="pill impact-high" title="High impact in editorial ranking">High impact</span>`);
+    }
+
+    if (pts >= 100) {
+      parts.push(`<span class="pill hn" title="Hacker News front page signal">${pts} pts HN</span>`);
+    }
+
+    if (isNew(it)) {
+      parts.push(`<span class="pill new">New</span>`);
+    }
+
+    if (it.paywall) {
+      parts.push(`<span class="pill paywall" title="May require subscription">Paywall</span>`);
+    }
+
+    return parts.join("");
+  }
+
+  // --- Human-readable publish time (avoid false "1s ago" precision) -------
+  function timeBucket(ts) {
+    if (!ts) return { label: "", title: "" };
+    const m = Math.floor((Date.now() - ts) / 60000);
+    if (m < 2)  return { label: "just in", title: "Published within the last few minutes" };
+    if (m < 15) return { label: "<15m",    title: `Published about ${m} minutes ago` };
+    if (m < 60) return { label: "<1h",     title: `Published about ${m} minutes ago` };
+    const h = Math.floor(m / 60);
+    if (h < 24) return { label: "today",   title: `Published about ${h} hour${h === 1 ? "" : "s"} ago` };
+    const d = Math.floor(h / 24);
+    if (d < 7)  return { label: `${d}d`,   title: `Published ${d} day${d === 1 ? "" : "s"} ago` };
+    return { label: `${Math.floor(d / 7)}w`, title: `Published ${d} days ago` };
+  }
+
+  function publishedHTML(ts) {
+    const b = timeBucket(ts);
+    if (!b.label) return "";
+    return `<span class="time" title="${escapeAttr(b.title)}">Published · ${b.label}</span>`;
+  }
+
+  // --- Board state strip (5-second situational read) ----------------------
+  const THEME_DETECTORS = [
+    { label: "AI surge",       re: /\b(ai|openai|llm|gemini|anthropic|chatgpt|copilot)\b/i, min: 3 },
+    { label: "Apple cycle",    re: /\b(apple|ios|macos|iphone|watchos|ipados)\b/i, min: 2 },
+    { label: "Policy watch",   re: /\b(scotus|regulation|congress|law|eu |fda|antitrust)\b/i, min: 2 },
+    { label: "Space & labs",   re: /\b(nasa|spacex|rocket|quantum|fusion|arxiv)\b/i, min: 2 },
+    { label: "Security",       re: /\b(cve|vulnerabilit|breach|ransomware|zero-day|malware)\b/i, min: 2 },
+  ];
+
+  function todayHeadlines() {
+    const out = [];
+    if (!state.snapshot) return out;
+    for (const l of LANES) {
+      for (const it of (state.snapshot.lanes[l.key] || [])) {
+        if (isToday(it)) out.push({ ...it, lane_title: l.title });
+      }
+    }
+    return out;
+  }
+
+  function computeBoardSignals() {
+    const signals = [];
+    if (!state.snapshot) return signals;
+
+    const laneCounts = LANES.map(l => ({
+      title: l.title,
+      n: (state.snapshot.lanes[l.key] || []).filter(isToday).length
+    })).sort((a, b) => b.n - a.n);
+
+    if (laneCounts[0]?.n >= 6) {
+      signals.push(`${laneCounts[0].title} heavy`);
+    }
+
+    const today = todayHeadlines();
+    const blob = today.map(it => it.title).join(" ").toLowerCase();
+    for (const t of THEME_DETECTORS) {
+      const hits = (blob.match(new RegExp(t.re.source, "gi")) || []).length;
+      if (hits >= t.min) signals.push(t.label);
+    }
+
+    const breaking = countBreaking();
+    if (breaking >= 5) signals.push(`${breaking} breaking`);
+
+    const multi = today.filter(it => outletCount(it) >= 3).length;
+    if (multi >= 2) signals.push("wide coverage");
+
+    return [...new Set(signals)].slice(0, 4);
+  }
+
+  function renderBoardState() {
+    const section = document.getElementById("boardState");
+    const leadEl = document.getElementById("boardLead");
+    const sigEl = document.getElementById("boardSignals");
+    if (!section || !leadEl || !sigEl) return;
+
+    const searchActive = Boolean(document.getElementById("search")?.value.trim());
+    if (!state.snapshot || searchActive || state.activeFilter !== "all") {
+      section.hidden = true;
+      return;
+    }
+
+    const top = pickTopStories();
+    const signals = computeBoardSignals();
+
+    if (!top.length && !signals.length) {
+      section.hidden = true;
+      return;
+    }
+
+    section.hidden = false;
+
+    if (top.length) {
+      const lead = top[0];
+      leadEl.innerHTML = `
+        <span class="board-state-kicker">Lead story</span>
+        <a class="board-state-headline" href="${escapeAttr(lead.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(lead.title)}</a>
+        <span class="board-state-meta">${sourceHTML(lead.source)} · ${escapeHTML(lead.lane_title)} · ${timeBucket(lead.published_ts).label}</span>
+      `;
+      leadEl.querySelector("a")?.addEventListener("click", () => markVisited(lead.url));
+    } else {
+      leadEl.innerHTML = `<span class="board-state-kicker">Board</span><span class="board-state-headline muted">Scanning lanes for today's lead…</span>`;
+    }
+
+    sigEl.innerHTML = signals.length
+      ? signals.map(s => `<span class="state-chip">${escapeHTML(s)}</span>`).join("")
+      : `<span class="state-chip muted">Steady flow</span>`;
   }
 
   function isBreaking(it) {
@@ -291,7 +462,7 @@
         pool.push({ ...it, lane: l.key, lane_title: l.title });
       }
     }
-    pool.sort((a, b) => (b.published_ts || 0) - (a.published_ts || 0) || (b.score || 0) - (a.score || 0));
+    pool.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.published_ts || 0) - (a.published_ts || 0));
     return pool.slice(0, TOP_STORIES_MAX);
   }
 
@@ -307,19 +478,18 @@
     }
     section.hidden = false;
     list.innerHTML = stories.map((it, idx) => {
-      const when = it.published_ts ? timeAgo(it.published_ts) : "";
       const visited = isVisited(it.url) ? " visited" : "";
-      const newBadge = isNew(it) ? '<span class="pill new">New</span>' : "";
-      const summary = it.summary ? `<p class="top-story-summary">${escapeHTML(truncate(it.summary, 140))}</p>` : "";
-      return `<li class="top-story${visited}">
+      const hero = idx === 0 ? " top-story-hero" : "";
+      const summary = it.summary ? `<p class="top-story-summary">${escapeHTML(truncate(it.summary, idx === 0 ? 180 : 120))}</p>` : "";
+      return `<li class="top-story${visited}${hero}">
         <span class="top-rank">${idx + 1}</span>
         <div class="top-story-body">
           <a class="top-story-link" href="${escapeAttr(it.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(it.title || "(untitled)")}</a>
           <div class="sub">
-            <span class="source">${escapeHTML(it.source || "")}</span>
+            ${sourceHTML(it.source || "")}
             <span class="lane-tag">${escapeHTML(it.lane_title)}</span>
-            <span class="time">${when}</span>
-            ${newBadge}
+            ${publishedHTML(it.published_ts)}
+            ${rankingPills(it)}
           </div>
           ${summary}
         </div>
@@ -432,14 +602,6 @@
   }
 
   function itemHTML(it, rank) {
-    const when = it.published_ts ? timeAgo(it.published_ts) : "";
-    const paywall = it.paywall
-      ? '<span class="pill paywall" title="May require subscription">Paywall</span>' : "";
-    const impact = isBreaking(it)
-      ? '<span class="pill impact-high" title="High impact or widely covered">Hot</span>' : "";
-    const fresh = isNew(it)
-      ? '<span class="pill new">New</span>' : "";
-    const src = escapeHTML(it.source || "");
     const title = escapeHTML(it.title || "(untitled)");
     const url = it.url || "#";
     const visited = isVisited(url) ? " visited" : "";
@@ -450,9 +612,9 @@
         <div class="body">
           <a class="title" href="${escapeAttr(url)}" target="_blank" rel="noopener noreferrer">${title}</a>
           <div class="sub">
-            <span class="source">${src}</span>
-            <span class="time">${when}</span>
-            ${fresh}${impact}${paywall}
+            ${sourceHTML(it.source || "")}
+            ${publishedHTML(it.published_ts)}
+            ${rankingPills(it)}
           </div>
         </div>
         <div class="go" aria-hidden="true">↗</div>
@@ -471,6 +633,7 @@
         chip.setAttribute("aria-pressed", on ? "true" : "false");
       });
     }
+    renderBoardState();
     renderTopStories();
     renderAllLanes();
   }
@@ -510,6 +673,7 @@
         boardEl.hidden = false;
         if (filtersEl) filtersEl.hidden = false;
         if (laneNavEl) laneNavEl.hidden = false;
+        renderBoardState();
         renderTopStories();
         return;
       }
@@ -522,10 +686,10 @@
         return `<li class="${visited.trim()}">
           <a href="${escapeAttr(it.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(it.title)}</strong></a>
           <div class="sub" style="font-size:12px;color:var(--fg-dim);">
-            <span class="source">${escapeHTML(it.source || "")}</span>
+            ${sourceHTML(it.source || "")}
             · <span class="muted">${escapeHTML(it.lane_title)}</span>
-            · <span class="time">${it.published_ts ? timeAgo(it.published_ts) : ""}</span>
-            ${isBreaking(it) ? ' · <span class="pill impact-high">Hot</span>' : ""}
+            · ${publishedHTML(it.published_ts)}
+            ${rankingPills(it)}
           </div>
         </li>`;
       }).join("");
@@ -535,6 +699,8 @@
       resultsEl.hidden = false;
       boardEl.hidden = true;
       if (topStoriesEl) topStoriesEl.hidden = true;
+      const boardStateEl = document.getElementById("boardState");
+      if (boardStateEl) boardStateEl.hidden = true;
       if (filtersEl) filtersEl.hidden = true;
       if (laneNavEl) laneNavEl.hidden = true;
     });
@@ -615,18 +781,6 @@
     const el = document.getElementById("status");
     el.className = "status" + (cls ? " " + cls : "");
     el.textContent = msg;
-  }
-
-  function timeAgo(ts) {
-    const d = Date.now() - ts;
-    const s = Math.max(1, Math.floor(d / 1000));
-    if (s < 60)  return s + "s ago";
-    const m = Math.floor(s / 60);
-    if (m < 60)  return m + "m ago";
-    const h = Math.floor(m / 60);
-    if (h < 48)  return h + "h ago";
-    const dd = Math.floor(h / 24);
-    return dd + "d ago";
   }
 
   function escapeHTML(s) {
