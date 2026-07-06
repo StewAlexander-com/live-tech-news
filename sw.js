@@ -5,7 +5,7 @@
  *   - Data snapshot (data/news.json): network-first, falling back to cache
  *     when offline so you still see the last known headlines.
  */
-const VERSION = "ltn-v2-2026-04-19g";
+const VERSION = "ltn-v2-2026-07-06a";
 const SHELL_CACHE = "ltn-shell-" + VERSION;
 const DATA_CACHE  = "ltn-data-" + VERSION;
 

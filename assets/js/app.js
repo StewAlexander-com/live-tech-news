@@ -10,32 +10,43 @@
 
   // Build marker — bump when deploying. Visible in the diagnostic panel
   // so you can tell at a glance whether a device is on the latest client.
-  const APP_BUILD = "2026-04-19g";
-  const APP_BUILD_TS = "2026-04-20T02:15Z";
+  const APP_BUILD = "2026-07-06a";
+  const APP_BUILD_TS = "2026-07-06T20:50Z";
 
   const LANES = [
-    { key: "gadgets",    title: "Gadgets" },
-    { key: "innovation", title: "Innovation" },
-    { key: "ai",         title: "AI" },
-    { key: "science",    title: "Science" } // tech-bent
+    { key: "gadgets",    title: "Gadgets",    blurb: "Hardware, phones, laptops" },
+    { key: "innovation", title: "Innovation", blurb: "Startups, policy, culture" },
+    { key: "ai",         title: "AI",         blurb: "Models, research, tools" },
+    { key: "science",    title: "Science",    blurb: "Physics, space, engineering" }
   ];
   const VISIBLE_PER_LANE = 5;                  // how many headlines on screen at once
+  const EXPANDED_PER_LANE = 12;                // when user taps "Show more"
   const ROTATION_MS = 5 * 60 * 1000;           // each lane advances one slot every 5 min
   const LANE_STAGGER_MS = 75 * 1000;           // lane N offset: N * 75s (staggered, not synchronized)
   const POLL_MS = 5 * 60 * 1000;               // refresh JSON every 5 min
   const DATA_URL = "./data/news.json";
+  const NEW_THRESHOLD_MS = 60 * 60 * 1000;     // "New" badge for items < 1h old
+  const TOP_STORIES_WINDOW_MS = 24 * 3600 * 1000;
+  const TOP_STORIES_MAX = 5;
+  const VISITED_KEY = "ltn_visited";
+  const VISITED_MAX = 400;
 
   const state = {
     snapshot: null,        // full JSON { generated_at, lanes: {key: [items...]} }
     visibleOffset: {},     // per-lane scroll offset into its queue
     laneTimers: {},        // per-lane setTimeout handle
     pollTimer: null,
-    fuse: null
+    fuse: null,
+    activeFilter: "all", // all | breaking | today
+    expandedLanes: {},   // per-lane bool — show more items without waiting for rotation
+    visited: new Set()
   };
 
   // --- Boot ---------------------------------------------------------------
   document.addEventListener("DOMContentLoaded", () => {
+    loadVisited();
     buildLanes();
+    buildLaneNav();
     wireControls();
     document.getElementById("pollMin").textContent = String(Math.round(POLL_MS / 60000));
     loadData(true).then(() => {
@@ -101,18 +112,58 @@
     board.innerHTML = "";
     for (const lane of LANES) {
       state.visibleOffset[lane.key] = 0;
+      state.expandedLanes[lane.key] = false;
       const el = document.createElement("section");
       el.className = "lane";
+      el.id = "lane-" + lane.key;
       el.dataset.lane = lane.key;
       el.innerHTML = `
         <header>
-          <h2>${lane.title}</h2>
+          <div class="lane-title-wrap">
+            <h2>${lane.title}</h2>
+            <span class="lane-blurb">${lane.blurb}</span>
+          </div>
           <span class="meta" data-role="meta">—</span>
         </header>
         <ol data-role="list"></ol>
+        <footer class="lane-foot" data-role="foot" hidden>
+          <button type="button" class="lane-more" data-role="more">Show more</button>
+        </footer>
       `;
       board.appendChild(el);
     }
+    board.addEventListener("click", (e) => {
+      const btn = e.target.closest("[data-role='more']");
+      if (!btn) return;
+      const laneEl = btn.closest(".lane");
+      if (!laneEl) return;
+      const key = laneEl.dataset.lane;
+      state.expandedLanes[key] = !state.expandedLanes[key];
+      btn.textContent = state.expandedLanes[key] ? "Show less" : "Show more";
+      renderLane(key);
+    });
+    board.addEventListener("click", (e) => {
+      const link = e.target.closest("a.title, a.top-story-link");
+      if (!link || !link.href) return;
+      markVisited(link.href);
+    });
+  }
+
+  function buildLaneNav() {
+    const nav = document.getElementById("laneNav");
+    if (!nav) return;
+    nav.innerHTML = LANES.map(l =>
+      `<a href="#lane-${l.key}" class="lane-tab" data-lane="${l.key}">${l.title}</a>`
+    ).join("");
+    nav.addEventListener("click", (e) => {
+      const tab = e.target.closest(".lane-tab");
+      if (!tab) return;
+      e.preventDefault();
+      const target = document.getElementById("lane-" + tab.dataset.lane);
+      if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+      nav.querySelectorAll(".lane-tab").forEach(t => t.classList.remove("active"));
+      tab.classList.add("active");
+    });
   }
 
   // --- Data fetch ---------------------------------------------------------
@@ -127,13 +178,14 @@
       const json = await res.json();
       state.snapshot = normalizeSnapshot(json);
       rebuildFuse();
+      renderTopStories();
       renderAllLanes();
       const genMs = state.snapshot.generated_at ? Date.parse(state.snapshot.generated_at) : NaN;
       const ageMin = Number.isFinite(genMs) ? Math.round((Date.now() - genMs) / 60000) : null;
       const tsStr = Number.isFinite(genMs) ? new Date(genMs).toLocaleString() : "unknown";
       document.getElementById("lastUpdated").textContent =
         ageMin == null ? "Last updated: unknown"
-        : `Snapshot ${ageMin === 0 ? "just now" : ageMin + " min ago"} · ${tsStr}`;
+        : `Updated ${ageMin === 0 ? "just now" : ageMin + " min ago"} · ${tsStr}`;
       // newest headline age across all lanes
       let newestMs = 0;
       for (const l of LANES) {
@@ -143,10 +195,16 @@
         }
       }
       const newestAge = newestMs ? Math.round((Date.now() - newestMs) / 60000) : null;
-      const newestStr = newestAge == null ? ""
-        : ` · newest headline ${newestAge < 1 ? "just now" : newestAge + " min ago"}`;
-      const totals = LANES.map(l => `${l.title}:${(state.snapshot.lanes[l.key] || []).length}`).join("  ");
-      setStatus(`${totalItems()} items · ${totals}${newestStr}`);
+      const breakingCount = countBreaking();
+      const todayCount = countToday();
+      const parts = [];
+      if (newestAge != null) {
+        parts.push(newestAge < 1 ? "Fresh headlines just in" : `Newest headline ${newestAge} min ago`);
+      }
+      if (breakingCount) parts.push(`${breakingCount} breaking`);
+      if (todayCount) parts.push(`${todayCount} today`);
+      parts.push(`${totalItems()} in archive`);
+      setStatus(parts.join(" · "));
     } catch (err) {
       console.error(err);
       if (initial) {
@@ -176,6 +234,103 @@
 
   function totalItems() {
     return LANES.reduce((n, l) => n + (state.snapshot.lanes[l.key] || []).length, 0);
+  }
+
+  function isBreaking(it) {
+    return (it.impact || "").toLowerCase() === "high";
+  }
+
+  function isToday(it) {
+    const t = it.published_ts || 0;
+    return t && (Date.now() - t) <= TOP_STORIES_WINDOW_MS;
+  }
+
+  function isNew(it) {
+    const t = it.published_ts || 0;
+    return t && (Date.now() - t) <= NEW_THRESHOLD_MS;
+  }
+
+  function countBreaking() {
+    if (!state.snapshot) return 0;
+    let n = 0;
+    for (const l of LANES) {
+      for (const it of (state.snapshot.lanes[l.key] || [])) {
+        if (isBreaking(it) && isToday(it)) n += 1;
+      }
+    }
+    return n;
+  }
+
+  function countToday() {
+    if (!state.snapshot) return 0;
+    let n = 0;
+    for (const l of LANES) {
+      for (const it of (state.snapshot.lanes[l.key] || [])) {
+        if (isToday(it)) n += 1;
+      }
+    }
+    return n;
+  }
+
+  function applyClientFilter(items) {
+    if (state.activeFilter === "breaking") return items.filter(isBreaking);
+    if (state.activeFilter === "today") return items.filter(isToday);
+    return items;
+  }
+
+  function pickTopStories() {
+    if (!state.snapshot) return [];
+    const seen = new Set();
+    const pool = [];
+    for (const l of LANES) {
+      for (const it of (state.snapshot.lanes[l.key] || [])) {
+        if (!isToday(it) || !isBreaking(it)) continue;
+        const id = it.id || it.url;
+        if (!id || seen.has(id)) continue;
+        seen.add(id);
+        pool.push({ ...it, lane: l.key, lane_title: l.title });
+      }
+    }
+    pool.sort((a, b) => (b.published_ts || 0) - (a.published_ts || 0) || (b.score || 0) - (a.score || 0));
+    return pool.slice(0, TOP_STORIES_MAX);
+  }
+
+  function renderTopStories() {
+    const section = document.getElementById("topStories");
+    const list = document.getElementById("topStoriesList");
+    if (!section || !list) return;
+    const searchActive = Boolean(document.getElementById("search")?.value.trim());
+    const stories = pickTopStories();
+    if (!stories.length || searchActive || state.activeFilter !== "all") {
+      section.hidden = true;
+      return;
+    }
+    section.hidden = false;
+    list.innerHTML = stories.map((it, idx) => {
+      const when = it.published_ts ? timeAgo(it.published_ts) : "";
+      const visited = isVisited(it.url) ? " visited" : "";
+      const newBadge = isNew(it) ? '<span class="pill new">New</span>' : "";
+      const summary = it.summary ? `<p class="top-story-summary">${escapeHTML(truncate(it.summary, 140))}</p>` : "";
+      return `<li class="top-story${visited}">
+        <span class="top-rank">${idx + 1}</span>
+        <div class="top-story-body">
+          <a class="top-story-link" href="${escapeAttr(it.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(it.title || "(untitled)")}</a>
+          <div class="sub">
+            <span class="source">${escapeHTML(it.source || "")}</span>
+            <span class="lane-tag">${escapeHTML(it.lane_title)}</span>
+            <span class="time">${when}</span>
+            ${newBadge}
+          </div>
+          ${summary}
+        </div>
+      </li>`;
+    }).join("");
+  }
+
+  function truncate(s, max) {
+    const t = String(s || "").replace(/\s+/g, " ").trim();
+    if (t.length <= max) return t;
+    return t.slice(0, max - 1).trimEnd() + "…";
   }
 
   // --- Fuse index ---------------------------------------------------------
@@ -227,31 +382,45 @@
     if (!laneEl) return;
     const listEl = laneEl.querySelector('[data-role="list"]');
     const metaEl = laneEl.querySelector('[data-role="meta"]');
-    const allItems = state.snapshot.lanes[key] || [];
+    const footEl = laneEl.querySelector('[data-role="foot"]');
+    const allItems = applyClientFilter(state.snapshot.lanes[key] || []);
+    const expanded = !!state.expandedLanes[key];
+    const limit = expanded ? EXPANDED_PER_LANE : VISIBLE_PER_LANE;
     const rotatable = freshItems(allItems);
     const freshCount = allItems.filter(it => it.published_ts && (Date.now() - it.published_ts) <= DISPLAY_MAX_AGE_MS).length;
+    const filterLabel = state.activeFilter === "breaking" ? "breaking"
+      : state.activeFilter === "today" ? "today" : null;
     metaEl.textContent = allItems.length
-      ? `${freshCount} fresh · ${allItems.length} in 90d archive`
-      : "no items";
+      ? (filterLabel ? `${allItems.length} ${filterLabel}` : `${freshCount} fresh`) + ` · ${(state.snapshot.lanes[key] || []).length} in archive`
+      : filterLabel ? `No ${filterLabel} items` : "no items";
 
     if (!rotatable.length) {
-      listEl.innerHTML = `<li class="muted" style="padding:12px 10px;">No items yet. The GitHub Action will populate this lane on its next run.</li>`;
+      listEl.innerHTML = `<li class="muted empty-lane">No headlines match this filter. Try <button type="button" class="inline-link" data-reset-filter>All</button>.</li>`;
+      listEl.querySelector("[data-reset-filter]")?.addEventListener("click", () => setFilter("all"));
+      if (footEl) footEl.hidden = true;
       return;
     }
 
-    const offset = state.visibleOffset[key] % rotatable.length;
+    const offset = expanded ? 0 : state.visibleOffset[key] % rotatable.length;
     const visible = [];
-    for (let i = 0; i < Math.min(VISIBLE_PER_LANE, rotatable.length); i++) {
+    for (let i = 0; i < Math.min(limit, rotatable.length); i++) {
       visible.push(rotatable[(offset + i) % rotatable.length]);
     }
 
     listEl.innerHTML = visible.map((it, idx) => itemHTML(it, idx + 1)).join("");
+    if (footEl) {
+      const canExpand = rotatable.length > VISIBLE_PER_LANE;
+      footEl.hidden = !canExpand;
+      const moreBtn = footEl.querySelector("[data-role='more']");
+      if (moreBtn) moreBtn.textContent = expanded ? "Show less" : `Show more (${Math.min(rotatable.length, EXPANDED_PER_LANE) - VISIBLE_PER_LANE} more)`;
+    }
   }
 
   function rotateLane(key) {
-    const allItems = state.snapshot?.lanes?.[key] || [];
+    if (state.expandedLanes[key]) return;
+    const allItems = applyClientFilter(state.snapshot?.lanes?.[key] || []);
     const items = freshItems(allItems);
-    if (items.length <= VISIBLE_PER_LANE) return; // nothing to rotate
+    if (items.length <= VISIBLE_PER_LANE) return;
     state.visibleOffset[key] = (state.visibleOffset[key] + 1) % items.length;
     const listEl = document.querySelector(`.lane[data-lane="${key}"] [data-role="list"]`);
     if (listEl) {
@@ -263,42 +432,84 @@
 
   function itemHTML(it, rank) {
     const when = it.published_ts ? timeAgo(it.published_ts) : "";
-    const paywall = it.paywall ? '<span class="pill paywall" title="May be paywalled">$</span>' : "";
-    const impact = (it.impact || "").toLowerCase() === "high"
-      ? '<span class="pill impact-high" title="Higher impact / less circulated">★</span>'
-      : "";
+    const paywall = it.paywall
+      ? '<span class="pill paywall" title="May require subscription">Paywall</span>' : "";
+    const impact = isBreaking(it)
+      ? '<span class="pill impact-high" title="High impact or widely covered">Hot</span>' : "";
+    const fresh = isNew(it)
+      ? '<span class="pill new">New</span>' : "";
     const src = escapeHTML(it.source || "");
     const title = escapeHTML(it.title || "(untitled)");
     const url = it.url || "#";
+    const visited = isVisited(url) ? " visited" : "";
+    const lead = rank === 1 ? " item-lead" : "";
     return `
-      <li class="item">
+      <li class="item${visited}${lead}">
         <div class="rank">${rank}</div>
         <div class="body">
           <a class="title" href="${escapeAttr(url)}" target="_blank" rel="noopener noreferrer">${title}</a>
           <div class="sub">
             <span class="source">${src}</span>
             <span class="time">${when}</span>
-            ${impact}${paywall}
+            ${fresh}${impact}${paywall}
           </div>
         </div>
-        <div class="go">↗</div>
+        <div class="go" aria-hidden="true">↗</div>
       </li>
     `;
   }
 
   // --- Search -------------------------------------------------------------
+  function setFilter(next) {
+    state.activeFilter = next;
+    const filters = document.getElementById("filters");
+    if (filters) {
+      filters.querySelectorAll(".chip").forEach(chip => {
+        const on = chip.dataset.filter === next;
+        chip.classList.toggle("active", on);
+        chip.setAttribute("aria-pressed", on ? "true" : "false");
+      });
+    }
+    renderTopStories();
+    renderAllLanes();
+  }
+
   function wireControls() {
     const search = document.getElementById("search");
     const resultsEl = document.getElementById("searchResults");
     const listEl = document.getElementById("searchList");
     const countEl = document.getElementById("searchCount");
     const boardEl = document.getElementById("board");
+    const topStoriesEl = document.getElementById("topStories");
+    const filtersEl = document.getElementById("filters");
+    const laneNavEl = document.getElementById("laneNav");
+
+    document.getElementById("filters")?.addEventListener("click", (e) => {
+      const chip = e.target.closest(".chip");
+      if (!chip) return;
+      setFilter(chip.dataset.filter || "all");
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "/" && !isTypingTarget(e.target)) {
+        e.preventDefault();
+        search?.focus();
+      }
+      if (e.key === "Escape" && document.activeElement === search) {
+        search.value = "";
+        search.dispatchEvent(new Event("input"));
+        search.blur();
+      }
+    });
 
     search.addEventListener("input", () => {
       const q = search.value.trim();
       if (!q) {
         resultsEl.hidden = true;
         boardEl.hidden = false;
+        if (filtersEl) filtersEl.hidden = false;
+        if (laneNavEl) laneNavEl.hidden = false;
+        renderTopStories();
         return;
       }
       if (!state.fuse) { resultsEl.hidden = true; return; }
@@ -306,17 +517,25 @@
       countEl.textContent = `(${hits.length})`;
       listEl.innerHTML = hits.map(h => {
         const it = h.item;
-        return `<li>
+        const visited = isVisited(it.url) ? " visited" : "";
+        return `<li class="${visited.trim()}">
           <a href="${escapeAttr(it.url)}" target="_blank" rel="noopener noreferrer"><strong>${escapeHTML(it.title)}</strong></a>
           <div class="sub" style="font-size:12px;color:var(--fg-dim);">
             <span class="source">${escapeHTML(it.source || "")}</span>
             · <span class="muted">${escapeHTML(it.lane_title)}</span>
             · <span class="time">${it.published_ts ? timeAgo(it.published_ts) : ""}</span>
+            ${isBreaking(it) ? ' · <span class="pill impact-high">Hot</span>' : ""}
           </div>
         </li>`;
       }).join("");
+      listEl.querySelectorAll("a").forEach(a => {
+        a.addEventListener("click", () => markVisited(a.href));
+      });
       resultsEl.hidden = false;
       boardEl.hidden = true;
+      if (topStoriesEl) topStoriesEl.hidden = true;
+      if (filtersEl) filtersEl.hidden = true;
+      if (laneNavEl) laneNavEl.hidden = true;
     });
 
     document.getElementById("refresh").addEventListener("click", () => loadData(false));
@@ -356,6 +575,38 @@
       .then(j => {
         if (j?.meta?.repo_url) document.getElementById("repoLink").href = j.meta.repo_url;
       }).catch(() => {});
+  }
+
+  function isTypingTarget(el) {
+    if (!el) return false;
+    const tag = el.tagName;
+    return tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT" || el.isContentEditable;
+  }
+
+  function loadVisited() {
+    try {
+      const raw = loadPref(VISITED_KEY);
+      if (!raw) return;
+      const arr = JSON.parse(raw);
+      if (Array.isArray(arr)) state.visited = new Set(arr.slice(0, VISITED_MAX));
+    } catch (_) { /* ignore */ }
+  }
+
+  function persistVisited() {
+    savePref(VISITED_KEY, JSON.stringify([...state.visited].slice(-VISITED_MAX)));
+  }
+
+  function markVisited(url) {
+    if (!url || url === "#") return;
+    state.visited.add(url);
+    persistVisited();
+    document.querySelectorAll(`a[href="${CSS.escape(url)}"]`).forEach(a => {
+      a.closest(".item, .top-story, li")?.classList.add("visited");
+    });
+  }
+
+  function isVisited(url) {
+    return url && state.visited.has(url);
   }
 
   // --- utils --------------------------------------------------------------

@@ -19,16 +19,34 @@
     <div class="brand" id="brand" role="button" tabindex="0" aria-label="Live Tech News Board (triple-tap for diagnostics)">
       <span class="pulse" aria-hidden="true"></span>
       <h1>Live Tech News Board</h1>
-      <span class="tag">3–5 per lane · rotating · 90-day archive</span>
+      <span class="tag">Curated tech headlines · 90-day archive</span>
     </div>
     <div class="controls">
-      <input id="search" type="search" placeholder="Fuzzy search headlines, sources, tags…" aria-label="Search headlines" autocomplete="off" />
+      <input id="search" type="search" placeholder="Search headlines, sources… (press /)" aria-label="Search headlines" autocomplete="off" />
       <button id="refresh" title="Refresh now" aria-label="Refresh now">↻ Refresh</button>
       <button id="theme" title="Toggle theme" aria-label="Toggle theme">☾</button>
     </div>
   </header>
 
   <section id="status" class="status" aria-live="polite"></section>
+
+  <nav id="laneNav" class="lane-nav" aria-label="Jump to category">
+    <!-- Lane tabs injected by JS -->
+  </nav>
+
+  <nav id="filters" class="filters" aria-label="Filter headlines">
+    <button type="button" class="chip active" data-filter="all" aria-pressed="true">All</button>
+    <button type="button" class="chip" data-filter="breaking" aria-pressed="false">Breaking</button>
+    <button type="button" class="chip" data-filter="today" aria-pressed="false">Today</button>
+  </nav>
+
+  <section id="topStories" class="top-stories" hidden aria-label="Top stories">
+    <header class="top-stories-head">
+      <h2>Top stories</h2>
+      <span class="top-stories-hint">High-impact · last 24h</span>
+    </header>
+    <ol id="topStoriesList" class="top-stories-list"></ol>
+  </section>
 
   <!-- Hidden diagnostics (triple-tap the title to reveal) -->
   <section id="diagPanel" class="diag" hidden aria-label="Diagnostics">
