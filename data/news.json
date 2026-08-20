@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-08-20T03:58:16.388305+00:00",
+  "generated_at": "2026-08-20T04:05:59.856809+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "6a7d5596a8f66cf4",
+        "title": "Cacheable by Design? Training Mixture-of-Experts Routers for Locality Against the Edge Memory-Bandwidth Wall: A Pre-Registered Negative Result with a Systems Measurement Study",
+        "url": "https://arxiv.org/abs/2608.18261",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18261v1 Announce Type: new Abstract: Serving a 235B-parameter Mixture-of-Experts (MoE) model on a single 8 GB GPU is bottlenecked not by compute but by memory bandwidth: decode must stream each token's active experts from whichever tier holds them, and on consumer hardware most experts sit on an SSD far slower than RAM. We quantify this bandwidth wall on Qwen3-235B (Q4_K_M, 134 GB): mea",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
+      {
+        "id": "771e1f1a560bdd9b",
+        "title": "When Clean Signals Are Not Enough: Detecting Structural Ambiguity for Safe Wearable Stress Classification",
+        "url": "https://arxiv.org/abs/2608.18397",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18397v1 Announce Type: new Abstract: Wearable stress classifiers can achieve strong average performance while failing completely for a particular individual. On WESAD, a Random Forest reaches 93.0% mean accuracy yet yields F1 = 0 for Subject 14, whose cross-signal coupling weakens near stress onset. We call this structural ambiguity: individually plausible physiological channels form an",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
       {
         "id": "884b5cd03c5fe0b1",
         "title": "Tesla’s Robotaxi gets caught crashing through bollards, just as it readies the purpose-built Cybercab for public roads",
@@ -16,7 +47,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0529
+        "score": 1.0503
       },
       {
         "id": "c4b1a625e751dac2",
@@ -29,7 +60,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6966
+        "score": 0.6948
       },
       {
         "id": "21f0f8c457a41784",
@@ -47,7 +78,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2078
+        "score": 1.2048
       },
       {
         "id": "097aeaf9841a9f30",
@@ -62,7 +93,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2275
+        "score": 1.2245
       },
       {
         "id": "0d677eebef4c3313",
@@ -77,7 +108,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0432
+        "score": 1.0406
       },
       {
         "id": "0aee582ee4b5eea9",
@@ -96,7 +127,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1642
+        "score": 1.1613
       },
       {
         "id": "13b14fcbce625b19",
@@ -113,7 +144,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2437
+        "score": 1.2406
       },
       {
         "id": "2603fa657d069aa2",
@@ -128,7 +159,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6419
+        "score": 0.6403
       },
       {
         "id": "bad0e3a1da8550f6",
@@ -143,7 +174,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9686
+        "score": 0.9662
       },
       {
         "id": "b47638d3cf499498",
@@ -163,7 +194,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8925
+        "score": 0.8903
       },
       {
         "id": "4e8b269a41cfb7a8",
@@ -179,7 +210,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9547
+        "score": 0.9524
       },
       {
         "id": "62245cb83f70567e",
@@ -199,7 +230,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1152
+        "score": 1.1124
       },
       {
         "id": "35467763b85df016",
@@ -215,7 +246,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9471
+        "score": 0.9448
       },
       {
         "id": "9ac7f7e4359cabb5",
@@ -230,7 +261,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6184
+        "score": 0.6169
       },
       {
         "id": "6e0662419124f9d7",
@@ -247,7 +278,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0979
+        "score": 1.0952
       },
       {
         "id": "c14add4255ec2e2f",
@@ -262,7 +293,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6171
+        "score": 0.6156
       },
       {
         "id": "013e33a2f2c0fb8b",
@@ -277,7 +308,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1476
+        "score": 1.1448
       },
       {
         "id": "0fa768e4e12681c8",
@@ -294,7 +325,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.929
+        "score": 0.9267
       },
       {
         "id": "fc12186a203a3eb8",
@@ -309,7 +340,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.929
+        "score": 0.9267
       },
       {
         "id": "149ba9ee2048f0ab",
@@ -324,7 +355,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6092
+        "score": 0.6077
       },
       {
         "id": "0c063fe02dd80477",
@@ -341,7 +372,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0258
+        "score": 1.0232
       },
       {
         "id": "188a2cbe98f26421",
@@ -357,7 +388,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0722
+        "score": 1.0696
       },
       {
         "id": "6b6f2f0019e37401",
@@ -372,7 +403,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9113
+        "score": 0.9091
       },
       {
         "id": "529376ac190aef24",
@@ -388,7 +419,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9113
+        "score": 0.9091
       },
       {
         "id": "d564b05caea0fe1a",
@@ -408,7 +439,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6778
+        "score": 0.6761
       },
       {
         "id": "c96dc370d962b4e8",
@@ -423,7 +454,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.153
+        "score": 1.1501
       },
       {
         "id": "09f3688686f35b5e",
@@ -439,7 +470,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1136
+        "score": 1.1109
       },
       {
         "id": "35fd69cc4fc27ede",
@@ -455,7 +486,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1136
+        "score": 1.1109
       },
       {
         "id": "482c4c220728d269",
@@ -472,7 +503,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0518
+        "score": 1.0492
       },
       {
         "id": "b90311729fb0d86b",
@@ -489,7 +520,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0488
+        "score": 1.0462
       },
       {
         "id": "5f82d175d437644d",
@@ -506,7 +537,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8911
+        "score": 0.8889
       },
       {
         "id": "67fa8fd85b3954d7",
@@ -521,7 +552,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8558
+        "score": 0.8537
       },
       {
         "id": "a189a6e38d88e487",
@@ -536,7 +567,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5851
+        "score": 0.5836
       },
       {
         "id": "6f8606985a6d07ea",
@@ -551,7 +582,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5847
+        "score": 0.5832
       },
       {
         "id": "84753534a53405fa",
@@ -571,7 +602,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6571
+        "score": 0.6555
       },
       {
         "id": "ecb9de3dba6742af",
@@ -586,7 +617,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5831
+        "score": 0.5817
       },
       {
         "id": "f2db1e42ec844a16",
@@ -604,7 +635,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6537
+        "score": 0.652
       },
       {
         "id": "95e38f751d2d13d3",
@@ -621,7 +652,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8814
+        "score": 0.8792
       },
       {
         "id": "3f4302be9359ea2a",
@@ -636,7 +667,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.578
+        "score": 0.5766
       },
       {
         "id": "f73ca8d1a53b6ee1",
@@ -653,7 +684,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0218
+        "score": 1.0193
       },
       {
         "id": "4d7cb4f98ed827f9",
@@ -673,7 +704,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6107
+        "score": 0.6092
       },
       {
         "id": "1459139fb532ac91",
@@ -693,7 +724,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1213
+        "score": 1.1185
       },
       {
         "id": "4c2d10ca029dd5ed",
@@ -710,7 +741,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8665
+        "score": 0.8643
       },
       {
         "id": "bbcd958f0c47983b",
@@ -727,7 +758,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.012
+        "score": 1.0095
       },
       {
         "id": "be73be339b9f1297",
@@ -743,7 +774,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.009
+        "score": 1.0065
       },
       {
         "id": "0e65256373264991",
@@ -758,7 +789,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8265
+        "score": 0.8245
       },
       {
         "id": "72dfd558e97d5e37",
@@ -775,7 +806,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8563
+        "score": 0.8542
       },
       {
         "id": "82c0138a2920bd14",
@@ -791,7 +822,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8547
+        "score": 0.8526
       },
       {
         "id": "800676d9da5d086a",
@@ -806,7 +837,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8542
+        "score": 0.8521
       },
       {
         "id": "f518cd9c8c0d50cf",
@@ -819,7 +850,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5782
+        "score": 0.5768
       },
       {
         "id": "a3410d72aecc495d",
@@ -835,7 +866,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8528
+        "score": 0.8507
       },
       {
         "id": "c7de4e938e866c20",
@@ -850,7 +881,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.565
+        "score": 0.5636
       },
       {
         "id": "f63d540bd0497512",
@@ -866,7 +897,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8526
+        "score": 0.8505
       },
       {
         "id": "19665b0dd8fe8b80",
@@ -884,7 +915,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0025
+        "score": 1.0
       },
       {
         "id": "42dacc545a005ad5",
@@ -897,7 +928,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5764
+        "score": 0.575
       },
       {
         "id": "5c1a789e1603f9c1",
@@ -915,7 +946,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9975
+        "score": 0.995
       },
       {
         "id": "a21a110b49d1044a",
@@ -928,7 +959,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5746
+        "score": 0.5731
       },
       {
         "id": "24c02c1a6b65be11",
@@ -947,48 +978,58 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.632
-      },
-      {
-        "id": "aca5b7ec510612a8",
-        "title": "Google Pixel 11 series review: Is the magic fading?",
-        "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1787155890000,
-        "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
-        "tags": [
-          "features",
-          "google",
-          "reviews",
-          "tech",
-          "android",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9465
-      },
-      {
-        "id": "e10809dfc9a3cab9",
-        "title": "A week with the Pixel 11: 5 upgrades I already fell in love with",
-        "url": "https://www.androidpolice.com/5-pixel-11-upgrades-ive-already-fallen-in-love-with/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1787155810000,
-        "summary": "There's more to the cheaper Pixel 11 than you thought",
-        "tags": [
-          "google pixel 11",
-          "google",
-          "made by google august 2026",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9959
+        "score": 0.6304
       }
     ],
     "innovation": [
+      {
+        "id": "9bfeb3beef2fd37e",
+        "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+        "url": "https://arxiv.org/abs/2608.18088",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial Age Score (AAS) decision-support prototype for flight-log-based drone propeller health monitoring. Using selected histor",
+        "tags": [
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
+      {
+        "id": "9defbc5687028b05",
+        "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+        "url": "https://arxiv.org/abs/2608.18131",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18131v1 Announce Type: new Abstract: Current safety alignment training for Large Language Models (LLMs) are heavily English-centric. When such safety filters fail for non-English languages, the consequences are immediate and user-facing: voice assistants and spoken dialogue systems may produce stereotype-reinforcing outputs, bypassing the standard English-focused safety alignments and p",
+        "tags": [
+          "cs.ai",
+          "cs.cl",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
+      {
+        "id": "ed0ebebf36d85273",
+        "title": "Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair",
+        "url": "https://arxiv.org/abs/2608.18324",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18324v1 Announce Type: new Abstract: Machine-verifiable workflows produce governance records linking a task contract, model attempt, verifier decision, accepted output, and target origin. We test whether these records can supervise bounded models, consolidating occasional or expensive capability into reliable one-shot execution. On fresh, structure-disjoint PlanBench replanning cases, Q",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
       {
         "id": "8120c7b1b6851cd7",
         "title": "The EU appears to be shifting from outsized regulatory fines against Big Tech to technical DMA orders that force compliance, such as sharing search data (Jacob Parry/Politico)",
@@ -1000,7 +1041,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7146
+        "score": 0.7129
       },
       {
         "id": "d8fc411844f387c0",
@@ -1015,7 +1056,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3006
+        "score": 1.2974
       },
       {
         "id": "991d2fa073f95f62",
@@ -1028,7 +1069,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7089
+        "score": 0.7072
       },
       {
         "id": "c82f10da73f4ec79",
@@ -1043,7 +1084,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0865
+        "score": 1.0838
       },
       {
         "id": "c0230071a3d61fe4",
@@ -1058,7 +1099,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6845
+        "score": 0.6828
       },
       {
         "id": "cda2bfc0fff8b3bc",
@@ -1073,7 +1114,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2354
+        "score": 1.2324
       },
       {
         "id": "ed312dc458946bde",
@@ -1088,7 +1129,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7231
+        "score": 0.7213
       },
       {
         "id": "73fe94e03b22dafb",
@@ -1101,7 +1142,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6756
+        "score": 0.6739
       },
       {
         "id": "becf41f07f1054f6",
@@ -1117,7 +1158,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3153
+        "score": 1.3121
       },
       {
         "id": "0ea61018bda97250",
@@ -1132,7 +1173,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9843
+        "score": 0.9819
       },
       {
         "id": "e830582ee4d0123e",
@@ -1147,7 +1188,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6388
+        "score": 0.6373
       },
       {
         "id": "4033549487ce57ae",
@@ -1160,7 +1201,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6553
+        "score": 0.6537
       },
       {
         "id": "8d01af3cdb519b85",
@@ -1180,7 +1221,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.227
+        "score": 1.2239
       },
       {
         "id": "c80bb58d2f11855d",
@@ -1196,7 +1237,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8861
+        "score": 0.8839
       },
       {
         "id": "f4dd53bbf195e736",
@@ -1211,7 +1252,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1927
+        "score": 1.1897
       },
       {
         "id": "a60cc7f2ac8febd0",
@@ -1226,7 +1267,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1512
+        "score": 1.1484
       },
       {
         "id": "b07f4c604a51f3a3",
@@ -1241,7 +1282,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6316
+        "score": 0.63
       },
       {
         "id": "0544212a13b0d056",
@@ -1257,7 +1298,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8402
+        "score": 0.8381
       },
       {
         "id": "5894cd98fa6c0897",
@@ -1270,7 +1311,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6419
+        "score": 0.6404
       },
       {
         "id": "981c537d448701ce",
@@ -1287,7 +1328,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8692
+        "score": 0.867
       },
       {
         "id": "f1392c02e265fae4",
@@ -1302,7 +1343,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6643
+        "score": 0.6626
       },
       {
         "id": "0e7cdf5a9b99d4f3",
@@ -1317,7 +1358,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.935
+        "score": 0.9327
       },
       {
         "id": "ba57b3697785725e",
@@ -1332,7 +1373,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6148
+        "score": 0.6133
       },
       {
         "id": "b104c9f7084a2c4c",
@@ -1350,7 +1391,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6424
+        "score": 0.6408
       },
       {
         "id": "f813f87f16ecd0fe",
@@ -1365,7 +1406,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6527
+        "score": 0.6511
       },
       {
         "id": "9f5c07f3bb823849",
@@ -1383,7 +1424,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6418
+        "score": 0.6402
       },
       {
         "id": "f5db77f46aa37eba",
@@ -1403,7 +1444,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1582
+        "score": 1.1554
       },
       {
         "id": "1ab4ede3c2d9c687",
@@ -1418,7 +1459,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1258
+        "score": 1.123
       },
       {
         "id": "2edf8c70a6a89194",
@@ -1433,7 +1474,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5986
+        "score": 0.5971
       },
       {
         "id": "44c3222a35fe178d",
@@ -1446,7 +1487,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6156
+        "score": 0.6141
       },
       {
         "id": "69255db22b4c912c",
@@ -1464,7 +1505,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8283
+        "score": 0.8263
       },
       {
         "id": "3e60e98acf0e83fa",
@@ -1480,7 +1521,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8264
+        "score": 0.8244
       },
       {
         "id": "b70c6f4a79e4afc8",
@@ -1496,7 +1537,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1065
+        "score": 1.1038
       },
       {
         "id": "2985ebf9c23d51dc",
@@ -1511,7 +1552,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6368
+        "score": 0.6352
       },
       {
         "id": "ff74d97915c17de6",
@@ -1528,7 +1569,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8206
+        "score": 0.8186
       },
       {
         "id": "693be3df3b1fae96",
@@ -1543,7 +1584,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1043
+        "score": 1.1016
       },
       {
         "id": "e3ebe2f0c296d25c",
@@ -1556,7 +1597,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8139
+        "score": 0.8119
       },
       {
         "id": "5139ead6e3172ceb",
@@ -1571,7 +1612,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5857
+        "score": 0.5842
       },
       {
         "id": "6776ba47daf8d655",
@@ -1587,7 +1628,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0961
+        "score": 1.0934
       },
       {
         "id": "0af2cffbadd10b49",
@@ -1603,7 +1644,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8125
+        "score": 0.8105
       },
       {
         "id": "3b93d59c2e9ed4d8",
@@ -1621,7 +1662,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8047
+        "score": 0.8027
       },
       {
         "id": "343fe46343d47716",
@@ -1640,7 +1681,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1348
+        "score": 1.132
       },
       {
         "id": "bdbdf0dd18d4566b",
@@ -1656,7 +1697,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0789
+        "score": 1.0762
       },
       {
         "id": "c4ec0bebc72f2c1a",
@@ -1669,7 +1710,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5914
+        "score": 0.5899
       },
       {
         "id": "535a67d252490ce4",
@@ -1685,7 +1726,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.106
+        "score": 1.1032
       },
       {
         "id": "c026b15a83e0ab76",
@@ -1701,7 +1742,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0738
+        "score": 1.0711
       },
       {
         "id": "41423724e8a2cb35",
@@ -1716,7 +1757,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5723
+        "score": 0.5709
       },
       {
         "id": "b9bd931774a54193",
@@ -1733,7 +1774,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7897
+        "score": 0.7877
       },
       {
         "id": "9aa7b98612daba04",
@@ -1753,7 +1794,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.093
+        "score": 1.0903
       },
       {
         "id": "80c557313cf0c170",
@@ -1768,7 +1809,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1476
+        "score": 1.1447
       },
       {
         "id": "e560d905254c6191",
@@ -1781,7 +1822,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5792
+        "score": 0.5777
       },
       {
         "id": "a169689c939b43dc",
@@ -1796,7 +1837,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.56
+        "score": 0.5586
       },
       {
         "id": "1dfd7c33ba02a3a5",
@@ -1811,7 +1852,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0496
+        "score": 1.047
       },
       {
         "id": "67654ee7ba9a3efc",
@@ -1824,7 +1865,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5755
+        "score": 0.574
       },
       {
         "id": "18e7219e1c630e41",
@@ -1839,7 +1880,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0463
+        "score": 1.0437
       },
       {
         "id": "0fc2ef0af18f3885",
@@ -1852,7 +1893,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5736
+        "score": 0.5722
       },
       {
         "id": "3e4dc70895b45e03",
@@ -1867,59 +1908,203 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.045
-      },
-      {
-        "id": "64f5a5fb1ca7cb12",
-        "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
-        "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1787155634000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:161"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0447
-      },
-      {
-        "id": "016e996553ae2da1",
-        "title": "Don't panic over Windows' new 'no antivirus detected' warning just yet",
-        "url": "https://www.makeuseof.com/dont-panic-over-windows-new-no-antivirus-detected-warning-just-yet/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1787155213000,
-        "summary": "Your antivirus is probably just fine; here's how to check.",
-        "tags": [
-          "windows",
-          "security tips",
-          "windows tips"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7743
-      },
-      {
-        "id": "6796778e3c97c7ad",
-        "title": "Go easy on the gas —new study suggests a smooth EV driving style is simplest way to prolong its battery life",
-        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/go-easy-on-the-gas-new-study-suggests-a-smooth-ev-driving-style-is-simplest-way-to-prolong-its-battery-life",
-        "source": "TechRadar",
-        "lane": "innovation",
-        "published_ts": 1787155200000,
-        "summary": "Research suggests 'aggressive' drivers could be wearing out their EV batteries faster",
-        "tags": [
-          "hybrid &amp; electric vehicles",
-          "vehicle tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9113
+        "score": 1.0424
       }
     ],
     "ai": [
+      {
+        "id": "a89ca4275d639a20",
+        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+        "url": "https://arxiv.org/abs/2608.18078",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction betw",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "2875e3c30629ded7",
+        "title": "Position: Behavioral Systems Require Behavioral Tests",
+        "url": "https://arxiv.org/abs/2608.18081",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behavioral processes that produce them. This paper argues that AI agents must be evaluated like other behavior",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "1bf6c9bc112cf4ff",
+        "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+        "url": "https://arxiv.org/abs/2608.18086",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing frameworks often fail to adequately inform downstream developers and users about the distinct safety ch",
+        "tags": [
+          "cs.ai",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "14772a00e647cb58",
+        "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+        "url": "https://arxiv.org/abs/2608.18099",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produce auditable structured outputs. We introduce FinSkillBench, an evaluation suite designed to measure whether language mo",
+        "tags": [
+          "cs.ai",
+          "q-fin.pm"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "d87d53d127b20cb2",
+        "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+        "url": "https://arxiv.org/abs/2608.18110",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutionize various domains advocate the need for a deeper understanding and firm grasp of the technology. Moreover, an investi",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "e86ac75a7c107a03",
+        "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+        "url": "https://arxiv.org/abs/2608.18117",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18117v1 Announce Type: new Abstract: This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack independent governance, conflict-of-interest policies, and mechanisms for metric evolution. The barrier is not missing data; high-quality regional benchmarks already exist: IndicSUPERB, MILU, and LAHAJA for India; IrokoBench for A",
+        "tags": [
+          "cs.ai",
+          "econ.gn",
+          "q-fin.ec"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "1d427cac4d22aeab",
+        "title": "Entropy-Constrained Adaptive Stochastic Quantization",
+        "url": "https://arxiv.org/abs/2608.18147",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18147v1 Announce Type: new Abstract: Adaptive stochastic quantization (ASQ) is a recently introduced quantization approach that optimizes the Mean Squared Error (MSE) for a given input while preserving unbiasedness. It is designed to alleviate the communication and memory bottlenecks of modern data and machine learning workloads, including model, gradient, and KV-cache compression and n",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ds",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "8aefac5b8bd47469",
+        "title": "Towards Reversible Forgetting: Managing Obsolete Knowledge in Continual Enterprise AI Agents",
+        "url": "https://arxiv.org/abs/2608.18177",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18177v1 Announce Type: new Abstract: Continual learning has traditionally treated forgetting as a failure, emphasizing preservation of previously acquired knowledge as environments evolve. We argue that this objective is incomplete for enterprise AI agents operating in non-stationary environments, where customers, policies, tools, workflows, regulations, and market conditions change ove",
+        "tags": [
+          "cs.lg",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "4c63c44d921b013e",
+        "title": "What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems",
+        "url": "https://arxiv.org/abs/2608.18186",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18186v1 Announce Type: new Abstract: In the past few years, machine learning (ML) has been widely (and to an extent, successfully) implemented in medicine. However, uncertainties surrounding ML have made it difficult to establish the bases of its epistemic and methodological warrants. In the literature, a parallel has been drawn between medicine and ML, suggesting that we should model e",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "81751516604efc8b",
+        "title": "A systematic review of machine learning techniques to address diagnosis and treatment of autism: challenges and opportunities",
+        "url": "https://arxiv.org/abs/2608.18188",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18188v1 Announce Type: new Abstract: Autism spectrum disorder (ASD) is a developmental disability characterized by challenges in social interaction and communication. As the causes of ASD remain unclear, identifying relevant features and hidden correlations is crucial for early diagnosis. This systematic review evaluates 55 studies from 2017 to 2023 on the application of machine learnin",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "acffb4648713cda0",
+        "title": "Bidirectional representational alignment between biological and artificial neural networks",
+        "url": "https://arxiv.org/abs/2608.18244",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18244v1 Announce Type: new Abstract: Recent work has shown that representational alignment between biological and artificial neural networks is asymmetric: model representations predict neural responses much better than neural responses predict model representations. This asymmetry raises the question of whether representational geometry contributes to bidirectional representational ali",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "fc9619a4309710aa",
+        "title": "SingularClip: Preventing Spectral Collapse to Maintain Plasticity in Continual and Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2608.18319",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18319v1 Announce Type: new Abstract: Neural networks trained on nonstationary tasks frequently lose the ability to fit new targets, a phenomenon referred to as loss of plasticity. We identify a novel source of plasticity loss due to the growing anisotropy of weight matrices' singular values during training, and analyze this phenomenon both empirically and theoretically. To mitigate this",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
       {
         "id": "36bc117f27d19e03",
         "title": "International AI experts warn of potentially catastrophic risks from AI - MIT",
@@ -1933,7 +2118,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9268
+        "score": 0.9245
       },
       {
         "id": "365ab5afe03cd98c",
@@ -1946,7 +2131,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6833
+        "score": 0.6816
       },
       {
         "id": "fa82d0e70f0cea73",
@@ -1961,7 +2146,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8956
+        "score": 0.8934
       },
       {
         "id": "a47edc38a57ab41b",
@@ -1976,7 +2161,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0278
+        "score": 1.0252
       },
       {
         "id": "685bc9dfb60b3ab4",
@@ -1994,7 +2179,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9271
+        "score": 0.9248
       },
       {
         "id": "c6802184ccf09ead",
@@ -2010,7 +2195,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2933
+        "score": 1.2901
       },
       {
         "id": "a73db05fedb7a948",
@@ -2025,7 +2210,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2793
+        "score": 1.2762
       },
       {
         "id": "b5690ebe51eb25ef",
@@ -2040,7 +2225,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2171
+        "score": 1.2141
       },
       {
         "id": "0c6a081a2af1bf72",
@@ -2055,7 +2240,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2354
+        "score": 1.2323
       },
       {
         "id": "24f1471478b53cc3",
@@ -2070,7 +2255,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2354
+        "score": 1.2323
       },
       {
         "id": "62ae83c37b3fbe9f",
@@ -2089,7 +2274,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6691
+        "score": 0.6674
       },
       {
         "id": "400334317b2d029a",
@@ -2105,7 +2290,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1734
+        "score": 1.1705
       },
       {
         "id": "26de2d6cfb6bb0ef",
@@ -2120,7 +2305,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2635
+        "score": 1.2604
       },
       {
         "id": "96f862a9d6901d7b",
@@ -2140,7 +2325,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8976
+        "score": 0.8954
       },
       {
         "id": "411df75724a53d22",
@@ -2156,7 +2341,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.155
+        "score": 1.1521
       },
       {
         "id": "91dc3f2fb15a4810",
@@ -2172,7 +2357,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.155
+        "score": 1.1521
       },
       {
         "id": "0d849232f829dd26",
@@ -2187,7 +2372,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6141
+        "score": 0.6126
       },
       {
         "id": "95e573b8f6579f6b",
@@ -2200,7 +2385,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6801
+        "score": 0.6784
       },
       {
         "id": "53cc8a7fd8b27b55",
@@ -2216,7 +2401,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6957
+        "score": 0.694
       },
       {
         "id": "abc7ad7c1e22fbac",
@@ -2236,7 +2421,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0738
+        "score": 1.0711
       },
       {
         "id": "fc7399b7dc1c8935",
@@ -2251,7 +2436,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2158
+        "score": 1.2128
       },
       {
         "id": "37cebe884f8a7d09",
@@ -2268,7 +2453,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0671
+        "score": 1.0645
       },
       {
         "id": "832c7d151294926e",
@@ -2283,7 +2468,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1735
+        "score": 1.1706
       },
       {
         "id": "7b9352c9fad073f3",
@@ -2298,7 +2483,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2054
+        "score": 1.2024
       },
       {
         "id": "b6b00441e9917fea",
@@ -2313,7 +2498,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1155
+        "score": 1.1128
       },
       {
         "id": "1786fa959d887a2d",
@@ -2329,7 +2514,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2029
+        "score": 1.1999
       },
       {
         "id": "669530d310b1e0f8",
@@ -2344,7 +2529,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.166
+        "score": 1.1632
       },
       {
         "id": "412500b8a4d7e5a9",
@@ -2360,7 +2545,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6822
+        "score": 0.6805
       },
       {
         "id": "c81f2c9cb14eb6da",
@@ -2376,7 +2561,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.967
+        "score": 0.9646
       },
       {
         "id": "2fa190e6ec2b8bb3",
@@ -2392,7 +2577,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6565
+        "score": 0.6549
       },
       {
         "id": "48060cf097a05559",
@@ -2409,7 +2594,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1359
+        "score": 1.1331
       },
       {
         "id": "e933ab18144a5d72",
@@ -2426,7 +2611,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6797
+        "score": 0.678
       },
       {
         "id": "240a862f207a9896",
@@ -2444,7 +2629,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6664
+        "score": 0.6647
       },
       {
         "id": "1414acf091707df7",
@@ -2459,7 +2644,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6336
+        "score": 0.632
       },
       {
         "id": "fd0048ed89e6a6f2",
@@ -2477,7 +2662,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6266
+        "score": 0.625
       },
       {
         "id": "154059435ccbc667",
@@ -2492,7 +2677,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0659
+        "score": 1.0633
       },
       {
         "id": "57f58ec3750d73c0",
@@ -2508,7 +2693,7 @@
         ],
         "paywall": true,
         "impact": "normal",
-        "score": 0.6567
+        "score": 0.6551
       },
       {
         "id": "0ce5115afb0188fd",
@@ -2523,7 +2708,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0891
+        "score": 1.0864
       },
       {
         "id": "60ab9841f174a880",
@@ -2539,7 +2724,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9516
+        "score": 0.9493
       },
       {
         "id": "18387148a23a07ab",
@@ -2552,7 +2737,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5944
+        "score": 0.5929
       },
       {
         "id": "d2b9d2c036ba712a",
@@ -2565,7 +2750,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6351
+        "score": 0.6336
       },
       {
         "id": "69992f93b84bd6c3",
@@ -2578,7 +2763,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6351
+        "score": 0.6336
       },
       {
         "id": "1e6da1923217562a",
@@ -2598,7 +2783,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6597
+        "score": 0.658
       },
       {
         "id": "f843a45047a16895",
@@ -2611,7 +2796,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6346
+        "score": 0.633
       },
       {
         "id": "0f1d3a0ba497f87b",
@@ -2626,7 +2811,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.122
+        "score": 1.1192
       },
       {
         "id": "33b273ade5edb4eb",
@@ -2639,7 +2824,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5867
+        "score": 0.5852
       },
       {
         "id": "143a5400b24ee105",
@@ -2655,7 +2840,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6177
+        "score": 0.6161
       },
       {
         "id": "eb0971c9cf960080",
@@ -2674,208 +2859,90 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8684
-      },
-      {
-        "id": "2926544bca03a099",
-        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-        "url": "https://demo.frugaltokens.com/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1787159255000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:10"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0652
-      },
-      {
-        "id": "e253b9ac2adc269c",
-        "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
-        "url": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1787159166000,
-        "summary": "\"I will tear apart this forest and bring back what it took from me.\"",
-        "tags": [
-          "culture",
-          "entertainment",
-          "laika studios",
-          "stop-motion animation",
-          "trailers",
-          "wildwood"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.014
-      },
-      {
-        "id": "bfe397be7039e23b",
-        "title": "Meta AI is getting a Mac app",
-        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1787158800000,
-        "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The […]",
-        "tags": [
-          "ai",
-          "apple",
-          "apps",
-          "macos",
-          "meta",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8656
-      },
-      {
-        "id": "a06e67be5e4066be",
-        "title": "Google is trying to solve contrails with AI",
-        "url": "https://www.engadget.com/2240125/google-is-trying-to-solve-contrails-with-ai/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1787158443000,
-        "summary": "Operation Blue Skies, which also involves the UK government, will subtly reroute flights to test contrail avoidance.",
-        "tags": [
-          "ai",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6144
-      },
-      {
-        "id": "cc0631e0e12fc1e1",
-        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "url": "https://github.com/onecli/onecli",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1787156942000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1362
-      },
-      {
-        "id": "b034a4dee7b9d86c",
-        "title": "Samsung raises advanced foundry prices by up to 15% as AI demand fills its 4nm lines, report claims — Chinese customers accepting the largest hikes",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-raises-advanced-foundry-prices-by-up-to-15-percent-as-ai-demand-fills-its-4nm-lines",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1787156153000,
-        "summary": "Samsung raised prices on new orders across its 4nm, 5nm, and 8nm foundry processes in July, with increases reaching 15% for customers in China.",
-        "tags": [
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0237
-      },
-      {
-        "id": "39bf277590348a77",
-        "title": "Flock is testing a new AI tool that tracks and identifies people based on their driving habits",
-        "url": "https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1787156100000,
-        "summary": "This goes way, way further than keeping an eye on license plates.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6067
-      },
-      {
-        "id": "b7051406bbc32a67",
-        "title": "Memo: the GOP asks AI companies to stem the public backlash against data centers, saying the issue could kill its chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
-        "url": "https://www.techmeme.com/260819/p28#a260819p28",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1787155251000,
-        "summary": "Alex Isenstadt / Axios: Memo: the GOP asks AI companies to stem the public backlash against data centers, saying the issue could kill its chances of holding a vital Senate seat in Ohio — The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing …",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6177
-      },
-      {
-        "id": "5fc1b18894dbf99d",
-        "title": "Pixel 11 Pro review: Google AI as your enabler",
-        "url": "https://www.engadget.com/2240038/google-pixel-11-pro-review-gemini-ai-camera-samples/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1787155200000,
-        "summary": "Just because it doesn't meet the high standard its predecessor set doesn't mean the Pixel 11 Pro isn't a great phone.",
-        "tags": [
-          "smartphones"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6038
-      },
-      {
-        "id": "ef6b2667429d5d3f",
-        "title": "Scientists find closest star to the Milky Way's central black hole",
-        "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1787155016000,
-        "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
-        "tags": [
-          "science",
-          "astronomy",
-          "astrophysics",
-          "relativity",
-          "sgr a*",
-          "supermassive black hole"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9917
-      },
-      {
-        "id": "ba1ca9e45c488e43",
-        "title": "Over half of Americans are concerned about AI in daily life — with tech leaders and AI gurus desperately trying to calm the number one fear",
-        "url": "https://www.techradar.com/pro/over-half-of-americans-are-concerned-about-ai-in-daily-life-with-tech-leaders-and-ai-gurus-desperately-trying-to-calm-the-number-one-fear",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1787154900000,
-        "summary": "There's little to reduce Americans' concerns about AI, with many fearing it will replace human jobs over the next 20 years.",
-        "tags": [
-          "pro",
-          "ai platforms &amp; assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9098
-      },
-      {
-        "id": "2d16bd94922cf5fa",
-        "title": "China shifting massive AI data center complexes to rural provinces to tap surplus energy — ‘Eastern Data, Western Computing’ strategy has Chinese tech giants Huawei and Tencent building AI infrastructure Guizhou",
-        "url": "https://www.tomshardware.com/tech-industry/data-centers/china-shifting-massive-ai-data-center-complexes-to-rural-provinces-to-tap-surplus-energy-eastern-data-western-computing-strategy-has-chinese-tech-giants-huawei-and-tencent-building-ai-infrastructure-guizhou",
-        "source": "Tom's Hardware",
-        "lane": "ai",
-        "published_ts": 1787154544000,
-        "summary": "Chinese tech giants are putting up data centers in rural Chinese provinces with zero resistance. The abundance of land and energy in these areas allowed infrastructure to easily be built with limited issues, although some experts still question how much development they can bring to these areas.",
-        "tags": [
-          "data centers",
-          "tech industry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0149
+        "score": 0.8663
       }
     ],
     "science": [
+      {
+        "id": "cd96d8d7c92e8aaf",
+        "title": "Safe Domain Adaptation for Physics: Overcoming Nuisances, Label Shifts, and Simulation Priors",
+        "url": "https://arxiv.org/abs/2608.18190",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18190v1 Announce Type: new Abstract: Domain adaptation is widely used to make neural networks trained on simulations applicable to experimental data. Its premise is that the two domains differ only in nuisances, and that the quantity of interest is distributed identically in both. In physics neither assumption holds: simulations can be wrong about the physics, and the distribution of th",
+        "tags": [
+          "cs.lg",
+          "astro-ph.im",
+          "physics.data-an"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "5827882506cf470a",
+        "title": "Physics-Unrolled Neural Operator for Wireless Field Modeling",
+        "url": "https://arxiv.org/abs/2608.18495",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18495v1 Announce Type: new Abstract: Radio maps are essential for wireless decision-making tasks such as access-point placement, coverage planning, and localization, but their fine spatial details are governed by complex propagation effects and are costly to simulate accurately. Machine learning offers a path to high-fidelity radio-map prediction without running expensive high-fidelity ",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4148
+      },
+      {
+        "id": "aa19a4c67e5367f0",
+        "title": "Rethinking Privileged Information in On-Policy Self-Distillation",
+        "url": "https://arxiv.org/abs/2608.18271",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18271v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) trains a student on its own responses using token-level supervision from the same model conditioned on privileged reference information. We investigate whether performance gains from OPSD show that the student learned the information in the reference or instead reflect recovery of reasoning behavior already present ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
+      {
+        "id": "76292b6765fc552d",
+        "title": "When Does Dynamic Ensembling Pay Off? Diagnosing Regionwise Gains in Regression under Distribution Shift",
+        "url": "https://arxiv.org/abs/2608.18330",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18330v1 Announce Type: new Abstract: Whether input-dependent (\"dynamic\") combination of a regression model pool beats the best static blend depends on the shift and is rarely known before deployment. Can a small labeled target-domain probe tell us when reallocating trust across regions of the input space will pay off? We answer this with $\\widehat{D}_{\\mathrm{CF5}}$, which estimates fro",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
+      {
+        "id": "7de54fc6e621d571",
+        "title": "Selection, Recombination, or a Fresh Solve? A Candidate-Free Control for Single-Pass Test-Time Aggregation",
+        "url": "https://arxiv.org/abs/2608.18379",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1787198400000,
+        "summary": "arXiv:2608.18379v1 Announce Type: new Abstract: When every candidate is wrong, correct-candidate selection is unavailable, yet the aggregation call can still solve the problem afresh. A correct aggregate answer may therefore reflect recombination, fresh solving, or both. For efficient test-time reasoning, the relevant question is whether candidate context adds value beyond the additional generatio",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.31
+      },
       {
         "id": "a35cc038bf30f1cb",
         "title": "NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters",
@@ -2891,7 +2958,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2999
+        "score": 1.2966
       },
       {
         "id": "cab02fcb4d6221e9",
@@ -2906,7 +2973,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3004
+        "score": 1.2972
       },
       {
         "id": "8870774da69b8c63",
@@ -2926,7 +2993,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.165
+        "score": 1.1621
       },
       {
         "id": "310dcf9bfe0370f3",
@@ -2941,7 +3008,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0647
+        "score": 1.0621
       },
       {
         "id": "34b9912115a3b420",
@@ -2956,7 +3023,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2756
+        "score": 1.2725
       },
       {
         "id": "242ee9907f2aea45",
@@ -2969,7 +3036,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.3317
+        "score": 1.3284
       },
       {
         "id": "24d78203ec14e21b",
@@ -2984,7 +3051,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2513
+        "score": 1.2482
       },
       {
         "id": "66d88248180bdec1",
@@ -2999,7 +3066,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2118
+        "score": 1.2088
       },
       {
         "id": "80c1807b3d8f9157",
@@ -3014,7 +3081,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1964
+        "score": 1.1934
       },
       {
         "id": "b9bca1f91a98a951",
@@ -3029,7 +3096,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9201
+        "score": 0.9179
       },
       {
         "id": "6dd55a57e625c137",
@@ -3045,7 +3112,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2046
+        "score": 1.2016
       },
       {
         "id": "128f2167ec30492b",
@@ -3060,7 +3127,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6379
+        "score": 0.6363
       },
       {
         "id": "42c0e432ca49e812",
@@ -3080,7 +3147,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1289
+        "score": 1.1262
       },
       {
         "id": "39e43ace383875c5",
@@ -3095,7 +3162,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0832
+        "score": 1.0805
       },
       {
         "id": "188b6cdc95fa69c1",
@@ -3110,7 +3177,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1148
+        "score": 1.1121
       },
       {
         "id": "552a472f20996398",
@@ -3125,7 +3192,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1148
+        "score": 1.1121
       },
       {
         "id": "d27bf3e2f51fece4",
@@ -3145,7 +3212,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.01
+        "score": 1.0075
       },
       {
         "id": "bb5e1835c6ed5b64",
@@ -3160,7 +3227,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0659
+        "score": 1.0632
       },
       {
         "id": "e7dbd33971d5493a",
@@ -3176,7 +3243,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1925
+        "score": 1.1895
       },
       {
         "id": "dd3b4ef6e76dd202",
@@ -3191,7 +3258,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0473
+        "score": 1.0448
       },
       {
         "id": "a3a655c78c0a9b25",
@@ -3206,7 +3273,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7012
+        "score": 0.6994
       },
       {
         "id": "37777e0a74e71796",
@@ -3221,7 +3288,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.629
+        "score": 0.6274
       },
       {
         "id": "88c167d75df2a694",
@@ -3236,7 +3303,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9465
+        "score": 0.9442
       },
       {
         "id": "f667cfffa914cc9a",
@@ -3251,7 +3318,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8641
+        "score": 0.862
       },
       {
         "id": "43abeed0d23d9ade",
@@ -3266,7 +3333,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8935
+        "score": 0.8913
       },
       {
         "id": "cc2cb5ee424d4a0c",
@@ -3284,7 +3351,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8273
+        "score": 0.8252
       },
       {
         "id": "32eac0272bec9067",
@@ -3300,7 +3367,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8273
+        "score": 0.8252
       },
       {
         "id": "fef8c26bd2316562",
@@ -3316,7 +3383,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8068
+        "score": 0.8048
       },
       {
         "id": "5d0c7d19afbb6d27",
@@ -3331,7 +3398,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8459
+        "score": 0.8438
       },
       {
         "id": "9ec40fd6188e1213",
@@ -3344,7 +3411,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "6b5feae78e22df76",
@@ -3357,7 +3424,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.906
+        "score": 0.9038
       },
       {
         "id": "b552fe4bba743a7c",
@@ -3370,7 +3437,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.906
+        "score": 0.9038
       },
       {
         "id": "4d598732aa490a98",
@@ -3383,7 +3450,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.906
+        "score": 0.9038
       },
       {
         "id": "9183647a458307f0",
@@ -3396,7 +3463,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "355b6a7382ab7e40",
@@ -3411,7 +3478,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "021b6cb6c9588ab3",
@@ -3424,7 +3491,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "ac6c044369ecb310",
@@ -3437,7 +3504,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "f12c7fdc38c6f0c0",
@@ -3450,7 +3517,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "4e36b91eb923f115",
@@ -3463,7 +3530,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8389
+        "score": 0.8368
       },
       {
         "id": "b0b639935cb4cc60",
@@ -3478,7 +3545,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7985
+        "score": 0.7965
       },
       {
         "id": "a9fc7af098763349",
@@ -3493,7 +3560,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7757
+        "score": 0.7738
       },
       {
         "id": "4b063e86738b7cbe",
@@ -3508,7 +3575,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7733
+        "score": 0.7713
       },
       {
         "id": "bea1ef143ee21f59",
@@ -3523,7 +3590,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7708
+        "score": 0.7689
       },
       {
         "id": "3f2c7adbf4c0f5d3",
@@ -3538,7 +3605,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7561
+        "score": 0.7542
       },
       {
         "id": "80203dc5157c6d83",
@@ -3553,7 +3620,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6934
+        "score": 0.6916
       },
       {
         "id": "9fae661d8f5fb11e",
@@ -3568,7 +3635,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7393
+        "score": 0.7375
       },
       {
         "id": "81434dcdccdd8562",
@@ -3583,7 +3650,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7393
+        "score": 0.7375
       },
       {
         "id": "94fff58bb1c35da7",
@@ -3598,7 +3665,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7369
+        "score": 0.7351
       },
       {
         "id": "d6de1314515d411d",
@@ -3618,7 +3685,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6628
+        "score": 0.6611
       },
       {
         "id": "d5c0118745e8571f",
@@ -3634,7 +3701,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.4925
+        "score": 0.4913
       },
       {
         "id": "caeb94d5e4e02518",
@@ -3653,7 +3720,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6314
+        "score": 0.6299
       },
       {
         "id": "3d947c7b58ae58e9",
@@ -3668,7 +3735,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.4407
+        "score": 0.4396
       },
       {
         "id": "a4ec3e52e6998e4d",
@@ -3688,7 +3755,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.4909
+        "score": 0.4897
       },
       {
         "id": "700a45586c57d737",
@@ -3703,91 +3770,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.644
-      },
-      {
-        "id": "0b2b0109105da44e",
-        "title": "A new approach to building noise-resistant quantum sensors",
-        "url": "https://phys.org/news/2026-08-approach-noise-resistant-quantum-sensors.html",
-        "source": "Phys.org",
-        "lane": "science",
-        "published_ts": 1787054407000,
-        "summary": "Quantum sensors, devices that collect measurements by exploiting quantum-mechanical phenomena, could potentially detect extremely weak magnetic, gravitational and electromagnetic signals with greater sensitivity than classical sensors. Some quantum sensors leverage entanglement, a phenomenon that prompts distant particles to become so strongly linked that the physical state of one particle dictate",
-        "tags": [
-          "quantum physics"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6378
-      },
-      {
-        "id": "73296d87e6000bc4",
-        "title": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-        "url": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1787051269000,
-        "summary": "Research shows heat amplifies the dangers of pesticides.",
-        "tags": [
-          "health",
-          "science",
-          "agriculture",
-          "climate change",
-          "farmworkers",
-          "pesticides"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.4555
-      },
-      {
-        "id": "c4e1059a9ede4e9d",
-        "title": "The role of the astronaut is in flux",
-        "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-        "source": "MIT Technology Review",
-        "lane": "science",
-        "published_ts": 1787043600000,
-        "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles. While no space mission can live up to the historic touchdown of…",
-        "tags": [
-          "space",
-          "app"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5738
-      },
-      {
-        "id": "236e8aaa558e626d",
-        "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-        "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-        "source": "ScienceDaily Tech",
-        "lane": "science",
-        "published_ts": 1787033284000,
-        "summary": "A magnetar’s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, the discovery could offer the first direct evidence of vacuum birefringence and open a new window into the strange physics of the quantum vacuum.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5585
-      },
-      {
-        "id": "3860208ba16b443f",
-        "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-        "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1787025640000,
-        "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-        "tags": [
-          "science",
-          "ancient egypt",
-          "archaeology",
-          "archaeothantology",
-          "egyptian tombs",
-          "thanatology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.3972
+        "score": 0.6424
       }
     ]
   },
