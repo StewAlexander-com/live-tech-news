@@ -1,7 +1,214 @@
 {
-  "generated_at": "2026-09-17T00:41:13.799034+00:00",
+  "generated_at": "2026-09-17T05:15:27.255765+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "dd4e0ec93e706e0b",
+        "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
+        "url": "https://arxiv.org/abs/2609.17688",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17688v1 Announce Type: new Abstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets, growing visual-token costs, and long-context retrieval failures. Under these practical constraints, we study whether textual captions can serve as reusable episodic memory. We define the Episodic Memory Video Caption QA ta",
+        "tags": [
+          "cs.ai",
+          "cs.cv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "354b5ef766511275",
+        "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+        "url": "https://arxiv.org/abs/2609.18063",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.18063v1 Announce Type: new Abstract: Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot start e",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "6d7e6f18b07922a8",
+        "title": "Beyond the Previous Layer: Residual Predictive Structure in Sparse MoE Routing",
+        "url": "https://arxiv.org/abs/2609.17940",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17940v1 Announce Type: new Abstract: Sparse mixture-of-experts models route each token through a sequence of expert selections. We ask whether the immediately preceding selection adequately summarizes this trajectory for predicting the next router. Using frozen OLMoE and JetMoE models, we measure the held-out predictive gain from earlier expert selections while retaining the most recent",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "c1bed77938b70237",
+        "title": "In an unsealed court ruling, a US judge orders Google to make ad tech tools interoperable with rivals, share ad auction data, and appoint an internal monitor (New York Times)",
+        "url": "https://www.techmeme.com/260916/p55#a260916p55",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1789614946000,
+        "summary": "New York Times: In an unsealed court ruling, a US judge orders Google to make ad tech tools interoperable with rivals, share ad auction data, and appoint an internal monitor — The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan's business will continue largely unscathed.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6929
+      },
+      {
+        "id": "8c1b7be5b31c1207",
+        "title": "Dyson's OnTrac headphones are discounted to AU$299 — as an audio expert, these are the 3 over-ears I would recommend instead",
+        "url": "https://www.techradar.com/audio/wireless-headphones/dysons-ontrac-headphones-are-discounted-to-au-aud299-as-an-audio-expert-these-are-the-3-over-ears-i-would-recommend-instead",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1789614691000,
+        "summary": "Dyson's second pair of headphones didn't meet its lofty expectations and has received a significant price cut as a result — but I still think there are better alternatives to look out for.",
+        "tags": [
+          "wireless headphones",
+          "audio",
+          "headphones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0211
+      },
+      {
+        "id": "8f5c9b4e3d0658fe",
+        "title": "The streamers are fighting over Halloween",
+        "url": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1789614000000,
+        "summary": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netflix, Amazon, and AMC - all premiered early looks at upcoming horror-adjacent series that are […]",
+        "tags": [
+          "analysis",
+          "entertainment",
+          "film",
+          "report",
+          "tiff",
+          "tv shows"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9479
+      },
+      {
+        "id": "7173bf27805bc506",
+        "title": "Neagley season finale is 'explosive' in more ways than one — but I still can't wrap my head around how the final epic stunt was filmed",
+        "url": "https://www.techradar.com/streaming/amazon-prime-video/neagley-season-finale-is-explosive-in-more-ways-than-one-but-i-still-cant-wrap-my-head-around-how-the-final-epic-stunt-was-filmed",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1789612260000,
+        "summary": "Neagley's explosive season finale solves its mystery but keeps the future wide open — and star Maria Sten has revealed how the final epic action sequence was shot.",
+        "tags": [
+          "amazon prime video",
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0079
+      },
+      {
+        "id": "72249d104696a0e3",
+        "title": "AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring (Omar Abdel-Baqui/Wall Street Journal)",
+        "url": "https://www.techmeme.com/260916/p53#a260916p53",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1789610520000,
+        "summary": "Omar Abdel-Baqui / Wall Street Journal: AWS says it can't restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring — Amazon's announcement is the first indication that some data stored exclusively in Bahrain and the U.A.E could be gone forever",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6767
+      },
+      {
+        "id": "450443d2e67a758b",
+        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+        "url": "https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1789610416000,
+        "summary": "submitted by /u/O-parker [link] [comments]",
+        "tags": [
+          "technology",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6575
+      },
+      {
+        "id": "bfa6772028002a2b",
+        "title": "Part-human part-mouse brain developed in science breakthrough",
+        "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+        "source": "Hacker News",
+        "lane": "gadgets",
+        "published_ts": 1789608790000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:17"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0755
+      },
+      {
+        "id": "7837afa196aed965",
+        "title": "Forget long HDMI cable headaches in your home theater setup — there's a new wireless HDMI connector for 4K 60Hz video at up to 75 feet through walls, making it way easier to beam images around the home",
+        "url": "https://www.techradar.com/televisions/home-theater/theres-a-new-wireless-hdmi-connector-for-4k-60hz-video",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1789606800000,
+        "summary": "The Nyrius Phoenix Home aims to clear the cables and deliver true 4K/60 without drilling, drivers or wiring.",
+        "tags": [
+          "home theater",
+          "televisions"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9789
+      },
+      {
+        "id": "d01db8af48c09c88",
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+        "source": "TechCrunch",
+        "lane": "gadgets",
+        "published_ts": 1789606729000,
+        "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+        "tags": [
+          "ai",
+          "hardware",
+          "smart glasses",
+          "snap",
+          "specs"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6889
+      },
+      {
+        "id": "cb5ab967faf55f8b",
+        "title": "Meta is learning a lesson about camera glasses that Google learned more than 10 years ago",
+        "url": "https://www.reddit.com/r/technology/comments/1wieen0/meta_is_learning_a_lesson_about_camera_glasses/",
+        "source": "Reddit r/technology",
+        "lane": "gadgets",
+        "published_ts": 1789604051000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6355
+      },
       {
         "id": "64e31a2195da1300",
         "title": "US Treasury wants banks to be better at filing cyber scam reports after noting nearly $13 billion in losses since 2023",
@@ -20,7 +227,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0519
+        "score": 0.9633
       },
       {
         "id": "9ea8284149d05ab6",
@@ -35,7 +242,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0083
+        "score": 0.9233
       },
       {
         "id": "b5a3d1f0e1fada20",
@@ -51,7 +258,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3259
+        "score": 1.2142
       },
       {
         "id": "bf21bc571448774f",
@@ -71,7 +278,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7766
+        "score": 0.7112
       },
       {
         "id": "5dca6b2d775ecd49",
@@ -87,7 +294,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6903
+        "score": 0.6322
       },
       {
         "id": "3588e90acd9f6fb1",
@@ -102,7 +309,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.005
+        "score": 0.9203
       },
       {
         "id": "bb4dfc6de50efa4d",
@@ -118,7 +325,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3165
+        "score": 1.2056
       },
       {
         "id": "503d67ae710906de",
@@ -133,7 +340,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9933
+        "score": 0.9096
       },
       {
         "id": "62ce91f7da58d925",
@@ -148,7 +355,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0717
+        "score": 0.9814
       },
       {
         "id": "1abd4249b43677ba",
@@ -165,7 +372,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0256
+        "score": 0.9392
       },
       {
         "id": "63f873384715ce21",
@@ -180,7 +387,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7823
+        "score": 0.7164
       },
       {
         "id": "bc51674738eea51b",
@@ -195,7 +402,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0089
+        "score": 0.9239
       },
       {
         "id": "1d7906c118884784",
@@ -213,7 +420,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7046
+        "score": 0.6453
       },
       {
         "id": "bb03d1ef5e2b8021",
@@ -228,7 +435,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6581
+        "score": 0.6027
       },
       {
         "id": "37d6bce94e43c5a1",
@@ -245,7 +452,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1648
+        "score": 1.0667
       },
       {
         "id": "9b8951d38add5b39",
@@ -260,7 +467,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9897
+        "score": 0.9063
       },
       {
         "id": "3310709d779732c8",
@@ -275,7 +482,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9897
+        "score": 0.9063
       },
       {
         "id": "68e35884966692ff",
@@ -293,7 +500,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1639
+        "score": 1.0659
       },
       {
         "id": "7fa9cf178ce4c7de",
@@ -308,7 +515,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0306
+        "score": 0.9437
       },
       {
         "id": "415564aeed4ad8e1",
@@ -325,7 +532,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9786
+        "score": 0.8962
       },
       {
         "id": "7e4eb628a485fdf6",
@@ -344,7 +551,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6861
+        "score": 0.6283
       },
       {
         "id": "f5a69d86b0bab0ca",
@@ -359,7 +566,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9708
+        "score": 0.889
       },
       {
         "id": "575e40b4fa8ecd83",
@@ -374,7 +581,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1612
+        "score": 1.0634
       },
       {
         "id": "2018c43e77e9d0c7",
@@ -390,7 +597,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1348
+        "score": 1.0392
       },
       {
         "id": "e990cb9c99906204",
@@ -405,7 +612,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7432
+        "score": 0.6806
       },
       {
         "id": "e28e5f912601fdda",
@@ -423,7 +630,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.221
+        "score": 1.1181
       },
       {
         "id": "c2e852aad6dee2ae",
@@ -439,7 +646,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1288
+        "score": 1.0337
       },
       {
         "id": "8278230124f4b616",
@@ -459,7 +666,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1234
+        "score": 1.0288
       },
       {
         "id": "13c74a9afb78faa0",
@@ -476,7 +683,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9523
+        "score": 0.8721
       },
       {
         "id": "8bb8353961ca2bbf",
@@ -492,7 +699,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1197
+        "score": 1.0254
       },
       {
         "id": "bc79dcdec6b4eff4",
@@ -507,22 +714,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9159
-      },
-      {
-        "id": "e5d2dd3113d4837e",
-        "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-        "url": "https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/",
-        "source": "Reddit r/technology",
-        "lane": "gadgets",
-        "published_ts": 1789584561000,
-        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6253
+        "score": 0.8387
       },
       {
         "id": "96eb72b87c68fe80",
@@ -540,7 +732,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7066
+        "score": 0.6471
       },
       {
         "id": "73ebd61d29709b6b",
@@ -560,7 +752,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1144
+        "score": 1.0205
       },
       {
         "id": "becf7072abc6c5fa",
@@ -576,7 +768,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1108
+        "score": 1.0172
       },
       {
         "id": "774b67e4754c3d31",
@@ -595,7 +787,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9417
+        "score": 0.8623
       },
       {
         "id": "666d8d78b7c44cc9",
@@ -613,7 +805,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1023
+        "score": 1.0095
       },
       {
         "id": "fefdc6af88988f12",
@@ -628,7 +820,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9335
+        "score": 0.8548
       },
       {
         "id": "c645fccf2bd6e6cd",
@@ -643,7 +835,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6143
+        "score": 0.5625
       },
       {
         "id": "7f2b1c14bbee3b6b",
@@ -660,7 +852,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9229
+        "score": 0.8451
       },
       {
         "id": "9021700d7f059d80",
@@ -675,7 +867,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.081
+        "score": 0.9899
       },
       {
         "id": "a43a53695d06ff46",
@@ -695,7 +887,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1883
+        "score": 1.0882
       },
       {
         "id": "6bd90beaeed95bbb",
@@ -710,7 +902,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9896
+        "score": 0.9063
       },
       {
         "id": "6e6875f0e38de6be",
@@ -727,7 +919,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9163
+        "score": 0.8391
       },
       {
         "id": "ba3d25f9e571906e",
@@ -747,7 +939,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.683
+        "score": 0.6255
       },
       {
         "id": "b90f8c9b910ba598",
@@ -763,7 +955,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6071
+        "score": 0.556
       },
       {
         "id": "5dbe0388ad2fb7b9",
@@ -779,229 +971,136 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.912
-      },
-      {
-        "id": "afecb807856bfdaa",
-        "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-        "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1789576811000,
-        "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
-        "tags": [
-          "tech",
-          "ai data centers",
-          "amazon",
-          "amazon aws",
-          "amazon web services",
-          "aws"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0176
-      },
-      {
-        "id": "cd1b90fbd6408585",
-        "title": "Yamaha's new cheap Dolby Atmos soundbar could be the compact TV sound upgrade you're looking for",
-        "url": "https://www.techradar.com/televisions/soundbars/yamahas-new-cheap-dolby-atmos-soundbar-could-be-the-compact-tv-sound-upgrade-youre-looking-for",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789576537000,
-        "summary": "The Yamaha B200A offers Dolby Atmos, a compact frame, several modes and a built-in subwoofer, all for a relatively affordable price.",
-        "tags": [
-          "soundbars",
-          "televisions"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9092
-      },
-      {
-        "id": "14d9a690f4c49124",
-        "title": "CenterPoint Energy confirms hackers compromised networks and stole data, and the hackers claim theft of 7.5 million files",
-        "url": "https://www.techradar.com/pro/security/centerpoint-energy-confirms-hackers-compromised-networks-and-stole-data-and-the-hackers-claim-theft-of-7-5-million-files",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789575000000,
-        "summary": "The company confirmed the hack in a new SEC filing and said the investigation is ongoing.",
-        "tags": [
-          "security",
-          "cyber security",
-          "computing security",
-          "pro",
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9017
-      },
-      {
-        "id": "b24a81e406fdd44f",
-        "title": "'Insight, taste, and distribution': How to turn vibe-coded apps into cash",
-        "url": "https://www.techradar.com/pro/insight-taste-and-distribution-how-to-turn-vibe-coded-apps-into-cash",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789574700000,
-        "summary": "App publisher CEO Stan Marchand breaks down what separates a buyable product from a gimmick",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9003
-      },
-      {
-        "id": "cd305cef1dd62ffd",
-        "title": "The Volkswagen ID.3 GTI could struggle to win over the hot-hatch faithful — despite being the most powerful GTI it’s ever made",
-        "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-volkswagen-id-3-gti-could-struggle-to-win-over-the-hot-hatch-faithful-despite-being-the-most-powerful-gti-its-ever-made",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789574400000,
-        "summary": "The Volkswagen ID.3 GTI changes everything about the GTI formula — and that could be a problem",
-        "tags": [
-          "hybrid & electric vehicles",
-          "vehicle tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8989
-      },
-      {
-        "id": "6eb72d22a99cb46b",
-        "title": "A street photographer took Dyson's $500 camera toothbrush on a photo walk — and the lo-fi images are otherworldly",
-        "url": "https://www.techradar.com/cameras/a-street-photographer-took-dysons-usd500-camera-toothbrush-on-a-photo-walk-and-the-lo-fi-images-are-otherworldly",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789573759000,
-        "summary": "An Instagram creator has turned the tiny camera built into Dyson's $500 CameraJet toothbrush into a street photography tool, with gloriously odd results.",
-        "tags": [
-          "cameras",
-          "oral health",
-          "health & fitness"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8958
-      },
-      {
-        "id": "f07df2c7d2bbc33e",
-        "title": "'I don't think we ever lost innovation': New Apple CEO John Ternus defends Apple's track record as his first September launch comes to a close",
-        "url": "https://www.techradar.com/phones/iphone/i-dont-think-we-ever-lost-innovation-new-apple-ceo-john-ternus-defends-apples-track-record-as-his-first-september-launch-comes-to-a-close",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789573745000,
-        "summary": "In one of his first interviews as CEO of Apple, John Ternus tells TechRadar that he doesn't believe the tech giant ever lost sight of its roots in innovative engineering and technology. Do you agree?",
-        "tags": [
-          "iphone",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9674
-      },
-      {
-        "id": "5754e957226f82d0",
-        "title": "A Cheap and Easy Control Screen For Home Assistant",
-        "url": "https://hackaday.com/2026/09/16/a-cheap-and-easy-control-screen-for-home-assistant/",
-        "source": "Hackaday",
-        "lane": "gadgets",
-        "published_ts": 1789572647000,
-        "summary": "Home Assistant is a great way to rig up and manage your smart home and its many and varied devices. You can of course control the system from your smartphone …read more",
-        "tags": [
-          "home hacks",
-          "cheap yellow display",
-          "esp32",
-          "home",
-          "home-assistant",
-          "smarthome"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1314
-      },
-      {
-        "id": "9945e580d124e096",
-        "title": "Vote now in the TechRadar Readers' Choice Awards 2026 — Fitness & Home Tech categories!",
-        "url": "https://www.techradar.com/tech/techradar-readers-choice-awards-2026-fitness-and-home-tech-categories",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789572630000,
-        "summary": "Our 100% reader-voted awards will crown the top tech of the last year, so have your say!",
-        "tags": [
-          "tech",
-          "health & fitness",
-          "home",
-          "outlets:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8904
-      },
-      {
-        "id": "79e9ccf1ec5674cb",
-        "title": "TechRadar Readers' Choice Awards 2026 voting is open now — help choose the best tech of the last 12 months!",
-        "url": "https://www.techradar.com/tech/techradar-readers-choice-awards-2026-voting-is-open-now",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789572555000,
-        "summary": "Our 100% reader-voted awards will crown the top tech of the last year, so have your say!",
-        "tags": [
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.89
-      },
-      {
-        "id": "06a4741b3646f279",
-        "title": "Fedora 45 beta drags the Linux console into the 21st century",
-        "url": "https://www.theregister.com/software/2026/09/16/fedora-45-beta-drags-the-linux-console-into-the-21st-century/5296873",
-        "source": "The Register",
-        "lane": "gadgets",
-        "published_ts": 1789572466000,
-        "summary": "Kmscon brings smooth scaling, richer colors, and better Unicode support beneath GNOME 51",
-        "tags": [
-          "software"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0989
-      },
-      {
-        "id": "786e5543e3d51857",
-        "title": "Developer vibe codes a tool to let NVIDIA RTX 50-series laptop owners crank up their power limits — can juice RTX 5090 mobile GPU to 225W",
-        "url": "https://www.tomshardware.com/pc-components/overclocking/developer-vibe-codes-a-tool-to-let-nvidia-rtx-50-series-laptop-owners-crank-up-their-power-limits-can-juice-rtx-5090-mobile-gpu-to-225w",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1789571982000,
-        "summary": "A developer has created a fully vibe-coded tool that seems to work to allow some GeForce RTX 50-series laptops to crank their power limits by as much as 28%.",
-        "tags": [
-          "overclocking",
-          "pc components"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9917
-      },
-      {
-        "id": "d3a7dbe17c6a1de8",
-        "title": "Waiting on your unlocked iPhone 18 Pro? Mint Mobile has an unlimited plan for just $15/mo right now — the perfect pairing",
-        "url": "https://www.techradar.com/phones/iphone/waiting-on-your-unlocked-iphone-18-pro-mint-mobile-has-an-unlimited-plan-for-just-usd15-mo-right-now-the-perfect-pairing",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1789571662000,
-        "summary": "An unlocked iPhone 18 Pro deserves an equally awesome plan — such as Mint Mobile's super-cheap unlimited data plan.",
-        "tags": [
-          "iphone",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8858
+        "score": 0.8352
       }
     ],
     "innovation": [
+      {
+        "id": "6dd283cf0d6d717e",
+        "title": "Docs: Automattic interim CEO Mark Davies and CLO Andy Missan signed each other's severance packages worth $8.15M during Matt Mullenweg's brief ouster as CEO (Sarah Perez/TechCrunch)",
+        "url": "https://www.techmeme.com/260917/p5#a260917p5",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1789621305000,
+        "summary": "Sarah Perez / TechCrunch: Docs: Automattic interim CEO Mark Davies and CLO Andy Missan signed each other's severance packages worth $8.15M during Matt Mullenweg's brief ouster as CEO — Last week, on September 9, Automattic's board voted to put CEO Matt Mullenweg on paid leave, a decision the board still hasn't explained publicly.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7168
+      },
+      {
+        "id": "3c92c912e3b3db8b",
+        "title": "Recreating Unobtainable Diagnostic Tools For The Jaguar XJ220",
+        "url": "https://hackaday.com/2026/09/16/recreating-unobtainable-diagnostic-tools-for-the-jaguar-xj220/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1789621216000,
+        "summary": "If you own a Jaguar XJ220 or the rarer XJR-15, you’re probably not short on money or real estate. You may, however, be finding it hard to lay your hands …read more",
+        "tags": [
+          "car hacks",
+          "tool hacks",
+          "car",
+          "ecu",
+          "jaguar",
+          "jaguar xj220"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3434
+      },
+      {
+        "id": "ac6a2d59b4eeecd3",
+        "title": "Swift 6.4 unifies building across Linux, macOS, Windows",
+        "url": "https://www.theregister.com/devops/2026/09/17/swift-64-unifies-building-across-linux-macos-windows/5297006",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1789619220000,
+        "summary": "Swift Build is now the default engine for the Swift Package Manager",
+        "tags": [
+          "devops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2922
+      },
+      {
+        "id": "409a8e433123438a",
+        "title": "Imitation Learning for Autonomous Driving in CARLA",
+        "url": "https://arxiv.org/abs/2609.17757",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17757v1 Announce Type: new Abstract: Behavioral cloning trains a policy offline on expert demonstrations, but deployment is closed loop: each action affects the observations the policy receives next. We study how much closed-loop driving competence a compact multimodal policy can acquire from offline demonstrations in the CARLA simulator. The policy uses five-frame histories of RGB imag",
+        "tags": [
+          "cs.ai",
+          "cs.ro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "a8d64f14c72cdbc9",
+        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+        "url": "https://ryan.science/blog/keys-not-included",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1789614203000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:79"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.258
+      },
+      {
+        "id": "eac2f245237a0746",
+        "title": "Introducing the Periodic Table of US Electrical Receptacles",
+        "url": "https://hackaday.com/2026/09/16/introducing-the-periodic-table-of-us-electrical-receptacles/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1789610408000,
+        "summary": "Although things may seem simple on the North American grid as an end-user if you limit yourself to just 120 VAC and NEMA 1-15 and 5-15 connectors, there is a …read more",
+        "tags": [
+          "hardware",
+          "nema plug",
+          "outlets",
+          "periodic table"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.268
+      },
+      {
+        "id": "12e3705fc419d467",
+        "title": "Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake (Michelle Ma/Bloomberg)",
+        "url": "https://www.techmeme.com/260916/p52#a260916p52",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1789607402000,
+        "summary": "Michelle Ma / Bloomberg: Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake — Generac Holdings Inc. agreed to supply up to $8 billion worth of generators for Amazon.com Inc.'s data centers and issued a warrant …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6655
+      },
+      {
+        "id": "7072c794c26e805a",
+        "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
+        "url": "https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1789606462000,
+        "summary": "submitted by /u/narcomo [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6437
+      },
       {
         "id": "0c69cb40f8bfff78",
         "title": "Hands-on with Snap's Specs: more advanced than Meta's top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises (Bloomberg)",
@@ -1013,7 +1112,22 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7186
+        "score": 0.658
+      },
+      {
+        "id": "99c988e3610aa8da",
+        "title": "Scientists discover an amphibian gut bacterium 100% effective in destroying cancer cells in rats",
+        "url": "https://www.reddit.com/r/technology/comments/1wiep12/scientists_discover_an_amphibian_gut_bacterium/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1789604819000,
+        "summary": "submitted by /u/JKKIDD231 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6381
       },
       {
         "id": "7253c985b78b120d",
@@ -1030,7 +1144,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0485
+        "score": 0.9602
       },
       {
         "id": "083842f75699fdb2",
@@ -1043,7 +1157,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7038
+        "score": 0.6445
       },
       {
         "id": "a076df3bfdb9f1d8",
@@ -1063,7 +1177,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3072
+        "score": 1.1971
       },
       {
         "id": "3704cfecd8f03de4",
@@ -1079,7 +1193,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7551
+        "score": 0.6915
       },
       {
         "id": "59aa619c00d96c2c",
@@ -1094,7 +1208,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.736
+        "score": 0.674
       },
       {
         "id": "68a3421fa76468b9",
@@ -1110,7 +1224,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2692
+        "score": 1.1623
       },
       {
         "id": "54f57eefe3fc8917",
@@ -1123,7 +1237,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.2988
+        "score": 1.1894
       },
       {
         "id": "dfdd19df77293cd9",
@@ -1141,7 +1255,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7188
+        "score": 0.6582
       },
       {
         "id": "cb9de4e7095b5c8d",
@@ -1158,7 +1272,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0191
+        "score": 0.9333
       },
       {
         "id": "76fdfceee4331d77",
@@ -1173,7 +1287,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6695
+        "score": 0.6131
       },
       {
         "id": "51066c1aae13d8c1",
@@ -1186,7 +1300,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.2908
+        "score": 1.1821
       },
       {
         "id": "8b1ab3917c2aa844",
@@ -1201,7 +1315,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0931
+        "score": 1.0011
       },
       {
         "id": "41459d38c2b80787",
@@ -1216,7 +1330,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2479
+        "score": 1.1428
       },
       {
         "id": "f8282b3232dfd986",
@@ -1234,7 +1348,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9259
+        "score": 0.8479
       },
       {
         "id": "cacd842ffab9cc41",
@@ -1247,7 +1361,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.2731
+        "score": 1.1659
       },
       {
         "id": "6f20442286616e5c",
@@ -1262,7 +1376,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2372
+        "score": 1.133
       },
       {
         "id": "215f568c32b44400",
@@ -1280,7 +1394,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.702
+        "score": 0.6428
       },
       {
         "id": "57da6c2cc6bc0528",
@@ -1295,7 +1409,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6527
+        "score": 0.5977
       },
       {
         "id": "841a74308d03ef38",
@@ -1312,7 +1426,23 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9082
+        "score": 0.8317
+      },
+      {
+        "id": "418a735a65c5cace",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "url": "https://arxiv.org/abs/2609.16338",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1789592364000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:171"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1194
       },
       {
         "id": "1a4378f98498a34d",
@@ -1327,7 +1457,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2123
+        "score": 1.1102
       },
       {
         "id": "c323d699c22d2706",
@@ -1343,7 +1473,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2098
+        "score": 1.1079
       },
       {
         "id": "7932f6cf3616a2f6",
@@ -1358,7 +1488,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6424
+        "score": 0.5883
       },
       {
         "id": "65bfd5ace080b959",
@@ -1374,7 +1504,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2028
+        "score": 1.1015
       },
       {
         "id": "f8c4c02e73f356f2",
@@ -1387,7 +1517,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8896
+        "score": 0.8146
       },
       {
         "id": "9f2b6f4c29dc0b49",
@@ -1402,7 +1532,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9724
+        "score": 0.8905
       },
       {
         "id": "a79668fcfb322667",
@@ -1419,7 +1549,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8909
+        "score": 0.8159
       },
       {
         "id": "6a90f8e15de457a7",
@@ -1439,7 +1569,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2335
+        "score": 1.1296
       },
       {
         "id": "ec2c241c7aeac594",
@@ -1459,7 +1589,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6829
+        "score": 0.6254
       },
       {
         "id": "d4ab55f45ac1b88f",
@@ -1479,7 +1609,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6781
+        "score": 0.621
       },
       {
         "id": "e14fd9bdf1b4fc2e",
@@ -1496,7 +1626,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1258
+        "score": 1.031
       },
       {
         "id": "e70dc11daeaf931f",
@@ -1509,7 +1639,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6464
+        "score": 0.5919
       },
       {
         "id": "6f30de7d73a3dac3",
@@ -1526,7 +1656,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.671
+        "score": 0.6145
       },
       {
         "id": "8ada8952792f7bce",
@@ -1542,7 +1672,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6992
+        "score": 0.6403
       },
       {
         "id": "e975e78c5bbdacf4",
@@ -1558,7 +1688,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1749
+        "score": 1.0759
       },
       {
         "id": "d32e44bc41f8d979",
@@ -1574,7 +1704,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1726
+        "score": 1.0738
       },
       {
         "id": "a768defa1be43bc9",
@@ -1593,7 +1723,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6673
+        "score": 0.6111
       },
       {
         "id": "fa14661e679424d8",
@@ -1606,7 +1736,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.2968
+        "score": 1.1876
       },
       {
         "id": "29519b4ca2765356",
@@ -1622,7 +1752,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1657
+        "score": 1.0675
       },
       {
         "id": "e58aeec15378ba39",
@@ -1638,7 +1768,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1657
+        "score": 1.0675
       },
       {
         "id": "34dd49b55eec4eaf",
@@ -1657,7 +1787,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1987
+        "score": 1.0977
       },
       {
         "id": "94736f460a95da6a",
@@ -1672,7 +1802,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6163
+        "score": 0.5644
       },
       {
         "id": "ab2bf06c6fc7927b",
@@ -1692,7 +1822,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6578
+        "score": 0.6024
       },
       {
         "id": "4b6a9a66edf1db51",
@@ -1708,7 +1838,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6858
+        "score": 0.628
       },
       {
         "id": "07d8b8790af9789e",
@@ -1723,7 +1853,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1526
+        "score": 1.0555
       },
       {
         "id": "5baef65c311b6d68",
@@ -1740,7 +1870,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1765
+        "score": 1.0774
       },
       {
         "id": "a4be1748de48876e",
@@ -1756,7 +1886,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1434
+        "score": 1.047
       },
       {
         "id": "bfc41862364fb78c",
@@ -1772,7 +1902,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1702
+        "score": 1.0717
       },
       {
         "id": "821c0a7ddccd8c0d",
@@ -1787,7 +1917,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6068
+        "score": 0.5557
       },
       {
         "id": "b3c0e00b7d521867",
@@ -1802,154 +1932,324 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9879
-      },
-      {
-        "id": "0bad39a52ade9fc9",
-        "title": "Rethinking Robot Safety in the Age of AI",
-        "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-        "source": "IEEE Spectrum",
-        "lane": "innovation",
-        "published_ts": 1789577462000,
-        "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal ",
-        "tags": [
-          "physical-ai",
-          "humanoid-robots",
-          "type-sponsored",
-          "ai-robots",
-          "cybersecurity"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.277
-      },
-      {
-        "id": "745a3d0056cb6223",
-        "title": "Delos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others (Stephen Nellis/Reuters)",
-        "url": "https://www.techmeme.com/260916/p40#a260916p40",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1789577401000,
-        "summary": "Stephen Nellis / Reuters: Delos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others — Delos Data, a startup founded by veterans of Intel Corp (INTC.O), on Tuesday said it has raised $100 million to develop chips …",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6685
-      },
-      {
-        "id": "b61e15b87d63a763",
-        "title": "Power tool brands want you locked into batteries, but this one system breaks you free",
-        "url": "https://www.makeuseof.com/ampshare-battery-system-multiple-brandes/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1789576214000,
-        "summary": "Choose the options that you want, not what you're forced to",
-        "tags": [
-          "home",
-          "power tools"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8329
-      },
-      {
-        "id": "4eef756df326355c",
-        "title": "Arcee AI, which develops open-weight models in the US, raised a Series B at a $1B pre-money valuation; a source says Arcee raised at least $150M (Allie Garfinkle/Fortune)",
-        "url": "https://www.techmeme.com/260916/p36#a260916p36",
-        "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1789575901000,
-        "summary": "Allie Garfinkle / Fortune: Arcee AI, which develops open-weight models in the US, raised a Series B at a $1B pre-money valuation; a source says Arcee raised at least $150M — In 2025, Mark McQuade took a gamble wholly specific to the AI era. — Arcee AI, the startup he founded in 2023, was focusing on post-training …",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6631
-      },
-      {
-        "id": "827c41251844b56b",
-        "title": "Scientists turn seawater into fresh water without harmful brine",
-        "url": "https://www.reddit.com/r/technology/comments/1wi1tls/scientists_turn_seawater_into_fresh_water_without/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1789575475000,
-        "summary": "submitted by /u/_Dark_Wing [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5956
-      },
-      {
-        "id": "565e903e28f4882e",
-        "title": "I stopped manually updating sideloaded apps the moment I found an open source app manager",
-        "url": "https://www.androidpolice.com/auto-update-open-source-sideloaded-apps/",
-        "source": "Android Police",
-        "lane": "innovation",
-        "published_ts": 1789575310000,
-        "summary": "I no longer manually update each open source app",
-        "tags": [
-          "android apps",
-          "open source",
-          "productivity",
-          "open source"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0626
-      },
-      {
-        "id": "ef0a9d53313589c0",
-        "title": "Code Is Crap",
-        "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1789575235000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1153
-      },
-      {
-        "id": "8825418d1c9f99ce",
-        "title": "Android’s new anti-doomscrolling tool might help reducing my daily screen time to single digits",
-        "url": "https://www.makeuseof.com/androids-new-anti-doomscrolling-tool/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1789574908000,
-        "summary": "Android frames a middle ground between timers and bans with a brief hiccup that prompts reflection before opening distracting apps.",
-        "tags": [
-          "android",
-          "android 17",
-          "social media tips",
-          "habits"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6617
-      },
-      {
-        "id": "1c65f8a307ad4ac6",
-        "title": "Windows System Restore can easily eat gigabytes — I fixed it without turning it off",
-        "url": "https://www.makeuseof.com/reduce-system-restore-space-windows/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1789574415000,
-        "summary": "I fixed the storage leak without losing this safety net",
-        "tags": [
-          "windows",
-          "system restore"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6599
+        "score": 0.9047
       }
     ],
     "ai": [
+      {
+        "id": "b8bd50a14079c094",
+        "title": "‘We’re not stopping’: Salesforce UK&I CEO calls for greater training and skills as it continues on its “mission” to boost workers across the country",
+        "url": "https://www.techradar.com/pro/were-not-stopping-salesforce-uk-and-i-ceo-calls-for-greater-training-and-skills-as-it-continues-on-its-mission-to-boost-workers-across-the-country",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1789621500000,
+        "summary": "Salesforce UK&I CEO says greater AI skills and training can benefit users across the country.",
+        "tags": [
+          "pro",
+          "ai platforms & assistants"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9149
+      },
+      {
+        "id": "7a67580df44e2bba",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1789621200000,
+        "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+        "tags": [
+          "ai",
+          "fundraising",
+          "simulation",
+          "iceland",
+          "voice ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8038
+      },
+      {
+        "id": "a25833607a23fe14",
+        "title": "Sam Altman and Jensen Huang are among business leaders attending a White House state dinner for Xi Jinping next week; a source says Tim Cook will also attend (Bloomberg)",
+        "url": "https://www.techmeme.com/260917/p4#a260917p4",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1789620602000,
+        "summary": "Bloomberg: Sam Altman and Jensen Huang are among business leaders attending a White House state dinner for Xi Jinping next week; a source says Tim Cook will also attend — Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7142
+      },
+      {
+        "id": "4447150b730c37ae",
+        "title": "How AI startups like Inherent and Recursive Superintelligence are pursuing tools needed for AI systems to achieve recursive self-improvement (Cade Metz/New York Times)",
+        "url": "https://www.techmeme.com/260917/p1#a260917p1",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1789618202000,
+        "summary": "Cade Metz / New York Times: How AI startups like Inherent and Recursive Superintelligence are pursuing tools needed for AI systems to achieve recursive self-improvement — Jeff Clune, a computer scientist and co-founder of Recursive Superintelligence, one of the start-ups chasing “recursive self-improvement.”",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7614
+      },
+      {
+        "id": "5ebd53aab140ae69",
+        "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+        "url": "https://arxiv.org/abs/2609.17631",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication transition examined here. We develop Publication Authority as an exact-state, non-transferable, sing",
+        "tags": [
+          "cs.ai",
+          "cs.cr",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "cc13966b1117f76e",
+        "title": "Learning Heterogeneous Preferences",
+        "url": "https://arxiv.org/abs/2609.17847",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17847v1 Announce Type: new Abstract: Learning from human feedback has become a central paradigm for training modern AI systems, where models of human utility are used as reward models in policy learning. Existing methods typically assume a \\emph{universal utility} function shared across a population and treat disagreement between annotators as stochastic variation. While suitable for ob",
+        "tags": [
+          "cs.ai",
+          "cs.hc",
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "e53c32e798683e01",
+        "title": "ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software",
+        "url": "https://arxiv.org/abs/2609.17885",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17885v1 Announce Type: new Abstract: Computer-use agents that operate through screenshots and simulated actions are advancing rapidly, yet their evaluation remains anchored to general desktop and web tasks. Enterprise Resource Planning (ERP) systems run the finance, procurement, inventory, and customer operations of organizations worldwide, and pose distinct challenges for computer-use ",
+        "tags": [
+          "cs.ai",
+          "cs.cv",
+          "cs.ma"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "e8c25f82ef6e20f7",
+        "title": "Measuring AI Leadership: Development and Validation of a Multidimensional Measure for AI-Native Organizations",
+        "url": "https://arxiv.org/abs/2609.17965",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17965v1 Announce Type: new Abstract: AI is changing what leaders must judge, explain, learn, and coordinate, yet existing measures do not capture these behaviors at the level needed to study leadership in AI-enabled work. We develop the AI Leadership Battery, which organizes 36 behaviorally specific subdimensions into 11 theory-specified content families. Following established scale-dev",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.hc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "0512a3df4f00c8cc",
+        "title": "Memory Has Geometry: Non-Uniform Geometric Memory for Long-Horizon Personalized AI",
+        "url": "https://arxiv.org/abs/2609.17969",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17969v1 Announce Type: new Abstract: Long-term memory is becoming a core substrate for personalized AI, yet most systems still represent personalization as discrete records in a largely static latent space, accessed under one global similarity notion. For data mining, this creates a mismatch: the evidence is a temporal event stream, while the dominant abstraction is a searchable record ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "858ed6758d58a390",
+        "title": "When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI",
+        "url": "https://arxiv.org/abs/2609.17977",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17977v1 Announce Type: new Abstract: Emotion recognition in conversation (ERC) is a production capability behind agent-assist prompts, escalation routing, and post-call analytics in contact-center-as-a-service (CCaaS) platforms, where cost and latency constraints matter as much as accuracy. We report a systems-level comparison of three deployment options for dialogue-contextual ERC: a l",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "df8c8a211096b02f",
+        "title": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
+        "url": "https://arxiv.org/abs/2609.17564",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17564v1 Announce Type: new Abstract: Deploying retrieval-augmented generation (RAG) on commodity GPUs such as the NVIDIA T4 (16 GB VRAM) exposes a practical failure mode we call the Compression Paradox: neural prompt compression can add key-value (KV) cache contention and preprocessing latency that outweigh generation-time savings, while skipping compression can cause out-of-memory (OOM",
+        "tags": [
+          "cs.lg",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "e908e00633280d02",
+        "title": "Regularized Least Squares Training of Quadratic Neural Networks with Applications to System Identification",
+        "url": "https://arxiv.org/abs/2609.17654",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17654v1 Announce Type: new Abstract: This paper proposes a least squares approach for the training of quadratic neural networks with regularization. The proposed methodology yields a lower bound on the solution of the training optimization problem for the case where the regularization coefficient is positive. Moreover, it yields closed-form expressions for the approximate solution and i",
+        "tags": [
+          "cs.lg",
+          "cs.sy",
+          "eess.sy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "b59a16562a74d528",
+        "title": "Principled Koopman Representations with Kalman Inference for Efficient Time-Series Prediction",
+        "url": "https://arxiv.org/abs/2609.17815",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17815v1 Announce Type: new Abstract: The Koopman operator has been widely used for time-series prediction in dynamical systems. However, prior work that learns latent ``Koopman spaces'' using neural networks often did not construct a valid Koopman space for forecasting, as these representations may be mathematically inconsistent with the operator-theoretic formulation and fail to captur",
+        "tags": [
+          "cs.lg",
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "4843174a977f814d",
+        "title": "Symmetry without a manifold: intrinsic dimension on orbits",
+        "url": "https://arxiv.org/abs/2609.17926",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17926v1 Announce Type: new Abstract: The standard geometric derivation of neural scaling exponents takes the intrinsic dimension of a data manifold as its input. On modular addition in $\\mathbb{Z}_p$ that derivation has no input. The exact algebraic solution is an orbit of $\\mathbb{Z}_p$ acting by isometries. Transitivity alone makes the ratio statistic underlying the standard dimension",
+        "tags": [
+          "cs.lg",
+          "stat.ml"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "3f3326d62a34150d",
+        "title": "Locating Hidden Failures Makes Long-Horizon Agents More Reliable",
+        "url": "https://arxiv.org/abs/2609.17930",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17930v1 Announce Type: new Abstract: As AI agents take on long, autonomous tasks, we increasingly oversee rather than perform the work, yet we still judge them almost entirely by whether they finally succeed. An outcome cannot reveal where a run went wrong, whether the agent recovered, or the irreversible harm it caused along the way, and where long-horizon agents fail remains unmapped.",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "4b9fe6b284ef089f",
+        "title": "Regional Explanations via Causal Sufficiency and Necessity",
+        "url": "https://arxiv.org/abs/2609.18049",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.18049v1 Announce Type: new Abstract: Model explainability is essential for understanding and trusting machine learning models. Existing explainable AI methods often explain predictions through feature importance, counterfactual explanations, or rules. However, a region-level characterization of when and only when a prediction behavior arises remains less explored. This paper proposes Ca",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "7f07d83c160c4eb0",
+        "title": "OpenAI discovered an unreleased Astra model adding an \"unrelated persona instruction\" during RL training, but did not observe any behavioral differences (OpenAI)",
+        "url": "https://www.techmeme.com/260916/p56#a260916p56",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1789615848000,
+        "summary": "OpenAI: OpenAI discovered an unreleased Astra model adding an “unrelated persona instruction” during RL training, but did not observe any behavioral differences — Summary — We observed rare cases of a model writing jailbreak-like instructions into its own compaction summaries …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6962
+      },
+      {
+        "id": "3d3d29351da1856e",
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1789615800000,
+        "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+        "tags": [
+          "startups",
+          "ai",
+          "techcrunch disrupt"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.781
+      },
+      {
+        "id": "6a4a52576d7bf0e7",
+        "title": "OpenAI admits its agents went off the rails another six times",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/17/openai-admits-its-agents-went-off-the-rails-another-six-times/5297016",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1789612743000,
+        "summary": "Startup says it’s learned from these mistakes and that they shouldn’t happen again … which is just what Zuck has said about 100 times",
+        "tags": [
+          "ai and ml"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9986
+      },
+      {
+        "id": "c924e845269a18ba",
+        "title": "Google Home Stuns by Announcing AI Support for Claude and OpenClaw",
+        "url": "https://www.cnet.com/tech/services-and-software/google-home-stuns-by-announcing-ai-support-for-claude-and-openclaw/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1789605214000,
+        "summary": "Google is expanding its tools so you can invoke a variety of AI agents in your smart home.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.809
+      },
       {
         "id": "c6d6305ad47bb075",
         "title": "Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an \"anticipatory AI service\" (Jay Peters/The Verge)",
@@ -1961,7 +2261,41 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9687
+        "score": 0.8871
+      },
+      {
+        "id": "77478892b76f6de5",
+        "title": "OpenAI discloses six new AI misalignment incidents",
+        "url": "https://www.reddit.com/r/technology/comments/1wie8eq/openai_discloses_six_new_ai_misalignment_incidents/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1789603593000,
+        "summary": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6847
+      },
+      {
+        "id": "3f5b3596495b9d0b",
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1789602189000,
+        "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "tags": [
+          "ai",
+          "climate",
+          "ai data center",
+          "al gore",
+          "exclusive"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7261
       },
       {
         "id": "08844798032d36d7",
@@ -1980,7 +2314,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9912
+        "score": 0.9077
       },
       {
         "id": "d96ddf56af4e8f27",
@@ -1995,7 +2329,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2261
+        "score": 1.1229
       },
       {
         "id": "3e4f963d6827a110",
@@ -2013,7 +2347,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0484
+        "score": 0.9601
       },
       {
         "id": "fd2a36603e18d8e9",
@@ -2030,7 +2364,22 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7455
+        "score": 0.6827
+      },
+      {
+        "id": "5f15c2e8fdf704d2",
+        "title": "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
+        "url": "https://www.theregister.com/personal-tech/2026/09/17/if-a-mac-mini-is-agentic-overkill-try-this-glowing-pyramid-that-runs-personal-bots/5296964",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1789601339000,
+        "summary": "'Intern 2' offers an isolated environment and cloudy inference to automate your world",
+        "tags": [
+          "personal tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.9395
       },
       {
         "id": "1f4f958a78a4a1dd",
@@ -2045,7 +2394,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3416
+        "score": 1.2286
       },
       {
         "id": "b7c2a7e0b3c6dde6",
@@ -2061,7 +2410,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3751
+        "score": 1.2593
       },
       {
         "id": "dbfbe34e00529b5c",
@@ -2080,7 +2429,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1126
+        "score": 1.0189
       },
       {
         "id": "98440e5fe4f9f814",
@@ -2093,7 +2442,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6904
+        "score": 0.6322
       },
       {
         "id": "2551ad90c3fffcd6",
@@ -2108,7 +2457,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3505
+        "score": 1.2368
       },
       {
         "id": "efcd9480bcd1cc23",
@@ -2124,7 +2473,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2504
+        "score": 1.1451
       },
       {
         "id": "c3d68d9c75571b44",
@@ -2144,7 +2493,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2831
+        "score": 1.175
       },
       {
         "id": "274034a00cade0f1",
@@ -2162,7 +2511,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2774
+        "score": 1.1698
       },
       {
         "id": "a351453bf1e9e7ec",
@@ -2182,7 +2531,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1802
+        "score": 1.0808
       },
       {
         "id": "bafe1c73dfe0d22b",
@@ -2197,7 +2546,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2992
+        "score": 1.1898
       },
       {
         "id": "c1bfce98acf40a27",
@@ -2210,7 +2559,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7337
+        "score": 0.6719
       },
       {
         "id": "dc81c9262f1aabad",
@@ -2225,7 +2574,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2909
+        "score": 1.1822
       },
       {
         "id": "3837f1c7dfc5388e",
@@ -2240,7 +2589,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0727
+        "score": 0.9823
       },
       {
         "id": "bbaf50aa8029f4dd",
@@ -2260,7 +2609,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1674
+        "score": 1.0691
       },
       {
         "id": "ddf4a6bb84c0da51",
@@ -2279,7 +2628,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7543
+        "score": 0.6907
       },
       {
         "id": "a69ca266b81a7fe5",
@@ -2292,7 +2641,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6711
+        "score": 0.6146
       },
       {
         "id": "46a372d6028dc35d",
@@ -2310,7 +2659,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9957
+        "score": 0.9118
       },
       {
         "id": "1f1e5131eca42e81",
@@ -2330,7 +2679,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1586
+        "score": 1.061
       },
       {
         "id": "933eed9a40f51109",
@@ -2347,7 +2696,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9898
+        "score": 0.9064
       },
       {
         "id": "d0cba973e0a18ba9",
@@ -2362,7 +2711,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1542
+        "score": 1.057
       },
       {
         "id": "e4d372a2cec8e07b",
@@ -2382,7 +2731,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1507
+        "score": 1.0538
       },
       {
         "id": "0b402cc7776ee9f1",
@@ -2397,7 +2746,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.695
+        "score": 0.6365
       },
       {
         "id": "74b1506f997ae670",
@@ -2412,7 +2761,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0119
+        "score": 0.9267
       },
       {
         "id": "3c68d2e0b8e86c74",
@@ -2429,7 +2778,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1383
+        "score": 1.0424
       },
       {
         "id": "c6fa36cb204ae284",
@@ -2446,7 +2795,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1336
+        "score": 1.0381
       },
       {
         "id": "5eb1a62ae8e1e8d7",
@@ -2461,7 +2810,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0384
+        "score": 0.951
       },
       {
         "id": "91dc050ed06fcf4d",
@@ -2477,7 +2826,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2704
+        "score": 1.1633
       },
       {
         "id": "66dacfcb08a3a2fb",
@@ -2494,7 +2843,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7528
+        "score": 0.6894
       },
       {
         "id": "9656667a2abac7d8",
@@ -2510,7 +2859,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2645
+        "score": 1.158
       },
       {
         "id": "28bc35c44c899030",
@@ -2523,7 +2872,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6936
+        "score": 0.6352
       },
       {
         "id": "95b1ca9c1dcad286",
@@ -2540,7 +2889,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7161
+        "score": 0.6557
       },
       {
         "id": "c00fed4fe2d6f0c5",
@@ -2556,399 +2905,173 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7462
-      },
-      {
-        "id": "c3334569b20e0767",
-        "title": "iOS 27.2 Adds Siri AI in New Languages",
-        "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1789582699000,
-        "summary": "In the iOS 27.2 beta, Apple Siri AI is available in new languages, including French, Japanese, Korean, Portuguese, and Spanish. In the launch version of iOS 27, ‌Siri‌ AI is limited to English. Apple previously said that new ‌Siri‌ AI languages would be coming in October, so that likely means iOS 27.2 will see an October launch. Related Roundups: iOS 27, iPadOS 27Tag: SiriRelated Forum: iOS 27This",
-        "tags": [
-          "ios 27",
-          "siri"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1939
-      },
-      {
-        "id": "7b9709f07d46b2fe",
-        "title": "The Specialized Diverge Pro 4 makes rough gravel your playground",
-        "url": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1789582313000,
-        "summary": "The Diverge Pro 4 is happiest when the road gets ugly.",
-        "tags": [
-          "reviews",
-          "cycling",
-          "gravel bike",
-          "specalized",
-          "specialized diverge pro 4",
-          "sram"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1032
-      },
-      {
-        "id": "c83407c6bfa766db",
-        "title": "AI reveals novel nighttime feeding behaviors in right whales",
-        "url": "https://phys.org/news/2026-09-ai-reveals-nighttime-behaviors-whales.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1789581603000,
-        "summary": "Right whales forage near the water's surface at night, putting them at greater risk of potentially fatal collisions with boats, Jay Kirkham at Dalhousie University, Canada, and colleagues report Sept. 16, 2026, in the journal PLOS ONE.",
-        "tags": [
-          "plants & animals"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2107
-      },
-      {
-        "id": "5712a92aa40829c9",
-        "title": "We may soon be able to read long-lost ancient scrolls damaged by the eruption of Mount Vesuvius",
-        "url": "https://phys.org/news/2026-09-lost-ancient-scrolls-eruption-mount.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1789581601000,
-        "summary": "X-ray technology and artificial intelligence—along with the discovery of lead in the ink of fragments from a collection of ancient Roman scrolls—could soon help scientists read long-lost texts buried by the eruption of Mount Vesuvius in 79 CE, according to a study published Sept. 16, 2026, in the journal PLOS One by Douglas Seiler, an affiliate of the University of California, Berkeley, U.S.; Jaco",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.121
-      },
-      {
-        "id": "587ac03dfc6fe892",
-        "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
-        "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1789580040000,
-        "summary": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing its development. \"Run as fast as you can.\" Amodei is calling for three courses of action: embedding third-party evaluators inside AI companies; coordinating safety standards among Democratic countries;",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.2359
-      },
-      {
-        "id": "12b101d71634d422",
-        "title": "I stopped re-explaining myself to Claude and Gemini by giving them one shared memory",
-        "url": "https://www.makeuseof.com/i-stopped-re-explaining-myself-to-claude-gemini-giving-shared-memory/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1789579814000,
-        "summary": "Sharing memory between AI assistants works, just not equally well.",
-        "tags": [
-          "productivity",
-          "claude",
-          "google gemini"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7336
-      },
-      {
-        "id": "8736cfdd4f30ff09",
-        "title": "Salesforce is expanding its Missionforce defense AI agent platform with new Nvidia and OpenAI capabilities to tackle the US government's 'toughest challenges'",
-        "url": "https://www.techradar.com/pro/salesforce-is-expanding-its-missionforce-defense-ai-agent-platform-with-new-nvidia-and-openai-capabilities-to-tackle-the-us-governments-toughest-challenges",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1789579276000,
-        "summary": "Salesforce expands Missionforce with new AI capabilities, OpenAI partnership and more.",
-        "tags": [
-          "pro",
-          "ai platforms & assistants"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9964
-      },
-      {
-        "id": "d28e602c4a622504",
-        "title": "Apple might make servers again to cash in on the AI rush",
-        "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1789579229000,
-        "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to […]",
-        "tags": [
-          "ai",
-          "apple",
-          "apple rumors",
-          "news",
-          "nvidia",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7425
-      },
-      {
-        "id": "efad855758b2235e",
-        "title": "Apple’s Health App Hits Developer Beta. I Got the Inside Scoop From Apple’s VP of Health and Fitness",
-        "url": "https://www.cnet.com/health/apple-health-app-hits-developer-beta-inside-scoop-apple-vp-health/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1789579059000,
-        "summary": "From readiness, longevity and AI insights to blood tests and movement assessments, we covered everything about the Health app’s redesign.",
-        "tags": [
-          "wellness"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9601
-      },
-      {
-        "id": "3795d0e596686c50",
-        "title": "Apple Releases First iOS 27.2 Beta",
-        "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1789578852000,
-        "summary": "Apple today seeded the first beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming just two days after the iOS 27 launch. Apple also seeded an iPadOS 27.2 beta. Registered developers can download the beta updates by opting in under Settings > General > Software Update and selecting the ‌iOS 27‌ developer beta. Siri AI will be available in new languages late",
-        "tags": [
-          "featured",
-          "ios 27"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1696
-      },
-      {
-        "id": "c746a506c75a0550",
-        "title": "Apple Releases First watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
-        "url": "https://www.macrumors.com/2026/09/16/apple-releases-watchos-27-2/",
-        "source": "Mac Rumors",
-        "lane": "ai",
-        "published_ts": 1789578720000,
-        "summary": "Alongside new betas of iOS 27.2, iPadOS 27.2, and macOS Golden Gate 27.2, Apple has released the first betas of watchOS 27.2, tvOS 27.2, and visionOS 27.2. The betas come two days after the 27.0 software updates were released. Registered developers can download the betas through the Settings app on each device. Two new Apple Intelligence features are coming to the Apple Watch Series 12 and Apple W",
-        "tags": [
-          "apple tv",
-          "vision pro",
-          "watchos"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1688
-      },
-      {
-        "id": "93b3f9ca246317c5",
-        "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-        "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1789578366000,
-        "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
-        "tags": [
-          "policy",
-          "censorship",
-          "first amendment",
-          "free speech",
-          "ice",
-          "immigration and customs enforcement"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0801
-      },
-      {
-        "id": "af7c77ac56f7ec07",
-        "title": "Google Photos buried its manual editing tools under AI, so I switched back to Snapseed",
-        "url": "https://www.androidpolice.com/google-photos-editing-tools-snapseed-features-comparison/",
-        "source": "Android Police",
-        "lane": "ai",
-        "published_ts": 1789578010000,
-        "summary": "I wanted less AI and more control over my photo editing",
-        "tags": [
-          "snapseed",
-          "google photos",
-          "utilities",
-          "google photos",
-          "snapseed"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1643
-      },
-      {
-        "id": "ed97c6a449c01f2e",
-        "title": "Google will now let any AI agent run your smart home",
-        "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1789578000000,
-        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on […]",
-        "tags": [
-          "ai",
-          "google",
-          "news",
-          "smart home",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7377
-      },
-      {
-        "id": "9e246071258a3b1b",
-        "title": "Your AI agents can now control your Google Home devices",
-        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1789578000000,
-        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-        "tags": [
-          "ai",
-          "gadgets",
-          "hardware",
-          "google",
-          "google home",
-          "mcp"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6967
-      },
-      {
-        "id": "a6ca7ecfd4823752",
-        "title": "You can now let AI handle the setup of your Meta WhatsApp Business chats",
-        "url": "https://www.techradar.com/pro/you-can-now-let-ai-handle-the-setup-of-your-meta-whatsapp-business-chats",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1789577100000,
-        "summary": "A new MCP server means Clade, Codex and ChatGPT can access your WhatsApp Business to set up an account.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9849
-      },
-      {
-        "id": "1cc5b735947ffb3e",
-        "title": "DOD CTO Emil Michael says the Trump administration shouldn't nationalize or take stakes in AI companies and signals opposition to regulatory oversight of them (Kevin Breuninger/CNBC)",
-        "url": "https://www.techmeme.com/260916/p38#a260916p38",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1789576504000,
-        "summary": "Kevin Breuninger / CNBC: DOD CTO Emil Michael says the Trump administration shouldn't nationalize or take stakes in AI companies and signals opposition to regulatory oversight of them — Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6653
-      },
-      {
-        "id": "e5d6a6c643f72c38",
-        "title": "Anthropic Simplifies Claude’s Cowork and Design Tools",
-        "url": "https://www.cnet.com/tech/services-and-software/anthropic-claude-simplify-interface-cowork-design-ai-news/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1789576200000,
-        "summary": "You can create documents, slides and design schemas all within the main Claude window now.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.7004
-      },
-      {
-        "id": "258da6a8519b44ef",
-        "title": "Claude comes for Gemini with its own take on Docs and Slides",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1789576200000,
-        "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6765
-      },
-      {
-        "id": "bd7f86156dd75a71",
-        "title": "Anthropic merges Claude chat and Cowork in one interface",
-        "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1789576200000,
-        "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
-        "tags": [
-          "ai",
-          "anthropic",
-          "claude",
-          "claude cowork"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6389
-      },
-      {
-        "id": "0d11909756515b5c",
-        "title": "Anthropic's Claude can now create editable documents for you",
-        "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1789576200000,
-        "summary": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6013
-      },
-      {
-        "id": "ffea90530e9c412a",
-        "title": "AI Agent Platform Reinvents Spam, Floods Inboxes Worldwide | iLands and its AI agents are doing completely useless tasks, then begging for money",
-        "url": "https://www.reddit.com/r/technology/comments/1wi24x8/ai_agent_platform_reinvents_spam_floods_inboxes/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1789576147000,
-        "summary": "submitted by /u/Hrmbee [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6456
-      },
-      {
-        "id": "956b0e6770c9379a",
-        "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-        "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1789574400000,
-        "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
-        "tags": [
-          "gadgets",
-          "startups",
-          "ai wearables",
-          "founders fund",
-          "hearing aids",
-          "thrive capital"
-        ],
-        "paywall": false,
-        "impact": "normal",
         "score": 0.6834
       }
     ],
     "science": [
+      {
+        "id": "735c6dd5bb976e7f",
+        "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+        "url": "https://arxiv.org/abs/2609.17635",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false data injection for city-scale pedestrian sensing, where the map from latent flow to observation is far ",
+        "tags": [
+          "cs.ai",
+          "cs.cr"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "e5058da9c3089299",
+        "title": "Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications",
+        "url": "https://arxiv.org/abs/2609.17638",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17638v1 Announce Type: new Abstract: This is the set of lecture notes for the PhD course \\href{https://www.unibz.it/en/faculties/engineering/phd-computer-science/study-course-offering/2025/36967}{\\textit{Physics Informed Neural Network}, held at the University of Bozen/Bolzano} in the academic year 2025/2026. The goal of the course was to introduce the concept of Physics Informed Deep N",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.ce",
+          "physics.comp-ph"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "e15747d7caefd0e7",
+        "title": "SAM-on-the-Curve: Sharpness-Aware Mode Connectivity for Robust Weight-Space Interpolation",
+        "url": "https://arxiv.org/abs/2609.17748",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17748v1 Announce Type: new Abstract: Deep neural networks that are independently trained to similar performance can be connected by low-loss parametric curves in weight space, a phenomenon known as Mode Connectivity (MC). This geometric property underpins practical techniques such as weight averaging, model ensembling, and model merging. We argue that low-loss connectivity is an incompl",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "43737a21e10487c9",
+        "title": "NObSP: Functional Decomposition of Neural Networks via Oblique Subspace Projections",
+        "url": "https://arxiv.org/abs/2609.17825",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17825v1 Announce Type: new Abstract: Understanding how deep neural networks make decisions remains a fundamental challenge. We present NObSP (Nonlinear Oblique Subspace Projections), a framework that decomposes predictions into explicit per feature contribution functions and an interaction residual. NObSP exploits the linear final layer of a trained network and uses oblique projections ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "d46e177e9669c2d3",
+        "title": "Hybrid coupling with numerics-informed neural networks and the overlapping Schwarz alternating method",
+        "url": "https://arxiv.org/abs/2609.17841",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17841v1 Announce Type: new Abstract: We develop a hybrid modeling framework for coupling pre-trained numerics-informed neural networks (NINNs) with classical full order models (FOMs) using the overlapping Schwarz alternating method. We consider the two-dimensional advection-diffusion equation in the advection-dominated, Peclet-number 10^6 regime. We first demonstrate that, unlike the co",
+        "tags": [
+          "cs.lg",
+          "math-ph",
+          "math.mp"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3836
+      },
+      {
+        "id": "c3f04a8a741023b7",
+        "title": "SNOMED CT Concept Recommendation from Masked Clinical Context",
+        "url": "https://arxiv.org/abs/2609.17855",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17855v1 Announce Type: new Abstract: Standardizing clinical language to SNOMED CT supports interoperability, analytics, and reusable phenotyping, but concept recommendation remains difficult when relevant concepts are rare or absent from training data. We present a masked-concept recommendation benchmark using the SNOMED CT Entity Linking Challenge v1.2.1 data derived from MIMIC-IV-Note",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "098dfd80ebfd2ac5",
+        "title": "Time-Aligned Evolving Concept Graphs for Scientific Relation Forecasting",
+        "url": "https://arxiv.org/abs/2609.18163",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.18163v1 Announce Type: new Abstract: Forecasting scientific relations can guide discovery by identifying promising connections before they emerge. Existing approaches often model concept semantics and graph structure separately or summarize semantics over coarse historical snapshots, leaving semantic representations potentially misaligned with rapidly evolving graph evidence. We propose",
+        "tags": [
+          "cs.ai",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "b2bd8ee583dd663a",
+        "title": "Uncertainty-Aware Continual Learning for Open-World Intent Discovery Under an evolving Label Space",
+        "url": "https://arxiv.org/abs/2609.17866",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17866v1 Announce Type: new Abstract: Real-world intelligent systems increasingly operate under open-world conditions, where user intents are not fixed or exhaustively known a priori and may evolve as new interaction patterns emerge. This paper proposes a unified uncertainty-aware probabilistic framework for continual new intent discovery under an evolving label space. Each utterance is ",
+        "tags": [
+          "cs.lg",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "2e663485e3f2c69b",
+        "title": "The Attention Within: Consensus Dynamics in Selective State Space Models",
+        "url": "https://arxiv.org/abs/2609.17997",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1789617600000,
+        "summary": "arXiv:2609.17997v1 Announce Type: new Abstract: Selective state space models (SSMs) have recently emerged as a compelling alternative to transformers, combining competitive performance with substantially improved inference efficiency. At each SSM layer, a sequence of hidden states are propagated by a recurrence, mixing information of different tokens. Despite using a different mechanism, this mixi",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.sy",
+          "eess.sy",
+          "math.ds",
+          "math.oc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2811
+      },
+      {
+        "id": "1b83f4b0b819e800",
+        "title": "Adafruit's New CircuitPython 'Turbo' Brings Native Code To Tiny Boards",
+        "url": "https://news.slashdot.org/story/26/09/15/0149250/adafruits-new-circuitpython-turbo-brings-native-code-to-tiny-boards?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "source": "Slashdot",
+        "lane": "science",
+        "published_ts": 1789612440000,
+        "summary": "Targeting students and beginners, Adafruit released \"CircuitPython\" in 2017 (as a derivative of the MicroPython microcontroller-optimized programming language). Now Adafruit managing director Phillip Torrone (also long-time Slashdot reader ptorrone) brings this update: Adafruit has published CircuitPython Turbo, a workflow that compiles selected Python functions into native machine code on a compu",
+        "tags": [
+          "opensource"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2462
+      },
       {
         "id": "18ffe64e7c8a0f8e",
         "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
@@ -2965,7 +3088,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9198
+        "score": 0.8423
       },
       {
         "id": "b9645aec06ea2f03",
@@ -2980,7 +3103,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3502
+        "score": 1.2365
       },
       {
         "id": "ec986fb4dfc266dd",
@@ -2995,7 +3118,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3459
+        "score": 1.2325
       },
       {
         "id": "2d43c40d58f31cc5",
@@ -3010,7 +3133,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2704
+        "score": 1.1633
       },
       {
         "id": "0bed8cb7cd8d0894",
@@ -3025,7 +3148,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2422
+        "score": 1.1375
       },
       {
         "id": "fbcc547332760f03",
@@ -3041,7 +3164,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1836
+        "score": 1.0839
       },
       {
         "id": "cf22aa7f28063d1c",
@@ -3056,7 +3179,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2224
+        "score": 1.1194
       },
       {
         "id": "50e524297464f7b4",
@@ -3071,7 +3194,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6659
+        "score": 0.6098
       },
       {
         "id": "b09d2f85dbe4686f",
@@ -3086,7 +3209,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1952
+        "score": 1.0945
       },
       {
         "id": "8be4a6bf28390656",
@@ -3101,7 +3224,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2147
+        "score": 1.1124
       },
       {
         "id": "365e11551f8575cb",
@@ -3116,7 +3239,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1354
+        "score": 1.0397
       },
       {
         "id": "40dacfb32a55009d",
@@ -3131,7 +3254,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1066
+        "score": 1.0134
       },
       {
         "id": "68649dd99041c665",
@@ -3146,7 +3269,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0433
+        "score": 0.9554
       },
       {
         "id": "9c7005082cbdcdd6",
@@ -3161,7 +3284,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.018
+        "score": 0.9323
       },
       {
         "id": "2b64e26afd777202",
@@ -3176,7 +3299,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.018
+        "score": 0.9323
       },
       {
         "id": "b55f65a840ed59bd",
@@ -3191,7 +3314,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0044
+        "score": 0.9197
       },
       {
         "id": "75e60864bfd73685",
@@ -3206,7 +3329,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9672
+        "score": 0.8857
       },
       {
         "id": "cf1edeb7d9e48175",
@@ -3222,7 +3345,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9518
+        "score": 0.8716
       },
       {
         "id": "da62fe31a3925368",
@@ -3237,7 +3360,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9518
+        "score": 0.8716
       },
       {
         "id": "56a5085bea478a34",
@@ -3253,7 +3376,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8813
+        "score": 0.807
       },
       {
         "id": "f5298a5f7beaf6fe",
@@ -3268,7 +3391,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8813
+        "score": 0.807
       },
       {
         "id": "77ca41dc378682f4",
@@ -3285,7 +3408,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8813
+        "score": 0.807
       },
       {
         "id": "b51079c4ca08ca6f",
@@ -3301,7 +3424,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8813
+        "score": 0.807
       },
       {
         "id": "4019eda64b13e2be",
@@ -3317,7 +3440,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8813
+        "score": 0.807
       },
       {
         "id": "9d3328bdecf755d3",
@@ -3332,7 +3455,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8813
+        "score": 0.807
       },
       {
         "id": "2731317a7ada5119",
@@ -3347,7 +3470,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8954
+        "score": 0.82
       },
       {
         "id": "ffe85f90c8e36498",
@@ -3360,7 +3483,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9652
+        "score": 0.8839
       },
       {
         "id": "28149bb6c5939c6f",
@@ -3373,7 +3496,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9652
+        "score": 0.8839
       },
       {
         "id": "2abfe045a27f0d42",
@@ -3386,7 +3509,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9652
+        "score": 0.8839
       },
       {
         "id": "c6fe35e64600e78e",
@@ -3399,7 +3522,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9652
+        "score": 0.8839
       },
       {
         "id": "952ddde3c5c69d77",
@@ -3412,7 +3535,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9652
+        "score": 0.8839
       },
       {
         "id": "a840e712d47e5b67",
@@ -3425,7 +3548,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9652
+        "score": 0.8839
       },
       {
         "id": "cb75c60f07bb8e2a",
@@ -3438,7 +3561,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8937
+        "score": 0.8184
       },
       {
         "id": "9e90efa5a4f2fdcf",
@@ -3451,7 +3574,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8937
+        "score": 0.8184
       },
       {
         "id": "749e87b05641d1c7",
@@ -3471,7 +3594,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7541
+        "score": 0.6906
       },
       {
         "id": "a8b41304f3ff5579",
@@ -3486,7 +3609,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.4205
+        "score": 0.3851
       },
       {
         "id": "85c1fe42fe7d0dd9",
@@ -3501,7 +3624,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7926
+        "score": 0.7258
       },
       {
         "id": "dae98f3527e058e2",
@@ -3516,7 +3639,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.78
+        "score": 0.7143
       },
       {
         "id": "5fafa3765f01685e",
@@ -3531,7 +3654,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.742
+        "score": 0.6795
       },
       {
         "id": "96b28756e4bf1e0f",
@@ -3551,7 +3674,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7593
+        "score": 0.6954
       },
       {
         "id": "95ccba974ec0fa15",
@@ -3566,7 +3689,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.77
+        "score": 0.7052
       },
       {
         "id": "0f0a377072762c20",
@@ -3584,7 +3707,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.4164
+        "score": 0.3814
       },
       {
         "id": "7cebd6f384612116",
@@ -3599,7 +3722,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.753
+        "score": 0.6895
       },
       {
         "id": "3e09fe5a919e0100",
@@ -3619,7 +3742,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.4076
+        "score": 0.3732
       },
       {
         "id": "6734a0f079cf86a5",
@@ -3639,7 +3762,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.4076
+        "score": 0.3732
       },
       {
         "id": "85a7d8b9c59dcc99",
@@ -3654,7 +3777,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7481
+        "score": 0.6851
       },
       {
         "id": "3e40a18b4f2d859b",
@@ -3669,7 +3792,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.3742
+        "score": 0.3427
       },
       {
         "id": "1784d4e6e56ebbda",
@@ -3684,7 +3807,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7292
+        "score": 0.6678
       },
       {
         "id": "9e513e9bf856bc2c",
@@ -3702,7 +3825,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.3853
+        "score": 0.3528
       },
       {
         "id": "44678465b154a402",
@@ -3722,173 +3845,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6887
-      },
-      {
-        "id": "30986a627ff5620a",
-        "title": "EPA seeks to eliminate remaining greenhouse-gas rules for power plants",
-        "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1789479831000,
-        "summary": "EPA says power plant emissions have no material impact on climate change.",
-        "tags": [
-          "policy",
-          "science",
-          "carbon pollution standards",
-          "clean air act",
-          "coal",
-          "epa"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.6887
-      },
-      {
-        "id": "df6f1afb0b207cbb",
-        "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-        "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-        "source": "Ars Technica Science",
-        "lane": "science",
-        "published_ts": 1789475771000,
-        "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
-        "tags": [
-          "science",
-          "atlantic hurricane season",
-          "science",
-          "tropics"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.4992
-      },
-      {
-        "id": "8128420f82ab0990",
-        "title": "Degraded but Not Entirely Ineffective: PE-Based Deformable Graph Neural Networks",
-        "url": "https://arxiv.org/abs/2609.13712",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13712v1 Announce Type: new Abstract: Many real-world scenarios can be represented using graph-structured data. However, traditional GNNs that transmit messages based on first-order neighbors have long faced several fundamental contradictions: increasing depth leads to over-smoothing, long-range dependencies cause over-compression, fixed neighborhoods restrict the receptive field, and on",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5996
-      },
-      {
-        "id": "4043df7adb5195d9",
-        "title": "A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training",
-        "url": "https://arxiv.org/abs/2609.13171",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13171v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) use automatic differentiation to impose differential-equation residuals, but good agreement in function values does not necessarily imply accurate derivatives. This paper formulates derivative fidelity as a failure mode of PINNs and tests it with one-dimensional benchmarks. Multilayer perceptrons are trained o",
-        "tags": [
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5996
-      },
-      {
-        "id": "557cef4842e7aecf",
-        "title": "Land Art as a Big-Data Climate Sensor",
-        "url": "https://arxiv.org/abs/2609.13182",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13182v1 Announce Type: new Abstract: Robert Smithson's 1970 land artwork Spiral Jetty, located in the north arm of Utah's Great Salt Lake, has alternated between submergence and exposure during severe lake decline. We analyze 1,744 co-registered Landsat 4-9 and Sentinel-2 image chips spanning every year and calendar month from 1984 to 2025. A 14-feature complexity signature combines Sha",
-        "tags": [
-          "cs.lg",
-          "cs.cv",
-          "physics.ao-ph"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5996
-      },
-      {
-        "id": "314290d09aef46cb",
-        "title": "Cost Characterization of Vertically Partitioned Federated Knowledge Graphs",
-        "url": "https://arxiv.org/abs/2609.13664",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13664v1 Announce Type: new Abstract: Knowledge graphs are increasingly distributed across autonomous organizations that share an entity space but own disjoint subsets of relations, forming a vertical partition. Answering a multi-hop query may require combining facts from several silos, making the partitioning strategy a key data management decision that affects communication, indexing, ",
-        "tags": [
-          "cs.ai",
-          "cs.db",
-          "cs.ir"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5552
-      },
-      {
-        "id": "448007b5807f87b7",
-        "title": "MANAS-2: Constrained Reconstruction for EEG Foundation Models",
-        "url": "https://arxiv.org/abs/2609.13717",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13717v1 Announce Type: new Abstract: Masked reconstruction is widely used for EEG foundation models, but optimizing reconstruction on low-SNR waveforms does not necessarily produce the most useful latent representation. We introduce MANAS-2, a new EEG foundation model that combines a Raw-Band Hybrid (RBH) masked autoencoder with Constrained Reconstruction (ConRec), a physics-motivated r",
-        "tags": [
-          "cs.ai",
-          "cs.lg"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5552
-      },
-      {
-        "id": "d1f6274a4adcb9a9",
-        "title": "How Many Thoughts Can a Vector Hold? The Capacity of Reasoning by Superposition",
-        "url": "https://arxiv.org/abs/2609.13747",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13747v1 Announce Type: new Abstract: Large language models solve hard problems through intermediate computations across multi-step reasoning. Traditional chain-of-thought encodes these computations as tokens. Recent continuous and recurrent methods instead move partial computations into fixed-dimensional latent states, where a single thought can superpose multiple alternatives. This rai",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5552
-      },
-      {
-        "id": "28f8a50b6f4b1d8f",
-        "title": "Diagnosing Faults in Reinforcement Learning Simulators and World Models with Canonical Polynomial Invariants",
-        "url": "https://arxiv.org/abs/2609.13194",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13194v1 Announce Type: new Abstract: A large literature builds physical structure into learned dynamics on the premise that models respecting the underlying physics predict better. We test that premise using exact polynomial invariants recovered from trajectories and canonicalised as reduced Gr\\\"obner bases over $\\mathbb{Q}$. On Acrobot, exactness provides little benefit for prediction:",
-        "tags": [
-          "cs.lg",
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5552
-      },
-      {
-        "id": "15b185b38df32439",
-        "title": "Curvature-Independent Regret Bounds for Distributed Online Optimization on Hadamard Manifolds",
-        "url": "https://arxiv.org/abs/2609.13646",
-        "source": "arXiv cs.LG",
-        "lane": "science",
-        "published_ts": 1789444800000,
-        "summary": "arXiv:2609.13646v1 Announce Type: new Abstract: This work addresses decentralized online Riemannian optimization on Hadamard manifolds. Prior work under geodesic convexity (g-convexity) may require curvature information in the optimization analysis, typically through a finite lower bound on the sectional curvature. Curvature may also enter the step size or contraction factor of tangent-space Riema",
-        "tags": [
-          "cs.lg",
-          "math.oc",
-          "stat.ml"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5552
+        "score": 0.6307
       }
     ]
   },
