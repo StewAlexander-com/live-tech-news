@@ -1,7 +1,606 @@
 {
-  "generated_at": "2026-10-01T09:07:59.610268+00:00",
+  "generated_at": "2026-10-01T13:47:30.758980+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "17b2e04ea097e2cb",
+        "title": "AOC has a 1,000Hz gaming monitor, but do you need that high a refresh rate?",
+        "url": "https://www.techradar.com/computing/monitors/aoc-reveals-a-1-000hz-gaming-monitor-but-do-you-really-need-anything-like-that-high-a-refresh-rate",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1790862007000,
+        "summary": "AOC launches a 1,000Hz gaming monitor, while debate rages about whether it's complete overkill.",
+        "tags": [
+          "monitors",
+          "computing",
+          "peripherals & accessories"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.06
+      },
+      {
+        "id": "260f2b1fbcfd2760",
+        "title": "My Android Auto setup runs fully offline, even on long road trips",
+        "url": "https://www.androidpolice.com/my-android-auto-setup-runs-fully-offline/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1790861410000,
+        "summary": "My Android Auto never depends on data anymore, and it has changed how I drive long distances",
+        "tags": [
+          "android auto",
+          "google",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2431
+      },
+      {
+        "id": "2fae757d6fef1730",
+        "title": "What even is a ‘microdrama’?",
+        "url": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1790861400000,
+        "summary": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Though Neighbours ran for 41 seasons from 1985 to 2025, at launch, RoseBerry is only recutting two storylines from the late aughts focused on […]",
+        "tags": [
+          "analysis",
+          "creators",
+          "entertainment",
+          "film",
+          "report",
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0632
+      },
+      {
+        "id": "7ba86daf1751ff53",
+        "title": "Samsung just pulled the plug on its newest audio app",
+        "url": "https://www.androidpolice.com/im-going-with-samsung-just-pulled-the-plug-on-its-newest-audio-app/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1790861113000,
+        "summary": "It's not all bad news, though",
+        "tags": [
+          "samsung",
+          "applications"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2411
+      },
+      {
+        "id": "67933d220a48a489",
+        "title": "Amazon's Kindle just got a major upgrade: faster speeds, aluminum shell, and a long-awaited page turner",
+        "url": "https://www.androidpolice.com/the-kindle-is-now-available-in-aluminum-for-the-first-time-ever/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1790859610000,
+        "summary": "The Kindle is finally getting a build to match its higher price",
+        "tags": [
+          "amazon kindle",
+          "tablets",
+          "amazon kindle"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2312
+      },
+      {
+        "id": "7592e03962c610ba",
+        "title": "HP boards the MacBook Neo competitor train — OmniBook 5 comes in four colors with Wildcat Lake and starts at $699.99",
+        "url": "https://www.tomshardware.com/laptops/hp-boards-the-macbook-neo-competitor-train-omnibook-5-comes-in-four-colors-with-wildcat-lake-and-starts-at-usd699-99",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "The new HP OmniBook 5 (14-inch) uses Wildcat Lake and a variety of colors to compete with the MacBook Neo.",
+        "tags": [
+          "laptops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1695
+      },
+      {
+        "id": "648df45b9c039091",
+        "title": "Gears of War: E-Day PC graphics performance tested",
+        "url": "https://www.tomshardware.com/video-games/pc-gaming/gears-of-war-e-day-pc-graphics-performance-tested-43-gpus-take-us-back-to-the-start-of-an-iconic-saga",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Gears of War: E-Day is the first game to implement Unreal Engine's MegaLights technology, allowing for hundreds of dynamic ray-traced light sources in a scene. We put it to the test on 43 graphics cards to see what this next-gen feature demands across three generations of GPUs from Nvidia, AMD, and Intel.",
+        "tags": [
+          "gpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1695
+      },
+      {
+        "id": "cdebdf9dc21971d6",
+        "title": "Gears of War E-Day is an uncharacteristically CPU-heavy Unreal Engine 5 game — benchmarking 25 CPUs from Intel and AMD and investigating ‘low core mode’",
+        "url": "https://www.tomshardware.com/pc-components/cpus/gears-of-war-e-day-is-an-uncharacteristically-cpu-heavy-unreal-engine-5-game-benchmarking-25-cpus-from-intel-and-amd-and-investigating-low-core-mode",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Gears of War E-Day is a surprisingly heavy Unreal Engine 5 game on the CPU. We benchmarked the game with 25 processors, as well as investigated what the “low core mode” actually does.",
+        "tags": [
+          "cpus",
+          "pc components"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1695
+      },
+      {
+        "id": "e1dceddfa1d0f521",
+        "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+        "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 \"Wildcat Lake\" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar, being in lockstep with both Apple's Neo and its recent competition […]",
+        "tags": [
+          "gadgets",
+          "hp",
+          "laptops",
+          "microsoft",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.053
+      },
+      {
+        "id": "55a0204e334d1109",
+        "title": "Keurig Alta system swaps plastic pods for compressed coffee tabs",
+        "url": "https://www.techradar.com/home/coffee-machines/keurigs-biggest-upgrade-in-years-swaps-plastic-k-cups-for-eco-friendly-compressed-coffee-tablets-that-brew-espresso-lattes-and-more",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "AltaRounds are fully compostable, and are a big change from plastic and foil K-Cups when it comes to single-serve coffee.",
+        "tags": [
+          "coffee machines",
+          "home",
+          "small appliances"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0464
+      },
+      {
+        "id": "26a850d5d774c441",
+        "title": "‘Carrie’ Review: Mike Flanagan’s Remake Is a Timely (and Terrifying) High School Tragedy",
+        "url": "https://www.cnet.com/tech/services-and-software/carrie-review-mike-flanagan-stephen-king-prime-video/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Prime Video’s Carrie is a poignant, emotional retelling of Stephen King’s classic horror story.",
+        "tags": [
+          "streaming services"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0095
+      },
+      {
+        "id": "727a20997e29369c",
+        "title": "Gears of War: E-Day is a great game launching at a terrible time",
+        "url": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years since the original Gears […]",
+        "tags": [
+          "entertainment",
+          "games review",
+          "gaming",
+          "microsoft",
+          "tech",
+          "xbox"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.78
+      },
+      {
+        "id": "1898728ef57e919f",
+        "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+        "url": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Paperwhite, and Kindle Colorsoft are a millimeter thinner and 30 percent faster at opening books, and their power buttons have moved from the bottom to the right […]",
+        "tags": [
+          "amazon",
+          "news",
+          "tech"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.78
+      },
+      {
+        "id": "03d2819e56a4f47b",
+        "title": "Amazon’s Carrie is a cyberbullying nightmare",
+        "url": "https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful adaptations that followed in […]",
+        "tags": [
+          "amazon",
+          "entertainment",
+          "streaming",
+          "tech",
+          "tv show reviews",
+          "tv shows"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.78
+      },
+      {
+        "id": "ff9fae6665d127ec",
+        "title": "The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader",
+        "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+        "source": "TechCrunch",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
+        "tags": [
+          "gadgets",
+          "hardware",
+          "e-reader",
+          "kindle"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7367
+      },
+      {
+        "id": "570ed2f19c2050cc",
+        "title": "Amazon introduces new Kindle Paperwhite, Colorsoft and entry-level models",
+        "url": "https://www.engadget.com/2274300/amazon-launches-new-kindle-paperwhite-colorsoft-models-late-2026/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Amazon's new Kindle e-readers come with flat-surface displays and new colors.",
+        "tags": [
+          "tablets"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6933
+      },
+      {
+        "id": "f5de91452ba5ce46",
+        "title": "HP's Omnibook 5 features an OLED screen and costs $699",
+        "url": "https://www.engadget.com/2273550/hps-omnibook-5-features-an-oled-screen-and-costs-dollar699/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "It also lasts up to 42 hours on a single charge.",
+        "tags": [
+          "laptops"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6933
+      },
+      {
+        "id": "696b733cdd6cde6b",
+        "title": "Neurable launches its newest brain-scanning headphones",
+        "url": "https://www.engadget.com/2271652/neurable-one-eeg-headphones/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "Neurable is launching a new pair of EEG-equipped headphones to keep an eye on your brainwaves while you work, rest and play.",
+        "tags": [
+          "news"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6933
+      },
+      {
+        "id": "4fdf09f5f946203f",
+        "title": "Amazon's latest Kindle accessories bring physical buttons back to its ereaders",
+        "url": "https://www.engadget.com/2274088/amazon-latest-kindle-accessories-bring-physical-buttons-to-ereaders/",
+        "source": "Engadget",
+        "lane": "gadgets",
+        "published_ts": 1790859600000,
+        "summary": "BookTok will probably rejoice.",
+        "tags": [
+          "amazon"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6933
+      },
+      {
+        "id": "2bb8250feef1b251",
+        "title": "Micron projects tightening RAM shortages through 2028 as it generates record profit",
+        "url": "https://www.tomshardware.com/pc-components/dram/micron-projects-tightening-ram-shortages-through-2028-as-it-generates-record-profit-record-86-25-percent-gross-margin-drives-over-usd53-billion-in-quarterly-profit",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1790859000000,
+        "summary": "Micron makes big money amid the NAND and DRAM shortage. Company expects supply crunch to continue through 2028.",
+        "tags": [
+          "dram",
+          "pc components",
+          "ram"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1658
+      },
+      {
+        "id": "365a961e84f02238",
+        "title": "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2",
+        "url": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1790858381000,
+        "summary": "Award-winning camera app Halide Mark III has been updated to version 3.2, bringing dedicated support for iPhone 18 Pro by broadening user control over the device's new variable aperture camera system. Apple's stock Camera app lets iPhone 18 Pro owners choose from a four-stop variable aperture ranging from ƒ/1.48 to ƒ/4.0, delivering around 50 percent better low-light performance and giving users m",
+        "tags": [
+          "iphone 18 pro",
+          "halide"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2231
+      },
+      {
+        "id": "416fd39ca4d4c215",
+        "title": "Most data centers are still refusing to say how much water and electricity they use",
+        "url": "https://www.techradar.com/pro/most-data-centers-are-still-refusing-to-say-how-much-water-and-electricity-they-use",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1790858190000,
+        "summary": "Many data centers won't disclose their energy and water consumption publicly, and the EU makes accessing this data difficult.",
+        "tags": [
+          "pro",
+          "outlets:2"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0386
+      },
+      {
+        "id": "49deaa17e818561d",
+        "title": "PS3 emulator devs warn of fake Blu-ray drives on Newegg and AliExpress",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/ps3-emulator-devs-warn-of-fake-blu-ray-drives-on-newegg-and-aliexpress-beware-of-fake-blu-ray-drives-devs-warn-retrogamers-scammers-use-spoofed-firmware-to-disguise-older-mechanisms-in-high-end-shells",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1790857800000,
+        "summary": "The developers of a leading PlayStation 3 emulator warn of 'a recent influx of fake Blu-ray drives.'",
+        "tags": [
+          "retro gaming",
+          "video games"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1583
+      },
+      {
+        "id": "9bfbcccfaf0ad169",
+        "title": "Cuba, Belarus, Myanmar, and more: Private Internet Access adds 15 new VPN server locations",
+        "url": "https://www.techradar.com/vpn/vpn-services/cuba-belarus-myanmar-and-more-private-internet-access-adds-15-new-vpn-server-locations",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1790857599000,
+        "summary": "Private Internet Access has added 13 new countries and territories, plus city-level servers in Naples and Tottenham. Here's what's new and how its network compares with rivals.",
+        "tags": [
+          "vpn services",
+          "vpn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0353
+      },
+      {
+        "id": "26aa594ef85ffa7e",
+        "title": "LaLiga demands major VPNs be placed on the EU’s piracy watch list",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/laliga-demands-major-vpns-be-placed-on-the-eus-piracy-watch-list",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1790856286000,
+        "summary": "LaLiga is taking its war on streaming piracy to the EU, requesting that NordVPN, ExpressVPN, Surfshark, and Proton VPN be added to an official piracy watch list. Here's what this means for your privacy.",
+        "tags": [
+          "vpn privacy & security",
+          "vpn"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.028
+      },
+      {
+        "id": "df858184d05113d7",
+        "title": "The Celebrity Traitors home office collection — 12 gloriously treacherous desk accessories for Faithfuls, Traitors and suspicious co-workers everywhere",
+        "url": "https://www.techradar.com/pro/the-celebrity-traitors-home-office-collection-12-gloriously-treacherous-desk-accessories-for-faithfuls-traitors-and-suspicious-co-workers-everywhere",
+        "source": "TechRadar",
+        "lane": "gadgets",
+        "published_ts": 1790856039000,
+        "summary": "Are you a Faithful or a Traitor? As a Traitors superfan, I've found 12 desk accessories perfect for plotting against suspicious colleagues. Trust me...",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0267
+      },
+      {
+        "id": "dc5baac6b56cd96f",
+        "title": "Grab a huge $520 saving on this RTX 5090 gaming laptop from MSI with 64GB DDR5 and a 2TB SSD",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/grab-a-huge-usd520-saving-on-this-rtx-5090-gaming-laptop-from-msi-with-64gb-ddr5-and-a-2tb-ssd-stealth-a18-ai-rig-ships-with-12-core-amd-ryzen-ai-9-cpu-along-with-an-18-inch-uhd-display-with-a-120hz-refresh-rate",
+        "source": "Tom's Hardware",
+        "lane": "gadgets",
+        "published_ts": 1790854800000,
+        "summary": "Pick up a $720 saving on this RTX 5090 MSI gaming laptop, featuring 64GB DDR5 RAM, 2TB SSD, and an AMD Ryzen AI 9 HX 370 CPU, now just $3,779.",
+        "tags": [
+          "gaming laptops",
+          "laptops"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2311
+      },
+      {
+        "id": "2873e411ee3644d8",
+        "title": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
+        "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1790854654000,
+        "summary": "Sales of iPhone 18 Pro models in China were 12% higher in the three days after launching than sales of iPhone 17 Pro models were during their entire first week last year, according to Counterpoint Research. The strong start helped Apple claim the top spot in the country's smartphone market for the week of September 14 to 20, handing it a 33% share. But the news could get even better for Apple's Ch",
+        "tags": [
+          "iphone 18 pro",
+          "iphone duo",
+          "china",
+          "counterpoint"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2949
+      },
+      {
+        "id": "33cdb9e9c493de2e",
+        "title": "PS5 emulation is suddenly making big strides on PC",
+        "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+        "source": "Ars Technica AI",
+        "lane": "gadgets",
+        "published_ts": 1790854241000,
+        "summary": "Games like Astro Bot and Demon’s Souls are running ably without a console.",
+        "tags": [
+          "gaming",
+          "emulation",
+          "open source",
+          "pc",
+          "playstation",
+          "ps5"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1963
+      },
+      {
+        "id": "fa574ab35a5d4f9e",
+        "title": "Motorola is becoming the perfect OnePlus alternative; the Signature 27 shows why",
+        "url": "https://www.androidpolice.com/motorola-is-becoming-perfect-oneplus-alternative/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1790852410000,
+        "summary": "Motorola is filling the gap OnePlus left",
+        "tags": [
+          "motorola signature 27",
+          "oneplus",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1846
+      },
+      {
+        "id": "27a1b5fb32595dfc",
+        "title": "Microsoft Windows and Surface Event: What We Expect to See on Oct. 7",
+        "url": "https://www.cnet.com/tech/computing/microsoft-windows-surface-event-2026-what-to-expect-to-see-on/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1790852400000,
+        "summary": "No, we’re not expecting Windows 12. But we could get a release date for the Surface Laptop Ultra.",
+        "tags": [
+          "computing"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7771
+      },
+      {
+        "id": "4f8d4c0ea8f81317",
+        "title": "Apple TV Still Down for Some Users Following Apple Services Outage",
+        "url": "https://www.macrumors.com/2026/10/01/apple-tv-still-down-for-some-users/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1790851908000,
+        "summary": "Apple TV appears to be unavailable for some users, following a recent outage of Apple Services that began on September 30. The original outage took down the App Store, Apple Fitness+, Apple Music, and several other services, but those are all now back online. Only Apple TV is still not working for an unknown number of users. Apple's System Status page indicates an ongoing issue with Apple TV that ",
+        "tags": [
+          "apple tv"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1815
+      },
+      {
+        "id": "230f56ac90acada8",
+        "title": "PSA: Apple Mail on Mac May Stop Syncing Microsoft 365 Accounts Today",
+        "url": "https://www.macrumors.com/2026/10/01/apple-mail-mac-stop-sync-microsoft-365/",
+        "source": "Mac Rumors",
+        "lane": "gadgets",
+        "published_ts": 1790849847000,
+        "summary": "Microsoft today began disabling Exchange Web Services (EWS) by default in Exchange Online, which will cut off the protocol that Apple's Mail and Calendar apps on Mac still rely on to sync Microsoft 365 work accounts. The cutoff has been on the cards for a fairly long time, as Microsoft stopped adding new features to EWS back in 2018, while in 2023 it announced that it would start disabling the pro",
+        "tags": [
+          "featured",
+          "apple mail",
+          "microsoft 365"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1685
+      },
+      {
+        "id": "5038c32ada903705",
+        "title": "Huawei made a whole camera to attach to its latest phone",
+        "url": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+        "source": "The Verge",
+        "lane": "gadgets",
+        "published_ts": 1790849748000,
+        "summary": "Over the last few years, Chinese Android manufacturers have followed Vivo's example of launching add-on \"teleconverter\" lenses for their flagship phones, enabling long-distance photography that the phones on their own could never match. Today, Huawei one-upped everybody with the add-on lens for its Mate 90 Pro Max flagship, which is not only a comically huge […]",
+        "tags": [
+          "cameras",
+          "gadgets",
+          "huawei",
+          "mobile",
+          "news",
+          "phones"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.74
+      },
+      {
+        "id": "0b840f7df69ae02c",
+        "title": "New Yoto Players Make Kids Less Dependent on Cards (and Parents)",
+        "url": "https://www.cnet.com/tech/mobile/yoto-player-mini-new-4th-generation/",
+        "source": "CNET",
+        "lane": "gadgets",
+        "published_ts": 1790848800000,
+        "summary": "The fourth-generation Yoto Player and Yoto Mini cost more, but a new shortcut button removes one of my biggest frustrations as a parent.",
+        "tags": [
+          "digital audio players"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7623
+      },
+      {
+        "id": "49caf241621ac472",
+        "title": "Huawei plans moderate smartphone price increases to counter an average $200 per-unit cost hike driven by rising memory component costs, and unveils new handsets (Bloomberg)",
+        "url": "https://www.techmeme.com/261001/p11#a261001p11",
+        "source": "Techmeme",
+        "lane": "gadgets",
+        "published_ts": 1790847604000,
+        "summary": "Bloomberg: Huawei plans moderate smartphone price increases to counter an average $200 per-unit cost hike driven by rising memory component costs, and unveils new handsets — Huawei Technologies Co. plans to join rivals in jacking up smartphone prices to counter rising memory costs …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.665
+      },
       {
         "id": "355134d9372eab4f",
         "title": "Noise from Universal’s latest ride made rich locals furious, fast",
@@ -16,7 +615,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9875
+        "score": 0.9028
       },
       {
         "id": "ced2065781b5e340",
@@ -33,7 +632,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0598
+        "score": 0.9689
       },
       {
         "id": "e77404c17301cff4",
@@ -53,7 +652,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0515
+        "score": 0.9613
       },
       {
         "id": "e71cec8a72e1eacd",
@@ -70,7 +669,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0396
+        "score": 0.9504
       },
       {
         "id": "33e4f7b543fe712d",
@@ -87,7 +686,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0306
+        "score": 0.9422
       },
       {
         "id": "1fde3ded5c2579fa",
@@ -104,7 +703,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.01
+        "score": 0.9234
       },
       {
         "id": "4ea0f7886fdb3bf3",
@@ -121,7 +720,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0003
+        "score": 0.9145
       },
       {
         "id": "cb0cbcfd7f98b925",
@@ -141,7 +740,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2471
+        "score": 1.1401
       },
       {
         "id": "635ea73621e1e7fa",
@@ -156,7 +755,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6423
+        "score": 0.5872
       },
       {
         "id": "2d5589e7785b24b8",
@@ -172,7 +771,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "f5f7ada2176c0fd6",
@@ -189,7 +788,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "b9bf57d824c9638f",
@@ -204,7 +803,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.189
+        "score": 1.087
       },
       {
         "id": "123868e77e401ece",
@@ -219,7 +818,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9262
+        "score": 0.8467
       },
       {
         "id": "8d0845daf2a504e5",
@@ -239,7 +838,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.863
+        "score": 0.7889
       },
       {
         "id": "a579be2778a3ecee",
@@ -254,7 +853,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9143
+        "score": 0.8359
       },
       {
         "id": "bc47d92ad0790c88",
@@ -269,7 +868,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9436
+        "score": 0.8626
       },
       {
         "id": "a4c89da8808fe6d2",
@@ -284,7 +883,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9687
+        "score": 0.8856
       },
       {
         "id": "fdc29659c0d12cb8",
@@ -299,7 +898,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8798
+        "score": 0.8043
       },
       {
         "id": "efb1015475ca1639",
@@ -316,7 +915,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8168
+        "score": 0.7467
       },
       {
         "id": "64ca6fe42b879095",
@@ -334,7 +933,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0285
+        "score": 0.9403
       },
       {
         "id": "8c05788495e7a8b4",
@@ -350,7 +949,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0275
+        "score": 0.9394
       },
       {
         "id": "d6f18c435cee6327",
@@ -365,7 +964,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8352
+        "score": 0.7636
       },
       {
         "id": "2cf22c5187826e28",
@@ -380,7 +979,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5723
+        "score": 0.5232
       },
       {
         "id": "794faa0ae3fdedff",
@@ -395,609 +994,617 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8589
-      },
+        "score": 0.7852
+      }
+    ],
+    "innovation": [
       {
-        "id": "6f589fdd980bb8dd",
-        "title": "Fujifilm's Instax Pal 2 can plug directly into your smartphone to transfer images",
-        "url": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1790805850000,
-        "summary": "The small digital camera combines software filters with tactile controls.",
+        "id": "ce6c0dcc6822b69a",
+        "title": "CISO thought he had a 'r3@lg00dp@$$w0rd' but forgot to patch",
+        "url": "https://www.theregister.com/security/2026/10/01/ciso-thought-he-had-a-r3lg00dpw0rd-but-forgot-to-patch/5300314",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1790861520000,
+        "summary": "Replacing letters with symbols still doesn’t make it good.",
         "tags": [
-          "news"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6144
-      },
-      {
-        "id": "0a0e80cacf236e81",
-        "title": "Exclusive: Amazon's next Echo Hub may have just cleared the FCC",
-        "url": "https://www.androidpolice.com/amazon-new-echo-display-on-the-way/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790804872000,
-        "summary": "A new Echo smart display may be coming",
-        "tags": [
-          "amazon echo",
-          "amazon echo show",
-          "smart home",
-          "amazon echo"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0049
-      },
-      {
-        "id": "74f394897078c145",
-        "title": "Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks",
-        "url": "https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1790803596000,
-        "summary": "Return of the iMac G4 design? The hub could feature a round base and positioning arm supporting the screen, like the company’s short-lived but friendlier iMac design.",
-        "tags": [
-          "smart home"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8184
-      },
-      {
-        "id": "557c341bbbd2d57c",
-        "title": "Returning from vacation? The government can search your phone without a warrant.",
-        "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-        "source": "Ars Technica AI",
-        "lane": "gadgets",
-        "published_ts": 1790803196000,
-        "summary": "Reminder: The \"border exemption\" to your rights is real.",
-        "tags": [
-          "policy",
-          "cbp",
-          "phone",
-          "searches"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9959
-      },
-      {
-        "id": "329d3b8ab77bfaaf",
-        "title": "Ionna Charging Network Doubled to Over 180 Sites in 2026. Its CEO Tells Us What’s Next",
-        "url": "https://www.cnet.com/home/electric-vehicles/ionna-ev-fast-charging-2026-growth-ceo-interview/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1790802453000,
-        "summary": "The fast charging network founded by eight automakers is now said to be the largest 400 kW fast charging network in the US.",
-        "tags": [
-          "electric vehicles"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8134
-      },
-      {
-        "id": "a6e832881a041eaf",
-        "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
-        "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1790801100000,
-        "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by […]",
-        "tags": [
-          "entertainment",
-          "film",
-          "news"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.78
-      },
-      {
-        "id": "f407da16683ddf52",
-        "title": "T-Mobile's lifetime 10% discount is real, and here's how to actually get it",
-        "url": "https://www.androidpolice.com/lucky-t-mobile-customers-can-get-10-off-their-bill-for-life/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790800761000,
-        "summary": "But you'll need a bit of luck",
-        "tags": [
-          "t-mobile",
-          "discount",
-          "carriers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.983
-      },
-      {
-        "id": "66dfdb0c6997edec",
-        "title": "Everyone worries about overnight charging, but this is much worse for your battery",
-        "url": "https://www.makeuseof.com/everyone-worries-about-overnight-charging-but-this-is-much-worse-for-your-battery/",
-        "source": "MakeUseOf",
-        "lane": "gadgets",
-        "published_ts": 1790800217000,
-        "summary": "Your phone's real battery killer isn't the overnight charger.",
-        "tags": [
-          "technology explained",
-          "battery life",
-          "batteries",
-          "wireless charging"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8257
-      },
-      {
-        "id": "8a78debe81b3ab29",
-        "title": "Mouse study reveals magnetic nanoparticles' potential for ectopic pregnancy diagnosis and treatment",
-        "url": "https://phys.org/news/2026-09-mouse-reveals-magnetic-nanoparticles-potential.html",
-        "source": "Phys.org",
-        "lane": "gadgets",
-        "published_ts": 1790799616000,
-        "summary": "A research team led by an Oregon State University scientist has demonstrated in a mouse model a potentially better way to care for women facing the life-threatening condition of ectopic pregnancy.",
-        "tags": [
-          "bio & medicine"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9966
-      },
-      {
-        "id": "e9ec6e73864ebde9",
-        "title": "Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M",
-        "source": "Daring Fireball",
-        "lane": "gadgets",
-        "published_ts": 1790799271000,
-        "summary": "Mark Gurman, reporting for Bloomberg (gif link): Apple Inc. plans to make its long-delayed push into the smart-home market on Oct. 13, marking a critical product expansion for the company under new Chief Executive Officer John Ternus. At the center of the strategy is a smart-home hub code-named J490, according to people familiar with the matter. Apple also plans to announce the first update to the",
-        "tags": [],
-        "paywall": true,
-        "impact": "high",
-        "score": 0.7899
-      },
-      {
-        "id": "11b0b11ad27a71c5",
-        "title": "Trails in the Sky 2nd Chapter review: yet another triumphant remake",
-        "url": "https://www.techradar.com/gaming/trails-in-the-sky-2nd-chapter-review",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1790798400000,
-        "summary": "Trails in the Sky 2nd Chapter is another triumphant remake that’s oozing with combat depth, visual flair, and excellent quality of life updates.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8251
-      },
-      {
-        "id": "1d9ecd04c7f2a7ec",
-        "title": "Reddit is putting more limits on Old.Reddit.com",
-        "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1790798013000,
-        "summary": "Reddit says it's fighting \"automated abuse.\"",
-        "tags": [
-          "tech",
-          "reddit",
-          "social media"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9203
-      },
-      {
-        "id": "0ae2d6d59f429ff3",
-        "title": "NASA satellite can monitor most of world's irrigation canals, study finds",
-        "url": "https://phys.org/news/2026-09-nasa-satellite-world-irrigation-canals.html",
-        "source": "Phys.org",
-        "lane": "gadgets",
-        "published_ts": 1790797801000,
-        "summary": "Irrigation canals form a sort of circulatory system for global agriculture. Across the world, millions of kilometers of human-made canals carry water from lakes, rivers and reservoirs downhill to farmland. Canals are vitally important to human food production, yet many agricultural areas lack the means to monitor the ebb and flow of water through these waterways. This forces farmers and water mana",
-        "tags": [
-          "earth sciences"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0659
-      },
-      {
-        "id": "a1e05112a80284aa",
-        "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
-        "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-        "source": "Ars Technica",
-        "lane": "gadgets",
-        "published_ts": 1790796139000,
-        "summary": "Boycotting Disney is hard.",
-        "tags": [
-          "tech",
-          "acquisitions",
-          "disney",
-          "hulu",
-          "mergers",
-          "mergers and acquisitions"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9111
-      },
-      {
-        "id": "12ce4dfdbbb80688",
-        "title": "DoorDash’s drone strategy started on the ground",
-        "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-        "source": "TechCrunch",
-        "lane": "gadgets",
-        "published_ts": 1790796133000,
-        "summary": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
-        "tags": [
-          "transportation",
-          "delivery drones",
-          "doordash",
-          "drones"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5739
-      },
-      {
-        "id": "b43cb13114b9ab78",
-        "title": "Bad news if you're waiting for the Galaxy S27, prices could go up again",
-        "url": "https://www.androidpolice.com/galaxy-s27-series-pricing-may-increase/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790795258000,
-        "summary": "Samsung's next flagships could cost more",
-        "tags": [
-          "samsung galaxy s27",
-          "samsung",
-          "phones"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9545
-      },
-      {
-        "id": "94e2ded0552d8ac9",
-        "title": "Apple Invites App Updated With Three New Features",
-        "url": "https://www.macrumors.com/2026/09/30/apple-invites-app-three-new-features/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1790795034000,
-        "summary": "The free Apple Invites app for the iPhone was updated today with three new features: shared albums now support full-resolution photo sharing, Image Playground now lets you create photorealistic backgrounds for invites, and guests who need to verify their email can now tap a link in their inbox instead of entering a code. Released in February 2025, the Apple Invites app makes it easy to invite peop",
-        "tags": [
-          "apple invites"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9534
-      },
-      {
-        "id": "cbae3984946ad7b3",
-        "title": "Stop tapping through Google Maps: these simple tricks will improve your everyday drive",
-        "url": "https://www.androidpolice.com/stop-tapping-through-google-maps-simple-tricks-improve-everyday-drive/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790794810000,
-        "summary": "I stopped ignoring these Google Maps features and completely changed how I use Maps",
-        "tags": [
-          "google maps",
-          "google",
-          "applications"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9523
-      },
-      {
-        "id": "bc22d452318ab41e",
-        "title": "Moscow tightens regulation on SIM market to crack down on fraud and 'attackers' — Anti-Fraud 3.0 could see SIMs sold without money and a massive reduction in SIM card sellers",
-        "url": "https://www.techradar.com/pro/moscow-tightens-regulation-on-sim-market-to-crack-down-on-fraud-and-attackers-anti-fraud-3-0-could-see-sims-sold-without-money-and-a-massive-reduction-in-sim-card-sellers",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1790794200000,
-        "summary": "Russia’s Anti-Fraud 3.0 proposals could reduce SIM sellers, require zero-balance cards, and create stronger payment trails for fraud investigations nationwide.",
-        "tags": [
-          "phone & communications",
-          "pro",
           "security"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8068
+        "score": 1.306
       },
       {
-        "id": "e860e4e76df06223",
-        "title": "Gotta Go Fast and Hunt Demons This October in These Free PlayStation Plus Games",
-        "url": "https://www.cnet.com/tech/gaming/gotta-go-fast-and-hunt-demons-this-october-in-these-free-playstation-plus-games/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1790793651000,
-        "summary": "Conquering monsters in Hunt: Showdown 1896 is a fitting way to celebrate the Halloween season.",
-        "tags": [
-          "playstation"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.776
-      },
-      {
-        "id": "44fdc08639f1c860",
-        "title": "Breville's new $600 coffee machine makes pour-overs from scratch",
-        "url": "https://www.engadget.com/2273802/brevilles-new-600-coffee-machine-makes-pour-overs-from-scratch/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1790793449000,
-        "summary": "You do still have to buy the beans though.",
-        "tags": [
-          "news"
-        ],
+        "id": "90e5047155bc6a65",
+        "title": "Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged (Adrian Diaconescu/PhoneArena)",
+        "url": "https://www.techmeme.com/261001/p22#a261001p22",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1790861401000,
+        "summary": "Adrian Diaconescu / PhoneArena: Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged — In line with recent rumors and expectations, the ultra-high-end Galaxy S26 trio has become more expensive than ever before in the US.",
+        "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5324
+        "score": 0.716
       },
       {
-        "id": "9958972a36c7df17",
-        "title": "Sick of Paying for Slow Unlimited Data? Readers Recommend This Mobile Carrier",
-        "url": "https://www.cnet.com/tech/mobile/peoples-picks-visible-by-verizon/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1790791365000,
-        "summary": "Our People’s Picks awards narrowed down which mobile carrier is worth switching to, and the top pick may surprise you.",
-        "tags": [
-          "wireless plans"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7666
-      },
-      {
-        "id": "e9c42fc0c8ac9844",
-        "title": "SteamOS Ported to Arm handhelds, PixelMob Portable NAS, and Amazon’s new Fire TV Stick 4K with Vega OS: Liliputing News Roundup",
-        "url": "https://liliputing.com/steamos-ported-to-arm-handhelds-pixelmob-portable-nas-and-amazons-new-fire-tv-stick-4k-with-vega-os-liliputing-news-roundup/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1790790730000,
-        "summary": "Valve developed an ARM version of SteamOS for its Steam Frame VR headset • PixelMob is a new portable NAS/mini PC from UnifyDrive for media backup, with an RK3588 chip, up to 3 M.2 2280 slots for storage, CFexpress, SD, and microSD card support a 7 inch AMOLED display, USB4 (40 Gbps), and 2.5 GbE LAN • Apple is said to be planning to launch a new smart home product on Oct 13 with a \"6-inch square ",
-        "tags": [
-          "news",
-          "nofollow",
-          "roundup",
-          "apple",
-          "apple entering the smart home space",
-          "fire tv stick 4 k"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1069
-      },
-      {
-        "id": "f94f356830ac10c2",
-        "title": "Reddit imposes new restrictions on Old Reddit",
-        "url": "https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1790790596000,
-        "summary": "The Old Reddit is dying; the new Reddit struggles to avoid scraping.",
-        "tags": [
-          "social media"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5244
-      },
-      {
-        "id": "b32c3ea60ed34439",
-        "title": "My Pixel 11 is failing at Tap to Pay one time out of five, and I can't trust it anymore",
-        "url": "https://www.androidpolice.com/pixel-fails-at-tap-to-pay-cant-trust-it-anymore/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790790310000,
-        "summary": "People behind me in line are frustrated, Google",
-        "tags": [
-          "google wallet",
-          "google pixel",
-          "google pixel 11 pro xl",
-          "phones",
-          "google wallet"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9296
-      },
-      {
-        "id": "b9a00a591e5e478f",
-        "title": "Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’",
-        "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+        "id": "4f43c759ed834862",
+        "title": "Samsung raised prices on the Galaxy S26 by $100",
+        "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
         "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1790788889000,
-        "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon plans to upload to its AI […]",
+        "lane": "innovation",
+        "published_ts": 1790860636000,
+        "summary": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $100 more expensive than their S25 predecessors when they launched earlier this year, which Samsung said RAM price hikes were partly to […]",
         "tags": [
-          "amazon",
           "gadgets",
+          "mobile",
           "news",
-          "privacy",
-          "tech",
-          "wearable"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7891
-      },
-      {
-        "id": "76f657013f66079e",
-        "title": "Compare Amazon Fire TV device specs (Fire TV Stick HD, Fire TV Stick 4K and 4K Max, and Fire TV Cube)",
-        "url": "https://liliputing.com/amazon-fire-tv-stick-stick-lite-and-stick-4k-specs-compared/",
-        "source": "Liliputing",
-        "lane": "gadgets",
-        "published_ts": 1790788629000,
-        "summary": "Amazon’s Fire TV line of media streaming devices now includes three different Fire TV Stick models with list prices ranging from $35 to $60. The good, better, best lineup includes an entry-level model with support for 1080p video at up to 60 frames per second, while the top-of-the-line model supports 4K video and features faster […] The post Compare Amazon Fire TV device specs (Fire TV Stick HD, F",
-        "tags": [
-          "news",
-          "nofollow",
-          "amazon fire tv stick",
-          "amazon fire tv stick 4k",
-          "amazon fire tv stick lite",
-          "comparison"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0134
-      },
-      {
-        "id": "4a6da3153c6b29ed",
-        "title": "Skip the Galaxy SmartTag 3, and get the Android-compatible Moto Tag 2 instead",
-        "url": "https://www.androidpolice.com/skip-the-smarttag-3-and-get-the-android-compatible-moto-tag-2-instead/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790788520000,
-        "summary": "Plus, it's cheaper",
-        "tags": [
-          "moto tag 2",
-          "under $100",
-          "gadgets",
-          "best deals under $100"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9208
-      },
-      {
-        "id": "b914221a79d2d5d2",
-        "title": "Is That Early Holiday Deal or Fake Discount? Our Shopping Expert Chimes In",
-        "url": "https://www.cnet.com/tech/fake-holiday-sales-and-discounts/",
-        "source": "CNET",
-        "lane": "gadgets",
-        "published_ts": 1790788297000,
-        "summary": "If you plan on shopping during early holiday sales, double-check prices before you buy.",
-        "tags": [
+          "phones",
+          "samsung",
           "tech"
         ],
         "paywall": false,
-        "impact": "normal",
-        "score": 0.6033
-      },
-      {
-        "id": "bb10510b31e9b05d",
-        "title": "Casio’s F-B100W smartwatch launches in the US after selling out in Japan",
-        "url": "https://www.techradar.com/health-fitness/smartwatches/casios-f-b100w-retro-smartwatch-launches-in-the-us-usd65-tracker-lands-with-bluetooth-and-step-tracking-after-selling-out-in-japan",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1790787870000,
-        "summary": "Casio’s F-B100W watch is now available in the US after going on sale in Japan in August.",
-        "tags": [
-          "smartwatches",
-          "health & fitness"
-        ],
-        "paywall": false,
         "impact": "high",
-        "score": 0.7799
+        "score": 0.9804
       },
       {
-        "id": "4f7e30c27c50eac9",
-        "title": "I turned my phone's camera cutout into a shortcut hub; now I use it constantly",
-        "url": "https://www.androidpolice.com/phone-camera-cutout-into-a-shortcut-hub-now-i-use-it-constantly/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1790787610000,
-        "summary": "It is my most-tapped shortcut",
-        "tags": [
-          "camera",
-          "best reads",
-          "applications",
-          "android police's best reads"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9163
-      },
-      {
-        "id": "6429718c40a272f6",
-        "title": "Marvel's Wolverine reaches gameplay with KytyPS5 emulator",
-        "url": "https://www.tomshardware.com/video-games/playstation/marvels-wolverine-reaches-gameplay-with-kytyps5-emulator-ps5-exclusive-joins-ghost-of-yotei-in-reaching-gameplay-performance-still-in-single-digits",
-        "source": "Tom's Hardware",
-        "lane": "gadgets",
-        "published_ts": 1790787600000,
-        "summary": "An experimental PS5 emulator has been shown running the brand-new Marvel's Wolverine game on a PC, with gameplay working for the first time.",
-        "tags": [
-          "playstation",
-          "video games",
-          "console gaming"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8704
-      },
-      {
-        "id": "be489dc51264805c",
-        "title": "This blog could help you poop better",
-        "url": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1790787600000,
-        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"I will explode your butthole with this poopmaxxer pesto,\" a calm Gen Z voice announced from my phone's speakers. \"And […]",
-        "tags": [
-          "column",
-          "health",
-          "optimizer",
-          "science"
-        ],
+        "id": "feb9bb6a07b460e5",
+        "title": "Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote (Cameron Faulkner/The Verge)",
+        "url": "https://www.techmeme.com/261001/p20#a261001p20",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1790860202000,
+        "summary": "Cameron Faulkner / The Verge: Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote — A wave of little changes, including new colors, the option of an aluminum case, and some neat accessories.",
+        "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5805
+        "score": 0.7114
       },
       {
-        "id": "0e04e75a1e763ea8",
-        "title": "An Analogue Pocket restock is coming October 2",
-        "url": "https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1790787579000,
-        "summary": "It's sure to sell out fast again.",
-        "tags": [
-          "gaming"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.516
-      },
-      {
-        "id": "76413d19ff9ab46a",
-        "title": "Samsung Galaxy Watch 9 review: making smartwatches easy",
-        "url": "https://www.techradar.com/health-fitness/smartwatches/samsung-galaxy-watch-9-review",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1790786793000,
-        "summary": "The Samsung Galaxy Watch 9 simplifies the smartwatch experience, but some might find it a bit too simple.",
-        "tags": [
-          "smartwatches",
-          "health & fitness"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7754
-      },
-      {
-        "id": "a3dd87661d63085e",
-        "title": "Asus won’t say how it escaped the US router ban / Asus is not publicly committing to US manufacturing.",
-        "url": "https://www.reddit.com/r/technology/comments/1wu9zbb/asus_wont_say_how_it_escaped_the_us_router_ban/",
+        "id": "f441c1eac743048a",
+        "title": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
+        "url": "https://www.reddit.com/r/technology/comments/1wuyv8q/cops_can_bypass_iphones_automatic_reboot_to_get/",
         "source": "Reddit r/technology",
-        "lane": "gadgets",
-        "published_ts": 1790786771000,
+        "lane": "innovation",
+        "published_ts": 1790859767000,
         "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
         "tags": [
           "technology"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5108
-      }
-    ],
-    "innovation": [
+        "score": 0.69
+      },
+      {
+        "id": "5c90adffdfea1e2a",
+        "title": "I collected 95GB of cloud storage for $0, and you can too",
+        "url": "https://www.makeuseof.com/i-collected-95gb-of-cloud-storage-for-0-and-you-can-too/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1790859615000,
+        "summary": "What happens when free cloud accounts stop competing and combine.",
+        "tags": [
+          "productivity",
+          "software recommendations",
+          "storage",
+          "cloud storage"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7683
+      },
+      {
+        "id": "9964b0c714514e8f",
+        "title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1790859600000,
+        "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+        "tags": [
+          "ai",
+          "gadgets",
+          "hardware",
+          "hearing health care",
+          "smartglasses"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9945
+      },
+      {
+        "id": "01d335c61d422ff0",
+        "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+        "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1790859600000,
+        "summary": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
+        "tags": [
+          "gadgets",
+          "e-reader",
+          "kindle"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7367
+      },
+      {
+        "id": "94a818bb71cfef56",
+        "title": "Exchange Web Services enters the final stretch before Microsoft pulls access",
+        "url": "https://www.theregister.com/saas/2026/10/01/exchange-web-services-enters-the-final-stretch-before-microsoft-pulls-access/5300458",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1790859540000,
+        "summary": "Legacy API begins disappearing from tenants today, with no exceptions after April",
+        "tags": [
+          "saas"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2922
+      },
+      {
+        "id": "111896c53b57e022",
+        "title": "Hundreds of free romance Kindle ebooks are your to own, but only for 48 hours",
+        "url": "https://www.makeuseof.com/hundreds-of-free-romance-kindle-ebooks-are-your-to-own-but-only-for-48-hours/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1790859504000,
+        "summary": "There's some great options to pick from in here!",
+        "tags": [
+          "entertainment",
+          "amazon kindle"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7678
+      },
+      {
+        "id": "382b941e43199aea",
+        "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+        "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1790859327000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:75"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2908
+      },
+      {
+        "id": "1121153b60752308",
+        "title": "A profile of Nubank founder David Vélez, who graduated from Stanford, worked at Sequoia, and moved to Brazil to start the bank in 2013, as Nubank enters the US (Gabi Marques/Colossus)",
+        "url": "https://www.techmeme.com/261001/p19#a261001p19",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1790859302000,
+        "summary": "Gabi Marques / Colossus: A profile of Nubank founder David Vélez, who graduated from Stanford, worked at Sequoia, and moved to Brazil to start the bank in 2013, as Nubank enters the US — After facing down regulators, oligopolies, and corruption in Latin America, Nubank founder David Vélez faces his biggest challenge yet: the United States",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.708
+      },
+      {
+        "id": "954fb2a97513f1d7",
+        "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+        "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1790858939000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:59"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2881
+      },
+      {
+        "id": "d25d2d1e97a23abe",
+        "title": "How to speed up the Rust compiler in September 2026",
+        "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1790858678000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:28"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2863
+      },
+      {
+        "id": "4e2ec70430d333e1",
+        "title": "Palantir's Tom Watson lectures MP on accuracy, citing selective data",
+        "url": "https://www.theregister.com/public-sector/2026/10/01/palantirs-tom-watson-lectures-mp-on-accuracy-citing-selective-data/5300493",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1790858491000,
+        "summary": "Former Labour deputy challenges Clive Lewis but skips the warnings attached to NHS figures",
+        "tags": [
+          "public sector"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.285
+      },
+      {
+        "id": "c304616f115d6df5",
+        "title": "SB 104 Faces New Hampshire Finance Committee Test",
+        "url": "https://readwrite.com/online-casino-gaming-finance-review/",
+        "source": "ReadWrite",
+        "lane": "innovation",
+        "published_ts": 1790858197000,
+        "summary": "New Hampshire’s SB 104 would legalize online casino gaming, but its 13-11 Senate vote sends the proposal to a crucial Finance Committee review. The post SB 104 Faces New Hampshire Finance Committee Test appeared first on ReadWrite.",
+        "tags": [
+          "gambling",
+          "news"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0997
+      },
+      {
+        "id": "d25f7a3270a1bba0",
+        "title": "Streaming audio is about to catch up to Blu-ray — here's how Dolby AC-4 does it",
+        "url": "https://www.makeuseof.com/this-dolby-codec-coming-for-4k-blu-ray/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1790857818000,
+        "summary": "Dolby is trying to solve streaming's biggest problem.",
+        "tags": [
+          "entertainment",
+          "blu-ray"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7609
+      },
+      {
+        "id": "fdb4b2fe415e27f8",
+        "title": "Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers' patents to sue Micron (Anton Shilov/Tom's Hardware)",
+        "url": "https://www.techmeme.com/261001/p18#a261001p18",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1790856048000,
+        "summary": "Anton Shilov / Tom's Hardware: Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers' patents to sue Micron — Some of YMTC's patents can actually belong to Micron, the company alleges. … Micron this month filed a lawsuit …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6958
+      },
+      {
+        "id": "a2cc428372ce5ffd",
+        "title": "I never connect my Android to public Wi-Fi without changing this one setting",
+        "url": "https://www.makeuseof.com/use-android-private-dns-with-public-wi-fi/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1790856015000,
+        "summary": "It's takes less than a minute.",
+        "tags": [
+          "android",
+          "dns",
+          "wi-fi",
+          "security tips"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7536
+      },
+      {
+        "id": "00ded40ab70b328b",
+        "title": "Google Maps ate my battery on longer drives until I discovered this setting",
+        "url": "https://www.androidpolice.com/google-maps-ate-battery-longer-drives-discovered-setting/",
+        "source": "Android Police",
+        "lane": "innovation",
+        "published_ts": 1790856010000,
+        "summary": "Is Google Maps killing your phone's battery on long drives? A hidden navigation setting stops the drain and keeps your device cool",
+        "tags": [
+          "google maps",
+          "google",
+          "best reads",
+          "applications",
+          "android police's best reads"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3043
+      },
+      {
+        "id": "b47af645c4f65b4a",
+        "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
+        "url": "https://spectrum.ieee.org/electricity-theft",
+        "source": "IEEE Spectrum",
+        "lane": "innovation",
+        "published_ts": 1790856002000,
+        "summary": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. This leaking of electricity happens when it vanishes as heat as well as when it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics lost at least 10 percent of their electricity in 2023, according to the World Bank. Losses topped 20 perce",
+        "tags": [
+          "electricity",
+          "power-grids",
+          "grid-modernization",
+          "electricity-losses",
+          "india"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3284
+      },
+      {
+        "id": "b936548f0a277431",
+        "title": "Octopus Energy's plug-in solar kits sell out but more are 'on the way'",
+        "url": "https://www.techradar.com/home/energy-saving/octopus-energy-says-its-plug-in-solar-kits-have-sold-out-again-but-more-are-on-the-way-to-save-you-up-to-gbp150-a-year-on-bills",
+        "source": "TechRadar",
+        "lane": "innovation",
+        "published_ts": 1790855103000,
+        "summary": "Octopus Energy says its plug-in solar kits have sold out again for the second time in under a month, as buyers seek refuge from another energy crisis.",
+        "tags": [
+          "energy saving",
+          "smart home",
+          "home"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0216
+      },
+      {
+        "id": "f9072251c860237f",
+        "title": "England's schools are getting better at mopping up cyber incidents",
+        "url": "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1790854813000,
+        "summary": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.26
+      },
+      {
+        "id": "f8c5b8b2bed71d8d",
+        "title": "Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation (Anzar Mehraj/Reuters)",
+        "url": "https://www.techmeme.com/261001/p17#a261001p17",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1790854802000,
+        "summary": "Anzar Mehraj / Reuters: Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation — Armadin said on Thursday that it raised $255.5 million in a Series B funding round, which values the AI cybersecurity company at more than $2.5 billion.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7464
+      },
+      {
+        "id": "0808268ac6c80e19",
+        "title": "We're losing the night sky as light pollution makes it 10% brighter every year",
+        "url": "https://www.reddit.com/r/technology/comments/1wuwwcr/were_losing_the_night_sky_as_light_pollution/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1790853932000,
+        "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6688
+      },
+      {
+        "id": "edaf705f8c56d549",
+        "title": "The Whole Computer Is Vim",
+        "url": "https://hackaday.com/2026/10/01/the-whole-computer-is-vim/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1790852437000,
+        "summary": "Love it or hate it, Vim, the vi-compatible minimalist editor, is a common denominator between a huge array of operating systems. If you need to edit a file, it’s usually …read more",
+        "tags": [
+          "software hacks",
+          "esp32",
+          "firmware",
+          "vim"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2796
+      },
+      {
+        "id": "4e77278a6b3b9f14",
+        "title": "Everyone's rushing you toward passkeys, but here's the one thing nobody mentions before you delete your passwords",
+        "url": "https://www.makeuseof.com/passkeys-account-recovery-before-deleting-passwords/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1790852415000,
+        "summary": "The future of login still needs a very boring backup plan.",
+        "tags": [
+          "security",
+          "passkeys",
+          "password tips",
+          "security tips"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7392
+      },
+      {
+        "id": "3e28588d766e5def",
+        "title": "StreetComplete on iOS is now in public beta",
+        "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1790852397000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:185"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2438
+      },
+      {
+        "id": "8fc9980db13f3ba8",
+        "title": "After a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth (David Yaffe-Bellany/New York Times)",
+        "url": "https://www.techmeme.com/261001/p16#a261001p16",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1790852100000,
+        "summary": "David Yaffe-Bellany / New York Times: After a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth — The Binance founder Changpeng Zhao, who pleaded guilty to violating an anti-money-laundering law, was pardoned by President Trump …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6812
+      },
+      {
+        "id": "d38f645633805212",
+        "title": "UK privacy watchdog starts over with new board and Manchester HQ",
+        "url": "https://www.theregister.com/security/2026/10/01/uk-privacy-watchdog-starts-over-with-new-board-and-manchester-hq/5300439",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1790851320000,
+        "summary": "The Information Commission replaces the Information Commissioner, putting statutory powers under collective control",
+        "tags": [
+          "security"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2366
+      },
+      {
+        "id": "5398a2e2a02a9e74",
+        "title": "Neon will make a truly open-source SCP movie after A24 controversy",
+        "url": "https://www.engadget.com/2274276/neon-scp-foundation-movie-open-source/",
+        "source": "Engadget",
+        "lane": "innovation",
+        "published_ts": 1790851304000,
+        "summary": "Movie studios are turning to the horror fiction site SCP Foundation and showing how dealing with that community can go right, and wrong.",
+        "tags": [
+          "news",
+          "tv & movies"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6633
+      },
+      {
+        "id": "5a723cdd09c99534",
+        "title": "Flock Cameras Are Moving From Roads to Watching as Drones From the Sky",
+        "url": "https://www.reddit.com/r/technology/comments/1wuvmm3/flock_cameras_are_moving_from_roads_to_watching/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1790849565000,
+        "summary": "submitted by /u/polymute [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6534
+      },
+      {
+        "id": "43ce6f8f46179011",
+        "title": "This very fancy e-bike is one of the first to go semi-solid state",
+        "url": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
+        "source": "The Verge",
+        "lane": "innovation",
+        "published_ts": 1790849489000,
+        "summary": "The Lemmo 3 is the first cargo bike from the respected German e-bike maker. This premium, step-through longtail is a slightly less insane take on Rivian's Also TM-B, with one major advantage: It's one of the first electric bikes to feature a semi-solid state battery. Semi-solid state batteries are far safer than traditional lithium-ion batteries. […]",
+        "tags": [
+          "electric bikes",
+          "news",
+          "rideables",
+          "transportation"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 0.9976
+      },
+      {
+        "id": "5850bc1b39df73ef",
+        "title": "I automated these 4 things in my smart home, and now my family actually likes it",
+        "url": "https://www.makeuseof.com/smart-home-automations-family-likes/",
+        "source": "MakeUseOf",
+        "lane": "innovation",
+        "published_ts": 1790848814000,
+        "summary": "It only took a lot of tries.",
+        "tags": [
+          "smart home",
+          "amazon echo show"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7251
+      },
+      {
+        "id": "c1fcec7a0de6ea68",
+        "title": "How smaller, distributed batteries could help the grid",
+        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+        "source": "MIT Technology Review",
+        "lane": "innovation",
+        "published_ts": 1790848800000,
+        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,…",
+        "tags": [
+          "climate change and energy",
+          "app",
+          "summary",
+          "the spark"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3177
+      },
+      {
+        "id": "e88814ee7c77faea",
+        "title": "Sopra Steria widens legal challenge to Capita's Whitehall outsourcing deal",
+        "url": "https://www.theregister.com/public-sector/2026/10/01/sopra-steria-widens-legal-challenge-to-capitas-whitehall-outsourcing-deal/5300051",
+        "source": "The Register",
+        "lane": "innovation",
+        "published_ts": 1790848800000,
+        "summary": "Unredacted contract prompts fresh claims of preferential treatment and greater risk for the DWP",
+        "tags": [
+          "public sector"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2201
+      },
+      {
+        "id": "2e168f46b068acda",
+        "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+        "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1790848098000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:0"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2155
+      },
+      {
+        "id": "c02e0f0293b86518",
+        "title": "Tech Overlord Peter Thiel Is Going Viral For Word Salad On Why Evil Can Be 'Kind Of Good",
+        "url": "https://www.reddit.com/r/technology/comments/1wuun39/tech_overlord_peter_thiel_is_going_viral_for_word/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1790845803000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6404
+      },
       {
         "id": "94f88728155eeddb",
         "title": "Erase social media tomorrow? Brits say yes",
@@ -1011,7 +1618,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2962
+        "score": 1.185
       },
       {
         "id": "dca09ad0c6f4f171",
@@ -1027,7 +1634,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9576
+        "score": 0.8755
       },
       {
         "id": "3c95f9c2bf629d79",
@@ -1045,7 +1652,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3213
+        "score": 1.2079
       },
       {
         "id": "b2ced40a85e274f6",
@@ -1058,7 +1665,23 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6856
+        "score": 0.6268
+      },
+      {
+        "id": "351ed4e85db7780d",
+        "title": "Operators Face Unsettled Rules as Prediction-Market Scrutiny Widens",
+        "url": "https://readwrite.com/prediction-markets-federal-scrutiny/",
+        "source": "ReadWrite",
+        "lane": "innovation",
+        "published_ts": 1790835195000,
+        "summary": "Prediction markets face three federal tracks as Supreme Court petitions, a House inquiry and a CFTC review keep operators under pressure. The post Operators Face Unsettled Rules as Prediction-Market Scrutiny Widens appeared first on ReadWrite.",
+        "tags": [
+          "news",
+          "prediction markets"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7779
       },
       {
         "id": "ceafded2c0b63989",
@@ -1074,7 +1697,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2313
+        "score": 1.1256
       },
       {
         "id": "1d20bb46bbfd5de5",
@@ -1087,7 +1710,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6735
+        "score": 0.6157
       },
       {
         "id": "9218bd40b6ad997b",
@@ -1100,7 +1723,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9078
+        "score": 0.8299
       },
       {
         "id": "df3555d0d0334b80",
@@ -1115,7 +1738,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2255
+        "score": 1.1204
       },
       {
         "id": "0c1cce49bd8aa86f",
@@ -1128,7 +1751,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6703
+        "score": 0.6128
       },
       {
         "id": "18bd38c49406ba48",
@@ -1141,7 +1764,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.666
+        "score": 0.6089
       },
       {
         "id": "9c92ab7dd4e1f76f",
@@ -1157,7 +1780,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2015
+        "score": 1.0984
       },
       {
         "id": "d6b128c1b8b54bb0",
@@ -1173,7 +1796,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.189
+        "score": 1.087
       },
       {
         "id": "998f914de073020b",
@@ -1189,7 +1812,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.189
+        "score": 1.087
       },
       {
         "id": "b5a1020cf6a259ae",
@@ -1206,7 +1829,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.189
+        "score": 1.087
       },
       {
         "id": "aef46199f5260c1b",
@@ -1219,7 +1842,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6899
+        "score": 0.6307
       },
       {
         "id": "42e7ab11be726df2",
@@ -1235,7 +1858,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1581
+        "score": 1.0587
       },
       {
         "id": "d49df09ae17ead82",
@@ -1251,7 +1874,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1554
+        "score": 1.0563
       },
       {
         "id": "53a733abcec7ad20",
@@ -1267,7 +1890,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1371
+        "score": 1.0395
       },
       {
         "id": "0ee9329aa9ab9ca3",
@@ -1280,7 +1903,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6206
+        "score": 0.5674
       },
       {
         "id": "49bfea3197361e9a",
@@ -1295,7 +1918,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8794
+        "score": 0.8039
       },
       {
         "id": "8df620be2182cbd2",
@@ -1310,611 +1933,462 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6005
-      },
+        "score": 0.549
+      }
+    ],
+    "ai": [
       {
-        "id": "18a007ece986d8ef",
-        "title": "Apple's Smart Home Hub: Everything We Know So Far",
-        "url": "https://www.macrumors.com/guide/apple-command-center/",
-        "source": "Mac Rumors",
-        "lane": "innovation",
-        "published_ts": 1790812710000,
-        "summary": "Apple is working on a new smart home accessory that will serve as a hub for interacting with Siri AI, controlling HomeKit devices, watching videos, checking the calendar and the weather, and generally offering up useful information to everyone in the household. This guide aggregates everything that we know about Apple's smart home hub. Design Apple's smart home device will somewhat resemble an iPa",
-        "tags": [
-          "mega guides",
-          "apple command center"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1318
-      },
-      {
-        "id": "08a33b11b463039f",
-        "title": "Azure maintenance mess disrupts hybrid clouds, VPNs, cloudy VMware services",
-        "url": "https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupts-hybrid-clouds-vpns-cloudy-vmware-services/5300333",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1790812497000,
-        "summary": "Microsoft broke its own cloud but isn’t sure how",
-        "tags": [
-          "off-prem"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0991
-      },
-      {
-        "id": "161dd21b0a9d47f6",
-        "title": "Fine-tuning cobalt for cleaner chemical transformations",
-        "url": "https://phys.org/news/2026-09-fine-tuning-cobalt-cleaner-chemical.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1790811601000,
-        "summary": "Finding alternatives to precious metals in chemical manufacturing may be less like sourcing a substitute and more like tuning an instrument already in hand.",
-        "tags": [
-          "analytical chemistry"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0626
-      },
-      {
-        "id": "4e00440708270585",
-        "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-        "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1790809680000,
-        "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
-        "tags": [
-          "government & policy"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.617
-      },
-      {
-        "id": "5f011051f1e61958",
-        "title": "Pogo-Bot Goes All Terrain With Compliant Foot",
-        "url": "https://hackaday.com/2026/09/30/pogo-bot-goes-all-terrain-with-compliant-foot/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1790809246000,
-        "summary": "What do you get when you combine a pogo stick, a quadcopter, and engineering students from the University of Toronto? This thing, apparently– a “monopedal hopping robot” that uses a …read more",
-        "tags": [
-          "robots hacks",
-          "compliant mechanism",
-          "hopping robot",
-          "pogo",
-          "quadcopter"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1999
-      },
-      {
-        "id": "8945df28ffa45852",
-        "title": "My Apple TV was the one streaming box I never worried about, until now",
-        "url": "https://www.makeuseof.com/worried-about-my-apple-tv/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790809214000,
-        "summary": "Modern updates are pushing my Apple TV 4K to its limits.",
-        "tags": [
-          "entertainment",
-          "apple tv"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6418
-      },
-      {
-        "id": "33d55b6af67baaf7",
-        "title": "EDG C++ Compiler is open source",
-        "url": "https://github.com/edgcpp/compiler",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790808524000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:5"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.076
-      },
-      {
-        "id": "41d137d664b45bb0",
-        "title": "Iran official warns Starlink could end state control of internet",
-        "url": "https://www.reddit.com/r/technology/comments/1wuj7kk/iran_official_warns_starlink_could_end_state/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1790808430000,
-        "summary": "submitted by /u/4DollarsALB [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5736
-      },
-      {
-        "id": "f295ca4353274c63",
-        "title": "EVgo’s Next-Gen 750kW EV Charging System Is Capable of 10-Minute Recharge",
-        "url": "https://www.cnet.com/home/electric-vehicles/evgo-next-gen-750kw-ev-charging-system-10-minute-recharge/",
-        "source": "CNET",
-        "lane": "innovation",
-        "published_ts": 1790806567000,
-        "summary": "The company estimates its fastest-charging tech yet is coming next year, but it’ll be a while before cars can hit its top speed.",
-        "tags": [
-          "electric vehicles"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6652
-      },
-      {
-        "id": "f677343337e4e42b",
-        "title": "56k.rip – the 1996 dial-up internet experience",
-        "url": "https://56k.rip/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790806130000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:4"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0623
-      },
-      {
-        "id": "1cdfcda381226d8c",
-        "title": "Automating Wi-Fi setup testing on the ESP32",
-        "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790806071000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0619
-      },
-      {
-        "id": "223fc80f069d6520",
-        "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-        "url": "https://www.thespacereview.com/article/4951/1",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790805784000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:213"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0603
-      },
-      {
-        "id": "fe269e3af8b75d79",
-        "title": "I never manually check for restocks, price drops, or updates anymore because this Docker container has got my back",
-        "url": "https://www.makeuseof.com/never-manually-check-for-restocks-price-updates-docker-container/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790805615000,
-        "summary": "This self-hosted tool has made it easier for me to say goodbye to all those 2 am product page refresh sessions.",
-        "tags": [
-          "productivity",
-          "online shopping",
-          "docker"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6296
-      },
-      {
-        "id": "6e18490c1dbecbaf",
-        "title": "US drivers are finally getting the adaptive headlights Europe has had for years",
-        "url": "https://www.reddit.com/r/technology/comments/1wui3hp/us_drivers_are_finally_getting_the_adaptive/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1790805534000,
-        "summary": "submitted by /u/N2929 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5647
-      },
-      {
-        "id": "c8694b4cfba08080",
-        "title": "These 6 cheap PC parts can cost more to run than they cost to buy",
-        "url": "https://www.makeuseof.com/these-cheap-pc-parts-can-cost-more-to-run-than-they-cost-to-buy/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790804715000,
-        "summary": "My homelab bargains were easy to buy and much harder to keep powered.",
-        "tags": [
-          "technology explained",
-          "home server",
-          "hardware tips",
-          "building pcs"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6265
-      },
-      {
-        "id": "8ff9f0f2f254428a",
-        "title": "USPS To Put Cameras in Trucks That Scan Roads for ‘Community Safety’",
-        "url": "https://www.reddit.com/r/technology/comments/1wugs04/usps_to_put_cameras_in_trucks_that_scan_roads_for/",
-        "source": "Reddit r/technology",
-        "lane": "innovation",
-        "published_ts": 1790802253000,
-        "summary": "submitted by /u/habichuelacondulce [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5549
-      },
-      {
-        "id": "f47416f2168951e0",
-        "title": "My Google Messages group chats were unreadable until I enabled this view",
-        "url": "https://www.makeuseof.com/google-messages-group-chats-unreadable-bubbles/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790802015000,
-        "summary": "Bubbles could make your group chats bearable again.",
-        "tags": [
-          "android",
-          "google messages",
-          "google",
-          "android 17"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7719
-      },
-      {
-        "id": "2a7378ec5532ea6b",
-        "title": "YouTube lunatic designed and 3D printed a working mechanical calculator",
-        "url": "https://www.theregister.com/offbeat/2026/09/30/youtube-lunatic-designed-and-3d-printed-a-working-mechanical-calculator/5300273",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1790800775000,
-        "summary": "If you can't afford a Curta, we still don't recommend trying this: It'll eat up months of your life and all the filament you have",
-        "tags": [
-          "offbeat"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0323
-      },
-      {
-        "id": "9747b225caebd4ae",
-        "title": "Gitea 28.0.0 Is Released",
-        "url": "https://blog.gitea.com/release-of-28.0.0/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790800343000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:25"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0299
-      },
-      {
-        "id": "f1e22ea8c32d5913",
-        "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-        "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1790799602000,
-        "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this cate",
-        "tags": [
-          "biotech & health",
-          "startups",
-          "neko health",
-          "preventative healthcare"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5846
-      },
-      {
-        "id": "fea75ea8bd9c8f71",
-        "title": "[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It",
-        "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-        "source": "Daring Fireball",
-        "lane": "innovation",
-        "published_ts": 1790799452000,
-        "summary": "SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider. Learn how SAML flows work, the tradeoffs between building or buying, and best practices for security, routing, and UX. Or skip the hassle and add SSO with WorkOS. Read the guide → ★",
+        "id": "a51dae3dc3d490c9",
+        "title": "IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via convertible notes that could help finance Anthropic's $125.2B, five-year TPU lease commitment (Reuters)",
+        "url": "https://www.techmeme.com/261001/p21#a261001p21",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1790860803000,
+        "summary": "Reuters: IPO prospectus: Broadcom agreed to lend Anthropic up to $42B via convertible notes that could help finance Anthropic's $125.2B, five-year TPU lease commitment — Anthropic's IPO prospectus documents extensive partnerships with a handful of big tech firms. One stands out: chip maker Broadcom (AVGO.O).",
         "tags": [],
         "paywall": false,
-        "impact": "high",
-        "score": 1.0543
+        "impact": "normal",
+        "score": 0.7708
       },
       {
-        "id": "5d42a497d4312816",
-        "title": "Open Source Tricorder Is In It For The Science",
-        "url": "https://hackaday.com/2026/09/30/open-source-tricorder-is-in-it-for-the-science/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1790798423000,
-        "summary": "If you’re reading Hackaday there’s pretty good odds you’re at least somewhat fond of Star Trek. We’d bet good money most of you would quit your jobs today if a Starfleet …read more",
+        "id": "16d7ffcdf011b407",
+        "title": "'It is possible that threat actors are finding it more accessible or efficient to use LLMs and AI tools': Google warns that AI explosion will lead to more dangerous and advanced security threats",
+        "url": "https://www.techradar.com/pro/security/it-is-possible-that-threat-actors-are-finding-it-more-accessible-or-efficient-to-use-llms-and-ai-tools-google-warns-that-ai-explosion-will-lead-to-more-dangerous-and-advanced-security-threats",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1790860500000,
+        "summary": "It's not about zero-days, at all, but rather about properly exploiting already known flaws, Google says.",
         "tags": [
-          "handhelds hacks",
-          "magnetometer",
-          "open source science",
-          "scintillator",
-          "spectrometer",
-          "star trek"
+          "security",
+          "cyber security",
+          "computing security",
+          "pro",
+          "computing"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0485
+        "score": 1.1356
       },
       {
-        "id": "76bb762cac97781a",
-        "title": "Samsung gives you two of every app, and these are the ones I delete on day one",
-        "url": "https://www.makeuseof.com/samsung-duplicate-apps-delete-day-one/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790798416000,
-        "summary": "Bloatware, be gone.",
+        "id": "cda5aaf448d83c95",
+        "title": "Your boss might be using AI to write your performance review",
+        "url": "https://www.techradar.com/ai-platforms-assistants/your-boss-might-be-using-ai-to-write-your-performance-review-and-some-companies-could-be-letting-it-help-decide-who-gets-promoted",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1790860374000,
+        "summary": "Manager are turning to AI for dealing with awkward conversations and performance reviews.",
         "tags": [
-          "android",
-          "samsung galaxy",
-          "samsung galaxy tips",
-          "samsung"
+          "ai platforms & assistants"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7572
+        "score": 1.1348
       },
       {
-        "id": "208f9e850ea391f0",
-        "title": "Stratospheric observatory Sunrise-III reveals intricate solar magnetic structures",
-        "url": "https://phys.org/news/2026-09-stratospheric-observatory-sunrise-iii-reveals.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1790798401000,
-        "summary": "A team of researchers led by the National Astronomical Observatory of Japan discovered unexpectedly intricate magnetic structures above quiet-sun regions by observing the sun with the balloon-borne solar observatory Sunrise-III during its 2024 flight in Earth's stratosphere. The work is published in The Astrophysical Journal Letters.",
-        "tags": [
-          "astronomy"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9901
-      },
-      {
-        "id": "ebaaf6ea048bc882",
-        "title": "Dear Software Makers",
-        "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+        "id": "b1d7b0742995885b",
+        "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+        "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
         "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790797538000,
+        "lane": "ai",
+        "published_ts": 1790859951000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:18"
+        ],
+        "paywall": true,
+        "impact": "normal",
+        "score": 0.777
+      },
+      {
+        "id": "fe05d4feaff4340c",
+        "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+        "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1790859662000,
         "summary": "",
         "tags": [
           "hn",
           "points:15"
         ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0957
-      },
-      {
-        "id": "ab12bcb2fbbdab6f",
-        "title": "4 Windows 11 settings I disable on every new PC to stop Microsoft's tracking and ads",
-        "url": "https://www.makeuseof.com/x-windows-11-settings-i-disable-on-every-new-pc-to-stop-microsofts-tracking-and-ads/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790797514000,
-        "summary": "Stop Microsoft from tracking your habits and pushing unwanted promotions.",
-        "tags": [
-          "windows",
-          "windows 11",
-          "start menu",
-          "microsoft edge",
-          "microsoft store"
-        ],
-        "paywall": false,
+        "paywall": true,
         "impact": "normal",
-        "score": 0.6029
+        "score": 0.8379
       },
       {
-        "id": "a26f144a73a9924c",
-        "title": "Halfspace experimental IDE for solid modeling with distance fields",
-        "url": "https://www.mattkeeter.com/projects/halfspace/",
+        "id": "f62ed353747876b9",
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
         "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790797477000,
+        "lane": "ai",
+        "published_ts": 1790859655000,
         "summary": "",
         "tags": [
           "hn",
-          "points:6"
+          "points:33"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0142
+        "score": 1.3965
       },
       {
-        "id": "7f86c890d182304a",
-        "title": "America.gov goes crazy on \"play Minecraft\"",
-        "url": "https://america.gov/chat",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790796843000,
-        "summary": "",
+        "id": "ea9d888230f4535f",
+        "title": "MacBook Neo’s Next Competitor Is HP’s $700 OmniBook 5",
+        "url": "https://www.cnet.com/tech/computing/macbook-neos-next-competitor-is-hps-700-omnibook-5/",
+        "source": "CNET",
+        "lane": "ai",
+        "published_ts": 1790859600000,
+        "summary": "The OmniBook 5 14 AI PC has a larger OLED display than the Neo, and HP promises it will have better battery life, too.",
         "tags": [
-          "hn",
-          "points:77"
+          "laptops"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0108
+        "score": 1.0902
       },
       {
-        "id": "4f1356a6e6f69d1f",
-        "title": "Hackers stole millions of US military personnel records during months-long data breach",
-        "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+        "id": "7f16151b6690e398",
+        "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+        "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
         "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1790796548000,
-        "summary": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+        "lane": "ai",
+        "published_ts": 1790859600000,
+        "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
         "tags": [
-          "security",
-          "cyberattack",
-          "cybersecurity",
-          "data breach",
-          "department of defense",
-          "pentagon"
+          "apps",
+          "media & entertainment",
+          "audible",
+          "audiobooks"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5751
+        "score": 0.7956
       },
       {
-        "id": "bbb2c945f2014baa",
-        "title": "EDG C++ front-end goes public",
-        "url": "https://edgcpp.org/#transition",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1790796397000,
-        "summary": "",
+        "id": "5ab60b8373600dee",
+        "title": "There is nothing like human’: Hollywood is betting big on AI movies — just as audiences are turning against them and looking for films made by real people",
+        "url": "https://www.reddit.com/r/technology/comments/1wuyis0/there_is_nothing_like_human_hollywood_is_betting/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1790858819000,
+        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
         "tags": [
-          "hn",
-          "points:30"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0084
-      },
-      {
-        "id": "5037e9884b38f648",
-        "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-        "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-        "source": "TechCrunch",
-        "lane": "innovation",
-        "published_ts": 1790795980000,
-        "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
-        "tags": [
-          "transportation",
-          "bmw",
-          "electric vehicles"
+          "technology"
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5734
+        "score": 0.7415
       },
       {
-        "id": "de6150d337849533",
-        "title": "These are the apps that made my Android eReader better than a Kindle",
-        "url": "https://www.makeuseof.com/apps-that-made-my-android-ereader-better-than-a-kindle/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1790794816000,
-        "summary": "My Kindle suddenly feels basic.",
-        "tags": [
-          "productivity",
-          "ereader",
-          "amazon kindle"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5942
-      },
-      {
-        "id": "c97b60577c489e00",
-        "title": "Lisa Mantil Takes Charge of Polymarket’s Institutional Push",
-        "url": "https://readwrite.com/institutional-growth-polymarket/",
-        "source": "ReadWrite",
-        "lane": "innovation",
-        "published_ts": 1790794800000,
-        "summary": "Polymarket names Goldman Sachs veteran Lisa Mantil to lead institutional growth as it builds products, infrastructure and liquidity for U.S. expansion. The post Lisa Mantil Takes Charge of Polymarket’s Institutional Push appeared first on ReadWrite.",
-        "tags": [
-          "news",
-          "prediction markets"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.857
-      },
-      {
-        "id": "9be85a9efb741d82",
-        "title": "Mysterious oarfish's fins inspire large underwater robot design",
-        "url": "https://phys.org/news/2026-09-mysterious-oarfish-fins-large-underwater.html",
+        "id": "26ab7446324ce641",
+        "title": "How Trump's AI-generated memes impact political authority and masculinity",
+        "url": "https://phys.org/news/2026-10-trump-ai-generated-memes-impact.html",
         "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1790793620000,
-        "summary": "When designing a large underwater robot that could swim silently to avoid startling sea creatures, roboticist Rob Shepherd considered the unusual swimming system of oarfish, the meters-long fish whose ribbon-like dorsal fin moves in waves to propel its body.",
+        "lane": "ai",
+        "published_ts": 1790857202000,
+        "summary": "A new article by sociologists Tristan Bridges (University of California, Santa Barbara) and James W. Messerschmidt (University of Southern Maine) examines how AI-generated memes circulated on social media by President Donald Trump represent a significant transformation in the visual politics of masculinity.",
         "tags": [
-          "biotechnology"
+          "political science"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0423
+        "score": 1.3389
       },
       {
-        "id": "b730015953dc54bb",
-        "title": "Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers (Ben Weiss/Bloomberg)",
-        "url": "https://www.techmeme.com/260930/p40#a260930p40",
+        "id": "9d0e0b76707cbebe",
+        "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+        "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+        "source": "MIT Technology Review",
+        "lane": "ai",
+        "published_ts": 1790856600000,
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…",
+        "tags": [
+          "the download"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3738
+      },
+      {
+        "id": "dde1d0f78c274f82",
+        "title": "You can now text DoorDash what you want and order without opening the app",
+        "url": "https://www.makeuseof.com/text-doordash-what-you-want-without-opening-app/",
+        "source": "MakeUseOf",
+        "lane": "ai",
+        "published_ts": 1790856389000,
+        "summary": "A text-first AI reshapes takeout routines by remembering favorites, suggesting carts, and completing checkout.",
+        "tags": [
+          "productivity"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8155
+      },
+      {
+        "id": "9ecef3205fce8ab7",
+        "title": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-actors-linked-to-moonshot-ai-spearheaded-a-campaign-to-extract-its-models-hidden-reasoning-logged-attempts-peaked-at-16-000-users-over-two-days",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1790856000000,
+        "summary": "OpenAI says operators copied its models’ encrypted reasoning and asked a model in a separate conversation to decrypt it.",
+        "tags": [
+          "artificial intelligence",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.239
+      },
+      {
+        "id": "7fe9ddb5601a1f05",
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "source": "TechCrunch",
+        "lane": "ai",
+        "published_ts": 1790856000000,
+        "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+        "tags": [
+          "space",
+          "ai",
+          "exclusive"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7804
+      },
+      {
+        "id": "a99b34a33bd250b2",
+        "title": "Microsoft keeps adding AI to Windows 11, and most users can't fully disable it",
+        "url": "https://www.reddit.com/r/technology/comments/1wux2b4/microsoft_keeps_adding_ai_to_windows_11_and_most/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1790854471000,
+        "summary": "submitted by /u/TurbulentTopic39 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7244
+      },
+      {
+        "id": "10ccc22c99a9a5bd",
+        "title": "AI agents inadvertently leak 13,000+ internal screenshots from organizations",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/ai-agents-inadvertently-leak-13-000-internal-screenshots-from-organizations-list-of-companies-includes-fortune-500-and-a-frontier-ai-lab",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1790854200000,
+        "summary": "AI agents have been quietly uploading internal screenshots from over 300 companies to public GitHub repos, some of which contain sensitive information.",
+        "tags": [
+          "cybersecurity",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2271
+      },
+      {
+        "id": "0fa3ca1d8d6cc42f",
+        "title": "Hollywood is betting big on AI movies — just as audiences turn against them",
+        "url": "https://www.techradar.com/ai-platforms-assistants/there-is-nothing-like-human-hollywood-is-betting-big-on-ai-movies-just-as-audiences-are-turning-against-them-and-looking-for-films-made-by-real-people",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1790853803000,
+        "summary": "Hollywood is taking AI films seriously, and even Tom Cruise things they are coming, but AI seems to be turning the audience off.",
+        "tags": [
+          "ai platforms & assistants",
+          "entertainment",
+          "streaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0956
+      },
+      {
+        "id": "d64416abe631b95c",
+        "title": "AI agents are ready to act, but do they understand your business?",
+        "url": "https://www.techradar.com/pro/ai-agents-are-ready-to-act-but-do-they-understand-your-business",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1790851963000,
+        "summary": "How businesses can give AI agents context without handing over control.",
+        "tags": [
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8679
+      },
+      {
+        "id": "82a1fd1ee06bb2df",
+        "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+        "url": "https://www.reddit.com/r/technology/comments/1wuw7ix/gavin_newsom_signs_laws_to_protect_california/",
+        "source": "Reddit r/technology",
+        "lane": "ai",
+        "published_ts": 1790851638000,
+        "summary": "submitted by /u/Wagamaga [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7135
+      },
+      {
+        "id": "17fe5b6012a66ba5",
+        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+        "source": "MIT Technology Review",
+        "lane": "ai",
+        "published_ts": 1790850744000,
+        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-hand image of each pair is what…",
+        "tags": [
+          "biotechnology and health",
+          "app",
+          "summary"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3315
+      },
+      {
+        "id": "99c195485e945d3e",
+        "title": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
+        "source": "Tom's Hardware",
+        "lane": "ai",
+        "published_ts": 1790850600000,
+        "summary": "A call center consultancy rented four Nvidia H200s to run DeepSeek V4.1 Flash for Claude Code and found DeepSeek's API cheaper.",
+        "tags": [
+          "artificial intelligence",
+          "tech industry"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1146
+      },
+      {
+        "id": "31e5136144125cf6",
+        "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "source": "Hacker News",
+        "lane": "ai",
+        "published_ts": 1790850096000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:83"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3269
+      },
+      {
+        "id": "0d9493829e466e64",
+        "title": "Google partners with talent agency Range Media to launch 100 Zeros, a rotating fund designed to shape positive onscreen depictions of tech and test AI tools (Brooks Barnes/New York Times)",
+        "url": "https://www.techmeme.com/261001/p13#a261001p13",
         "source": "Techmeme",
-        "lane": "innovation",
-        "published_ts": 1790793302000,
-        "summary": "Ben Weiss / Bloomberg: Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers — Open Standard, a company backed by more than 100 corporations, including Visa Inc., Stripe Inc., and Mastercard Inc. …",
+        "lane": "ai",
+        "published_ts": 1790849703000,
+        "summary": "Brooks Barnes / New York Times: Google partners with talent agency Range Media to launch 100 Zeros, a rotating fund designed to shape positive onscreen depictions of tech and test AI tools — Jonathan Zepp, left, Google's head of entertainment content and platforms, and Peter Micelli, chief executive of Range Media Partners …",
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5441
+        "score": 0.7264
       },
       {
-        "id": "04fe1eb6d6480948",
-        "title": "Apple Finally Made AirPods Repairable… Sort Of",
-        "url": "https://hackaday.com/2026/09/30/apple-finally-made-airpods-repairable-sort-of/",
-        "source": "Hackaday",
-        "lane": "innovation",
-        "published_ts": 1790793048000,
-        "summary": "It’s been true for a while now that Apple’s AirPods have been effectively disposable, with [iFixit] slapping each successive generation with an abysmal 0/10 repairability score. The moment that any …read more",
+        "id": "4c875be642d7ea92",
+        "title": "Don’t follow the herd on AI cost optimization – control compute this way",
+        "url": "https://www.techradar.com/pro/dont-follow-the-herd-on-ai-cost-optimization-control-compute-this-way",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1790849575000,
+        "summary": "AI cost optimization starts by reducing unnecessary compute, not chasing lower-cost models.",
         "tags": [
-          "teardown",
-          "airpods",
-          "right to repair"
+          "pro"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8569
+      },
+      {
+        "id": "9fb2153c47148fb7",
+        "title": "'The real prize isn’t just doing more work; it’s redesigning work': New report claims AI is being used more in the office, but it's creating more work for many",
+        "url": "https://www.techradar.com/pro/the-real-prize-isnt-just-doing-more-work-its-redesigning-work-new-report-claims-ai-is-being-used-more-in-the-office-but-its-creating-more-work-for-many",
+        "source": "TechRadar",
+        "lane": "ai",
+        "published_ts": 1790849042000,
+        "summary": "Workers say AI is making their jobs more complex, but PwC argues we need to fundamentally redesign work for this new era.",
+        "tags": [
+          "pro",
+          "ai platforms & assistants"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.8545
+      },
+      {
+        "id": "a233a29430be738d",
+        "title": "Pixel Screenshots' new filters do what AI couldn't: actually help you find anything",
+        "url": "https://www.androidpolice.com/pixel-screenshots-new-filters/",
+        "source": "Android Police",
+        "lane": "ai",
+        "published_ts": 1790848810000,
+        "summary": "This simple fix to Pixel Screenshots beat months of AI promises",
+        "tags": [
+          "screenshots",
+          "google pixel",
+          "applications"
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0188
+        "score": 1.255
       },
       {
-        "id": "da218eb3323d7f18",
-        "title": "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows",
-        "url": "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1790792981000,
-        "summary": "It's 2 am. Do you know what your teen is doing?",
+        "id": "27a9490b26860c1f",
+        "title": "The People of Utah vs. Kevin O’Leary",
+        "url": "https://www.theverge.com/cs/features/993343/stratos-utah-kevin-oleary-data-center-backlash",
+        "source": "The Verge",
+        "lane": "ai",
+        "published_ts": 1790848802000,
+        "summary": "On the morning of May 11th, the celebrity investor Kevin O’Leary appeared on Fox Business and announced that he was under attack by Chinese agents. For weeks, he had been going on TV and posting online to tout his project, called Wonder Valley, after his nickname from the reality show Shark Tank, Mr. Wonderful. It […]",
         "tags": [
-          "security"
+          "features"
         ],
         "paywall": false,
-        "impact": "high",
-        "score": 0.9901
-      }
-    ],
-    "ai": [
+        "impact": "normal",
+        "score": 0.7362
+      },
+      {
+        "id": "38ccd7e9463bb41f",
+        "title": "Dell, Jera, and UK-based Rhaelm partner to build a $15B, 400MW off-grid AI data center and gas power plant near Tokyo, set to begin operations around 2028 (Financial Times)",
+        "url": "https://www.techmeme.com/261001/p12#a261001p12",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1790848501000,
+        "summary": "Financial Times: Dell, Jera, and UK-based Rhaelm partner to build a $15B, 400MW off-grid AI data center and gas power plant near Tokyo, set to begin operations around 2028 — Planned 400-megawatt data centre near Tokyo will be among Asia's largest projects outside China — Japan is aiming to speed …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7217
+      },
+      {
+        "id": "f953414ad9fa285d",
+        "title": "Google's first Gemini 4 model is 'Argon'",
+        "url": "https://www.engadget.com/2274263/google-gemini-4-model-argon/",
+        "source": "Engadget",
+        "lane": "ai",
+        "published_ts": 1790846790000,
+        "summary": "Google trained Gemini 4 Argon to be highly capable in knowledge work, cybersecurity defense and creative writing.",
+        "tags": [
+          "ai"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6474
+      },
       {
         "id": "b22ec1f650124bb8",
         "title": "BT Business wants to help UK SMBs get on board with AI — including a new AI receptionist",
@@ -1930,7 +2404,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.9151
+        "score": 0.8366
       },
       {
         "id": "593958a01bde9d79",
@@ -1945,7 +2419,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7384
+        "score": 0.675
       },
       {
         "id": "d73a0b628b9ebf36",
@@ -1960,7 +2434,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3736
+        "score": 1.2558
       },
       {
         "id": "407c6afb5f0ff732",
@@ -1976,7 +2450,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.205
+        "score": 1.1017
       },
       {
         "id": "8bfda29239bdaf7b",
@@ -1989,7 +2463,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7392
+        "score": 0.6757
       },
       {
         "id": "c81207009ca824ba",
@@ -2002,7 +2476,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7368
+        "score": 0.6736
       },
       {
         "id": "d05068e4e55ebcf2",
@@ -2015,7 +2489,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.68
+        "score": 0.6217
       },
       {
         "id": "b9e7b71e8902c98c",
@@ -2030,7 +2504,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7109
+        "score": 0.6499
       },
       {
         "id": "8b86a5bc65d4cc9c",
@@ -2043,7 +2517,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7204
+        "score": 0.6586
       },
       {
         "id": "c131e03c4d0fc696",
@@ -2059,7 +2533,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.924
+        "score": 0.8448
       },
       {
         "id": "53ffe66c1f9be667",
@@ -2074,7 +2548,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6917
+        "score": 0.6324
       },
       {
         "id": "fc1269b0cdbd5af0",
@@ -2090,7 +2564,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "e3f0d3ea28b66fa2",
@@ -2105,7 +2579,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "5b9fcd4d8c4a1fdd",
@@ -2122,7 +2596,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "adcf007008c93bf0",
@@ -2137,7 +2611,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "8b2869bf14075d15",
@@ -2153,7 +2627,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "848529a7e0fe75ff",
@@ -2168,7 +2642,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "45e8f60728d14491",
@@ -2186,7 +2660,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "943ff3d2c2b86d8b",
@@ -2203,7 +2677,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "479314775e1624fe",
@@ -2220,7 +2694,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "efa4f59204f35369",
@@ -2236,7 +2710,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "825b2b6e170516bb",
@@ -2251,7 +2725,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "b148cb7233d2389a",
@@ -2267,7 +2741,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2841
+        "score": 1.1739
       },
       {
         "id": "45b312e4da855a07",
@@ -2280,7 +2754,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6988
+        "score": 0.6388
       },
       {
         "id": "148c5d1cdeff8aff",
@@ -2296,7 +2770,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.9414
+        "score": 0.8606
       },
       {
         "id": "e64cb9bf625f782e",
@@ -2309,7 +2783,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6306
+        "score": 0.5765
       },
       {
         "id": "1135bbed5a895b6e",
@@ -2324,7 +2798,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6523
+        "score": 0.5963
       },
       {
         "id": "57a16151fe99d365",
@@ -2337,7 +2811,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6107
+        "score": 0.5583
       },
       {
         "id": "023c7079f4df8f8c",
@@ -2355,7 +2829,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9036
+        "score": 0.8261
       },
       {
         "id": "15568b49b8a84c22",
@@ -2368,473 +2842,112 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6543
-      },
-      {
-        "id": "b975513f57b7c041",
-        "title": "Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)",
-        "url": "https://www.techmeme.com/260930/p51#a260930p51",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790812502000,
-        "summary": "Jyoti Mann / The Information: Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt — Meta Platforms' Muse now has more than 3 million users who give the AI agent at least one prompt a week, according to internal data reviewed by The Information …",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6512
-      },
-      {
-        "id": "9987123a611819b1",
-        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1790811787000,
-        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-        "tags": [
-          "ai",
-          "gemini",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.624
-      },
-      {
-        "id": "4ca40aa89495e92b",
-        "title": "Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a \"distraction\" at OpenAI (New York Times)",
-        "url": "https://www.techmeme.com/260930/p50#a260930p50",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790810401000,
-        "summary": "New York Times: Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a “distraction” at OpenAI — Greg Brockman, OpenAI's president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5962
-      },
-      {
-        "id": "f0b6c092af92aae4",
-        "title": "Someone ‘Torturing’ LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-        "url": "https://www.reddit.com/r/technology/comments/1wujwwn/someone_torturing_llms_in_a_robot_prison_has/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1790810368000,
-        "summary": "submitted by /u/vgsa [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6259
-      },
-      {
-        "id": "901f7719dad9a0ad",
-        "title": "Michael Burry says it would be for the 'good of humanity' if a market crash stops OpenAI and Anthropic from going public",
-        "url": "https://www.reddit.com/r/technology/comments/1wujpgm/michael_burry_says_it_would_be_for_the_good_of/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1790809802000,
-        "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5778
-      },
-      {
-        "id": "9ab582188da673d0",
-        "title": "Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic",
-        "url": "https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1790809200000,
-        "summary": "Google has unveiled Gemini 4 Argon, a new frontier AI model that it says leads or ties rivals on 13 of 18 disclosed benchmarks. The model is initially being released only to trusted cyber defenders and select pre-release testers, with broader availability planned later. VentureBeat reports: Google is not claiming that Gemini 4 Argon wins every benchmark. But across the benchmark table disclosed in",
-        "tags": [
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1662
-      },
-      {
-        "id": "e500e5d77dc60137",
-        "title": "Confronting demons: How acoustic and AI technology brought ancient Etruscan tombs back to life",
-        "url": "https://phys.org/news/2026-09-demons-acoustic-ai-technology-brought.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1790808004000,
-        "summary": "Although it is not always obvious, sound guides how we experience the world around us. And the latest archaeoacoustic techniques show that even the world's earliest architects understood this.",
-        "tags": [
-          "archaeology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1257
-      },
-      {
-        "id": "44fea1ccb7abbca3",
-        "title": "Factory CEO Matan Grinberg says he terminated Chris Degnan, alleging Degnan confided with Cognition execs while advising Factory before joining Cognition as CRO (Rya Jetha/Business Insider)",
-        "url": "https://www.techmeme.com/260930/p47#a260930p47",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790805900000,
-        "summary": "Rya Jetha / Business Insider: Factory CEO Matan Grinberg says he terminated Chris Degnan, alleging Degnan confided with Cognition execs while advising Factory before joining Cognition as CRO — Factory AI and Cognition, two high-profile San Francisco-based AI startups building coding agents, are publicly feuding …",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6286
-      },
-      {
-        "id": "28ad3279f66cea18",
-        "title": "'Xbox Is Not For Sale,' Says Microsoft's Gaming Chief",
-        "url": "https://games.slashdot.org/story/26/09/30/1954253/xbox-is-not-for-sale-says-microsofts-gaming-chief?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1790805600000,
-        "summary": "Xbox CEO Asha Sharma says Microsoft has no plans to sell the gaming business, telling The New York Times that \"Xbox is not for sale\" and that the company intends to take a long-term view. Windows Central reports: Microsoft's vast layoffs across the summer have hit Xbox in their thousands, with studios like Ninja Theory on the path to being closed, and others like Double Fine being divested complet",
-        "tags": [
-          "xbox"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.8474
-      },
-      {
-        "id": "ee4acd4dac8a7b8e",
-        "title": "Dinosaur-killing impact crater might have been teeming with life",
-        "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1790805252000,
-        "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact.",
-        "tags": [
-          "science",
-          "chixculub",
-          "earth science",
-          "geology",
-          "hydrothermal vents",
-          "impacts"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0069
-      },
-      {
-        "id": "1f198bd10f7504e8",
-        "title": "AI scientist autonomously generates and validates new biological discoveries",
-        "url": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1790804413000,
-        "summary": "Researchers at Chalmers University of Technology in Sweden have developed an AI scientist capable of generating scientific hypotheses, designing experiments and interpreting results. Making new biological discoveries with minimal human intervention is an important advance in self-driving laboratories.",
-        "tags": [
-          "cell & microbiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1043
-      },
-      {
-        "id": "2c6508c47717cb40",
-        "title": "AI training of copyrighted material not fair use: Third Circuit",
-        "url": "https://www.reddit.com/r/technology/comments/1wuhnax/ai_training_of_copyrighted_material_not_fair_use/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1790804397000,
-        "summary": "submitted by /u/binding_swamp [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6062
-      },
-      {
-        "id": "0defc1eaf3c28fa6",
-        "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
-        "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1790804274000,
-        "summary": "State health officials race to vaccinate residents by giving over 8,500 doses.",
-        "tags": [
-          "health",
-          "anti-vaccine",
-          "death",
-          "infectious disease",
-          "measles",
-          "outbreak"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0017
-      },
-      {
-        "id": "459c73012a91ca69",
-        "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
-        "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1790804160000,
-        "summary": "US model makers can train on web data - but distilling theirs is a 'national security risk'",
-        "tags": [
-          "security"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0511
-      },
-      {
-        "id": "396e3f7f2faf356f",
-        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1790802460000,
-        "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-        "tags": [
-          "ai",
-          "startups",
-          "tc"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6411
-      },
-      {
-        "id": "b44a87f82fdacd15",
-        "title": "Hot Dog! America's new chatbot is packed with wieners",
-        "url": "https://www.theregister.com/public-sector/2026/09/30/hot-dog-americas-new-chatbot-is-packed-with-wieners/5300292",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1790802423000,
-        "summary": "Just ask America.gov and you'll receive a favorite July 4th food.",
-        "tags": [
-          "public sector"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0414
-      },
-      {
-        "id": "3d72149dbf0a2ac0",
-        "title": "Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates (CNBC)",
-        "url": "https://www.techmeme.com/260930/p46#a260930p46",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790802051000,
-        "summary": "CNBC: Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates — Micron reported better-than-expected quarterly results on Wednesday as the memory maker continues to benefit from soaring demand for AI infrastructure.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6158
-      },
-      {
-        "id": "51ce3e66fa42825e",
-        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1790800901000,
-        "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
-        "tags": [
-          "ai",
-          "google",
-          "news",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8415
-      },
-      {
-        "id": "c0f9735c79589f89",
-        "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-        "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1790800749000,
-        "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
-        "tags": [
-          "startups",
-          "venture",
-          "cognition",
-          "factory"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6353
-      },
-      {
-        "id": "16ad017b4863cf8f",
-        "title": "$6,399 — that's how much GMKTec sells its EVO-X5 Pro mini PC with an AMD Max+ PRO 495 and 192GB RAM, and that's the cheapest fully loaded Gorgon Halo device",
-        "url": "https://www.techradar.com/pro/usd6-399-thats-how-much-gmktec-sells-its-evo-x5-pro-mini-pc-with-an-amd-max-pro-495-and-192gb-ram-and-thats-the-cheapest-fully-loaded-gorgon-halo-device",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1790800500000,
-        "summary": "GMKtec launched the EVO-X5 Pro for $6,399, pairing 192GB of memory with a Ryzen AI Max+ PRO 495 chip.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9012
-      },
-      {
-        "id": "c552716c3b7f67c6",
-        "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
-        "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1790799374000,
-        "summary": "The chips may not be as advanced, but they won't get banned at a moment's notice, Eric Xu says",
-        "tags": [
-          "systems"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1065
-      },
-      {
-        "id": "47fb5580c9bc8782",
-        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-        "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1790799068000,
-        "summary": "So much for Gemini 3.5 Pro.",
-        "tags": [
-          "ai",
-          "google",
-          "artificial intelligence",
-          "gemini 4",
-          "generative ai",
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0521
-      },
-      {
-        "id": "13acbc8e41af405b",
-        "title": "Trump Launches a US Government Chatbot. It’s Got Some Quirks",
-        "url": "https://www.cnet.com/tech/services-and-software/trump-launches-us-government-chatbot-america-gov-quirks/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1790799040000,
-        "summary": "America.gov wants to answer questions about government services. Just don’t ask it to play Minecraft, or type in the word “hotdog.”",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.639
-      },
-      {
-        "id": "90a434c45f800dbf",
-        "title": "Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process (Madison Mills/Axios)",
-        "url": "https://www.techmeme.com/260930/p43#a260930p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790799001000,
-        "summary": "Madison Mills / Axios: Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process — Google is unveiling its long-awaited next-generation AI model, Gemini 4 Argon, to a small group of cybersecurity partners, the company said Wednesday.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6058
-      },
-      {
-        "id": "058d2fae280c5750",
-        "title": "Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks (Madison Mills/Axios)",
-        "url": "https://www.techmeme.com/260930/p43#a260930p43",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790799001000,
-        "summary": "Madison Mills / Axios: Google rolls out Gemini 4 Argon to a small group of cybersecurity partners and says it outperforms GPT-6 Astra on certain coding and knowledge work benchmarks — Google is unveiling its long-awaited next-generation AI model, Gemini 4 Argon, to a small group of cybersecurity partners, the company said Wednesday.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6058
-      },
-      {
-        "id": "15101413e3373f39",
-        "title": "Gemini 4 Argon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1790798677000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:508"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0208
-      },
-      {
-        "id": "95c34451028c17c1",
-        "title": "Google Reportedly Tests Paying Publishers For AI Search Results",
-        "url": "https://tech.slashdot.org/story/26/09/30/1851246/google-reportedly-tests-paying-publishers-for-ai-search-results?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "ai",
-        "published_ts": 1790798400000,
-        "summary": "Google is reportedly testing a program that pays around 100 publishers based on how much their content contributes to its AI-powered search features. According to The Information, one publisher earned more than $1 million over a year, while another has received roughly $50,000 to $60,000.\" Digiday reports: Once a publisher joins the \"AI contribution pilot,\" they receive an extra AI earnings widget",
-        "tags": [
-          "google"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1008
-      },
-      {
-        "id": "0b30e5d8f1ec38df",
-        "title": "CS240 AI Cheating Retrospective",
-        "url": "https://turkeyland.net/thoughts/ai.php",
-        "source": "Hacker News",
-        "lane": "ai",
-        "published_ts": 1790798069000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:6"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0988
-      },
-      {
-        "id": "bf4b8b299e9c9fc4",
-        "title": "US government reveals $5.25 billion spending on boosting national grid to help power new AI data centers — money will cover 31 projects across 26 states, but how will it affect energy bills?",
-        "url": "https://www.techradar.com/pro/us-government-reveals-usd5-25-billion-spending-on-boosting-national-grid-to-help-power-new-ai-data-centers-money-will-cover-31-projects-across-26-states-but-how-will-it-affect-energy-bills",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1790797500000,
-        "summary": "Funding comes in addition to larger commitments from utilities, and it chooses to focus on wires and sensors instead of power plants.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8868
-      },
-      {
-        "id": "020ca731126f97c5",
-        "title": "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)",
-        "url": "https://www.techmeme.com/260930/p42#a260930p42",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1790796901000,
-        "summary": "Sarah Perez / TechCrunch: Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March — Amid a number of updates for moderators and developers announced Wednesday comes bad news for supporters of a more open web: Reddit is ending support for RSS feeds.",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.599
+        "score": 0.5982
       }
     ],
     "science": [
+      {
+        "id": "150044bf47b8a9ac",
+        "title": "What Does the Fourth Dimension Actually Look Like?",
+        "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+        "source": "Quanta Magazine",
+        "lane": "science",
+        "published_ts": 1790860829000,
+        "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
+        "tags": [
+          "mathematics",
+          "multimedia"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.4251
+      },
+      {
+        "id": "0ba49e91f5c7bab1",
+        "title": "Amazon has moved the power button on all its new Kindles — and I feel vindicated",
+        "url": "https://www.techradar.com/tablets/ereaders/amazon-new-kindles-for-2026",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1790859600000,
+        "summary": "Amazon has a whole new line of Kindles with better materials, subtle redesigns, a moved power button — and some very unusual accessories.",
+        "tags": [
+          "ereaders",
+          "tablets"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0464
+      },
+      {
+        "id": "bcfb6e1e9d170ede",
+        "title": "Songs of the Past director says it was originally 'impossible from a technological standpoint' to have Geralt's silver chain in The Witcher 3 — 'The physics and animation technology had to go a little bit forward in time'",
+        "url": "https://www.techradar.com/gaming/songs-of-the-past-director-says-it-was-originally-impossible-from-a-technological-standpoint-to-have-geralts-silver-chain-in-the-witcher-3-the-physics-and-animation-technology-had-to-go-a-little-bit-forward-in-time",
+        "source": "TechRadar",
+        "lane": "science",
+        "published_ts": 1790859114000,
+        "summary": "CD Projekt Red has revealed that modern technology has finally allowed the team to add the silver chain to The Witcher 3's upcoming Songs of the Past expansion.",
+        "tags": [
+          "gaming"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.0437
+      },
+      {
+        "id": "1b6446952331b8b3",
+        "title": "New parallel gate entangles diamond qubits 10 times faster at room temperature",
+        "url": "https://phys.org/news/2026-09-parallel-gate-entangles-diamond-qubits.html",
+        "source": "Phys.org",
+        "lane": "science",
+        "published_ts": 1790858416000,
+        "summary": "Quantum technologies rely on qubits, units of information that can exist in combinations of the states 0 and 1 instead of being limited to one or the other like conventional bits. Qubits can become entangled, which means their states become linked in ways that cannot be explained by considering each qubit separately.",
+        "tags": [
+          "condensed matter"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3476
+      },
+      {
+        "id": "b7d7af1d052076d2",
+        "title": "Apple Stores Receive 'Do Not Open' Boxes Ahead of Smart Home Products Launch",
+        "url": "https://www.macrumors.com/2026/10/01/apple-stores-receive-do-not-open-boxes/",
+        "source": "Mac Rumors",
+        "lane": "science",
+        "published_ts": 1790855967000,
+        "summary": "Apple Stores around the world are preparing to install new product presentations starting on Thursday, October 8. Apple retail stores received confidential boxes earlier this week featuring \"Do Not Open Until October 8\" stickers on them. They are believed to contain new visual merchandise, which enables workers to update labels, graphics, and product layouts in stores around the release of new pro",
+        "tags": [
+          "apple tv",
+          "featured",
+          "homepod mini",
+          "apple command center",
+          "apple smart home display",
+          "retail"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.304
+      },
+      {
+        "id": "45eea8cd83a1165c",
+        "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+        "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+        "source": "Ars Technica AI",
+        "lane": "science",
+        "published_ts": 1790853315000,
+        "summary": "\"We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
+        "tags": [
+          "space",
+          "astronomy",
+          "astrophysics",
+          "commercial space",
+          "gamma rays",
+          "katalyst space"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.1904
+      },
       {
         "id": "a1628ad81a1ac999",
         "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
@@ -2848,7 +2961,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.189
+        "score": 1.087
       },
       {
         "id": "ced96f7d3d409ce6",
@@ -2863,7 +2976,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.189
+        "score": 1.087
       },
       {
         "id": "469ccb94d94d953a",
@@ -2882,7 +2995,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2711
+        "score": 1.1621
       },
       {
         "id": "1750cfec3250e35f",
@@ -2895,7 +3008,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.2057
+        "score": 1.1023
       },
       {
         "id": "f887695d1d4cc169",
@@ -2910,7 +3023,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9114
+        "score": 0.8332
       },
       {
         "id": "4a5c321331540ede",
@@ -2923,7 +3036,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7068
+        "score": 0.6462
       },
       {
         "id": "fe54ff28bfcf11fd",
@@ -2938,7 +3051,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0225
+        "score": 0.9348
       },
       {
         "id": "eb6ce629b35fd464",
@@ -2953,7 +3066,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0159
+        "score": 0.9287
       },
       {
         "id": "b8d5a723c693c77d",
@@ -2971,7 +3084,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9723
+        "score": 0.8889
       },
       {
         "id": "c93f9b786982fde0",
@@ -2986,7 +3099,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0113
+        "score": 0.9246
       },
       {
         "id": "3d3e6b327d34a94f",
@@ -3001,7 +3114,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9651
+        "score": 0.8823
       },
       {
         "id": "12301f4c7958168d",
@@ -3021,7 +3134,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9342
+        "score": 0.854
       },
       {
         "id": "4620e8f8296a6ba6",
@@ -3036,7 +3149,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9406
+        "score": 0.8599
       },
       {
         "id": "79f538aa4534a5c0",
@@ -3051,7 +3164,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9405
+        "score": 0.8598
       },
       {
         "id": "6cfcf39a3b8c556e",
@@ -3066,7 +3179,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9346
+        "score": 0.8544
       },
       {
         "id": "22d397e10fb0444a",
@@ -3085,7 +3198,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6345
+        "score": 0.5801
       },
       {
         "id": "143adc9ac75dc2cb",
@@ -3104,7 +3217,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8859
+        "score": 0.8099
       },
       {
         "id": "a81516721fa01b2b",
@@ -3119,7 +3232,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5496
+        "score": 0.5024
       },
       {
         "id": "8ac095f07778fd35",
@@ -3134,7 +3247,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7858
+        "score": 0.7184
       },
       {
         "id": "454a34efd1365d20",
@@ -3150,7 +3263,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8089
+        "score": 0.7395
       },
       {
         "id": "d600d5c7d2d87f6f",
@@ -3166,7 +3279,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8089
+        "score": 0.7395
       },
       {
         "id": "2f12c7e88e723bfa",
@@ -3184,7 +3297,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8089
+        "score": 0.7395
       },
       {
         "id": "179465a57fc07fa1",
@@ -3199,7 +3312,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.749
+        "score": 0.6848
       },
       {
         "id": "a0a3da2bc356294b",
@@ -3214,7 +3327,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.749
+        "score": 0.6848
       },
       {
         "id": "1bee1be0eea4bed2",
@@ -3230,7 +3343,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.749
+        "score": 0.6848
       },
       {
         "id": "b9e998571a36aedd",
@@ -3243,7 +3356,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8203
+        "score": 0.7499
       },
       {
         "id": "b7dfcd271732104e",
@@ -3256,7 +3369,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8203
+        "score": 0.7499
       },
       {
         "id": "6fef9e40c3549f75",
@@ -3269,7 +3382,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8203
+        "score": 0.7499
       },
       {
         "id": "3cd56d18ed5f0a64",
@@ -3282,7 +3395,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "ccc75c2ce7168cfc",
@@ -3295,7 +3408,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "8e7f29499f7120ab",
@@ -3308,7 +3421,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "4cf21349096c43e0",
@@ -3321,7 +3434,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "27f1b31f1cba50f2",
@@ -3334,7 +3447,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "2e8b9a56e943f54a",
@@ -3347,7 +3460,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "6b6421ce4454cde8",
@@ -3360,7 +3473,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "2f107e75bd796af3",
@@ -3373,7 +3486,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.7595
+        "score": 0.6944
       },
       {
         "id": "54e572dd46ffb3df",
@@ -3388,7 +3501,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6912
+        "score": 0.6319
       },
       {
         "id": "bf8b8a1e7a0e1a97",
@@ -3403,7 +3516,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6868
+        "score": 0.6279
       },
       {
         "id": "623cb676742f47f2",
@@ -3418,7 +3531,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.678
+        "score": 0.6198
       },
       {
         "id": "862e0899b86fa3e1",
@@ -3438,7 +3551,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5949
+        "score": 0.5438
       },
       {
         "id": "74bf82c0128e461a",
@@ -3453,7 +3566,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6482
+        "score": 0.5926
       },
       {
         "id": "07a81a7440d4cb20",
@@ -3468,7 +3581,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.3204
+        "score": 0.2929
       },
       {
         "id": "21bb33d86373d775",
@@ -3483,7 +3596,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6197
+        "score": 0.5666
       },
       {
         "id": "7268097b5e19cf0d",
@@ -3496,7 +3609,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.6014
+        "score": 0.5498
       },
       {
         "id": "5884a2482262872d",
@@ -3516,7 +3629,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.4414
+        "score": 0.4035
       },
       {
         "id": "c315dfe90a80c5c5",
@@ -3531,7 +3644,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5506
+        "score": 0.5034
       },
       {
         "id": "533f35e20e637d93",
@@ -3547,7 +3660,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5554
+        "score": 0.5078
       },
       {
         "id": "b3726dd89801362f",
@@ -3564,7 +3677,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5399
+        "score": 0.4936
       },
       {
         "id": "951f3ad9410b8042",
@@ -3579,7 +3692,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5399
+        "score": 0.4936
       },
       {
         "id": "9c97c806ac6d9e2e",
@@ -3595,7 +3708,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5314
+        "score": 0.4858
       },
       {
         "id": "8461f7825f3bf4c2",
@@ -3610,7 +3723,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5557
+        "score": 0.508
       },
       {
         "id": "b4bc380bf127ca65",
@@ -3625,7 +3738,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5399
+        "score": 0.4936
       },
       {
         "id": "6862ec5d0a468e51",
@@ -3641,7 +3754,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5096
+        "score": 0.4659
       },
       {
         "id": "e53cb0c652a75e27",
@@ -3656,89 +3769,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.4718
-      },
-      {
-        "id": "9a78c28a968135d9",
-        "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
-        "url": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1790652600000,
-        "summary": "An anonymous reader quotes a report from The Guardian: It is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled color now one step closer to reaching British shoppers. According to Tropic, the Norwich-based agricultural-biotechnology company that devel",
-        "tags": [
-          "biotech"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.4673
-      },
-      {
-        "id": "9ef6d597aadbcafe",
-        "title": "Microsoft will give DARPA on-site access to its latest quantum computing hardware as it opens a new Maryland research center",
-        "url": "https://www.techradar.com/pro/microsoft-will-give-darpa-on-site-access-to-its-latest-quantum-computing-hardware-as-it-opens-a-new-maryland-research-center",
-        "source": "TechRadar",
-        "lane": "science",
-        "published_ts": 1790641200000,
-        "summary": "Microsoft's new Maryland quantum center gives DARPA direct access to Majorana 2 for independent testing of its controversial topological computing approach.",
-        "tags": [
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.3844
-      },
-      {
-        "id": "8a4e44d99d57ce49",
-        "title": "Emissions after the Paris accord made Europe’s heatwaves more severe",
-        "url": "https://www.nature.com/articles/d41586-026-03035-w",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1790640000000,
-        "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-03035-wA heatwave in 2025 would have been one-third of a degree cooler without the greenhouse gases released since 2015.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.4785
-      },
-      {
-        "id": "c6b602bc56f75336",
-        "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
-        "url": "https://www.nature.com/articles/s41586-026-11083-5",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1790640000000,
-        "summary": "Nature, Published online: 29 September 2026; doi:10.1038/s41586-026-11083-5Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.4785
-      },
-      {
-        "id": "a25742d8216adcf0",
-        "title": "Strange and beautiful creatures spotted on the <i>Challenger</i> expedition",
-        "url": "https://www.nature.com/articles/d41586-026-02972-w",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1790640000000,
-        "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02972-wA genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.4785
-      },
-      {
-        "id": "5bbcf703435393cb",
-        "title": "Chinese-owned science journal created to rival the best",
-        "url": "https://www.nature.com/articles/d41586-026-02759-z",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1790640000000,
-        "summary": "Nature, Published online: 29 September 2026; doi:10.1038/d41586-026-02759-zNewly-launched Vita is part of a broader government plan to give China a bigger say in what counts as high quality science.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.4785
+        "score": 0.4314
       }
     ]
   },
