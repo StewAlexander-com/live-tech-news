@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-10-28T03:59:48.126959+00:00",
+  "generated_at": "2026-10-28T06:05:19.889914+00:00",
   "lanes": {
     "gadgets": [
+      {
+        "id": "f79eda090a88d222",
+        "title": "Google Photos finally lets you clean up your cluttered Collections tab. Here's how",
+        "url": "https://www.androidpolice.com/google-photos-lets-you-clean-up-cluttered-collections-tab-library-guide/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1793166833000,
+        "summary": "Pin, hide, or arrange albums the way you want",
+        "tags": [
+          "google photos",
+          "google",
+          "applications",
+          "google photos",
+          "free apps"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2454
+      },
+      {
+        "id": "1213ca2060c60972",
+        "title": "Android 18 will give your phonebook a much-needed privacy upgrade",
+        "url": "https://www.androidpolice.com/android-18-phonebook-much-needed-privacy-upgrade/",
+        "source": "Android Police",
+        "lane": "gadgets",
+        "published_ts": 1793162140000,
+        "summary": "New permission to manage contacts",
+        "tags": [
+          "android",
+          "operating systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2145
+      },
+      {
+        "id": "3ba2587a4e53fb71",
+        "title": "SK Hynix says memory shortages to persist until 2030",
+        "url": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887",
+        "source": "The Register",
+        "lane": "gadgets",
+        "published_ts": 1793161283000,
+        "summary": "Good for its bottom line, not great news for yours, or for the PC and smartphone markets",
+        "tags": [
+          "systems"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2694
+      },
+      {
+        "id": "acda3442600f6ea1",
+        "title": "Plenty of Room in the Middle: Revealing Opportunities on a GPU Cluster via Fine-Grained Monitoring",
+        "url": "https://arxiv.org/abs/2610.36329",
+        "source": "arXiv cs.AI",
+        "lane": "gadgets",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36329v1 Announce Type: new Abstract: GPU clusters have become essential computing resources for AI and scientific research in academia and industry. However, their high cost and growing demand often result in long queueing delays. While previous monitoring efforts have operated at second- or minute-level frequencies, they primarily informed job-level scheduling for clusters and lacked t",
+        "tags": [
+          "cs.ai",
+          "cs.dc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "83c50ba582264c57",
+        "title": "FG-ConvNO: A Geometry-Aware Neural Operator for Propeller CFD Prediction",
+        "url": "https://arxiv.org/abs/2610.33456",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33456v1 Announce Type: new Abstract: Computational Fluid Dynamics (CFD) is essential in contemporary engineering design, yet it remains expensive to compute and can take thousands of CPU/GPU hours or more for a single high-fidelity simulation. Recent developments in machine learning for scientific modeling have led to powerful surrogate frameworks that can approximate flow fields and ph",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "595ddd3c3eafa668",
+        "title": "Feature Scaling Beats Architecture Choice in Offline Respiratory Screening for Low-Resource Clinics",
+        "url": "https://arxiv.org/abs/2610.33030",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33030v1 Announce Type: new Abstract: Deep models are the usual choice for respiratory sound classification, but in clinics without GPUs or connectivity that choice carries a cost. We compare classical and deep classifiers on a five-class respiratory-sound corpus of 1,211 clips (asthma, COPD, pneumonia, Bronchial, healthy) from 201 patient groups, with a 3.86:1 class imbalance, using pre",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.sd"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
+      {
+        "id": "e954854ce2e78d22",
+        "title": "One Call Ahead: Packed Self-Speculative Decoding with Diffusion Drafting",
+        "url": "https://arxiv.org/abs/2610.33379",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33379v1 Announce Type: new Abstract: Autoregressive (AR) language models generate tokens sequentially, so generating long outputs is costly. Speculative decoding mitigates this by using a lightweight drafter to propose multiple tokens for the target AR model to verify in parallel, while a diffusion-based drafter can produce an entire draft block in one forward pass. In models with AR an",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
+      {
+        "id": "210fd625351531dc",
+        "title": "COPE: Composable Performance Emulation for Mixture-of-Experts Offloading Policies",
+        "url": "https://arxiv.org/abs/2610.33404",
+        "source": "arXiv cs.LG",
+        "lane": "gadgets",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33404v1 Announce Type: new Abstract: As LLMs scale, mixture-of-experts (MoE) architectures increase model capacity while keeping per-token computation manageable through sparse expert activation. This sparsity also enables memory-efficient deployment by retaining most expert weights in CPU memory and transferring or executing only the routed experts on demand. Existing MoE offloading sy",
+        "tags": [
+          "cs.lg",
+          "cs.dc",
+          "cs.pf"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
       {
         "id": "c4cf59a692162dc7",
         "title": "This 'waterproof' rugged Android tablet has two features no other slates have — a LAN port and HDMI connector",
@@ -15,7 +145,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0849
+        "score": 1.0421
       },
       {
         "id": "e2546d6125b667ad",
@@ -33,7 +163,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0791
+        "score": 1.0365
       },
       {
         "id": "49bcb076b5c8a807",
@@ -49,7 +179,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9925
+        "score": 0.9533
       },
       {
         "id": "95c65cd4e7cbab39",
@@ -64,7 +194,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.987
+        "score": 0.948
       },
       {
         "id": "f7d4b7b942a0f958",
@@ -80,7 +210,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6519
+        "score": 0.6261
       },
       {
         "id": "9f32b164e7849ee0",
@@ -95,7 +225,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6456
+        "score": 0.6201
       },
       {
         "id": "4b1be93d5f248d98",
@@ -111,7 +241,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1428
+        "score": 1.0977
       },
       {
         "id": "21ac0b7b5aa3ea7a",
@@ -130,7 +260,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9666
+        "score": 0.9284
       },
       {
         "id": "639078fba8274c28",
@@ -145,7 +275,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6404
+        "score": 0.6151
       },
       {
         "id": "71dbd4a8ce5a2dd3",
@@ -162,7 +292,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1358
+        "score": 1.0909
       },
       {
         "id": "d093f34710885c71",
@@ -178,7 +308,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1354
+        "score": 1.0906
       },
       {
         "id": "4e233a7b9eefa090",
@@ -193,7 +323,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6394
+        "score": 0.6142
       },
       {
         "id": "0d8e7c4216221e10",
@@ -208,7 +338,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.744
+        "score": 0.7146
       },
       {
         "id": "9b30512f255a780d",
@@ -228,7 +358,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9696
+        "score": 0.9313
       },
       {
         "id": "cdb72b10a2f46858",
@@ -245,7 +375,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2144
+        "score": 1.1664
       },
       {
         "id": "fb11714264f4db10",
@@ -258,7 +388,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6973
+        "score": 0.6697
       },
       {
         "id": "05428f5f318f1585",
@@ -273,7 +403,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9527
+        "score": 0.9151
       },
       {
         "id": "8f1afdc4bae49602",
@@ -291,7 +421,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1171
+        "score": 1.073
       },
       {
         "id": "71d9c98e0f14b5f9",
@@ -309,7 +439,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9466
+        "score": 0.9093
       },
       {
         "id": "9020ef84a7bc4e6d",
@@ -324,7 +454,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6272
+        "score": 0.6025
       },
       {
         "id": "caae8ed49a17c560",
@@ -339,7 +469,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7303
+        "score": 0.7015
       },
       {
         "id": "19dfe3c4c272f562",
@@ -354,7 +484,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6223
+        "score": 0.5977
       },
       {
         "id": "6d45bbb840569aa4",
@@ -369,7 +499,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6701
+        "score": 0.6437
       },
       {
         "id": "12e9ed29b9e38fa7",
@@ -384,7 +514,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9316
+        "score": 0.8948
       },
       {
         "id": "65e87744c3f9dc72",
@@ -399,7 +529,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9301
+        "score": 0.8934
       },
       {
         "id": "b39a44e732ce33d6",
@@ -419,7 +549,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0925
+        "score": 1.0494
       },
       {
         "id": "21a9217ba700a6f3",
@@ -437,7 +567,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0858
+        "score": 1.043
       },
       {
         "id": "111d75e852b82a79",
@@ -452,7 +582,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7114
+        "score": 0.6833
       },
       {
         "id": "1895191530bda043",
@@ -467,7 +597,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0843
+        "score": 1.0415
       },
       {
         "id": "66d1b453c3e421f8",
@@ -482,7 +612,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9869
+        "score": 0.9479
       },
       {
         "id": "f448af0561a32f37",
@@ -502,7 +632,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9126
+        "score": 0.8765
       },
       {
         "id": "0fef77b3ca4294a5",
@@ -519,7 +649,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9109
+        "score": 0.8749
       },
       {
         "id": "57dedf4928b6013d",
@@ -534,7 +664,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6026
+        "score": 0.5788
       },
       {
         "id": "1ede9b0c7dd1dc5a",
@@ -549,7 +679,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5996
+        "score": 0.5759
       },
       {
         "id": "ff8def421c0c5d91",
@@ -569,7 +699,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.009
+        "score": 0.9691
       },
       {
         "id": "2d4eb63cb2df8749",
@@ -589,7 +719,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6712
+        "score": 0.6447
       },
       {
         "id": "6f1c1760049d2f8e",
@@ -608,7 +738,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6586
+        "score": 0.6326
       },
       {
         "id": "54d6fef85c3a003f",
@@ -628,7 +758,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6435
+        "score": 0.6181
       },
       {
         "id": "9bc7d9e626ba8497",
@@ -643,7 +773,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0827
+        "score": 1.04
       },
       {
         "id": "d9908d08eeaa25fb",
@@ -658,7 +788,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5807
+        "score": 0.5578
       },
       {
         "id": "2475f5c15e0160b1",
@@ -675,7 +805,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0262
+        "score": 0.9857
       },
       {
         "id": "d01b0acaca63d650",
@@ -690,7 +820,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9742
+        "score": 0.9357
       },
       {
         "id": "776783e37531d0d0",
@@ -706,7 +836,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8706
+        "score": 0.8362
       },
       {
         "id": "67b58ea816d94d91",
@@ -722,7 +852,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9724
+        "score": 0.934
       },
       {
         "id": "edf1c10dfedee49e",
@@ -739,7 +869,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8677
+        "score": 0.8334
       },
       {
         "id": "a7e56cdddc91889f",
@@ -759,7 +889,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2093
+        "score": 1.1615
       },
       {
         "id": "1c18f3eb414d2699",
@@ -775,7 +905,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0157
+        "score": 0.9756
       },
       {
         "id": "e187ace91cb8c78c",
@@ -794,7 +924,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0925
+        "score": 1.0494
       },
       {
         "id": "bb9aedf2748e1384",
@@ -809,7 +939,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8598
+        "score": 0.8258
       },
       {
         "id": "eb023fa1cd925614",
@@ -827,7 +957,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6409
+        "score": 0.6156
       },
       {
         "id": "2008c388b3a9c8ec",
@@ -842,143 +972,104 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5692
-      },
-      {
-        "id": "b9506000f17cea86",
-        "title": "Why does the FCC hate Minions routers?",
-        "url": "https://www.engadget.com/2296043/why-does-the-fcc-hate-minions-routers/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1793119500000,
-        "summary": "These themed routers are surprisingly (inexplicably) capable, but they are under threat by the FCC.",
-        "tags": [
-          "computing"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5669
-      },
-      {
-        "id": "124dd32f4958c14b",
-        "title": "Meta’s $25 billion legal loss just put blood in the water",
-        "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1793119480000,
-        "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 […]",
-        "tags": [
-          "analysis",
-          "meta",
-          "policy",
-          "report",
-          "social media",
-          "tech"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6377
-      },
-      {
-        "id": "d819768e28091e19",
-        "title": "Apple Also Announces iMac With M6",
-        "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-        "source": "Daring Fireball",
-        "lane": "gadgets",
-        "published_ts": 1793119450000,
-        "summary": "Just a speed bump, but speed bumps are good. Pricing and configurations: M6 with 2 Thunderbolt ports: Base price: $1500 RAM: 16 GB +0 24 GB +200 SSD: 256 GB +0 512 GB +200 1 TB +500 M6 with 4 Thunderbolt ports: Base price: $1700 RAM: 16 GB +0 24 GB +200 SSD: 256 GB +0 512 GB +200 1 TB +500 2 TB +1000 Base price: $2300 RAM: 32 GB +0 SSD: 512 GB +0 1 TB +300 2 TB +800 I list a separate base price fo",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0869
-      },
-      {
-        "id": "789342dcc8d9478e",
-        "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
-        "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
-        "source": "Mac Rumors",
-        "lane": "gadgets",
-        "published_ts": 1793118867000,
-        "summary": "Bloomberg's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in the first half of 2027. He previously mentioned that the new model will feature an A19 Pro chip, 12GB of RAM, and new color options. Released in March 2026, the current MacBook Neo has an A18 Pro chip with 8GB of RAM, and it is available in Silver, Blush, Citrus, and Indigo. In the U.S., the lapto",
-        "tags": [
-          "macbook neo",
-          "no linkback",
-          "mark gurman"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0835
-      },
-      {
-        "id": "c4135fe9c1e18d70",
-        "title": "CD players are back, and this new Musical Fidelity buy has an 'incredibly attractive price': the same as an Oppo A7 Pro Max smartphone",
-        "url": "https://www.techradar.com/audio/portable-media-players/cd-players-are-back-and-this-new-musical-fidelity-buy-has-an-incredibly-attractive-price-the-same-as-an-oppo-a7-pro-max-smartphone",
-        "source": "TechRadar",
-        "lane": "gadgets",
-        "published_ts": 1793118802000,
-        "summary": "The Musical Fidelity B1xcd is a CD player which capitalizes on the physical media resurgence, and it costs less than alternative models on the market.",
-        "tags": [
-          "portable media players",
-          "audio"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8524
-      },
-      {
-        "id": "7f9b66e8e21fb8b3",
-        "title": "Baseus' Spacemate RD1 Plus is a 14-in-1 dock that works flat on a desk or upright",
-        "url": "https://www.androidpolice.com/baseus-spacemate-rd1-plus-14-in-1-dock/",
-        "source": "Android Police",
-        "lane": "gadgets",
-        "published_ts": 1793118610000,
-        "summary": "This article is sponsored by Baseus",
-        "tags": [
-          "dock",
-          "sponsored",
-          "productivity"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0018
-      },
-      {
-        "id": "29552bee47c8bc5b",
-        "title": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
-        "url": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
-        "source": "Engadget",
-        "lane": "gadgets",
-        "published_ts": 1793117700000,
-        "summary": "With the iPhone Duo now in people's hands, how does it compare to Google's Pixel 11 Pro Fold?",
-        "tags": [
-          "smartphones"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.5615
-      },
-      {
-        "id": "6d4844190f7dfca3",
-        "title": "Major League Baseball is looking for a new kind of fan",
-        "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-        "source": "The Verge",
-        "lane": "gadgets",
-        "published_ts": 1793116963000,
-        "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, and more sliding into home […]",
-        "tags": [
-          "creators",
-          "culture",
-          "entertainment",
-          "internet culture",
-          "report",
-          "sports"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6292
+        "score": 0.5468
       }
     ],
     "innovation": [
+      {
+        "id": "b7a4a87ab2d59011",
+        "title": "SK Hynix expects memory shortages to persist through at least 2030; it has long-term deals with 14 major buyers for 50%+ of its output in 2027 and 2028 (Simon Sharwood/The Register)",
+        "url": "https://www.techmeme.com/261028/p8#a261028p8",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1793167350000,
+        "summary": "Simon Sharwood / The Register: SK Hynix expects memory shortages to persist through at least 2030; it has long-term deals with 14 major buyers for 50%+ of its output in 2027 and 2028 — Korean memory-maker SK Hynix has predicted memory shortages will persist until at least the year 2030 and says that will help it to boost …",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7193
+      },
+      {
+        "id": "4e7dc2055297869e",
+        "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+        "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+        "source": "TechCrunch",
+        "lane": "innovation",
+        "published_ts": 1793164832000,
+        "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+        "tags": [
+          "enterprise",
+          "mukesh ambani",
+          "reliance",
+          "reliance jio",
+          "reliance jio platforms"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7373
+      },
+      {
+        "id": "7a85355f8f3c336c",
+        "title": "Jio Platforms, India's largest telecom and digital services company, rose 21.4% in its trading debut after raising ~$3.2B in the country's largest IPO (Priyanka Salve/CNBC)",
+        "url": "https://www.techmeme.com/261028/p4#a261028p4",
+        "source": "Techmeme",
+        "lane": "innovation",
+        "published_ts": 1793164202000,
+        "summary": "Priyanka Salve / CNBC: Jio Platforms, India's largest telecom and digital services company, rose 21.4% in its trading debut after raising ~$3.2B in the country's largest IPO — Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7073
+      },
+      {
+        "id": "8c4ecc7460f57bf6",
+        "title": "Hacking a Marine Radio Dish",
+        "url": "https://hackaday.com/2026/10/27/hacking-a-marine-radio-dish/",
+        "source": "Hackaday",
+        "lane": "innovation",
+        "published_ts": 1793163631000,
+        "summary": "Having watched some fun videos on repurposed satellite dishes on YouTube, [Melan] wanted to get in on the action. She managed to source herself an Intellian i4, a dish built …read more",
+        "tags": [
+          "radio hacks",
+          "nmea",
+          "satellite",
+          "satellite dish"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.428
+      },
+      {
+        "id": "5c350fd4c1b1f192",
+        "title": "RBGA: Residual-Budget Guide Arbitration for Offline-to-Online Safe Reinforcement Learning in Dexterous Manipulation",
+        "url": "https://arxiv.org/abs/2610.33494",
+        "source": "arXiv cs.LG",
+        "lane": "innovation",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33494v1 Announce Type: new Abstract: Dexterous manipulation requires robots to leverage existing datasets for rapid skill acquisition while maintaining safety during real-world deployment to prevent damage to the robot or its surroundings. Offline-to-online safe reinforcement learning (O2O safe RL) provides a promising solution for this problem by leveraging prior experience for online ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "4a8b4a0b947094aa",
+        "title": "MedConstBench: Benchmarking How Constitutions Steer LLMs in Medical Ethics",
+        "url": "https://arxiv.org/abs/2610.36513",
+        "source": "arXiv cs.AI",
+        "lane": "innovation",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36513v1 Announce Type: new Abstract: As large language models advance rapidly, they are increasingly used to answer medical questions, and many such models are now deployed locally. Once a model is deployed, its behavior is governed mainly by the ethical policy written into its constitution. However, most existing work focuses on factual correctness rather than the trade-off between com",
+        "tags": [
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
       {
         "id": "0eb1832c99467519",
         "title": "iOS 27.2 brings two new features to Apple's CarPlay",
@@ -992,7 +1083,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7022
+        "score": 0.6745
       },
       {
         "id": "aa5fd457c93adbf7",
@@ -1005,7 +1096,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.969
+        "score": 0.9307
       },
       {
         "id": "4969ae9ba547a0e3",
@@ -1020,7 +1111,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2508
+        "score": 1.2014
       },
       {
         "id": "f35b7f9e8a4958dc",
@@ -1033,7 +1124,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7052
+        "score": 0.6773
       },
       {
         "id": "de07d6ab6f6d0eea",
@@ -1046,7 +1137,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7557
+        "score": 0.7259
       },
       {
         "id": "43adee87421a424f",
@@ -1064,7 +1155,23 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2991
+        "score": 1.2478
+      },
+      {
+        "id": "820d9205d7b4332a",
+        "title": "Git for the US Code",
+        "url": "https://lexifina.com/blog/git-for-the-us-code",
+        "source": "Hacker News",
+        "lane": "innovation",
+        "published_ts": 1793152070000,
+        "summary": "",
+        "tags": [
+          "hn",
+          "points:158"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2084
       },
       {
         "id": "fa6a046fc425fab2",
@@ -1080,7 +1187,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2581
+        "score": 1.2084
       },
       {
         "id": "8beb0548bd891d78",
@@ -1095,7 +1202,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2191
+        "score": 1.1709
       },
       {
         "id": "eee2bba9d0f2c3a0",
@@ -1108,7 +1215,22 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6807
+        "score": 0.6539
+      },
+      {
+        "id": "9aacd0f882e84cb3",
+        "title": "Silicon Valley parents want the tech they help build out of their children’s schools | California",
+        "url": "https://www.reddit.com/r/technology/comments/1xha7qr/silicon_valley_parents_want_the_tech_they_help/",
+        "source": "Reddit r/technology",
+        "lane": "innovation",
+        "published_ts": 1793148715000,
+        "summary": "submitted by /u/ocularius61 [link] [comments]",
+        "tags": [
+          "technology"
+        ],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.633
       },
       {
         "id": "e01e70608edcb4cf",
@@ -1121,7 +1243,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6645
+        "score": 0.6383
       },
       {
         "id": "f8620905298055e9",
@@ -1136,7 +1258,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6415
+        "score": 0.6161
       },
       {
         "id": "eac37dce749895a0",
@@ -1151,7 +1273,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.637
+        "score": 0.6118
       },
       {
         "id": "cd7ece14a6f3173b",
@@ -1171,7 +1293,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2262
+        "score": 1.1778
       },
       {
         "id": "f67d7bda4b944e0e",
@@ -1186,7 +1308,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6334
+        "score": 0.6084
       },
       {
         "id": "dc404805582fea17",
@@ -1202,7 +1324,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1812
+        "score": 1.1345
       },
       {
         "id": "c3f5824fc30d87df",
@@ -1215,7 +1337,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6479
+        "score": 0.6223
       },
       {
         "id": "b33d307fa37c4e00",
@@ -1230,7 +1352,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7378
+        "score": 0.7087
       },
       {
         "id": "a93b73820d051e13",
@@ -1245,7 +1367,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.147
+        "score": 1.1017
       },
       {
         "id": "8e553222acbdd0f6",
@@ -1263,7 +1385,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6701
+        "score": 0.6437
       },
       {
         "id": "5e48b73f898eb2a3",
@@ -1278,7 +1400,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6268
+        "score": 0.6021
       },
       {
         "id": "6303595c491b8100",
@@ -1291,7 +1413,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6436
+        "score": 0.6181
       },
       {
         "id": "19fcde5e2bf9f74f",
@@ -1306,7 +1428,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.136
+        "score": 1.0912
       },
       {
         "id": "236be3478e6a0a66",
@@ -1321,7 +1443,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1694
+        "score": 1.1232
       },
       {
         "id": "42a138a86dc653a0",
@@ -1339,7 +1461,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7168
+        "score": 0.6885
       },
       {
         "id": "b0204ea910e3b935",
@@ -1352,7 +1474,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.1891
+        "score": 1.1422
       },
       {
         "id": "f421b00815124b86",
@@ -1369,7 +1491,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6585
+        "score": 0.6325
       },
       {
         "id": "99251208eac6b4ab",
@@ -1382,7 +1504,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6264
+        "score": 0.6016
       },
       {
         "id": "78050750192ed3a6",
@@ -1401,7 +1523,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6477
+        "score": 0.6222
       },
       {
         "id": "da68fb9538859952",
@@ -1418,7 +1540,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6752
+        "score": 0.6486
       },
       {
         "id": "3c7f420ce694e7be",
@@ -1433,7 +1555,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0931
+        "score": 1.0499
       },
       {
         "id": "89699c73ca51a209",
@@ -1449,7 +1571,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9838
+        "score": 0.9449
       },
       {
         "id": "8833110ecb91b5df",
@@ -1465,7 +1587,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1235
+        "score": 1.0792
       },
       {
         "id": "f359d318af45db61",
@@ -1480,7 +1602,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5986
+        "score": 0.575
       },
       {
         "id": "06820f61c7bd5c34",
@@ -1495,7 +1617,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8707
+        "score": 0.8363
       },
       {
         "id": "b239d1a01228376d",
@@ -1513,7 +1635,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6626
+        "score": 0.6364
       },
       {
         "id": "07617c65f8241de4",
@@ -1528,7 +1650,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5936
+        "score": 0.5702
       },
       {
         "id": "fed129ffa2174cd1",
@@ -1543,7 +1665,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.592
+        "score": 0.5686
       },
       {
         "id": "dae350c5b5e96552",
@@ -1560,7 +1682,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.656
+        "score": 0.6301
       },
       {
         "id": "6c298d54e2a811fa",
@@ -1575,7 +1697,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.192
+        "score": 1.145
       },
       {
         "id": "3d54b86ca575280e",
@@ -1590,7 +1712,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5867
+        "score": 0.5635
       },
       {
         "id": "4cb574baa435fc0b",
@@ -1609,7 +1731,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9604
+        "score": 0.9224
       },
       {
         "id": "10b091f4debd11fa",
@@ -1626,7 +1748,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0982
+        "score": 1.0548
       },
       {
         "id": "14d2e2ec09cb2811",
@@ -1641,7 +1763,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.062
+        "score": 1.02
       },
       {
         "id": "2ae168c5cf683885",
@@ -1654,7 +1776,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.1136
+        "score": 1.0696
       },
       {
         "id": "6178bd7fefa131c1",
@@ -1669,7 +1791,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1645
+        "score": 1.1185
       },
       {
         "id": "616fac327a2df5a2",
@@ -1685,7 +1807,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7967
+        "score": 0.7652
       },
       {
         "id": "bab4dfb2459cd2b3",
@@ -1698,7 +1820,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6297
+        "score": 0.6048
       },
       {
         "id": "21a4e89d7702af74",
@@ -1713,7 +1835,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0621
+        "score": 1.0201
       },
       {
         "id": "d4e79fae129dd282",
@@ -1728,7 +1850,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0621
+        "score": 1.0201
       },
       {
         "id": "a857fa3b08330b15",
@@ -1744,7 +1866,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0591
+        "score": 1.0173
       },
       {
         "id": "857dccb0e57cbad9",
@@ -1759,7 +1881,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5622
+        "score": 0.54
       },
       {
         "id": "5de56e5522580c47",
@@ -1777,140 +1899,235 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7815
-      },
-      {
-        "id": "98a1ff88cef157fd",
-        "title": "Classification of Finite Simple Groups Formalized in Lean",
-        "url": "https://cfsg.axiommath.ai/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1793118542000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:155"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0515
-      },
-      {
-        "id": "c5cb272ffc626d7b",
-        "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-        "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-        "source": "Ars Technica AI",
-        "lane": "innovation",
-        "published_ts": 1793117878000,
-        "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-        "tags": [
-          "cars",
-          "ford fathom"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0778
-      },
-      {
-        "id": "7630d3fb498669db",
-        "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
-        "url": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
-        "source": "The Register",
-        "lane": "innovation",
-        "published_ts": 1793117700000,
-        "summary": "University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases",
-        "tags": [
-          "cyber-crime"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0468
-      },
-      {
-        "id": "b0f012a70f51687d",
-        "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-        "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-        "source": "IEEE Spectrum",
-        "lane": "innovation",
-        "published_ts": 1793117679000,
-        "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position estimate, or a stop signal.But what happens when one of those inputs is wrong, and the robot still respo",
-        "tags": [
-          "humanoid-robots",
-          "type-sponsored",
-          "cybersecurity",
-          "physical-ai",
-          "robot-safety",
-          "ai-robots"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1843
-      },
-      {
-        "id": "e85e461fadadf589",
-        "title": "New 14‑inch MacBook Pro with M6",
-        "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-        "source": "Hacker News",
-        "lane": "innovation",
-        "published_ts": 1793117312000,
-        "summary": "",
-        "tags": [
-          "hn",
-          "points:172"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0447
-      },
-      {
-        "id": "8d43e332dd807732",
-        "title": "These cheap Ryobi tools have no business being this useful",
-        "url": "https://www.makeuseof.com/cheap-ryobi-tools-super-useful/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1793116877000,
-        "summary": "These Ryobi power tools surprised me at how useful they are around the house and in DIY projects.",
-        "tags": [
-          "home",
-          "power tools"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.7742
-      },
-      {
-        "id": "944305d79991ec8d",
-        "title": "Windows has two settings that bring your work back after a restart, and both are off by default",
-        "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-        "source": "MakeUseOf",
-        "lane": "innovation",
-        "published_ts": 1793115917000,
-        "summary": "Windows could remember my sessions all along, two settings were just off.",
-        "tags": [
-          "windows",
-          "windows tips"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6162
-      },
-      {
-        "id": "7314c440369be117",
-        "title": "Earth may have formed much of its water as the planet grew",
-        "url": "https://phys.org/news/2026-10-earth-planet-grew.html",
-        "source": "Phys.org",
-        "lane": "innovation",
-        "published_ts": 1793115601000,
-        "summary": "Earth may have produced much of its water during the planet's formation, as rocky pebbles reacted with the hydrogen-rich atmosphere surrounding the young planet, according to new research published in Nature Geoscience. The findings offer a potential explanation for how Earth acquired one of the essential ingredients for life and suggest that similar water-producing processes could be common on ro",
-        "tags": [
-          "astrobiology"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0056
+        "score": 0.7506
       }
     ],
     "ai": [
+      {
+        "id": "9c20970a734208d6",
+        "title": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers as AI demand increasingly eats up production capacity (Nikkei Asia)",
+        "url": "https://www.techmeme.com/261028/p6#a261028p6",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1793166001000,
+        "summary": "Nikkei Asia: Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers as AI demand increasingly eats up production capacity — TAIPEI — As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.7713
+      },
+      {
+        "id": "7aa64bc36af4b35d",
+        "title": "Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it (Wall Street Journal)",
+        "url": "https://www.techmeme.com/261028/p2#a261028p2",
+        "source": "Techmeme",
+        "lane": "ai",
+        "published_ts": 1793160947000,
+        "summary": "Wall Street Journal: Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it — The company's estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX's enormous figure from earlier this year",
+        "tags": [],
+        "paywall": false,
+        "impact": "normal",
+        "score": 0.6951
+      },
+      {
+        "id": "f57614a0f0847964",
+        "title": "Counting the Bandages: On measuring the time that AI saves",
+        "url": "https://arxiv.org/abs/2610.35942",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, ti",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "b47897497da7eae0",
+        "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+        "url": "https://arxiv.org/abs/2610.36116",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collecti",
+        "tags": [
+          "cs.ai",
+          "cs.cy"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "424913b14482a645",
+        "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+        "url": "https://arxiv.org/abs/2610.36188",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance. However, repository-specific skills must evolve with changing code structures, implementation conventions, and maintenance requirements. Pull requests (PRs) provide",
+        "tags": [
+          "cs.ai",
+          "cs.se"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "3b541b2be728a985",
+        "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+        "url": "https://arxiv.org/abs/2610.36298",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the decision behavior of a target through black-box queries alone, without access to ",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "ecaf491d190b2f84",
+        "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+        "url": "https://arxiv.org/abs/2610.36341",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program. Here we report on the reanimation of two such programs that offer two seemingly different theories of programming and were developed for quite different purposes. The first, Herbert Simon's Heuristic Compiler",
+        "tags": [
+          "cs.ai",
+          "cs.hc",
+          "cs.pl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "50a74ff628530d0d",
+        "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+        "url": "https://arxiv.org/abs/2610.36484",
+        "source": "arXiv cs.AI",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36484v1 Announce Type: new Abstract: Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like da",
+        "tags": [
+          "cs.ai",
+          "cs.cy",
+          "cs.hc",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "89685b65613c453d",
+        "title": "Individual Fairness via Local Predictive Consistency",
+        "url": "https://arxiv.org/abs/2610.33285",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33285v1 Announce Type: new Abstract: Individual fairness in machine learning requires that similar individuals receive similar predictions. Most existing definitions are pairwise in nature, imposing a Lipschitz constraint that must hold either globally across all pairs of data instances or locally within specified neighborhoods. In practice, however, such pairwise constraints may be ove",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "863c74948f0cdf4b",
+        "title": "Multiple Importance Sampling for Guided Speculative Inference",
+        "url": "https://arxiv.org/abs/2610.33368",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33368v1 Announce Type: new Abstract: We study an extension of the Guided Speculative Inference (GSI) algorithm for test-time-scaling of large language models (LLMs) to a novel setting where an ensemble of smaller LLMs proposes draft reasoning steps which are later verified by a larger base model and a process reward model. Using the established framework of multiple importance sampling ",
+        "tags": [
+          "cs.lg",
+          "cs.it",
+          "math.it"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "742362bff289434a",
+        "title": "Faithful Federated Tabular Data Synthesis",
+        "url": "https://arxiv.org/abs/2610.33403",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33403v1 Announce Type: new Abstract: Synthetic data is an important data source in the AI era. This paper studies the generation of mixed-type tabular synthetic data in federated settings, where two key challenges arise: ensuring distributional fidelity and effectively handling mixed-type data. We propose Federated Integrative Two-Step Synthesis (FITS), a framework for mixed-type tabula",
+        "tags": [
+          "cs.lg",
+          "math.st",
+          "stat.me",
+          "stat.ml",
+          "stat.th"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "26285b4d7944cf46",
+        "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
+        "url": "https://arxiv.org/abs/2610.33024",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33024v1 Announce Type: new Abstract: Harness self-evolution offers a practical route for LLM agents to improve from execution experience without updating model parameters. Its effectiveness depends on whether models can successfully act on the guidance provided by their harnesses. However, we find that harness benefits are not uniform across model capabilities: skills that improve stron",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
+      {
+        "id": "a52ea4893b459157",
+        "title": "Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures",
+        "url": "https://arxiv.org/abs/2610.33025",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33025v1 Announce Type: new Abstract: Letting a language model take gradient steps on the text it is reading, known as dynamic evaluation, lowers its loss on the rest of the document. Its behaviour on hybrid linear-attention architectures, on diffusion language models, and on standard long-context benchmarks has not been measured. We measure it. With one SGD step per 128-token chunk on t",
+        "tags": [
+          "cs.lg",
+          "cs.cl"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
+      {
+        "id": "673e6c1fbf950b5d",
+        "title": "Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?",
+        "url": "https://arxiv.org/abs/2610.33029",
+        "source": "arXiv cs.LG",
+        "lane": "ai",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33029v1 Announce Type: new Abstract: Self-improving agents write lessons from the outcomes of their runs; when outcomes are noisy, a lesson can carry chance into later decisions. We measure one link of this chain in a registered study. In 256 synthetic worlds, each a recurring task with two interchangeable tools of recorded reliability, a scripted previous run used the more reliable too",
+        "tags": [
+          "cs.lg",
+          "cs.ai",
+          "cs.cl",
+          "cs.ir"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
       {
         "id": "63bead84a50224ef",
         "title": "Apple is making Creator Studio an even better deal with new AI features and creative tools",
@@ -1928,7 +2145,22 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1366
+        "score": 1.0917
+      },
+      {
+        "id": "e44a15c334760292",
+        "title": "AI slows growth for Infosys and keeps it afloat at the same time",
+        "url": "https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879",
+        "source": "The Register",
+        "lane": "ai",
+        "published_ts": 1793153882000,
+        "summary": "Predicts slower growth as savings from automation hit price of extended deals",
+        "tags": [
+          "channel"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3178
       },
       {
         "id": "683e08fa0fc42213",
@@ -1944,7 +2176,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.106
+        "score": 1.0623
       },
       {
         "id": "7126ac8215969217",
@@ -1957,7 +2189,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9311
+        "score": 0.8943
       },
       {
         "id": "c8687e8c9097ff35",
@@ -1972,7 +2204,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8988
+        "score": 0.8633
       },
       {
         "id": "13dcd61535103e02",
@@ -1992,7 +2224,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7096
+        "score": 0.6816
       },
       {
         "id": "8492768b4feb1038",
@@ -2005,7 +2237,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9045
+        "score": 0.8688
       },
       {
         "id": "3f2748f3c52102d4",
@@ -2018,7 +2250,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.667
+        "score": 0.6407
       },
       {
         "id": "f33f777c49b84128",
@@ -2036,7 +2268,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6869
+        "score": 0.6598
       },
       {
         "id": "8312cee4e3dbf0d9",
@@ -2049,7 +2281,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.7108
+        "score": 0.6828
       },
       {
         "id": "5471085fcfe5bb62",
@@ -2064,7 +2296,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2327
+        "score": 1.184
       },
       {
         "id": "e9ab545918142164",
@@ -2079,7 +2311,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6876
+        "score": 0.6605
       },
       {
         "id": "4ae07ceb2a27d652",
@@ -2094,7 +2326,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1581
+        "score": 1.1124
       },
       {
         "id": "36e3bc3cac8892fa",
@@ -2112,7 +2344,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9159
+        "score": 0.8797
       },
       {
         "id": "3f4d70b03a378e20",
@@ -2131,7 +2363,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2174
+        "score": 1.1693
       },
       {
         "id": "3ce57d283884d308",
@@ -2146,7 +2378,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2387
+        "score": 1.1898
       },
       {
         "id": "e9f6c2e63945a0b9",
@@ -2161,7 +2393,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.684
+        "score": 0.657
       },
       {
         "id": "dd2bc9ead736c83c",
@@ -2180,7 +2412,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9072
+        "score": 0.8714
       },
       {
         "id": "75dd62cadf4df65e",
@@ -2196,7 +2428,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1783
+        "score": 1.1318
       },
       {
         "id": "94d2a1c1dd14d3d6",
@@ -2216,7 +2448,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1218
+        "score": 1.0775
       },
       {
         "id": "f615da492d70b879",
@@ -2229,7 +2461,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.3072
+        "score": 1.2556
       },
       {
         "id": "dab8f0b65017a9ea",
@@ -2242,7 +2474,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 1.299
+        "score": 1.2478
       },
       {
         "id": "c0fa07100fce4a36",
@@ -2260,7 +2492,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.199
+        "score": 1.1516
       },
       {
         "id": "fbadaad04d07a175",
@@ -2275,7 +2507,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2229
+        "score": 1.1746
       },
       {
         "id": "0a94a7bf47072d38",
@@ -2288,7 +2520,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6896
+        "score": 0.6624
       },
       {
         "id": "672a926d80ac68e3",
@@ -2308,7 +2540,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8952
+        "score": 0.8599
       },
       {
         "id": "d138415019564e33",
@@ -2325,7 +2557,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6618
+        "score": 0.6357
       },
       {
         "id": "14f141d382f44e71",
@@ -2344,7 +2576,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1917
+        "score": 1.1447
       },
       {
         "id": "f7d1dc42c980b978",
@@ -2359,7 +2591,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9746
+        "score": 0.9361
       },
       {
         "id": "9adcae34f4663bc3",
@@ -2374,7 +2606,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6675
+        "score": 0.6411
       },
       {
         "id": "bc634c1e5c659ef4",
@@ -2390,7 +2622,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1437
+        "score": 1.0985
       },
       {
         "id": "c2b91e6d470b5487",
@@ -2407,7 +2639,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6897
+        "score": 0.6625
       },
       {
         "id": "07633e394a45d172",
@@ -2427,7 +2659,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0806
+        "score": 1.0379
       },
       {
         "id": "a7d9a1f0ba7be0b4",
@@ -2442,7 +2674,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2232
+        "score": 1.1749
       },
       {
         "id": "62071e5c01015f7d",
@@ -2457,7 +2689,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1882
+        "score": 1.1413
       },
       {
         "id": "196ac9d8e9c51cad",
@@ -2473,7 +2705,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1027
+        "score": 1.0592
       },
       {
         "id": "5a192fce55821670",
@@ -2489,7 +2721,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2133
+        "score": 1.1654
       },
       {
         "id": "2516e26db9baa3b6",
@@ -2504,7 +2736,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9475
+        "score": 0.9101
       },
       {
         "id": "5d7b56f21d612d56",
@@ -2519,7 +2751,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5986
+        "score": 0.575
       },
       {
         "id": "571fcd48aebb6a1c",
@@ -2535,7 +2767,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0687
+        "score": 1.0265
       },
       {
         "id": "fe3c6eadac5ff156",
@@ -2550,7 +2782,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1141
+        "score": 1.0701
       },
       {
         "id": "ed52917e11ca0758",
@@ -2563,7 +2795,7 @@
         "tags": [],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6572
+        "score": 0.6312
       },
       {
         "id": "8a44b8b71c52a1a8",
@@ -2578,7 +2810,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1963
+        "score": 1.149
       },
       {
         "id": "ba1e96dbe18889a8",
@@ -2598,7 +2830,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9665
+        "score": 0.9284
       },
       {
         "id": "41de0dd5ebd957e2",
@@ -2613,252 +2845,101 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.6366
-      },
-      {
-        "id": "89dd1e6590647e09",
-        "title": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages",
-        "url": "https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1793127608000,
-        "summary": "submitted by /u/Malor777 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6358
-      },
-      {
-        "id": "b0c67c097e3af387",
-        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-        "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1793127335000,
-        "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-        "tags": [
-          "startups",
-          "venture",
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6784
-      },
-      {
-        "id": "3e3c943d566f701b",
-        "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-        "url": "https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/",
-        "source": "Reddit r/technology",
-        "lane": "ai",
-        "published_ts": 1793126798000,
-        "summary": "submitted by /u/MoneyLibrarian9032 [link] [comments]",
-        "tags": [
-          "technology"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.633
-      },
-      {
-        "id": "2ff242a3fc10474d",
-        "title": "Last Week’s Critical PHP Warning Was the Tip of the Web Vulnerability Iceberg",
-        "url": "https://www.cnet.com/tech/services-and-software/php-warning-web-vulnerability/",
-        "source": "CNET",
-        "lane": "ai",
-        "published_ts": 1793126370000,
-        "summary": "AI is finding new holes in the infrastructure of the internet. Is anyone around to patch them?",
-        "tags": [
-          "cybersecurity"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9248
-      },
-      {
-        "id": "9e4c167ba9f1537e",
-        "title": "This old Nokia phone got an AI Upgrade it was never designed for",
-        "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
-        "source": "Engadget",
-        "lane": "ai",
-        "published_ts": 1793125800000,
-        "summary": "The GOAT of dumb phones gets a new lease on life.",
-        "tags": [
-          "ai"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6333
-      },
-      {
-        "id": "8af0e7d05dd6fa15",
-        "title": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle (Financial Times)",
-        "url": "https://www.techmeme.com/261027/p26#a261027p26",
-        "source": "Techmeme",
-        "lane": "ai",
-        "published_ts": 1793124603000,
-        "summary": "Financial Times: GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle — Move marks another blow for Big Board as tech-focused rival attracts some of world's most valuable companies",
-        "tags": [],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6435
-      },
-      {
-        "id": "122e85ffc7731382",
-        "title": "Warner Bros. drops final trailer for Dune: Part Three",
-        "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-        "source": "Ars Technica AI",
-        "lane": "ai",
-        "published_ts": 1793124355000,
-        "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-        "tags": [
-          "culture",
-          "denis villeneuve",
-          "dune: part 3",
-          "entertainment",
-          "frank herbert",
-          "trailers"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.0331
-      },
-      {
-        "id": "f3979e8e3f1121e1",
-        "title": "Anthropic says it will be burning lots of natural gas to feed the AI boom",
-        "url": "https://www.techradar.com/pro/anthropic-says-it-will-be-burning-lots-of-natural-gas-to-feed-the-ai-boom",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1793124300000,
-        "summary": "Anthropic is stuck with the rising costs associated fossil fuels and climate change.",
-        "tags": [
-          "pro",
-          "ai platforms & assistants",
-          "claude"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.9481
-      },
-      {
-        "id": "b7dff830f0ccd93f",
-        "title": "AI use insidiously undermines professionals' skills",
-        "url": "https://phys.org/news/2026-10-ai-insidiously-undermines-professionals-skills.html",
-        "source": "Phys.org",
-        "lane": "ai",
-        "published_ts": 1793122801000,
-        "summary": "Artificial intelligence has taken over the role of assistant in many professional fields. Doctors, researchers and software developers rely on it in their work. At worst, this results in a phenomenon described by researchers as deskilling: people's professional skills deteriorate as they outsource their tasks to AI.",
-        "tags": [
-          "economics & business"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1286
-      },
-      {
-        "id": "42eee5d7c2652ebf",
-        "title": "VisionQuest is what happens when AI really goes rogue",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1793122200000,
-        "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "comics",
-          "disney",
-          "entertainment",
-          "marvel"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.8735
-      },
-      {
-        "id": "10137d186aee11ed",
-        "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
-        "url": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
-        "source": "The Register",
-        "lane": "ai",
-        "published_ts": 1793122140000,
-        "summary": "Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform",
-        "tags": [
-          "legal"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 1.1577
-      },
-      {
-        "id": "d4fcf0f8aff719a2",
-        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-        "source": "TechCrunch",
-        "lane": "ai",
-        "published_ts": 1793120888000,
-        "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-        "tags": [
-          "ai",
-          "exclusive"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6554
-      },
-      {
-        "id": "a105140ebbc85aa2",
-        "title": "'This is a wow moment': T-Mobile has made the world's first AI-RAN call, and it could mean huge changes for the next generation of staying in touch",
-        "url": "https://www.techradar.com/pro/phone-communications/this-is-a-wow-moment-t-mobile-has-made-the-worlds-first-ai-ran-call-and-it-could-mean-huge-changes-for-the-next-generation-of-staying-in-touch",
-        "source": "TechRadar",
-        "lane": "ai",
-        "published_ts": 1793120700000,
-        "summary": "T-Mobile just announced what it calls the world's first AI-RAN call, but the AI component will arrive in the next phase.",
-        "tags": [
-          "phone & communications",
-          "pro"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.93
-      },
-      {
-        "id": "e6987ce3f580c394",
-        "title": "What Anthropic’s AI-worm warning means for smart home devices",
-        "url": "https://www.makeuseof.com/what-anthropics-ai-worm-warning-means-for-smart-home-devices/",
-        "source": "MakeUseOf",
-        "lane": "ai",
-        "published_ts": 1793120417000,
-        "summary": "Make sure you understand how your smart home is set up.",
-        "tags": [
-          "smart home"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6817
-      },
-      {
-        "id": "75d4c70231d05f1d",
-        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "source": "The Verge",
-        "lane": "ai",
-        "published_ts": 1793119882000,
-        "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
-        "tags": [
-          "ai",
-          "anthropic",
-          "policy",
-          "report"
-        ],
-        "paywall": false,
-        "impact": "normal",
-        "score": 0.6902
+        "score": 0.6115
       }
     ],
     "science": [
+      {
+        "id": "6d410d0956c60883",
+        "title": "Physics Informed Neural Networks for Solving the Drift-Diffusion Equations",
+        "url": "https://arxiv.org/abs/2610.33133",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33133v1 Announce Type: new Abstract: The drift-diffusion equations are the fundamental building block for the modeling, design, and optimization of modern semiconductor devices. Solutions of the drift-diffusion equations rarely give way to analytical forms, and exhibit strong nonlinearity, with the solutions ranging over several orders of magnitude. These attributes have led to research",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "70eb26d9c9f52b43",
+        "title": "Neural-DISCO: Source-Conditioned Counterfactual Editing of Neural Population Activity",
+        "url": "https://arxiv.org/abs/2610.33145",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33145v1 Announce Type: new Abstract: Understanding how neural activity encodes behavioral and sensory variables is a key challenge in systems neuroscience. This requires models that go beyond predicting activity from labels and instead support source-conditioned counterfactual editing: given a recorded source response, we should be able to edit one measured behavioral or stimulus label ",
+        "tags": [
+          "cs.lg",
+          "q-bio.nc"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "2cb19d75dff92cab",
+        "title": "Tree Depth and Sample-Quality-Associated Features: Two Hidden Factors in Boruta Selection for RNA-Seq Data Classification",
+        "url": "https://arxiv.org/abs/2610.33307",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33307v2 Announce Type: new Abstract: Boruta is a widely used method for selecting gene panels from RNA sequencing data, and its most used implementation recommends Random Forest trees of depth 3 to 7, an untested setting. We tested whether this setting changes which genes are selected, using pan-cancer data from The Cancer Genome Atlas (10,469 tumors, 33 cancer types) and breast cancer ",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.3616
+      },
+      {
+        "id": "3824ce05d60f4790",
+        "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
+        "url": "https://arxiv.org/abs/2610.36183",
+        "source": "arXiv cs.AI",
+        "lane": "science",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic state, estimated as the lower envelope of observed locomotion times. Rather than modeling space ownership through position density estimation or closed-form physics-based models, we cast TTA as",
+        "tags": [
+          "cs.ai"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
+      {
+        "id": "f5a5b749fae20a28",
+        "title": "RadonBench: A Benchmark of Classical and Learning-Guided Search Techniques for Problems in Combinatorial Geometry",
+        "url": "https://arxiv.org/abs/2610.33259",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33259v1 Announce Type: new Abstract: Classical optimization and learning-guided search offer complementary approaches to open problems in discrete mathematics, but their outputs are difficult to compare when search spaces, validity checks, and stopping rules differ. We present \\emph{RadonBench}, a benchmark for constructing maximum-cardinality Radon-free lattice configurations: finite s",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
+      {
+        "id": "0bb1bc36dc32056e",
+        "title": "Climate downscaling with likelihood functional flow matching",
+        "url": "https://arxiv.org/abs/2610.33482",
+        "source": "arXiv cs.LG",
+        "lane": "science",
+        "published_ts": 1793160000000,
+        "summary": "arXiv:2610.33482v2 Announce Type: new Abstract: Decisions about heat, frost and flooding are made locally, yet reanalyses and climate models resolve tens of kilometres. Generative downscalers add kilometre-scale detail with uncertainty, but are tied to a grid, costly to sample and lack a tractable likelihood. Here we introduce CD-FFM, a functional flow-matching model that treats the high-resolutio",
+        "tags": [
+          "cs.lg"
+        ],
+        "paywall": false,
+        "impact": "high",
+        "score": 1.2608
+      },
       {
         "id": "f507fc481cb21dac",
         "title": "Greenhouse Gas Levels Set Records In 2025, UN Says",
@@ -2872,7 +2953,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.3
+        "score": 1.2487
       },
       {
         "id": "48fc65b01f9f7a3b",
@@ -2887,7 +2968,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9522
+        "score": 0.9147
       },
       {
         "id": "bf7d770ffe718fd8",
@@ -2902,7 +2983,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.2348
+        "score": 1.1861
       },
       {
         "id": "43a3e8043f02e400",
@@ -2922,7 +3003,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1154
+        "score": 1.0714
       },
       {
         "id": "007bde6c12ab1523",
@@ -2937,7 +3018,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.219
+        "score": 1.1709
       },
       {
         "id": "a6dd1cb271fb70c1",
@@ -2957,7 +3038,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1576
+        "score": 1.1119
       },
       {
         "id": "9ef166787500081c",
@@ -2977,7 +3058,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1313
+        "score": 1.0867
       },
       {
         "id": "050220d7dd433abf",
@@ -2992,7 +3073,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1507
+        "score": 1.1052
       },
       {
         "id": "bbbc7419553caf9d",
@@ -3007,7 +3088,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1433
+        "score": 1.0981
       },
       {
         "id": "cece23d180f1df1f",
@@ -3022,7 +3103,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1287
+        "score": 1.0841
       },
       {
         "id": "fedbcda326bfdea6",
@@ -3037,7 +3118,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.1214
+        "score": 1.0772
       },
       {
         "id": "649ee8db8cf2a8ad",
@@ -3057,7 +3138,7 @@
         ],
         "paywall": false,
         "impact": "normal",
-        "score": 0.5997
+        "score": 0.576
       },
       {
         "id": "f2b5e74ef8cae2d2",
@@ -3072,7 +3153,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0297
+        "score": 0.9891
       },
       {
         "id": "c82b4c288d294ded",
@@ -3087,7 +3168,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0317
+        "score": 0.9909
       },
       {
         "id": "48f5e5fbdc5a425f",
@@ -3102,7 +3183,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6536
+        "score": 0.6278
       },
       {
         "id": "701421d1548ecf61",
@@ -3117,7 +3198,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 1.0251
+        "score": 0.9846
       },
       {
         "id": "60c444c960f2cb6e",
@@ -3132,7 +3213,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.698
+        "score": 0.6705
       },
       {
         "id": "ec62fa7a75880327",
@@ -3147,7 +3228,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.9991
+        "score": 0.9596
       },
       {
         "id": "258cd5622aa6eb2e",
@@ -3160,7 +3241,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.9431
+        "score": 0.9059
       },
       {
         "id": "355e60a9831335dd",
@@ -3176,7 +3257,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8954
+        "score": 0.86
       },
       {
         "id": "0cf0ee4617e6efac",
@@ -3192,7 +3273,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6023
+        "score": 0.5785
       },
       {
         "id": "6373ae94723aa02b",
@@ -3207,7 +3288,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.876
+        "score": 0.8415
       },
       {
         "id": "f2f6d76082860926",
@@ -3226,7 +3307,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.893
+        "score": 0.8578
       },
       {
         "id": "ce811a8fb010aa74",
@@ -3242,7 +3323,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.893
+        "score": 0.8578
       },
       {
         "id": "a8f8828734d6de63",
@@ -3257,7 +3338,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.893
+        "score": 0.8578
       },
       {
         "id": "28c35f2d6c0e4f23",
@@ -3273,7 +3354,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8269
+        "score": 0.7942
       },
       {
         "id": "60de2a8ee70830a6",
@@ -3289,7 +3370,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8269
+        "score": 0.7942
       },
       {
         "id": "3c6b00e33c3db6ce",
@@ -3307,7 +3388,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8269
+        "score": 0.7942
       },
       {
         "id": "05b13a18b9b69bca",
@@ -3322,7 +3403,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.8845
+        "score": 0.8495
       },
       {
         "id": "c677419081b3d4a3",
@@ -3335,7 +3416,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "da77f80e2ed6a928",
@@ -3348,7 +3429,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "99aba001ada4e046",
@@ -3361,7 +3442,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "807571abc50e33e8",
@@ -3374,7 +3455,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "d66638ae165b52e3",
@@ -3387,7 +3468,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "410aae40da19d721",
@@ -3400,7 +3481,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "c49fd7d86b051d28",
@@ -3413,7 +3494,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "485132085d2a3a70",
@@ -3426,7 +3507,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "e0b88f806dead059",
@@ -3439,7 +3520,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.8385
+        "score": 0.8054
       },
       {
         "id": "ce7ebdd8129242f5",
@@ -3454,7 +3535,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7904
+        "score": 0.7592
       },
       {
         "id": "3e4fb3460e7b4506",
@@ -3467,7 +3548,7 @@
         "tags": [],
         "paywall": false,
         "impact": "high",
-        "score": 0.5447
+        "score": 0.5232
       },
       {
         "id": "83a5403f03711b38",
@@ -3482,7 +3563,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7485
+        "score": 0.7189
       },
       {
         "id": "ffeeba0eabd9d31d",
@@ -3498,7 +3579,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7602
+        "score": 0.7301
       },
       {
         "id": "ddfa6df2e826ac45",
@@ -3513,7 +3594,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7342
+        "score": 0.7052
       },
       {
         "id": "d469630c6482f5e4",
@@ -3530,7 +3611,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5349
+        "score": 0.5138
       },
       {
         "id": "a3694d1f3a7a09a9",
@@ -3545,7 +3626,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.702
+        "score": 0.6743
       },
       {
         "id": "8188e4aefd189798",
@@ -3560,7 +3641,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6754
+        "score": 0.6488
       },
       {
         "id": "e22c2b8629721df0",
@@ -3575,7 +3656,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.7038
+        "score": 0.6761
       },
       {
         "id": "026cd81cda7276d4",
@@ -3590,7 +3671,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6685
+        "score": 0.6421
       },
       {
         "id": "703fd6a3312b46d8",
@@ -3605,7 +3686,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5999
+        "score": 0.5763
       },
       {
         "id": "16d77a6112b3d078",
@@ -3620,7 +3701,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6583
+        "score": 0.6323
       },
       {
         "id": "1e3e153bd7bd4dd4",
@@ -3635,7 +3716,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6499
+        "score": 0.6242
       },
       {
         "id": "b1cf640b4dda462f",
@@ -3651,7 +3732,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5722
+        "score": 0.5496
       },
       {
         "id": "3fd7fa0af8b4d050",
@@ -3666,7 +3747,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.6243
+        "score": 0.5997
       },
       {
         "id": "36c5e0f3d1ba0053",
@@ -3681,95 +3762,7 @@
         ],
         "paywall": false,
         "impact": "high",
-        "score": 0.5112
-      },
-      {
-        "id": "2cbb784c93ec6afa",
-        "title": "Amazon Deforestation Fell To Lowest Level Since 1988 - And Silva Wins Reelection",
-        "url": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "source": "Slashdot",
-        "lane": "science",
-        "published_ts": 1793000040000,
-        "summary": "Brazil's 80-year-old president Luiz Inácio Lula da Silva was re-elected Sunday, reports the Guardian, \"defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.\" And the results could impact the climate, suggests the Associated Press, since under da Silva the annual deforestation rate in the Amazon fell to its lowest level since records began in 1988: Official s",
-        "tags": [
-          "earth"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5579
-      },
-      {
-        "id": "0e79dbe47109ab43",
-        "title": "Work to protect DNS from quantum decryption attacks is speeding up",
-        "url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
-        "source": "The Register",
-        "lane": "science",
-        "published_ts": 1792987703000,
-        "summary": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers",
-        "tags": [
-          "networks"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5641
-      },
-      {
-        "id": "eb63aac3b448c671",
-        "title": "Learning Nonlinear Waveform Fusion Across Scales for Integrated Sensing and Communication",
-        "url": "https://arxiv.org/abs/2610.32099",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1792987200000,
-        "summary": "arXiv:2610.32099v1 Announce Type: new Abstract: Fixed source superposition and frequency partitioning constrain how communication content interacts with a probing reference in integrated sensing and communication (ISAC). We learn nonlinear waveform fusion across scales for image transmission and localization of multiple targets in range and angle. Reception uses the information available at each e",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5626
-      },
-      {
-        "id": "468467bce5e30880",
-        "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
-        "url": "https://arxiv.org/abs/2610.32034",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1792987200000,
-        "summary": "arXiv:2610.32034v1 Announce Type: new Abstract: The growing population of orbital debris has intensified interest in active debris removal and on-orbit servicing, for which dual-arm space manipulators offer improved grasping stability and load distribution relative to single-arm systems. However, coordinating two manipulators under inter-arm collision avoidance, orientation alignment, and sensing ",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5209
-      },
-      {
-        "id": "a2073e4f7a9cdcff",
-        "title": "Spatial Heuristic Strategy based Diffusion Reinforcement Learning for Online 3D Bin Packing",
-        "url": "https://arxiv.org/abs/2610.32241",
-        "source": "arXiv cs.AI",
-        "lane": "science",
-        "published_ts": 1792987200000,
-        "summary": "arXiv:2610.32241v1 Announce Type: new Abstract: Traditional heuristic methods have accumulated mature experience in core objectives, such as space utilization and layout compactness of 3D bin packing, relying on artificially designed rule-based logic. However, they exhibit obvious limitations in generalization ability and adaptability to dynamic scenarios. Diffusion reinforcement learning, which i",
-        "tags": [
-          "cs.ai"
-        ],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5209
-      },
-      {
-        "id": "d7dd8ec86e9b8c24",
-        "title": "Nerve activity initiates autoimmune hair loss",
-        "url": "https://www.nature.com/articles/d41586-026-03258-x",
-        "source": "Nature",
-        "lane": "science",
-        "published_ts": 1792972800000,
-        "summary": "Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-xUnderstanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.",
-        "tags": [],
-        "paywall": false,
-        "impact": "high",
-        "score": 0.5282
+        "score": 0.491
       }
     ]
   },
